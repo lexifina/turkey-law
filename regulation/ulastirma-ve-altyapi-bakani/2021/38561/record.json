@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.38561",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HURDAYA AYRILAN TÜRK BAYRAKLI GEMİLERİN YERLERİNE YENİ GEMİ İNŞA EDİLMESİNİN TEŞVİKİNE DAİR YÖNETMELİK",
+  "number": "38561",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2021/38561",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38561&MevzuatTertip=5",
+  "source_sha256": "5a5b10700ad83af5b01a7f48a40abf334f658bdb4219b93e89f8842e79eddf61",
+  "source_bytes": 51838,
+  "published": "2021-04-28",
+  "gazette": "31468",
+  "in_force": "2026-07-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-16",
+      "RG-16/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-16",
+      "16/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-03-23",
+      "RG-23/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-23",
+      "23/3/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-18",
+      "RG-18/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-18",
+      "18/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-17",
+      "RG-17/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-17",
+      "17/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2562,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38561-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,4 @@
+Hurdaya ayrılacak gemiye ilişkin hususlar
+MADDE 7 – (1) Yeni inşa olunan geminin Milli Gemi Sicili veya Türk Uluslararası Gemi Siciline kaydının yapılmasından önce hurdaya ayrılacak geminin sicilden terkin edilerek hurdaya verildiğinin tevsiki yapılır.
+(2) Bakanlık tarafından uygun görülen ve gemi geri dönüşüm konularında faaliyet gösteren sivil toplum kuruluşlarından mücbir sebep, kapasite yetersizliği veya sipariş yoğunluğu gibi sebeplere dayalı olarak hurda teslim işleminin gerçekleştirilemediğinin tevsik olunması veya söz konusu geminin yurt dışında tutulması halinde, İdare tarafından en fazla üç aya kadar ilave süre verilir.
+(3) Hurda teşviki için başvurusu kabul edilen geminin hurdaya teslim işlemi sonuçlandırılana kadar siciline satılamaz, devredilemez, başka bayrak altında faaliyet için kiralanamaz şerhi konulur.
