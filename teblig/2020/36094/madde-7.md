@@ -1,0 +1,2 @@
+Tekstil ve Konfeksiyon İzleme Komitesi
+MADDE 7 – (1) Bu Tebliğ kapsamındaki eşyanın niteliği, menşei, değeri ve benzeri özellikleri ile ithalatının kayda alınmasına ilişkin belirlenen diğer iş ve işlemlere ilişkin Genel Müdürlüğe tavsiye ve önerilerde bulunmak üzere Tekstil ve Konfeksiyon İzleme Komitesi (Komite) oluşturulur. Komitenin üyeleri, oluşturulması, görevleri ile çalışma usul ve esasları Genel Müdürlükçe belirlenir.

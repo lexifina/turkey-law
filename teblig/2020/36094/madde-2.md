@@ -1,0 +1,3 @@
+Kayda alma
+MADDE 2 – (1) 1 inci maddede belirtilen ürünleri ithal etmek isteyen ithalatçılar, gerçekleştirecekleri ithalata ilişkin bilgileri ithalattan önce Ticaret Bakanlığı tarafından Kayıt Merkezi olarak yetkilendirilen İstanbul Tekstil ve Konfeksiyon İhracatçı Birlikleri Genel Sekreterliğine ait “ithalat.ebirlik.org” internet sitesi üzerinden kaydettirirler. İthal işleminin kayda alındığına dair elektronik ortamda bir Kayıt Belgesi düzenlenir.
+(2) (Değişik:RG-9/3/2023-32127) 1 inci maddede belirtilen ürünler, 43.03 gümrük tarife pozisyonu altında sınıflandırılan ürünler hariç olmak üzere, bir özet beyan veya TIR Karnesi ya da transit beyannamesi kapsamında brüt 25 kg veya daha az miktarda olması durumunda kayda alma uygulamasına tabi değildir.
