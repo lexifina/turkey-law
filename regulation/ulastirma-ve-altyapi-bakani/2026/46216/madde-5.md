@@ -1,0 +1,15 @@
+İKİNCİ BÖLÜM
+Özel Tekneler ve Özel Yatların Donatımı, Seyri ve Amatör Denizci Belgesinin
+Alımına İlişkin Usul ve Esaslar
+Özel tekneler ve özel yatların donatımı ve seyri
+MADDE 5- (1) Tekneye düzenlenmiş bağlama kütüğü ruhsatnamesinin veya gemi sicil tasdiknamesinin seyir esnasında teknede bulundurulması ve denetimlerde ibrazı zorunludur. Ancak bu belgeler çevrimiçi doğrulanabildiği takdirde fiziki ibrazı aranmaz.
+(2) Tam boyu 10 metreye kadar (dâhil) olan özel tekneler bölge, mesafe ve zaman sınırı olmaksızın en az ADB 10 (Ek ibare:RG-3/7/2026-33299)[1] veya gemici yeterlik belgesi sahibi bir kişinin sevk ve idaresinde seyreder.
+(3) 18 yaşından küçük ADB 10 sahibi kişiler, yanlarında bulunan en az ADB 10 sahibi bir yetişkinin gözetiminde tam boyu 10 metreye kadar (dâhil) olan özel tekneleri sevk ve idare edebilirler.
+(4) Gövde boyu 24 metreye kadar (dâhil) olan özel tekneler bölge, mesafe ve zaman sınırı olmaksızın en az ADB 24 veya usta gemici ve üstü yeterlik belgesi sahibi bir kişinin sevk ve idaresinde seyreder.
+(5) Özel yatlar, ticari yatlar gibi donatılır.
+(6) Özel tekneler, EK-1’de şekli belirtilen noter veya liman başkanlığı onaylı yetki yazısı ile sahipleri tarafından kullanma ehliyetine haiz başkalarına geçici olarak kullandırılabilir. Özel tekne sahiplerinin eşi ve çocukları için düzenlenen EK-1 yetki yazılarında noter veya liman başkanlığı onayı aranmaz. Liman başkanlığı tarafından onaylanan EK-1 yetki yazıları için 1.000 Türk lirası ücretin Bakanlık Döner Sermaye İşletme Dairesi Başkanlığı hesabına yatırılması zorunludur. Bu fıkrada belirtilen yetki yazısı ücreti, her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi uyarınca tespit ve ilan edilen yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılarak uygulanır.
+(7) Dernek veya vakıflara ait özel tekneler ancak dernek veya vakıf tarafından yetki yazısı ile yetkilendirilen üye ve sporcuları tarafından kullanılabilir.
+(8) Makine gücü on beygir gücünden düşük özel tekneleri, sadece kürekle yürütülen makinesiz tekneleri, kanolar/kayaklar ile ulusal ve uluslararası sportif amaçlı kürek sporu tekneleri ile Optimist, Laser, Fin, 420, 470, Pirat, Dragon, Wind Surf gibi yelken sporu tekneleri ve benzeri yarış sınıfı tekneleri (Ek ibare:RG-3/7/2026-33299)1 ile Gençlik ve Spor Bakanlığınca tescil edilmiş spor kulübü ve federasyonların envanterinde kayıtlı olup da münhasıran spor faaliyetleri için kullanılan gemi, deniz ve içsu araçlarını kullananlardan ADB istenmez.
+(9) (Değişik:RG-3/7/2026-33299)1 Sekizinci fıkrada belirtilen deniz araçları hariç olmak üzere özel tekne ve yatlar, EK-2’de yer alan teçhizat listesine göre donatılır.
+(10) Özel teknelerde seyirde en fazla bulunabilecek kişi sayısı, teknenin uygunluk beyanının dizayn kategorisinin taşıma kapasitesinde belirtilen sayıdır. Ancak uygunluk belgesi olmayan özel teknelerde seyirde en fazla bulunabilecek kişi sayısı metre başına bir kişi olmak üzere belirlenir ve bu sayı her halükârda on iki kişiyi geçemez.
+(11) Özel tekneler, hiçbir şekilde ticari amaçla kullanılamaz.

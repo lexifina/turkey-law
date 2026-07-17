@@ -1,0 +1,2 @@
+Amatör denizci belgelerinin uluslararası denkliği
+MADDE 15- (1) İdare, yabancı bir idare veya kuruluş tarafından düzenlenmiş özel tekne kullanım belgelerinin tümünün denkliğini mütekabiliyet esaslarına uygun olarak kabul edebilir. Bu şekilde denkliği kabul edilen özel tekne kullanım belgeleri ve bu belgeleri düzenlemeye yetkili yabancı idare ve kuruluşlar İdare tarafından ADBS sisteminde güncel olarak yayımlanır.

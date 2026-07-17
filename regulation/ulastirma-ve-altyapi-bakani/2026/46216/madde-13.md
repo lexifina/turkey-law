@@ -1,0 +1,2 @@
+Amatör denizci belgesi yenileme işlemleri
+MADDE 13- (1) ADB sahibi, belgesinin kayıp veya çalıntı olduğunu, üzerindeki yazıların silindiğini veya belgesinin zarar gördüğünü beyan etmesi hâlinde ADBS üzerinden belgenin yenilenmesini çevrimiçi olarak talep eder. 492 sayılı Kanun kapsamında güncel belge harcı ödeyerek İdareye veya ADB düzenleme yetkisi olan herhangi bir liman başkanlığına başvurur. Başvuru yapılan İdare veya liman başkanlığınca düzenlenen belge 11 inci maddenin birinci fıkrası kapsamında teslim edilir.

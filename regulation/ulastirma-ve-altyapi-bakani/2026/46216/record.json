@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.46216",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL TEKNELERİN DONATIMI VE ÖZEL TEKNELERİ KULLANACAK KİŞİLERİN YETERLİKLERİ HAKKINDA YÖNETMELİK",
+  "number": "46216",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2026/46216",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46216&MevzuatTertip=5",
+  "source_sha256": "3996c86caa938fb1e80957b3279c0a48129f18c69ba4225f82a68629e6a92dba",
+  "source_bytes": 52372,
+  "published": "2026-01-17",
+  "gazette": "33140",
+  "in_force": "2026-07-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"17/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-17",
+      "17/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-07-03",
+      "RG-3/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-03",
+      "3/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden 6 ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3038,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.46216-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

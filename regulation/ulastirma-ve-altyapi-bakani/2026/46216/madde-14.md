@@ -1,0 +1,5 @@
+Amatör denizci belgelerinin geçerlik alanı ve bireysel denkliği
+MADDE 14- (1) ADB gemiadamı yeterlik belgesi yerine geçmez.
+(2) Turizm mevzuatı uyarınca belgelendirilmiş, ticari faaliyette bulunmaksızın gezi ve sportif amaçlı olarak mürettebatsız (bare-boat) kiralanan (Değişik ibare:RG-3/7/2026-33299)1 ticari yatlar, kiracı sıfatıyla ADB sahibi kişilerce sahip oldukları amatör denizci belgesinde belirtilen boy sınırını aşmamak kaydıyla, sevk ve idare edilebilirler.
+(3) Türkiye Cumhuriyeti vatandaşları ve Türkiye’de bulunan yabancı uyruklu kişiler bir başka ülkeden almış oldukları belgenin tanıdığı yetkiler çerçevesinde; kendilerine ait özel tekneleri, EK-1 kapsamında yetki devri yapılmış özel tekneleri veya ikinci fıkrada tanımlı tekneleri kullanabilirler.
+(4) Yabancı idareler tarafından düzenlenmiş özel tekne kullanım belgelerinin geçerliğinden ve gerçekliğinden şüphe duyulması hâlinde, liman başkanlıkları bu belgelerin çevrimiçi veya elektronik posta yoluyla düzenlendikleri idareler tarafından doğrulanmasını talep edebilir ve onay alana kadar belge haklarının kullanımlarına müsaade etmez.

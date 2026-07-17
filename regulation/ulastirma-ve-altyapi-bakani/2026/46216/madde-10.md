@@ -1,0 +1,2 @@
+Sınav konuları ve başarı notu
+MADDE 10- (1) Sınavlarda başarılı olmak için 100 tam puan üzerinden en az 70 puan almak gerekir. Sınavlarda; düzlem seyir, denizde çatışmayı önleme kuralları, temel gemicilik ve tekne kullanma, meteoroloji, denizde güvenlik ve denizde haberleşme, ilk yardım ve uluslararası sözleşmeler, tekne, motor ve elektrik bilgisi gibi konuları içeren en az yirmi beş soru sorulur.
