@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/46797",
+  "submitted": "2026-07-17",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İbrahim ARSLAN",
+  "province": "Eskişehir",
+  "summary": "İlaç tedarikinde yaşanan sorunlara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/07b13240-40ce-4ab7-9ec4-019f7e646b24",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f139b031d0ece265323fb0e4beecc3c274e7eec04cc4a13f976c017d0e31cdfa",
+  "in_force": "2026-07-17",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
