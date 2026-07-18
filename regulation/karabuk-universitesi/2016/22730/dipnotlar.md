@@ -1,0 +1,1 @@
+[1] 18/7/2026 tarihli ve 33313 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “Karabük Üniversitesi Kadın Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
