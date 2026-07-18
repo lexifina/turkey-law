@@ -1,0 +1,2 @@
+Tereddütlerin giderilmesi ve düzenleme yapma
+MADDE 18- (1) İdare, bu Usul ve Esasların uygulanması için bu Usul ve Esaslara aykırı olmamak kaydıyla yol gösterici ve açıklayıcı kılavuzlar ve alt düzenlemeler yayımlamaya, bu Usul ve Esasların uygulanması sırasında ortaya çıkacak aksaklıkları gidermeye, ilke ve standartları belirlemeye, uygulama birliğini sağlamaya, gerekli bilgi ve belgeyi istemeye ve tereddüt duyulan hususlarda kararlar almaya yetkilidir.
