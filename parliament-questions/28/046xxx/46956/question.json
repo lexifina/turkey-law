@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/46956",
+  "submitted": "2026-07-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aykut KAYA",
+  "province": "Antalya",
+  "summary": "Restoranlardan alınan yemek kartı ve dijital sipariş platformu komisyonlarının denetimine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/5a7d9571-7c9a-4af8-8fd5-019f845d6d35",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c2926006a211d77b542a8b84c87f873ddc3a9c3ffd4ef867b475807e88dd284c",
+  "in_force": "2026-07-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
