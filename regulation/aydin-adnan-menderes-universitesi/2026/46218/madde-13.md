@@ -1,0 +1,2 @@
+Notlarda maddi hata ve sınav notuna itiraz
+MADDE 13- (1) Lisansüstü programlarda sınav sonuçlarına itirazın öğrenci tarafından sonuç açıklama tarihinden itibaren beş gün içinde OBİS üzerinden yapılması gerekir. Başvurular, ilgili enstitü müdürlüğü tarafından ders sorumlusuna yazılı olarak iletilir. Ders sorumlusu en geç beş gün içinde başvuru sonucunu ilgili enstitü müdürlüğüne yazılı olarak bildirir. Sınav sonucuna ilişkin bir düzeltme varsa, not EYK kararı ile ders sorumlusu öğretim üyesi tarafından düzeltilir. Sonuç ilgiliye yazılı olarak bildirilir.

@@ -1,0 +1,3 @@
+Lisansüstü programlara kayıt
+MADDE 10- (1) Kayıt hakkı kazanan adaylar lisansüstü eğitim-öğretim akademik takviminde belirtilen kesin kayıt yaptırma tarihleri içinde istenen belgelerle başvurarak kesin kayıtlarını yaptırmak zorundadırlar. Kesin kaydını yaptırmayan aday kayıt hakkını kaybeder.
+(2) Sahte veya eksik belge verdiği veya gerçek dışı beyanda bulunduğu sonradan anlaşılan öğrencilerin, bulundukları yarıyıla bakılmadan EYK kararı doğrultusunda Üniversite ile ilişikleri kesilir. Söz konusu öğrencilere verilen belgelerin diploma dâhil tümü iptal edilir ve haklarında kanuni işlem başlatılır.

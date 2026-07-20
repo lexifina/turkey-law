@@ -1,0 +1,3 @@
+Tezsiz yüksek lisans diploması
+MADDE 31- (1) Kredili derslerini ve dönem projesini başarıyla tamamlayan öğrenciye YÖK tarafından onaylanan ABD/ASD’deki programın adının yer alacağı, Rektör ve enstitü müdürünün imzasının yer aldığı tezsiz yüksek lisans diploması verilir.
+(2) Tezsiz yüksek lisans programına devam eden öğrenciler, belirlenmiş olan asgari koşulları yerine getirmek kaydıyla tezli yüksek lisans programına geçiş yapabilir. Bu durumda tezsiz yüksek lisans programında alınan dersler, ilgili ABD/ASD kurulunun görüşü ve EYK kararı ile tezli yüksek lisans programındaki derslerin yerine sayılabilir.

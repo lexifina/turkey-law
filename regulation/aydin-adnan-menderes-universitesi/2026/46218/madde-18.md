@@ -1,0 +1,2 @@
+Ders tekrarı
+MADDE 18- (1) Öğrenci başarısız olduğu zorunlu dersi tekrarlamak zorundadır. Başarısız olunan seçmeli dersin yerine başka seçmeli ders alınabilir. Dersten başarısızlık durumu, devamsızlıktan kaynaklanmış ise tekrar edilen derse devam zorunludur. Dersten başarısızlık durumu, sınav başarı notundan kaynaklanmış ise tekrar edilen derse devam zorunlu olmayıp öğrenci derse kaydolmak şartıyla dersin sınavlarına girer. Tekrarlanmış olan dersin AKTS ve ulusal kredisi, ilgili yarıyılda alınması gereken derslerin toplam AKTS ve ulusal kredisi içinde değerlendirilmez.

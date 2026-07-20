@@ -1,0 +1,4 @@
+SEKİZİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Anabilim/anasanat dalı kurulu
+MADDE 49- (1) Anabilim/anasanat dalı kurulu; Fen Bilimleri ve Sosyal Bilimler Enstitülerinde fakülte teşkilatlanması içinde birden fazla anabilim dalı bulunan bölümlerde ilgili bölüm başkanı ile bölümün anabilim dalı başkanlarından, tek bir anabilim dalı ile temsil edilen bölümlerde ise ilgili bölümde görev yapan tüm öğretim üyelerinden oluşur. Sağlık Bilimleri Enstitüsünde ise doğrudan anabilim dalı esasına göre teşkilatlanan birimlerde ilgili fakülte anabilim dalı akademik kurulu esas alınır. Bu alanlar dışında kalan veya disiplinlerarası program yürüten anabilim/anasanat dallarında ise anabilim/anasanat dalı kurulu, anabilim/anasanat dalı başkanının başkanlığında, programın açılışında görev alan ve programa sonradan dâhil olan tüm öğretim üyelerinden oluşur.

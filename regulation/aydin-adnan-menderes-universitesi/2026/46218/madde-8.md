@@ -1,0 +1,2 @@
+Özel ve misafir öğrenci
+MADDE 8- (1) Üniversitenin lisansüstü programına kayıtlı öğrencilerin bir başka yükseköğretim kurumunda lisansüstü derslere özel öğrenci olarak katılması ya da bir başka yükseköğretim kurumunun lisansüstü programına kayıtlı olan öğrencilerin, Üniversitenin lisansüstü programlarından özel öğrenci olarak ders almaları Senato tarafından belirlenen usul ve esaslara göre yapılır.
