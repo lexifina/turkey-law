@@ -1,0 +1,1 @@
+[1] 20/7/2026 tarihli ve 33315 sayılı Resmî Gazete’de yayımlanan değişiklikle bu Yönetmeliğin adı “Mustafa Kemal Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlenmiştir.
