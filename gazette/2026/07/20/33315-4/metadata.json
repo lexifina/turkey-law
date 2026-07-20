@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-07-20",
+  "issue": "33315",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Üniversitesi Tıpta Uzmanlık Eğitimi ve Sınav Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/07/20260720-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/07/20260720.htm",
+  "index_sha256": "4e98425e723e4eebce7f0b4f0573509d4732c6709abf613c5a257fbc6e3dd853",
+  "index_header": "20 Temmuz 2026 ... 33315 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/07/20260720.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
