@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.24124",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİYOTEKNOLOJİ ENSTİTÜSÜNÜN YAPILANMASI VE FAALİYETLERİNİN YÜRÜTÜLMESİNE DAİR YÖNETMELİK",
+  "number": "24124",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2017/24124",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24124&MevzuatTertip=5",
+  "source_sha256": "a4a58ba82c5ea17a0ad75ba8b2fb33c1a7f7999d8becbaad675d3fdbf520ceee",
+  "source_bytes": 39741,
+  "published": "2017-12-01",
+  "gazette": "30257",
+  "in_force": "2026-07-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-21",
+      "RG-21/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-21",
+      "21/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-03-12",
+      "RG-12/3/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-03-12",
+      "12/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1622,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
