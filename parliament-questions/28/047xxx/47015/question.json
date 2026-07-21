@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/47015",
+  "submitted": "2026-07-21",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Cem AVŞAR",
+  "province": "Tekirdağ",
+  "summary": "OECD Rüşvetle Mücadele Çalışma Grubu tarafından yayımlanan bir rapora ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/97b56bbb-6d48-495c-a4db-019f88c36c09",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8e9020aee359c5ceafd6bfd4130f42eeac07a7752ba94de49249ac873725c528",
+  "in_force": "2026-07-21",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
