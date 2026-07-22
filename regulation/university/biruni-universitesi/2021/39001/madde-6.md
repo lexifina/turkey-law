@@ -1,0 +1,2 @@
+Akademik kayıt süresi
+MADDE 6 – (1) Öğrenciler, akademik programa, akademik takvimde belirtilen süre içerisinde mali yükümlülüklerini yerine getirerek kayıtlarını yaptırırlar. Belirlenen süre içinde geçerli mazereti olmadan kayıt yaptırmayan öğrenciler geç kayıt ücreti öderler. Geç kayıt ücreti her yıl Mütevelli Heyeti tarafından belirlenir. Mazeretleri nedeniyle kayıt yaptırmayan öğrencilerin başvuruları üzerine Üniversite Yönetim Kurulu tarafından mazeretleri geçerli görülenlerin kayıtları yapılır. Kayıt işlemlerini tamamlamayan öğrenci öğrencilik haklarından yararlanamaz.

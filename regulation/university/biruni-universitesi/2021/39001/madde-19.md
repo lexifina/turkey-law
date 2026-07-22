@@ -1,0 +1,3 @@
+İntörnlük uygulaması başarı değerlendirilmesi
+MADDE 19 – (1) İntörnlük uygulamasında (altıncı dönem) sınav yoktur. Bu dönemde öğrenciler, her anabilim veya bilim dalında yaptıkları çalışma sonunda; klinik, poliklinik, laboratuvar ve saha çalışmaları, aldıkları hasta öyküleri, yazdıkları epikrizler, hastalara davranış ve ilgileri, nöbetler, katıldıkları seminerler, kurumsal bilgi düzeyleri, genel davranışları ayrı ayrı göz önüne alınarak staj sorumlusu tarafından başarılı veya başarısız olarak değerlendirilirler.
+(2) İntörnlük uygulamasında stajlardan bir veya birkaçından başarısız olan öğrenci, başarısız oldukları staj veya stajları tekrar ederek başarılı olmak zorundadır.

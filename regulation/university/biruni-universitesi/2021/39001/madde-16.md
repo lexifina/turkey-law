@@ -1,0 +1,11 @@
+Sınavların değerlendirilmesi
+MADDE 16 – (1) Birinci, ikinci ve üçüncü dönemlerde her ders kurulu sonunda sınav yapılır. Ders kurulu sınavı o ders kurulundaki tüm dersleri (temel ve/veya klinik dersleri) kapsar. Kurul sınavında yer alan derslerin sınavdaki ağırlıkları kuruldaki ders saati ile orantılı olarak hesaplanır.
+(2) (Değişik:RG-22/9/2022-31961) Bir ders kurulunun sınav notu, kuramsal (summatif), uygulama ve BirDeHa sınavlarından alınan puanların toplamından oluşur.
+(3) Ders kurullarındaki uygulama sınavlarının puanı, o dersin toplam puanının %25’ini aşamaz.
+(4) Ders kurulu sınavlarında doğru cevap sayısı her ders için ayrı ayrı değerlendirilir. Bir derse ait sorulardan doğru cevap sayısı sıfır olduğu takdirde baraj uygulaması yapılır, o derse ait toplam soru sayısının %50’sinin karşılığı olan puan sınava ait toplam puandan düşülür.
+(5) Kuramsal ve uygulama sınav puanının toplamında oluşan 0,5 veya üstündeki ondalık fark bir üst puana tamamlanır.
+(6) Birinci, ikinci ve üçüncü dönemlerde, her ders kurulu sonunda ders kurullarının tümündeki dersleri kapsayan kurul sınavı yapılır.
+(7) (Değişik:RG-22/7/2026-33317) Ders kurulu (komite) başarı notu; ders kurulu (komite) sınav notunun %90’ı ile ilgili kurulda yapılan kısa sınavlar ve benzeri formatif sınavların ortalamasının %10’u toplanarak elde edilir. PDÖ bulunan kurullarda komite notlarının hesaplanması; komite notunun %80’i, kısa sınav notunun %10’u ve PDÖ notunun %10’u olacak şekilde yapılır. Puanlama oranlarında değişiklik eğitim komisyonunun önerisi üzerine Fakülte Kurulu kararı ile yapılabilir.
+(8) (Değişik:RG-22/9/2022-31961) Yıl sonu başarı notu; ders kurulu (komite) başarı notlarının ortalamasıdır. Yıl sonu başarı notunun %60’ı ile final notunun %40’ının toplamı 60 ve üzeri olanlar bir üst sınıfa geçebilir. Ders kurullarının her birinden alınan notun en az 50 olması kaydıyla yıl sonu başarı notu 75 ve üzeri olan öğrenciler final sınavına girmeme hakkına sahiptir. Ancak öğrenci isterse Fakülte Dekanlığına dilekçe vererek final sınavına girebilir. Sınava girmesi halinde son alınan not geçerlidir.
+(9) Final ve bütünleme sınavlarında baraj uygulaması yapılmaz.
+(10) Kurul dışı derslerin sınavları 19/10/2020 tarihli ve 31279 sayılı Resmî Gazete’de yayımlanan Biruni Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği çerçevesinde yapılır.
