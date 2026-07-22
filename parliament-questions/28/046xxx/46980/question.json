@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/46980",
+  "submitted": "2026-07-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Serhat EREN",
+  "province": "Diyarbakır",
+  "summary": "Kastamonu E Tipi Kapalı Cezaevinde bulunan bir mahkumun kötü muameleye maruz kaldığı iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/67fb2dfb-2767-42a2-9dc8-019f8dda300a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c2926006a211d77b542a8b84c87f873ddc3a9c3ffd4ef867b475807e88dd284c",
+  "in_force": "2026-07-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
