@@ -1,0 +1,2 @@
+Dikey geçişler
+MADDE 8- (1) Önlisans programı mezunlarının, Fakülte lisans programına kabul ve kayıt işlemleri, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik ve ilgili yönerge hükümlerine göre yürütülür. Bu öğrencilerin eğitim programlarına intibakları, Fakülte Eğitim Öğretim komisyonunda görüşülür ve Fakülte Yönetim Kurulu tarafından onaylanır.

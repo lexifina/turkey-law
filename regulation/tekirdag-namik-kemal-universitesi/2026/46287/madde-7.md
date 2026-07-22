@@ -1,0 +1,2 @@
+Yatay geçişler
+MADDE 7- (1) Fakülteye, diğer üniversitelerden yatay geçiş yapmak isteyen öğrencilerin yatay geçişleri 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ve ilgili yönerge hükümlerine göre yürütülür. Bu öğrencilerin eğitim programlarına intibakları, Fakülte Eğitim Öğretim komisyonunda görüşülür ve Fakülte Yönetim Kurulu tarafından yapılır.
