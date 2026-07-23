@@ -1,0 +1,2 @@
+Oda Yönetmeliklerinin Değiştirilmesi
+Geçici Madde 1 :Oda ana yönetmeliği ve yönetmeliklerini, bu Ana Yönetmelik doğrultusunda değiştirmek üzere, Birlik Yönetim Kurulunun onayı alınmak koşuluyla, Oda Yönetim Kurulları görevli ve yetkilidirler. Oda Yönetim Kurullarınca yapılan değişiklikler, Birlik Yönetim Kurulunca kabul edildikleri tarihten itibaren yürürlüğe girer ve ilk Genel Kurulun onayına sunulur.

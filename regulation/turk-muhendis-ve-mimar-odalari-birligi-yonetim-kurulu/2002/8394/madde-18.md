@@ -1,0 +1,2 @@
+Birlik Yönetim Kurulunun Oluşumu
+Madde 18: Birlik Yönetim Kurulu, Birlik Genel Kurulunca, her Oda bir üye ile temsil edilmek üzere Oda sayısına göre, Oda Genel Kurullarınca belirlenen üçer aday arasından seçilecek üyelerden oluşur. Oda Genel Kurullarınca belirlenen adayların Birlik Genel Kurulu delegeleri arasında bulunması zorunludur. Birlik Genel Kurulunda en çok oy alan aday asıl, diğerleri ise aldıkları oy sayısına göre birinci yedek ve ikinci yedek olarak seçilirler.

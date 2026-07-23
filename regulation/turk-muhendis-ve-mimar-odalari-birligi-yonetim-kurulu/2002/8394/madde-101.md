@@ -1,0 +1,3 @@
+Seçimlerde Aday Sayısı ve Seçilme Biçimi
+Madde 101: Oda Genel Kurullarında bir göreve, en az o göreve seçilecek asıl ve yedekler toplamı kadar aday gösterilir. Asıl ve yedek üyeler ayrı ayrı duyurulur. Asıllar ve yedekler, oy pusulalarında kendilerine ayrılmış bölümlere yazılır. Oy pusulalarına yazılı isimler, asıl ve yedek üye toplamından fazla olamaz. Asıllar kendi aralarında, yedekler kendi aralarında, aldıkları oy sayısına göre sıralanır.
+Birlik Genel Kurulunda yapılan seçimlerde, eşit oy alanlar arasında kura çekilir. Oda Genel Kurullarında ise, oyların eşit olması durumunda, sicil numarası küçük olan üye seçilmiş sayılır.

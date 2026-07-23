@@ -1,0 +1,2 @@
+Birlik Yönetim Kurulunun Toplanması ve Çalışma Şekli
+Madde 20: Yönetim Kurulu olağan olarak en az ayda bir kez toplanır. Toplantılara üye tam sayısının salt çoğunluğunun katılımı aranır. Toplantıları Başkan, bulunmadığı durumlarda İkinci Başkan, o da bulunmadığında Yönetim Kurulu üyelerinin o toplantı için aralarından seçecekleri bir üye yönetir. Yönetim Kurulu üyelerinin 1/5'inin (beşte biri) yazılı isteği ya da Yönetim Kurulu Başkanının çağrısı ile olağanüstü olarak da toplanır.

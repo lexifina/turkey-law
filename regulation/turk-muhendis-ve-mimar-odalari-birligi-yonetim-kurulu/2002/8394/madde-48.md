@@ -1,0 +1,2 @@
+Odaların Kapatılması ve Birleştirilmesi
+Madde 48: Odalar, ana yönetmelikte belirtilen kurulların oluşturulmasına olanak kalmadığı ya da toplantı yeter sayısı bulamaması nedeniyle üst üste iki genel kurul toplantısını yapmadığı ya da Oda Genel Kurulunda alınan karara dayanarak; Birlik Yönetim Kurulunun önerisi ve Birlik Genel Kurulu kararı ile kapatılır, meslek disiplinine en yakın Oda ile birleştirilir.

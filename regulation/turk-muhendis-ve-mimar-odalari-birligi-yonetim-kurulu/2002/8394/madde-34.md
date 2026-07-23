@@ -1,0 +1,3 @@
+Yüksek Onur Kurulunun Kuruluşu
+Madde 34: Yüksek Onur Kurulu, Odaların gösterecekleri birer aday arasından, Birlik Genel Kurulunca seçilecek beş asıl, beş yedek üyeden oluşur. (Ek ikinci cümle:RG-1/7/2010-27628) Oda Genel Kurullarınca belirlenen adayın Birlik Genel Kurulu delegeleri arasında bulunması zorunludur. Yüksek Onur Kurulunun kuruluşu ve çalışma şekli Türk Mühendis ve Mimar Odaları Birliği Disiplin Yönetmeliği ile belirlenir.
+(Ek paragraf:RG-2/2/2017-29967) Yüksek Onur Kuruluna aday olabilmek için daha önce Türk Mühendis ve Mimar Odaları Birliği Yönetim, Denetim, Yüksek Onur Kurullarından ya da Oda Yönetim, Denetim, Onur Kurullarından en az birinde asıl üye olarak görev yapmış olmak ve herhangi bir disiplin cezası almamış olmak zorunludur.

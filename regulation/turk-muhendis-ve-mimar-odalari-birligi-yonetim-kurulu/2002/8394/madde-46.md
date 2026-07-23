@@ -1,0 +1,3 @@
+Odaların Paylarını Ödeme Yükümlülüğü ve Şekli
+Madde 46: Odalar, Birlik Genel Kurulunca saptanacak payların onikide birini, her ayın ilk haftası sonuna dek peşin olarak öderler. Kesin bütçe rakamlarını Şubat ayı sonuna kadar Birliğe bildirirler. Kesinleşen payların kalanları Mart ayı sonunda ödenir. Bu paylarını süresinde Türk Mühendis ve Mimar Odaları Birliğine ödemeyen Odalar hakkında İcra ve İflas Kanunu hükümlerine göre kovuşturma yapılır.
+Odalarca yapılacak olağanüstü yardımlar, Genel Kurul tarafından kararlaştırılır. Odalar bu karar uyarınca gerekli ödemeleri yaparlar. Ayrıca gerektiğinde Birlik Yönetim Kurulunun isteği üzerine ve Oda Yönetim Kurulunun kararı ile olağanüstü yardım yapılır.

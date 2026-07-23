@@ -1,0 +1,2 @@
+Üyelerin Birden Fazla Odaya Kayıt Olması
+Madde 52: Mühendisliğin ve mimarlığın ayrı ayrı meslek kollarının birden fazlasından diploma ya da ruhsatname almış olanlar, diploma ve ruhsatnamelerinin ilgili bulunduğu Odalardan istediklerine girmekte serbest oldukları gibi, üyelik görev ve yükümlülüklerini her Oda için ayrı ayrı yerine getirmek koşuluyla, birden fazla Odaya da üye olabilir ve üyelik haklarını kullanabilirler.

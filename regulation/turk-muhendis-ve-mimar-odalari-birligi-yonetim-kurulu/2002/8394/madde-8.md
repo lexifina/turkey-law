@@ -1,0 +1,2 @@
+Gündem
+Madde 8: Genel Kurul görüşmeleri Yönetim Kurulunca hazırlanıp duyurulmuş olan gündeme göre yapılır. Bir Odanın Yönetim Kurulu tarafından ya da Genel Kurula gelen delegeler tarafından Başkanlık Divanına yapılacak yazılı başvuru üzerine, Genel Kurul kararı ile gündeme madde eklenebilir. 10 uncu madde hükmü saklı kalmak koşuluyla, gündemden madde çıkarılabilir ya da maddelerin görüşme sıraları değiştirilebilir.

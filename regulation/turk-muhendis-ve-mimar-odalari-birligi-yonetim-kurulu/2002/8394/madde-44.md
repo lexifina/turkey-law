@@ -1,0 +1,5 @@
+Birlik Danışma Kurulunun Kuruluş ve Görevleri
+Madde 44: Birlik Danışma Kurulu; Birlik Yönetim, Denetim ve Onur Kurulları, Oda Yönetim Kurulları, Şube Yönetim Kurulları, Bölge Temsilciliği Yürütme Kurulları ve Birlik Yönetim Kurulunun gerekli gördüğü hallerde İl Koordinasyon Kurulları, il, ilçe ve işyeri temsilcilikleri ile ilgili Birlik görevlilerinden oluşur.
+TMMOB'nin eski Başkanları Birlik Danışma Kurulunun doğal üyeleridir.
+Danışma Kurulu, gerekli görüldüğü zaman ve yerde ve yılda en az iki kez Birlik Yönetim Kurulunca toplantıya çağrılır. Birlik Yönetim Kurulu gerekli gördüğü zaman ve yerde, yine yukarıda belirtilen biçimde oluşturacağı Bölgesel Danışma Kurullarını toplayabilir. Merkezi ve Bölgesel Danışma Kurulları, Birlik ve Odaların çalışmalarını gözden geçirir, önerilerde bulunur, gerektiğinde eğilim belirler.
+Birlik Yönetim Kurulu, Danışma Kurulunu toplamaya olanak bulamadığı ivedi durumlarda, gerekli konuları danışmak amacıyla Birlik Yönetim Kurulu ile Oda Başkan ve Sekreterlerini ortak toplantıya çağırır.

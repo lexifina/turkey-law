@@ -1,0 +1,3 @@
+Birlik Denetleme Kurulunun Kuruluş ve Çalışma Şekli
+Madde 42: Birlik Denetleme Kurulu, Genel Kurul tarafından seçilen beş asıl, beş yedek üyeden oluşur. (Ek ikinci cümle:RG-1/7/2010-27628) Oda Genel Kurullarınca belirlenen adayın Birlik Genel Kurulu delegeleri arasında bulunması zorunludur. Çalışma şekli TMMOB ve Odalar Denetim Yönetmeliği ile belirlenir.
+Nedeni ne olursa olsun, üst üste üç kez toplantıya ya da denetimlere katılmayan ya da katılamayacağını bildiren Birlik Denetleme Kurulu üyesi çekilmiş sayılır ve yerine sıradaki ilk yedek üye geçer. Birlik Genel Kuruluna, Genel Kurul tarihinde asıl Denetleme Kurulu üyeleri, doğal delege olarak katılır.

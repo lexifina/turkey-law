@@ -1,0 +1,2 @@
+Oda Üyeliğini Sürdürme Zorunluluğu
+Madde 110 : Diploma ya da ruhsatname almak suretiyle, Türkiye'de mesleklerini uygulayabilecek duruma gelmiş olan mühendis, mimar ve şehir plancıları, hemen meslek ya da uğraşı konuları ile ilgili bir Odaya başvurarak kaydolmak ve bir kimlik belgesi almak zorundadırlar. Oda kimlik belgesi almayanlar ya da üyelik görev ve yükümlülüklerini yerine getirmediği için ya da başka disiplin nedenleriyle, kimlik belgesi yenilenmemiş ya da onaylanmamış olanların, mesleklerini uygulamaları yasaklanır. 109 uncu maddedeki istisnai hükümler saklıdır.

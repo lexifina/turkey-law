@@ -1,0 +1,2 @@
+Birlik Yönetim Kurulunun Görev Dağılımı
+Madde 19: Yönetim Kurulu, seçim sonuçlarının kesinleşmesinden sonra en geç 15 gün içerisinde Birlik Genel Sekreterinin çağrısıyla ilk toplantısını yapar. Bu ilk toplantıda, üyeler arasından gizli ve üye tam sayısının çoğunluk oyu ile; bir Başkan, bir İkinci Başkan ve bir Sayman Üye ile (Değişik ibare:RG-15/8/2024-32633) sekiz Yürütme Kurulu üyesini seçer. Bu seçilenler gereğinde, tüm üye sayısının çoğunluğu ile değişebilir.

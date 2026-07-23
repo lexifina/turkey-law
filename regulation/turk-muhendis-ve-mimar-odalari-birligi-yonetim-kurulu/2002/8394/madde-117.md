@@ -1,0 +1,2 @@
+Üye Bilgilerinin Gizliliği
+Madde 117 : Odalar, üye adreslerini hiç bir şekilde dışarıya veremez, ancak mesleki araştırma ve meslekle ilgili tanıtım yapan kurum ve kuruluşlarca üyelere postalanması talep edilen tanıtım broşür ve benzeri matbuat için posta masrafları çeşitli giderler ve adres başına ilgili Oda Yönetim Kurulunca belirlenecek uygun bir ücret alınarak, ilgili Oda tarafından üyelere gönderilir.

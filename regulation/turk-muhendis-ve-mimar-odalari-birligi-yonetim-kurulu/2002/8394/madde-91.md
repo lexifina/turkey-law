@@ -1,0 +1,2 @@
+Disiplin Cezalarına İtiraz
+Madde 91: Onur Kurulunca verilen cezalardan 90 ıncı maddenin (a) ve (b) bentlerinde yazılı olanlar kesindir. 90 ıncı maddenin (c), (d) ve (e) bentlerinde yazılı cezalara karşı ise, kararın bildirilmesi tarihinden itibaren 15 gün içinde, Oda Yönetim Kurulu yoluyla Yüksek Onur Kuruluna hak arayıcı başvurma yapılabileceği gibi bu cezaların uygulanabilmesi için de Yüksek Onur Kurulunca onaylanmış olması gerekir.
