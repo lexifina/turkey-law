@@ -1,0 +1,19 @@
+ÇED yeterlik belgesi başvurularında aranacak şartlar
+MADDE 5- (1) ÇED yeterlik belgesi almak isteyen kurum/kuruluşun;
+a) Kamu veya özel sektörde çevre ile ilgili konularda en az beş yıl çalışmış ve bu fıkranın (ç) bendi kapsamında en az yirmi beş PTD/nihai ÇED raporu hazırlanmasında görev almış olan en az iki çevre mühendisini sürekli olarak istihdam etmesi,
+b) Bu bendin birinci, ikinci ve üçüncü alt bentlerinde belirtilen meslek gruplarından, kamu veya özel sektörde çevre ile ilgili konularda en az beş yıl çalışmış ve bu fıkranın (ç) bendi kapsamında en az yirmi beş PTD/nihai ÇED raporu hazırlanmasında görev almış, farklı meslek dallarından olmak üzere lisans düzeyinde mezun olmuş en az iki personeli sürekli olarak istihdam etmesi,
+1) Çevre mühendisliği bölümü hariç olmak üzere mühendislik veya mimarlık fakültelerinden mezun olanlar.
+2) Fakülte, akademi veya dört yıllık yüksekokul veya fen-edebiyat fakültelerinin; fizik, kimya, matematik, istatistik, biyoloji bölümleri ile ziraat, peyzaj mimarlığı, jeoloji, hidrojeoloji, zootekni, veterinerlik bölümlerinden mezun olanlar.
+3) Fakülte, akademi veya dört yıllık yüksekokulların; arkeoloji, kamu yönetimi, uluslararası ilişkiler, çalışma ekonomisi ve endüstri ilişkileri, işletme, ekonomi, maliye, hukuk, iktisat, ekonometri, sosyoloji bölümlerinden mezun olanlar.
+c) Bu fıkranın (a) ve (b) bentlerine göre görevlendirilen personel haricinde, bu fıkranın (a) bendi kapsamında; beş adet nihai ÇED raporu hazırlanmasında görev almış ve en az üç yıl çalışmış olan en az bir koordinatörü sürekli olarak istihdam etmesi zorunludur. Koordinatörün bu madde kapsamında sahip olması gereken toplam ÇED tecrübe konusunun en az üç tanesinin farklı sektöre ait nihai ÇED raporu olması esastır.
+ç) Bu fıkranın (a), (b) ve (c) bentlerinde belirtilen personel haricinde, bu fıkranın (a) veya (b) bentlerinde belirtilen meslek gruplarından tecrübelerine bakılmaksızın en az bir personeli sürekli olarak istihdam etmesi mümkündür.
+(2) Bakanlığın, Mülga Çevre Bakanlığının, Mülga Çevre ve Orman Bakanlığının ve Mülga Çevre ve Şehircilik Bakanlığının merkez veya taşra teşkilatlarının çevre mevzuatı ile ilgili teknik birimlerinde en az sekiz yıl çalışmış personelinden;
+a) Çevre mühendisi olanlar, birinci fıkranın (a) veya (c) bentleri kapsamında görev alabilir.
+b) Birinci fıkranın (b) bendinde belirtilen meslek gruplarına dahil olanlar, birinci fıkranın (b) veya (c) bentleri kapsamında görev alabilir.
+(3) ÇED yeterlik belgesine sahip kamu kurum/kuruluşunun bu Tebliğ kapsamında en az sekiz yıl çalışmış personelinden;
+a) Çevre mühendisi olanlar, birinci fıkranın (a) veya (c) bentleri kapsamında görev alabilir.
+b) Birinci fıkranın (b) bendinde belirtilen meslek gruplarına dahil olanlar, birinci fıkranın (b) bendi kapsamında görev alabilir.
+(4) Birinci fıkranın (a) ve (b) bentlerinde belirtilen PTD’ler, PTD’lerin Yeterlik Belgesi Tebliği kapsamına alındığı, 1/9/2008 tarihinden itibaren Bakanlığa sunulan projelere ilişkin PTD’leri kapsamaktadır.
+(5) Bu madde kapsamında görevlendirilen personel, görevlendirme süresince çevre ile ilgili ölçüm ve analiz hizmetlerinin verildiği laboratuvarlarda görev alamaz.
+(6) Bu madde kapsamında görevlendirilen personel, görev aldığı ÇED yeterlik belgesine sahip kurum/kuruluş bünyesinde bulunan çevre mevzuatına ilişkin diğer yetkilendirmeler kapsamında görevlendirilebilir; ancak bu personelin görev aldığı ÇED yeterlik belgesine sahip kurum/kuruluş dışında herhangi bir kurum veya kuruluşta çevre mevzuatı kapsamında veya diğer mevzuat kapsamında elektronik sistemler üzerinden ataması yapılamaz.
+(7) Bu madde kapsamında görevlendirilen personelin, görev aldığı kurum/kuruluş bünyesinde çevre mevzuatının dışında başka bir mevzuata ilişkin yetkilendirmeler kapsamında elektronik sistemler üzerinden ataması yapılamaz. ÇED yeterlik belgesine sahip kamu kurum/kuruluşunda görevlendirilen personelde bu fıkra hükümleri aranmaz.
