@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.21103",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTACILIK DESTEK HİZMETLERİ HAKKINDA YÖNETMELİK",
+  "number": "21103",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2015/21103",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21103&MevzuatTertip=5",
+  "source_sha256": "5436a3e7994baa35139bdb7336ead1398a9eaccaea2594f9f278c21ed8ea6197",
+  "source_bytes": 63558,
+  "published": "2015-08-28",
+  "gazette": "29459",
+  "in_force": "2026-07-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-23",
+      "RG-23/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-23",
+      "23/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2345,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
