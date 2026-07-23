@@ -1,0 +1,3 @@
+Kurum dışından yapılacak atamalar
+MADDE 21 – (1) Diğer personel kanunlarına tabi olan personel, öğrenim durumları ve ihraz ettikleri unvanlar dikkate alınarak bu Yönetmelik kapsamındaki kadrolara görevde yükselme veya unvan değişikliği sınavına tabi tutulmaksızın genel hükümlere göre atanabilirler. Emsali kadroların belirlenmesi ve benzeri konularda tereddüt olması halinde Devlet Personel Başkanlığının görüşü dikkate alınır.
+(2) Diğer kamu kurum ve kuruluşlarından kuruma naklen atanacaklar için, aynı düzeyde unvanlı kadrolarda görev yapmış olmak şarttır. Bunların atanmış oldukları unvanlardan daha üst unvanlara yükselebilmeleri bu Yönetmelik hükümlerine tabidir.
