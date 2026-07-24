@@ -1,0 +1,11 @@
+BEŞİNCİ BÖLÜM
+Enstitülere Giriş ve Kabul Esasları
+Birinci kademe eğitim-öğretim (Uzaktan Eğitim ve Karargâh Subaylığı Eğitimi)
+MADDE 25 – (1) Birinci Kademe Eğitimin ilk bölümünü oluşturan Uzaktan Eğitime isteyen tüm muvazzaf subaylar katılabilir.
+(2) Karargâh Subaylığı Eğitimine alınacak subaylar, güvenlik soruşturması ve arşiv araştırması ile birlikte nitelik değerlendirmesine ve sınava tâbi tutularak kontenjanlar çerçevesinde alınır.
+(3) (Değişik:RG-24/7/2026-33319) Sınav, uzaktan eğitim mehazlarından yapılır. Sınava hazırlık dokümanları, Millî Savunma Bakanlığı, Genelkurmay Başkanlığı ve Kuvvet Komutanlıkları ile koordine edilerek Senato tarafından belirlenip ilan edilir. Sınav sayısı bir veya daha fazla olabilir. Sınav tarihleri her yıl ayrıca yayımlanır.
+(4) Karargâh Subaylığı Eğitimine girme hakkına sahip olan subaylardan, 926 sayılı Kanununun Ek Geçici 93 üncü maddesi kapsamında Hava Kuvvetleri Komutanlığı bünyesinde uçuş eğitimine alınanlar ile bilfiil savaşa veya teröristle mücadele harekâtına, Milli Savunma Bakanlığınca uygun görülecek benzeri harekât görevlerine katılan birliklerde görevli olup, bu görevleri nedeniyle sınava katılamayanların hakları, Kuvvet Komutanlıklarının teklifi, Milli Savunma Bakanlığının uygun görmesi halinde sınavlara giremedikleri süreler kadar uzatılır. Bu nedenler hariç, sınava gireceklerin kimliklerinin yayımlanmasından sonra herhangi bir sebeple müracaattan vazgeçilmesi halinde sınav haklarından biri kullanılmış sayılır.
+(5) Karargâh Subaylığı Eğitimine katılmak için müracaatta bulunacak subaylarda aranacak nitelikler aşağıdadır:
+a) (Değişik ibare:RG-24/7/2026-33319) Yüz yüze eğitim ve öğretim başlangıç tarihinde, Türk Silahlı Kuvvetlerinde subay rütbesinde asgari 8 inci hizmet yılını bitirmiş ve azami 23 üncü hizmet yılını bitirmemiş olmak (Kuvvet Komutanlıklarınca hizmet ihtiyacına göre belirtilen hizmet yılı aralığında belirli dönemler seçilebilir, her durumda toplam başvuru hakkı en fazla 6 (altı) olarak muhafaza edilir). Kuvvet Komutanlıklarının ihtiyacına göre belirlenen hizmet yılları, Genelkurmay Başkanlığı ve Kuvvet Komutanlıklarının teklifi, Milli Savunma Bakanının onayı ile değiştirilebilir.
+b) Lisans mezunu olmak.
+(6) Karargâh Subaylığı Eğitimine girişte yapılacak sınav veya sınavların ağırlıklı ortalaması % 50, nitelik değerlendirmesi ise % 50 oranında etkili olur.

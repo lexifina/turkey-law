@@ -1,0 +1,5 @@
+Müşterek Harp Enstitüsünde eğitim-öğretimin seviyesi, kapsamı ve süresi
+MADDE 7 – (1) (Değişik ibare:RG-24/7/2026-33319) Müşterek Harp Enstitüsü eğitim ve öğretimi yüz yüze olacak şekilde bir yarıyıl/dönemden oluşur. Bu eğitim, Müşterek Komuta ve Kurmay Eğitimi olarak adlandırılır.
+(2) Enstitüdeki bir yarıyıl/dönemden oluşan eğitim-öğretim süreleri; ihtiyaç duyulduğunda Senatonun teklifi ve (Değişik ibare:RG-24/7/2026-33319) Millî Savunma Bakanlığının onayı ile kısaltılabilir ya da uzatılabilir.
+(3) Müşterek Harp Enstitüsünde; operatif ve stratejik düzeydeki birlik ve karargâhlar ile milli ve Kuzey Atlantik Antlaşması Örgütü (NATO) müşterek ve birleşik askeri karargâh ve organizasyonlar seviyesi ile küresel ve bölgesel ortamda ve ülke düzeyinde devletin milli güvenliğini ilgilendiren ve etkileyen konularda eğitim-öğretim yapılır. Gerektiğinde, Enstitü Kurulunun alacağı karara göre öğrenci, öğrenci subay, kursiyerlere araştırma ve inceleme görevleri verilebilir.
+(4) Müşterek Komuta ve Kurmay Eğitimini başarıyla bitiren subaylara Müşterek Komuta ve Kurmay Eğitimi diploması verilir.

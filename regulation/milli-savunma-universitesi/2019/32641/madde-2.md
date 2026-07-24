@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Milli Savunma Üniversitesine bağlı Kara, Deniz, Hava ve Müşterek Harp Enstitüleri (Mülga ibare:RG-27/11/2023-32382) ile bunlara bağlı akademik ve idari birimlerini, araştırma birimlerini, bu enstitülerdeki öğretim elemanlarını, öğrencileri, öğrenci subay ve kursiyerleri, idari birimlerde görevli personeli, misafir askeri personeli ve bunlar tarafından uygulanan faaliyet, görev ve esaslar ile hizmete ilişkin diğer hususları kapsar.

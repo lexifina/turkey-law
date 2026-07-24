@@ -1,0 +1,5 @@
+Sınav sonuçlarına itiraz
+MADDE 42 – (1) Öğrenciler, öğrenci subaylar ve kursiyerler, sınavların sonuçlarına, sonucun ilanını takip eden beş iş günü içinde, ilgili enstitü müdürlüğüne verecekleri dilekçe aracılığıyla itiraz edebilirler.
+(2) Enstitü Müdürü, sınav kâğıdının incelenmesi için, biri sınavı yapan öğretim elemanı olmak üzere ilgili öğretim elemanları arasından üç kişilik bir komisyon kurar. Notların jüri veya komite şeklinde birden çok öğretim elemanı tarafından verildiği durumlarda, oluşturulacak komisyonun bir üyesi dersin yürütücüleri arasından, diğer ikisi yakın alanlardaki öğretim elemanları arasından belirlenir. (Ek cümle:RG-24/7/2026-33319) Sınavı yapan öğretim elemanının mazereti sebebiyle olmadığı durumlarda Enstitü Müdürünün belirleyeceği öğretim elemanı komisyona dâhil edilir.
+(3) Komisyon, en çok beş işgünü içinde itirazı sonuçlandırır ve raporunu ilgili enstitü müdürlüğüne sunar.
+(4) Komisyon raporu (Değişik ibare:RG-24/7/2026-33319) Enstitü Müdürünün onayı ile karara bağlanır.

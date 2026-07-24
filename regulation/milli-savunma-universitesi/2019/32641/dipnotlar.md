@@ -1,0 +1,2 @@
+[1] 27/11/2023 tarihli ve 32382 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin adı “Milli Savunma Üniversitesi Harp Enstitüleri, Milli Savunma ve Güvenlik Enstitüsü Yönetmeliği’’ iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.
+[2] 24/7/2026 tarihli ve 33319 sayılı Resmî Gazete’de yayımlanan değişiklikle maddeye üçüncü fıkrasından sonra gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.

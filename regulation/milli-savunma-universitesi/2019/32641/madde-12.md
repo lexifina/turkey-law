@@ -1,0 +1,2 @@
+Eğitim-öğretim araç ve gereçleri
+MADDE 12 – (1) Enstitülerdeki öğretim elemanları ile Enstitülerde eğitim-öğretim gören, öğrenci, öğrenci subaylar ve kursiyerlerin (misafir askeri personel dâhil), eğitim öğretimde kullanacakları araç ve gereçler Devlet tarafından karşılanır. Demirbaş ve sarf malzemesi olarak verilecek eğitim ve öğretim malzemesi ile bunların kullanılma ilkeleri çıkarılacak yönergede belirlenir.
