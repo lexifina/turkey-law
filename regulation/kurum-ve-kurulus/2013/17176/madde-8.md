@@ -1,0 +1,2 @@
+Aşı ve serum uygulaması sonucu ölen hayvanların tazminatı
+MADDE 8 – (1) İhbarı mecburi bir hastalığa karşı koruma sağlamak amacıyla, resmî veteriner hekim veya sorumluluğundaki yardımcı sağlık personeli ile yetkilendirilmiş veteriner hekim tarafından yapılan aşı ve serum uygulaması nedeniyle öldüğü veya ölüm öncesi kesime tabi tutulduğu resmî veteriner hekim raporu ile tespit edilen hayvanların bedellerinin tamamı, yerel kıymet takdir komisyonu tarafından belirlenen miktarlar üzerinden hayvan sahiplerine tazminat olarak ödenir.

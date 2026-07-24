@@ -1,0 +1,7 @@
+Hayvansal ürün, yem, madde ve malzemelerin tazminatı
+MADDE 7 – (Değişik:RG-21/10/2020-31281)(4)
+(1) Tazminat verilecek hastalık tespit edilmesi durumunda hayvansal ürün, yem, madde ve malzemelerin imhası, ilgili hastalığın korunma ve mücadele yönetmelikleri doğrultusunda gerçekleştirilir. Hayvansal ürün, yem, madde ve malzemelerin bedelleri ile imha, nakliye ve dezenfeksiyon masraflarının tamamı, yerel kıymet takdir komisyonu tarafından belirlenen miktarlar üzerinden, aşağıda açıklandığı şekilde sahiplerine tazminat olarak ödenir:
+a) Ruam, sığır vebası, Afrika at vebası, tavuk vebası, scrapie, sığırların süngerimsi beyin (BSE) (Ek ibare:RG-5/6/2021-31502) , şarbon (antraks) hastalıkları nedeniyle imha edilen hayvansal ürünlerin, yem, madde ve malzemelerin bedelleri ile imha, nakliye ve dezenfeksiyon masraflarının tamamı.
+b) Şap, sığır tüberkülozu, sığırların nodüler ekzantemi, sığır brusellozu, koyun ve keçi brusellozu hastalıklarında süt hariç, imha edilen diğer hayvansal ürünlerin yem, madde ve malzemelerin bedelleri ile imha, nakliye ve dezenfeksiyon masraflarının tamamı.
+c) Kuduz hastalığında, imha edilen yem, madde ve malzemelerin bedelleri ile imha, nakliye ve dezenfeksiyon masraflarının tamamı.
+(2) Kuduz hastalığından şüpheli sığır cinsi ve tek tırnaklı hayvanlar altı ay, koyun ve keçi türü hayvanlar üç ay, masrafları sahibine ait olmak üzere karantinaya alınır ve karantina süresi içerisinde elde edilecek hayvansal ürünler halk sağlığının korunması için imha edilir ve tazminat ödenmez.

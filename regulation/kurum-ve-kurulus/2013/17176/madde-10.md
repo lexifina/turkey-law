@@ -1,0 +1,5 @@
+Yerel kıymet takdir komisyonu ve tazminatın belirlenmesi
+MADDE 10 – (1) Yerel kıymet takdir komisyonu, Bakanlık temsilcisi resmi veteriner hekim başkanlığında olmak üzere, mahallin mülkî idare amirinin belirlediği bir üye ve hayvan sahibinin konuyla ilgili sivil toplum kuruluşları temsilcileri arasından seçeceği bir üyenin katılımı ile üç kişiden oluşur.
+(2) Yerel kıymet takdir komisyonu, işletmenin bulunduğu mahallin rayiç bedellerini dikkate alarak tazminat ödenecek hayvanlar için tazminat bedelini, tazminatlı hastalıklar nedeniyle imha edilen hayvansal ürünler, yem, madde ve malzemeler ile imha, nakliye ve dezenfeksiyon masraflarını Bakanlıkça belirlenen esaslar çerçevesinde tespit eder.
+(3) Kurulan yerel kıymet takdir komisyonu rayiç bedelin tespitinde anlaşamadığı ve karar alamadığı takdirde mahallin mülki amirinin onayı ile yeni bir komisyon kurulur ve karar oy çokluğu ile alınır.
+(4) (Ek:RG-10/12/2024-32748) Tazminat ödemesi Bakanlığın bütçe imkânları çerçevesinde, Bakanlıkça belirlenen tarihte ilgili muhasebe birimi aracılığı ile hayvan sahibine doğrudan yapılır.
