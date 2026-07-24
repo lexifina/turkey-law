@@ -1,0 +1,2 @@
+Sığır cinsi hayvanlarda bruselloz tespiti
+MADDE 10 – (1) Yetkili birim, bakteriyolojik, allerjik veya serolojik muayene sonrası bruselloz taşıdığı resmi olarak tespit edilen sığır cinsi hayvanların sahibine resmi olarak test sonuçları ve bununla ilgili yükümlülükleri hakkında resmi bildirimde bulunur. Yetkili birim tarafından enfekte sığırların resmi gözetim altında ve otuz günü geçmemek şartıyla kestirilmeleri sağlanır.

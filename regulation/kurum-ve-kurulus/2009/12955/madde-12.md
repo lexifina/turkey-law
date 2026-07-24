@@ -1,0 +1,5 @@
+Sığır Brusellozu ile enfekte hayvanların kesimi sonrası yapılacaklar
+MADDE 12 – (1) Yetkili birim, enfekte sığır cinsi hayvanların kesiminden sonra aşağıdaki hususları sağlar;
+a) Enfekte bir sürüye ya da sürüden dışarı, yetkili birimin yalnızca gecikmeksizin kesim için sevkine izin verdiği hayvanlar dışında hiçbir hayvanın girişine ve çıkışına izin verilmez. Yetkili birim, kastre edilmiş hayvanların besi sürülerine katılıp daha sonra kesim amaçlı hareket kapsamında olmak koşuluyla çiftlik içi hareketlerine izin verebilir.
+b) Söz konusu sürüde hastalığın elimine edildiğinin tespiti amacıyla resmi bruselloz testlerinin gerçekleştirilmesi zorunludur.
+c) Enfekte sığır sürülerine, yetiştirme amacıyla oniki aylıktan büyük hayvanların bruselloz yönünden bir ya da iki resmi serolojik teste tabi tutulmadan girişine izin verilmez. Sürüde bütün sığırlar yedi aydan küçükken Bakanlık tarafından tespit edilen bir aşı ile aşılanmış ise bu testlerin yalnızca onsekiz aylık yaşı geçmiş olan hayvanlarda uygulanması gereklidir.
