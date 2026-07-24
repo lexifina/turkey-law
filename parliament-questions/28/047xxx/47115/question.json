@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/47115",
+  "submitted": "2026-07-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yüksel Selçuk TÜRKOĞLU",
+  "province": "Bursa",
+  "summary": "Yalova'da eğitim faaliyeti sırasında güneş çarpması nedeniyle bir Hava Harp Okulu öğrencisinin hayatını kaybettiği olaya ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/0a1aca84-f7a5-443d-a734-019fa276f938",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cec61bc9fd4cf16ec1d0eb1fa61df505e1dd7895e6477d55335e515780c2d5db",
+  "in_force": "2026-07-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
