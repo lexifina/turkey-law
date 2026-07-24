@@ -1,0 +1,6 @@
+Yapı kullanma izin belgesi
+MADDE 12- (1) Yapı ruhsatı Bakanlıkça düzenlenmiş yapının tesis edilmesi akabinde, lisans sahibi veya yetkili temsilcisi tarafından ilgili mevzuat ve bu Yönetmelikte belirtilen hususlar çerçevesinde Bakanlığa yapı kullanma izin belgesi talebinde bulunulur.
+(2) Yapı kullanma izin belgesi başvurusunda; yapının ilgili mevzuata, ruhsat eki projelere, ilgili standartlara ve fen, sanat ve sağlık kurallarına uygun olarak yapıldığına dair fenni mesullerce hazırlanan uygunluk raporu sunulur.
+(3) Yapılan başvuruya ilişkin incelemeler neticesinde herhangi bir eksik veya hatalı hususun tespit edilmemesi durumunda, Bakanlık tarafından başvuru tarihinden itibaren otuz gün içinde yapı kullanma izin belgesi düzenlenir. Aksi hâlde, eksikliklerinin tamamlanarak yapının mevzuata uygun hâle getirilmesi istenir. Eksikliklerin tamamlanmasından sonra, aynı süreç izlenerek yapı kullanma izin belgesi düzenlenir.
+(4) Yapının kısmen kullanılması mümkün olan kısımlarına yapı kullanma izni düzenlenebilmesi için, bu bölümlere hizmet veren ortak kullanım alanlarının tamamlanmış ve kullanılabilir olması ve yapıda mevzuata aykırılığın bulunmaması şarttır.
+(5) Yapı kullanma izin belgesine ilişkin tadiller, belgeyi düzenleyen İdare tarafından yapılır.
