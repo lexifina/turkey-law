@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Ana sürü: Resmî olarak tüberkülozdan ari olan ya da arilik işlemleri devam eden bir işletmenin rutin olarak test edilen esas sürüsünü,
+b) Bakan: Tarım ve Orman Bakanını,
+c) Bakanlık: Tarım ve Orman Bakanlığını,
+ç) Bölge: Ülkenin en az 2000 km² alana sahip ve yetkili birimin denetimine tabi ve içerisinde en az bir ilin bulunduğu bir bölümünü,
+d) Isıl işlem: Kaynatma hariç, ısıtmayı içine alan her türlü uygulamadan hemen sonra alkali fosfataz testinde negatif reaksiyona neden olan işlemi,
+e) İşletme: Hayvanların barındırıldığı, tutulduğu, bakıldığı veya beslendiği herhangi bir tesis, kuruluş veya etrafı çevrili açık alan çiftliği durumundaki yerleri,
+f) İzolasyon: Bir hayvanın herhangi bir durumda diğer hayvanlarla temas etmesinin engellenmesini,
+g) Karantina bölmesi: Bir işletmede hayvanların izole edilmesini sağlayacak yerleri,
+ğ) Pozitif reaktör: Bovine intradermal tüberkülin testine pozitif sonuç veren sığır cinsi hayvanı,
+h) Resmî olarak tüberkülozdan ari bölge/ülke: 14 üncü ve 15 inci maddelerde belirtilen koşulları yerine getiren bir bölgeyi/ülkeyi,
+ı) Resmî olarak tüberkülozdan ari işletme: 9 uncu ve 10 uncu maddelerde belirtilen koşulları sağlayan işletmeleri,
+i) Resmî veteriner hekim: 5996 sayılı Kanun kapsamında verilen görevleri Bakanlık adına yapan Bakanlık personeli veteriner hekimi,
+j) Sığır cinsi hayvan: Et üretimi, süt üretimi, damızlık ya da diğer amaçlarla yetiştirilen Bison bison ve Bubalus bubalus türü hayvanlar dâhil her yaştaki sığır ve mandaları,
+k) Surveyans: Hedef popülasyonda hastalığın durumunu ortaya koymak için yapılan epidemiyolojik incelemeyi,
+l) Sürü: Bir işletmede aynı sağlık statüsüne sahip ve patojenik bir etkene maruz kalma olasılığı yaklaşık olarak aynı olan bir hayvan ya da hayvan grubunu,
+m) Tüberkülozdan şüpheli hayvan: Resmî olarak ne hastalık teyidi yapılmış, ne de hastalık ihtimali yok sayılmış olan ve tüberkülozun muhtemel varlığına işaret eden belirtileri gösteren sığır cinsi hayvanları,
+n) Üreme ürünleri: Hayvanların üremesinde kullanılan sperma, ovum, embriyo ve kuluçkalık yumurtayı,
+o) Veri tabanı: Bakanlık kayıt ve bilgi sistemlerini,
+ö) Yetkilendirilmiş veteriner hekim: Bakanlıkta görevli veteriner hekimler dışında, verilecek resmî görevleri yürütmek üzere Bakanlık tarafından yetki verilen veteriner hekimi,
+p) Yetkili birim: Tarım ve Orman Bakanlığı il veya ilçe müdürlüğünü,
+ifade eder.

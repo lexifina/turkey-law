@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 20- (1) Bu Yönetmelik, Listelenen ve Yeni Görülmeye Başlanan Belirli Hastalıklar İçin Surveyans, Eradikasyon Programları ve Hastalıktan Arilik Kuralları ile İlgili Olarak (AB) 2016/429 Sayılı Tüzüğü Tamamlayan 17/12/2019 Tarihli ve (AB) 2020/689 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.

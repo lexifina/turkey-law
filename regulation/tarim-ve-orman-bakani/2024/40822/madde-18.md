@@ -1,0 +1,3 @@
+Veteriner kontrol enstitüleri ve ulusal referans laboratuvarlarının görevleri ve sorumlulukları
+MADDE 18- (1) Bakanlıkça belirlenen veteriner kontrol enstitüleri, Dünya Hayvan Sağlığı Teşkilatı tarafından belirlenen; teşhis yöntemleri için gerekli laboratuvar alt yapısının sağlanmasından, teşhis yöntemlerinin validasyon ve verifikasyonundan, bu testler için kullanılan biyolojik ürünlerin kriterlere uygun olarak üretiminden veya temininden sorumludur.
+(2) Ulusal referans laboratuvarları Bakanlıkça belirlenen teşhis yöntemleri için diğer veteriner kontrol enstitülerinin yeterliliklerini değerlendirmekle görevlidir.
