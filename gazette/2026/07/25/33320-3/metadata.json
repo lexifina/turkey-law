@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-07-25",
+  "issue": "33320",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Kota ve Tarife Kontenjanı İdaresine İlişkin Tebliğ (No: 2026/10)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/07/20260725-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/07/20260725.htm",
+  "index_sha256": "cbefd3ec0b36a3d2c30549137cd530e52be702291966871f2704df65919a6030",
+  "index_header": "25 Temmuz 2026 ... 33320 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/07/20260725.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
