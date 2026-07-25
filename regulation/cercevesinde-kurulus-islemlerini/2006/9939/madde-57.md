@@ -1,0 +1,2 @@
+Şube ve Bölge Temsilciliği Danışma Kurulu
+Madde 57 — Şube veya bölge temsilciliği danışma kurulu; Şube yönetim veya bölge temsilciliği yürütme kurulunun asil ve yedek üyeleri, il ve ilçe temsilcileri ve vekilleri, uzmanlık komisyonları üyeleri ile ilgili görevliler ve şube yönetim veya bölge temsilciliği yürütme kurulunun görevlendireceği uzman üyeler ve Oda çalışmalarında deneyimli üyelerden oluşur. Şube veya bölge temsilciliği danışma kurulu, Oda Uzmanlık Komisyonları Kuruluş ve Çalışma Yönetmeliği hükümlerine göre çalışır. Ancak, bu Yönetmeliğin mali hükümleri uygulanmaz.

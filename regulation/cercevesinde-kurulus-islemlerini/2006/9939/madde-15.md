@@ -1,0 +1,2 @@
+Üyelikten ayrılma
+Madde 15 — Bu Yönetmelikte belirtilen nitelikleri yitirenler, üyelikten çıkarılır. Zorunlu askerlik görevi dışında Türk Silahlı Kuvvetleri mensubu olan ya da herhangi bir nedenle mesleki etkinliğini sürdürmek istemeyen, kamu kurum ve kuruluşlarında asli ve sürekli görevde çalışırken üyelikten ayrılmak isteyen üyeler, bu durumu Oda Yönetim Kuruluna yazılı olarak bildirmek, gerektiğinde belgelemek, Oda üye kimlik kartını geri vermek ve o tarihe kadar üyelik ödentilerinin tümünü ödemek koşuluyla, Yönetim Kurulunun kararı ile üyelikten ayrılabilir.

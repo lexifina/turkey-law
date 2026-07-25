@@ -1,0 +1,22 @@
+Odanın amaçları
+Madde 6 — Odanın amaçları şunlardır:
+a) Günün gerek, koşul ve imkanlarına göre petrol ve doğal gaz mühendisliğinin ilgi alanına giren konularda Kanun ve bu Yönetmelik hükümleri doğrultusunda Türkiye sınırları içinde çalışmaya yetkili petrol (Ek ibare:RG-25/7/2026-33320) ve doğal gaz mühendisleri ve petrol yüksek mühendislerinin ülke çıkarlarına uygun faaliyet göstermelerini sağlamak,
+b) Mesleki alanda kamunun ve ülkenin çıkarlarının korunmasında yurdun doğal kaynaklarının bulunmasında, korunmasında, işletilmesinde, üretimin artırılmasında, ülkenin teknik kalkınmasında, mesleğin geliştirilmesinde ve üyelerin meslek onurları ile hak ve yetkilerinin korunmasında gerekli gördüğü tüm girişim ve etkinliklerde bulunmak,
+c) Mesleki ve üyelerin çıkarları ile ilgili işlerde resmi makamlar ve diğer kuruluşlarla işbirliği yaparak gerekli yardımlarda ve önerilerde bulunmak, meslekle ilgili tüm yasal ve teknik belgeleri incelemek, bunların değiştirilmesi, geliştirilmesi ve yeniden yürürlüğe konulması yolunda önerilerde bulunmak,
+ç) Mesleğin gelişmesi ve tanıtılmasıyla ilgili olarak teknik kongre, seminer, sempozyum, konferans ve sergiler düzenlemek, kitap, gazete, dergi ve benzeri yayınları yapmak, bu amaca yönelik diğer kuruluşların çalışmalarına katılmak,
+d) Petrol ve doğal gaz mühendisliği öğretim ve eğitiminin ülke gereksinimine göre gelişmesini ve örgütlenmesini sağlamak amacıyla çalışmalar yapmak, görüş bildirmek, kamuoyu oluşturmak ve ilgili kuruluşlarla işbirliği yapmak,
+e) Meslek içi eğitim çalışmaları yapmak ve belge vermek,
+f) Mesleğin gerektirdiği iş güvenliği, işyeri ortamı ve çevre konularında her türlü çalışmayı, ölçüm, test ve kontrolleri yapmak ve belgelendirmek,
+g) Üyelerinin iş ve sosyal güvenliklerini sağlayıcı etkinlik ve girişimlerde bulunmak,
+h) Mesleği ve üyelerini ülke içinde ve dışında temsil etmek,
+ı) Kaliteli üretimi özendirmek için kalite belgesi vermek, kontrol yapmak ve her türlü girişimde bulunmak,
+i) Meslek hizmetleri ile ilgili asgari ücretleri belirlemek ve tip sözleşmeler hazırlamak,
+j) Serbest meslek etkinliklerini yürütecek mühendislik bürolarının çalışma, ilke ve yöntemlerine ait yönetmelikler hazırlamak, yürürlüğünü sağlamak, kontrol ve denetimlerini yapmak; bu konuda şube ve bölge temsilciliklerine yetki vermek,
+k) Üyelerin mesleklerini uygulamaları sırasında her çeşit mesleki kural ve yöntemlere uymalarını sağlayarak mesleki disiplini korumak, mesleğin gelişmesi ve ülke çıkarlarına hizmet etmesi koşullarına aykırı hareket edenler ile meslek onurunu zedeleyici davranışta bulunanları izlemek ve gerekli önlemleri almak, mesleki dayanışmayı sağlamak ve üyeler arasında haksız rekabeti önlemek,
+l) Üyelerin teknik, kültürel ve sosyal gereksinimlerini karşılamak amacıyla merkezde, şubelerde ya da temsilciliklerde lokal, kütüphane, konukevi, yemekhane gibi sosyal tesisler açmak ve işletmek,
+m) Oda gelirlerini artırmak doğrultusunda çalışmalar yapmak,
+n) Meslek eğitimini geliştirmek için yarışmalar düzenlemek, burs vermek ve etkinliklerde bulunmak,
+o) Tüketicilerin korunmasına yönelik çalışmalar yapmak,
+ö) Üyelerinin mesleki ve bilimsel çalışmalarına, yaptıkları işlere ve tamamlayıcı öğrenimlerine dayanan uzmanlık dosyaları tutmak ve gerektiğinde, özel sorunlarla karşılaşan kamu ve özel kuruluşlara uzmanlar önermek,
+p) Ulusal sorunlar için mühendis ve mimar odaları ve diğer kuruluşlarla işbirliği yapmak, ortak mesleki çalışmalar yürütmek, yayınlar yapmak ve etkinlikler düzenlemek,
+r) Meslekteki yeniliklerin tanıtılması ve ülkeye yayılmasına olanak sağlamak amacıyla dış ülkelerdeki kuruluşlarla ilişki kurmak ve işbirliği yapmak.

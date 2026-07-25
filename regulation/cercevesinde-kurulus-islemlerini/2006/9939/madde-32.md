@@ -1,0 +1,6 @@
+Oda Başkanı, Vekili, Sekreter ve Sayman üyenin görev ve yetkileri
+Madde 32 — Odayı Oda Başkanı, bulunmadığı zamanlarda, Oda Başkan Vekili veya gerektiğinde Oda Yönetim Kurulunun seçeceği Yönetim Kurulu üyesi temsil eder. Olağan işlemlerde, Oda Sekreteri, Odanın doğal temsilcisi ve sözcüsüdür.
+Oda Sekreteri, Oda işlerini Yönetim Kurulu kararlarına uygun olarak yönetir. Yönetim Kurulu toplantılarının gündemini hazırlar. Yönetim Kurulu üyelerinin isteği ile gündeme madde eklenebilir veya gündemden madde çıkartılabilir. Oda Sekreteri, Oda Yönetim Kurulu kararlarının uygulanmasında gerekli tüm önlemleri alır, Odanın yazışma işlemlerini yürütür ve imza eder, tüm Oda örgütündeki görevlilerin özlük işlerini yürütür.
+Oda Saymanı, Odanın mali işlerinin yürütülmesini, Oda bütçesinin uygulanmasını, yönetmelikler ve Oda Yönetim Kurulu kararları gereğince sağlar, gerekli önlemleri alır ve önerilerde bulunur.
+Oda Sekreter ve Saymanı yürütme görevlerinden dolayı, Oda Yönetim Kuruluna karşı sorumludur.
+Oda Başkanı, Oda Başkan Vekili, Oda Sekreteri ve Saymanına Oda Yönetim Kurulu kararı ile belirli bir miktara kadar harcama yetkisi verilebilir. Yapılacak her türlü ödemelerde, bu dört üyeden ikisinin birlikte imzasının bulunması gereklidir.

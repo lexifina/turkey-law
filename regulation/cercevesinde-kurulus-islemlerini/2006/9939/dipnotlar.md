@@ -1,0 +1,1 @@
+[1] 25/7/2026 tarihli ve 33320 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Türk Mühendis ve Mimar Odaları Birliği Petrol Mühendisleri Odası Ana Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.

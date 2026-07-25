@@ -1,0 +1,2 @@
+Kimlik Belgesi
+Madde 12 — Diploma ve denklik belgesi almak suretiyle Türkiye’de mesleklerini uygulayabilecek duruma gelmiş olanlardan, bu Yönetmeliğin 11 inci maddesinin (b) ve (c) bentleri kapsamı dışında kalan petrol ve doğal gaz mühendisleri, Odaya başvurarak kaydolmak ve kimlik belgesi almak zorundadır. Oda kimlik belgesi almayanlarla, üyelik görev ve yükümlülüklerini yerine getirmediği için ya da disiplin suçu nedeniyle kimlik belgesi yenilenmemiş veya onaylanmamış olanlar mesleklerini icra edemezler.
