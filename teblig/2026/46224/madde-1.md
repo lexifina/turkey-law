@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, Türk Gümrük Tarife Cetvelinde 3907.61.00.00.00 Gümrük Tarife İstatistik Pozisyonunda (GTİP) “78 ml/g veya daha fazla viskozitesi olanlar” tanımlı eşyanın ithalatında 10/7/2026 tarihli ve 11509 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan PET Resin İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
