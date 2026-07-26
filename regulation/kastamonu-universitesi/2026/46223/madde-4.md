@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akademik takvim: Her yıl Senato tarafından belirlenen lisansüstü eğitim-öğretim döneminde yarıyıl başlama/bitiş, ders, sınav ve benzeri tarihlerinin belirtildiği takvimi,
+b) AKTS: Avrupa Kredi Transfer Sistemini,
+c) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+ç) Bilimsel hazırlık programı: Lisansüstü programlara kabul edilen öğrencilerin akademik eksiklerini gidermek amacıyla en çok iki yarıyıl süren ve eğitim süresinden sayılmayan tamamlama eğitimini,
+d) DUS: Diş Hekimliği Uzmanlık Eğitimi Giriş Sınavını,
+e) Enstitü: Kastamonu Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+f) Enstitü ana bilim/ana sanat dalı (EABD/EASD): 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete’de yayımlanan Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde tanımlanan ve Enstitüde lisansüstü eğitim-öğretim programı bulunan akademik birimleri,
+g) Enstitü Kurulu (EK): Enstitü Müdürünün başkanlığında, enstitü müdür yardımcıları ile Enstitüde programları bulunan ana bilim/ana sanat dalı başkanlarından oluşan kurulu,
+ğ) Enstitü Yönetim Kurulu (EYK): Enstitü Müdürünün başkanlığında, enstitü müdür yardımcıları ile Müdürün göstereceği altı aday arasından seçilecek üç öğretim üyesinden oluşan kurulu,
+h) EUS: Eczacılıkta Uzmanlık Eğitimi Giriş Sınavını,
+ı) Kredi: Bir lisansüstü dersin ulusal kredi değerini,
+i) ÖBS: Öğrenci Bilgi Sistemini,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+k) Rektör: Kastamonu Üniversitesi Rektörünü,
+l) Senato: Kastamonu Üniversitesi Senatosunu,
+m) TUS: Tıpta Uzmanlık Eğitimi Giriş Sınavını,
+n) Üniversite: Kastamonu Üniversitesini,
+o) Yabancı dil sınavı: Yükseköğretim kurumları veya ÖSYM tarafından yapılan ve eşdeğerliği YÖK tarafından kabul edilen sınavları,
+ö) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

@@ -1,0 +1,11 @@
+Tez izleme sınavları ve tez konusunun değiştirilmesi
+MADDE 46- (1) Tez önerisi kabul edilen öğrenci için tez izleme komitesi, Ocak-Haziran ve Temmuz-Aralık ayları arasında birer defa olmak üzere yılda iki kez toplanır. Bu toplantılar arasında en az üç ay süre olmalıdır. Belirlenen dönemlerde tez izleme komitesi toplantısının yapılmaması durumunda öğrenci başarısız olarak değerlendirilir.
+(2) Tez önerisi Ocak-Haziran ayları arasında kabul edilen öğrenci birinci tez izleme sınavına Temmuz-Aralık ayları arasında, tez önerisi Temmuz-Aralık ayları arasında kabul edilen öğrenci ise birinci tez izleme sınavına Ocak-Haziran ayları arasında girer.
+(3) Tez önerisi savunma sınavı ile birinci tez izleme toplantısı arasında en az üç ay süre olmalıdır.
+(4) Öğrenci tez izleme sınavı tarihinden en az bir ay önce tez izleme komitesi üyelerine yazılı bir rapor sunar. Bu raporda o ana kadar yapılan çalışmaların özeti ve bir sonraki dönemde yapılacak çalışma planı belirtilir.
+(5) Tez izleme sınavı yer ve saati ilan edilmek üzere sınav tarihinden en az on beş gün önce danışman tarafından EABD/EASD başkanlığı aracılığıyla Enstitüye gönderilir.
+(6) Tez izleme sınavı sonucunda öğrencinin tez çalışması, tez izleme komitesi tarafından başarılı veya başarısız olarak değerlendirilerek ilgili form ve ekleri EABD/EASD başkanlığı aracılığıyla Enstitüye iletilir.
+(7) EYK tarafından kabul edilmiş bir mazereti bulunmadan ilan edilen gün ve saatte sınava girmeyen veya Enstitüye üç iş günü içinde tez izleme komitesi tarafından onaylanmış form ve eklerini sunmayan öğrencinin tez izleme sınavı başarısız sayılır.
+(8) Tez izleme sınavına katılarak veya mazeretsiz olarak tez izleme sınavına katılmayarak üst üste iki kez veya aralıklı olarak üç kez başarısız bulunan öğrencinin Enstitü ile ilişiği kesilir.
+(9) Tez önerisi savunma sınavı sonucunda çalışma konusu kabul edilen tezlerin takip eden süreçte isimlerinde değişiklik yapılabilir. Bunun için tez izleme komitesinin teklifi ve EYK’nin kararı gerekir. İsim değişikliklerinde tez izleme sınavları değişiklik öncesinde gelinen aşamadan devam eder.
+(10) Tez konusu değişikliğinin söz konusu olduğu ve EYK tarafından kabul edildiği hallerde tez önerisi en geç altı ay içerisinde tekrar verilir. Bu durumda tez önerisi ile ilgili süreç tekrarlanır.

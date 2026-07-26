@@ -1,0 +1,6 @@
+Bilimsel hazırlık programına başvuru ve öğrenci kabulü
+MADDE 11- (1) Yüksek lisans ve doktora/sanatta yeterlik programlarına kabul edilen öğrencilerden lisans veya yüksek lisans derecesini kabul edildikleri programdan farklı alanlarda almış olanlar ile söz konusu derecelerini kabul edildikleri yükseköğretim kurumu dışındaki yükseköğretim kurumlarından almış olan adaylar bilimsel hazırlık programına tabi tutulur.
+(2) Bilimsel hazırlık programında alınması gereken zorunlu dersler ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine sayılamaz. Bu dersler mezuniyet belgesinde yer alır ancak, lisansüstü ağırlıklı genel not ortalamasına dâhil edilmez.
+(3) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dâhil edilmez. Bu süre dönem izinleri dışında uzatılamaz. Süre sonunda başarılı olamayan öğrencinin Enstitü ile ilişiği kesilir.
+(4) Bilimsel hazırlık programında geçirilen süre yüksek lisans veya doktora/sanatta yeterlik programı sürelerine dâhil edilmez.
+(5) Bilimsel hazırlık programı öğrencilerinin ders kaydı, devam durumu, sınavlar, derslerden başarılı sayılma şartları ve ders tekrarı gibi hususlarda kayıtlı bulundukları lisansüstü program için belirlenen şartlar geçerlidir.
