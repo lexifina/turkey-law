@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 11 – (1) (Değişik:RG-27/7/2026-33322) Danışma Kurulu; Müdür (Başhekim) ve Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin veya diğer üniversitelerin öğretim üyeleri, ilgili alanda çalışmaları bulunan kişiler arasından Müdür (Başhekim)’ün önerisi üzerine Rektör tarafından görevlendirilen üç üye ve Veteriner Fakültesi öğretim üyeleri arasından Dekanın önerisi üzerine Rektör tarafından görevlendirilen bir üye olmak üzere toplam beş üyeden oluşur. Üyelerin görev süresi üç yıldır. Görev süresi sona eren üye aynı usulle yeniden görevlendirilebilir.
+(2) Danışma Kurulu, Müdür (Başhekim)’ün başkanlığında yılda iki defa olağan olarak toplanır. Danışma Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır.
+(3) Danışma Kurulu, Merkezin çalışmaları ile ilgili konularda tavsiye niteliğinde görüş ve önerilerde bulunur.
