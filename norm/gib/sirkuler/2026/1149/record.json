@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDV-71/2026-1",
+  "source_id": 1149,
+  "date": "2026-07-27",
+  "title": "7846 sayılı Cumhurbaşkanı Kararı kapsamında indirimi kabul edilmeyen katma değer vergisinin indirim konusu yapılıp yapılmadığının tespitine ilişkin özel amaçlı yeminli mali müşavirlik raporlarının ibraz süresinin uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/1149",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "289142409321cb36c513e50c12be766cf28875f778a87cc6d7f43b690d13fd6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
