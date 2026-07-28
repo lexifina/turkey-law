@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-10/7/2019-30827)
+(1) Bu Yönetmelik, 5/1/1961 tarihli ve 222 sayılı İlköğretim ve Eğitim Kanunu, 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanunu, 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanunu, (Ek ibare:RG-17/1/2025-32785) 10/10/2024 tarihli ve 7528 sayılı Öğretmenlik Mesleği Kanunu, 30/5/1997 tarihli ve 573 sayılı Özel Eğitim Hakkında Kanun Hükmünde Kararname ile 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 301 inci, 304 üncü ve 326 ncı maddelerine dayanılarak hazırlanmıştır.

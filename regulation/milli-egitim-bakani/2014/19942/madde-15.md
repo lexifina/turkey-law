@@ -1,0 +1,5 @@
+Yatılı bölge ortaokuluna kayıt
+MADDE 15 – (1) Yatılı bölge ortaokuluna kayıtta aşağıdaki esaslara uyulur:
+a) Yatılı bölge ortaokulunun öğrenci alacağı yerleşim yerleri ve öğrenci sayısı, kayıtlar başlamadan en az bir ay önce il millî eğitim müdürü veya görevlendireceği il millî eğitim müdür yardımcısının başkanlığında, ilçe millî eğitim müdürleri ve yatılı bölge ortaokulu müdürlerinden oluşan bir komisyon tarafından 10 uncu maddede belirtilen planlama da dikkate alınarak tespit edilir.
+b) Okulu bulunmayan veya öğrenci yetersizliği nedeniyle okulu kapatılan yerleşim birimlerindeki öğrenciler ile birleştirilmiş sınıfları bulunan ilkokullarda 4 üncü sınıfı tamamlayan ve taşımalı eğitim kapsamına alınamayan mecburi ilköğretim çağındaki öğrenciler de yatılı bölge ortaokullarına alınırlar. Bulunduğu ilde yatılı bölge ortaokulu bulunmayan öğrenciler, diğer illerdeki yatılı bölge ortaokullarına yerleştirilir.
+c) Olağanüstü durumlarda ve özel durumu olan öğrencilerin kayıtları ise il millî eğitim müdürlüğünce belirlenen yatılı bölge ortaokullarına yapılır.

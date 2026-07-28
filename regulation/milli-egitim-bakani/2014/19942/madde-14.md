@@ -1,0 +1,4 @@
+Sınavla kayıt
+MADDE 14 – (1) Mecburi ilköğretim çağında olup (Mülga ibare:RG-17/1/2025-32785) oturduğu yerde okul bulunmaması ve sağlık durumu nedeniyle hiç okula gidememiş veya öğrenime ara vermiş çocuklardan özel bir şekilde kendini yetiştirmiş olanlar, (Değişik ibare:RG-17/1/2025-32785) sınavla/komisyonca tespit edilecek bilgi düzeyine ve yaşına uygun sınıfa kaydedilir.
+(2) (Değişik:RG-17/1/2025-32785) Bu sınavlar ortaokullar ve imam hatip ortaokullarında Millî Eğitim Bakanlığı Denklik Yönetmeliğinde belirtilen usule göre yapılır. İlkokullarda sınav yapılmaz, sınıf seviyesi öğrencinin yaşı ve veli beyanı dikkate alınarak il/ilçe milli eğitim müdürlüğünde bir şube müdürü, bir ilkokul müdürü, iki sınıf öğretmeni ve bir rehber öğretmenden oluşan komisyonca belirlenir.
+(3) (Mülga:RG-17/1/2025-32785)

@@ -1,0 +1,5 @@
+Denklik ile kayıt
+MADDE 13 – (Değişik:RG-17/1/2025-32785)
+(1) 9/7/2024 tarihli ve 32597 sayılı Resmî Gazete’de yayımlanan Millî Eğitim Bakanlığı Denklik Yönetmeliğine göre denklik istenmeyecek öğrenciler ile azınlık veya yabancı okullardan ve Açık Öğretim Ortaokulu yurt dışı programına kayıtlı mecburi ilköğretim çağında olup resmî okullara naklen gelen öğrenciler, öğrenim belgelerinde gösterilen sınıflara sınavsız alınırlar.
+(2) Yabancı ülkede öğrenim görmekte iken yurdumuza gelen ilkokul çağındaki öğrencilerden öğrenim belgesi olanlar, Millî Eğitim Bakanlığı Denklik Yönetmeliği hükümlerine göre denkliği yapılarak belirlenen sınıfa alınırlar. Öğrenim belgesi bulunmayan ilkokul çağındaki öğrencilerin sınıf seviyesi ise yaşı ve velisinin beyanı dikkate alınarak il/ilçe milli eğitim müdürlüğünde bir şube müdürü, bir ilkokul müdürü, iki sınıf öğretmeni ve bir rehber öğretmenden oluşan komisyonca belirlenir. İlkokul öğrencileri için seviye tespit sınavı yapılmaz.
+(3) Yabancı ülkede öğrenim görmekte iken yurdumuza gelen ortaokul çağındaki öğrencilerin denklik işlemleri Millî Eğitim Bakanlığı Denklik Yönetmeliği hükümlerine göre yapılır.
