@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33323",
+  "date_quote": "RG-28/7/2026-33323",
+  "first_law": null,
+  "gazette": "33124 4.Mükerrer",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-07-28",
+  "in_force_basis": "latest source-printed Resmi Gazete amendment date (current consolidated text)",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-100.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42872&MevzuatTertip=5",
+  "source_bytes": 947361,
+  "source_id": "9.5.42872",
+  "source_sha256": "bac879d35c0c45ffe3eef38b2b0e3a96ed680e1c78b61f77e916cedc158080ca",
+  "title": "TARIM VE ORMAN BAKANLIĞININ KONTROLÜNE TABİ ÜRÜNLERİN İTHALAT DENETİMİ TEBLİĞİ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2026/5)",
+  "word_count": 15350
+}

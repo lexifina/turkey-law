@@ -1,0 +1,6 @@
+Kontrol Belgesi
+MADDE 8- (1) Ek-1/A, Ek-3 ve Ek-12’de yer alan ürünlerin ithalatında Uygunluk Yazısı düzenlenmesi için ithalattan önce Tarım ve Orman Bakanlığınca onaylanan Kontrol Belgesi aranır.
+(2) Kontrol Belgesi alınmasını teminen Ek-1/A ve Ek-3’te yer alan ürünler için Ek-8/A’da yer alan Kontrol Belgesi formu ile ürünün özelliğine göre Kontrol Belgesi formunda belirtilen ilgili mevzuat uyarınca istenen diğer belgelerle birlikte ithalattan önce Tarım ve Orman Bakanlığına başvurulur.
+(3) Ek-1/A’daki 01.06 tarife pozisyonu altında yer alan yaban hayvanlarının üretici kod numarası almış yaban hayvanı üretim tesisleri için ithalatında; ithalatçı veya temsilcisi tarafından EK-8/B’de yer alan Kontrol Belgesi formu doldurularak proforma fatura veya fatura ile birlikte Tarım ve Orman Bakanlığına (Doğa Koruma ve Milli Parklar Genel Müdürlüğü) başvurulur.
+(4) Ek-12’de yer alan ürünler için ithalatçı veya temsilcisi tarafından Ek-13’te yer alan Kontrol Belgesi formu doldurularak proforma fatura veya fatura ile birlikte Tarım ve Orman Bakanlığına (Orman Genel Müdürlüğü) başvurulur.
+(5) Kontrol Belgesi, e-belge sistemi veya ilgili kayıt sistemleri üzerinde e-belge olarak da düzenlenebilir.
