@@ -1,0 +1,6 @@
+Gümrük işlemleri
+MADDE 12- (1) Eklerdeki listelerde yer alan ürünlerin ithalatında, Tarım ve Orman Bakanlığınca düzenlenen Uygunluk Yazısı gümrük idarelerince aranır.
+(2) 10 uncu maddenin beşinci fıkrasında yer alan muafiyetler kapsamında olduğu beyan edilen ürünlerin ithalatına gümrük idarelerince doğrudan izin verilir. İzin verilen eşyaya ilişkin veriler elektronik ortamda Tarım ve Orman Bakanlığı ile paylaşılır.
+(3) Bir ürünün ilgili mevzuata uygun olmadığının tespiti ve bu hususun gerekçeli Uygunsuzluk Yazısı ile ilgili gümrük idaresine bildirilmesi halinde, ürünün ithaline gümrük idarelerince izin verilmez ve Uygunsuzluk Yazısı özet beyana ve taşıma belgesine iliştirilir veya kaydedilir.
+(4) Uygunsuz çıkan Ek-1/A, Ek-1/B, Ek-2, Ek-3, Ek-4, Ek-5, Ek-6/A, Ek-6/B veya Ek-7’de belirtilen ürün mahrecine iade edilir veya masrafları ürünün sahibine ait olmak üzere imhâ suretiyle tasfiye edilmek üzere gümrüğe terk edilir ya da ilgili mevzuat çerçevesinde Tarım ve Orman Bakanlığının uygun göreceği tedbirler alınır.
+(5) Uygunsuz bulunan Ek-12’de yer alan ürün, on gün içinde ithalatçı veya temsilcisi tarafından mahrecine iade edilir veya masrafları ithalatçı veya temsilcisi tarafından karşılanmak üzere imha suretiyle tasfiye edilir.

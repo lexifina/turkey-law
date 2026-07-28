@@ -1,0 +1,4 @@
+Geçiş süreci
+GEÇİCİ MADDE 1- (1) Bu Tebliğin yürürlüğe girdiği tarihten önce çıkış ülkesinde ihraç amacıyla taşıma belgesine bağlanmış veya gümrük mevzuatı uyarınca gümrük idarelerine sunulmuş ürünlerin ithali, bu Tebliğin yürürlüğe girdiği tarihten itibaren kırk beş gün süreyle 15 inci maddeyle yürürlükten kaldırılan Tarım ve Orman Bakanlığının Kontrolüne Tabi Ürünlerin İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2025/5)’ne tâbidir. Ancak söz konusu işlemlere bu Tebliğin lehteki hükümleri de uygulanır.
+(2) 15 inci maddeyle yürürlükten kaldırılan Tarım ve Orman Bakanlığının Kontrolüne Tabi Ürünlerin İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2025/5) kapsamında alınmış Kontrol Belgeleri, mezkûr Tebliğde belirtilen süre kadar geçerlidir.
+(3) Bu Tebliğin hükümleri Ek-2’de yer alan 8210.00, 8214.90.00.90.19, 82.15 (8215.20.10.00.00 GTİP’i hariç) ve 9604.00.00.00.00 GTİP’li ürünlerin ithalatında 1/3/2026 tarihine kadar uygulanmaz.
