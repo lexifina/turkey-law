@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/47136",
+  "submitted": "2026-07-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali YÜKSEL",
+  "province": "Konya",
+  "summary": "15 Temmuz darbe girişimi nedeniyle açılan tazminat davalarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/581a2ef5-b1ae-4b1d-91d9-019fb2fc3291",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "cec61bc9fd4cf16ec1d0eb1fa61df505e1dd7895e6477d55335e515780c2d5db",
+  "in_force": "2026-07-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
