@@ -1,0 +1,5 @@
+Rafinerilerin faaliyet izni sonrası yükümlülükleri
+MADDE 10- (1) Rafineriler tarafından faaliyet izin tarihinden itibaren, altın rafinerisi için yılda en az 3 ton altın, gümüş rafinerisi için yılda en az 3 ton gümüş, platin rafinerisi için yılda en az 500 kilogram platin ve paladyum rafinerisi için yılda en az 500 kilogram paladyum üretimi yapılması zorunludur. Bakanlık, bu fıkrada belirtilen miktarlarda üretim yapılamamasına ilişkin mücbir sebep hallerini değerlendirmek suretiyle söz konusu üretim şartının aranıp aranmayacağı hususunda karar vermeye yetkilidir.
+(2) Rafineriler, işlem gerçekleştirmeden önce 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun ve ilgili mevzuat hükümleri uyarınca müşterilerinin kimlik bilgilerini tespit ederler.
+(3) Rafineriler ürettikleri kıymetli madenlerin üzerinde yer alan ve Bakanlık ile Darphaneye KMTS üzerinden iletilen standartlarda olmasından sorumludur.
+(4) Rafinerilerin faaliyetlerinin yürütülmesi sırasında işin gerektirdiği mesleki dikkat ve özeni göstermeleri, kaynakları etkin bir biçimde kullanmaları ve bu doğrultuda gerekli önlemleri almaları gerekir.

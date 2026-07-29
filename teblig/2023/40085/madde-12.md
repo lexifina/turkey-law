@@ -1,0 +1,2 @@
+Darphanenin rafinaj faaliyetleri
+MADDE 12- (1) Darphane Bakanlığa başvuru yapmak şartıyla rafineri olarak faaliyet gösterebilir. Bu durumda Darphanenin rafineri olarak faaliyet göstermesiyle ilgili olarak bu Tebliğde yer alan şartlar ve yükümlülükler aranmaz. Bakanlık Darphane tarafından sağlanacak şartları belirlemeye yetkilidir. Darphane rafineri faaliyeti ile ilgili olarak Bakanlıkça istenen her türlü bilgi ve belgeyi belirlenecek şekil ve sürelerde Bakanlığa bildirmek zorundadır.

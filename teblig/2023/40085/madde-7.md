@@ -1,0 +1,28 @@
+ÜÇÜNCÜ BÖLÜM
+Rafinerilerin Kuruluş, Faaliyet, Gözetim ve Denetimi
+Rafineri kuruluş izni
+MADDE 7- (1) Ürünleri Türkiye’de alınıp satılabilecek ve yurt dışına ihraç edilebilecek rafinerilerin;
+a) Anonim şirket şeklinde kurulmuş olması,
+b) Şirketin esas sözleşmesinde yer alan ticaret unvanında “rafineri” ibaresinin bulunması,
+c) Ödenmiş sermayesinin 35 milyon TL’den az olmaması,
+ç) Paylarının tamamının nama yazılı olması ve nakit şeklinde çıkarılması,
+d) Esas sözleşmelerinin bu Tebliğ hükümlerine uygun olması,
+e) Türkiye’de yerleşik her bir kurucu ortağının ve tüzel kişi kurucu ortaklarda yüzde on veya daha fazla ortaklık payı bulunan kişiler ile tüzel kişi ortaklarla ilişkili kişilerin,
+1) Müflis olmaması, konkordato ilan etmiş olmaması, uzlaşma suretiyle yeniden yapılandırma başvurusunun tasdik edilmiş olmaması ya da hakkında iflasın ertelenmesi kararı verilmiş olmaması,
+2) Taksirli suçlar hariç olmak üzere affa uğramış olsalar dahi süreli hapis veya cezası ne olursa olsun basit veya nitelikli zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas gibi yüz kızartıcı suçlar, kamu güvenine karşı suçlar ile 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununda yer alan kaçakçılık suçları, 27/12/2020 tarihli ve 7262 sayılı Kitle İmha Silahlarının Yayılmasının Finansmanının Önlenmesine İlişkin Kanun kapsamındaki suçlar, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununda yer alan suçlar, ihaleye fesat karıştırma ve edimin ifasına fesat karıştırma, tefecilik, suçtan kaynaklanan mal varlığı değerlerini aklama, terörizmin finansmanı veya Devletin egemenlik alametlerine ve organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, yabancı devletlerle olan ilişkilere karşı suçlar, vergi kaçakçılığı suçları veya bu suçlara iştirakten hükümlü bulunmaması,
+3) Başvuru tarihi itibarıyla son 1 yıl içerisinde; faaliyet izni 18 inci maddenin birinci fıkrasının (ç) bendi uyarınca Bakanlıkça iptal edilmiş rafinerilerde ortaklığı bulunmaması veya yönetim kurulu başkanı, yönetim kurulu üyesi, genel müdür veya iç kontrol ve tedarik zinciri uyum görevlisi görevlerinden birinde bulunmamış olması veya bu şirketlerin imza yetkisini haiz çalışanı olmaması, Bakanlığa gerçeğe aykırı bilgi ve belge sunmuş olmaması ve kendisinin, yüzde on veya daha fazla pay sahibi olduğu şirketlerin pay sahibi olduğu dönemde veya daha önce temsile yetkili olarak çalıştığı iş yerlerinin temsile yetkili olduğu dönemde 20/2/1930 tarihli ve 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanunun 3 üncü maddesinin beşinci fıkrası uyarınca idari yaptırıma uğramamış olması,
+4) Kendileri ile yüzde on veya daha fazla ortaklık payı bulunan şirketlerinin 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun kapsamında vadesi geçmiş borcunun bulunmaması,
+5) Gerekli mali güce ve işin gerektirdiği dürüstlük ve yeterlilik ile itibara sahip bulunması,
+zorunludur.
+(2) Bakanlığa yapılacak kuruluş izni başvurusuna;
+a) Şirket esas sözleşme taslağının,
+b) Türkiye’de yerleşik her bir kurucu ortak ve tüzel kişi kurucu ortaklarda yüzde on veya daha fazla ortaklık payı bulunan kişiler ile tüzel kişi ortaklarla ilişkili kişilerin,
+1) Müflis olmadıklarına, konkordato ilan etmiş olmadıklarına, uzlaşma suretiyle yeniden yapılandırma başvurularının tasdik edilmiş olmadığına ya da haklarında iflasın ertelenmesi kararı verilmediğine ilişkin yazılı beyanlarının,
+2) Başvuru tarihi itibarıyla son 1 yıl içerisinde; faaliyet izni 18 inci maddenin birinci fıkrasının (ç) bendi uyarınca Bakanlıkça iptal edilmiş rafinerilerde ortaklığı bulunmadığına veya yönetim kurulu başkanı, yönetim kurulu üyesi, genel müdür veya iç kontrol ve tedarik zinciri uyum görevlisi görevlerinden birinde bulunmamış olduğuna veya bu şirketlerin imza yetkisini haiz çalışanı olmadığına, Bakanlığa gerçeğe aykırı bilgi ve belge sunmadıkları ile kendisinin, yüzde on veya daha fazla pay sahibi olduğu şirketlerin pay sahibi olduğu dönemde veya daha önce temsile yetkili olarak çalıştığı iş yerlerinin temsile yetkili olduğu dönemde 1567 sayılı Kanunun 3 üncü maddesinin beşinci fıkrası uyarınca idari yaptırıma uğramadıklarına dair yazılı beyanlarının,
+3) Adli sicil kaydına ilişkin belgelerin, başvuru sahibinin tüzel kişi olması durumunda, tüzel kişi kurucuların, yönetim kurulu başkanı, genel müdür ve yüzde on veya daha fazla ortaklık payı bulunan ortaklarının adli sicil kaydına ilişkin belgelerin,
+4) Kendileri ile yüzde on veya daha fazla ortaklık payı bulunan şirketlerinin 6183 sayılı Kanun kapsamında vadesi geçmiş borcunun bulunmadığına dair bağlı bulunulan vergi dairesinden alınacak belgenin,
+5) Gerçek kişiler için Ek-1’de, tüzel kişiler için Ek-2’de yer alan örneğe uygun şekilde ve noter huzurunda düzenlenip imza edilecek birer beyannamenin,
+6) Bakanlıkça gerekli görülecek diğer bilgi ve belgelerin,
+eklenmesi zorunludur.
+(3) Birinci ve ikinci fıkra kapsamında kuruluşu uygun görülen rafinerilere Bakanlık tarafından kuruluş izni verilir.
+(4) Rafinerinin kurucu ortakları tarafından kuruluş izni tarihinden itibaren 180 gün içerisinde kuruluş işlemleri tamamlanarak faaliyet izni almak üzere Bakanlığa başvuruda bulunulur. Söz konusu süre içerisinde başvuru yapmayanların kuruluş izni iptal edilmiş sayılır. Bakanlık mücbir sebep ve haklı durum hallerinin tevsiki kaydıyla söz konusu süreyi 180 güne kadar uzatabilir. Bakanlık mücbir sebep veya haklı durumun devam etmesi halinde verilen 180 günlük ek süreyi 2 kata kadar artırmaya yetkilidir.

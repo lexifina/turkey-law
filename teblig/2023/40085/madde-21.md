@@ -1,0 +1,2 @@
+Yetki
+MADDE 21- (1) Bakanlık bu Tebliğin tatbikatını temin etmek ve tereddütlü durumları gidermek amacıyla gerekli göreceği her türlü tedbiri almaya, mücbir sebep hallerini veya zorunlu halleri değerlendirmeye, rafinerilerin uygulayacakları her türlü ücret, masraf ve komisyona ilişkin azami, üretime ilişkin asgari limitleri belirlemeye ve Tebliğde öngörülen haller dışında kalan özel durumları inceleyip sonuçlandırmaya yetkilidir.

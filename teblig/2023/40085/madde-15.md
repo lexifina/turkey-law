@@ -1,0 +1,13 @@
+DÖRDÜNCÜ BÖLÜM
+Bilgi Verme, Denetim, Gözetim ve Yaptırımlar
+Bilgi verme
+MADDE 15- (1) Rafineriler ödenmiş sermayelerinde meydana gelen değişiklikleri, değişikliğe ilişkin noter onaylı yönetim kurulu kararı ile değişikliğin tescil edildiği Türkiye Ticaret Sicili Gazetesinin bir örneği veya pay defterinin ilgili sayfalarının noter onaylı örnekleri ile birlikte değişiklik tarihinden itibaren 30 gün içerisinde Bakanlığa bildirmek zorundadır.
+(2) Rafineriler; merkez, ofis, temsilcilik, satış mağazası, tesis ve şube ile benzerlerinin adres ve iletişim bilgilerinde meydana gelen değişiklikleri, ilgili Türkiye Ticaret Sicili Gazetesinin bir örneği ve diğer tevsik edici belgelerle değişiklik tarihinden itibaren 30 gün içerisinde Bakanlığa bildirmek zorundadır.
+(3) Rafineriler; unvanları, ortakları, tüzel kişi ortaklarında yüzde on veya daha fazla ortaklık payı bulunan kişiler, tüzel kişi ortağıyla ilişkili kişiler, yönetim kurulu başkan ve üyeleri, genel müdür veya yöneticileri, imza yetkisini haiz çalışanları ile iç kontrol ve tedarik zinciri uyum görevlileri ve serbest muhasebecileri/serbest muhasebeci mali müşavirleri/yeminli mali müşavirlerine ilişkin bilgiler ile iletişim bilgilerinde meydana gelen değişiklikleri, değişiklik tarihinden itibaren 15 gün içerisinde Bakanlığa bildirmek zorundadır.
+(4) Rafinerilerin rapor konusu dönemi takip eden yılın Haziran ayı sonuna kadar, yeminli mali müşavirlik tam tasdik raporunu veya bağımsız denetim raporunu her yıl Bakanlığa sunmaları zorunludur.
+(5) Rafineriler Bakanlık tarafından istenecek her türlü bilgi ve belgeyi Bakanlıkça belirlenecek şekil, ortam ve süreler içerisinde tam ve eksiksiz olarak Bakanlığa bildirmek zorundadır.
+(6) KMTS kapsamında elde edilen verinin Darphane ve ilgili rafineriler tarafından Bakanlıkça belirlenecek şekil ve süreler içerisinde Bakanlığa bildirilmesi zorunludur.
+(7) Rafineri Borsa Rafineri Listesinde yer alıyorsa üçüncü, dördüncü ve altıncı fıkralar uyarınca yapılması gereken bildirimler ile gönderilmesi gereken bilgi ve belgeler Borsaya da iletilir.
+(8) Borsa, Borsa Rafineri Listesinde yer alan veya yer almak üzere başvuruda bulunan rafinerilerden her türlü bilgi ve belgeyi istemeye yetkilidir.
+(9) Borsada işlem gören kıymetli madenlere ilişkin istatistiki bilgiler Borsa tarafından Bakanlıkça belirlenecek şekil ve sürelerde Bakanlığa gönderilir.
+(10) Bu Tebliğ uyarınca başvurulardan, başvurulara ilişkin belgelerden ve bildirilmesi zorunlu olan durumlardan hangilerinin Bakanlığa bilgi sistemleri aracılığıyla ve ne şekilde iletileceğine ilişkin usul ve esaslar Bakanlık internet sitesi veya bilgi sisteminde yayımlanır.

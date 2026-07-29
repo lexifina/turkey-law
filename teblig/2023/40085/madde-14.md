@@ -1,0 +1,8 @@
+Cevherden kıymetli maden üretimi
+MADDE 14- (1) Yurt içinde cevherden her tür ve şekilde üretilen,
+a) Altın, Borsa Rafineri Listesinde yer alan Türkiye'de kurulu rafinerilerde rafinaj işlemine tabi tutularak standart işlenmemiş altın haline getirilir ve bu işlemi müteakip 7 iş günü içinde Borsa Takas Merkezine teslim edilir. Borsaya teslim edilen altınların Borsanın ilgili piyasasında alım satımı gerçekleştirilir.
+b) Altın dışındaki kıymetli madenlerin, Borsa Rafineri Listesinde yer alan Türkiye'de kurulu rafinerilerde rafinaj işlemine tabi tutularak standart işlenmemiş kıymetli maden haline getirilmesi halinde bu işlemi müteakip 7 iş günü içinde Borsa Takas Merkezine teslim edilmesi ve Borsanın ilgili piyasasında alım satımının gerçekleştirilmesi gereklidir.
+c) Altın dışındaki standart dışı kıymetli madenlerin, Borsa tarafından belirlenecek işlem esasları dâhilinde, Darphane tarafından veya Darphanenin belirleyeceği kuruluşlarca düzenlenecek ayar raporunda yer alan miktarlarına göre işlem yapılmak suretiyle Borsanın ilgili piyasasında alım satımı gerçekleştirilir.
+ç) Altının üretimi sırasında ortaya çıkan kırık karbon, cüruf ve benzeri atıkların ihtiva ettiği kıymetli madenler bu fıkranın (a) bendi, altın dışındaki kıymetli madenlerin üretimi sırasında ortaya çıkan kırık karbon, cüruf ve benzeri atıkların ihtiva ettiği kıymetli madenler ise bu fıkranın (b) ve (c) bendinde yer alan esaslara tabidir.
+(2) Teslimatta uyulması gereken usul ve esaslar Borsa tarafından belirlenir.
+(3) Yurt içinde cevherden her tür ve şekilde üretilen kıymetli madenler için Türkiye Cumhuriyet Merkez Bankasının ve Türkiye Cumhuriyet Merkez Bankasının kullanmaması durumunda Darphanenin ön alım hakkı bulunmaktadır.

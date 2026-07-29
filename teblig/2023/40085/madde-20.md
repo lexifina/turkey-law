@@ -1,0 +1,2 @@
+Teminat mektubu
+MADDE 20- (1) 8 inci maddenin birinci fıkrasının (c) bendi uyarınca rafineriler tarafından kamu/özel sermayeli bankalardan alınan teminat mektupları Bakanlıkta muhafaza edilir. Herhangi bir nedenle faaliyetin sona ermesi halinde, bu tutarlardan öncelikle vergi, resim ve harç ve benzeri yükümlülükleri karşılandıktan sonra kalan tutar Bakanlığın talimatı üzerine ilgili şirkete ödenir.
