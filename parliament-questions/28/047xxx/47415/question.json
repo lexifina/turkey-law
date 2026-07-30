@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/47415",
+  "submitted": "2026-07-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet AKALIN",
+  "province": "Edirne",
+  "summary": "ABD tarafından Türkiye menşeli tekstil ve hazır giyim ürünlerine uygulanan ilave gümrük vergisine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/146ed3c5-c26c-4cef-afb7-019fb35b4cf8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "334c1268167bceb152277f6e0295a83f95938dae21717596e55cae300c7c1234",
+  "in_force": "2026-07-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
