@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "14765-1",
+  "decision_date": "2026-07-30",
+  "title": "Doğal gaz dağıtım şirketlerinin perakende satış tarifelerine ilişkin",
+  "resmi_gazete_date": "2026-08-01",
+  "resmi_gazete_number": "33327",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gKOXPriN7uo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gKOXPriN7uo="
+  ],
+  "source_sha256": "251be80a72330e8f01e66293c6dbf5860853da3c3ed5e446165deac400778e34",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-07-30",
+  "law_text_complete": true
+}
