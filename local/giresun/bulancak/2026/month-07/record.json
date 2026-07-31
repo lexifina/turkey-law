@@ -1,0 +1,30 @@
+{
+  "number": "month-07",
+  "year": 2026,
+  "month": 7,
+  "title": "Temmuz 2026 - Meclis Karar Özetleri ( Temmuz)",
+  "decision_date": null,
+  "index_date": "2026-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2026",
+  "source": "https://www.bulancak.bel.tr/meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://www.bulancak.bel.tr/meclis-kararlari/meclis-karar-ozetleri-temmuz",
+  "source_sha256": "88f209c45f2b7bd25e5c6a59e396238ae37d149840aa29e7d6300d14c5187d76",
+  "issuer": "Bulancak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Temmuz 2026 - Meclis Karar Özetleri ( Temmuz)",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "2026-07-24",
+  "document_note": "Dated from the official card title. Where a card names the month without a year, the year is the card's posting year, or the year before when the named month is later than the posting month (a December summary posted in January); such titles are prefixed '<month> <year> - '."
+}
