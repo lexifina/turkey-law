@@ -1,0 +1,4 @@
+Kadın (Değişik ibare:RG-10/4/2014-28968) ve çocuk konukevi ile danışma merkezi açılması
+EK MADDE 2 – (Ek:RG-12/9/2010-27697)
+(1) (Değişik:RG-10/4/2014-28968) Bünyesinde asgari 20 kadın ve/veya çocuk kapasiteli konukevi bulunduran belediyelerde bu kapasitedeki her bir konukevi için 1 adet müdür, 4 adet sosyal hizmet uzmanı, 1 adet psikolog, 1 adet hemşire, 1 adet aşçı, 1 adet çocuk gelişimcisi, 1 adet çocuk eğitimcisi, 4 adet koruma ve güvenlik görevlisi, 1 adet hizmetli kadrosu;
+(2) Ayrıca belediye bünyesinde kadın danışma merkezi kurulması durumunda her merkez için 1 adet müdür, 2 adet sosyal hizmet uzmanı ve 2 adet psikolog ile bu merkez bünyesinde şiddet yardım hattı kurulması durumunda ise ilave olarak 2 adet sosyal hizmet uzmanı kadrosu bu Yönetmelik hükümlerine göre ihdas edilir ve ilgili belediyenin bu Yönetmelikte tespit edilen norm kadro standartları toplamına eklenir.

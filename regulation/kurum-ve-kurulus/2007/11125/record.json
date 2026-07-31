@@ -1,0 +1,95 @@
+{
+  "source_id": "7.5.11125",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BELEDİYE VE BAĞLI KURULUŞLARI İLE MAHALLİ İDARE BİRLİKLERİ NORM KADRO İLKE VE STANDARTLARINA DAİR YÖNETMELİK",
+  "number": "11125",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11125",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11125&MevzuatTertip=5",
+  "source_sha256": "194e12912458bfe00db86549973d2f6edb58515d2515835c572f78423cf3b0f6",
+  "source_bytes": 92893,
+  "published": "2007-02-22",
+  "gazette": "26442",
+  "in_force": "2026-07-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-31",
+      "RG-31/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-31",
+      "31/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-09-12",
+      "RG-12/9/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-09-12",
+      "12/9/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-17",
+      "RG-17/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-17",
+      "17/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-06-02",
+      "RG-2/6/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-06-02",
+      "2/6/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-09",
+      "9/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-17",
+      "RG-17/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-17",
+      "17/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-04-08",
+      "8/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4532,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11125-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

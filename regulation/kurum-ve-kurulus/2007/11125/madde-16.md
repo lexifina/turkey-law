@@ -1,0 +1,2 @@
+Sağlık personeli
+MADDE 16 – (1) Bu Yönetmeliğin yürürlük tarihinde hastanesi bulunan veya bu tarihten sonra hastane açan belediyelerde, norm kadro standartları cetvelinde belirlenen personel sayısının yetersiz kalması durumunda, (Değişik ibare:RG-17/4/2022-31812) 4/1/2012 tarihli ve 28163 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinde ve ilgili mevzuatında yatak sayısı itibarıyla öngörülen kadro sayılarını aşmamak üzere ihdas edilecek kadrolar belediyenin personel kadrosuna eklenir.

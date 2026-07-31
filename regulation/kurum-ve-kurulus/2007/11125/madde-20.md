@@ -1,0 +1,2 @@
+Birlikler
+MADDE 20 – (1) Yönetmeliğin ekinde yer alan Ek-2 Belediye ve Bağlı Kuruluşları ile Mahalli İdare Birlikleri Norm Kadro Standartları Cetvelinde mahalli idare birlikleri için tespit edilen memur norm kadro standardı toplamının, bu birliklerin kuruluş amaçlarını gerçekleştirmesinde yetersiz kalması durumunda, birliğe üye il özel idaresi ve belediyelerin memur norm kadro standardı toplamından düşülmek kaydıyla kadro aktarımı yapılabilir.
