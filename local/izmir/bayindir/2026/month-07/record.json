@@ -1,0 +1,28 @@
+{
+  "number": "month-07",
+  "year": 2026,
+  "month": 7,
+  "title": "2026 YILI TEMMUZ AYI 1. BİRLEŞİM KARARLARI",
+  "decision_date": null,
+  "index_date": "2026-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2026",
+  "source": "https://www.bayindir.bel.tr/guncel/meclis-kararlari/2026-yili-temmuz-ayi-1-birlesim-kararlari",
+  "official_page": "https://www.bayindir.bel.tr/guncel/meclis-kararlari/2026-yili-temmuz-ayi-1-birlesim-kararlari",
+  "official_document": "https://bayindir.bel.tr//storage/photos/7/TEMMUZ AYI 1.BİRLEŞİM- 77-  108. ARASI.pdf",
+  "source_sha256": "3d6bbec20fb6f30ca3ab9c31d99676ade9150170a2bab2068d94217321d1012e",
+  "issuer": "Bayındır Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 YILI TEMMUZ AYI 1. BİRLEŞİM KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
