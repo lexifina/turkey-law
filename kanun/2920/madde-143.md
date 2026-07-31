@@ -1,8 +1,9 @@
-Kabahat oluşturan davranışlar (2)
+Kabahat oluşturan davranışlar[21][22][23]
 Madde 143 – (Değişik: 23/1/2008-5728/435 md.)
 Bu Kanunun;
-a) 11, 18, 19, 26, 28, 29, 54, 58 ve 89 uncu maddeleri ile 9 uncu maddesinin üçüncü, 95 inci maddesinin birinci ve 102 nci maddesinin ikinci fıkrasına aykırı davranışta bulunanlara bin Türk Lirasından onbin Türk Lirasına kadar,
-b) 23, 24 ve 25 inci maddeleri ile 57 nci maddesinin son fıkrasına aykırı davranışta bulunanlara beşyüz Türk Lirasından onbin Türk Lirasına kadar,
+a) 11, 18, 19, 26, 28, 29, 54, 58 ve 89 uncu maddeleri ile 9 uncu maddesinin üçüncü, 95 inci maddesinin birinci ve 102 nci maddesinin ikinci fıkrasına aykırı davranışta bulunanlara yirmibin Türk Lirasından beşyüzbin Türk Lirasına kadar,
+b) 23, 24 ve 25 inci maddeleri ile 57 nci maddesinin son fıkrasına aykırı davranışta bulunanlara onbin Türk Lirasından beşyüzbin Türk Lirasına kadar,
 idarî para cezası verilir.
-Yukarıdaki fıkralarda belirtilenler dışında kalıp da Sivil Havacılık Genel Müdürlüğünün sivil havacılığı düzenlemek maksadıyla alacağı önlemlere uymayanlara, beşyüz Türk Lirasından onbin Türk Lirasına kadar idarî para cezası verilir. (3)
+Yukarıdaki fıkralarda belirtilenler dışında kalıp da Sivil Havacılık Genel Müdürlüğünün sivil havacılığı düzenlemek maksadıyla alacağı önlemlere uymayanlara, onbin Türk Lirasından beşyüzbin Türk Lirasına kadar idarî para cezası verilir.[24]
+(Ek fıkra:24/7/2026-7590/8 md.) Birinci ve ikinci fıkralarda yer alan idari para cezalarının alt ve üst sınırları tüzel kişiler için beş katı olarak uygulanır.
 Bu madde hükümlerine göre idarî para cezasına karar vermeye Ulaştırma Bakanlığı Sivil Havacılık Genel Müdürü yetkilidir.

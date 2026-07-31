@@ -8,7 +8,7 @@ c) Ulusal numaralandırma planındaki numaralardan son kullanıcılara erişimin
 d) Kişisel veri ve gizliliğin korunması.
 e) Tüketicinin korunması.
 f) Kuruma bilgi ve belge verilmesi.
-g) Kanunlarla yetkili kılınan ulusal kurumlarca yasal dinleme ve müdahalenin yapılmasına teknik olanak sağlanması.
+g) (Mülga:24/7/2026-7590/27 md.)
 ğ) Afet durumlarındaki haberleşmenin kesintisiz devam edebilmesi için gerekli tedbirlerin alınması.
 h) Elektronik haberleşme şebekelerinden kaynaklanan elektromanyetik alanlara kamu sağlığını tehdit edecek şekilde maruz kalınmasının engellenmesi ile ilgili önlemlerin bu Kanun çerçevesinde alınması.
 ı) Erişim yükümlülükleri.
@@ -22,7 +22,6 @@ b) Frekans ve numaraların etkin ve verimli kullanımı.
 c) Elektromanyetik girişimin önlenmesi.
 ç) Numara taşınabilirliği.
 d) Rehber hizmeti.
-10390
 e) Yetkilendirme süresi.
 f) Hak ve yükümlülüklerin devri.
 g) Kullanım hakkı ücretleri.
