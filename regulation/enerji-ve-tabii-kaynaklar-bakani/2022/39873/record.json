@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.39873",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MADEN YÖNETMELİĞİ",
+  "number": "39873",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2022/39873",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39873&MevzuatTertip=5",
+  "source_sha256": "7ef9ef65f10d0e06cfbc494c5448f1d6850d2154605ae2523cd93db2046529a3",
+  "source_bytes": 573071,
+  "published": "2022-12-11",
+  "gazette": "32040",
+  "in_force": "2026-07-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/7/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-07-31",
+      "RG-31/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-31",
+      "31/7/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-10-30",
+      "RG-30/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-30",
+      "30/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 41235,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39873-%20ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
