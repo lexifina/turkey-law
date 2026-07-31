@@ -1,0 +1,2 @@
+İthal lisansı düzenlenmesi
+MADDE 9- (1) Bu Tebliğde belirtilen usul ve esaslar çerçevesinde TTY’ye göre tarife kontenjanı tahsisatı yapılan firma adına Bakanlıkça elektronik olarak ithal lisansı düzenlenir ve başvuru formunda yer alan e-posta adresine bildirir. Bildirimde Bakanlıkça elektronik ortamda (Tek Pencere Sistemi) verilen 23 haneli belge numarası ile belge tarihi yer alır. Başvuru sahibine ayrıca yazılı bildirim yapılmaz. Başvuru formunda firmaya ait doğru ve geçerli bir e-posta adresinin bildirilmemesi halinde doğabilecek sorunlardan Bakanlık sorumlu tutulamaz.
