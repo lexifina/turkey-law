@@ -1,0 +1,9 @@
+Kontenjan, başvuru ilânı, öğrenci kabulü ve kayıt
+MADDE 6- (1) Her lisansüstü program için kontenjan ve başvuru koşulları, anabilim/anasanat dalı kurulunun kararı ve Enstitü Yönetim Kurulunun onayı ile belirlenir. Her dönem için yeni öğrenci kontenjanları 20/4/2016 tarihli ve 29690 sayılı Resmî Gazete’de yayımlanan Lisansüstü Eğitim ve Öğretim Yönetmeliğinde yer alan esaslara göre belirlenir. Rektörlüğün yapmış olduğu protokoller kapsamındaki öğrenci kabullerinde, kontenjan ve başvuru şartları, ilgili anabilim/anasanat dalı kurulunun teklifi, Enstitü Kurulunun uygun görüşü üzerine Senato kararıyla belirlenir.
+(2) Lisansüstü programlara başvuru, Enstitü tarafından ilân edildiği şekilde ve Senato tarafından belirlenen takvime uygun olarak yapılır. Lisansüstü programlara yatay geçiş ve özel öğrencilik başvuruları da takvimde belirtilen tarihlerde yapılır.
+(3) Başvuruya ve öğrenci kabulüne ilişkin genel ve özel şartlar, istenen belgeler Enstitünün internet sayfasından duyurulur.
+(4) Lisansüstü programlara başvuru koşullarını sağlayan adaylar, sadece bir programa başvuru yapabilir.
+(5) Lisansüstü programlara başvuruda tüm sorumluluk adaylara aittir. Gerçeğe aykırı beyanda bulunan ve/veya başvuru şartlarını taşımadığı tespit edilen adayların başvuruları reddedilir.
+(6) Lisansüstü programlara kabul edilen adayların listesi kesinleştikten sonra asıl ve yedek olarak Enstitü tarafından ilan edilir. Kesin kayıt işlemleri, Enstitü tarafından duyurulan süre içerisinde ve belirlenen esaslara uygun olarak yapılır. Süresi içerisinde kesin kaydını yaptırmayan aday kayıt hakkını kaybeder.
+(7) Kesin kayıt yaptırmayarak kayıt hakkını kaybeden adayın yerine yedek listedeki adaylar sırasıyla ilan edilerek kabul edilir. İlanları ve bu ilanlara ilişkin güncellemeleri takip etme sorumluluğu adaylara aittir.
+(8) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.

@@ -1,0 +1,3 @@
+Yüksek lisans tez konusunun belirlenmesi, tez önerisi ve tez konusunun değiştirilmesi
+MADDE 32- (1) Anabilim/anasanat dalı başkanlığı öğrencinin tez konusunu ve başlığını danışmanıyla birlikte belirleyerek ikinci yarıyılın sonuna kadar Enstitüye önerir. Tez konusu ve başlığı Enstitü Yönetim Kurulu onayı ile kesinleşir. Derslerini başarıyla tamamlayan öğrenci, danışmanının uygun gördüğü tez önerisini tez dönemine kaydolduğu tarihten itibaren üç ay içerisinde Enstitüye teslim eder.
+(2) Öğrenci, tez konusunu danışman onayıyla değiştirebilir. Değişiklik, Enstitü Yönetim Kurulu kararıyla gerçekleşir.

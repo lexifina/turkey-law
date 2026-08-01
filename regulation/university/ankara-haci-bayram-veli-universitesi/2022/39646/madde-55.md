@@ -1,0 +1,3 @@
+Sanatta yeterlik çalışması
+MADDE 55- (1) Anabilim/anasanat dalı başkanlığı; danışmanın öğrenci ile birlikte belirleyeceği tez konusunu ve başlığıyla bu kapsamda yapılması planlanan uygulama çalışmalarını en geç ikinci yarıyılın sonuna kadar Enstitüye önerir. Bu öneri Enstitü Yönetim Kurulu kararı ile kesinleşir. Sanatta yeterlik çalışması konusunun değişikliği için öğrencinin, danışmanının onayını taşıyan öneri formunu Enstitüye teslim etmesi gerekir. Enstitüye iletilen konu değişikliği, Enstitü Yönetim Kurulu kararı ile kesinleşir.
+(2) Aksi belirtilmediği takdirde, bu Yönetmeliğin doktora programıyla ilgili maddeleri, yeterlik sınavıyla ilgili olanlar hariç olmak üzere, sanatta yeterlik programı için de geçerlidir.

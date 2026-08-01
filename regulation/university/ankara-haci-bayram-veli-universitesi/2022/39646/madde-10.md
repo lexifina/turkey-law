@@ -1,0 +1,5 @@
+Özel öğrenci kabulü
+MADDE 10- (1) Diğer bir yükseköğretim kurumunda lisansüstü programa kayıtlı olan öğrenci, kayıtlı olduğu Enstitünün anabilim/anasanat dalı başkanlığının onayı ile özel öğrenci olarak başvurabilir. Başvuru sahipleri, dersi verecek öğretim üyesinin kabulü, Enstitü anabilim/anasanat dalı başkanlığının onayı ve Enstitü Yönetim Kurulu kararıyla lisansüstü derslere özel öğrenci olarak kabul edilebilir. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldıkları ve başarılı oldukları derslerin muafiyet işlemleri kayıtlı oldukları Enstitü anabilim/anasanat dalı başkanlığı tarafından yürütülür.
+(2) Özel öğrenciler, toplamda iki yarıyılı geçmemek üzere her yarıyılda en fazla iki ders alabilir. Bu öğrenciler, kayıtlı öğrenciler gibi dersi/dersleri aldıkları yarıyıl için bu Yönetmelikte belirtilen yükümlülükleri yerine getirmek zorundadır.
+(3) Özel öğrencilere, talepleri halinde, aldıkları dersleri ve notları gösteren bir belge verilir. Bu belgede özel öğrencilik statüsü belirtilir.
+(4) (Değişik:RG-9/9/2023-32304) Özel öğrencilerin disiplin iş ve işlemleri, 2547 sayılı Kanunun 54 üncü maddesine göre yapılır.

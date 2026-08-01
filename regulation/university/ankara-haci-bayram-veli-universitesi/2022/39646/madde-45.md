@@ -1,0 +1,2 @@
+Doktora tez konusunun belirlenmesi
+MADDE 45- (1) Anabilim/anasanat dalı başkanlığı; öğrencinin danışmanı ile birlikte belirleyeceği tez konusu ve tez başlığını en geç ikinci yarıyılın sonuna kadar Enstitüye önerir. Seminer dersinin üçüncü veya dördüncü yarıyılda olduğu programlarda tez konusu ve tez başlığı seminer dersinin olduğu dönem sonunda önerilir. Tez konusu ve başlığı Enstitü Yönetim Kurulu kararıyla kesinleşir.

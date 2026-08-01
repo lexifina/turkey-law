@@ -1,0 +1,3 @@
+Dönem projesi danışmanının belirlenmesi
+MADDE 38- (1) Tezsiz yüksek lisans programında Enstitü anabilim/anasanat dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesini en geç birinci yarıyılın sonuna kadar belirler.
+(2) Danışmanın yükseköğretim kurumu dışında başka göreve atanması, hastalık veya diğer nedenlerle çekilme talebi olması ya da ilgili başkanlığın veya öğrencinin gerekçeli talebinin Enstitü Yönetim Kurulu tarafından kabul edilmesi hâlinde, öğrenciye yeni bir danışman atanır. Öğrencinin işlemleri danışmanı atanana kadar ilgili başkanlık tarafından yürütülür.

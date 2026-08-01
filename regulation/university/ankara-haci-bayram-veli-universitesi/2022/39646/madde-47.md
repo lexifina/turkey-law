@@ -1,0 +1,4 @@
+Tez izleme komitesi
+MADDE 47- (1) Yeterlik sınavında başarılı bulunan öğrenci için Enstitünün talebi, ilgili anabilim/anasanat dalı başkanlığının teklifi ve Enstitü Yönetim Kurulu onayı ile yeterlik sınavını takip eden bir ay içerisinde tez izleme komitesi oluşturulur.
+(2) Tez izleme komitesi üç asıl iki yedek üyeden oluşur. Komitede tez danışmanından başka ilgili anabilim/anasanat dalı içinden ve dışından birer üye yer alır. Tez izleme komitesi, anabilim/anasanat dalı başkanlığı tarafından önerilen iki öğretim üyesi ve tez danışmanı tarafından önerilen farklı iki öğretim üyesi içerisinden Enstitü Yönetim Kurulu tarafından oluşturulur. İkinci tez danışmanının atanması durumunda ikinci tez danışmanı komite toplantılarına katılır.
+(3) Tez izleme komitesi üyelerinde ilgili anabilim/anasanat dalı başkanlığının gerekçeli önerisi ve Enstitü Yönetim Kurulu kararıyla ikinci fıkra hükümlerine göre değişiklik yapılabilir.

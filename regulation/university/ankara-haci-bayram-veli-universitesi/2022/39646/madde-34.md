@@ -1,0 +1,4 @@
+Tezli yüksek lisans programından tezsiz yüksek lisans programına geçiş
+MADDE 34- (1) Tezli yüksek lisans programında öğretime başlayan öğrenciler, aynı bilim/sanat dalında (bilim/sanat dalı bulunmayan programlar için aynı anabilim/anasanat dalında) olmak kaydıyla, adayın başvurusu üzerine ilgili başkanlığın teklifi ve Enstitü Yönetim Kurulu kararıyla tezsiz yüksek lisans programına geçiş yapabilirler.
+(2) Tezli yüksek lisans programından tezsiz yüksek lisans programına geçiş, en geç ikinci yarıyılın sonuna kadar yapılabilir. Geçiş yapan öğrenci, tezsiz yüksek lisans programı için gerekli AKTS kredisini azami süre içinde tamamlamak zorundadır.
+(3) Tezli yüksek lisans programından tezsiz yüksek lisans programına geçiş bir kez yapılır ve geçiş yapan öğrenciye tezli yüksek lisans diploması verilmez.

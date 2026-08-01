@@ -1,0 +1,3 @@
+Süre
+MADDE 37- (1) Tezsiz yüksek lisans programının süresi, öğrencinin kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı tamamlayamayan öğrencinin Enstitü ile ilişiği kesilir.
+(2) Tezsiz yüksek lisans yapan öğrencinin mezun olabilmesi için ağırlıklı genel not ortalamasının 4,00 üzerinden en az 3,00 olması gerekir. Azami süre sonunda AKTS ve kredi yükünü tamamlayamayan, mezuniyet not ortalaması koşulunu sağlayamayan öğrencinin Enstitü ile ilişiği kesilir.

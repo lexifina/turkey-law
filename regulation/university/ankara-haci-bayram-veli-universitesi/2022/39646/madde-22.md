@@ -1,0 +1,12 @@
+Tez savunma sınavı
+MADDE 22- (1) Tez savunma sınavıyla ilgili esaslar şunlardır:
+a) Yüksek lisans/doktora/sanatta yeterlik tezinin savunmasından önce ve düzeltme verilen tezlerde ise düzeltme ile birlikte öğrenci tezini tamamlayarak danışmanına sunar. Danışman tezin savunulabilir olduğuna ilişkin görüşü ile birlikte tezi Enstitüye teslim eder.
+b) Enstitü söz konusu teze ilişkin intihal yazılım programı raporunu alarak danışmana ve jüri üyelerine gönderir. Rapordaki verilerde gerçek bir intihalin tespiti hâlinde gerekçesi ile birlikte karar verilmek üzere tez Enstitü Yönetim Kuruluna gönderilir.
+c) Jüri, tezin teslim edildiği tarihten itibaren on ila otuz gün içinde öğrenciyi tez savunmasına alır.
+ç) Zorunlu nedenlerle jüriye katılamayacak üyeler, mazeretlerini Enstitüye yazılı olarak bildirir.
+d) Tez savunma sınavı tarihi, danışman tarafından belirlenerek Enstitüye bildirilir. Sınav, Enstitü tarafından belirlenerek ilan edilen salonda ve tarihte dinleyiciye açık olarak yapılır. Sınav tarihi ve salonu bildirilmeden yapılan veya Enstitü tarafından ilan edilen tarih ve salonda yapılmayan sınav, geçersiz sayılarak tekrarlanır. Sınav, tez çalışmasının sunulması ve bunu izleyen soru-cevap bölümlerinden oluşur. Sınav esnasında öğrenciye yalnız jüri üyeleri soru sorabilir.
+e) Tez savunma sınavının tamamlanmasından sonra jüri üyeleri, dinleyicilere kapalı olarak, tez/sanatta yeterlik çalışması hakkında kabul, ret veya düzeltme kararı verir. Karar, salt çoğunlukla alınır. Bu karar, danışman öğretim üyesi tarafından jüri değerlendirme rapor formları ve tez savunma tutanağı ile birlikte tez savunma sınavını izleyen üç gün içinde Enstitüye bildirilir.
+f) Tezi başarısız bulunarak reddedilen öğrencinin Enstitü ile ilişiği kesilir.
+g) Düzeltme kararı verilmesi hâlinde, yüksek lisans programlarında öğrenci savunma tarihi itibarıyla asgari bir, azami üç ay, doktora ve sanatta yeterlik programları için asgari üç ay, azami altı ay içinde (a) bendi hükmüne göre tezini Enstitüye teslim eder ve aynı jüri önünde yeniden savunur.
+ğ) Düzeltme kararı sonunda belirtilen süre içerisinde tezini teslim etmeyen, tez savunma sınavına katılmayan ya da tez savunma sınavı sonunda başarısız sayılan öğrencinin Enstitü ile ilişiği kesilir.
+h) Tezi reddedilen öğrenciye talepte bulunması hâlinde ders, kredi yükü, proje yazımı ve benzeri gerekleri yerine getirmesi kaydıyla tezsiz yüksek lisans diploması verilir.

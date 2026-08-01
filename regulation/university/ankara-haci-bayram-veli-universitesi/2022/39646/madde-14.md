@@ -1,0 +1,2 @@
+Katkı payı ve öğrenim ücreti
+MADDE 14- (1) Lisansüstü programlara kayıt hakkı kazananlar ile hâlihazırda kayıtlı olan öğrenciler, normal eğitim sürelerini aşmaları durumunda, güz ve bahar yarıyılları başında ve akademik takvimde belirtilen tarihlerde katkı payı ve/veya öğrenim ücretini ödemekle yükümlüdürler. Süresi içinde katkı payı veya öğrenim ücretini ödemeyen ve mazeretleri Enstitü Yönetim Kurulunca kabul edilmeyen öğrenciler, o dönem için kayıt yaptıramaz ve öğrencilik haklarından yararlanamaz.

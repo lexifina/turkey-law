@@ -1,0 +1,4 @@
+Sanatta yeterlik çalışması izleme komitesi
+MADDE 56- (1) Derslerini başarıyla tamamlayan ve ağırlıklı genel not ortalaması 4,00 üzerinden en az 3,00 olan öğrenci için bir ay içerisinde, ilgili anabilim/anasanat dalı başkanlığının teklifi ve Enstitü Yönetim Kurulu onayı ile oluşturulur. Komitenin asıl üyeleri, sanatta yeterlik tez savunma jürisinin doğal üyesidir.
+(2) Sanatta yeterlik çalışması izleme komitesi üç asıl iki yedek üyeden oluşur. Komite, biri dışarıdan olmak üzere anabilim/anasanat dalı başkanlığı tarafından önerilen iki öğretim üyesi ve tez danışmanı tarafından önerilen farklı iki öğretim üyesi içerisinden Enstitü Yönetim Kurulu tarafından oluşturulur. İkinci tez danışmanının atanması durumunda ikinci tez danışmanı komite toplantılarına katılır.
+(3) Sanatta yeterlik çalışması izleme komitesi üyelerinde ilgili anabilim/anasanat dalı başkanlığının gerekçeli önerisi ve Enstitü Yönetim Kurulu kararıyla değişiklik yapılabilir.
