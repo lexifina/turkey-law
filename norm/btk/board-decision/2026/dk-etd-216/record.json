@@ -1,0 +1,17 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2026/DK-ETD/216",
+  "date": "2026-09-15",
+  "title": "Sabit Genişbant İnternet Sonlandırma Hizmeti Revizyonu",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/10/a86b3889-589a-4c58-832e-a9cee884527e.pdf",
+  "source_sha256": "0063ac319c133b6f4275b961d09ccaa4e8951432bca09ffcc1b9baf05b445bf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 2,
+    "referenced": 0,
+    "omitted": 2
+  }
+}
