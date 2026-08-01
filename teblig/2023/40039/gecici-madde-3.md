@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3- (Ek:RG-1/8/2026-33327)1
+(1) Bu maddenin yürürlüğe girdiği tarihten önce döviz dönüşüm desteğinden usulsüz olarak yararlanan veya Merkez Bankasına ya da bankalara gerçeğe aykırı beyanda bulunduğu tespit edilen firmaların döviz dönüşüm desteği talepleri ile Merkez Bankası kaynaklı kredi başvuruları ve kullanım talepleri, Merkez Bankasınca ihlal tutarları ve tekerrür hususları da dikkate alınarak belirlenen süreler boyunca kabul edilmez.
