@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Ticaret Bakanlığını,
+b) Beyaz Liste: 12/7/2014 tarihli ve 29058 sayılı Resmî Gazete’de yayımlanan Elektronik Kimlik Bilgisini Haiz Cihazların Kayıt Altına Alınmasına Dair Yönetmelikte belirtilen listeyi,
+c) Genel Müdür: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürünü,
+ç) Genel Müdürlük: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğünü,
+d) İş günü: Ulusal, resmî ve dinî bayram günleri ile yılbaşı, 1 Mayıs, 15 Temmuz ve Pazar günleri dışındaki çalışma günlerini,
+e) İthalatçı: Kamu tüzel kişileri de dâhil olmak üzere mal veya hizmetleri ya da bu malların ham maddelerini yahut ara mallarını ticari veya mesleki amaçlarla ithal ederek satım, kira, finansal kiralama veya benzeri bir yolla piyasaya süren gerçek veya tüzel kişiyi,
+f) Kalıcı veri saklayıcısı: Tüketicinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkân veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı,
+g) Kanun: 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunu,
+ğ) Komisyon: Yenileme merkezinin uyarılması, yenileme yetki belgesinin askıya alınması veya iptal edilmesine ilişkin hususlarda karar vermek amacıyla oluşturulan komisyonu,
+h) Kullanılmış mal: Alışverişe konu olan ve Ek-1’de yer alan ikinci el malları,
+ı) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi,
+i) Üretici: Kamu tüzel kişileri de dâhil olmak üzere tüketiciye sunulmuş olan mal ya da bu malların ham maddelerini yahut ara mallarını üretenler ile mal üzerine markasını, ünvanını veya herhangi bir ayırt edici işaretini koyarak kendisini üretici olarak gösteren gerçek veya tüzel kişiyi,
+j) Yenileme işlemi: Ek-1’de yer alan malların; donanım, yazılım veya fiziki özelliklerinde iyileştirme yapılarak tekrar satışa sunulmasına ilişkin tüm işlemleri,
+k) Yenileme merkezi: Bakanlıktan aldığı yenileme yetki belgesine dayanarak faaliyet gösteren tüzel kişiyi,
+l) Yenileme yetki belgesi: Yenileme merkezi olarak faaliyette bulunulabilmesi için Bakanlık tarafından düzenlenen belgeyi,
+m) Yenilenmiş ürün: Yenileme işleminden sonra yenileme merkezi veya yetkili satıcı tarafından satışa sunulan kullanılmış malı,
+n) Yenilenmiş Ürün Bilgi Sistemi (YÜBİS): Bu Yönetmelik kapsamındaki işlemlerin gerçekleştirilmesi amacıyla Bakanlıkça oluşturulan elektronik sistemi,
+o) Yerinde yenileme noktası: Yenileme merkezinin sahip olduğu yenileme yetkisini Bakanlıkça belirlenen düzenleme veya standartlar kapsamında kullanan gerçek veya tüzel kişiyi,
+ö) Yetkili satıcı: Yenileme merkezi tarafından verilen yetkiye dayanarak tüketiciye yenilenmiş ürün sunan ya da ürün sunanın adına veya hesabına hareket eden gerçek veya tüzel kişiyi,
+ifade eder.

@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlük tarihi itibarıyla yenileme yetki belgesine sahip ticari işletmeler; 6 ncı maddenin birinci fıkrasının (a), (b) ve (c) bentlerinde yer alan koşulları sağladıklarını ispat eden belgeleri bu Yönetmeliğin yürürlük tarihinden itibaren bir ay içinde, (ç) ve (d) bentlerinde belirtilen koşulları sağladıklarını ispat eden belgeleri ise 31/12/2026 tarihine kadar Genel Müdürlüğe sunmaları halinde yeni bir yetki belgesi almaksızın sahip oldukları yenileme yetki belgelerinin geçerlilik süresi boyunca faaliyetlerini sürdürebilirler.
