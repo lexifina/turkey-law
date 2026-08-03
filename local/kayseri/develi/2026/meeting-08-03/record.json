@@ -1,0 +1,26 @@
+{
+  "number": "meeting-08-03",
+  "number_as_published": "meeting-08-03",
+  "year": 2026,
+  "title": "Meclis Karar Özetleri (2026-07)",
+  "decision_date": "2026-08-03",
+  "source": "https://www.develi.bel.tr/meclis-kararlari",
+  "official_document": "https://www.develi.bel.tr/uploads/meclis/karar/karar_6a7d6d7a678fd607817706_73623512.pdf?v=1786604922",
+  "source_sha256": "c114b6043038b1e1ef3614f253d7c1580a5e714c85db56ac3f71a2039c62b0b9",
+  "issuer": "Develi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-08-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.08.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Karar Özetleri (2026-07)",
+  "record_scope": "one official file of council decisions (meeting)",
+  "date_read_from": "date printed with the file in the official listing",
+  "meeting_key_as_published": "2026-07",
+  "official_page": "https://www.develi.bel.tr/meclis-kararlari"
+}
