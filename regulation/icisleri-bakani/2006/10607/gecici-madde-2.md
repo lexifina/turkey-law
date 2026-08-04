@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yayımı tarihinde devam eden görevde yükselme sınavları ile sınavları kazanmış ancak henüz atamaları gerçekleştirilmemiş personele ilişkin işlemler bu Yönetmelikten önceki hükümlere göre sonuçlandırılır.
