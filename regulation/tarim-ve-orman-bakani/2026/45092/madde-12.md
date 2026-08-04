@@ -1,0 +1,11 @@
+Toprak koruma kurulunun çalışma usul ve esasları
+MADDE 12- (1) Toprak koruma kurulu aşağıdaki esaslar çerçevesinde çalışmalarını yürütür:
+a) Kurul, Kanunda verilen görevleri yerine getirmek ve görüşülecek konu olması halinde kurul başkanınca belirlenen gündemi görüşmek üzere, ayda en az bir kez olağan, ihtiyaç duyulması halinde bir veya daha fazla olağanüstü toplanır. Kurulun gündeminde görüşülecek konu olmaması halinde Kurul toplanmaz, bu durum sekretarya tarafından karar defterine işlenir ve il müdürü tarafından onaylanır.
+b) Kurul üyeleri; olağan toplantılarda, toplantıya çağrılmadan en az üç gün önce sekretarya tarafından gündem hakkında bilgilendirilir.
+c) Kurulun üye tam sayısı ile toplanması esastır, ancak zorunluluk halinde en az altı üye ile toplanabilir. Kurul gündemindeki konular hakkındaki görüşün olumlu sayılması için, en az altı üyenin olumlu yönde oy kullanması gerekir.
+ç) Toplantıda alınan kararlar, karar defterine işlenir veya elektronik ortamda hazırlanarak çıktısı alınır, alınan çıktı kurul defterine yapıştırılarak imzalanır ve muhafaza edilir.
+d) Kurul kararlarında üyelerin temsil ettikleri kurumlar belirtilir ve toplantıya katılamayan üye için katılmadı ibaresi konulur, oy çokluğu ile alınan kararlarda, varsa karşı görüşlerin gerekçeleri/şerhleri belirtilir.
+e) Kurulun kararlarına yapılan itirazlar sonucu Bakanlık tarafından yapılan incelemeye dayalı hazırlanan rapor veya talebi destekleyici nitelikte yeni bilgi ve belgenin sunulması halinde, kararlar Kurul tarafından yeniden değerlendirilir.
+f) Tarım dışı amaçlı kullanım talebi, toplulaştırma projelerinin veya etüt raporunda çevre tarım arazilerindeki tarımsal kullanım bütünlüğünü bozacak durumda olması halinde Kurul gündemine alınmaz ve valilik tarafından doğrudan reddedilir.
+g) Etüt raporunda tespit edilen alternatif alanlar Kurul tarafından değerlendirilir, alternatif olup olamayacağı gerekçesi açıklanarak karara bağlanır.
+ğ) Büyük ova koruma alanı dışındaki tarımsal amaçlı yapılar ile arazi etüt raporunda tarımsal kullanım bütünlüğünü ve arazi toplulaştırma projesi bütünlüğünü bozmadığı tespit edilen kuru marjinal tarım arazileri için gerçek ve tüzel kişiler tarafından yapılan tarım dışı amaçlı kullanım talepleri Kurul gündemine alınmaz, valilikler tarafından değerlendirilerek sonuçlandırılır.

@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Aile: Karı-koca ve birlikte oturan reşit olmayan çocuklardan meydana gelen müesseseyi,
+b) Arazi etüdü: Toprağın, çeşitli kullanımlar karşısındaki davranışlarını, potansiyel kullanımı ve sınırlandırmalarını belirlemek ve sınıflandırmak amacıyla; ulusal ve uluslararası sınıflandırma sistemleri dikkate alınarak morfolojik, fiziksel, kimyasal, biyolojik ve minerolojik özelliklerinin tespiti, haritalanması ve raporlanması için yapılan çalışmalar bütününü,
+c) Bağ evi: Tarımsal faaliyetin yapılması için ihtiyaç duyulan ve tarımsal üretimi artırıcı etkisi olan, doğal yapıyı bozmayacak şekilde inşa edilen yapıyı,
+ç) Bakanlık: Tarım ve Orman Bakanlığını,
+d) Genel Müdürlük: Tarım Reformu Genel Müdürlüğünü,
+e) İl müdürlüğü: İl tarım ve orman müdürlüğünü,
+f) İl müdürü: İl tarım ve orman müdürünü,
+g) İlçe müdürlüğü: İlçe tarım ve orman müdürlüğünü,
+ğ) Kamu yararı kararı: Bakanlıklarca yatırım programına alınmış yatırımlar veya insan, toplum ve çevre ilişkilerinde dengeyi bozucu nitelikte olmayan, ekonomik, ekolojik ve toplumsal kayıplar bakımından toplum aleyhine sonuçlar doğurmayan, kişiler ve toplum yararı birlikte gözetilerek faaliyet konusu ile ilgili Bakanlık tarafından alınan kararı,
+h) Kanun: 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununu,
+ı) Kırsal mahalle: Büyükşehir sınırları içinde yer alan ancak sosyo-ekonomik yapısı, kent merkezine olan uzaklığı, mevcut yapılaşma durumu ve belediye hizmetlerine erişebilirliği gibi hususlar çerçevesinde kırsal yerleşim özelliği taşıdığı tespit edilen mahalleyi,
+i) Kurul: Toprak koruma kurulunu,
+j) Mandıra: Büyükbaş ve küçükbaş hayvan yetiştiriciliği yapılan yerlerde işletme içi veya dışında sadece süt sağım ve soğutma yapılan tesisleri,
+k) Sera: İklime bağlı çevre koşullarının kısmen ya da tamamen kontrol altına alınarak, içerisinde kültür bitkileri ile bunların tohum, fide ve fidanlarının üretilmesi, yetiştirilmesi, uygun bir bitki gelişimi için ideal koşulların oluşturulması ve yıl boyunca üretim yapılması amaçlanan, kısmen ya da tamamen ışık geçirebilen bir malzeme ile kaplı, temel betonuna veya toprağa sabitlenmiş iskelet sistemi ile bağlantı elemanlarından oluşan, içinde hareket edilebilen yüksek sistemli ve teknolojinin kullanılabildiği kapalı ortam bitkisel üretim ünitelerini,
+l) Tarım Arazileri Değerlendirme ve Bilgilendirme Sistemi (TAD Portal): Tarımsal amaçlı ve tarım dışı amaçlı kullanılmak istenen arazilerin izinlendirme sürecinde; arazi ve toprak etüdü, değerlendirme, sorgulama ve arşivleme işlemlerinin yönetimini tek bir merkezden sağlayan otomasyon ve veri tabanı sistemini,
+m) Tarımsal amaçlı entegre tesis: Bakanlık tarafından tarımsal amaçlı olduğu kabul edilen yapıların dışında, tarımsal üretimden elde edilen ürünlerin birincil üretim aşamasından sonra, ürünlerin fiziksel ve/veya kimyasal işleme tabi tutulacağı tesisleri,
+n) Tarımsal arazi kullanım bütünlüğü: Tarım dışı kullanım taleplerinde, tarım dışı kullanım talep edilen arazinin; planlı alana, karayoluna, köy/mahalle (kadastral yol hariç) yoluna veya tarım dışı alana sınırdaş olmamasını,
+o) Un değirmeni: Sanayi niteliği taşımayan, geleneksel yöntemlerle tarım ürünlerinin ezilerek un elde edildiği yapıyı,
+ö) Vaziyet planı: Projede yer alan inşaat alanı içerisindeki bütün varlıkların gösterildiği koordinatlı haritayı,
+ifade eder.
