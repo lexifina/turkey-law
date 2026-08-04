@@ -1,0 +1,25 @@
+{
+  "number": "meeting-08-04",
+  "number_as_published": "meeting-08-04",
+  "year": 2026,
+  "title": "04/08/2026 TARİHİNDE ALINAN MECLİS KARARLARI ÖZETİ",
+  "decision_date": "2026-08-04",
+  "source": "https://www.cine.bel.tr/meclis-kararlari",
+  "official_document": "https://www.cine.bel.tr/karar/04-08-2026-tarihinde-alinan-meclis-kararlari-ozeti",
+  "source_sha256": "df63479497c59324c9ae6d3a6536ecac72ded04c8f2160f7d3184ad9f105dec9",
+  "issuer": "Çine Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-08-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04/08/2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04/08/2026 TARİHİNDE ALINAN MECLİS KARARLARI ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "list_date": "18-08-2026 18:05",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
