@@ -1,0 +1,24 @@
+{
+  "number": "meeting-08-04",
+  "number_as_published": "meeting-08-04",
+  "year": 2026,
+  "title": "04.08.2026 135 - 149 2026 Ağustos Ayı Meclis Karar Özetleri",
+  "decision_date": "2026-08-04",
+  "source": "https://www.soma.bel.tr/karar-detay/2026-agustos-ayi-meclis-karar-oezetleri/88",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/17863438002026AgustosAyiMeclisKararOzetleri.pdf.pdf",
+  "source_sha256": "b3e8d107fb5d969acea0274218c1b675817d80a5bfdca92c523722f61e2aec70",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-08-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.08.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04.08.2026 135 - 149 2026 Ağustos Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2026-agustos-ayi-meclis-karar-oezetleri/88"
+}
