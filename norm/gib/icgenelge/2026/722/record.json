@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "92723040-110[6802-145]",
+  "source_id": 722,
+  "date": "2026-08-04",
+  "title": "TAHSİLAT İÇ GENELGESİ SERİ NO: 2026/2",
+  "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/722",
+  "related_law": "6183 sayılı AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/icGenelge/list",
+  "source_listing": "evidence/list/2026-11-16/icGenelge-p000.json",
+  "source_listing_sha256": "f67e0a2102f72bb235e1a5040899d9489b05b3d457ed0145b7ee616be10187e7",
+  "source_sha256": "edc28a33db5cf9fa2927ae0853863b798142a533acbe735cdbfe2b5c320bab13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
