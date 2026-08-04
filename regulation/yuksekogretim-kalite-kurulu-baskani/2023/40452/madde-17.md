@@ -1,0 +1,3 @@
+Giriş sınavı sonuçlarına itiraz
+MADDE 17- (1) Sınav sonuçlarının Başkanlığın internet sayfasında ilan edilmesinden itibaren şahsen, elden veya posta yoluyla yedi iş günü içerisinde Başkanlıkta olacak şekilde yazılı olarak itiraz edilebilir. İadeli taahhütlü gönderilen başvurular da dahil postadaki gecikmeler ve belirtilen süre içerisinde yapılmayan itirazlar dikkate alınmaz. İtiraz süresinin bitiminden itibaren itirazlar Komisyon tarafından en geç on beş iş günü içinde incelenerek karara bağlanır. İtiraz sonucu adaya yazılı olarak bildirilir.
+(2) (Ek:RG-4/8/2026-33330) İtiraz üzerine Komisyon tarafından yapılan inceleme sonucunda verilen kararlar kesin olup, bu kararlara karşı idare nezdinde yeniden itiraz yoluna başvurulamaz.

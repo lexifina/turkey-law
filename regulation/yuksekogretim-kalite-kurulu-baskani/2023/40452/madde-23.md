@@ -1,0 +1,7 @@
+Tezin değerlendirilmesi
+MADDE 23- (1) Kurul, tezleri teslim tarihinden itibaren iki ay içinde inceler.
+(2) Uzman yardımcıları tezlerini, tezin inceleme süresinin bitiminden itibaren bir ay içerisinde Kurul başkanı tarafından belirlenen ve birim tarafından duyurulan tarih ve yerde Kurul üyelerine sözlü olarak savunur ve tez konusu ile ilgili soruları cevaplandırır.
+(3) Kurul üyeleri, sözlü savunmayı da göz önüne alarak tezi yüz puan üzerinden değerlendirir. Kurul üyelerinin verdiği notların aritmetik ortalaması en az yetmiş puan olan tez, başarılı kabul edilir. Tezi başarılı kabul edilen uzman yardımcısı on iş günü içerisinde tezini Genel Sekreterliğe teslim eder.
+(4) Tezini teslim ettiği halde, geçerli bir mazereti nedeniyle tez savunmasına girmemiş olan uzman yardımcısı için ayrı bir savunma tarihi belirlenir. Geçerli bir mazereti olmaksızın savunma toplantısına girmeyen uzman yardımcısının Tezi başarısız kabul edilir.
+(5) Tezin başarısız bulunması halinde, Kurul tarafından tezin başarısız bulunmasına ilişkin nedenleri içeren gerekçeli değerlendirme raporu hazırlanarak ilgiliye tebliğ edilir.
+(6) Tezi başarısız bulunan uzman yardımcılarına, değerlendirme raporunda yer verilen hususlara uygun olarak yeni bir tez hazırlamaları için Kurul kararıyla altı ayı aşmamak üzere ilave süre verilir. Tez savunması sonucunda ikinci defa hazırladıkları tezleri başarısız olan uzman yardımcıları hakkında 29 uncu madde hükümleri uygulanır.

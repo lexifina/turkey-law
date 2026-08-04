@@ -1,0 +1,5 @@
+Giriş sınavı komisyonu
+MADDE 9- (1) Giriş sınavı komisyonu, Başkanlık oluruyla kurulur. Komisyon, Başkanın veya Başkan yardımcısının başkanlığında, Genel Sekreter, birim amirleri, uzman, gerekli görülmesi halinde akademisyen ve konusunda uzman kişilerden olmak üzere toplam beş asıl ve beş yedek üyeden oluşur. Gerek görüldüğünde Başkanlık tarafından en çok iki üye diğer kurumlardan seçilebilir. Asıl üyelerin herhangi bir nedenle Komisyona katılamamaları hâlinde, yedek üyeler tespit sırasına göre Komisyona katılırlar.
+(2) Komisyon üye tamsayısıyla toplanır ve oy çokluğu ile karar alır. Oylama sırasında çekimser oy kullanılamaz. Alınan kararlar kesindir. Karara katılmayanlar karşı oylarını gerekçeleriyle birlikte belirtmek zorundadır.
+(3) Komisyonun sekretarya hizmetleri Genel Sekreterlik tarafından yürütülür.
+(4) Komisyon üyeleri kendilerinin ve boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlatlıklarının katıldıkları sınavlarda görev alamazlar.
