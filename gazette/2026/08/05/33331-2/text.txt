@@ -1,0 +1,238 @@
+5 Ağustos 2026 ÇARŞAMBA
+Resmî Gazete
+Sayı : 33331
+YÖNETMELİK
+Çevre, Şehircilik ve İklim Değişikliği
+Bakanlığından:
+MİMARLIK VE
+MÜHENDİSLİK PROJELERİNİN DİJİTAL OLARAK
+HAZIRLANMASI HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Başlangıç
+Hükümleri
+Amaç ve
+kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı; 3/5/1985
+tarihli ve 3194 sayılı İmar Kanununa tabi olarak yapı ruhsatı almak için
+ilgili idarelere yapılacak müracaatlarda teslim edilmesi gereken mimari
+proje, statik proje, elektrik ve tesisat projeleri, resim ve hesaplarının dijital
+ortamda hazırlanmasına ilişkin usul ve esasları düzenlemektir.
+(2) Bu Yönetmelik; bodrum katı dışında en çok iki
+katlı ve toplam yapı inşaat alanı 200 metrekareyi geçmeyen müstakil yapılar
+ile entegre tesis niteliğinde olmayan tarım ve
+hayvancılık amaçlı yapı ve tesisler hariç olmak üzere; uygulama imar planı
+bulunan alanlarda yeni yapılacak binaları kapsar.
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 3/5/1985
+tarihli ve 3194 sayılı İmar Kanunu ile 1 sayılı Cumhurbaşkanlığı Teşkilatı
+Hakkında Cumhurbaşkanlığı Kararnamesinin 107 nci
+maddesinin birinci fıkrasının (a), (b) ve (ç) bentleri ile 508 inci
+maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) 2B: İki boyutu,
+b) 3B: Üç boyutu,
+c) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği
+Bakanlığını,
+ç) BIM: Yapı bilgi modellemesini,
+d) BIM nesnesi: IFC şemasında tanımlı bir varlığın
+model içerisinde geometrik ve alfanümerik
+bilgilerle temsil edilen somut örneğini,
+e) CAD: Bilgisayar destekli tasarımı,
+f) Dosya: Yapı ruhsatı eki proje çizimi, model,
+hesap, rapor ve doküman gibi dijital ortamdaki materyalin tamamını,
+g) Gelişim seviyesi: Model elemanının geometrik ve alfanümerik bilgi içeriği olarak geliştirilme
+seviyesini,
+ğ) IFC (Endüstri Temel Sınıfları): TS EN ISO
+16739-1 standardında tanımlanan BIM tabanlı açık veri paylaşımı için
+kullanılan veri şemasını,
+h) İlgili idare: Yapı ruhsatı vermeye yetkili
+idareleri,
+ı) PDF/A: Belgelerin arşivlenmesi için farklı
+cihazlarda, işletim sistemlerinde ve yazılımlarda biçim bozulmadan
+görüntülenmesini sağlayan vektör tabanlı dosya formatını,
+i) Özellik seti: IFC şemasında yer alan ve belirli
+özellikler altında gruplandırılarak isimlendirilmiş özellikler kümesini,
+j) Öznitelik: IFC şemasında yer alan bir varlığın temel
+özellikleri veya niteliklerini,
+k) Özellik: IFC şemasında yer alan ve bir nesnenin
+tanımlanması ve ayırt edilmesi için kullanılan tanımlayıcı bilgiyi,
+l) Varlık: IFC şemasında yer alan ortak özelliklere
+sahip yapı elemanlarını, referans elemanlarını, mahalleri, mekanları ve kavramları temsil etmek için kullanılan
+bilgi sınıflarını,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel Esaslar
+Proje
+gerekleri
+MADDE 4- (1) Yapı ruhsatı başvurularında ilgili idaresine
+teslim edilmek üzere dijital ortamda hazırlanan dosyaların, ilgili
+standartlara ve bu Yönetmelikte belirlenen hükümlere uygun şekilde
+düzenlenmesi zorunludur.
+(2) Proje müellifi tarafından hazırlanan 2B proje çizim dosyaları, ilgili idaresine PDF/A
+formatında teslim edilir.
+(3) Proje çizim ve modelleri dışındaki dijital
+ortamdaki dokümanlar ilgili standardına göre hazırlanmış PDF/A formatında
+düzenlenir.
+(4) 3B
+sayısal yapı modelleri TS EN ISO 19650-1 “Bina bilgi modellemesi (BIM)
+dâhil olmak üzere, binalar ve inşaat mühendisliği yapıları ile ilgili
+bilgilerin düzenlenmesi ve sayısallaştırılması - Bina bilgi modellemesi ile
+bilgi yönetimi - Bölüm 1: Kavramlar ve ilkeler” ve TS EN ISO 19650-2 “Yapı
+bilgi modellemesi (BIM) de dâhil olmak üzere, bina ve inşaat mühendisliği
+alanına giren diğer yapılar hakkındaki bilgilerin düzenlenmesi ve
+sayısallaştırılması - Yapı bilgi modellemesi kullanılarak bilgi yönetimi -
+Bölüm 2: Varlıkların teslim safhası” standartlarına göre BIM tabanlı olarak
+oluşturulur.
+(5) BIM modeli TS EN ISO 16739-1 “İnşaat ve tesis
+yönetimi endüstrilerinde veri paylaşımı için Endüstri Temel Sınıfları
+(IFC)- Bölüm 1: Veri şeması” standardında tanımlanan IFC formatında teslim
+edilir.
+Standart,
+şartname ve kılavuzların kullanımı
+MADDE 5- (1) Bu Yönetmelikte tanımlanmamış olan ve açıklık
+gereken hususlar hakkında, Türk Standartları, bu standartların olmaması
+hâlinde ise Avrupa Standartları esas alınır. Türk veya Avrupa
+Standartlarında düzenlenmeyen hususlarda, uluslararası geçerliliği kabul
+edilen dokümanlar da kullanılabilir.
+ÜÇÜNCÜ BÖLÜM
+Proje Düzenleme Esasları
+Projelerin
+dijital olarak isimlendirilmesi
+MADDE 6- (1) Dijital ortamda hazırlanan projeler için EK-1’e
+uygun olarak proje kodu oluşturulur.
+(2) Dosyaların isimlendirilmesinde kullanılan proje
+ismi bilgi alanı, birinci fıkrada verilen esaslara göre oluşturulur. Diğer
+kodlar dosyaların özelliğine göre EK-2’de verilen esaslara göre düzenlenir.
+2B projelerde CAD çizim dosyalarının hazırlanması
+MADDE 7- (1) CAD çizim dosyaları hazırlanırken, katman ve
+sembol isimleri, ölçü, yazı, sembol gösterimi ve çizgi tipleri için EK-4’te
+verilen esaslar ve standartlar kullanılır.
+(2) CAD çizimlerinde mahallerin
+numaralandırılmasında EK-3’e uygun olarak kat, mahal bölümü/fonksiyonu ve
+mahal sıra numarası belirtilir. Mahallerin isimlendirilmesi de EK-3’e uygun
+olarak yapılır.
+2B pafta yapısı ve boyutlandırma
+MADDE 8- (1) Dijital ve basılı çizimlerin pafta yapısı ve
+boyutlandırılmasında A4 sayfa boyutu ve katları
+kullanılır. Paftaların, TS EN ISO 216 “Yazı kağıdı
+ve basılı malzemenin bazı sınıfları-Tıraşlanmış boyutlar-A ve b serisi
+makine yönünün gösterilmesi” ve TS 5734 ISO 9961 “Teknik resimler için
+çizim gereçleri- Doğal aydınger kâğıdı” standartlarına uygun olarak
+düzenlenmesi esastır.
+(2) Her bir CAD çizim ve doküman için ayrı bir
+dijital dosya oluşturulması esastır. Dijital proje paftaları yan yana
+yerleştirilmiş çoklu pafta düzenleri gibi aynı dosya içerisinde
+birleştirilmiş çizim şeklinde tertip edilmez. Her proje paftası,
+isimlendirilmesiyle uyumlu olacak şekilde ilgili çizim, bilgi ile birlikte
+varsa detay ve hesap tablolarını içerecek şekilde düzenlenir.
+DÖRDÜNCÜ BÖLÜM
+BIM Modeli Teslim Esasları
+BIM
+modelinin hazırlanması
+MADDE 9- (1) Projeler, projenin gerektirdiği disiplinler
+tarafından ayrı ayrı BIM tabanlı olarak EK-5, EK-6
+ve EK-7’de verilen teknik kurallara uygun olarak hazırlanır ve IFC
+formatında teslim edilir. Ayrıca, BIM modelinden CAD çizim dosyaları da
+üretilerek PDF/A formatında teslim edilir. CAD çizim dosyaları, BIM
+modelinden üretilir. BIM modeli ile CAD çizim dosyası PDF/A nüshasının
+birbiriyle uyumlu olması zorunludur.
+(2) Tüm ölçüler Uluslararası Birimler Sistemi (SI)
+kullanılarak ifade edilir.
+Proje,
+model ve mahallerin isimlendirilmesi
+MADDE 10-
+(1) BIM modelinin
+isimlendirmesinde 6 ncı madde hükümleri uygulanır.
+(2) BIM modelinde yer alan mahallerin
+isimlendirmesinde EK-5’te verilen esaslar uygulanır.
+Varlıkların
+isimlendirilmesi
+MADDE 11-
+(1) BIM modelinde yer alan
+varlıkların isimlendirmesi disiplin, kategori, açıklama bilgilerini içeren
+üç bilgi alanından oluşur.
+(2) Disiplin ve kategori bilgi alanında yer alacak
+listeler sırasıyla EK-2’de ve EK-5’te verilmiştir. Açıklama alanı kısmına
+alt kategori, fonksiyon, ölçü, malzeme ve mahal numarası ile mahal ismi
+girilebilir. Açıklama alanında yer alacak bilgiler boşluk bırakılmaksızın
+orta tire sembolü “-” kullanılarak ayrılır.
+(3) Disiplin ve alt disiplin isimlendirmeleri
+EK-2’ye uygun olarak yapılır. İlgili idare tarafından bu listeye ek olarak
+farklı alt disiplin tanımlamaları yapılabilir. Bu durumda, ilgili idaresi
+tarafından belirlenen alt disiplin, dört karakterle kısaltılarak
+isimlendirilir ve EK-2’de verilen alt disiplin isimleriyle çakışmayacak bir
+kısaltma belirlenir.
+IFC
+sınıfları ile öznitelik ve özellik tanımları
+MADDE 12-
+(1) BIM modelinde her bir varlık,
+EK-5’te verilen zorunlu ve isteğe bağlı IFC sınıfları altında tanımlanır.
+(2) Zorunlu IFC sınıflarına ait zorunlu ve isteğe
+bağlı öznitelikler ve özellikler EK-6’da verilmiştir. İsteğe bağlı IFC
+sınıflarında temsil edilecek elemanların öznitelikleri ve özellikleri
+ilgili idaresince belirlenebilir.
+Proje
+öznitelik ve özellik tanımları
+MADDE 13-
+(1) BIM modelinde EK-7’de verilen
+zorunlu proje öznitelikleri ve özellikleri yer alır. İlgili idaresince
+talep edilmesi halinde, isteğe bağlı özniteliklere ve özelliklere yer
+verilir.
+Model
+gelişim seviyesi
+MADDE 14-
+(1) BIM modeli, EK-8’de verilen
+model gelişim seviyesine göre düzenlenir.
+Model
+kalite kontrol formları
+MADDE 15-
+(1) Teslim edilen BIM modeli için,
+modelin bütünlüğünü ve bu Yönetmeliğe uygunluğunu gösterecek şekilde
+EK-9’da verilen model kalite kontrol formları düzenlenir.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Geçiş
+hükümleri
+GEÇİCİ
+MADDE 1- (1) Bu Yönetmeliğin;
+a) 4 üncü maddesinin ikinci ve üçüncü fıkraları;
+nüfusu 2.000.000’u geçen illerin nüfusu
+600.000’den fazla olan belediyelerinde yapılacak toplam yapı inşaat alanı
+5.000 metrekareyi geçen binalar haricindekiler için 1/3/2029
+tarihine kadar uygulanmaz.
+b) 4 üncü maddenin beşinci fıkrası;
+1) Nüfusu 2.000.000’u
+geçen illerin nüfusu 600.000’den fazla olan belediyelerinde yapılacak
+toplam yapı inşaat alanı 10.000 metrekareyi geçen binalar için 1/9/2029 tarihine kadar,
+2) Nüfusu 2.000.000’u
+geçen illerin nüfusu 400.000’den fazla olan belediyelerinde yapılacak
+toplam yapı inşaat alanı 10.000 metrekareyi geçen binalar için 1/9/2030 tarihine kadar,
+3) Nüfusu 1.000.000’u
+geçen illerin nüfusu 300.000’den fazla olan belediyelerinde yapılacak
+toplam yapı inşaat alanı 10.000 metrekareyi geçen binalar için 1/9/2031 tarihine kadar,
+4) (1), (2) ve (3) numaralı alt bentlerde
+sayılmayan binalar için 1/9/2032 tarihine kadar,
+uygulanmaz. Bu bent hükümleri uygulamaya konulduktan sonra,
+bu bende tabi yapılar için 4 üncü maddenin ikinci ve üçüncü fıkraları
+uygulanmaz.
+(2) Bu Yönetmelik, konut ve ticaret+konut karma
+kullanımlı binalar dışındaki binalar için 1/9/2033
+tarihine kadar uygulanmaz.
+Mevcut
+yapı ruhsatı başvuruları
+GEÇİCİ
+MADDE 2- (1) Geçici 1 inci maddede
+yer alan uygulama tarihlerinden önce yapı ruhsatı başvurusunda bulunulmuş
+olan yapılar ile kamu kurum ve kuruluşlarınca yapım işlerine yönelik ihale
+kararı veya ihale tarihi alınmış olan yapılar için, geçici 1 inci madde ile
+uygulanmaya başlayan hükümler uygulanmaz.
+Yürürlük
+MADDE 16-
+(1) Bu Yönetmelik 1/9/2027 tarihinde yürürlüğe girer.
+Yürütme
+MADDE 17-
+(1) Bu Yönetmelik hükümlerini
+Çevre, Şehircilik ve İklim Değişikliği Bakanı yürütür.
+Ekleri için tıklayınız
