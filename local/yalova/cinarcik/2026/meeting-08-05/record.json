@@ -1,0 +1,25 @@
+{
+  "number": "meeting-08-05",
+  "number_as_published": "meeting-08-05",
+  "year": 2026,
+  "title": "05 Ağu 2026 Yılı 1. Olağanüstü Meclis Toplantısı 5 Ağustos 2026 Çarşamba · 3 karar",
+  "decision_date": "2026-08-05",
+  "source": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-olaganustu-1",
+  "official_document": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-olaganustu-1",
+  "source_sha256": "a4d29fdf9f581e37353d8de0b142ec739053d751d602d8f50d04667bbfeabfe6",
+  "issuer": "Çınarcık Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-08-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 5 AĞUSTOS 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05 Ağu 2026 Yılı 1. Olağanüstü Meclis Toplantısı 5 Ağustos 2026 Çarşamba · 3 karar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-olaganustu-1",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
