@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.46237",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 90)",
+  "number": "46237",
+  "path": "teblig/2026/46237",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46237&MevzuatTertip=5",
+  "source_sha256": "0567fdeaba13430a5f00b35ba13851883303602a38b021352ae659e641af566a",
+  "source_bytes": 9057,
+  "published": "2026-08-06",
+  "gazette": "33332",
+  "in_force": "2026-08-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.08.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 140,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.46237-EK.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
