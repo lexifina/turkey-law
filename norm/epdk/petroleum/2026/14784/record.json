@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "14784",
+  "decision_date": "2026-08-06",
+  "title": "Petrol Ofisi Anonim Şirketi’nin; LPG-DPO/4434/13968 sayılı LPG Depolama Lisansı kapsamında faaliyette bulunan Yarımca Terminali Şubesi LPG Depolama Tesisine ilişkin LPG depolama tarifesi",
+  "resmi_gazete_date": "2026-08-08",
+  "resmi_gazete_number": "33334",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oD2In1pHakE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oD2In1pHakE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ObkcG1Kc1KY="
+  ],
+  "source_sha256": "2e814278c4eef3b8c02cfcdc65731d05c0e1b452608ce8197bcabdcf96132690",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-08-06",
+  "law_text_complete": true
+}
