@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-esenyurt-universitesi/2026/46236",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33332",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-08-06",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstanbul Esenyurt Üniversitesi",
+  "issuer_slug": "istanbul-esenyurt-universitesi",
+  "kind": "regulation",
+  "published": "2026-08-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46236&MevzuatTertip=5",
+  "source_id": "8.5.46236",
+  "source_sha256": "b8b5f34bd97e4ed6f72b6ac876a213643669047e3b89576b93381b0a2cf75636",
+  "title": "İSTANBUL ESENYURT ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 438,
+  "version_label": "oldest version available",
+  "word_count": 1209
+}
