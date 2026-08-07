@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-08-07",
+  "issue": "33333",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Ulusal Kontrol Laboratuvarının Görev, Yetki ve Sorumlulukları ile Çalışma Usul ve Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/08/20260807-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/08/20260807.htm",
+  "index_sha256": "e61c8c584bd81ee88c06ac4cb72c4933638f4ff15d5c4019127104398542fcd8",
+  "index_header": "7 Ağustos 2026 ... 33333 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/08/20260807.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
