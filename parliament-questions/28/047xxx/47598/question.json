@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/47598",
+  "submitted": "2026-08-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali KARAOBA",
+  "province": "Uşak",
+  "summary": "Uşak'ta Kuyucak Mezarlığı karşısında bulunan depozito iade makinesinin çalışmadığı iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/dbfabf27-d421-433f-8a28-019fdd55d573",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b2e98e10233dd31faa24d1f29e0c5fe6bdafc3f75f75a3a1d2f79c813cfc85ec",
+  "in_force": "2026-08-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
