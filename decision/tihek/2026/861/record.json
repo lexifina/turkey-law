@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/861",
+  "case_number": "2026/249",
+  "decision_date": "2026-08-07",
+  "title": "2026/861 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/n5i4ti.pdf",
+  "source_sha256": "27d5ee3603bd94be57d0b4465bfc7a05b5f4e4fc88fcf2e45af3a406299f1162",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
