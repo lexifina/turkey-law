@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/862",
+  "case_number": "2025/3834",
+  "decision_date": "2026-08-07",
+  "title": "2026/862 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/hhdkgt.pdf",
+  "source_sha256": "c787cc6128db200868133152eb198bcbf6adefb2267f70f8b657fe78ed6d671a",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
