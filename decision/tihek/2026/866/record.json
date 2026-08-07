@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/866",
+  "case_number": "2026/1678",
+  "decision_date": "2026-08-07",
+  "title": "2026/866 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/xmpre4.pdf",
+  "source_sha256": "dfdf6e2c03409b23e7a26fcd9a9cef9ec1609865e74c6e578fdedd277b3d2ccb",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
