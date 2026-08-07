@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/873",
+  "case_number": "2026/1261",
+  "decision_date": "2026-08-07",
+  "title": "2026/873 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/mlcmcd.pdf",
+  "source_sha256": "e180b353e0cfdc78a40a9ef16566bcc61f6f774f67128bea57fa50c0afd3f948",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
