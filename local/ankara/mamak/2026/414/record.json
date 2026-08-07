@@ -1,0 +1,27 @@
+{
+  "number": "414",
+  "number_as_published": "414",
+  "year": 2026,
+  "title": "2026 ilk 6 ayda ekonomik ömrünü tamamlamış, onarımı mümkün olmayan teçhizatlar var mıdır? Var ise ekonomik değerleri ile yapılan iş ve işlemlerine ilişkin, Meclis Kararı",
+  "decision_date": "2026-08-07",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=6f8b564a-2fb5-4943-92c9-7e574d32bd90",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-08-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 2026-08-07T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=6f8b564a-2fb5-4943-92c9-7e574d32bd90",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=692d5f35-6389-476b-affc-207a07d2a28d"
+  ]
+}
