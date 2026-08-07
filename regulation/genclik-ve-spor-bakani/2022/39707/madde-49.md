@@ -1,0 +1,2 @@
+Disiplin cezasına itiraz
+MADDE 49- (1) Disiplin cezalarına karşı itiraz, tebliğ tarihinden itibaren on iş günü içinde cezayı veren disiplin amirinin bir üstündeki sıralı disiplin amirine yapılır. Ancak il müdürü tarafından verilen cezalara karşı itiraz valiliğe yapılabilir. İtirazda bulunulan disiplin amiri veya valilik on beş iş günü içinde itirazı reddedebilir veya bir alt cezaya indirebilir. İtirazda bulunulan disiplin amirince on beş iş günü içinde herhangi bir karar verilmemesi halinde itiraz reddedilmiş sayılır.

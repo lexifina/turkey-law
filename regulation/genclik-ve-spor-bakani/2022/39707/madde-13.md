@@ -1,0 +1,6 @@
+Başvuru, başvurunun incelenmesi ve ruhsatlandırma
+MADDE 13- (1) Kurum açmak isteyenler başvuru dilekçesi ve Bakanlıkça istenen gerekli belgeler ile birlikte il müdürlüğüne müracaat eder.
+(2) İl müdürlükleri bünyesinde yurt hizmetleri müdürü veya il müdürünün görevlendireceği ilgili şube müdürü veya yurt müdürü başkanlığında teknik personel, şef veya memurdan oluşan en az üç kişilik inceleme komisyonu kurulur. Gerekli görülen hallerde birden fazla komisyon kurulabilir.
+(3) Kurum açmak üzere yapılan müracaat ile kurumun türü ve kapasitesinin bu Yönetmelikte belirtilen esaslara uygun olup olmadığı ve kurum açılacak bina ile bölümlerinin, kurumun türüne göre Bakanlıkça belirlenen standartları karşılayıp karşılamadığı hususları, komisyonca düzenlenen inceleme raporu ile tespit edilir.
+(4) İnceleme raporu sonucunda, şartları sağladığı tespit edilen başvuru sahiplerine, başvuru tarihinden itibaren en geç kırk beş iş günü içerisinde kurum açma izni ve işyeri açma ve çalışma ruhsatı düzenlenir.
+(5) İnceleme raporunda eksiklik tespit edilmesi halinde, tespit edilen bu eksiklik başvuru sahibine bildirilir. Eksiklikler giderildikten sonra yeni bir dilekçe verilerek başvuru süreci yeniden başlatılır.

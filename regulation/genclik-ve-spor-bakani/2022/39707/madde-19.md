@@ -1,0 +1,4 @@
+Yerleşim planı ve kapasite değişikliği
+MADDE 19- (1) Bina, blok veya kat düzenlenmesi yapmak suretiyle kapasite veya yerleşim planında değişiklik yapılabilmesi için Bakanlıkça istenen belgelerle birlikte il müdürlüğüne müracaat edilir.
+(2) Kapasiteye etki etmeyen yerleşim planı değişikliği başvurularında; binanın değişen bölümlerine ilişkin hazırlanacak inceleme raporu ile bu Yönetmelikte belirtilen şartlar ve Bakanlıkça belirlenen standartlara uygunluğun tespiti halinde, il müdürlüğü tarafından yerleşim planı değişikliğine izin verilir.
+(3) Kapasite değişikliğine ilişkin başvurularda; hazırlanacak inceleme raporu ile bu Yönetmelikte belirtilen şartlar ve Bakanlıkça belirlenen standartlara uygunluğun tespiti halinde kurum açma izni ile işyeri açma ve çalışma ruhsatı valilik tarafından yeniden düzenlenir.
