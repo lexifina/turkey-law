@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/853",
+  "case_number": "2025/2258",
+  "decision_date": "2026-08-07",
+  "title": "2026/853 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/zku923.pdf",
+  "source_sha256": "16fd6e691896fb2415b738a1f1ed556d1a8cd8a297bb44fc43b813df5517991d",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
