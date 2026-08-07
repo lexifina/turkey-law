@@ -1,0 +1,8 @@
+Yatay geçişle öğrenci kabulü
+MADDE 50- (1) Yatay geçiş kontenjanlarına başvuran öğrenciler programlara ana bilim/ana sanat dalı akademik kurulunun görüşü alınarak ilgili enstitü yönetim kurulu kararıyla kabul edilir.
+(2) Yatay geçiş farklı üniversite kurumlarından aynı programlar arasında yapılabilir.
+(3) Diğer yükseköğretim kurumlarının lisansüstü programlarında en az bir yarıyılını tamamlamış bulunan, başarısız dersi bulunmayan ve genel akademik ağırlıklı başarı notu ortalaması yüksek lisans için 75, doktora için 85 olan başarılı öğrenciler yatay geçiş için başvuru yapabilir.
+(4) Yatay geçiş başvurusu; tezsiz yüksek lisans hariç, yüksek lisans programlarında ikinci yarıyıl sonuna kadar, doktora/sanatta yeterlik programlarında yeterlik sınavı öncesine kadar yapılabilir.
+(5) Başvuruların kabul edilebilmesi için ilgili ana bilim/ana sanat dalında yüksek lisans, doktora/sanatta yeterlik öğrenci kontenjanlarının olması, öğrencinin geçiş yapmak istediği lisansüstü programın öğrenci kabul koşullarını sağlamış ve lisansüstü öğrenimi sırasında aldığı tüm derslerin her birinden 19 uncu maddenin ikinci fıkrasında belirtilen başarı notlarını almış olması gerekir. Ana bilim/ana sanat dalı başkanlığı tarafından yatay geçişi uygun görülen öğrencilerin kabulü ve intibakları enstitü yönetim kurulu kararıyla kesinleşir.
+(6) Yatay geçiş yapan öğrenci, 19 uncu maddenin ikinci fıkrasında belirtilen başarı notlarını elde ettiği derslerin en fazla %50’si, ana bilim/ana sanat dalı akademik kurulunun önerisi ve enstitü yönetim kurulu kararı ile yatay geçiş yaptığı programa taşıyabilir.
+(7) Yatay geçişi uygun görülen öğrencinin daha önceki eğitiminde kullandığı süreler kabul edildiği programa dahil edilir.

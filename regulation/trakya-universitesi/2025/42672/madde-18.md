@@ -1,0 +1,8 @@
+Sınavlar
+MADDE 18- (1) Ders sınavları; ara sınav, final sınavı, bütünleme sınavı ve mazeret sınavı olmak üzere dört türdür. Sınavlar mesai saati dışında ve hafta sonu tatil günlerinde de yapılabilir.
+(2) Ders sınavları, dönem başında belirlenen ve enstitü yönetim kurulunda kabul edilen ilkeler çerçevesinde bir dersin ara sınav sayısı, değerlendirme yöntemi, ders başarı notuna etki edecek oranı ile sınavların değerlendirme esasları dersi veren öğretim elemanı tarafından uygulanır. Bu esaslar ilgili ders sorumlusu tarafından yarıyılın başında yapılacak olan uyum derslerinde/programlarında öğrencilere duyurulur.
+(3) Derslerde ara sınav yapılabilir. Yarıyıl süresince yaptırılan proje, ödev, laboratuvar, atölye ve benzeri çalışmalar da ara sınav yerine geçebilir.
+(4) Bir dersin final sınavı, o dersin tamamlandığı yarıyıl sonunda yapılır. Sınavın yapılış biçimi ders sorumlusu tarafından belirlenir ve dönem başında öğrencilere duyurulur. Final sınavına girmeye hakkı olduğu halde girmeyen öğrenci başarısız sayılır.
+(5) Her yarıyıl sonunda final sınavını izleyen dönemde akademik takvimde belirtilen tarihlerde bütünleme sınavı yapılır. Bir dersten devamsızlık nedeniyle başarısız olanlar o dersin final ve bütünleme sınavlarına giremezler.
+(6) Mazeret sınavı; final ve bütünleme sınavları haricinde sınava girme hakkı olduğu halde mazeretleri nedeniyle giremeyen öğrenciler için ve mazeretin enstitü yönetim kurulunca kabul edilmesi koşuluyla yapılır. Mazeret sınavının tarihi enstitü yönetim kurulunca belirlenir.
+(7) Uzaktan eğitim programlarının sınav yöntemleri ile ilgili düzenlemeler, ilgili mevzuat çerçevesinde enstitüler tarafından yapılır.

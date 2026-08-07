@@ -1,0 +1,2 @@
+Kayıt silme
+MADDE 15- (1) Bu Yönetmelik hükümlerine göre veya kendi isteğiyle kaydının silinmesini isteyen lisansüstü öğrenciler, yatay geçiş yoluyla bir başka enstitüye geçiş yapanlar ve kayıt işlemini usulüne uygun yaptırmadığı veya kayıt hakkı kazanmadığı anlaşılan öğrenciler ile 2547 sayılı Kanunun 54 üncü maddesi uyarınca yükseköğretim kurumundan çıkarma cezası almış olan lisansüstü öğrencilerin enstitü yönetim kurulu kararıyla enstitü ile ilişiği kesilir.

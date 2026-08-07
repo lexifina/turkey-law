@@ -1,0 +1,5 @@
+Değerlendirme
+MADDE 19- (1) Bir dersteki başarı durumu ders başarı notu ile belirlenir. Ders başarı notu, öğrencinin yarıyıl içinde ara sınavlar, uygulamalı çalışmalar, ödevler gibi çalışmalarda gösterdiği başarı ve genel sınavın birlikte değerlendirilmesi ile elde edilir. Yarıyıl içi değerlendirmelerin ders başarı notuna etkisi en çok %50 olabilir.
+(2) Ders notları 100’lük sisteme göre değerlendirilir. Derslerden yüksek lisans için en az 65, doktora/sanatta yeterlik için en az 75 notu, başarılı olarak sayılır.
+(3) Zorunlu bir dersten başarısız olan öğrenci bu dersi açıldığı ilk yarıyılda tekrarlamak zorundadır. Bu dersin en geç izleyen yarıyıl içinde açılmaması durumunda, danışman ve ana bilim/ana sanat dalı akademik kurulunca önerilen ve enstitü yönetim kurulunca ekle-sil haftasına kadar onaylanan program çıktısına uyan başka bir zorunlu/seçmeli ders alınabilir.
+(4) Seminer, tez önerisi hazırlama dersi, makale yazma ve proje hazırlama dersi, uzmanlık alan dersi ve tez çalışması derslerinin yarıyıl sonunda yapılan sınavları başarılı/başarısız olarak değerlendirilir.

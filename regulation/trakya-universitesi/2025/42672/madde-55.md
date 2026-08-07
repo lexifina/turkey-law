@@ -1,0 +1,2 @@
+Temsil
+MADDE 55- (1) Türkiye’yi veya Üniversiteyi, milli takım ve üniversiteler arası folklorik, sportif, kültürel ve bilimsel alanlarda temsil eden karşılaşmalarda yer alan öğrencilerin bu karşılaşmalara ve bunların hazırlık çalışmalarına katılmak zorunda olmaları nedeniyle öğrenime devam edemedikleri süreler, devamsızlık süresinin hesabında dikkate alınmaz. Bu süreler içinde giremedikleri sınavlara, ilgili ana bilim/ana sanat dalı başkanlığının teklifi ve enstitü yönetim kurulunun onayı ile belirlenecek tarihlerde girerler.

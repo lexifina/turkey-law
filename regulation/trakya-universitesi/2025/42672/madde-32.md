@@ -1,0 +1,10 @@
+YEDİNCİ BÖLÜM
+Doktora Programı
+Genel esaslar
+MADDE 32- (1) Doktora programının amacı, öğrenciye bağımsız araştırma yapma, bilimsel problemleri, verileri geniş ve derin bir bakış açısı ile irdeleyerek yorum yapma, analiz etme ve yeni sentezlere ulaşmak için gerekli becerileri kazandırmaktır.
+(2) Doktora programı, enstitüde yürütülen programlardan birinde ve/veya Üniversite içinde ya da yurt içi/yurt dışı diğer yükseköğretim kurumlarıyla ortaklaşa düzenlenmiş programlar şeklinde de yürütülebilir. Ortaklaşa düzenlenmiş doktora programlarının uygulama esaslarına, ilgili mevzuat hükümleri ve YÖK kararları çerçevesinde ilgili ana bilim/ana sanat akademik kurulları, enstitü kurulları ile birlikte karar verir ve Senatonun onayına sunarlar.
+(3) Doktora programı, tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için 21 ulusal krediden ve bir eğitim-öğretim dönemi 60 AKTS kredisinden az olmamak koşuluyla en az yedi ders, bir seminer dersi, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de 42 ulusal krediden az olmamak koşuluyla en az 14 ders, seminer dersi, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere toplam en az 300 AKTS kredisinden oluşur.
+(4) Doktora programlarında enstitü ana bilim/ana sanat dalı akademik kurul kararı doğrultusunda ana bilim/ana sanat dalı başkanlığı önerisi ve enstitü yönetim kurulu onayı ile diğer yükseköğretim kurumlarında ya da Üniversitenin diğer enstitülerinde verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir.
+(5) Lisans dersleri ders yüküne ve doktora kredisine sayılmaz. Yüksek lisans eğitimi sırasında alınmış olan doktora dersleri de doktora kredisine sayılmaz.
+(6) Doktora programları ikinci öğretim olarak açılamaz.
+(7) Doktora çalışması sonunda hazırlanacak tezin; bilime yenilik getirme, yeni bir bilimsel yöntem geliştirme, bilinen bir yöntemi yeni bir alana uygulama niteliklerinden en az birini yerine getirmesi gerekir.

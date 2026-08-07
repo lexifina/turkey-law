@@ -1,0 +1,6 @@
+Lisansüstü programların açılması
+MADDE 7- (1) Yeni bir lisansüstü programı; ana bilim/ana sanat dalı akademik kurulunun önerisi, enstitü kurulunun uygun görüşü, Senatonun kararı ve YÖK onayı ile açılır.
+(2) Program açma teklifleri; YÖK’ün belirlediği esaslar çerçevesinde lisansüstü programlarının eğitim hedefleri, programlara giriş ve mezuniyet koşulları, programların içerdiği zorunlu ve seçmeli dersleri ve bunların ulusal kredileri/AKTS’leri ve dersleri verecek öğretim elemanlarının özgeçmişleri ve yayın listeleri ve benzeri hususlar çerçevesinde yapılır.
+(3) Açılan programlar enstitü ana bilim/ana sanat dalları ile aynı adları taşır. Ancak, Senatonun önerisi ve YÖK kararı ile bir enstitü ana bilim/ana sanat dalında o enstitü ana bilim/ana sanat dalından farklı bir ad taşıyan lisansüstü program veya disiplinler arası lisansüstü programlar açılabilir.
+(4) Ana bilim/ana sanat dalı akademik kurulunun önerisi ve ilgili enstitü kurulunun kararı ile diğer yurt içi/yurt dışı yükseköğretim kurumları ile iş birliği yaparak ortak programlar açılabilir. Bu uygulama, Senato kararı ve YÖK onayı ile yürürlüğe girer. Yurt dışı ortak programlar ilgili mevzuat hükümlerine göre yürütülür.
+(5) Mevcut programlara ilişkin değişiklik teklifleri, ana bilim/ana sanat dalı akademik kurulunun önerisi enstitü kurulunun onayı sonrası Senato tarafından karara bağlanır.
