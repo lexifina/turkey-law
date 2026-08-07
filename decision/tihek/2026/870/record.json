@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/870",
+  "case_number": "2025/2389",
+  "decision_date": "2026-08-07",
+  "title": "2026/870 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/xvb3b1.pdf",
+  "source_sha256": "905a654ccdaa5a26d1904d0bf48a7e8747c08f9dc8c973a12ea38f1c78b6d17e",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
