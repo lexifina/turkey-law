@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/864",
+  "case_number": "2025/3889",
+  "decision_date": "2026-08-07",
+  "title": "2026/864 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/a5fhi7.pdf",
+  "source_sha256": "5f1d9a9434e7f71f398d17e0156783ac5bb8a0fb063d352b037302ffdfe8971b",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
