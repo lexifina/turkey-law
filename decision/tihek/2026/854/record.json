@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/854",
+  "case_number": "2026/1083",
+  "decision_date": "2026-08-07",
+  "title": "2026/854 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/d6qmp9.pdf",
+  "source_sha256": "b307ffc9232e61a5e08025cd33250992b2988adcce56096bb2832fbba5e3ea61",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
