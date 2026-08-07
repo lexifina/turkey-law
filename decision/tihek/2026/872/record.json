@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/872",
+  "case_number": "2026/1292",
+  "decision_date": "2026-08-07",
+  "title": "2026/872 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/zlwfgh.pdf",
+  "source_sha256": "1432b02c9427539cbe26604cb94ba3b49c49b970a11470e3c798b1f24ac09e69",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
