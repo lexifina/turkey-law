@@ -1,0 +1,2 @@
+Yabancı uyruklu öğretim elemanları
+MADDE 25- (1) Üniversitede görevlendirilecek yabancı uyruklu öğretim elemanları; ilgili fakülte, enstitü veya yüksekokul yönetim kurulunun önerisi ve Üniversite Yönetim Kurulunun uygun görüşü üzerine Rektör tarafından atanır. Bu atama veya görevlendirmelerde YÖK’ün olumlu görüşü alınarak gereken işlemler tamamlanır. Yabancı uyruklu öğretim elemanları, öğretim görevleri bakımından 2547 sayılı Kanunda ve bu Yönetmelikte aylıklı öğretim elemanları için yer alan hükümlere tabidirler.

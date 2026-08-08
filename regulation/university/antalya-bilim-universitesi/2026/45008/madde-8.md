@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Akademik ve İdari Organlar, Yöneticiler ve Görevleri
+Rektör
+MADDE 8- (1) Rektör, ilgili mevzuat hükümlerine göre Cumhurbaşkanı tarafından atanır. (Mülga ikinci cümle:RG-8/8/2026-33334) Rektörlük için yaş haddi altmış yedidir. Ancak altmış yedi yaşından önce atanmış olanlar görev süreleri bitinceye kadar Rektörlük görevini sürdürebilir. Görev süresi biten Rektör yeniden atanabilir. Rektör, görevinden iki haftadan fazla uzaklaştığında Mütevelli Heyete ve YÖK’e bilgi verir.
+(2) Rektör, Mütevelli Heyet tarafından kendisine verilen yetkileri kullanır ve görevleri yapar. Rektör, Rektörlük tarafından hazırlanıp Mütevelli Heyet tarafından kabul edilen norm kadro sınırları içerisinde öğretim elemanları ile diğer personelin atamalarını, terfilerini ve sözleşmelerini yapar, görevden alınmalarını onaylar. Rektör, ilgili mevzuatla kendisine verilen diğer görevleri yapar.
+(3) (Değişik cümle:RG-8/8/2026-33334) Rektör, çalışmalarında kendisine yardımcı olmak üzere, Üniversitenin aylıklı profesörleri arasından en çok üç kişiyi kendi rektörlük süresiyle sınırlı olarak, rektör yardımcısı olarak seçer. Rektör yardımcıları Rektör tarafından verilen görevleri yerine getirir. Rektör, görevi başında bulunamadığı hallerde rektör yardımcılarından birini vekil bırakır.

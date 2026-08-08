@@ -1,0 +1,3 @@
+Fakülte/enstitü/yüksekokul sekreterliği ve görevleri
+MADDE 23- (1) Her fakültede, dekana bağlı olarak ve fakülte idari teşkilatının başında bir fakülte sekreteri, enstitü ve yüksekokullarda ise müdüre bağlı olarak enstitü ve yüksekokul sekreteri bulunur. Fakülte/enstitü/yüksekokul sekreterliği; sekretere bağlı büro ve ihtiyaca göre kurulacak birimlerden oluşur. Fakülte/enstitü/yüksekokul sekreterliğinde yeteri kadar personel çalıştırılır ve bunlar arasındaki iş bölümü dekanın/müdürün onayından sonra ilgili sekreter tarafından yapılır.
+(2) Fakülte/enstitü/yüksekokul sekreteri bağlı bulunduğu birimin kurullarında oy hakkı olmadan raportörlük yapar.

@@ -1,0 +1,2 @@
+Üniversite Yönetim Kurulu ve görevleri
+MADDE 10- (1) Üniversite Yönetim Kurulu; Rektörün başkanlığında, dekanlar, Üniversiteye bağlı farklı birim ve alanları temsil edecek şekilde Senato tarafından dört yıl için seçilen üç profesörden oluşur. Rektör yardımcıları oy hakkı olmadan Üniversite Yönetim Kurulu toplantılarına katılabilir. Üniversite Yönetim Kurulu, 2547 sayılı Kanun ve ilgili mevzuatla verilen diğer görevleri yapar.
