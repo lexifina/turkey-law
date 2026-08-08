@@ -1,0 +1,3 @@
+Not belgeleri/karneler
+MADDE 31 – (1) Üniversitede öğrenim gören bütün öğrencilerin, kayıt oldukları tarihten Üniversiteden ayrılıncaya kadar aldıkları dersler ve bu derslerden aldıkları notlar, Üniversitenin Öğrenci İşleri Müdürlüğünce öğrencinin not belgesine geçirilir. Not belgelerinin onaylı kopyaları, öğrencinin isteği üzerine kendisine elden verilir veya bildireceği adreslere posta ile gönderilir. Resmi kuruluşların isteği üzerine de onaylı not belgeleri gönderilebilir.
+(2) Öğretim üyeleri tarafından akademik takvimde belirtilen süre içinde verilen notlar, Üniversitenin Öğrenci İşleri Müdürlüğünce kayıt altına alındıktan sonra, akademik durumu belirten dönem karnesi şeklinde internet ortamında/otomasyon sisteminde açıklanır.

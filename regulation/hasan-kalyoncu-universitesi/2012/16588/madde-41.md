@@ -1,0 +1,4 @@
+Tebligat ve adres bildirme
+MADDE 41 – (Değişik:RG-19/8/2022-31928)
+(1) Öğrencileri doğrudan ilgilendiren tebligat, öğrencilerin kayıt sırasında bildirdikleri ikamet adreslerine veya öğrenciye Üniversite tarafından sağlanan e-posta adresine, tüm öğrencileri ilgilendiren genel nitelikteki duyurular ise elektronik posta, ilan panoları veya Üniversitenin internet sitesi aracılığı ile yapılır. Öğrenci, Üniversiteye kayıt sırasında bildirdiği adresi değiştirdiği takdirde yeni adresini öğrenci bilgi sistemi üzerinden güncellemek zorundadır. Üniversiteye kaydolurken bildirdikleri adresleri değiştirdikleri halde, bunu Üniversiteye bildirmemiş, yanlış ya da eksik bildirmiş olan öğrencilerin, öğrenci bilgi sisteminde kayıtlı adreslerine bildirimin yapılması halinde, kendilerine bildirim yapılmış sayılır.
+(2) Öğrenciler, Üniversite tarafından verilen resmi e-posta adresini aktif durumda tutmak, sürekli e-postalarını takip etmek ve gönderilen iletileri izlemekle yükümlüdür.

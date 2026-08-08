@@ -1,0 +1,2 @@
+Notlara itiraz ve maddi hataların düzeltilmesi
+MADDE 34 – (1) Notun yanlış verildiğini tespit eden öğretim elemanı ve/veya aldığı nota itiraz eden veya sınav belgesinde maddi hata olup olmadığının belirlenmesini isteyen öğrenci notların ilanından itibaren beş iş günü içinde ilgili dekanlığa/bölüm başkanlığına yazılı olarak başvurabilir. Başvurular, bölüm başkanlığı tarafından yedi iş günü içinde sonuçlandırılır. İlgili yönetim kurulu kararı ile kesinleşen sonuç, (Değişik ibare:RG-3/8/2014-29077) Dekanlık/Yüksekokul müdürlüğü tarafından öğrenciye bildirilir.

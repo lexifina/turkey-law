@@ -1,0 +1,4 @@
+Yatay/dikey geçiş yoluyla kayıt ve intibak
+MADDE 11 – (Değişik:RG-9/5/2020-31122)
+(1) Diğer yükseköğretim kurumlarından Üniversiteye yapılacak yatay geçişler ile Üniversite içindeki fakülte, yüksekokul ve diploma programları arasındaki yatay geçişler 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara göre yapılır.
+(2) Dikey geçiş yapmak isteyen meslek yüksekokulu mezunları lisans programlarına Yükseköğretim Kurulu tarafından yapılan Dikey Geçiş Sınavı (DGS) ile kayıt yaptırabilirler. Dikey geçiş sınavı sonucunda Üniversiteye kayıt yaptıranların intibak işlemleri ilgili Üniversitemiz Muafiyet ve İntibak İşlemleri Yönergesine göre yapılır.

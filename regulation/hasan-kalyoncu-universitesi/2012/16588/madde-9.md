@@ -1,0 +1,3 @@
+Danışmanlık
+MADDE 9 – (1) (Değişik:RG-9/5/2020-31122) Danışmanlıklar sınıf bazlı her eğitim öğretim dönemi başında Dekanlık/Müdürlük onayı ile Öğrenci İşleri Müdürlüğüne bildirilir. Her öğrenci için kayıtlı bulunduğu bölüm başkanlığınca bir danışman öğretim elemanı görevlendirilir. Danışman, öğrenciyi öğrenimi süresince izler, ilgili mevzuat hakkında bilgilendirir ve yönlendirir. Öğrencinin ders kayıtları, ders ekleme-bırakma işlemleri danışman onayı ile gerekli hallerde ilgili yönetim kurulunun kararı ile yapılır.
+(2) Danışmanın görevde bulunmadığı sürede yerine bakacak öğretim elemanı ilgili bölüm başkanınca belirlenir.
