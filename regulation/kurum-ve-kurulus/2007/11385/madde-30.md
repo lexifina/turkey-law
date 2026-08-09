@@ -1,0 +1,3 @@
+Kapalı teklif usulünde dış zarfların açılması
+MADDE 30 – (1) Tekliflerin açılma saati gelince, kaç teklif verilmiş olduğu bir tutanakla tespit edildikten sonra dış zarflar hazır bulunan istekliler önünde alınış sırasına göre açılarak, istenilen belgelerin ve geçici teminatın eksiksiz olarak verilmiş olup olmadığı aranır. Dış zarfın üzerindeki alındı sıra numarası iç zarfın üzerine de yazılır.
+(2) Belgeleri ile teminatı usulüne uygun ve tam olmayan isteklilerin teklif mektubu taşıyan iç zarfları açılmayarak başkaca işleme konulmadan, diğer belgelerle birlikte kendilerine veya vekillerine iade olunur. Bu konuda, iade gerekçelerini de içeren bir tutanak düzenlenir. Teklif mektubu kendilerine iade edilenler ihaleye katılamazlar.

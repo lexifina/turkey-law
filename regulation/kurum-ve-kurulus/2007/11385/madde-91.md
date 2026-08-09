@@ -1,0 +1,6 @@
+İhalelere katılmaktan geçici yasaklama
+MADDE 91 – (1) (Değişik:RG-10/4/2011-27901) Yönetmeliğin 90 ıncı maddesinde belirtilen fiil ve davranışlar ihale safhasında vaki olmuşsa bunları yapanlar İdarece, ihaleye iştirak ettirilmeyecekleri gibi fiil veya davranışlarının özelliğine göre Bakanlık tarafından, haklarında bir yıla kadar Bakanlık dahil bütün kamu kurum ve kuruluşları tarafından yapılan bütün ihalelere katılmaktan yasaklama kararı verilir.
+(2) (Değişik:RG-10/4/2011-27901) Ayrıca, üzerine ihale yapıldığı hâlde usulüne göre sözleşme yapmayan istekliler ile sözleşme yapıldıktan sonra taahhüdünden vazgeçen ve mücbir sebepler dışında taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmeyen müşteriler hakkında da, Bakanlık tarafından, haklarında bir yıla kadar sadece Bakanlık tarafından yapılan bütün ihalelere katılmaktan yasaklama kararı verilir.
+(3) Yasaklama kararları, Bakanlık tarafından Resmî Gazete’de ilan ettirilir.
+(4) Haklarında yasaklama işlemi yapılmış kişilerin sermayesinin çoğunluğuna sahip bulunduğu tüzel kişilere de aynı müeyyide uygulanır.
+(5) (Değişik ibare:RG-5/10/2022-31974) İdare, ihalelere katılmaktan yasaklamayı gerektirir bir durumla karşılaştıkları takdirde, gereğinin yapılması için bu durumu en geç bir ay içinde Bakanlığa bildirmekle yükümlüdürler.

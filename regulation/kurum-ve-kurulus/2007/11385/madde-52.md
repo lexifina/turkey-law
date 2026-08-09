@@ -1,0 +1,3 @@
+Müşterinin sözleşmenin bozulmasına neden olması
+MADDE 52 – (1) Sözleşme yapıldıktan sonra müşterinin taahhüdünden vazgeçmesi veya taahhüdünü, şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya kiraya verilen, kullanma izni verilen ya da irtifak hakkı kurulan taşınmazı sözleşmesinde öngörülen amaç dışında kullanması ve İdarenin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumu devam ettirmesi hâlinde, ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı Hazineye gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+(2) Gelir kaydedilen kesin teminat, müşterinin borcuna mahsup edilemez.

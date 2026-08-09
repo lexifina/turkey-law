@@ -1,0 +1,2 @@
+Geçici iş ve hizmetler için kullanılacak taşınmazların kiraya verilmesi
+MADDE 71 – (1) Fuar, panayır, sergi, gezici tiyatro, sirk, lunapark, konser, şantiye yerleri gibi geçici iş ve hizmetlerde kullanılmak üzere bir yıldan az süreler için kiralanması talep edilen taşınmazlar, isteklisine, birden fazla isteklisi olması hâlinde, aralarında yapılacak pazarlık sonunda en yüksek bedeli teklif edene ihale edilir.

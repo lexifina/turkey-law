@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununun 74 üncü maddesine ve 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun ile (Değişik ibare:RG-5/10/2022-31974) 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 101 inci maddesinin birinci fıkrasının (b) bendine dayanılarak hazırlanmıştır.

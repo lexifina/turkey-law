@@ -1,0 +1,3 @@
+Terkin edilecek ecrimisiller
+GEÇİCİ MADDE 6 – (Ek:RG-10/4/2011-27901)
+(1) 1/8/2010 tarihli ve 27659 sayılı Resmî Gazete’de yayımlanan 23/7/2010 tarihli ve 6009 sayılı Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun yayımı tarihinde yürürlüğe giren 25 inci maddesi ile 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununa eklenen geçici 3 üncü maddesinin yürürlüğe girdiği 1/8/2010 tarihinden önce tespit ve takdir edilen, tebliğ edilen veya tahakkuk ettirilen ecrimisil alacaklarının tespit tarihinden geriye doğru beş yılı aşan kısmı hangi aşamada olursa olsun düzeltilir veya terkin edilir, tahsil edilmiş olanlar iade edilmez.

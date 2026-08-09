@@ -1,0 +1,3 @@
+Hükmen Devletin hüküm ve tasarrufu altında bırakılan yerlere ilişkin işlemler
+EK MADDE 2 – (Ek:RG-21/7/2017-30130)
+(1) Mülkiyeti kamu kurum ve kuruluşlarına veya kamu iktisadi teşebbüslerine ait iken Bakanlar Kurulu Kararı ile belirlenen miktar veya tutarda; yatırım, ihracat, ek istihdam ve üretim yapılması amacıyla bedelsiz olarak mülkiyeti yatırımcılara devredilen taşınmazların, açılan davalar sonucunda mahkemelerce Devletin hüküm ve tasarrufu altında bırakılmasına karar verilen kısımları üzerinde yatırımcılar lehine, mahkeme kararının kesinleştiği tarihten geçerli olmak üzere taşınmazın rayiç bedelinin binde beşi üzerinden kırkdokuz yıla kadar doğrudan kullanma izni verilebilir.

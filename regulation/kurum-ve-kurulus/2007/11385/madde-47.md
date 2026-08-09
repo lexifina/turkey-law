@@ -1,0 +1,3 @@
+Notere tasdik ve tescili zorunlu olmayan sözleşmeler
+MADDE 47 – (1) İlk yıl kira bedeli, Kanunun 76 ncı maddesi gereğince her yıl merkezî yönetim bütçe kanunuyla belirlenen parasal sınırın yüzde onunu aşmayan sözleşmeler, kamu idareleriyle yapılacak sözleşmeler ve ilk yıl kira bedeli ne olursa olsun (Değişik ibare:RG-11/9/2014-29116) tarım arazilerinin kiraya verilmesi ile büfe, kantin, çay ocağı gibi yerlerin, geçici iş ve hizmetler için kullanılacak taşınmazların kiraya verilmesinde düzenlenecek sözleşmeler ile taksitli satış sözleşmelerinin notere tasdik ve tescili zorunlu değildir.
+(2) (Değişik:RG-22/9/2016-29835) Büfe, kantin, çay ocağı gibi yerlere ilişkin sözleşmeler, bunların bulunduğu yerin yetkilisi huzurunda düzenlenir ve sözleşmeyi bunlar da imza eder.

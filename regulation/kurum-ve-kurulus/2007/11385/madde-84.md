@@ -1,0 +1,5 @@
+DÖRDÜNCÜ KISIM
+Tespit, Ecrimisil ve Tahliye
+Tespit
+MADDE 84 – (1) Hazine taşınmazlarından kiraya verilen, irtifak hakkı kurulan veya kullanma izni verilenlerin dışında kalanların fiilî durumları, İdarece hazırlanan program dâhilinde mahallinde tespit edilir. (Ek iki cümle:RG-10/4/2011-27901) Taşınmazların tespitleri yılda en az bir defa yapılır, ancak tespit programlarının süresi beş yıldan fazla olamaz. Bu tespitlerin yapılması konusunda (Değişik ibare:RG-5/10/2022-31974) illerde il müdürleri, ilçelerde ise milli emlak müdürleri veya milli emlak şefliği yetkilisi olarak görevlendirilen personeller gerekli tedbirleri alırlar. Tespitten önceki sürelere ait işgal ve tasarruflar sebebiyle ecrimisil takip ve tahsilatı yapılarak bu taşınmazlar denetim ve idare altına alınır.
+(2) Taşınmazın mahallinde düzenlenecek Taşınmaz Tespit Tutanağında (Ek-8); işgalin başlangıç tarihi, taşınmazın işgale veya kullanıma konu olan yüzölçümü, işgalcileri, kullanım amacı, ecrimisil takdirinde yararlanılabilecek bilgiler ile bilinmesinde yarar görülen diğer bilgilere yer verilir.

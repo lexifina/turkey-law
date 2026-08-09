@@ -1,0 +1,20 @@
+Kullanılacak formlar
+MADDE 95 – (1) Yönetmeliğin uygulanmasına ilişkin formlar, Yönetmeliğe eklenmiş ve aşağıda sayılmıştır.
+a) Satış Şartnamesi (Ek-1),
+b) Taksitli Satış Sözleşmesi (Ek-2),
+c) Kira Şartnamesi (Ek-3),
+ç) Kira Sözleşmesi (Ek-4),
+d) Tahsisli Taşınmazlardaki Ticari Amaçla Kullanılacak Yerlere Ait Kira Sözleşmesi (Ek-5),
+e) Ön İzin / Kira / Kullanma İzni / İrtifak Hakkı / Trampa / Satış Bedeli Tespitine Ait Hesap Tutanağı (Ek-6),
+f) Büfe, Kantin, Çay Ocağı Gibi Yerlere Ait Tespit ve Tahmin Edilen Kira Bedeli Hesap Tutanağı (Ek-7),
+g) Taşınmaz Tespit Tutanağı (Ek-8),
+ğ) Ecrimisil İhbarnamesi (Ek-9),
+h) Ecrimisil Düzeltme İhbarnamesi (Ek-10),
+ı) Ön İzin Şartnamesi (Ek-11),
+i) Ön İzin Sözleşmesi (Ek-12),
+j) İrtifak Hakkı Şartnamesi (Ek-13),
+k) (Değişik:RG-11/9/2014-29116) İrtifak Hakkına İlişkin Resmi Senede Yazılacak Hükümler (Ek-14),
+l) Kullanma İzni Şartnamesi (Ek-15),
+m) Kullanma İzni Sözleşmesi (Ek-16),
+n) (Ek:RG-11/9/2014-29116) Tahmin Edilen Bedel Tespit Raporu (Ek-17),
+o) (Ek:RG-11/9/2014-29116) Protokol (Ek-18).

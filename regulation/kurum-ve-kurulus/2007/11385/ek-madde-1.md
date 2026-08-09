@@ -1,0 +1,3 @@
+Kamu kurum ve kuruluşlarına devredilen taşınmazlar hakkında yapılacak işlemler
+EK MADDE 1 – (Ek:RG-11/9/2014-29116)
+(1) Bu maddenin yürürlük tarihi itibarıyla özel mevzuatı uyarınca belirli bir amacı gerçekleştirmek üzere kamu kurum ve kuruluşlarına doğrudan devredilen, ancak devralan kamu kurum ve kuruluşlarınca üçüncü kişilere satılan taşınmazlardan açılan davalar sonucunda mahkemelerce devir amacına uygun olarak değerlendirilmediği gerekçesiyle tapuda Hazine adına tesciline karar verilenler üzerinde satın alan kişilerce yapılan yapı ve tesis bulunması, bu kişiler tarafından talep edilmesi ve İdarece de uygun görülmesi halinde bunlar lehine rayiç bedel üzerinden irtifak hakkı tesis edilebilir.

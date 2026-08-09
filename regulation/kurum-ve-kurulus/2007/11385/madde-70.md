@@ -1,0 +1,7 @@
+Tahsisli ve kiralanmış yerlerdeki işlemler
+MADDE 70 – (1) Tahsisli taşınmazlar ile kamu hizmeti görülmek üzere genel bütçe kapsamındaki kamu idarelerince kiralanmış olan taşınmazların ticari amaçla kullanılması mümkün olan yerler, tasarruf eden kuruluş amirinin görüşü alınmak suretiyle, ilde (Değişik ibare:RG-5/10/2022-31974) il müdürünün, ilçede kaymakamın onayı ile İdarece kiraya verilebilir.
+(2) Bu yerlerin elektrik, su, doğalgaz, ısınma tesisatı mümkünse binanın genel tesisatından ayrılır. Tesisatın teknik bakımdan müstakil hâle getirilmesinin mümkün olmaması hâlinde, tahmin edilen bedelin tespit ve takdirinde elektrik, su, doğalgaz ve ısınma giderleri de ayrıca belirlenir.
+(3) Belirtilen yerler, gizlilik ve güvenlik gibi faktörler de dikkate alınarak kuruluşça seçilip (Değişik ibare:RG-5/10/2022-31974) İdareye bildirilen kişiler arasında yapılacak ihale sonucunda uygun bedeli teklif edene kiraya verilebilir.
+(4) Tahsisli veya kiralanmış yerlerin yetkili İdarenin bilgisi dışında kullanılması veya kullandırılması, ecrimisil alınmasını gerektirir.
+(5) Bakanlık, bu taşınmazların üçüncü kişilere kiraya verilmesine ilişkin olarak adına tahsis yapılan İdarelerle protokol yapmaya yetkilidir.
+(6)(Değişik:RG-11/9/2014-29116) Tahsisli taşınmazlar ile kamu hizmeti görülmek üzere genel bütçe kapsamındaki kamu idarelerince kiralanmış olan taşınmazların ticari amaçla kullanılması mümkün olan yerlerinin kiralanmasına ilişkin özel mevzuatlarda yer alan hükümler saklıdır.
