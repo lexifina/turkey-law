@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/47782",
+  "submitted": "2026-08-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yüksel Mansur KILINÇ",
+  "province": "İstanbul",
+  "summary": "Son 10 yılda ülke genelinde gerçekleşen intihar vakalarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/4289d580-f5ac-424b-b5b1-019febc99655",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "34fcce5c725a331e7cc3f60f50b30e9942965396fb9b628158427ce9fdbe5b8d",
+  "in_force": "2026-08-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
