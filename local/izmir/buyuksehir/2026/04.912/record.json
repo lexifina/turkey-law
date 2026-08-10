@@ -1,0 +1,25 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.912",
+  "decision_date": "2026-08-10",
+  "title": "Izmir council decision summary 04.912",
+  "version_label": "metadata-only",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/21082026_120730_KararOzet_04.912%20b%C3%BCt%C3%A7e-hukuk-%C3%A7ocuk%20haklar%C4%B1-gen%C3%A7lik%20%C3%BCniversiteler-kent%20konseyi-tce-sosyal.pdf",
+  "source_sha256": "9300ff3926629674fafc40d3886fed28320b343c559ac1fb6e0de59acfdd8b82",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36838",
+  "text_status": "metadata-only; possible private-person name or personal-data marker found; official link retained",
+  "privacy_flags": [
+    "possible named private person in decision context"
+  ],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
