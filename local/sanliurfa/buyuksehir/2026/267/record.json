@@ -1,0 +1,24 @@
+{
+  "number": "267",
+  "number_as_published": "267",
+  "year": 2026,
+  "title": "NAZIM İMAR PLANI DEĞİŞİKLİĞİ (Karaköprü - Akbayır - 0 Ada - 2518 Parsel)",
+  "decision_date": "2026-08-10",
+  "source": "https://www.sanliurfa.bel.tr/icerik/23586/106/nazim-imar-plani-degisikligi-karakopru---akbayir---0-ada---2518-parsel",
+  "official_document": null,
+  "source_sha256": "d591bad46e0b23d74c36625ab805cf90db31571f3a4e739279830d91232fb03d",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2026-08-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.08.2026 tarih ve 267 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2026-08-31",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
