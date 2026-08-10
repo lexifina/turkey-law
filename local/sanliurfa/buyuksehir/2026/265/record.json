@@ -1,0 +1,24 @@
+{
+  "number": "265",
+  "number_as_published": "265",
+  "year": 2026,
+  "title": "NAZIM İMAR PLANI DEĞİŞİKLİĞİ (Karaköprü - Atakent - 3264 Ada 7 Parsel)",
+  "decision_date": "2026-08-10",
+  "source": "https://www.sanliurfa.bel.tr/icerik/23772/106/nazim-imar-plani-degisikligi-karakopru---atakent---3264-ada-7-parsel",
+  "official_document": null,
+  "source_sha256": "78048bb7f6bc9fc34e941d127d684f97964adad20101cb257a989e9094b3fdd1",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2026-08-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.08.2026 tarih ve 265 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2026-09-28",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=1"
+}
