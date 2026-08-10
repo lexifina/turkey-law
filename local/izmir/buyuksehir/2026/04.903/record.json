@@ -1,0 +1,23 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.903",
+  "decision_date": "2026-08-10",
+  "title": "hukuk bütçe engelsiz ileri yaş",
+  "version_label": "official-summary",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/21082026_115943_KararOzet_04.903%20hukuk-b%C3%BCt%C3%A7e-engelsiz-ileri%20ya%C5%9F.pdf",
+  "source_sha256": "5b9ea716b18f7e15d6c67c2bac4cc9ed85d42be51569755aa6f94422a7a5d786",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36829",
+  "text_status": "official decision summary text; full adopted text not separately supplied by this register",
+  "privacy_flags": [],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
