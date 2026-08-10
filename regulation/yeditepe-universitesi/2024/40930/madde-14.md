@@ -1,0 +1,2 @@
+Uzaktan öğretim birimi sorumlusu
+MADDE 14- (1) Uzaktan öğretim birimi sorumlusu, Merkezde görev yapan öğretim elemanları arasından Müdür tarafından iki yıllık süre için görevlendirilir. Görev süresi dolan uzaktan öğretim birimi sorumlusu aynı usulle yeniden görevlendirilebilir. Uzaktan öğretim birimi sorumlusu Üniversitenin uzaktan eğitim ve öğretim ile ilgili ihtiyaç ve faaliyetlerine yönelik olarak yürüttüğü süreçlerin eşgüdüm içinde sürdürülmesinden sorumludur.

@@ -1,0 +1,1 @@
+[1] 10/8/2026 tarihli ve 33336 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin Adı “Yeditepe Üniversitesi Öğrenme, Öğretme ve Uzaktan Eğitim Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
