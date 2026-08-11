@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Yatılılık, Bursluluk ve Ücretlilik
+Yatılılık, bursluluk ve ücretlilik
+MADDE 9 – (1) Kurumun eğitim ve öğretim amaçlarına uygun olarak verimli, disiplinli ve uyum içinde çalışabilmesi, bilginin yanında uygar, manevî ve estetik değerler ile dayanışma, karşılıklı saygı, görgü ve nezaket kurallarının öğrencilerin kişilik yapılarına ortak özellikler olarak yerleşmesi, öğrencilerin ders dışı sosyal, kültürel ve sportif etkinliklere daha fazla zaman ayırabilmesi için belirlenen kontenjana göre lisede yatılılık uygulanır.
+(2) Yatılılık ile ilgili usul ve esaslar, Galatasaray Üniversitesi Senatosu tarafından onaylanacak yönerge hükümlerine göre yürütülür. Yatılılığa ilişkin kural ve uygulama kararları yatılılık komisyonunca alınır.
+(3) Lisede öğretim ücretlidir. Bütün yatılı öğrenciler, eğitim ve öğretimin kalitesi ile yararlanılan tesislerin özelliği göz önünde tutularak, her yıl Bütçe Kanunu ile tespit edilen yatılılık (pansiyon) ücretinin beş katına kadar Kurum yönetim kurulu kararıyla tespit edilecek ücreti, en çok dört taksitte ödemek zorundadır. Parasız yatılı öğrencilerin hakları saklıdır.
+(4) Lisede gündüzlü okuyan öğrencilerin de yıllık yatılılık ücretinin üçte biri oranında bir öğrenim ücretini, yatılılık ücretinin yatırılma zamanlarında ödemeleri gerekir. Ancak ortaöğretime yerleştirmeye esas puanla liseye yerleşen ve gündüzlü öğrenim gören öğrencilerden öğretim ücreti alınmaz.
+(5) Maddî durumlarının yeterli olmadığı belgelerle tespit edilen öğrencilere imkânlar ölçüsünde ve gereken düzeyde burs sağlanır. Bursların miktarı Kurum bütçesinde gösterilir. Galatasaray Eğitim Vakfı ile diğer kuruluş ve kişilerce sağlanan burslar ve eğitim yardımları bunların dışındadır.

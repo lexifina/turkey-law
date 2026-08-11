@@ -1,0 +1,3 @@
+Öğrenci başarısının değerlendirilmesi
+MADDE 25 – (1) İlkokul ve Ortaokulda öğrenciyi kendi yaş grubu içinde ve bütün olarak yetiştirmek esastır. İlkokul ve Ortaokul, öğretim programlarında öngörülen bütün derslerin ve ders dışı eğitici etkinliklerin ortak katkısıyla öğrencinin ilgi, eğilim ve yeteneği ölçüsünde yetiştirilir.
+(2) Lise kademesinde öğretim, araştırma, proje, tartışma, seminer ve uygulama yöntemlerinden yararlanılarak yürütülür. Okul yöneticileri, kütüphane, bilgi işlem merkezi, laboratuar ve benzeri yerleri, ders saatleri içinde ve dışında, imkânlar dâhilinde amaca hizmet edecek şekilde hazır bulundurur.

@@ -1,0 +1,2 @@
+Başarıya öncelik verme ve dışa açıklık ilkesi
+MADDE 7 – (1) Kurumun bir eğitim ve öğretim zinciri oluşturması ve bütünlüğü esastır. Bir kamu kurumu olan ve öğrencilerine üst düzeyde eğitim ve öğretim vermeyi amaçlayan lise, ortaokul ile ilkokulda geçişler ve öğrenimin sürdürülmesi başarıya öncelik verme ilkesine göre Kurum tarafından düzenlenir. Bununla birlikte, nesnellik ve eşitlik ilkesine göre, (Değişik ibare:RG-11/8/2026-33337) merkezi sınavda başarılı olarak giriş şartlarını yerine getiren öğrenciler, Lisenin Fransızca hazırlık sınıfına alınırlar.

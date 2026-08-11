@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanunu, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 44 üncü maddeleri, Türk ve Fransız Hükümetleri arasındaki İkili Anlaşma, 28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununun ek 34 üncü maddesi ile 25/8/2011 tarihli ve 652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 15 inci maddesine dayanılarak hazırlanmıştır.

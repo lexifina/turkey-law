@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.20510",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GALATASARAY ÜNİVERSİTESİNE BAĞLI GALATASARAY LİSESİ, GALATASARAY ORTAOKULU VE GALATASARAY İLKOKULU YÖNETMELİĞİ",
+  "number": "20510",
+  "issuer": "Millî Eğitim Bakanı ile Galatasaray Üniversitesi Rektörü",
+  "issuer_slug": "milli-egitim-bakani-ile-galatasaray-universitesi-rektoru",
+  "path": "regulation/milli-egitim-bakani-ile-galatasaray-universitesi-rektoru/2015/20510",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20510&MevzuatTertip=5",
+  "source_sha256": "1a691e396af5304ec3972a98bf3ebf3ad63fa185b332001642eaad18498d0697",
+  "source_bytes": 36938,
+  "published": "2015-02-06",
+  "gazette": "29259",
+  "in_force": "2026-08-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/8/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-08-11",
+      "RG-11/8/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-08-11",
+      "11/8/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihini takip eden eğitim-öğretim yılı başından itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2232,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

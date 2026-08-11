@@ -1,0 +1,5 @@
+Liseye öğrenci kabulü ve kontenjan
+MADDE 12 – (1) Milletlerarası Andlaşma ve Ek Protokol uyarınca Eşit Temsilli Türk-Fransız Komitesince kabul edilen kontenjanlara göre;
+a) Galatasaray Ortaokulunu tamamlayan (Ek ibare:RG-11/8/2026-33337) ve Bakanlıkça yapılan merkezi sınav sonuçları uyarınca ilk yüzde 4 arasında yer alan öğrenciler, Kurum tarafından, 7/9/2013 tarihli ve 28758 sayılı Resmî Gazete’de yayımlanan Millî Eğitim Bakanlığı Ortaöğretim Kurumları Yönetmeliğine göre Fransızca ve Türkçe derslerinden dil bilgilerinin yeterliliğini ölçen Yeterlilik Sınavına tabi tutulurlar. Fransızca ve Türkçe dil sınavlarından ayrı ayrı 100 üzerinden 70 puan alan öğrenciler Lisenin 9 uncu sınıfına, yeterli puanı alamayanlar ise Fransızca hazırlık sınıfına kabul edilirler.
+b) Diğer ortaokulları tamamlayan öğrenciler arasından Bakanlıkça belirlenen yerleştirmeye esas puanla Kurumun Lise Fransızca hazırlık sınıfına her öğretim yılı başında 100 (yüz) öğrenci kabul edilir.
+(2) Milletlerarası Andlaşma ve Ek Protokol uyarınca Eşit Temsilli Türk-Fransız Komitesince kabul edilen kontenjanlara göre, sınıf mevcutlarının Lisede otuz dört (34) öğrenciyi geçmemesi esastır.

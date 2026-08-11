@@ -1,0 +1,2 @@
+Kurul ve komisyonlar
+MADDE 17 – (1) İlkokul, ortaokul ve lisede, eğitim ve öğretimin yürütülmesi için gerekli olan ya da ihtiyaç duyulan tüm kurul ve komisyonlar, Millî Eğitim Bakanlığı Ortaöğretim Kurumları Yönetmeliği ile 26/7/2014 tarihli ve 29072 sayılı Resmî Gazete’de yayımlanan Millî Eğitim Bakanlığı Okul Öncesi Eğitim ve İlköğretim Kurumları Yönetmeliği ve diğer ilgili mevzuat hükümlerine göre kurulur ve faaliyet gösterir.
