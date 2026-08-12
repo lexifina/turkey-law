@@ -1,0 +1,3 @@
+Dayanak
+MADDE 2 – (Değişik:RG-1/5/2020-31118)(2)
+(1) Bu Tebliğ, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 34 üncü maddesine, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun 10 uncu maddesine, Ülkeye Girişte Veteriner Kontrollerine Tabi Olan Hayvan ve Ürünlere Dair Yönetmeliğin geçici 1 inci maddesine, Bitkisel Gıda ve Yem İthalatının Resmi Kontrollerine Dair Yönetmeliğin 15 inci maddesine, Bitki Karantinası Yönetmeliğinin 6 ncı maddesine ve Bitki Koruma Ürünleri ile Bitki Koruma Ürünü Hammaddelerinin İthalatı Hakkında Yönetmeliğin 7 nci maddesine dayanılarak hazırlanmıştır.

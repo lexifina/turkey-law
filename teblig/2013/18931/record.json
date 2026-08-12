@@ -1,0 +1,91 @@
+{
+  "source_id": "9.5.18931",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIM VE ORMAN BAKANLIĞI KONTROLÜNE TABİ BELİRLİ ÜRÜNLERİN GİRİŞİNE YETKİLİ GÜMRÜK İDARELERİ İLE RESMİ KONTROLLERİNİ YAPMAYA YETKİLİ İL TARIM VE ORMAN MÜDÜRLÜKLERİNİN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "18931",
+  "path": "teblig/2013/18931",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18931&MevzuatTertip=5",
+  "source_sha256": "93d19c53f0b18255f9e779bd5ef412bec116601fd6eed0532d98aa3a4572d5db",
+  "source_bytes": 41533,
+  "published": "2013-10-05",
+  "gazette": "28786",
+  "in_force": "2026-08-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"12/8/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-08-12",
+      "12/8/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-01-23",
+      "23/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-10-04",
+      "4/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-10-12",
+      "RG-12/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-12",
+      "12/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-28",
+      "28/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-04-06",
+      "6/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-28",
+      "28/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-07-28",
+      "28/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-05-05",
+      "5/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-05-01",
+      "RG-1/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-24",
+      "24/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1520,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18931-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
