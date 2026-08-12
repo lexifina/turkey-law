@@ -1,0 +1,2 @@
+Yıkımda iş sağlığı ve güvenliği
+MADDE 13 – (1) Yıkım faaliyetinin her safhasında 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan 5/10/2013 tarihli ve 28786 sayılı Resmî Gazete’de yayımlanan Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği ve ilgili diğer mevzuata uyulması ve yıkım faaliyetinde görev alanların ilgili mevzuatına uygun olarak kişisel koruyucu donanım kullanması zorunludur.

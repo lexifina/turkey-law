@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Yıkım Yöntemleri ve Ekipmanları
+Yıkım yöntemleri
+MADDE 11 – (1) Yapıların yıkımında; TS 13633 standardında yer alan tekniklerden uygun olan herhangi biri tercih edilebilir. Bitişik nizam yapılaşmanın söz konusu olduğu durumlarda yıkım faaliyeti bitişik yapının güvenliğini esas alacak şekilde gerçekleştirilir. Bu amaçla komşu binaya zarar verilmemesi bakımından mümkün olan durumlarda kısmen veya tamamen elle yıkım tekniğinin uygulanması esastır.
+(2) Tam yıkım, çatıdan başlanarak temel alt seviyesine kadar yukarıdan aşağıya doğru olacak şekilde gerçekleştirilir. Yıkıma alt kat düşey taşıyıcı elemanlarından başlanılamaz. Yıkım sırasında katlarda oluşacak yıkıntı atıkları güvenlik tedbirlerine uygun olarak, kaydırma olukları veya farklı bir sistemle zemine indirilir. Döşemeler, yıkım işlerinde oluşan yıkıntı atıkları nedeniyle aşırı yüklere maruz bırakılmaz. Yıkım çalışmalarına ara verilmesi söz konusu olduğunda yapıda gerekli kontroller yapılarak askıda blok bırakılmaz, zemindeki çukurlar kapatılır.
+(3) Kısmi yıkım, yapı yüksekliğinin azaltılması, herhangi bir yapı elemanının kaldırılması gibi amaçlarla yapının sadece belirli bölümleri üzerinde gerçekleştirilen yıkım çalışmalarını kapsar. Kısmi yıkım süresince yıkıma konu edilen yapının kalan bölümlerindeki yapısal stabiliteyi koruyacak önlemler alınır.

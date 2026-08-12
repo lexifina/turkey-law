@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.39614",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİNALARIN YIKILMASI HAKKINDA YÖNETMELİK",
+  "number": "39614",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2021/39614",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39614&MevzuatTertip=5",
+  "source_sha256": "dffa418764445fac6eda90f9d7ea8afe60f9343e152a3a31ba445614e7f574cd",
+  "source_bytes": 65153,
+  "published": "2021-10-13",
+  "gazette": "31627",
+  "in_force": "2026-08-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/8/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-08-12",
+      "RG-12/8/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-08-12",
+      "12/8/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-21",
+      "RG-21/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-21",
+      "21/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2022 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3306,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39614-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
