@@ -1,0 +1,37 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.932",
+  "decision_date": "2026-08-13",
+  "title": "Izmir council decision summary 04.932",
+  "version_label": "metadata-only",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/19082026_112724_KararOzet_04.932%20%C4%B0mar%20-Hukuk-%20%C3%87evre%20-Esnaf%20O%C3%87K.pdf",
+  "source_sha256": "1d4de0a208fbffbf4cd8296e21e5409db58eeda6c38961384416bd81bb385dc8",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36785",
+  "text_status": "metadata-only; possible private-person name or personal-data marker found; official link retained",
+  "privacy_flags": [
+    "possible person name in official summary filename"
+  ],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    },
+    {
+      "page": 2,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    },
+    {
+      "page": 3,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
