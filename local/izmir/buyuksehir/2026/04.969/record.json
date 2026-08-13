@@ -1,0 +1,25 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.969",
+  "decision_date": "2026-08-13",
+  "title": "Izmir council decision summary 04.969",
+  "version_label": "metadata-only",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/20082026_111622_KararOzet_04.969%20imar%20-%20Deprem%20afet%20-%20Kentsel%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20ve%20K.%20Pol..pdf",
+  "source_sha256": "e014923d3d4cd2551e7961adf90bfcdc900890326f403b141fa84d21c70665c0",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36814",
+  "text_status": "metadata-only; possible private-person name or personal-data marker found; official link retained",
+  "privacy_flags": [
+    "possible person name in official summary filename"
+  ],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
