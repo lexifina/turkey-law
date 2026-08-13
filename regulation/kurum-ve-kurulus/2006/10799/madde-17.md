@@ -1,0 +1,6 @@
+BEŞİNCİ BÖLÜM
+Kota Uygulaması ile İlgili Hükümler
+Kota uygulaması ve sorumluluklar
+MADDE 17 – (1) Bakanlık, ÖTL’lerin çevre ile uyumlu yönetiminin sağlanması amacıyla üretici sorumluluğu kapsamında kota uygulamasını zorunlu kılar.
+(2) (Değişik:RG-13/8/2026-33339) Üreticiler, her yıl bir önceki yıl iç piyasaya sürülen lastik tonajını hesaba alarak Bakanlığın belirleyeceği oranlarda ÖTL’leri toplamak/toplatmak, toplanan miktarın geri kazanımını veya bertarafını sağlatmak ve bu işlemleri Bakanlığa belgelemekle yükümlüdürler. Bu amaçla, 18 inci maddeye göre Bakanlığa başvuru yapılması zorunludur.
+(3) Lastik üreticisi, ÖTL’lerini alıcı ortama olan etkilerini asgariye indirebilmek amacıyla, taşınması, geçici depolanması, geri kazanımı ve bertaraf edilmelerine dair yükümlülüklerini yerine getirmesi ve bunlara yönelik gerekli harcamaların karşılanması, eğitim faaliyetlerinin gerçekleştirilmesi için, Bakanlığın koordinasyonunda bir araya gelerek kâr amacı taşımayan tüzel kişiliğe haiz bir yapı oluşturabilirler. Bu yapıya karşı yükümlülüklerini yerine getiren ve harcamalara katılan kuruluşlar taşıma, geçici depolama, geri kazanım ve bertaraf yükümlülüklerini bu kuruluşa devredebilirler. Bu yapıya dahil olanlar kotanın tutturulmasından sorumludurlar.

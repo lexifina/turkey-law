@@ -1,0 +1,3 @@
+Geçici depolama izni iptali
+MADDE 23 – (Değişik:RG-13/8/2026-33339)
+(1) İl müdürlüğünce yapılan denetimlerde depolama alanlarının izne uygun olarak çalıştırılmadığı, ilgili mevzuatta istenen şartların yerine getirilmediğinin tespit edilmesi halinde, işletmeye tespit edilen aksaklığın giderilmesi için aksaklığın önemine ve kaynağına göre iki ay ile altı ay arasında süre verilir. Bu süre sonunda yapılan kontrollerde aksaklığın devam ettiği tespit edilirse, 25 inci madde hükmü uygulanarak işletmenin geçici depolama izni iptal edilir. Aksaklığı giderilen işletmenin, yeniden geçici depolama izni alabilmesi için 21 inci maddeye göre il müdürlüğüne müracaat etmesi zorunludur.

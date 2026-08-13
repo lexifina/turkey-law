@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Araç muayene istasyonu: 11/7/2002 tarihli ve 24812 sayılı Resmî Gazete’de yayımlanan Araç Muayene İstasyonlarının Açılması, İşletilmesi ve Araç Muayenesi Hakkında Yönetmelikte belirtilen yerleri,
+b) (Değişik:RG-13/8/2026-33339) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+c) Bazel Sözleşmesi: 15/5/1994 tarihli ve 21935 sayılı Resmî Gazete’de yayımlanan Tehlikeli Atıkların Sınırlarötesi Taşınımının ve Bertarafının Kontrolüne İlişkin Bazel Sözleşmesini,
+ç) (Değişik:RG-13/8/2026-33339) Bertaraf: 2/4/2015 tarihli ve 29314 sayılı Resmî Gazete’de yayımlanan Atık Yönetimi Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (ö) bendinde tanımlanan işlemleri,
+d) Geçici depolama: Bu Yönetmeliğin 15 inci maddesine göre yer seçimi yapılan ve bu Yönetmeliğin 16 ncı maddesinde belirtilen teknik özelliklere göre kurulan ve işletilen ÖTL toplama noktalarını,
+e) (Değişik:RG-13/8/2026-33339) Geri kazanım: Atık Yönetimi Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (aa) bendinde tanımlanan işlemleri,
+f) Kaplamacı: Kaplamalık lastik karkaslarını kaplayıp yeniden kullanılmasını sağlayan gerçek ve tüzel kişileri,
+g) Karkas: Sırtındaki dişleri kısmen aşınmış ancak kaplanıp yenilendikten sonra tekrar kullanılabilecek durumdaki kullanılmış lastikleri,
+ğ) Kanun: 2872 sayılı Çevre Kanununu,
+h) Kota: Bu Yönetmeliğin 17 nci maddesinde belirtilen esaslar doğrultusunda üreticiler tarafından toplanması gereken tonaj bazında ÖTL miktarını,
+ı) Lastik: Yolcu ve yük nakil araçları altında bazı bağlayıcı ve güçlendirici bileşenlerle, kauçuktan üretilen, kullanılan takviye malzemesine göre sınıflandırılan araç lastikleri olarak adlandırılan değişik tip ve ebattaki ürünleri,
+i) (Değişik:RG-13/8/2026-33339) Çevre lisansı: 10/9/2014 tarihli ve 29115 sayılı Resmî Gazete’de yayımlanan Çevre İzin ve Lisans Yönetmeliğinde tanımlanan lisansı,
+j) Lastik üreticisi: Lastiği imal eden, ürüne adını, ticari markasını veya ayırt edici işaretini koymak suretiyle kendini üretici olarak tanıtan gerçek veya tüzel kişiyi; üreticinin Türkiye dışında olması halinde, üretici tarafından yetkilendirilen temsilciyi ve/veya ithalatçı ile bağımsız ithalatçıları,
+k) Orijinal ekipman: Araç üreticisi ve treyler üreticilerine verilen lastikleri,
+l) Ömrünü tamamlamış lastik (ÖTL): Faydalı ömrünü tamamladığı belirlenerek araçtan sökülen orijinal veya kaplanmış, bir daha araç üzerinde lastik olarak kullanılamayacak durumda olan ve üretim esnasında ortaya çıkan ıskarta lastikleri,
+m) Ömrünü tamamlamış lastik üreticisi: Lastiği araçlarında kullanarak ÖTL oluşumuna sebep veren gerçek ve tüzel kişiler ile ÖTL oluşumuna sebep verenin bilinmemesi durumunda ise ÖTL’leri zilyetliğinde veya mülkiyetinde bulunduran gerçek ve tüzel kişileri,
+n) (Değişik:RG-13/8/2026-33339) Yetkili taşıyıcı: 14 üncü maddede belirtilen özelliklere sahip araçları olan, yetkili toplayıcı ile sözleşme yapmış gerçek ve tüzel kişileri,
+o) (Ek:RG-13/8/2026-33339) İl müdürlüğü: Çevre, şehircilik ve iklim değişikliği il müdürlüğünü,
+ö) (Ek:RG-13/8/2026-33339) Yetkilendirilmiş kuruluş: Atık Yönetimi Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (rr) bendinde tanımlanan tüzel kişiliği haiz birlikleri,
+p) (Ek:RG-13/8/2026-33339) Yetkili toplayıcı: Bakanlıktan ömrünü tamamlamış lastik toplama yetkisi almış olan gerçek ve tüzel kişileri,
+ifade eder.
