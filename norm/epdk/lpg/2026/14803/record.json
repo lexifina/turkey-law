@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "14803",
+  "decision_date": "2026-08-13",
+  "title": "Habaş Petrol Ürünleri San. ve Tic. A.Ş.’ye ait LPG-DPO/761-2/03265 sayılı LPG depolama lisansı ile faaliyette bulunan Kocaeli Tesisi için",
+  "resmi_gazete_date": "2026-08-14",
+  "resmi_gazete_number": "33340",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1y+vz4aV+u8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1y+vz4aV+u8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UPDeAWlmJcM="
+  ],
+  "source_sha256": "5d950ea8a047a00706a43266e3e5509fbde97a607d244fba50645a127f7a0cf5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 34775,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-08-13",
+  "law_text_complete": true
+}
