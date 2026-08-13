@@ -1,0 +1,25 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.963",
+  "decision_date": "2026-08-13",
+  "title": "Izmir council decision summary 04.963",
+  "version_label": "metadata-only",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/19082026_014859_KararOzet_04.963%20say%C4%B1l%C4%B1%20Karar.pdf",
+  "source_sha256": "ce33c13152c098a24231ac459c5d7299b8fe2892ec4d8902f67c6220773a0ed7",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36808",
+  "text_status": "metadata-only; named participant in person-specific decision; official link retained",
+  "privacy_flags": [
+    "named participant in a person-specific decision; metadata and official link only"
+  ],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
