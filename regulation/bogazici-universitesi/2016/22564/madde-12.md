@@ -1,0 +1,7 @@
+Ders programı
+MADDE 12 – (1) Öğrencinin her yarıyılda izleyeceği ders programı ve bunda yapılabilecek değişiklikler, bu Yönetmelik hükümleri göz önünde bulundurularak, danışmanın onayı ile kesinleşir. Gerekli hallerde ilgili yönetim kurulundan karar istenir.
+(2) (Değişik:RG-13/8/2026-33339) Öğrenciler, programlarının ilk iki yarıyılında bulunan bütün dersleri ilk açıldıklarında almak zorundadır. Bu öğrenciler, programlarının ilk iki yarıyılında alınması gereken dersleri almayı erteleyemez, bırakamaz, bir yarıyıl içerisinde birden fazla dersten çekilemez ve kredisiz alınan dersler hariç fazla ders yükü alamazlar. Özel durumlarda ilgili yönetim kurulu karar almaya yetkilidir.
+(3) Ön koşulu olan dersler bu koşul tamamlanmadan alınamaz. Ancak özel durumlarda dersi veren öğretim elemanının onayı ve hem dersi açan, hem de öğrencinin bağlı bulunduğu ilgili yönetim kurulu kararıyla ders ön koşulsuz olarak öğrencinin kayıtlarına işlenebilir. Bu karar sadece ilgili dönem için geçerlidir.
+(4) Senato tarafından onaylanmış program müfredatının son iki yarıyılında tamamlanması öngörülen azami kredi yükü dışında kalan asgari mezuniyet kredi yükünü tamamlamış öğrenci son sınıf statüsünde sayılır.
+(5) Lisans öğrencilerinin 500 kodlu ders alabilmeleri için son sınıf öğrencisi statüsünde olmaları gerekir. Özel durumlarda ilgili yönetim kurulu karar almaya yetkilidir.
+(6) Lisans öğrencileri 600 kodlu dersleri alamaz.

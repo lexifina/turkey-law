@@ -1,0 +1,4 @@
+Notların verilmesi, açıklanması ve maddi hata düzeltmeleri
+MADDE 25 – (1) Yarıyıl sonu notları, akademik takvimde belirtilen süreler içinde öğretim elemanları tarafından verilerek kesinleşir ve Kayıt İşleri Şube Müdürlüğü tarafından ilan edilir.
+(2) Akademik takvimde belirtilen süreler içinde verilmeyen notlar ve nota çevrilmeyen E, I ve NP işaretleri Kayıt İşleri Şube Müdürlüğü tarafından F notuna dönüştürülür.
+(3) Notlarda herhangi bir yanlışlık olması halinde dersin notu, dersi veren öğretim elemanının gerekçeli başvurusu ve ilgili yönetim kurulunun kararı ile değiştirilebilir ve dersin alındığı yarıyılı izleyen yarıyılın kayıt dönemi başlama tarihinden en geç bir hafta öncesine kadar Kayıt İşleri Şube Müdürlüğüne bildirilir. Özel durumlarda Üniversite Yönetim Kurulu karar almaya yetkilidir.
