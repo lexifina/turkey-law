@@ -1,0 +1,3 @@
+Ürünü depolamaya hazır hale getirme
+MADDE 8 – (1) Lisanslı depo işletmesi, depolanmaya veya standartlara uygun olmayan ya da depolandığında lisanslı depodaki diğer ürünleri olumsuz etkileyebilecek ürünleri, mudinin talebi üzerine ve ücreti karşılığında, depolanmaya ve standartlara uygun hale getirmek amacıyla niteliğine göre ihtiyaç duyulan temizleme, yabancı maddelerden ayıklama, eleme, kurutma, şartlandırma ve benzeri işlemlere tabi tutabilir.
+(2) Depolanmaya ve standartlara uygun hale getirilen ürünler depolanabilir. Depolama şartları uygun olmayan, sağlığı olumsuz etkileyecek düzeyde bulunan, standart dışı olan ve mevzuatta öngörülen diğer hususlara uygun olmayan ürünler, lisanslı depolara alınmaz.

@@ -1,0 +1,76 @@
+{
+  "source_id": "9.5.17277",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HUBUBAT, BAKLAGİLLER VE YAĞLI TOHUMLAR LİSANSLI DEPO TEBLİĞİ",
+  "number": "17277",
+  "path": "teblig/2013/17277",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17277&MevzuatTertip=5",
+  "source_sha256": "dd0dc1596d489cf0b1e42279b0d726aca3f4ca0aa591c12497c16334a0709e42",
+  "source_bytes": 39733,
+  "published": "2013-04-12",
+  "gazette": "28616",
+  "in_force": "2026-08-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/8/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-08-14",
+      "RG-14/8/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-08-14",
+      "14/8/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-17",
+      "RG-17/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-17",
+      "17/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-14",
+      "14/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-02",
+      "RG-2/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-02",
+      "2/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-07-30",
+      "RG-30/7/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-07-30",
+      "30/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1697,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

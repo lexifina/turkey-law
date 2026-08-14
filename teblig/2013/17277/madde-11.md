@@ -1,0 +1,4 @@
+Ürünün depolara yerleştirilmesi, ayrı depolanması ve teslimi
+MADDE 11 – (1) Aynı bitki türü aynı yıl ürünleri, grup, cins, sınıf ve derecelerine göre tahsis ve tasnif edilmiş, numaralanmış lisanslı depo ünitelerinde cinsi, grubu, sınıfı ve derecesi aynı olan ürünler ile karıştırılarak depolanır. (Ek cümle:RG-30/7/2022-31908) Buğday, arpa, çavdar, yulaf ve tritikale ürünleri, aynı cins, grup, sınıf ve derecelerde olmaları şartıyla bir önceki yıl ürünleriyle karıştırılarak depolanabilir.
+(2) Ürün, mudinin talebi ve lisanslı depo işletmesinin kabulü halinde, diğer ürünler ile karıştırılmadan orijinal hali korunarak ayrı olarak depolanabilir. Bu durumda ürün ayrı ünitelere konulur ve diğer ürünlerle karıştırılmadan açıkça ve fark edilebilir şekilde işaretlenir. Ayrı depolanan ürünlerin depodaki yeri kayıtlarda açık şekilde gösterilir.
+(3) Diğer ürünlerle karıştırılmadan ambalajlı veya ambalajsız aynen depolanan ürünler, aynı orijinal haliyle teslim edilir.
