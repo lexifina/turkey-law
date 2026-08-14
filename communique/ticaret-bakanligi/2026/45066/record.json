@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33340",
+  "date_quote": "RG-14/8/2026-33340",
+  "first_law": null,
+  "gazette": "33193",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-08-14",
+  "in_force_basis": "latest source-printed Resmi Gazete amendment date (current consolidated text)",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-0.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-03-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=45066&MevzuatTertip=5",
+  "source_bytes": 47224,
+  "source_id": "9.5.45066",
+  "source_sha256": "89a27e12245a84dd544823820c145f3eed4af2a9f74be45930ac519ada9ad518",
+  "title": "LİSANSLI DEPO İŞLETMELERİNE KURULUŞ İZNİ VERİLMESİ HAKKINDA TEBLİĞ",
+  "word_count": 1340
+}
