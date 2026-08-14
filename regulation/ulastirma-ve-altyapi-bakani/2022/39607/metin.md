@@ -1,0 +1,8 @@
+ULAŞTIRMA VE ALTYAPI BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ Amaç MADDE 1- (1) Bu Yönetmeliğin amacı, Ulaştırma ve Altyapı Bakanlığında görev yapan Devlet memurlarının disiplin amirlerini belirlemektir. Kapsam MADDE 2- (1) Bu Yönetmelik, Ulaştırma ve Altyapı Bakanlığı merkez ve taşra teşkilatında 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa göre görev yapan Devlet memurları hakkında uygulanır. Dayanak MADDE 3- (1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 124 üncü maddesi ile 29/4/2021 tarihli ve 3935 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Devlet Memurları Disiplin Yönetmeliğinin 5 inci maddesine dayanılarak hazırlanmıştır. Disiplin amirleri MADDE 4- (1) Bu Yönetmelik kapsamında görev yapan Devlet memurlarının disiplin amirleri Ek-1 sayılı Cetvelde gösterilmiştir. Disipline ilişkin usul ve esaslar bakımından uygulanacak mevzuat MADDE 5- (1) Disipline ilişkin usul ve esaslar bakımından 657 sayılı Kanun ile Devlet Memurları Disiplin Yönetmeliği hükümleri uygulanır. Yürürlükten kaldırılan yönetmelik MADDE 6- (1) 6/11/2012 tarihli ve 28459 sayılı Resmî Gazete’de yayımlanan Ulaştırma ve Altyapı Bakanlığı Personeli Disiplin Amirleri Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük MADDE 7- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme MADDE 8- (1) Bu Yönetmelik hükümlerini Ulaştırma ve Altyapı Bakanı yürütür. Eki için tıklayınız.
+ | Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+Tarihi | Sayısı
+28/6/2022 | 31880
+Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin
+Tarihi | Sayısı
+1. | 14/8/2026 | 33340
+2. |  | 
