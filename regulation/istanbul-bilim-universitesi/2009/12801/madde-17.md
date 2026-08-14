@@ -1,0 +1,5 @@
+Yatay geçişle öğrenci kabulü
+MADDE 17 – (1) Üniversitede veya diğer yükseköğretim kurumlarının lisansüstü programlarında en az bir yarıyıl öğrenim görmüş başarılı öğrenciler, Üniversitede yürütülen başka bir lisansüstü programa yatay geçiş yapmak için başvurabilir. Başvuruların kabul edilebilmesi için; anabilim dalında yüksek lisans veya doktora öğrenci kontenjanının olması, öğrencinin lisansüstü programlara öğrenci kabul koşullarını sağlamış ve en az bir yarıyıl lisansüstü öğrenim görerek aldığı derslerin her birinden bu Yönetmeliğin 23 üncü maddesinin ikinci fıkrasında belirtilen başarı notlarını almış ve gerekli genel akademik ortalamaları sağlamış olması gerekir. Yatay geçişi uygun görülen öğrencilerin intibakları anabilim dalı başkanlığının önerisi üzerine Enstitü Yönetim Kurulu kararıyla yapılır.
+(2) Üniversitenin lisansüstü eğitim-öğretim programlarına, yalnızca ders alma aşamasında olan öğrenciler yatay geçiş için başvuruda bulunabilir.
+(3) Tezsiz yüksek lisans programlarından tezli yüksek lisans programlarına geçiş yapılamaz.
+(4) Yatay geçişlerde eğitim-öğretim ücretleri her akademik yıl itibariyle Mütevelli Heyeti tarafından belirlenir.

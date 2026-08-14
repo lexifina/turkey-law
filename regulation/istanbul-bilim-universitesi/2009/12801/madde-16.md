@@ -1,0 +1,4 @@
+Kayıt
+MADDE 16 – (1) Lisansüstü programlara kayıt hakkını kazanan asil ve yedek adayların listesi ilgili Enstitü Yönetim Kurulu kararı ile kesinleşir ve Müdürlük tarafından ilan edilir. Kayıtlar, Senato tarafından kabul edilip ilan edilen Enstitünün akademik takviminde belirtilen günlerde yapılır.
+(2) Kayıt hakkı kazanan adaylar, eğitim-öğretim ücretini yatırmak ve Enstitü Yönetim Kurulunca istenen belgeleri süresi içinde Enstitüye vermek şartıyla kesin kayıtlarını yaptırırlar. (Ek cümle:RG-10/4/2012-28260) İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. (Ek cümle:RG-10/4/2012-28260) Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.
+(3) Süresi içinde kesin kaydını yaptırmayan adaylar kayıt haklarını kaybeder. Bu adayların yerine, başarılı bulunan yedek adaylar genel başarı değerlendirme sırası esas alınarak kabul edilir.

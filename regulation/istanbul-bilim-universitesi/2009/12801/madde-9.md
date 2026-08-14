@@ -1,0 +1,2 @@
+Eğitim-öğretim ücreti
+MADDE 9 – (1) Lisansüstü eğitim ve öğretim ücretlidir. Eğitim-öğretim ücretleri her akademik yıl itibariyle Mütevelli Heyeti tarafından belirlenir. Eğitim-öğretim ücretini yatırmayan öğrencilerin kayıt işlemleri yapılmaz. Yarıyıl eğitim-öğretimi başladıktan sonra Üniversiteden ayrılan, çıkarılan, kaydı silinen veya mezun olan öğrencilerin o yarıyıla ilişkin öğrenim ücretleri iade edilmez.

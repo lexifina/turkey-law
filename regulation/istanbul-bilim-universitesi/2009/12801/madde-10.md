@@ -1,0 +1,3 @@
+Derslerin açılması ve ders sorumluları
+MADDE 10 – (1) Her yarıyıl açılacak dersler ve bunların sorumlu öğretim elemanları, anabilim dalı tarafından belirlenir ve anabilim dalı başkanlığının önerisi üzerine Enstitü Kurulunca kabul edildikten sonra Senato tarafından onaylanarak ilan edilir.
+(2) Lisansüstü düzeydeki dersler, öğretim üyeleri tarafından verilir. Zorunlu hallerde Anabilim dalı başkanlığının gerekçeli önerisi ve Enstitü Yönetim Kurulunun onayı ile öğretim görevlilerine de lisansüstü düzeyde dersler verdirilebilir. Gerekli görüldüğünde Üniversite Yönetim Kurulu kararı ile Üniversite dışından da görevlendirme yapılabilir.

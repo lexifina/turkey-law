@@ -1,0 +1,2 @@
+Akademik ortalamanın hesaplanması
+MADDE 24 – (1) Bir dersin (Değişik ibare:RG-14/8/2026-33340) AKTS kredisi ile başarı notu katsayısının çarpımı o dersin ağırlıklı puanını verir. Akademik ortalama; öğrencinin bir lisansüstü programa yazılmasından itibaren aldığı derslerin ağırlıklı puanlarının toplamının aynı derslerin (Değişik ibare:RG-14/8/2026-33340) AKTS kredisi toplamına bölünmesiyle elde edilir. Bu hesaplamada bölme işlemi virgülden sonra iki basamak yürütülür.

@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 6 – (1) Enstitülerde öğretim dili Türkçe’dir. Ancak, Enstitü Kurulunun önerisi ve Yükseköğretim Kurulunun onayı ile belirli programlarda bütün dersler ya da bazı dersler yabancı dilde verilebilir. Tezler Türkçe yazılır. Anabilim dalının önerisi ve Enstitü Yönetim Kurulunun onayı ile bir tezin yabancı dilde yazılmasına karar verilebilir. Lisansüstü eğitim-öğretimin tamamının bir yabancı dilde yapıldığı programlarda ise dersler, yeterlik ve tez savunma sınavları ile raporları yabancı dilde yazılır.

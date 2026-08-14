@@ -1,0 +1,5 @@
+Bilimsel hazırlık sınıfı
+MADDE 15 – (1) (Değişik:RG-14/8/2026-33340) Yüksek lisans ve doktora programlarında sahip oldukları lisans veya yüksek lisans derecesi başvurdukları lisans/yüksek lisans programından farklı alanlarda olan adaylar ile lisans veya yüksek lisans derecesini Üniversite dışında bir yükseköğretim kurumunda almış olan adaylar için eksiklerini gidermek amacıyla bilimsel hazırlık programı (BHP) uygulanabilir.
+(2) Bilimsel hazırlık programında alınması zorunlu dersler, ilgili lisansüstü programını tamamlamak için gerekli olan derslerin yerine geçmez. Ancak öğrenci bilimsel hazırlık dersleri yanı sıra anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun onayı ile lisansüstü programa yönelik dersler de alabilir.
+(3) Bilimsel hazırlık programının dersleri, derslere devam, sınavlar ve başarılı sayılma koşulları ilgili Enstitü Kurulu tarafından belirlenir ve Senato tarafından onaylandıktan sonra uygulanır.
+(4) Bilimsel hazırlık programında geçirilecek süre en çok bir akademik yıldır. (Mülga ikinci cümle:RG-15/7/2013-28708) (…)

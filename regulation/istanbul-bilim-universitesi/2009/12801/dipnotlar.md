@@ -1,0 +1,1 @@
+[1] 3/2/2024 tarihli ve 32449 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin adı “İstanbul Bilim Üniversitesi Lisansüstü Eğitim-Öğretim Ve Sınav Yönetmeliği” iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.
