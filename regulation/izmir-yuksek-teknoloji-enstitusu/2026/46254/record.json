@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-08-15",
+      "15.08.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33341",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-08-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/2026/46254",
+  "published": "2026-08-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46254&MevzuatTertip=5",
+  "source_bytes": 50661,
+  "source_id": "8.5.46254",
+  "source_sha256": "a692e252d7b92adfb10af43b517929dc86b0de5f28c71244ca9d47a9e5be2067",
+  "text_status": "as-enacted",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ YAPAY ZEKA UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 953
+}
