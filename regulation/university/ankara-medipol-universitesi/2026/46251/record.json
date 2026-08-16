@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "Yürürlük\nMADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n",
+  "first_law": null,
+  "gazette": "33342",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-08-16",
+  "in_force_basis": "source commencement article: enters into force on publication",
+  "issuer": "Ankara Medipol Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2026-08-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46251&MevzuatTertip=5",
+  "source_bytes": 57807,
+  "source_id": "8.5.46251",
+  "source_sha256": "263632cd98ad341c6083cab997c9eb6267dd7f83d89bf9fca519ed1945cc4a61",
+  "structure": "article-files",
+  "text_status": "as-enacted",
+  "title": "ANKARA MEDİPOL ÜNİVERSİTESİ YAPAY ZEKA VE VERİ ANALİTİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 1703,
+  "version_label": "oldest version available",
+  "word_count": 1130
+}
