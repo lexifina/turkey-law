@@ -1,0 +1,11 @@
+Yarıyıl kayıtları
+MADDE 34- (1) Öğrenciler, her yarıyıl akademik takvimde ilan edilen süreler içinde kayıtlarını yenilemekle yükümlüdür. Belirlenen sürelerde kaydını yenilemeyen öğrenciler kayıtsız duruma düşer ve kayıtlı öğrencilere tanınan haklardan yararlanamaz.
+(2) Lisansüstü programa ilk kez kayıt yaptıran öğrenciler, akademik takvimde belirtilen ders ekleme-bırakma süresi içinde de yarıyıl kaydı yaptırabilir.
+(3) Yarıyıl kayıt işlemleri; öğrenim ücretinin ödenmesi, geçmiş yarıyıllara ilişkin mali yükümlülüklerin yerine getirilmesi ve danışman onayı alınarak ders kaydının yapılması suretiyle tamamlanır.
+(4) Yarıyıl kaydını süresi içinde tamamlayan öğrenciler, akademik takvimde belirtilen ders ekleme-bırakma süresi içinde ders ekleyebilir, ders bırakabilir veya grup değişikliği yapabilir. Bu değişikliklerin geçerli olabilmesi için danışman onayı alınması zorunludur.
+(5) Öğrenci, danışmanının uygun görüşüyle Enstitünün diğer programlarında açılan derslerden ders seçebilir.
+(6) Öğrenci, ilgili anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararıyla diğer yükseköğretim kurumlarında açılan lisansüstü derslerden ders alabilir. Bu kapsamda yüksek lisans öğrencileri ile yüksek lisans derecesiyle doktora programına kabul edilen öğrenciler en fazla iki ders; lisans derecesiyle doktora programına kabul edilen öğrenciler ise en fazla dört ders seçebilir.
+(7) Lisansüstü programın herhangi bir aşamasında ek süre verilen öğrenciler, ek sürelerde de yarıyıl kayıtlarını yenilemek zorundadır.
+(8) Kayıtsız duruma düşen öğrencilerden ilgili yarıyılda kayıt yenilemek isteyenler, gerekçelerini belirten ve belgelendiren dilekçeyle en geç ders ekleme-bırakma süresinin bitimine kadar ilgili anabilim dalı başkanlığına başvurur. Mazereti Enstitü Yönetim Kurulunca uygun görülen ve kayıt koşullarını sağlayan öğrencinin yarıyıl kaydı yenilenir.
+(9) Azami süre içinde üst üste iki yarıyıl veya aralıklı olarak üç yarıyıl ya da daha fazla süre kayıt yaptırmayan öğrencilerin yeniden kayıt yaptırmaları halinde, ilgili anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararıyla tez konusu ve/veya tez danışmanı yeniden değerlendirilebilir. Bu kapsamda tez konusu veya tez danışmanı değiştirilebilir.
+(10) Tezsiz yüksek lisans programları hariç olmak üzere, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.

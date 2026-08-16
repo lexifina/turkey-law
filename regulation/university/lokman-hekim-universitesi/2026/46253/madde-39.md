@@ -1,0 +1,4 @@
+Notların verilmesi, açıklanması ve maddi hata düzeltmeleri
+MADDE 39- (1) Yarıyıl sonu ders notları, ilgili öğretim elemanları tarafından akademik takvimde belirtilen tarihlerde verilir.
+(2) Notlar, akademik takvimde belirtilen tarihte Öğrenci Bilgi Sistemi üzerinden ilan edilir.
+(3) Notlarla ilgili herhangi bir maddi hata başvurusu, dersi veren öğretim elemanının başvurusu ile yarıyıl veya yaz okulu sonu notlarının son veriliş tarihinden itibaren Enstitü akademik takviminde belirtilen süre içerisinde enstitü anabilim dalı başkanlığının onayı ile yapılır. Bu süreyi aşan durumlarda, maddi hata ile düzeltme işlemlerinin dersin verildiği enstitü anabilim dalı başkanlığının önerisi üzerine ve o enstitü anabilim dalının bağlı bulunduğu birimin yönetim kurulu kararı ile yapılması gerekir. Maddi hata düzeltme işlemleri ile ilgili tarihler akademik takvimde belirtilir.

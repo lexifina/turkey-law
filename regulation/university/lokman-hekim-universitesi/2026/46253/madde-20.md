@@ -1,0 +1,2 @@
+Tezsiz yüksek lisans programı danışman atanması
+MADDE 20- (1) Tezsiz yüksek lisans programında enstitü anabilim dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından belirlenen niteliklere sahip doktora, tıpta uzmanlık veya diş hekimliğinde uzmanlık derecesine sahip bir öğretim görevlisini birinci yarıyılın başında belirler.
