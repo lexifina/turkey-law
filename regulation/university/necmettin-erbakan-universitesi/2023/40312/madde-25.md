@@ -1,0 +1,3 @@
+Kayıt dondurma
+MADDE 25- (Değişik:RG-10/6/2024-32572)(1)
+(1) Haklı ve geçerli mazereti kabul edilen öğrencilerin öğrenim süreleri, önceden ön görülmeyen mazeretler dışında yarıyılın/yılın başlangıcından itibaren bir ay içinde öğrencilerin talebi üzerine ilgili yönetim kurulu kararı ile dondurulur. Bir defada en çok iki yarıyıl ve öğrenim süresi boyunca toplam olarak en çok dört yarıyıl kayıt dondurulabilir. Ancak rahatsızlığı ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenciler ile hükümlü öğrencilerde süre sınırı uygulanmaz. Kayıt dondurulan süre azami öğrenim süresinden sayılmaz. Sağlıkla ilgili mazeretlerde sağlık kurulu raporu gereklidir.
