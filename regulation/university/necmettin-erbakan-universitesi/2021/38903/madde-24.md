@@ -1,0 +1,3 @@
+Diplomalar
+MADDE 24 – (1) Tüm mezuniyet şartlarını yerine getiren öğrencilere o programın lisans veya ön lisans diploması verilir. Diplomalar Rektörlükçe soğuk damga ile mühürlenir. Diplomaların şekli ve üzerinde yer alacak bilgiler Rektörlükçe düzenlenir. Diploma eki diplomayla birlikte ücretsiz olarak öğrencinin isteğine bağlı olmaksızın verilir.
+(2) Bir lisans programının en az ilk dört yarıyılının bütün derslerinden başarılı olanlara istemeleri halinde ön lisans diploması verilir. Ön lisans diploması almak için yapılacak başvurular herhangi bir süre ile sınırlı değildir. Ön lisans diploması alanların ilişiği kesilmiş sayılır.

@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Eğitim-Öğretim Süreleri, Öğrenimi Bitirme ve Diplomalar
+Eğitim-öğretim süresi, ek süre ve ek sınavlar
+MADDE 16 – (1) Bir yıl süreli yabancı dil hazırlık sınıfı hariç, kayıt oldukları programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadıklarına bakılmaksızın öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans programlarını azami yedi yıl, öğrenim süresi beş yıl olan lisans programlarını azami sekiz yıl, öğrenim süresi altı yıl olan lisans programlarını azami dokuz yıl içinde başarı ile tamamlayarak mezun olamayan öğrencilere başarısız oldukları bütün dersler için iki ek sınav hakkı verilir. Ek sınav uygulamaları ile ilgili esaslara Senato karar verir.
+(2) Üniversiteden süreli uzaklaştırma cezası alan öğrencilerin ceza süreleri ve mesleki hazırlık sınıfı için verilen ek süreler eğitim-öğretim süresinden sayılır. Ancak yabancı dil hazırlık sınıfı için verilen ek süreler eğitim-öğretim süresinden sayılmaz.

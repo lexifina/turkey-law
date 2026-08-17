@@ -1,0 +1,2 @@
+Yabancı dil hazırlık sınıfı
+MADDE 8 – (1) 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümleri kapsamında ilgili kurulların teklifi, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile yabancı dil hazırlık sınıfı açılabilir. Yabancı dil hazırlık sınıfının öğretim ve sınav esasları Senatoca belirlenir.

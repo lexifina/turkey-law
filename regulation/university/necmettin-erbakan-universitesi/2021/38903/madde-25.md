@@ -1,0 +1,3 @@
+Tebligat ve adres bildirme
+MADDE 25 – (1) Öğrenciye her türlü tebligat, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre öğrencinin resmi kayıtlarda yer alan posta adresine veya öğrenciye Üniversite tarafından sağlanan e-posta/beyan edilen e-posta adresine gönderilerek ya da öğrenci otomasyon sistemine kayıt edilmek suretiyle yapılır. Öğrenci, Üniversite tarafından sağlanan e-posta/beyan edilen e-posta adresine gönderilen iletileri ve öğrenci otomasyon sistemine yapılan kayıtları izlemekle yükümlüdür. Öğrenci otomasyon sistemine yapılan kayıtlar öğrenciye tebliğ yerine geçer.
+(2) Yazışma adresi ya da e-posta adresinin değişmesi halinde öğrencinin bu değişikliği öğrenci bilgi sistemi üzerinden güncellemesi gerekmektedir.

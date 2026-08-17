@@ -1,0 +1,2 @@
+Diploma yüksek onur/onur belgesi
+MADDE 22 – (1) Mezun olmaya hak kazanan, disiplin cezası almamış ve mezuniyet ağırlıklı not ortalaması 3,50-4,00 arasında olan öğrenciler diploma yüksek onur öğrencisi; 3,00-3,49 arasında olan öğrenciler ise diploma onur öğrencisi olarak tanımlanır. Öğrenciye diploması ile birlikte diploma yüksek onur/diploma onur öğrencisi olduğunu gösterir bir belge verilir ve diploma ekinde belirtilir.
