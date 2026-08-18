@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-08-18",
+  "issue": "33344",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7595 Millî Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/08/20260818-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/08/20260818.htm",
+  "index_sha256": "59c04b092fc7c2aee02afe421344a731732b54f646eb028095ae1926c0ba229b",
+  "index_header": "18 Ağustos 2026 ... 33344 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/08/20260818.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
