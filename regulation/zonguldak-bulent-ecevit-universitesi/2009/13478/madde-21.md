@@ -1,0 +1,2 @@
+İntibaklar
+MADDE 21 – (1) Daha önce başka bir yükseköğretim kurumunda öğrenci iken Fakülteye yatay geçiş yoluyla kayıt yaptıran öğrenciler, başarmış oldukları dersler için muafiyet talebinde bulunabilir. Bu öğrenciler muafiyete esas olacak belgeleri dilekçelerine bağlı olarak, kayıt işlemleri sırasında Fakülte Dekanlığına verir. Muafiyet talebinin kabulü ve öğrencinin eğitim-öğretim programına intibakının yapılması; derslerin kapsamı, başarı derecesi, kredisi gibi hususlar dikkate alınarak Fakülte Yönetim Kurulu tarafından karara bağlanır.

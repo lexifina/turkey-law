@@ -1,0 +1,3 @@
+Kayıt yenileme
+MADDE 20 – (Değişik:RG-9/5/2010-27576)
+(1) Öğrenciler her eğitim-öğretim yılı başında akademik takvimde gösterilen süre içinde, öğrenci katkı payını yatırarak kayıtlarını yenilemek zorundadır. Süresi içinde kaydını yenilemeyen ve katkı payını ödemeyen öğrenciler o öğretim yılında derslere ve sınavlara giremez. Bu suretle kaybedilen süre öğrenim süresine dahildir. Kayıt yenileme işlemlerinin tümünden öğrenci sorumludur. Mazereti nedeniyle kaydını süresi içinde yenileyemeyen öğrenci, Fakülte Yönetim Kurulunca mazereti kabul edildiği takdirde iki hafta içinde kaydını yenileyebilir, bu öğrenciler için geçen süre devamsızlık olarak sayılır.

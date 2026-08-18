@@ -1,0 +1,5 @@
+Devam mecburiyeti
+MADDE 14 – (1) (Değişik:RG-6/7/2015-29408) Öğrencinin derse kayıt olduğu tarihten itibaren derse ve uygulamalarına devam etmesi zorunludur. Akademik takvimde belirtilen derse kayıt için verilen ek süreler devamsızlıktan sayılmaz.
+(2) (Değişik:RG-14/8/2018-30509) Teorik derslerin %30’undan, uygulamalı dersler, klinik uygulamalar ve laboratuvarların %20’sinden daha fazlasına katılmayan öğrenciler mazeretlerine bakılmadan devamsız sayılır. Bu durumdaki öğrenciler o dersin yarıyıl/yıl sonu sınavlarına ve klinik uygulama sonu sınavına alınmaz. Ayrıca, sportif, kültürel ve bilimsel faaliyetler gibi alanlarda Üniversiteyi temsilen görevlendirilen öğrenciler, görevli oldukları sürece izinli sayılır. Bunun dışındaki tüm mazeretler ve raporlu olunan süre devamsızlıktan sayılır.
+(3) Öğrencilerin derslere, uygulamalara ve (Değişik ibare:RG-18/8/2026-33344) laboratuvarlara devam yükümlülükleri ile uygulamaya ilişkin esaslar Fakülte Kurulunca belirlenir.
+(4) Öğrencilerin devam durumları, belirlenen esaslar çerçevesinde ilgili öğretim elemanı tarafından izlenir ve değerlendirilir.

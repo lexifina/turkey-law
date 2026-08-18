@@ -1,0 +1,1 @@
+MADDE 27 – (1) (Değişik ibare:RG-18/8/2026-33344) Klinik uygulama sonu sınavı, (Değişik ibare:RG-14/8/2018-30509) klinik uygulamaları eğitim programları sonunda ve bu Yönetmeliğin 10 uncu maddesinde öngörülen koşullarda yapılır.
