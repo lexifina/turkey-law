@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/48018",
+  "submitted": "2026-08-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Adnan Şefik ÇİRKİN",
+  "province": "Hatay",
+  "summary": "Gelir İdaresi Başkanlığı tarafından yayımlanan bir tebliğe ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/727eceeb-b87b-46f1-a27d-01a01a0c375d",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8aa3d5e1235bf7bf752a47b786c7e80f986e91bff041ad9f37372d1b74947f23",
+  "in_force": "2026-08-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
