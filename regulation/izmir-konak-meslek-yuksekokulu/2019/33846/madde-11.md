@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 11 – (1) Mütevelli Heyeti, Müdürün önereceği kadrolu öğretim elemanları arasından en çok iki kişiyi akademik ve idari konularda görev yapmak üzere Müdür yardımcısı olarak üç yıllığına atar. Müdür yardımcıları, Müdürün önerisi ve Mütevelli Heyetinin onayı ile görevlerinden alınabilir. Müdürün görevi sona erdiğinde yardımcıların görevleri de sona erer. Müdür, görevi başında olmadığı süre içerisinde yardımcılarından birini yerine vekil olarak bırakır. Göreve vekalet altı aydan fazla sürerse yeni Müdür atanır.

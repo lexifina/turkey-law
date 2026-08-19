@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 26 – (1) Yüksekokulun öğretim dili Türkçedir. 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümleri çerçevesinde Yüksekokul Kurulunun önerisi, Mütevelli Heyeti kararı ve Yükseköğretim Kurulunun onayı ile Yüksekokulun bazı bölüm ve programlarında kısmen veya tamamen yabancı dilde eğitim yapılmasına karar verilebilir. Hazırlık sınıfı açılabilir.

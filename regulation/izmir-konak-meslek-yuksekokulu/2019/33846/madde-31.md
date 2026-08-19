@@ -1,0 +1,3 @@
+Harcama yetkilisi
+MADDE 31 – (1) Yüksekokulun harcama yetkilisi Başkandır. Başkan, bu yetkisini Mütevelli Heyeti tarafından belirlenen kurallar ve sınırlar çerçevesinde kullanır. Ayrıca, harcama yetkisi Mütevelli Heyetinin kabul ettiği bütçe sınırları içerisinde kalmak kaydıyla kısmen ya da tamamen Mütevelli Heyeti üyelerinden birine, Müdüre ya da Yüksekokul Sekreterine devredilebilir. Mütevelli Heyeti kararı ile Mütevelli Heyeti üyesi ya da Müdür, müdür yardımcısı ve Yüksekokul Sekreterinden biri ihale yetkilisi olarak belirlenebilir.
+(2) Harcama yetkilisi; ilgili mevzuat hükümleri çerçevesinde gelir ve giderlerin etkili, ekonomik ve verimli şekilde kullanılmasından ve yapılması gereken diğer işlemlerden sorumludur.

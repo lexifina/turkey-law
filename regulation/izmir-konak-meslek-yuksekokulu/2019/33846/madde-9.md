@@ -1,0 +1,5 @@
+Müdür
+MADDE 9 – (1) Müdür, Yüksekokulun en üst düzeydeki yöneticisidir. Müdür, Mütevelli Heyeti tarafından Yükseköğretim Kurulunun olumlu görüşü alınmak suretiyle üç yıl süreyle atanır. Gerekli görüldüğü takdirde, aynı usulle görevden alınır. Görev süresi biten Müdür, yeniden atanabilir.
+(2) Müdür; akademik ve idari işlerinin yoğunluğuna göre, kendisine yardımcı olmak üzere Mütevelli Heyetinin uygun bulduğu sayıda müdür yardımcısı seçer ve bunların atanmasına ilişkin teklifini Mütevelli Heyetinin onayına sunar. Müdür yardımcıları Müdürün görevi süresince görevde kalmak üzere atanır. Müdür yardımcıları aynı usulle yeniden atanabilir.
+(3) Müdür, görevi başında bulunmadığı zamanlarda yerine Müdür yardımcılarından birini vekil olarak bırakır.
+(4) Müdürlüğün boşalması halinde, Mütevelli Heyeti tarafından uygun görülen öğretim elemanlarından biri, en çok altı ay için bu görevi vekaleten yürütebilir. Müdürlüğün altı aydan fazla süreyle boşalması veya görev süresinin bitmesi halinde birinci fıkra hükümleri uygulanır.
