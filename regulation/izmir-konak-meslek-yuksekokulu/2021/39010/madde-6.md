@@ -1,0 +1,8 @@
+Yaz öğretiminin şartları
+MADDE 6 – (1) Yaz öğretimi isteğe bağlı olup, Yükseköğretim Kurulunun onayı ile tüm eğitim-öğretim aşamaları için açılabilir. Açılması ile ilgili esaslar Yüksekokul Kurulu tarafından belirlenir.
+(2) Yaz okulunda açılması planlanan dersler ve ders görevlendirmeleri, ilgili bölüm/program başkanlığının teklifi üzerine Yüksekokul Yönetim Kurulu tarafından belirlenir.
+(3) (Değişik:RG-14/7/2025-32956) Aynı eğitim-öğretim yılı içerisinde yer alan yaz öğretimine devam eden öğrenim süresi içindeki öğrenciler, yaz öğretiminde sadece kayıtlı olunan programın ders planındaki devam koşulunu sağladıkları ve başarısız oldukları veya daha önce alıp başardıkları halde başarı notunu yükseltmek istedikleri dersleri alabilirler. Ancak öğrenim süresini doldurmuş öğrenciler, yaz öğretiminde daha önce hiç almadıkları dersleri ve daha önce alıp devam koşulunu sağlayamadıkları dersleri de alabilirler.
+(4) (Değişik:RG-14/7/2025-32956) Bir öğrenci yaz öğretiminde Yüksekokul içinden ve/veya dışından en çok üç ders alabilir.
+(5) Yaz öğretiminde ders ekleme-çıkarma ve dersten çekilme işlemi uygulanmaz.
+(6) (Değişik:RG-14/7/2025-32956) Yaz öğretiminde ders açılabilmesi için gerekli en az öğrenci sayısı her yıl Yüksekokul Kurulu tarafından belirlenir. Yüksekokulda dersin açılmaması durumunda öğrenci ilgili dersi bir başka yükseköğretim kurumundan alabilir. Öğrenci, başvuru formu ve ekleriyle birlikte ilgili program başkanlığından eşdeğerlik onayını alıp Öğrenci İşleri Birimine teslim eder. Öğrenci, Yüksekokul Yönetim Kurulu kararıyla eşdeğerliği kabul edilen ilgili dersi alabilir.
+(7) Tüm ön lisans eğitim programlarında yer alan zorunlu dersler, verilmeleri gereken dönemlerde açılmak zorunda olup, yaz öğretimine ertelenemez.

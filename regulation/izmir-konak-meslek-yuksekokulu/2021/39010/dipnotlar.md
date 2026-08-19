@@ -1,0 +1,1 @@
+[1] 19/8/2026 tarihli ve 33345 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “İzmir Kavram Meslek Yüksekokulu Yaz Öğretimi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
