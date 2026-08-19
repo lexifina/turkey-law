@@ -1,0 +1,4 @@
+Müdür
+MADDE 8- (1) Müdür, Yüksekokulda, Merkezin faaliyet alanları kapsamına giren birimlerinde görevli öğretim elemanları arasından Mütevelli Heyet Başkanlığının onayı ile Yüksekokul Müdürü tarafından üç yıllık bir süre için görevlendirilir. Süresi biten Müdür aynı usulle tekrar görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden Yüksekokul Müdürüne karşı sorumludur. Müdürün görevi başında bulunmadığı zamanlarda yerine müdür yardımcılarından biri vekalet eder.
+(2) Merkezde Müdürün önerisi ve Yüksekokul Müdürünün onayı ile iki müdür yardımcısı görevlendirilir. Müdürün görevi sona erdiğinde, müdür yardımcılarının da görevi sona erer.
+(3) Müdür yardımcıları, Müdür ile iş birliği içerisinde Merkezin etkinliklerini yürütür ve Müdür tarafından verilen görevleri yapar. Müdürün olmadığı zamanlarda Müdür adına Merkezi temsil eder.

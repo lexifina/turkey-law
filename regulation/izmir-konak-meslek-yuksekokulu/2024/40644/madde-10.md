@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Merkezin faaliyet alanları kapsamına giren birimlerinde görevli öğretim elemanları arasından Yüksekokul Müdürü tarafından üç yıllık bir süre için görevlendirilen iki kişi ile birlikte toplam beş kişiden oluşur. Süresi biten üyeler yeniden görevlendirilebilir. Yönetim Kurulu, Müdürün çağrısı üzerine en az salt çoğunlukla toplanır ve kararlar toplantıya katılanların oy çokluğuyla alınır. Yüksekokul Müdürü gerekli gördüğü hallerde Merkezin yönetim kurullarına katılabilir.
