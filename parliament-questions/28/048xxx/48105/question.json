@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/48105",
+  "submitted": "2026-08-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ayyüce TÜRKEŞ TAŞ",
+  "province": "Adana",
+  "summary": "11-17 Ağustos 2026 tarihleri arasında İstanbul'da düzenlenen 22. Uluslararası Coğrafya Olimpiyatı'nın madalya töreninde yaşanan bir olaya ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/90788fcf-d54a-4b72-b1d1-01a0233acfdd",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "0bd16c0fa4c7dff1a29416939fa1da8aafb125d19531fde19ea8e6b2465b1061",
+  "in_force": "2026-08-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
