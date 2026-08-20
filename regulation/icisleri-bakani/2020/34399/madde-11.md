@@ -1,0 +1,4 @@
+Saçlar ve sakal
+MADDE 11 – (1) Kadın personel saçlarını uzatabilir. Üniforma yakasının arkadaki alt çizgisini geçecek kadar uzamış saçlar; topuz, örgü, atkuyruğu veya omuz hizasını geçmeyecek şekilde yarım bağlanır. Bu şekilde bağlanan saçların simetrik olmasına ve eğer saçlar boyanıyorsa doğal saç rengi tonlarında olmasına, kullanılan tokaların denizcilik simgeleri hariç herhangi bir işaret içermemesine, koyu ve mat renklerde veya saç rengine yakın olmasına dikkat edilir.
+(2) Erkek personelin saçları; tepe kısmı alt kısma oranla uzun ancak şapka takıldığında dışarı taşmayacak, şapka çıkarıldığında önde kaşlara ve yanda kulaklara değmeyecek şekilde, saçın tepe kısmı ile alt kısmı arasındaki geçiş doğal, ense doğal, çizgi oluşmayacak şekilde tıraş edilir. Ense her zaman temiz tutulur, favoriler saçın devamı olarak bırakılır ve kulak ortasını geçemez.
+(3) Erkek personel sakal ve bıyık bırakamaz ve her gün sabah sakal tıraşı olur.

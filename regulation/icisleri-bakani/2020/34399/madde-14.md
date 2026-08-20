@@ -1,0 +1,3 @@
+Aksesuarların kullanımı
+MADDE 14 – (1) Şapka, bere ve keplerin dış mekanlarda takılması zorunludur, araç içinde, personel arasında birliğin sağlanması koşulu ile çıkarılabilirler. Dış mekanı bulunan çalışma ortamlarında veya birlik içinde emirle şapka, bere ve kepler takılmayabilir. Dışarıdan içeriye girişte şapka sol koltuk altına, bere ve kepler sol elde en uygun sabit pozisyona alınır ve içeride uygun bir yere bırakılana kadar bu şekilde taşınır.
+(2) Kaşkol sadece mont, pardösü ve kaput ile kullanılabilir. Kaşkol bu giysilerin yaka kısmından iki parmak kalınlığından fazla taşmayacak ve kravatın görünmesine engel olmayacak şekilde kullanılır.

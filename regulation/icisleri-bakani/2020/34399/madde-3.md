@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun 23 üncü maddesi, 16/7/1982 tarihli ve 8/5105 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafetine Dair Yönetmeliğin 6 ncı maddesi ile 12/12/2016 tarihli ve 9742 sayılı Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Personel Yönetmeliğinin 55 inci maddesi hükümlerine dayanılarak hazırlanmıştır.
