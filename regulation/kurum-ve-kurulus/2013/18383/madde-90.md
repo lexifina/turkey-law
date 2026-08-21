@@ -1,0 +1,2 @@
+Temsilciliklerin dağılımı, şube sınırları
+MADDE 90 –(Değişik:RG-2/10/2014-29137) Temsilciliklerin etkinlik sınırlarının saptanması, yeniden yapılandırılması, yeni şubeler kurulması ve kapatılması ya da uygun çalışma koşullarının sağlanabilmesi gibi nedenlerle bu sınırlarda yapılması gerekli değişiklikler oda yönetim kurulunun yetkisindedir. Yapılan değişiklikler, değişikliğin etkileyeceği illerin mülki amirine, belediye başkanlığına, cumhuriyet savcılığına durum yazı ile bildirilir.

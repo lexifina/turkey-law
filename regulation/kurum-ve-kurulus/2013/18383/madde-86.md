@@ -1,0 +1,4 @@
+Temsilcilik Kurulunun belirlenmesi ve bildirimi
+MADDE 86 – (1) (Değişik:RG-14/12/2019-30978) Temsilcilik Kurulu, temsilciliğe bağlı üye sayısına göre ihtiyaç duyulan kadar tek sayıda üyeden, gerektiğinde eğilim yoklaması yapılarak oda yönetim kurulunca belirlenir. Oda yönetim kurulu, temsilcilik kurulması yolunda aldığı kararı ve Temsilcilik Kurulunu, temsilciliğin bulunduğu il/ilçenin mülki amirine, belediye başkanlığına, cumhuriyet savcılığına ve ilgili kurum ve kuruluşlara yazı ile bildirir. Temsilcilik Kurulunun değişmesi durumunda aynı yöntem izlenir.
+(2) Temsilcilik Kurulu ilk toplantısında bir koordinatör üye belirler. Temsilcilik Koordinatörü, Temsilcilik Kurulunu temsil eder, temsilciliğe ve Oda Yönetim Kuruluna karşı sorumludur.
+(3) Temsilcilik Kurulu temsilcilik sınırları içerisinde kalmak koşuluyla, Oda Yönetim Kurulunun vermiş olduğu görevleri Oda adına yapar.

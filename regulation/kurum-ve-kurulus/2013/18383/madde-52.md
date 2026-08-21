@@ -1,0 +1,2 @@
+Onur Kurulu kararlarının kesinleşmesi
+MADDE 52 – (1) Onur Kurulunca verilen cezalardan 51 inci maddenin birinci fıkrasının (a) ve (b) bentlerinde yazılı olanlar kesindir. 51 inci maddenin birinci fıkrasının (c), (ç) ve (d) bentlerinde yazılı cezalara karşı ise, kararın bildirilmesi tarihinden itibaren 15 gün içinde, Oda Yönetim Kurulu yoluyla Yüksek Onur Kuruluna hak arayıcı başvuru yapılabilir. 51 inci maddenin birinci fıkrasının (ç) ve (d) bentlerinde tanımlanan cezaların uygulanabilmesi için Yüksek Onur Kurulunun onayı gerekir.

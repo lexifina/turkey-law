@@ -1,0 +1,3 @@
+Üye ödentisi ve cezalar
+MADDE 101 – (1) Aylık üye ödentisi, her ay içinde, peşin olarak ödenir. 12 nci maddenin birinci fıkrasının (c) bendindeki bildirim sorumluluğunu belirtilen süre içerisinde yerine getirmeyen üyenin Oda kayıtlarında bulunan adresine yapılan bildirim yasal bildirim yerine geçer.
+(2) Geçmiş yıllara ait üye ödenti borçları, borcun ödeneceği cari yılın üye ödentisi miktarı üzerinden alınır. Üye ödentisi ile para cezalarını ödemeyenlere yazılı bildirim yapılır. Yazılı bildirim tarihinden başlayarak otuz gün içinde ödemeyenlere, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun ilgili hükümleri uygulanır.

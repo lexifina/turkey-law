@@ -1,0 +1,2 @@
+Şubelerin kurucu kurulları ve ilk Genel Kurul
+MADDE 65 – (1) Oda Genel Kurulunun onay kararı üzerine, Oda Yönetim Kurulu, Şube Yönetim Kurulu seçimine kadar hazırlık çalışmalarında bulunmak üzere 7 kişilik Kurucu Yönetim Kurulunu atama ile oluşturur. Kurulan Şubenin ilk Genel Kurulu, Oda Yönetim Kurulunca saptanan tarihte yapılır ve bu ilk Genel Kurulun ilan ve gerekli hazırlıkları Kurucu Kurul ile birlikte Oda Yönetim Kurulunca yerine getirilir.

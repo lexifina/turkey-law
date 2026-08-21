@@ -1,0 +1,3 @@
+Yönetim Kurulu Başkanı ve görevleri
+MADDE 40 – (1) Başkan, Odayı idari ve mali makamlar ile özel ve tüzel kişilere karşı temsil eder. Oda çalışmalarını kanunlara, Birlik ve Oda ana yönetmeliklerine, Genel Kurul ve Yönetim Kurulu kararlarına uygun olarak yürütür. Oda adına demeç verir ve açıklama yapar. Yönetim Kurulu toplantılarına başkanlık eder. Toplantılarda yazmanın bulunmadığı durumlarda gerekirse Kurul üyeleri arasından seçeceği birisine yazmanlık görevi verir.
+(2) Başkan bulunmadığı zaman başkan yardımcısı, yazman üye ya da gerektiğinde Yönetim Kurulunun seçeceği kişi ya da kurul Başkanı temsil eder.

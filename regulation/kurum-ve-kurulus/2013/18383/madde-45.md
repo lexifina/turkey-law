@@ -1,0 +1,2 @@
+Onur Kurulunun bilirkişiye başvurması ve bilirkişi ücreti
+MADDE 45 – (1) Oda Onur Kurulu en az üç kişiden oluşan bir bilirkişi heyeti seçerek konuyu bu heyete inceletebilir. Bilirkişi giderleri, Kurulca bilirkişi incelemesine gerek görülmüşse Oda bütçesinden, istek üzerine bilirkişi incelemesi yapılırsa istekte bulunanlarca peşin olarak Oda veznesine yatırılan bilirkişi ücretinden karşılanır. Bilirkişi giderlerinin kimden alınacağı Onur Kurulu kararında belirtilir.

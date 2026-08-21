@@ -1,0 +1,2 @@
+Meslek uygulamasından geçici olarak uzaklaştırılanlar
+MADDE 53 – (1) Üyeler ya da diğer meslek mensuplarından geçici olarak mesleği uygulamaktan uzaklaştırılanlar, bu süre içinde hiçbir surette mesleki etkinlikte bulunamazlar. Meslekten uzaklaştırılmalarına karşın mesleki etkinliklerini yürütenler Oda ve Birlik tarafından derhal bütün ilgili yerlere ve kuruluşlara duyurulur ve kararın uygulanması sağlanır.

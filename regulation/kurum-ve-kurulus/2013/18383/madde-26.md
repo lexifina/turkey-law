@@ -1,0 +1,2 @@
+Genel Kurula katılma koşulları
+MADDE 26 – (1) Oda Genel Kurulunda bulunmak, görüşmelere katılmak, oy kullanmak için, Oda Yönetim Kurulu tarafından hazırlanıp görevli hâkim tarafından kesinleştirilmiş (Değişik ibare:RG-14/12/2019-30978) delege listelerinin imzalanması yoluyla alınmış Genel Kurul giriş kartının yanı sıra Oda kimlik kartının veya nüfus cüzdanının gösterilmesi zorunludur. Yalnızca hâkim denetiminde yapılan seçimde oy verme sırasında, Oda üye kimlik kartı yerine, nüfus cüzdanı da kullanılabilir.

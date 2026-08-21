@@ -1,0 +1,2 @@
+Oda Danışma Kurulunun oluşumu
+MADDE 60 – (1) Oda Danışma Kurulu; Oda Üyesi Türk Mühendis ve Mimar Odaları Birliği Yönetim, Denetleme, Yüksek Onur Kurulu Üyeleri, Oda Yönetim, Oda Onur, Oda Denetleme Kurulu, şube yönetim kurulu asıl ve yedek üyeleri, il, ilçe, işyeri temsilcileri, önceki dönemlerde Oda organlarında görev yapmış üyeler, Oda komisyonları üyeleri ile Yönetim Kurulunun uygun görmesi dahilinde Oda çalışmalarına katkıda bulunan üyelerden oluşur. Oda Yönetim Kurulunca en az altı ayda bir toplantıya çağrılır.

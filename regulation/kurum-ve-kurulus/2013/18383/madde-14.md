@@ -1,0 +1,2 @@
+Üyelikten ayrılma
+MADDE 14 – (1) Herhangi bir nedenle mesleki etkinliğini sürdürmeyen, askerlik görevi hariç silahlı kuvvetler mensubu olan ya da kamu kurum ve kuruluşlarında asli ve sürekli görevde çalışırken üyelikten ayrılmak isteyen üyeler; bu durumu Oda Yönetim Kuruluna yazılı olarak bildirmek, gerektiğinde belgelemek, Oda kimlik belgesini geri vermek ve o tarihe kadar olan üyelik ödentilerinin tamamını ödemek koşuluyla (Değişik ibare :RG-2/10/2014-29137) Oda üyeliğinden ayrılabilirler.

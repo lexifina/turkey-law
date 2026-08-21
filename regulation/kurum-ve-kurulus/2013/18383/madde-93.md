@@ -1,0 +1,3 @@
+Bütçenin hazırlanması
+MADDE 93 – (1) Oda gelir ve giderleri, tüm oda örgütünü kapsayacak biçimde Oda Yönetim Kurulunca hazırlanan ve Oda Genel Kurulunca iki yıllık çalışma dönemi için kabul edilen Oda Bütçesi ile düzenlenir. Bütçe dönemi bir takvim yılı olup 1 Ocak - 31 Aralık tarihleri arasıdır. Gelir ve giderler, cinsleri bakımından bölüm ve maddeler biçiminde gösterilerek her bölüm ve madde için uygulanacak esaslar yazılı olarak belirtilir. Bütçeye, o çalışma dönemi için kullanılacak tüm Oda örgütüne ilişkin görevli kadro cetveli eklenir.
+(2) Oda Yönetim, Onur ve Denetleme Kurulları ile şube yönetim kurulları, il ve ilçe temsilcilikleri ve uzmanlık komisyonları üyelerine yapılacak her türlü ödemeler, bütçe ile saptanır.
