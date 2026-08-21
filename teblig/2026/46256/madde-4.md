@@ -1,0 +1,3 @@
+Soruşturma konusu eşya
+MADDE 4- (1) Soruşturma konusu eşya, 23/5/2024 tarihli ve 32554 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2024/15) kapsamındaki 8415.10.90.00.11 ile 8415.10.90.00.19 GTİP’leri altında yer alan “yalnız duvar tipi split klimalar”, 8415.90.00.90.09 GTİP’i altında yer alan “yalnız duvar tipi split klimaların dış üniteleri (değişken soğutucu debili split klima sistemleri dış ünitesi hariç)” ve 8415.90.00.90.12 GTİP’i altında yer alan “yalnız duvar tipi split klimaların iç üniteleri”dir.
+(2) Önleme tabi ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.

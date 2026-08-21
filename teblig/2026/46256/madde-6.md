@@ -1,0 +1,3 @@
+Başvuru ve inceleme
+MADDE 6- (1) “Bosch Home Comfort Malaysia Sdn. Bhd.” ünvanlı firma tarafından, Yönetmeliğin 34 üncü maddesi çerçevesinde, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2009/6) ile Malezya’da mukim ilişkili olduğu “Hitachi Air Conditioning Products (M) Sdn. Bhd.” ünvanlı firma için tanınan muafiyetin kendisi için değerlendirilmesine yönelik kısmi ara gözden geçirme soruşturması açılması yönünde başvurusuna yönelik inceleme başlatılmıştır.
+(2) Kısmi ara gözden geçirme soruşturması açılmasına ilişkin bulgular Kanun, Karar ve Yönetmelik hükümleri çerçevesinde değerlendirilmiştir.
