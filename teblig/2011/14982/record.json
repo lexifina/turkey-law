@@ -1,0 +1,58 @@
+{
+  "source_id": "9.5.14982",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ZORUNLU DEPREM SİGORTASI GENEL ŞARTLARI",
+  "number": "14982",
+  "path": "teblig/2011/14982",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14982&MevzuatTertip=5",
+  "source_sha256": "f77612dbf6f53b80c9914fe6c7dfb9dd18b7d9716f170455458a8c828da3c910",
+  "source_bytes": 42501,
+  "published": "2011-05-13",
+  "gazette": "27933",
+  "in_force": "2026-08-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/8/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-08-21",
+      "RG-21/8/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-08-21",
+      "21/8/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-12-31",
+      "RG-31/12/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-12-31",
+      "31/12/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-29",
+      "29/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-12-29",
+      "RG-29/12/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1796,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
