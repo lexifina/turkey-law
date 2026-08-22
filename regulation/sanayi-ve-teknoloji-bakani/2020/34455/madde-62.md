@@ -1,0 +1,3 @@
+Çeşitli tip onayı sahiplerine ilişkin yükümlülükler
+MADDE 62 – (1) Bir sistem, aksam ya da ayrı teknik ünitenin ilgili tip onayından ya da bir aracın özel bir aşamasından sorumlu olan bir imalatçı, karma tip onayı, kademeli tip onayı veya çok aşamalı tip onayının söz konusu olduğu durumda, ilgili sistem, aksam veya ayrı teknik ünite ya da özel aşama ile ilgili tamir ve bakım bilgilerini hem son imalatçıya hem de bağımsız operatöre bildirmekten sorumludur.
+(2) Çok aşamalı tip onayının söz konusu olduğu durumda, son imalatçı kendi imalat aşaması ya da aşamalarının önceki aşama ya da aşamalarla olan bağlantısına ilişkin araç OBD bilgileri ile araç tamir ve bakım bilgilerine erişimi sağlamaktan sorumludur.

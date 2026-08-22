@@ -1,0 +1,5 @@
+ON İKİNCİ BÖLÜM
+Uluslararası Mevzuat
+AB tip onayı için gereken BM/AEK Regülasyonları
+MADDE 57 – (1) Ek II’de listelenen ve AB’nin ve Türkiye’nin kabul ettiği BM/AEK Regülasyonları ya da bunlarda yapılan değişiklikler, araç, sistem, aksam ya da ayrı teknik ünitelere ilişkin AB tip onayı ile ilgili gerekliliklerin bir parçası olarak uygulanır.
+(2) Komple araç tip onayı düzenlenmesinin amaçları doğrultusunda bir BM/AEK Regülasyonu veya değişikliğinin ya da bu Yönetmelikte yapılan değişikliklerin zorunlu uygulanması ile ilgili mevzuatı 82 nci maddeye uygun olarak oluşturmak ve kabul etmek üzere Türkiye’de Bakanlık yetkilidir. Söz konusu mevzuat; BM/AEK Regülasyonu veya değişikliğinin ya da bu Yönetmelikte yapılan değişikliklerin hangi tarihten itibaren zorunlu olacağını, geçiş hükümlerini ve AB tip onayının amaçları doğrultusunda uygun olduğu ve uygulayabildiği takdirde araçların ilk tescili ve hizmete girmesi ile sistem, aksam ve ayrı teknik ünitelerin piyasada bulundurulması hususlarını içerir.

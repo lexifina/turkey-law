@@ -1,0 +1,3 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 89 – (1) Bu Yönetmelik, motorlu araçlar ve römorkları ile bunların aksam, sistem ve ayrı teknik ünitelerinin tip onayı ve piyasa gözetimi ve denetimi hakkındaki (AB)2018/858 sayılı Avrupa Parlamentosu ve Konsey Regülasyonu dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
+(2) Bu Yönetmelik ve Ek II’de listelenen mevzuat hükümlerinde herhangi bir anlaşmazlık veya yanılgı olması durumunda, bu maddede belirtilen ve bu Yönetmeliğin esas aldığı (AB)2018/858 sayılı Regülasyonun ve Ek II’de listelenen mevzuatın orijinal metni esas alınır.

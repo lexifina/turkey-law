@@ -1,0 +1,15 @@
+ALTINCI BÖLÜM
+Uygunluk Belgesi ve İşaretlemeler
+Basılı (kâğıt) ortamdaki uygunluk belgesi
+MADDE 36 – (1) İmalatçı, onaylanmış araç tipine uygun şekilde imal edilmiş tam, tamamlanmamış ya da tamamlanmış her bir araç için basılı ortamda bir uygunluk belgesi düzenler. Bu amaçla, imalatçı dördüncü fıkrada belirtilen mevzuatta yer alan şablonu kullanır. Basılı ortamdaki uygunluk belgesi aracın ana özellikleri yanında teknik performansını da somut terimlerle tarif eder. Basılı ortamdaki uygunluk belgesi aracın imalat tarihini içerir. Basılı ortamdaki uygunluk belgesi herhangi bir sahtekârlığı engelleyecek şekilde tasarımlanır. Basılı ortamdaki uygunluk belgesi araç ile birlikte alıcıya ücretsiz şekilde teslim edilir. Belgenin teslimi imalatçıya ek bilgilerin sunulmasına ya da açık bir talebe bağlanamaz.
+(2) 5/7/2026 tarihinden itibaren, imalatçının, uygunluk belgesini 37 nci maddenin birinci fıkrası uyarınca elektronik ortamda yapılandırılmış veri olarak kullanıma sunması halinde, imalatçı, her bir araç ile birlikte basılı ortamda uygunluk belgesinin teslimini düzenleyen bu maddenin birinci fıkrasında yer alan yükümlülükten muaf olur.
+(3) Bir aracın imal tarihinden sonraki on yıllık süre boyunca, imalatçı, araç sahibinin talebine bağlı olarak, belgenin suretinin düzenlenme masrafını aşmayacak bir ödeme karşılığında basılı ortamdaki uygunluk belgesinin suretini düzenler. “Suret” kelimesi her türlü suret belgenin ön yüzünde açıkça görülebilir şekilde olur.
+(4) Özellikle aşağıda yer alan hususları belirten basılı ortamdaki uygunluk belgesi ile ilgili uygulama mevzuatının/kararının AB’de yayımlanması halinde bu mevzuat/karar Bakanlık tarafından yayımlanabilir:
+a) Uygunluk belgesine ilişkin şablon.
+b) Uygunluk belgesi üzerinde sahtekârlık yapılmasını engellemeye yönelik güvenlik unsurları.
+c) Uygunluk belgesinin imzalanma şekliyle ilgili özellikler.
+(5) Basılı ortamdaki uygunluk belgesi Türkçe veya AB’nin resmi dillerinden birinde düzenlenir. Türkçe dışında bir dilde düzenlenmesi halinde, beraberinde onaylı veya imzalı şekilde Türkçe’ye çevirisi bulunur.
+(6) Basılı ortamdaki uygunluk belgelerini imzalamaya yetkili olan şahıs ya da şahıslar imalatçı tarafından istihdam edilir ve aracın tasarımı, yapımı ya da üretiminin uygunluğu ile ilişkili konularda imalatçının yasal sorumluluğunu taahhüt etmek konusunda tam yetkili olur.
+(7) Basılı ortamdaki uygunluk belgesi bütün maddeleriyle doldurulur ve bu Yönetmelikte ya da Ek II’de listelenen mevzuatın herhangi birinde belirtilenler dışında araçların kullanımı ile ilişkili kısıtlamaları içermez.
+(8) Tamamlanmamış temel bir aracın söz konusu olması halinde, imalatçı basılı ortamdaki uygunluk belgesinin sadece aracın tamamlanma durumu kapsamındaki ilgili alanlarını doldurur.
+(9) Tamamlanmamış ya da tamamlanmış aracın söz konusu olduğu durumda, imalatçı basılı ortamdaki uygunluk belgesinin sadece onayın mevcut aşamasında gerçekleştirilen ilâveler ya da değişiklikler ile ilgili alanlarını doldurur ve uygulanabildiği durumlarda, önceki aşamaların basılı ortamdaki tüm uygunluk belgelerini de ekler.

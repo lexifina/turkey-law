@@ -1,0 +1,8 @@
+İmalatçının kurum içi görevlendirilmiş teknik servisi
+MADDE 72 – (1) Bir imalatçının kurum içi teknik servisi, 68 inci maddenin birinci fıkrasının (a) bendinde belirtilen A kategorisi kapsamındaki faaliyetler için ve Ek VII’de listelenen mevzuat ile ilgili olarak teknik servis olarak görevlendirilebilir. Kurum içi teknik servis, imalatçı şirketinin ayrı ve farklı bir birimini oluşturur ve değerlendirdiği araç, sistem, aksam ya da ayrı teknik ünitelerin tasarımı, imalatı, tedariki ya da bakımında yer alamaz.
+(2) Birinci fıkrada belirtilen kurum içi teknik servis aşağıda yer alan gerekliliklere uyar:
+a) Teknik servis akreditasyon kuruluşu tarafından akredite edilmiş olur ve Ek III İlave 1 ve İlave 2’de ortaya koyulan gerekliliklere uyar.
+b) Personeli de dâhil olmak üzere kurum içi teknik servis organizasyonel olarak açıkça tanımlanmalı, birimini oluşturduğu imalatçı şirketinin bünyesinde servisin tarafsızlığını teminat altına alan ve söz konusu tarafsızlığı ilgili onay kuruluşuna ve akreditasyon kuruluşuna ispatlayan raporlama yöntemlerine sahip olur.
+c) Kurum içi teknik servis veya personeli, görevlendirildikleri faaliyet ile ilgili olarak değerlendirmelerinin bağımsızlığını veya etik tutumlarını tehlikeye atabilecek hiçbir faaliyette bulunamaz.
+ç) Kurum içi teknik servis sadece birimini oluşturduğu imalatçı şirkete hizmet verebilir.
+(3) İlgili kapsamda yer alan kısıtlama ve mevzuatı hesaba katarak teknik ve düzenleyici gelişmeleri güncellemek amacıyla Ek VII’de değişiklik yapan mevzuatı 82 nci maddeye uygun olarak oluşturmak ve kabul etmek üzere Türkiye’de Bakanlık yetkilidir.

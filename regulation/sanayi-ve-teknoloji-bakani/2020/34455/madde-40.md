@@ -1,0 +1,4 @@
+Mevzuatın uyarlanması
+MADDE 40 – (1) Onay kuruluşu, Komisyon tarafından verilen yetkiye tabi olmak kaydıyla, 39 uncu madde uyarınca bir AB tip onayının verilmesine izin verdiğinde, ilgili mevzuatın en son teknolojik gelişmelere uyarlanması amacıyla gerekli olan işlemleri gerçekleştirebilir. 39 uncu madde kapsamındaki muafiyetin BM/AEK Regülasyonları kapsamında olması durumunda, Komisyonun 1958 Cenevre Andlaşması kapsamında izlenen işleme uygun olarak ilgili BM/AEK Regülasyonunda önerdiği değişiklik BM/AEK’de yayımlandığında, Türkiye’nin taraf olduğu BM/AEK Regülasyonunun değişikliği Türkiye’de de uygulanır.
+(2) İlgili mevzuatın değiştirilmesi halinde, 39 uncu maddenin üçüncü fıkrasında belirtilen uygulama mevzuatı/kararı üzerindeki her türlü kısıtlama kaldırılır.
+(3) Bu maddenin birinci fıkrasında belirtilen mevzuatın uyarlanması için gerekli olan adımların atılmadığı durumda, onay kuruluşu muafiyetin geçerlilik süresini uzatabilir.

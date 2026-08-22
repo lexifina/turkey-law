@@ -1,0 +1,13 @@
+YEDİNCİ BÖLÜM
+Yeni Teknolojiler veya Yeni Kavramlar
+Yeni teknolojiler ya da yeni kavramlara ilişkin muafiyetler
+MADDE 39 – (1) Bir imalatçı, Ek II’de listelenen mevzuatın bir ya da daha fazlasına uygun olmayan yeni teknoloji ya da yeni kavramların kullanıldığı araç, sistem, aksam ya da ayrı teknik ünite tipine ilişkin AB tip onayı için başvuruda bulunabilir.
+(2) Onay kuruluşu birinci fıkrada belirtilen AB tip onayını aşağıda yer alan şartların tamamının sağlanması halinde verir:
+a) AB tip onayı başvurusunda, yeni teknolojiler ya da yeni kavramların araç, sistem, aksam veya ayrı teknik ünitelerin Ek II'de listelenen bir veya daha fazla mevzuata uygun olmamasının nedenleri belirtilir.
+b) AB tip onayı başvurusu, yeni teknoloji ya da yeni kavramın güvenlik ve çevresel çıkarımlarını ve en azından ilgili muafiyetin talep edildiği gereklilikler tarafından sağlanana eşdeğer bir güvenlik ve çevresel koruma sağlanması amacıyla alınan önlemleri açıklar.
+c) Test açıklamaları ve sonuçları (b) bendinde yer alan şartın sağlanmasını kanıtlayacak şekilde sunulur.
+(3) Yeni teknolojileri ya da yeni kavramları muaf tutan AB tip onaylarının verilmesi onay kuruluşunun onayına tabidir. Yeni teknolojileri ya da yeni kavramları muaf tutan uygulama mevzuatının/kararının AB’de yayımlanması halinde bu mevzuat/karar Bakanlık tarafından yayımlanabilir.
+(4) Üçüncü fıkrada belirtilen uygulama mevzuatının/kararının yayımına kadar, onay kuruluşu, talep edilen muafiyetin kapsadığı araç tipi ile ilgili, sadece ülke sınırları dâhilinde geçerli olan geçici AB tip onayı verebilir. Onay kuruluşu, ikinci fıkrada belirtilen bilgileri içeren bir dosya yardımıyla konuyu talep edilmesi halinde Komisyona bildirebilir. AB tip onayının geçici niteliği ve sınırlı bölgesel geçerliliği AB tip onayının ve uygunluk belgesinin başlığında açıkça belirtilir.
+(5) Onay kuruluşu, üye ülkelerin verdiği dördüncü fıkrada belirtilen geçici onayı geçerli kabul edebilir.
+(6) Uygun olduğunda, üçüncü fıkrada belirtilen uygulama mevzuatı/kararı, onayların kapsadığı azami araç sayısı ile ilgili olarak herhangi bir kısıtlamaya tabi olup olmadıklarını belirtir. Her durumda, bu madde kapsamındaki AB tip onayı asgari otuz altı ay geçerlidir.
+(7) Verilen geçici onayın geçersiz olmasına neden olacak üçüncü fıkrada belirtilen uygulama mevzuatının/kararının Bakanlık tarafından yayımlanması durumunda, onay kuruluşu, geçici AB tip onayının uygulama mevzuatının/kararının yayımından sonra altı ay içerisinde iptal edileceğini dördüncü fıkrada belirtilen geçici AB tip onayının sahibine bildirir. Ancak, geçersiz olması öncesinde geçici AB tip onayına uygun olarak imal edilmiş olan araçlar piyasaya arz edilebilir, tescil edilebilir ya da hizmete girebilir.

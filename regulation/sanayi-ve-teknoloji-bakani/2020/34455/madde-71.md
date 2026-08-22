@@ -1,0 +1,5 @@
+Teknik servislerin bağlı ortaklıkları ve alt yükleniciliği
+MADDE 71 – (1) Teknik servisler, onay kuruluşunun izni ile 68 inci maddenin birinci fıkrası uyarınca görevlendirilmiş oldukları faaliyetlerin bir kısmını bağlı ortaklığa ya da alt yüklenicilere yaptırabilir.
+(2) Teknik servisin görevlendirilmiş olduğu faaliyetlerin bir kısmını bağlı ortaklığa ya da alt yükleniciye yaptırması durumunda, belirtilen teknik servis alt yüklenicinin ya da bağlı ortaklığın 68 inci, 69 uncu ve 70 inci maddelerde belirtilen gerekliliklere uymasını sağlar ve bu konu hakkında onay kuruluşunu bilgilendirir.
+(3) Teknik servisler; kuruldukları yerden bağımsız olarak, kendi alt yüklenicileri ya da bağlı ortaklıkları tarafından yerine getirilen faaliyetler konusunda bütün sorumluluğu alır.
+(4) Teknik servisler; alt yüklenici ya da bağlı ortaklığa ilişkin onay kuruluşu tarafından gerçekleştirilen değerlendirmeye ya da akreditasyon kuruluşu tarafından gerçekleştirilen akreditasyona ilişkin ilgili belgeleri ve belirtilen alt yükleniciler ya da bağlı ortaklıklar tarafından gerçekleştirilen görevleri görevlendirmeyi yapan onay kuruluşunun kullanımına sunar.

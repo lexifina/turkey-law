@@ -1,0 +1,8 @@
+Ulusal münferit araç onayları
+MADDE 45 – (1) Onay kuruluşu, ilgili alternatif gereklilikler uygulanmış olması kaydıyla, özgün olsun ya da olmasın, ilgili bir aracı bu Yönetmeliğin gerekliliklerinin bir ya da daha fazlasına ya da Ek II’de listelenen mevzuatta ortaya koyulan gerekliliklerin bir ya da daha fazlasına uyma yükümlülüğünden muaf tutmaya karar verebilir.
+(2) Ulusal münferit araç onayına ilişkin başvuru aracın sahibi, imalatçısı, imalatçının temsilcisi ya da ithalatçısı tarafından yapılır.
+(3) Onay kuruluşu aracın birinci fıkrada belirtilen alternatif gerekliliklere uyup uymadığını belirlemek için tahribatlı testler yapmaz; ancak, bunun yerine bu amaçla başvuru sahibi tarafından temin edilen ilgili bilgileri kullanır.
+(4) Ulusal münferit araç onayının amaçları doğrultusunda, onay kuruluşu Ek II’de listelenen düzenleyici mevzuat uyarınca tip onayı almış olan sistemleri, aksamları ve ayrı teknik üniteleri kabul eder.
+(5) Onay kuruluşu, aracın başvuruda belirtilen bilgilere uygun olduğu ve ilgili alternatif gereklilikleri sağladığı durumda gecikmeye mahal vermeksizin ulusal münferit araç onay belgesini düzenler.
+(6) Ulusal münferit araç onay belgesine, en azından onayı vermiş olan ülkenin tanınmasına ve aracın uyduğu gerekliliklerin tanınmasına olanak sağlayacak uyumlaştırılmış numaralandırma sistemi uyarınca özgün bir numara verilir.
+(7) Ulusal münferit araç onay belgesinin şablonunu ve numaralandırma sistemini ortaya koyan uygulama mevzuatının/kararının AB’de yayımlanması halinde bu mevzuat/karar Bakanlık tarafından yayımlanabilir. Uygulama mevzuatı/kararı yayımlanana kadar ulusal münferit araç onay belgelerinin formatını onay kuruluşu belirleyebilir.

@@ -1,0 +1,4 @@
+İmalatçıların yükümlülüklerinin ithalatçılar ve dağıtıcılar için geçerli olduğu durumlar
+MADDE 20 – (1) Bir ithalatçı ya da dağıtıcı bu Yönetmeliğin amaçları doğrultusunda aşağıda belirtilen durumlarda imalatçı olarak kabul edilir ve 8 inci, 13 üncü ve 14 üncü maddeler kapsamında imalatçıların yükümlülüklerine tabi olur:
+a) Bir ithalatçı ya da dağıtıcının kendi adı ya da ticari markası altında bir araç, sistem, aksam ya da ayrı teknik üniteyi piyasaya sürdüğü ya da hizmete girmesinden sorumlu olduğu durumda ya da araç, aksam, ayrı teknik üniteyi ilgili mevzuat gerekliliklerine uygun olmayacak şekilde değiştirdiği durumda.
+b) Bir ithalatçı ya da dağıtıcının Türkiye ve AB’nin sınırları dışında bir imalatçıya verilen BM/AEK tip onayına dayanarak bir sistem, aksam ya da ayrı teknik üniteyi piyasaya arz edilmesinden ya da hizmete girmesinden sorumlu olduğu ve Türkiye ve AB sınırları dâhilinde imalatçının temsilcisini tanımlamanın mümkün olmadığı durumda.

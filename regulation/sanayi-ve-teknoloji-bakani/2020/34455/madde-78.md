@@ -1,0 +1,4 @@
+Teknik servislerin değerlendirilmesi, görevlendirilmesi ve izlenmesi hakkındaki bilgi alışverişi
+MADDE 78 – (1) Onay kuruluşları teknik servislerin değerlendirilmesi, görevlendirilmesi ve izlenmesi ile ilişkili bu Yönetmelikte belirtilen şartların uygulanması ile ilgili genel konular hakkındaki sorular için birbirlerine ve Komisyona danışabilir.
+(2) Uyumlaştırılmış değerlendirme kontrol listesinin AB’de yayımlanması halinde bu liste Bakanlık tarafından yayımlanabilir. Bu liste yayımlanana kadar onay kuruluşları, 73 üncü maddenin ikinci fıkrası uyarınca kullanılan değerlendirme kontrol listesine ilişkin modeli birbirlerine ve Komisyona bildirebilir.
+(3) 73 üncü maddenin sekizinci fıkrasında belirtilen değerlendirme raporlarının onay kuruluşlarının genel teamülündeki uygunsuzlukları ortaya koyduğu durumda ve diğer ülkeler ya da Komisyonun bilgi talep etmesi halinde bilgi sağlanabilir.

@@ -1,0 +1,3 @@
+Akreditasyon kuruluşu ile iş birliği
+MADDE 79 – (1) Teknik servisin görevlendirilmesinin akreditasyona göre gerçekleştirilmesi durumunda, akreditasyon kuruluşu ile onay kuruluşu tam olarak iş birliği yapar ve teknik servisin performansının değerlendirilmesi ve teknik servisin kontrolü altındaki konular ile alakalı olay raporları ve diğer bilgiler de dâhil olmak üzere ilgili bilgileri karşılıklı paylaşırlar.
+(2) Ülke sınırları içinde yerleşik teknik servisler için onay kuruluşu, akreditasyon ile ilgili her türlü bulgu hakkında teknik servisin akreditasyonundan sorumlu olan akreditasyon kuruluşuna bilgi verir. Akreditasyon kuruluşu onay kuruluşunu bulguları hakkında bilgilendirir.
