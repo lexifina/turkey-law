@@ -1,0 +1,4 @@
+Yurt içi ve yurt dışı yükseköğretim kurumlarına gönderilen öğrenciler
+MADDE 31 – (1) Üniversite ile yurt içindeki ve yurt dışındaki yükseköğretim kurumları arasında yapılan anlaşmalara göre, öğrenci değişimi çerçevesinde Üniversite tarafından dört yarıyıla kadar yurt içindeki ve yurt dışındaki yükseköğretim kurumlarına öğrenci gönderilebilir. Bu süre içinde öğrencinin Üniversitedeki kaydı devam eder ve bu süre öğretim süresinden sayılır.
+(2) Anlaşmalı olmayan yükseköğretim kurumlarına öğrenci gönderilmesi, ilgili yönetim kurulları tarafından karara bağlanır.
+(3) Öğrencinin yurt içi ve yurt dışındaki yükseköğretim kurumlarından almış olduğu derslerin eşdeğerlik işlemleri; ilgili kurul tarafından ve diğer yükseköğretim kurumundan aldığı notların bu Yönetmeliğin 22 nci maddesindeki not sistemine dönüştürülmesi suretiyle yapılır.

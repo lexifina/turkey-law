@@ -1,0 +1,3 @@
+Adres bildirme ve tebligat
+MADDE 34 – (Değişik:RG-31/1/2021-31381)(2)
+(1) Öğrenciler kesin kayıtları esnasında, yazılı duyuru ve tebligatları, gönderilecek kısa mesajları (SMS) alabilmeleri için veya sözlü iletişimin sağlanması için adres bilgilerini ve telefon numaralarını beyan etmek zorundadır. İletişim bilgilerinin değişikliğinde öğrenciler bir ay içerisinde bu değişikliği Öğrenci İşleri Daire Başkanlığına bildirmesi gerekir. Aksi halde öğrencinin kayıt sırasında bildirmiş olduğu iletişim adresine yapılan tüm duyurular veya yazılı tebligatlar geçerli sayılır ve aksi halde tüm yasal sorumluluk öğrenciye aittir.

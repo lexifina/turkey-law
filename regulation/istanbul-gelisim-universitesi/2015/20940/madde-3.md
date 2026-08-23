@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) Ara sınav: Eğitim-öğretim dönemi içerisinde öğrencinin başarısını değerlendirmek amacıyla yapılan sınavı,
+c) (Değişik:RG-18/4/2021-31458)(3) Bütünleme sınavı: Diş hekimliği lisans programında final sınavına girme hakkı elde ederek sınava giren, alan kodlu zorunlu ve alan kodlu seçmeli derslerden FF-DC notlarını alan, sosyal seçmeli dersler ile zorunlu YÖK derslerinden ise FF-DD-DC notlarını alan öğrenciler ile diğer önlisans ve lisans programlarında final sınavına girme hakkı elde ederek sınava giren ve FF-DD-DC notlarını alan öğrencilerin ve ayrıca final sınavına girme hakkı olmasına rağmen final sınavına girmeyen öğrencilerin her dönem sonunda katılacakları sınavı,
+ç) Danışman: Öğrencilerin eğitim, öğretim ve diğer sorunlarıyla ilgilenmek üzere ilgili bölüm başkanı veya anabilim dalı başkanı tarafından görevlendirilen öğretim elemanını,
+d) Dekan: Fakültelerin dekanlarını,
+e) Final sınavı: Her yarıyıl sonunda devam şartını yerine getiren öğrencilerin girebileceği sınavı,
+f) GANO: Genel ağırlıklı not ortalamasını,
+g) İlgili kurul: Fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu, meslek yüksekokullarında meslek yüksekokulu kurulunu,
+ğ) İlgili yönetim kurulu: Fakültelerde fakülte yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu, meslek yüksekokullarında meslek yüksekokulu yönetim kurulunu,
+h) Lisans: Ortaöğretimden sonra, en az sekiz yarıyıllık veya dört yıllık bir programı kapsayan yükseköğretimi,
+ı) Mazeret sınavı: Ara sınavlara ilgili yönetim kurulunca kabul edilen haklı ve geçerli bir nedenden dolayı katılamayan öğrenciler için açılan sınavı,
+i) Müdür: İstanbul Gelişim Üniversitesine bağlı yüksekokul müdürlerini,
+j) Mütevelli Heyeti: İstanbul Gelişim Üniversitesi Mütevelli Heyetini,
+k) Normal ders yükü: Öğrencinin devam edeceği yarıyıla ait öğretim programındaki derslerin kredi toplamını,
+l) Öğretim programı: Bölümlerin görüşleri alınarak fakülte/yüksekokul/meslek yüksekokulu kurulunca kararlaştırılan ve Senatoca kabul edilen öğretim programını,
+m) Ön lisans: Ortaöğretimden sonra en az dört yarıyıllık veya iki yıllık bir programı kapsayan yükseköğretimi,
+n) Ön koşullu ders: Alınabilmesi için önceki yarıyıl veya yıllarda yer alan derslerden bir veya birkaçının başarılması şartı aranılan dersi,
+o) Öğretim elemanı: İstanbul Gelişim Üniversitesinde görevli öğretim üyeleri, öğretim görevlileri, okutmanlar ile öğretim yardımcılarını,
+ö) Rektör: İstanbul Gelişim Üniversitesi Rektörünü,
+p) Seçmeli ders: Öğrencinin, öğretim programında belirtilen dersler arasından seçerek alabileceği dersleri,
+r) Senato: İstanbul Gelişim Üniversitesi Senatosunu,
+s) Üniversite: İstanbul Gelişim Üniversitesini,
+ş) Yarıyıl ders yükü: Öğrencinin yarıyılda kayıtlı olduğu tüm derslerin AKTS toplamını,
+t) Yarıyıl sonu sınavları: Dersin okutulduğu yarıyıl sonunda yapılan final ve bütünleme sınavlarını,
+u) Zorunlu dersler: Öğrencinin almak zorunda olduğu dersleri
+ifade eder.

@@ -1,0 +1,4 @@
+Yarıyıl ve genel not ortalamaları
+MADDE 19 – (Değişik:RG-31/1/2021-31381)(2)
+(1) Bir yarıyıl içerisinde alınan derslerin rakamsal başarı katsayılarının, o derslerin yerel kredi değerleri ile ayrı ayrı çarpımları toplamının, bu derslerin kredi değerleri toplamına bölünmesiyle elde edilen rakama yarıyıl not ortalaması (ANO) denir. Bölme işlemi, virgülden sonra iki basamak yürütülüp yuvarlatılarak bulunur.
+(2) Birinci fıkrada belirtilen yöntemin, alınan tüm derslere uygulanması ile hesaplanan rakama da GANO adı verilir. Ancak, genel not ortalamasının hesabına sadece öğretim programında bulunan dersler katılır. Fazladan alınan seçmeli veya diğer dersler ortalama hesabında dikkate alınmaz. Fakat not döküm belgesinde veya diploma ekinde gösterilebilir. Fazladan alınan dersler öğretim programında yer alan zorunlu dersler yerine sayılamaz.

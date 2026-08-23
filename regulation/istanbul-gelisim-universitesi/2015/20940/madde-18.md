@@ -1,0 +1,3 @@
+Derslerin kredi değeri ve AKTS kredisi
+MADDE 18 – (Değişik:RG-31/1/2021-31381)(2)
+(1) Bir dersin yerel kredi değeri, o dersin haftalık teorik ders saatlerinin tamamı ile uygulama, pratik ve klinik çalışmalar, laboratuvar, proje ve atölye çalışmalarının haftalık saatlerinin yarısının toplamından oluşur. AKTS kredisi ise bir dersin hedeflenen öğrenme çıktılarını kazandırmak amacıyla planlanan ve öğrenim aktivitelerini başarıyla tamamlamak için gerekli olan zamanı temel alarak belirlenen iş yüküne dayanan kredi sistemidir. Yerel kredilerde kesirli kredi kullanılmaz fakat AKTS kredilerinde kesirli sayılar bir üst veya bir alt tam sayıya yuvarlanır. Yerel krediye göre kredilendirilmiş derslerin AKTS karşılıkları ilgili birim yönetim kurullarınca belirlenir.

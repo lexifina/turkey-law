@@ -1,0 +1,5 @@
+Ders açma esasları
+MADDE 21 – (1) Her yarıyıl/yıl hangi derslerin açılacağı ve hangi öğretim üyelerince/görevlilerince okutulacağı, akademik anabilim/anasanat dalı kurulları ve bölüm kurullarından gelen öneriler göz önüne alınarak ilgili kurulda karara bağlanır.
+(2) Seçimlik derslerin açılıp açılmamasına ilgili kurulca karar verilir. Dersin, kaydolan öğrenci sayısının yetersizliği veya başka nedenlerle açılmaması durumunda; ders ekleme çıkarma dönemini izleyen hafta içinde kaydı iptal edilen öğrencilerin açık bulunan seçimlik derslere kaydı, öğrenci danışmanının önerisi ile ilgili yönetim kurulu tarafından yapılır.
+(3) Derslerin ve uygulamaların hafta içindeki yerleşimi ve sorumlu öğretim üyeleri/görevlileri, ders kayıt işlemleri başlangıcından en az bir hafta önce ilan edilir. Zorunlu hallerde haftalık programlarda değişiklikler yapılabilir.
+(4) Yaz okulunda hangi derslerin açılacağı ve hangi öğretim üyelerince/görevlilerince okutulacağı, ilgili mevzuat hükümlerine göre akademik anabilim/anasanat dalı kurulları ve bölüm kurullarından gelen öneriler göz önüne alınarak ilgili kurul tarafından kararlaştırılır.

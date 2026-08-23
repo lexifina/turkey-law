@@ -1,0 +1,3 @@
+Ön lisans diploması
+MADDE 32 – (1) Kayıtlı olduğu lisans öğretim programındaki ilk dört yarıyılın bütün dersleri ile Yükseköğretim Kurulu tarafından belirlenen ortak zorunlu dersleri başarmış olup, GANO’sunu en az 2.00’ye çıkarmış olan bir öğrenciye müracaatı halinde, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre ilgili yönetim kurulunun kararı ile ön lisans diploması verilir.
+(2) (Değişik:RG-31/1/2021-31381)(2) Bu öğrencilerden, Meslek Yüksekokullarına intibakları yapılanlar 25 inci madde hükümlerine göre ek sınav haklarından yararlanabilir.
