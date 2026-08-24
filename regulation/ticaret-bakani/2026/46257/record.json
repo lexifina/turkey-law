@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.46257",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ İLE MALDİVLER CUMHURİYETİ ARASINDA TERCİHLİ TİCARET ANLAŞMASI ÇERÇEVESİNDEKİ TİCARETTE EŞYANIN TERCİHLİ MENŞEİNİN TESPİTİ HAKKINDA YÖNETMELİK",
+  "number": "46257",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2026/46257",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46257&MevzuatTertip=5",
+  "source_sha256": "d34c6f51e32bd91bc8d07a6cd38ebcf55b5697c6e85c9d0d6bf689163b1a1893",
+  "source_bytes": 104581,
+  "published": "2026-08-24",
+  "gazette": "33350",
+  "in_force": "2026-08-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.08.2026); own commencement article: \"Bu Yönetmelik 1/8/2026 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/8/2026 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5734,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.46257-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
