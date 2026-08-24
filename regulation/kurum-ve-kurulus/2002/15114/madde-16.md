@@ -1,0 +1,5 @@
+Mesleki Denetim Uygulamasının Yapılma Aşaması
+Madde 16 – (Değişik:RG-29/7/2011-28009)
+Mesleki Denetim Uygulaması, Serbest Şehircilik Hizmetinin onaylanmak üzere ilgili idareye sunulmadan önce yaptırılır.
+Yaptıkları Serbest Şehircilik Hizmetini süresi içinde Mesleki Denetim Uygulamasına getirmeyen, Mesleki Denetim Uygulaması aşamasında kasıtlı olarak yanıltıcı bilgi ve belge veren ve bu Yönetmelik doğrultusunda düzenlenecek en az ücret tablosuna uymayan Serbest Şehircilik Büroları yazılı olarak uyarılırlar. 15 gün içinde eksiklik ve yanlışlık düzeltilmezse Serbest Şehircilik Bürosunun tescilleri üç ay süre ile iptal edilir. Tekrarı halinde her tekrar için iptal süresi ikişer ay uzatılarak uygulanır. Yönetim Kurulu bu durumda Yetkili Serbest Şehirciyi Onur Kuruluna sevk eder.
+(Ek fıkra:RG-25/2/2017-29990) Faturası kesilen fakat devam eden iş olarak bildirilen Serbest Şehircilik Hizmetlerinin; söz konusu hizmetin plan yapımına ilişkin fatura kesimi sonrasında proje kayıt numarasının alınması, Onaya sunulmadan önce ise Oda birimlerine teslim edilerek Mesleki Denetim Uygulamasının yaptırılması gerekmektedir.

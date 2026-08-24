@@ -1,0 +1,2 @@
+Hakem Ataması
+Madde 13 - Serbest Şehircilik Büroları arasında veya Serbest Şehircilik Bürosu ile işveren arasında yapılmakta olan Serbest Şehircilik Hizmetinden dolayı çıkacak olan anlaşmazlıklar, taraflar arasında çözümlenemediği durumda, taraflardan birinin isteği üzerine; anlaşmazlık, Odanın atayacağı hakem tarafından çözümlenir. Hakem ücreti, TMMOB Bilirkişilik, Ekspertizlik, Hakemlik ve Teknik Müşavirlik Yönetmeliği'ne göre talep sahibi tarafından Odaya peşin olarak ödenir. Bu durumda Serbest Şehircilik Bürosu, Odanın vereceği karara uymakla yükümlüdür.

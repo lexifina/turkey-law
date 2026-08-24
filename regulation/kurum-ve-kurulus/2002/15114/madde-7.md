@@ -1,0 +1,3 @@
+Kayıt ve Tescil İşlemleri İçin Süre
+Madde 7 – (Değişik fıkra:RG-25/2/2017-29990) Gerekli belgeler vergi kayıt tarihinden itibaren en geç bir ay içerisinde Odaya iletilir. Odada tutulan kütüklere sicil numarası ve il kodunu içeren bir numarayla kaydedilen Serbest Şehircilik Bürosuna bir ay içerisinde Büro Kayıt Belgesi gönderilir. Bu belge işyerinin görünür bir yerine asılır. Büro Tescil Belgesi yerine kullanılmaz. Sadece Odaya ilk kayıt sürecine dair bilgileri gösteren belgedir.
+(Ek fıkra:RG-19/1/2005-25705) Süresi içinde yapılmayan kayıt ve tescil başvurularında ilk ay Büro Kayıt Belgesi ücreti iki ile çarpılarak, sonraki her ay için yasal gecikme zammı ile birlikte alınır.

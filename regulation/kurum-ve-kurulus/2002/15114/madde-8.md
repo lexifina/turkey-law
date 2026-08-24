@@ -1,0 +1,10 @@
+Tescil Yenileme
+Madde 8 – (Değişik:RG-29/7/2011-28009) (3)
+Serbest Şehircilik Bürosu, Oda tarafından farklı bir tarih verilmediği sürece her yıl (Değişik ibare:RG-24/8/2026-33350) Aralık ayı sonuna kadar tescil yenileme ücretini ödeyerek, tescil yenileme için Odaya başvurmak zorundadır.
+(Değişik fıkra:RG-25/2/2017-29990) Tescil yenileme başvurusu, bir önceki yıla ait tamamlanan ve devam eden Serbest Şehircilik Hizmetleri ve diğer tüm iş ve işlemlere ait bilgilerin yer aldığı Oda Bilgi Sistemindeki fatura çizelgesinin ve Tescil Yenileme Formunun doldurulması ile yapılır. Formda yer alan bilgiler bu aşamada yıl içinde düzenlenmiş tüm fatura veya serbest meslek makbuzları ile karşılaştırılarak kontrol edilir.
+Tescil yenileme başvurularında vergi mükellefi olunduğuna dair belgenin yanı sıra şirketlerde; son ortaklık durumunu gösteren belge ve şirket ana sözleşmesinde herhangi bir değişiklik yapılmışsa, değişikliğin yayınlandığı Ticaret Sicil Gazetesi de Odaya iletilir.
+Serbest Şehircilik Bürosu tarafından yapılan işlere ilişkin yapılan kontrollerde ortaya çıkan veya çeşitli nedenlerle oluştuğu belirlenen Mesleki Denetim Uygulaması ücret farklarının bu aşamada ödenmesi zorunludur.
+Yıl içinde kayıt ve tescil koşullarını yitirdiği belirlenen Serbest Şehircilik Bürosunun tescil yenileme işlemi yapılmaz.
+(Değişik fıkra:RG-25/2/2017-29990) Tescil yenileme işlemi, gerekli işlemlerin yapılması ve evrakların teslim edilmesi ile tamamlanır. Süresi içinde tescil yenileme işlemini yaptırmayan serbest şehircilik bürosunun tescil yenileme ücreti; ilk ay için iki katı, sonraki aylar için kanuni gecikme zammı eklenerek tahsil edilir.
+(Ek fıkra:RG-1/7/2012-28340) Tescil yenileme için Odaya iletilen bilgi ve belgelerde eksikliklerin bulunduğunun saptanması durumunda, serbest şehircilik bürosu eksikliklerin tamamlanması için uyarılır. Eksikliklerin verilen süre içinde giderilmemesi durumunda, tescil kaydı dondurulur.
+(Ek fıkra:RG-25/10/2014-29156) Serbest şehircilik bürosu, tescil yenileme başvurularında, engelli bir meslek mensubunu en az dört ay boyunca istihdam ettiğini belgelemesi durumunda, büro tescil yenileme ücreti ödemez.

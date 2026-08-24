@@ -1,0 +1,2 @@
+Hukuki Dayanak
+Madde 3 - Bu Yönetmelik, 3458 sayılı "Mühendislik ve Mimarlık Hakkında Kanun, 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği (TMMOB) Kanunu, ile 22.4.1990 tarihli ve 20500 sayılı Resmî Gazete’de yayımlanan TMMOB Serbest Mühendislik ve Mimarlık Hizmetleri Asgari Ücret Yönetmeliği ve TMMOB Asgari Ücret ve Çizim Standartları Tespit Komisyonu ve Kontrol Bürolarının Kurulmasına İlişkin Yönetmelik uyarınca hazırlanmıştır.

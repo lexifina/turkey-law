@@ -1,0 +1,1 @@
+Geçici Madde 1 - Serbest Şehircilik Büroları Yönetmeliğin yayımı tarihinden itibaren 30 gün içerisinde yükümlendikleri Serbest Şehircilik Hizmeti kapsamındaki işleri, iş alma tarihlerini ve varsa sözleşme örneklerini Odaya bildirmek zorundadır.

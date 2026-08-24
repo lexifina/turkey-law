@@ -1,0 +1,2 @@
+Ücretli Çalışanların Çalışma Esasları
+Madde 22 - Serbest Şehircilik Bürosunda ücretli olarak çalışan plancılar haftada 40 saat ve 5 iş günü esasına göre ücret alırlar. Bunun dışındaki çalışmalarda yüzde elli zamlı fazla mesai ücreti ödenir. Resmi tatil günleri ve hafta sonlarında fazla mesai ücreti yüzde yüz zamlı olarak ödenir. Yarı Zamanlı çalışma ücreti de yukarıdaki esaslara göre belirlenir. Serbest Şehircilik Bürosunda ücretli çalışan plancıların sigortalı ve sözleşmeli çalıştırılması zorunludur.
