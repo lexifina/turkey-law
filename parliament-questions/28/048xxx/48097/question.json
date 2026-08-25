@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/48097",
+  "submitted": "2026-08-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Elif ESEN",
+  "province": "İstanbul",
+  "summary": "6 Şubat 2023 tarihli depremlerden etkilenen illerde hak sahipliği tespiti yapılırken tapu tescil tarihinin esas alınması nedeniyle yaşanan mağduriyete ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/a8d7cd3e-8fd4-4e67-9496-01a03d4679a5",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8aa3d5e1235bf7bf752a47b786c7e80f986e91bff041ad9f37372d1b74947f23",
+  "in_force": "2026-08-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
