@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.46260",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KONKORDATO GİDER AVANSI TARİFESİ",
+  "number": "46260",
+  "path": "teblig/2026/46260",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46260&MevzuatTertip=5",
+  "source_sha256": "7b21c6fe0fa7127c4de7a6cfa376d10b367c0c02e487b8902142d66eaa16c441",
+  "source_bytes": 21904,
+  "published": "2026-08-26",
+  "gazette": "33352",
+  "in_force": "2026-08-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.08.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 419,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

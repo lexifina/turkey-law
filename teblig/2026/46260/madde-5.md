@@ -1,0 +1,2 @@
+Konkordato gider avansının iadesi
+MADDE 5- (1) Gider avansının kullanılmayan kısmı hükmün kesinleşmesinden sonra talep edene iade edilir. Talep eden tarafından hesap numarası bildirilmiş ise iade elektronik ortamda hesaba aktarmak suretiyle yapılır. Hesap numarası bildirilmemiş ise masrafı avanstan karşılanmak suretiyle Posta ve Telgraf Teşkilatı Anonim Şirketi vasıtasıyla adreste ödemeli olarak gönderilir.
