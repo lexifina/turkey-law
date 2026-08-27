@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "14833",
+  "decision_date": "2026-08-27",
+  "title": "T.C. Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı’nın; DEP/6912-1/37996 sayılı Depolama Lisansı kapsamında Sarısu Mahallesi Döner Gazino Kavşağı 122. Sokak No:7 Konyaaltı/ANTALYA adresinde faaliyette bulunan TF-6 Antalya Tank Çiftliği Deposuna ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2026-08-29",
+  "resmi_gazete_number": "33355",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qyNpE3DFgC8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qyNpE3DFgC8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HhWwlPHNf9M="
+  ],
+  "source_sha256": "43b5ff4cf558c8b3e0084fb150f2f0f6903acb419f63a35813cb730fcf2803b1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-08-27",
+  "law_text_complete": true
+}
