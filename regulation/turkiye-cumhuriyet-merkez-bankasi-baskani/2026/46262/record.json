@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.46262",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYET MERKEZ BANKASI PERFORMANS DEĞERLENDİRME YÖNETMELİĞİ",
+  "number": "46262",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "issuer_slug": "turkiye-cumhuriyet-merkez-bankasi-baskani",
+  "path": "regulation/turkiye-cumhuriyet-merkez-bankasi-baskani/2026/46262",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46262&MevzuatTertip=5",
+  "source_sha256": "0a0bfc4c0def9da14c60592a4fb4ec972a556cf1d2e80e29c052fa246d2c5257",
+  "source_bytes": 31423,
+  "published": "2026-08-27",
+  "gazette": "33353",
+  "in_force": "2026-08-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.08.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1200,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.46262%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
