@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/903",
+  "case_number": "2025/2343",
+  "decision_date": "2026-08-27",
+  "title": "2026/903 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/dmdov4.pdf",
+  "source_sha256": "e9196e11f39e52b322f4376a5039f2566dcac6cdbd8cb04d42d7ce4580f9bed1",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
