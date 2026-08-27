@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.46261",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE EMİSYON TİCARET SİSTEMİ YÖNETMELİĞİ",
+  "number": "46261",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2026/46261",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46261&MevzuatTertip=5",
+  "source_sha256": "f7da6f320410f3a862d5d179e12e509253bb359661f711d5815373459476585a",
+  "source_bytes": 107931,
+  "published": "2026-08-27",
+  "gazette": "33353",
+  "in_force": "2026-08-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.08.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6170,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.46261%20EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
