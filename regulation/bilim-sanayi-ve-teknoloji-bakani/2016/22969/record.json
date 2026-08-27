@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.22969",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARAÇLARIN İMAL, TADİL VE MONTAJI HAKKINDA YÖNETMELİK",
+  "number": "22969",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2016/22969",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22969&MevzuatTertip=5",
+  "source_sha256": "2fe27c3b56bb3b449cd4aeeebe314008c4f09aa920c64ed07591ebeed7e9e9f5",
+  "source_bytes": 114808,
+  "published": "2016-10-26",
+  "gazette": "29869",
+  "in_force": "2026-08-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"27/8/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-08-27",
+      "27/8/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-12",
+      "12/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-07-02",
+      "2/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-02-18",
+      "RG-18/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-02-18",
+      "18/2/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-31",
+      "RG-31/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-31",
+      "31/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-10-12",
+      "RG-12/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-12",
+      "12/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-29",
+      "29/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-05-12",
+      "12/5/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-25",
+      "RG-25/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6566,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.22969-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
