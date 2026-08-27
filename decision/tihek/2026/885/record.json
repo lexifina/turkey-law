@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/885",
+  "case_number": "2025/2131",
+  "decision_date": "2026-08-27",
+  "title": "2026/885 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/s25fj6.pdf",
+  "source_sha256": "b9e6c4b77917a73e84719b269a47d3c7370a26a98b42764b995abb3615e2c345",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
