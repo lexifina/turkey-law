@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "14835",
+  "decision_date": "2026-08-27",
+  "title": "Karadeniz LPG Depolama ve Deniz Terminali Tic. A.Ş.’ye ait LPG-DPO/820-1/05285 sayılı LPG depolama lisansı ile “Körliman Mah. Eski Doğankent Yolu Sok. No:4 Tirebolu/GİRESUN” adresinde faaliyette bulunan Tirebolu Terminali için LPG depolama tarifesi",
+  "resmi_gazete_date": "2026-08-29",
+  "resmi_gazete_number": "33355",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jarfEeJ61ZM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jarfEeJ61ZM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fupf54MFbq0="
+  ],
+  "source_sha256": "8db50e0b0c5b9a0daabf2b901430fa4981b118ab37f92bafba2dd272f3d6a75c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-08-27",
+  "law_text_complete": true
+}
