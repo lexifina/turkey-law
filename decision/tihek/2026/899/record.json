@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/899",
+  "case_number": "2025/2445",
+  "decision_date": "2026-08-27",
+  "title": "2026/899 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/ixnxme.pdf",
+  "source_sha256": "c7c3ea917ce7d331f2791c2e5f3d7e14c58a8a4fe2bce19c3125a9424169bf8c",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
