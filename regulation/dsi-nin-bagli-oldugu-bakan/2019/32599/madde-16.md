@@ -1,0 +1,8 @@
+ÇED ve mansap su hakları raporu
+MADDE 16 – (1) İnşa edilen/edilecek bütün tesisler ile malzeme ocaklarına ilişkin olarak Çevresel Etki Değerlendirmesi Yönetmeliği kapsamında gerekli olan kararın alınması şirketin sorumluluğunda olup su kullanım hakkı anlaşması imzalanması öncesi bu kararların ibraz edilmesi zorunludur.
+(2) Şirket, su kullanım hakkı anlaşması imzalanmadan önce DSİ’ce belirlenen kriterlere göre ekonomik değerlendirmeleri de içeren Mansap Su Hakları Raporunu hazırlayarak DSİ’nin onayına sunar. Gerekmesi halinde, ekonomik değerlendirmeleri de içeren Kuyruksuyu Sonrası Su Hakları, bu raporda yer alır. Mansap Su Hakları Raporu, şirket tarafından her on yılda bir DSİ’ce belirlenen kriterlere göre yeniden revize edilerek güncellenir ve DSİ’nin onayına sunulur.
+(3) İnşa edilen/edilecek bütün tesisler ile malzeme ocaklarına ilişkin olarak Çevresel Etki Değerlendirmesi Yönetmeliği kapsamında gerekli olan kararın alınmasına esas teşkil eden ÇED Raporu veya Proje Tanıtım Dosyasında verilen taahhütlerin gerçekleştirilmemesi ve olumsuz sonuçlardan şirket sorumludur.
+(4) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce su kullanım hakkı anlaşması imzalamış ve/veya işletmeye açılmış bulunan HES tesisleri için;
+a) Mansap Su Hakları Raporu olanlarda; Kuyruksuyu Sonrası Su Hakları tespit edilmesi halinde, ekonomik değerlendirmeleri de içeren Kuyruksuyu Sonrası Su Hakları dahil edilerek güncellenen Mansap Su Hakları Raporu,
+b) Mansap Su Hakları Raporu olmayanlarda; bu maddenin 2 nci fıkrası kapsamında hazırlanmış Mansap Su Hakları Raporu,
+bu Yönetmeliğin Resmî Gazete’de yayımlanma tarihinden itibaren oniki ay içinde şirket tarafından hazırlanır ve DSİ’nin onayına sunulur. Bu sürenin yeterli olmaması halinde DSİ tarafından şirkete ek süre verilebilir.

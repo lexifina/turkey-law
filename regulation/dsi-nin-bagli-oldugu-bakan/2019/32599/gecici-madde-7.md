@@ -1,0 +1,3 @@
+Yap işlet devret modeli kapsamından geçen projeler
+GEÇİCİ MADDE 7- (Ek:RG-27/8/2026-33353)
+(1) Yap işlet devret modeli kapsamında mevcut sözleşmesi olan ve bu sözleşme kapsamındaki bütün işlemleri tamamlanmamış tüzel kişilerden; mevcut sözleşmeleri kapsamındaki bütün haklarından feragat ettiğini ya da Elektrik Piyasası Lisans Yönetmeliği uyarınca inceleme ve değerlendirme sonucu lisans alması Enerji Piyasası Düzenleme Kurulu kararıyla uygun bulunduğu takdirde feragat edeceğini yazılı olarak Bakanlığa ve EPDK’ya bildirenlerin EK-2 ile ilgili muafiyetleri, su kullanım hakkı anlaşmalarını bu Yönetmelik kapsamında yenilemeleri halinde ortadan kalkar.

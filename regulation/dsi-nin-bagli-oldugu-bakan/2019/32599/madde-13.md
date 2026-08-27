@@ -1,0 +1,6 @@
+Su kullanım hakkı anlaşmasına ilişkin hükümler
+MADDE 13 – (1) Ek-1’de yer alan tip su kullanım hakkı anlaşmasında belirtilen hükümler kapsamında imzalanan anlaşmanın bir örneği yazı ile EPDK’ya gönderilir.
+(2) Ek-1’de yer alan su kullanım hakkı anlaşmasına, projenin özelliğine bağlı olarak özel hükümler eklenebilir.
+(3) Başvurulan projenin ortak tesis kullanımının bulunmaması ve/veya kaynak katkı payı ihtiva etmemesi durumlarında, Ek-1’de yer alan Su Kullanım Hakkı Anlaşması metninden ilgili hükümler DSİ tarafından çıkarılır.
+(4) Su kullanım hakkı anlaşması, EPDK tarafından verilen önlisansın/lisansın yürürlükte olduğu sürece geçerli olur. Lisans alınamaması veya alınan önlisansın/lisansın sona ermesi veya iptali halinde Su Kullanım Hakkı Anlaşması hükümsüz kalır. Çevresel Etki Değerlendirmesi Yönetmeliği kapsamında ÇED gerekli değildir veya ÇED olumlu kararının herhangi bir şekilde iptal edilmesi durumunda Su Kullanım Hakkı Anlaşması hükümsüz kalır. Lisansın sona ermesi, iptali veya Su Kullanım Hakkı Anlaşmasının feshi hallerinde inşa/işletme aşamasındaki tesislerin durumuna ilişkin hususlar DSİ ve EPDK tarafından ayrıca belirlenir.
+(5) Su kullanım hakkı anlaşmasının imzalandığı tarih olarak noter tescil tarihi esas alınır.
