@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "14832",
+  "decision_date": "2026-08-27",
+  "title": "T.C. Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı’nın; PİL/8239-5/40810 sayılı İletim Lisansı kapsamında Antalya ilinde faaliyette bulunan DEP/6912-1/37996 Lisans Numaralı Depolama Tesisi ile DEP/13388/48286 Lisans Numaralı Depolama Tesisi arasındaki boru hattına ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2026-08-29",
+  "resmi_gazete_number": "33355",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mrjra2jr5U8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mrjra2jr5U8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8A1cEOckD6U="
+  ],
+  "source_sha256": "8feba2dfaa41e15178fc57301e29998285cf424fe25ada7a63f621bf9b495d4b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-08-27",
+  "law_text_complete": true
+}
