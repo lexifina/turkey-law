@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "14834",
+  "decision_date": "2026-08-27",
+  "title": "Pet Gaz Anonim Şirketi’ne ait LPG-DPO/4461-2/13995 sayılı LPG depolama lisansı ile “Yeşilköy Mah. Çaykara Cad. No:66/1 Dörtyol/HATAY” adresinde faaliyette bulunan Dörtyol Terminali için LPG depolama tarifesi",
+  "resmi_gazete_date": "2026-08-29",
+  "resmi_gazete_number": "33355",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Z2TM+Hu8hvY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Z2TM+Hu8hvY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mue1lJHIwTE="
+  ],
+  "source_sha256": "220a05c1feee671ffd4649bf2d75440de27637446ded3c4ab9ddb3f641570d90",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-08-27",
+  "law_text_complete": true
+}
