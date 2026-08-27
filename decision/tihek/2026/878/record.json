@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/878",
+  "case_number": "2026/1728",
+  "decision_date": "2026-08-27",
+  "title": "2026/878 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/bwwrub.pdf",
+  "source_sha256": "ac0bb8698d933d7b41569abe0946371deeb2ee9f99a8312adca92f693f6e6366",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
