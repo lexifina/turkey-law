@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/887",
+  "case_number": "2025/3427",
+  "decision_date": "2026-08-27",
+  "title": "2026/887 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/457i6d.pdf",
+  "source_sha256": "6cc04c6351c66c57132b3e740da9856fc3109019199f4e97a6ab27a2e835e766",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
