@@ -1,0 +1,6 @@
+İsteklilerde aranacak şartlar
+MADDE 10- (1) Bu Usul ve Esaslar kapsamında yapılacak alımlarda, 4734 sayılı Kanunun 10 uncu maddesinde sayılan bilgi ve belgeleri isteyip istememek veya ilave bilgi ve belgeler talep etmek İdarenin takdirindedir. İşin niteliği, önceliği, kapsamı ve süresi dikkate alınarak belgelerden hangilerinin isteneceği İdare tarafından belirlenir.
+(2) Alım işine teklif verebilmek için alıma ilişkin dokümanda belirtilen gerekli nitelik ve yeterliğe sahip bulunmak, bu dokümanlarda belirtilen bilgi ve belgeler ile talep edilmiş ise geçici teminat vermek ve tebligat için adres beyanında bulunmak zorunludur.
+(3) Yeterlik kriterleri; ekonomik ve mali ile mesleki ve teknik yeterlik kriterleri şeklinde birlikte ya da ayrı ayrı olmak üzere İdare tarafından işin niteliği göz önünde bulundurularak belirlenebilir. İdarece istenen yeterlik kriterlerinin tevsik edilmesi ve değerlendirilmesinde 4734 sayılı Kanun ve ikincil mevzuat hükümleri uygulanır.
+(4) Alım işine, iş ortaklığı ya da konsorsiyum şeklinde katılım olması durumunda istenilen yeterlik kriterlerinin hangi oranda pilot ya da özel ortak tarafından karşılanması gerektiği İdare tarafından belirlenir.
+(5) İstenilen yeterlik kriterlerini taşımadığı hâlde teklif veren veya bu hususta gerçek dışı beyanda bulunan istekliler, değerlendirme dışı bırakılır.

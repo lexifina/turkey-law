@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, Türk Standardları Enstitüsü tarafından tertiplenecek uluslararası organizasyonlar ve toplantılardan, Cumhurbaşkanı tarafından belirlenen organizasyonlar ve toplantıların yürütülmesine yönelik olarak Türk Standardları Enstitüsünce yurt içinde veya yurt dışında yerli veya yabancı gerçek veya tüzel kişilerden yapılacak mal ve hizmet alımları ile bunlara yönelik iş ve işlemleri kapsar.

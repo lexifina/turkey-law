@@ -1,0 +1,3 @@
+Yüklenicilerin sorumlulukları
+MADDE 22- (1) Yükleniciler, İdarenin istediği nitelik ve niceliklere uygun olmayan mal tedariki ve hizmet sunumu durumunda ortaya çıkabilecek her türlü zarar ve ziyandan doğrudan sorumludur. Bu zarar ve ziyan genel hükümlere göre yükleniciye ikmal ve tazmin ettirilir. Ayrıca teminat alınmışsa bu teminatlar gelir kaydedilir.
+(2) Alım konusu işin özelliği nedeniyle ihtiyaç duyulması, alım dokümanında gerekli düzenlemelerin yapılması kaydıyla alt yüklenici çalıştırılmasına izin verilmesi hâlinde alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu, asıl yüklenicinin sorumluluğunu ortadan kaldırmaz.

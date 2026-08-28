@@ -1,0 +1,5 @@
+Yaklaşık maliyet ve piyasa fiyat araştırması
+MADDE 8- (1) Bu Usul ve Esaslar kapsamında alım yapılmadan önce İdarece her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak ve dayanaklarıyla birlikte bir hesap cetvelinde gösterilmek üzere yaklaşık maliyet hazırlanır.
+(2) Yaklaşık maliyete, alıma ilişkin dokümanda yer verilmez ve yaklaşık maliyet isteklilere veya alım süreci ile resmi ilişkisi olmayan diğer kişilere açıklanmaz.
+(3) Yaklaşık maliyet hesabı için harcama yetkilisince görevlendirilen kişi veya kişiler tarafından, İdarenin daha önce yaptığı işler için aldığı fiyat teklifleri, istekli olabilecek firmaların fiyat teklifleri, internet kaynakları veya elektronik posta yoluyla alınan fiyat bilgileri ve benzeri bilgiler kullanılarak araştırma yapılabilir. Araştırma sonucu hazırlanan tutanak, araştırmayı yapan kişi veya kişilerce imzalanır ve alım onay belgesine eklenir.
+(4) İdare, yaklaşık maliyetin belirlenmesi süresince görüşme yapılan gerçek veya tüzel kişiyi teklif vermeye davet etmek zorunda değildir.
