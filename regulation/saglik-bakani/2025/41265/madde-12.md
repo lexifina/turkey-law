@@ -1,0 +1,5 @@
+Özel hastanelerin taşınma ve birleşme işlemleri
+MADDE 12- (1) Özel hastaneler planlama ilkeleri doğrultusunda Bakanlık izniyle yalnızca bulunduğu il içinde taşınabilir ya da birleşebilir.
+(2) Özel hastanelerin birleşmeleri halinde, ruhsatlarında kayıtlı yatak sayıları, tabip ve uzman tabip kadro sayıları toplanarak birleştirilir. Birleşen özel hastaneler ayrılamaz.
+(3) Birleşme ve/veya taşınma amacıyla başvuran özel hastaneler, taleplerinin uygun bulunduğu tarihten itibaren en geç iki yıl içinde ön izin belgesi ve ön izin belgesinin alındığı tarihten itibaren ise üç yıl içerisinde ruhsat belgesi alarak taşınma/birleşme işlemlerini sonuçlandırmak zorundadır. Bu madde kapsamında alınan ön izin belgesinin alındığı tarihten itibaren iki yıl içerisinde ön izne esas adreste değişiklik yapılmak istenmesi halinde ek süre verilmeksizin planlama hükümlerine uygun olmak kaydıyla ön izin adres değişikliğine Bakanlıkça izin verilebilir.
+(4) Birleşme veya taşınma talebinde bulunan özel hastaneler bu işlemler tamamlanmadan yeni bir birleşme veya taşınma talebinde bulunamazlar.

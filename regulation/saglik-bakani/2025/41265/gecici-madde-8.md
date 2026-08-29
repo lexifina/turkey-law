@@ -1,0 +1,2 @@
+Ruhsatlandırma işlemleri için süre
+GEÇİCİ MADDE 8- (1) 1/1/2019 tarihinden önce 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan mülga Özel Hastaneler Yönetmeliğinin geçici 1 inci maddesi kapsamında Bakanlıktan ön izin almış özel hastanelerden beş yıllık ruhsatlandırma süresi sonunda ruhsat işlemlerini tamamlayamayanlara, 31/12/2028 tarihine kadar ruhsatlandırma işlemlerini tamamlamak amacıyla ek süre verilir.

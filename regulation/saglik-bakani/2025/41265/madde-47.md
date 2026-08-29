@@ -1,0 +1,2 @@
+Faaliyet durdurma veya ruhsat iptalinde yapılacak işlemler
+MADDE 47- (1) Özel hastanenin tamamında veya bir kısmında faaliyetin geçici olarak durdurulması veya ruhsatın iptal edilmesi söz konusu olduğunda Müdürlük tarafından öncelikle mevcut yatan hastalarla ilgili tespit yapılır. Nakli mümkün olmayan hastaların tedavilerinin tamamlanmasından ve nakli mümkün olanların da diğer hastanelere nakillerinden sonra özel hastanenin faaliyeti durdurulur. Bu durumdaki hastanelere yeni hasta kabulü yapılamaz.

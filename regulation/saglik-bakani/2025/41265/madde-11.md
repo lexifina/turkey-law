@@ -1,0 +1,6 @@
+Faaliyet izin belgesi
+MADDE 11- (1) Faaliyet izin belgesi düzenlenmiş olan özel hastane, hasta kabul ve tedavisine başlar. Bakanlıkça ruhsatlandırıldığı tarihten itibaren altı ay içinde faaliyet izin belgesi alarak hasta kabul ve tedavisine başlamayan özel hastaneye verilen ruhsat Bakanlıkça iptal edilir.
+(2) Faaliyet izin belgesi başvurusu, ruhsatlandırılmış özel hastaneler tarafından, Ek-10’da yer alan belgeler ile birlikte EKİP sistemi üzerinden yapılır.
+(3) Başvuru evrakında eksiklik veya uygunsuzluk olmaması halinde, Müdürlük tarafından, en geç on beş iş günü içerisinde Ek-7’de yer alan faaliyet izin belgesi, tüm sağlık meslek mensupları adına Ek-12’de yer alan çalışma belgesi ve mesul müdür adına Ek-11’de yer alan mesul müdürlük ve mesul müdür yardımcısı belgeleri düzenlenir.
+(4) Özel hastane için düzenlenen tüm belgelerin ve başvuru dosyasının bir örneği Müdürlükte saklanır. Düzenlenen belgelerin bir örneği, mesul müdüre imza karşılığında teslim edilir. Elektronik ortamda oluşturulan belgeler, Bakanlıkça belirlenen arşiv ve saklama kriterlerine uygun olarak dijital ortamda muhafaza edilir.
+(5) Özel hastaneler, dört klinisyen uzman tabipten az olmamak kaydıyla Bakanlıkça belirlenen toplam uzman tabip kadrolarının en az dörtte biri sayısında klinisyen uzman tabip ile faaliyete başlayabilir.

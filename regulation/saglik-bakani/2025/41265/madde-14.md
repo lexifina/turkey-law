@@ -1,0 +1,7 @@
+Ruhsat bilgilerinde değişiklik
+MADDE 14- (1) Özel hastanenin ruhsat ve faaliyet izin belgesinde yer alan hususlarda değişiklik olması halinde bunun Müdürlüğe bildirilmesi zorunludur. Bu durumda, yapılan değişikliğin uygunluğu Bakanlıkça değerlendirilerek ruhsat ve faaliyet izin belgesi yeniden düzenlenir.
+(2) Özel hastanelerin mevcut binasında tadilat gerektirmesi halinde, tadilata başlanmadan önce tadilat projesinin Bakanlıkça onaylanması gerekir.
+(3) Bakanlıkça ruhsatlandırılmış özel hastane binalarında imar mevzuatına uygun olarak taşıyıcı unsuru etkilemeyen tadilat ve tamirat gibi işlerin yapılmak istenmesi halinde, binanın kullanımına izin verilen toplam brüt alanını değiştirmemek ve gerektiğinde yangın ile deprem yönünden uygunluğunun da sağlanması kaydıyla ilgili belediyeden proje onayı aranmaksızın Bakanlığın izni alınarak ruhsata esas son proje üzerinde değişiklik yapılmasına izin verilir.
+(4) Özel hastanenin ilgili belediye tarafından adres bilgisinin değiştirilmesi durumunda belediyeden alınan belge ve talep dilekçesi ile Müdürlüğe başvuru yapılır. Bu durumda, belge bedeli alınmaksızın ruhsat ve faaliyet izin belgesi yeniden düzenlenir.
+(5) Ruhsatlandırılmış özel hastanelerde mevcut kadrolu ve kadro dışı geçici çalışan her bir tabip için poliklinik muayene odası oluşturulabilir. Bu amaçla eksik olan poliklinik odası eklenebilir.
+(6) Mevcut uzman tabipler tarafından kullanılmak ve planlamaya uygun olmak kaydıyla tıbbi hizmet birimleri ve alanlar ile cihazlar eklenebilir.

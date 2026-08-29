@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi
+Planlama
+MADDE 8- (1) Bakanlıkça, sağlık hizmetlerinin, demografik yapı ve epidemiyolojik özellikler de göz önünde bulundurulmak suretiyle kaliteli, hakkaniyete uygun ve verimli şekilde sunulması; sağlık kurum ve kuruluşlarının hizmet kapasiteleri, sağlık insan gücü ile çağdaş tıbbi bilgi ve teknolojinin ülke düzeyinde dengeli dağılımının sağlanması; koruyucu sağlık ve acil sağlık hizmetleri gibi iş birliği halinde hizmet sunumunun gerekli olduğu alanlarda ve sağlık turizminde uygun kapasitenin oluşturulması ve kaynak israfı ve atıl kapasiteye yol açılmaması adına, faaliyetine ihtiyaç duyulan sağlık kurum ve kuruluşları ile bunlara ait sağlık insan gücü, tıbbi hizmet birimleri ve nitelikleri ile teknoloji yoğunluklu tıbbi cihaz dağılımı alanlarında kamu ve özel sektörü kapsayacak şekilde planlama yapılır.
+(2) Bakanlıkça birinci fıkrada belirtilen planlama kriterleri çerçevesinde özel hastanelere verilebilecek yatak kapasitesi, özellikli merkez, ünite, tıbbi cihaz ile uzmanlık dalları ve kadro sayıları belirlenir. Bu planlama her yıl ilan edilir.
+(3) Bakanlıkça ilan edilen planlamalar neticesinde, yeni hastane açılışı ile mevcut hastanelerde özellikli merkez, ünite, tıbbi cihaz, uzman tabip kadro veya yatak kapasitesi değişikliği talebi uygun görülenler için planlama uygunluk belgesi düzenlenir.
+(4) Planlama uygunluk belgesi düzenlenen hastane, özellikli merkez, ünite, tıbbi cihaz ve yatak kapasitesi değişikliği ile ilgili en geç iki yıl içinde ön izin alınması zorunludur. Bu süre içinde ön izin alamayanların planlama uygunluk belgeleri iptal edilir.
+(5) Planlama uygunluk belgesi devredilemez.

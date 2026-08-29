@@ -1,0 +1,2 @@
+Yer seçimi ve bina durumuna uyum
+GEÇİCİ MADDE 2- (1) Yer seçimi ve bina şartları uygunsuzluklarını gidermeleri için Bakanlıkça daha önce süre verilen ve bu durumları halen devam eden özel hastanelere 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan mülga Özel Hastaneler Yönetmeliğinin geçici 2 nci maddesinde tanınan hak ve yükümlülükler kapsamında 25/3/2026 tarihine kadar süre verilir.

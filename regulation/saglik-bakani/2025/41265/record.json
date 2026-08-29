@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.41265",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL HASTANELER YÖNETMELİĞİ",
+  "number": "41265",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2025/41265",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=41265&MevzuatTertip=5",
+  "source_sha256": "c9e14ea8d030391ed9d51cdeaeaebd6d49fc483c1ba32a9d4511ab17c6cc1836",
+  "source_bytes": 171511,
+  "published": "2025-01-30",
+  "gazette": "32798",
+  "in_force": "2026-08-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/8/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-08-29",
+      "RG-29/8/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9768,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.41265-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

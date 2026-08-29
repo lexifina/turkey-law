@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 24/5/1933 tarihli ve 2219 sayılı Hususi Hastaneler Kanunu hükümlerine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesi, 9 uncu maddesinin (c) bendi, ek 11 inci, ek 15 inci ve ek 19 uncu maddeleri ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (a) ve (c) bentleri ile 508 inci maddesine dayanılarak hazırlanmıştır.

@@ -1,0 +1,2 @@
+Muayenehanesini kapatan tabiplerin durumu
+GEÇİCİ MADDE 9- (1) 1/1/2025 tarihi itibarıyla faal muayenehanesi (Değişik ibare:RG-29/8/2026-33355) olan tabiplerin muayenehanelerini kapatması halinde (Değişik ibare:RG-29/8/2026-33355) muayenehanesini kapattığı ildeki en fazla iki özel hastanede kadro dışı geçici olarak çalışmasına izin verilir. Bu tabiplerin yeniden muayenehane açmaları halinde bu madde kapsamında verilen kadro dışı geçici çalışma hakkı sona erer.

@@ -1,0 +1,2 @@
+Asgari fiziki kriterlerden muafiyet
+GEÇİCİ MADDE 13- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte ruhsatlı ve faal bulunan özel hastanelerden hastane binaları kültür varlığı olarak tescil edilmiş olanlar, sağlık hizmet sunumunu olumsuz etkilememek koşulu ile bu Yönetmeliğin 6 ncı maddesinin birinci fıkrasında belirlenen asgari fiziki kriterlerden Bakanlıkça muaf tutulabilir. Bu hastanelerin yeni binaya taşınmaları halinde asgari fiziki kriterlere uyması zorunludur.

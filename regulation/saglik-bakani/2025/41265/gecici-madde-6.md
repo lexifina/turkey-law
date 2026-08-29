@@ -1,0 +1,2 @@
+Devam eden işlemler
+GEÇİCİ MADDE 6- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce iller arası taşınma ve birleşme başvuruları ile 10 uncu maddenin birinci fıkrası kapsamında belirtilen işlemler ve kadro, yatak, özellikli ünite ve merkez devir başvuruları olan özel hastanelerin devam eden işlemleri 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan mülga Özel Hastaneler Yönetmeliği hükümlerine göre tamamlanır.

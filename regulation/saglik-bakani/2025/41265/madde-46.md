@@ -1,0 +1,3 @@
+Ruhsatın iptali
+MADDE 46- (1) Denetimlerde tespit edilen eksikliklerin verilen süre içinde giderilmemesi sebebiyle bir kısmında veya tamamında faaliyeti geçici olarak durdurulan hastanede, faaliyet durdurma tarihinden itibaren altı ay içinde eksiklikler giderilmezse ruhsat Bakanlıkça askıya alınır ve altı ay ek süre verilir. Bu sürenin sonunda faaliyete geçemeyen hastanenin ruhsatı Bakanlıkça iptal edilir.
+(2) Faaliyeti geçici olarak kısmen durdurulduğu halde hasta kabulüne devam eden özel hastanenin faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti herhangi bir tespit sonrası tamamen durdurulmasına rağmen hasta kabulü yapan hastanenin ruhsatı Bakanlıkça iptal edilir.
