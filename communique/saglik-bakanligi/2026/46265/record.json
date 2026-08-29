@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33355",
+  "date_quote": "29.08.2026",
+  "first_law": null,
+  "gazette": "33355",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-08-29",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Sağlık Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-87-0.json",
+      "id": "87",
+      "label": "Sağlık Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=87&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "saglik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-08-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46265&MevzuatTertip=5",
+  "source_bytes": 266827,
+  "source_id": "9.5.46265",
+  "source_sha256": "c7d552a76833a7d58c6028280f149803cab7da983267ac8b33c3df2d76d879a4",
+  "title": "BEŞERİ TIBBİ ÜRÜNLERİN FİYATLANDIRILMASI HAKKINDA TEBLİĞ",
+  "word_count": 9453
+}
