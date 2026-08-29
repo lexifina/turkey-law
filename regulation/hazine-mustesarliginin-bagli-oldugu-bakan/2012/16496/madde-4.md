@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Yönetim Kurulu
+Yönetim kurulunun oluşumu
+MADDE 4 – (1) Kurum, Doğal Afet Sigortaları Kurumu Yönetim Kurulu tarafından yönetilir. Yönetim Kurulu, Müsteşarlıktan, Çevre ve Şehircilik Bakanlığından, Afet ve Acil Durum Yönetimi Başkanlığından ve Sermaye Piyasası Kurulundan en az genel müdür yardımcısı düzeyinde birer üye, Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği ve Yükseköğretim Kurulu tarafından önerilecek üçer aday arasından belirlenecek birer üye ile Teknik İşleticinin temsilcisi bir üyeden oluşur.
+(2) Yönetim Kurulu üyeleri, ilgili kurumların önerisi ve Müsteşarlığın teklifi üzerine Bakan tarafından atanır. Yönetim Kurulu üyelerinin, temsil ettikleri kuruluşların görev alanına giren konularda görevlerini yürütebilmeleri için gerekli bilgiye ve deneyime sahip olmaları gereklidir. İlgili kurumlar, Yönetim Kurulu üyeliği için kendileri tarafından önerilen adayların özgeçmişini ve Kanunda belirtilen şartları taşıdıklarını belirten belgeleri aday bildirimi ile birlikte Müsteşarlığa gönderir. Kanunda belirtilen şartları taşımadıkları Müsteşarlıkça tespit edilen adayların yerine ilgili kurumlardan başka aday önermeleri istenir.

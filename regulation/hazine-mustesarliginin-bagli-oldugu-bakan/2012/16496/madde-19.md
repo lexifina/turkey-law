@@ -1,0 +1,3 @@
+Sağlanan teminatlar
+MADDE 19 – (1) Zorunlu deprem sigortası teminatı münhasıran Kurum tarafından verilir. Zorunlu deprem sigortası yapılan bağımsız bölüm veya binaların değeri bu sigorta kapsamında hesaplanan sigorta bedelinden yüksek ise söz konusu sigorta bedelini aşan kısım için, zorunlu deprem sigortasının yapılmış olması kaydıyla, sigorta şirketleri tarafından ihtiyari deprem sigortası yapılabilir.
+(2) Gerekli şartların oluşması ve Kanunun 7 nci maddesinin ikinci fıkrasına göre Bakanlar Kurulunca kararlaştırılması halinde Kurum, doğal afetler için başka sigorta veya reasürans teminatları da verebilir.

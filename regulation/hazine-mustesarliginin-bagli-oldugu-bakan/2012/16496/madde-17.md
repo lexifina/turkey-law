@@ -1,0 +1,3 @@
+Bilgi güvenliği
+MADDE 17 – (1) Teknik İşletici, bu sıfatı dolayısıyla haiz olduğu bilgi ve belgeler ile yazılım kaynak kodları ve teknik donanım ayrıntılarını gerek sözleşme süresinde, gerekse sözleşme sonrasında hiç bir şekilde kullanamaz; Müsteşarlığın izni olmaksızın üçüncü şahıslarla paylaşamaz ve yayımlayamaz. Bu çerçevede, Kurum işlerinde çalıştırılacak personelle gizlilik sözleşmesi yapılır.
+(2) Birinci fıkradaki hükümler, Kurum adına bilişim, donanım, ağ hizmetleri, çağrı merkezi ve doğrudan satış gibi hizmetleri sağlayan kuruluşları da kapsar. Bu hizmetleri sağlayan kuruluşlarla gizlilik sözleşmesi imzalanır.
