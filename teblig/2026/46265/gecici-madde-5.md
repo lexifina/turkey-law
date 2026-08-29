@@ -1,0 +1,2 @@
+İlk eşdeğer ürünün geri ödemeli/geri ödemesiz olarak fiyatlandırılma durumuna ilişkin geçiş hükümleri
+GEÇİCİ MADDE 5- (1) Halihazırda fiyat listesinde 4 üncü maddenin yirmi üçüncü fıkrasına uygun olmayan şekilde geri ödemesiz olarak fiyatlandırılmış ürünler en geç 3 ay içerisinde geri ödemeli olarak fiyatlandırılmak için başvuruda bulunmak zorundadır. Başvuruda bulunmayan ürünler bu Tebliğ hükümlerince re'sen fiyatlandırılır.

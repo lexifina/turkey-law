@@ -1,0 +1,15 @@
+Firma satış fiyatı belirleme
+MADDE 9- (1) 7 nci maddeye göre kaynak fiyatı belirlenmiş ürünün Avro değeri karşılığına kadar firma satış fiyatı belirlenebilir.
+(2) Kaynak alınacak ürün, kaynak fiyatın Avro değeri karşılığından daha düşük firma satış fiyatı almış ise, bu durum birebir eş ürünün firma satış fiyatını etkilemez. Maliyet kartı ile fiyat almış ürünler için kaynak fiyatın Avro değeri karşılığı hesaplanan durumlarda maliyet kartı bedeli kullanılır.
+(3) Fiyat listesinde bulunan veya ilk kez fiyat alacak herhangi bir ürüne, fiyat listesinde yayımlı olan birebir eş ürün ve eş ürünlerinin fiyat aritmetik ortalamasının %50’sine kadar fiyat belirlenebilir. Fiyat aritmetik ortalamasının %50’sinden daha düşük fiyat talepleri Komisyon tarafından değerlendirilir. Birebir eş ürün ve eş ürünlerinin fiyat aritmetik ortalaması hesaplamasında;
+a) Geri ödemesiz ürünler hesaplamaya dahil edilmez.
+b) Hesaplamaya dahil edilen ürünlerin piyasada bulunma durumları dikkate alınmaz.
+c) Komisyon tarafından artış verilmiş ürünler için kaynak fiyatın Avro değeri karşılığı dikkate alınarak hesaplama yapılır.
+(4) Fiyat listesinde birebir eş ve eş ürün olmaması halinde üçüncü fıkra hükümleri uygulanmaz.
+(5) Aynı ürünün serum setli ve setsiz formları hariç olmak üzere başvuru sahiplerinin ürünleri için talep edecekleri firma satış fiyatı düşüşleri ürüne özgü olup firmanın diğer ürünleri için uygulanmaz.
+(6) Kaynak fiyatının Avro değeri karşılığının altında firma satış fiyatı almış ürünler için kaynak fiyatın Avro değeri karşılığına kadar talep edilen artışlar Komisyonca değerlendirilir.
+(7) 5 inci maddenin dördüncü fıkrasının (ç) bendi ve altıncı fıkrasının (ç) bendi ile fiyatlandırılan ürünler için maliyet kartı bedeline kadar firma satış fiyatı belirlenebilir. Maliyet kartı bedelinden daha düşük firma satış fiyatı almış ürünler için maliyet kartı bedeline kadar talep edilen artışlar Komisyonca değerlendirilir.
+(8) İlk kez fiyat alan ve maliyet kartı ile fiyat talep edilen geri ödemeli ürünün firma satış fiyatı, fiyat listesinde yer alan, kaynak teşkil etmeyen, piyasada bulunan ve geri ödemeli olan en yüksek firma satış fiyatlı birebir eş ürünün maliyet kartı bedelinin %10 fazlasını geçemez.
+(9) Ruhsat devri, ürün isim değişikliği, ürün barkod değişikliği, başvuru sahibinin unvan değişikliği ve ruhsatlarındaki çeşitleme ya da varyasyon gibi değişiklikler nedeni ile aynı ürün olma vasfını koruyan ürünler mevcut kaynak fiyatlar ve firma satış fiyatından işlem görür. Bu ürünlerin kaynak fiyatlarının ve firma satış fiyatlarının güncellenme talepleri gerçek kaynak fiyat değişiklik döneminde yapılır.
+(10) Herhangi bir nedenle ürünün barkodunun değişmesi durumunda eski ve yeni barkodlu her iki ürün aynı ürün olarak kabul edilir. Yeni barkodlu üründe yapılan tüm fiyat değişiklikleri eski barkodlu ürüne de uygulanır.
+(11) Yurt dışı ilaç listesinde yer alan ürünlerin firma satış fiyatları, Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin eki Yurt Dışı İlaç Fiyat Listesinde (EK-4/C) yer alan başvuru sahibi ile aynı lisansör firmaya ait ürünün fiyatının güncel Avro değeri karşılığından fazla olamaz.

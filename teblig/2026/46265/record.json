@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.46265",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BEŞERİ TIBBİ ÜRÜNLERİN FİYATLANDIRILMASI HAKKINDA TEBLİĞ",
+  "number": "46265",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2026/46265",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46265&MevzuatTertip=5",
+  "source_sha256": "c7d552a76833a7d58c6028280f149803cab7da983267ac8b33c3df2d76d879a4",
+  "source_bytes": 266827,
+  "published": "2026-08-29",
+  "gazette": "33355",
+  "in_force": "2026-08-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.08.2026); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9453,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
