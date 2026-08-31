@@ -1,0 +1,28 @@
+{
+  "number": "month-08",
+  "year": 2026,
+  "month": 8,
+  "title": "AĞUSTOS-2026 Nolu Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2026-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2026",
+  "source": "https://www.havsa.bel.tr/HOME/INDEX/KURUMSAL/MECLISKARARLARI",
+  "official_page": null,
+  "official_document": "https://www.havsa.bel.tr//Contents//images/cd7896fa-b448-60ac-5214-f65497d301a6.pdf",
+  "source_sha256": "8a7b0749a4e1acdd36031efe470a68d3b47da12f75226e79cf5a6373dcc06e86",
+  "issuer": "Havsa Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "AĞUSTOS-2026 Nolu Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
