@@ -1,0 +1,19 @@
+Turizm yatırımı belgesi
+MADDE 6- (1) Turizm yatırımı belgesi verilmesi için yapılan başvurularda aşağıda belirtilen bilgi ve belgeler aranır:
+a) Talebin gerçek kişi adına yapılması halinde Türkiye Cumhuriyeti Kimlik Numarası, tüzel kişilik adına yapılması halinde ticaret sicil veya MERSİS numarası ve vergi sicil numaraları gerçek ve tüzel kişiler için Ulusal Elektronik Tebligat Sistemi (UETS) adresi.[1][2]
+b) Tesisin adı, yatırımın amacı, yeri, süresi, kapasitesi, tür ve sınıfına ilişkin beyanlar.[3]
+c) Başvuru sahibinin gerçek kişi olması durumunda imza beyannamesi veya üzerinde imza bulunan Türkiye Cumhuriyeti kimlik kartı örneği (…)(1)[4]
+ç) İsim tescili yapılmış ise tescile ilişkin belge.
+d) Yatırımın kamu taşınmazı üzerinde yapılması durumunda; ilgili kurum veya kuruluşun uygunluk yazısı.[5]
+e) Özel konaklama tesisleri için yatırımın gerçekleştirileceği taşınmazın, korunması gerekli taşınmaz kültür varlığı olarak tescilli olduğuna ilişkin ilgili kurum veya kuruluştan alınacak belge.
+f) Termal tesisler ve sağlıklı yaşam tesisleri için ilgili kurum veya kuruluştan alınacak izin yazısı veya belgesi.
+g) (Değişik:RG-22/12/2024-32760-CK-9287/1 md.) Tahsisli kamu taşınmazları hariç tapu/tapu kayıt örneği,
+ğ) (Ek:RG-16/3/2023-32134-C.K.-6969/2 md.) Talep edilen türün, yatırımın yer aldığı parsel/parsellerin kullanım amacı ile uyumlu olduğunu gösteren ilgili kurum veya kuruluştan alınan belge.
+h) (Ek:RG-22/12/2024-32760-CK-9287/1 md.) Talebin mülkiyet sahibi dışındaki gerçek veya tüzel kişilerce yapılması halinde yatırıma konu taşınmazda talep edilen tesisin yapılmasına izin veren sözleşme veya muvafakatname ile mal sahibi gerçek kişi ise imza beyannamesi veya üzerinde imza bulunan Türkiye Cumhuriyeti kimlik kartı örneği, tüzel kişi ise MERSİS numarası veya ticaret sicil numarası.
+(2) Özel tesislere, gastronomi tesislerine, apart otellere, pansiyonlara, mobil evlere ve korunması gerekli taşınmaz kültür varlığı olan yapılarda yer almayan özel konaklama tesislerine turizm yatırımı belgesi verilmez.[6]
+(3) Turizm yatırımı belgeli tesislerin işletmeye açılma süresi, yatırım belgesi verilmesinden itibaren iki yıla kadar olmak üzere, yatırımın özellikleri ve yatırıma başlama koşulları dikkate alınarak Bakanlık tarafından belirlenir. Bu süre, belge sahibinin talebi üzerine, başlangıçta verilen yatırım süresini geçmemek kaydıyla bir defaya mahsus uzatılabilir. Yatırımın kamu taşınmazı üzerinde yapılması durumunda, yatırım süresi ve bu sürenin uzatılması konusunda ilgili kurum veya kuruluşun görüşü doğrultusunda işlem tesis edilir.
+(4) Turizm yatırımı belgeli tesislere ilişkin, işletmeye açılma süresi uzatımı, kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi düzenlenmesi veya yatırım belgesi iptal işlemleri devam ettiği sürece turizm yatırımı belgeli olarak kabul edilir.
+(5) Bakanlık tarafından kabul edilebilir, kamudan kaynaklanan fiili veya hukuki imkânsızlık durumunun veya mücbir sebeplerin ortaya çıkması halinde, yatırımcının talebi üzerine, bu sebeplerin ortadan kalkmasına kadar geçecek süre boyunca yatırım süreleri dondurulur.
+(6) İşletme faaliyeti gösteren tesisler için turizm yatırımı belgesi talebinde bulunulamaz.
+(7) Kültür ve Turizm Koruma ve Gelişim Bölgeleri ile Turizm Merkezlerinde yer alan konaklama tesisleri için planlarında belirtilen kullanım amacına aykırı başvurulara turizm yatırımı belgesi düzenlenmez.
+(8) (Ek:RG-11/5/2024-32543-CK-8447/1 md.) Bakanlıkça, yatırım belgesi düzenlenen konaklama tesislerinin tapu kaydına; “turizm amaçlı kullanım dışında kullanılamayacağına veya konaklama birimleri üzerinde devre mülk, kat irtifakı veya kat mülkiyeti kurulamayacağına, yararlanma, kullanma ve yönetime ilişkin anlaşmaların tapu siciline şerh edilemeyeceğine” ilişkin belirtme yapılması ilgili Tapu Müdürlüğünden talep edilir.

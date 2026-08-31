@@ -1,0 +1,11 @@
+Mobil evler
+MADDE 35/A- (Ek:RG-18/1/2024-32433-CK-8112/5md.)
+(1) Mobil evler, tahsisli kamu taşınmazları hariç olmak üzere, imar planlarında kamping ya da kırsal/eko turizm kullanımlarına ayrılmış alanlarda düzenlenen, yerleşim düzenini gösteren krokisi bulunan, tamamı mobil evlerden oluşan, en az beş, en fazla kırk dokuz konaklama birimi içeren tesislerdir. Bu tesisler aşağıda belirtilen nitelikleri taşır:[33]
+a) (Değişik:RG-29/8/2024-32647-CK-8864/1 md.) Konaklama birimlerinin yaygın yerleşim düzeninde oluşturulması ve her bir konaklama biriminin en az iki yüz elli metrekare alan içerisinde yer alması.
+b) Tesis alanının çit, duvar, yeşillik gibi düzenlemeler ile çevreden tecrit edilerek aydınlatılması.
+c) Girişte konaklama birimi başına bir araç olmak üzere otopark, resepsiyon-idare ünitesi.
+ç) Mobil evlerin tamamının tescil belgesinin mal sahibi veya belge sahibi ya da işletmeci adına düzenlenmiş olması.
+(2) Konaklama birimleri doğal ışık alacak şekilde düzenlenir. Uygun tefriş elemanlarıyla rahat kullanım imkânı verebilecek şekilde dekore edilir. Bu birimlerde yatak, kişi başı bir yastık, yastık kılıfı, çarşaf, iklim koşullarına göre pike veya yorgan, kıymetli eşya kasası, minibar, sıcak içecek hazırlanmasına imkan sağlayan donanım ve servis malzemesi, genel aydınlatma, priz, çöp kutusu, perde veya benzeri düzenleme bulunur. Banyolarda, vitrifiye, armatür, batarya, duş donanımı, ayna, priz, çöp kutusu, sabun, şampuan ile el ve banyo havlusu bulundurulur. Her konaklama birimi iki kişiliktir.
+(3) Bu tesislerde, 14 üncü maddenin beşinci fıkrası kapsamında lokanta, alakart lokanta, kafeterya, bar salonu, pasta salonu, kafe ve kahvaltı salonu düzenlenmesi durumunda, bu ünitelerin toplam kapasitesi yüz kişiyi geçemez; toplantı salonu ve çok amaçlı salon yapılamaz. (Ek cümle:RG-29/8/2024-32647-CK-8864/1 md.) Bu üniteler, konaklama birimlerinin toplam alanı içerisinde yer alamaz.
+(4) Konaklama birimlerinin hareket kabiliyetini ortadan kaldırıcı düzenleme yapılamaz.
+(5) Bu tesislere ilişkin turizm işletmesi belgesi başvurusunda tescil belgesi ibraz edilir. Başvuru tarihi itibarıyla 2918 sayılı Kanun kapsamında geçerli teknik muayene bulunması zorunludur. Turizm işletmesi belgesi alınmasından sonra da teknik muayenelerin yaptırıldığına ilişkin geçerli muayene belgesi Bakanlığa ibraz edilir.

@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-1134",
+  "number": "1134",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TURİZM TESİSLERİNİN NİTELİKLERİNE İLİŞKİN YÖNETMELİK",
+  "published": "2019-06-01",
+  "enacted": "2019-05-31",
+  "gazette_number": "30791",
+  "in_force": "2026-08-31",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 31/8/2026; source row: 30/8/2026 | 11706 | Geçici Madde 1 | 31/8/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=1134&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "39c3d48da757b3e0fe55ee2e1f1e7533dab9cf47e3c08e56962dab7a83323a30",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
