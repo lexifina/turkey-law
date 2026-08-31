@@ -1,0 +1,13 @@
+Öğrenime ara verme ve izinli sayılma işlemleri
+MADDE 19- (1) Kayıt, devam, uygulama ve sınav koşullarından herhangi birini mazereti nedeniyle yerine getiremeyen öğrencinin hakları, istemde bulunması ve bu istemin birim yönetim kurulu tarafından kabul edilmesinden sonra, mazereti süresince saklı tutulur. Bu süre boyunca öğrenci eğitim-öğretime ara vermiş sayılır ve eğitim öğretim faaliyetleri ile sınavlara katılamaz. Bu süre sonunda öğrenci kaldığı yerden öğrenimine devam eder.
+(2) (Değişik:RG-15/2/2025-32814) Öğrenci haklı ve geçerli bir mazerete dayanarak ilgili alt birimin görüşü de alınarak birimin yönetim kurulu kararı ile bir defada en çok iki yarıyıl ve öğrenim süresi boyunca toplam olarak en çok dört yarıyıl izin isteminde bulunabilir. İzinli sayılan süre azami öğrenim süresinden sayılmaz; ancak rahatsızlığı ve tedavi sürecinin devam etmesi nedeniyle izin isteminde bulunan öğrenciler ile hükümlü öğrenciler mazereti ilgili birim yönetim kurulu tarafından değerlendirilerek azami öğrenim süresinden sayılmadan dört yarıyıldan fazla izinli sayılabilirler. İzinli sayılma talebi; ilgili yarıyıl için eğitim-öğretim döneminin başladığı ilk iki hafta içerisinde, eğitim-öğretim dönemi başladıktan sonra kayıt hakkı kazanan öğrenciler için ise kayıtların bitiş tarihini takip eden haftanın son iş gününe kadar ilgili alt birime yapılır. Bu süre bittikten sonra yapılacak başvurulara, ani hastalık ve beklenmedik durumlar dışında işlem yapılmaz.
+(3) Yurt dışından öğrenci kabulü ile ilgili Senato tarafından belirlenen esaslar kapsamında yerleşip kayıt yapan öğrencilere, Türkçe düzeylerini yeterli düzeye getirmek üzere tanınan izin süresi ikinci fıkrada tanımlanan süreye dahil değildir.
+(4) Öğrenciler aşağıda belirtilen nedenlerin varlığı halinde birim yönetim kurulu kararıyla izinli sayılabilir:
+a) Öğrencinin sağlık raporları ile belgelenmiş sağlıkla ilgili mazeretinin olması.
+b) 2547 sayılı Kanun hükümlerine göre öğretimin aksaması sonucunu doğuracak olaylar dolayısıyla öğrenime Yükseköğretim Kurulu kararı ile ara verilmiş olması.
+c) Mahallin en büyük mülki idare amirince verilecek bir belge ile belgelenmiş olması şartı ile tabii afetler nedeniyle öğrencinin öğrenimine ara vermek zorunda kalmış olması.
+ç) Öğrencinin yabancı dil öğrenmek amacıyla yurt dışına gideceğini belgelemesi.
+d) Öğrencinin tutukluluk hali.
+e) 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre öğrencinin, Yükseköğretim Kurumundan çıkarma cezası almasını gerektirmeyen mahkûmiyet halinin olması.
+f) Öğrencinin hangi nedenle olursa olsun tecil hakkını kaybetmesi veya tecilinin kaldırılması suretiyle askere alınması.
+g) Birim yönetim kurulunun haklı ve geçerli kabul edeceği diğer nedenlerin ortaya çıkması.

@@ -1,0 +1,7 @@
+Kayıt yenileme
+MADDE 18- (1) Öğrenci akademik takvimde belirtilen tarihlerde varsa katkı payını veya öğrenim ücretini yatırarak ders ön kaydını yapar. Danışman akademik takvimde belirtilen sürelerde öğrencinin ders kaydını kesinleştirir. Belirlenen ders kayıt yenileme süreci içerisinde dersini seçmeyen ve/veya varsa katkı payı/öğrenim ücretini yatırmayan öğrencinin ders kaydı onaylanmaz.
+(2) (Değişik:RG-15/2/2025-32814) Ders kayıt işleminin, öğrencinin kendisi tarafından yapılması esastır. Ders kaydında değişiklik yapmak isteyen öğrenci ders kaydı değişikliğine ilişkin talebini akademik takvimde belirtilen tarihlerde ÖBS üzerinden yapar ve danışman tarafından ders değişikliği onaylanarak kesinleştirilir.
+(3) Farklı üniversitelerden ders almış öğrencilerin aldığı derslere ait notlar akademik takvimde belirtilen süreler içerisinde Birime ulaşmamışsa dikkate alınmaz.
+(4) Akademik takvimde belirtilen kayıt yenileme süresi içerisinde ders kaydı yapmayan öğrenciler, kayıt yenileme süresi boyunca mazeretli olduklarını belgelemeleri halinde, eğitim-öğretimin başladığı ilk hafta içerisinde başvurmaları durumunda, birim yönetim kurulu kararı ile mazeretli ders kayıtlarını yapabilirler.
+(5) Üniversiteden yatay geçiş ile başka bir üniversiteye giden ve yatay geçiş hakkından vazgeçip aynı yarıyılda Üniversitede eğitim-öğretime devam etmek isteyen öğrencinin ders kaydı, ilgili yarıyılın derslerinin başlamasından itibaren üç hafta içerisinde müracaat edilmesi halinde yapılır.
+(6) Kayıt yenileme işlemlerinin tümünden öğrenciler sorumludur.

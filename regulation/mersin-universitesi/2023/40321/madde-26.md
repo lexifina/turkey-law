@@ -1,0 +1,4 @@
+Derslerden muafiyet
+MADDE 26- (1) (Değişik:RG-15/2/2025-32814) Birime yeni kayıt yaptıran öğrenci, daha önce kayıtlı olduğu yükseköğretim kurumundan almış ve başarmış olduğu derslerden muaf olmak için talepte bulunabilir. Muafiyet talebinde bulunacak olan öğrenci yalnızca birime ilk kayıt yaptırdığı yarıyılda eğitim-öğretim dönemi derslerinin başladığı ikinci haftanın son iş gününe kadar başvuru yapabilir. Ancak eğitim-öğretim dönemi dersleri başladıktan sonra kayıt hakkı kazanan öğrenciler muafiyet taleplerini, kayıtlarını müteakip beş iş günü içerisinde yaparlar. Süresi içerisinde muafiyet talebinde bulunmayan öğrencinin başvurusu değerlendirmeye alınmaz.
+(2) Ortak zorunlu yabancı dil dersi ile temel bilişim derslerinden her eğitim-öğretim yılının başında bir muafiyet sınavı yapılır. Bu sınavda uygulanacak esaslar Senato tarafından belirlenir.
+(3) Muafiyet ile ilgili iş ve işlemler Senato tarafından belirlenen esaslara göre yürütülür.
