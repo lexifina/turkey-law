@@ -1,0 +1,30 @@
+{
+  "number": "month-08-2",
+  "year": 2026,
+  "month": 8,
+  "title": "2026 YILI AĞUSTOS AYI OLAĞANÜSTÜ KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2026-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2026",
+  "source": "https://www.yunusemre.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2026&type=karar",
+  "official_page": null,
+  "official_document": "https://www.yunusemre.bel.tr/fileserver/uploads/f5x0eq.pdf",
+  "source_sha256": "f7de6651d4bea76a847647be20959d9f7dd73376e97bb40dc9007707a183d58d",
+  "issuer": "Yunusemre Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 YILI AĞUSTOS AYI OLAĞANÜSTÜ KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "14 Ağustos 2026",
+  "list_year": 2026
+}
