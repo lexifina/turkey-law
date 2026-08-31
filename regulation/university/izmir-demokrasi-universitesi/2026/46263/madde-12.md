@@ -1,0 +1,3 @@
+Lisansüstü programlara kesin kayıt
+MADDE 12- (1) Kayıt hakkı kazananlar, akademik takvimde belirtilen süre içinde istenilen belgelerle Enstitüye başvurarak kesin kayıtlarını yaptırmak zorundadır. Süresi içinde kesin kayıt yaptırmayan asıl adaylar kayıt hakkını kaybeder. Bu adayların yerine, başarı değerlendirme sırası esas alınarak ilan edilen yedek adaylar kayıt yaptırabilir. Kayıtlarda istenen belgelerin aslı veya noter tarafından onaylı örneği ya da aslını göstermek suretiyle Enstitü tarafından onaylanmış örneği kabul edilir.
+(2) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.

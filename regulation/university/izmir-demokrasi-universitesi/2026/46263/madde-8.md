@@ -1,0 +1,7 @@
+Özel öğrenci kabulü
+MADDE 8- (1) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere, kayıtlı olduğu EABDB/EASDB’nin onayı ile özel öğrenci olarak kabul edilebilir.
+(2) Öğrencinin başvurusu, EABDB/EASDB tarafından değerlendirilir; EABDB/EASDB onayı ve EYK’nin kararıyla lisansüstü derslere özel öğrenci kabul edilebilir. Özel öğrenci statüsünde ders almak isteyen adayların öğrenci belgesini ekledikleri bir dilekçe ile akademik takvimde belirtilen süre içinde Enstitüye başvurmaları gerekir.
+(3) Özel öğrencilere derse devam, sınav, başarı değerlendirmesi, disiplin ve benzeri durumlarda, Enstitü programlarına kayıtlı öğrencilerin tabi olduğu mevzuat hükümleri uygulanır.
+(4) Özel öğrencilere, özel öğrenci olarak alıp başarılı oldukları dersler için bu derslerin kredi ve not durumlarını belirten bir belge verilir.
+(5) Özel öğrenci statüsünde başka bir yükseköğretim kurumundan ders alan öğrenciler, bu dersleri başarıyla tamamlamaları hâlinde, aldıkları derslerin kayıtlı bulundukları EABD/EASD lisansüstü programına ilişkin akademik kayıtlarda ve transkriptlerinde gösterilmesi amacıyla başvuruda bulunabilir. Muafiyet ve intibak işlemleri, öğrencinin kayıtlı olduğu EABDB/EASDB tarafından oluşturulan Muafiyet ve İntibak Komisyonunun önerisi, ilgili EABDB/EASDB’nin görüşü ve EYK kararıyla sonuçlandırılır.
+(6) Özel öğrenciliğe ilişkin usul ve esaslar ilgili mevzuat hükümleri ile Senato tarafından kabul edilen yönerge hükümlerine göre yürütülür.

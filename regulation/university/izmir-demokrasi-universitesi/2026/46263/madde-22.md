@@ -1,0 +1,2 @@
+Muafiyet ve intibak
+MADDE 22- (1) Lisansüstü eğitime kayıt olan öğrencilerin; özel öğrencilik, yatay geçiş, değişim programı öğrenciliği ve daha önceki lisansüstü eğitimlerinde alıp başarılı oldukları dersler için muafiyet veya muafiyet sınavı sonucunda bir veya daha fazla dersten muaf olma koşullarına ilişkin talepleri, EABDB/EASDB’nin oluşturduğu Muafiyet ve İntibak Komisyonunun değerlendirmesi üzerine EABDB/EASDB’nin önerisi ile EYK tarafından karara bağlanır ve intibakı yapılır.

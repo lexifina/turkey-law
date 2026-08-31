@@ -1,0 +1,10 @@
+Derste başarılı olma koşulları
+MADDE 18- (1) Ders içeriği, işlenecek konular, kaynakça, öğretim yöntem ve teknikleri, vize, ödev, sunum, proje ve benzeri sınav veya yarıyıl içi çalışmaları ile yarıyıl sonu sınavının yapılıp yapılmayacağı; yapılacak çalışma ve sınavların dersin başarı notuna katkı oranları, dersi veren öğretim elemanı tarafından ders bilgi formunda belirtilir ve yarıyıl başında öğrencilere duyurulur. Yarıyıl sonu sınavı veya sınav yerine geçecek çalışmanın dersin başarı notuna katkısı %30’dan az olamaz.
+(2) Öğrencilerin başarısız oldukları dersleri tekrar ederek veya yerine başka bir ders alarak sınavlarında başarılı olmaları hâlinde, önceki başarısız notları transkriptlerinde yer almaz.
+(3) Bir seçmeli dersten başarısız olunması hâlinde, yerine başka bir seçmeli ders seçilebilir.
+(4) Öğrencinin başarısız olduğu kredili dersleri tekrar etmesine, tekrar edilen derslerde devam yükümlülüğüne ve başarı şartına ilişkin usul ve esaslar aşağıdaki şekilde uygulanır:
+a) Zorunlu bir dersten FF notu alan öğrenci, dersi ilk aldığı yarıyılda devam koşulunu yerine getirmiş olması kaydıyla, bu dersi tekrar aldığında derse devam etmek zorunda değildir. Öğrenci, sınavlara girerek kayıtlı olduğu program için öngörülen asgari başarı notunu almakla yükümlüdür. Bu ders için önceki yarıyıllarda alınan notlar geçersizdir.
+b) Zorunlu bir dersten DZ notu alan öğrenci, bu dersi tekrar aldığında devam koşulunu yeniden yerine getirmek zorundadır.
+c) Seçmeli bir dersten FF notu alan öğrenci, aynı seçmeli dersi tekrar aldığında, dersi ilk aldığı yarıyılda devam koşulunu yerine getirmiş olması kaydıyla, derse devam etmek zorunda değildir. Öğrenci, sınavlara girerek kayıtlı olduğu program için öngörülen asgari başarı notunu almakla yükümlüdür.
+ç) Seçmeli bir dersten DZ notu alan öğrenci, aynı dersi tekrar aldığında devam koşulunu yeniden yerine getirmek zorundadır.
+d) Seçmeli bir dersten FF veya DZ notu alan öğrenci, başarısız olduğu seçmeli ders yerine mezuniyet için gerekli kredi yükünü tamamlamak amacıyla başka bir seçmeli ders aldığında, bu dersin devam koşulunu yerine getirmek zorundadır.

@@ -1,0 +1,4 @@
+Süre
+MADDE 35- (1) Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı tamamlayamayan öğrencinin Enstitü ile ilişiği kesilir.
+(2) Doğum yapan kadın öğrencilere talepleri halinde doğum sonrası iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.
+(3) Öğrencinin mezuniyet için dersleri başarılı bir not ile geçmesi, gerekli kredileri sağlaması, AGNO’sunun en az 2,00 olması ve dönem projesi dersini başarıyla tamamlamış olması gerekir. Öğrenci, AGNO şartını sağlayana kadar, azamî öğrenim süresi içinde başarısız olduğu dersi tekrar etmek veya yeni ders almakla yükümlüdür.
