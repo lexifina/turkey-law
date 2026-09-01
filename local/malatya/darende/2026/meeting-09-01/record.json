@@ -1,0 +1,26 @@
+{
+  "number": "meeting-09-01",
+  "number_as_published": "meeting-09-01",
+  "year": 2026,
+  "title": "01.09.2026 TARİHLİ MECLİS KARARLARI",
+  "decision_date": "2026-09-01",
+  "source": "https://darende.bel.tr/wp-json/wp/v2/posts?categories=118&per_page=100&page=1&_fields=id,date,link,title",
+  "official_document": "https://darende.bel.tr/haberler/01-09-2026-tarihli-meclis-kararlari/",
+  "source_sha256": "00f6c6df18fd4d410e9611ea42e617841f3a185dd9ed998ba00b6b2596b9a84c",
+  "issuer": "Darende Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-09-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.09.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.09.2026 TARİHLİ MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "post_date": "2026-09-14T06:56:41",
+  "official_page": "https://darende.bel.tr/haberler/01-09-2026-tarihli-meclis-kararlari/",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
