@@ -1,0 +1,26 @@
+{
+  "number": "20",
+  "number_as_published": "20",
+  "year": 2026,
+  "title": "Belediye hizmetlerinde kullanmak üzere bir (1) adet hizmet aracının (binek otomobilin) satın alınması.",
+  "decision_date": "2026-09-01",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/-belediye-hizmetlerinde-kullanmak-uzere-bir-1-adet-hizmet-aracinin-binek-otomobilin-satin-alinmasi/117/",
+  "source_sha256": "5e8b4ae6d91885edf296c41bb7fcfb25eb39a02fbc4530f6f60fe08d34ba347d",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-09-01",
+  "in_force_basis": "Decision date as printed in the official council listing: meclisi 01.09.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/-belediye-hizmetlerinde-kullanmak-uzere-bir-1-adet-hizmet-aracinin-binek-otomobilin-satin-alinmasi/117/",
+  "listing_label": "Belediye hizmetlerinde kullanmak üzere bir (1) adet hizmet aracının (binek otomobilin) satın alınması.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
