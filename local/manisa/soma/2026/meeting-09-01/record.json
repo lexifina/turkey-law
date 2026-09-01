@@ -1,0 +1,24 @@
+{
+  "number": "meeting-09-01",
+  "number_as_published": "meeting-09-01",
+  "year": 2026,
+  "title": "01.09.2026 150 - 164 2026 Eylül Ayı Meclis Karar Özetleri",
+  "decision_date": "2026-09-01",
+  "source": "https://www.soma.bel.tr/karar-detay/2026-yili-eyluel-ayi-meclis-karar-oezetleri/89",
+  "official_document": "https://www.soma.bel.tr/files//2026EylülAyiMeclisKararOzetleri.pdf",
+  "source_sha256": "99b74da8ed105aa08c2b81c9b708a36219bf82bf55e17e3f663fe7239a7d8dff",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-09-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.09.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.09.2026 150 - 164 2026 Eylül Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2026-yili-eyluel-ayi-meclis-karar-oezetleri/89"
+}
