@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 42 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 1/9/2026",
+  "first_law": null,
+  "gazette": "30751",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-01",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "İzmir Tınaztepe Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2019-04-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31442&MevzuatTertip=5",
+  "source_bytes": 78378,
+  "source_id": "8.5.31442",
+  "source_sha256": "3f93c268b38ea42bad8c87a80aa8857351877fe572748741b3f849790af87e6d",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "İZMİR TINAZTEPE ÜNİVERSİTESİ ÖN LİSANS VE LİSANS\r\nEĞİTİM ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 1690,
+  "version_label": "oldest version available",
+  "word_count": 4047
+}
