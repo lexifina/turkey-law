@@ -1,0 +1,4 @@
+Asaletin tasdiki
+MADDE 16 – (1) Adaylar görevde en az bir yılı doldurduklarında adayı bulundukları ilin valisi tarafından değerlendirilirler. Vali bu değerlendirmeyi adayın görevine karşı ilgisi, devam durumu, kişiliği, bilgi, beceri ve performansı, kaydettiği gelişmeler, temsil kabiliyeti, halkla ilişkileri, kılık kıyafeti kıstaslarına göre yapar. Değerlendirmede adayın refiki bulunduğu kaymakamların ve mülkiye müfettişinin raporları da göz önünde tutulur. Vali, değerlendirme sonucuna göre kanaatini olumlu veya olumsuz şekilde Bakanlığa yazılı olarak bildirir.
+(2) Disiplin cezası almamış ve başarılı görülmüş adayların asaleti Bakanlıkça tasdik edilir.
+(3) Disiplin cezası almış ve başarısız görülmüş adaylar, başka bir il valisi yanında en çok bir yıl daha denenir. Bu süre sonunda da başarısız görülenler hakkında 657 sayılı Devlet Memurları Kanununun 57 nci maddesi hükümleri uygulanır.

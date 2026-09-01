@@ -1,0 +1,2 @@
+Kursun programlanması
+MADDE 23 – (1) Kaymakamlık kurslarının başlatılma tarihleri, süreleri, programlarının ana hatları ile bölümleri, çalışma yer ve şekilleri (Değişik ibare:RG-29/6/2019-30816) Değerlendirme Kurulu tarafından, her dönem kurs için, kursun başlama tarihinden en az 20 gün önceden, Başkanlığın hazırlayıp getireceği teklif üzerine görüşülerek kararlaştırılır. Raportörlük görevini Başkanlık yapar.

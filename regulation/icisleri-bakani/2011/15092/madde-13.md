@@ -1,0 +1,4 @@
+Kaymakam vekilliği stajı
+MADDE 13 – (1) Asaletleri tasdik edilen adaylar, Bakanlıkça boş bulunan veya yıllık izin veya sağlık izni gibi sebeplerle boşalan ilçe kaymakamlıklarına vekil olarak atanırlar.
+(2) Adaylar, adayı oldukları ilin dışındaki illerin ilçelerine kaymakam vekili olarak gönderilirler.
+(3) Adayların kaymakam vekilliği stajı süresindeki değerlendirilmeleri, kaymakam vekili olarak bulundukları ilçelerin bağlı olduğu il valilerince yapılır. Valiler, illerine bağlı ilçelerde bir aydan az olmamak kaydıyla kaymakam vekilliğinde bulunan adayların, kaymakam vekilliğinden ayrılışlarını izleyen bir hafta içinde kaymakam vekilliği sırasında iş tutumları, kişilikleri, bilgi ve becerileri, temsil kabiliyetleri, halkla münasebetleri, kılık ve kıyafetleri hakkındaki kanaatlerini Bakanlığa ve Staj Rapor Dosyalarına konulmak üzere adayların bağlı bulundukları illerin valiliklerine yazılı olarak bildirirler.

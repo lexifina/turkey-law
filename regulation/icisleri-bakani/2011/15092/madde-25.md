@@ -1,0 +1,5 @@
+Kurs çalışma programı
+MADDE 25 – (1) Kurs çalışma programında kamu yönetimi ile ilgili konularda tartışmalı konferanslara, seminerlere yer verilir. Önemli konu ve sorunlara değişik açıdan bakılması imkanını sağlayacak panel ve açık oturumlar, çeşitli bakanlık, kamu kurum ve kuruluş ziyaretleri, organize sanayi bölgesi, serbest bölge, sınır ticareti ve KOBİ konularında eğitici geziler ve imkanlar ölçüsünde yurtdışı gezileri kurs çalışma programına dâhil edilir.
+(2) Adayların Bakanlığımız dışında kalan birimlerdeki çalışmalarının uygulanma şekil, süre ve değerlendirilme esasları Başkanlık ve ilgili birimlerle müştereken tespit edilir.
+(3) Kurs süresince ihtiyaca göre yapılacak olan inceleme gezileri Bakanlıkça görevlendirilecek bir görevli yönetiminde, özel programa göre ve toplu halde yapılır.
+(4) Kaymakamlık Kurslarının Bakanlık dışı kuruluşlarda yürütülecek eğitim programları, ilgili kurum ve kuruluşlarla mutabık kalınacak esaslar çerçevesinde o kurum veya kuruluş tarafından hazırlanıp uygulanır. Bu eğitimler süresince adaylar genel hükümler yanında, o kurum veya kuruluşun uygulama eğitimi ile ilgili mevzuatına uymakla yükümlüdürler.
