@@ -1,0 +1,1 @@
+[1] 2/9/2026 tarihli ve 33358 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğn adı “Toros Üniversitesi Yenilenebilir Enerji Teknolojileri Eğitimi Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
