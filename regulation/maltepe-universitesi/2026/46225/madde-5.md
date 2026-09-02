@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Eğitim-Öğretime İlişkin Esaslar
+Eğitim-öğretim ücreti
+MADDE 5- (1) Üniversitede eğitim-öğretim ücrete tabidir. Kısmi indirimli olarak öğrenim gören öğrenciler, indirim oranı dışında kalan tutarda eğitim-öğretim ücreti öder. Burs ve indirimler, zorunlu yabancı dil hazırlık öğrenimi için bir yılı; ön lisans programlarında öğrenim süresi olan iki yılı, lisans programlarında ise dört yılı kapsar. Dikey geçiş veya yatay geçiş ile kayıt yaptıran öğrenciler için burs/indirim süresi, öğrencilerin ilgili programa intibak ettirildikleri sınıf esas alınarak belirlenir. İndirimlerin kapsamı, devam koşulları ve dağıtımı gibi konularda, Üniversitenin yetkili organlarınca alınan kararlar uygulanır.
+(2) Eğitim-öğretim ücreti Mütevelli Heyeti tarafından her akademik yılın sonunda bir sonraki akademik yılda uygulanmak üzere belirlenir ve ilan edilen ödeme süresi içinde ödenmesi zorunludur. Yabancı Diller Yüksekokulunun yürüttüğü İngilizce hazırlık programlarına isteğe bağlı olarak devam eden öğrenciler, kayıt yaptırdıkları programlarda burslu/indirimli olsalar da ücret öderler.
+(3) Eğitim-öğretim ücretini ilan edilen süre içinde ödemeyen öğrenciler; kayıt yaptıramaz, kayıt yenileyemez, derslere yazılamaz, sınavlara giremez, öğrencilik haklarından yararlanamaz ve diploma alamazlar.
+(4) 16 ncı maddede belirtilen öğrenim süresinde mezun olamayan öğrencilerin, mezun olabilmeleri için kendilerine tanınan ek sürelerde yazılacakları derslere ve sınavlara ilişkin eğitim-öğretim ücreti, derslerin kredisi göz önünde tutularak belirlenir.
+(5) Başvurusu kabul edilen öğrencilerden, çift anadal ve/veya yandal programına kayıt yaptırdığı tarihten itibaren 2547 sayılı Kanunun 44 üncü maddesinde belirlenen öğrenim süresi içinde bu programları tamamlayamayanlar, kalan dersleri için ilgili yarıyılda belirlenen kredi ücretini öderler.
+(6) Yaz öğretiminde açılacak derslerin kredi ücreti, Mütevelli Heyeti tarafından belirlenir. Bu ücret, ilan edilen süre içinde ödenir.
+(7) Öğrenciler, 17 nci maddeye göre kayıt dondurma hakkına sahiptir. Kayıt donduran veya izinli sayılan öğrencilerin ödeyeceği eğitim-öğretim ücreti her yıl Mütevelli Heyeti tarafından belirlenir.
+(8) Özel yetenek sınavlarına girmek için başvuracak adaylar, Mütevelli Heyeti tarafından belirlenmiş ön kayıt ücretini ödemek koşuluyla bu sınavlara kabul edilir.

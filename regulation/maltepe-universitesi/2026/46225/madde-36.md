@@ -1,0 +1,2 @@
+Tekrar işareti uygulaması
+MADDE 36- (1) Derslerden (FF) notu alarak başarısız olan öğrencilerle dersten çekilme izni almış (ÇK) notlu öğrenciler ve kredisiz veya not ortalamasına katılmayan derslerden başarısız olmuş (BZ) notlu öğrenciler, bu dersleri ilk açıldığı dönemde tekrarlamak zorundadır. Bu dersler seçmeli bir ders veya ders planlarından çıkarılmış bir ders ise, öğrenciler bu ders yerine ilgili kurullar tarafından kabul edilmiş uygun derslere kaydolur. Bu uygulamada, 24 üncü madde hükümleri uygulanır.

@@ -1,0 +1,6 @@
+Derslere devam zorunluluğu
+MADDE 23- (1) Üniversitede derslere devam zorunludur. Öğrencilerin derslerin teorik saatlerinin toplamının en az %70’ine, uygulama ve laboratuvar saatlerinin toplamının en az %80’ine devam etmeleri zorunludur.
+(2) Derslere devam durumu dersin öğretim elemanınca yapılan yoklamalarla belirlenir. Yoklama sonucu, öğretim elemanı tarafından MÜBİS’e haftalık olarak işlenir.
+(3) Sağlık raporu alan öğrenciler de dahil olmak üzere; bir dersin teori, uygulama ve laboratuvar saatlerine ilişkin devamsızlık sınırlarını aşan öğrenciler ilgili derse devam etmemiş sayılır, bu dersin sınavlarına alınmaz ve bu dersten başarısız kabul edilir.
+(4) MÜBİS’ten yapılan devam takibi, denetimi farklı yöntemlerle yapılan derslerde, ilgili kurul ve Senato onayıyla kaldırılabilir. Bu derslerin saatleri öğrencinin kaydolduğu diğer derslerin saatleriyle çakışabilir.
+(5) Bir dersten (ilgili akademik birim kurullarının belirlediği ve Senatonun onayladığı ders/proje/uygulama ve benzeri hariç) (FF) ile başarısız olan öğrencilerin, ders tekrarında derse devam zorunluluğu aranmaz; derse devam zorunluluğu aranmayan öğrenciler yarıyıl içinde yapılan tüm ölçme ve değerlendirme faaliyetlerinden sorumludurlar. Ancak devamsızlık nedeniyle dersten başarısız olan öğrenciler için, tekrarlanan derse devam zorunludur.

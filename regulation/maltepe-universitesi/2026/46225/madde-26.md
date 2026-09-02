@@ -1,0 +1,3 @@
+Ek sınavlar
+MADDE 26- (1) 16 ncı maddede belirtilen normal eğitim-öğretim süresi içinde, bölümün/programın öğretim programında gösterilmiş derslere kaydolmuş, derse devam koşullarını yerine getirmiş ve mezuniyet aşamasına gelmiş öğrencilerden, proje, tasarım stüdyosu, atölye dersleri gibi öğretim programlarında ağırlıklı olarak uygulamadan oluşan dersler hariç, varsa stajını başarıyla tamamlamış, en çok iki dersi kalanlara süre kayıplarını önlemek amacıyla güz ve bahar yarıyılı başında ek sınav açılır.
+(2) Girmiş oldukları tüm sınavlardan geçer not aldıkları halde bu Yönetmelikte belirlenmiş başarı ortalamalarını, herhangi bir nedenle sağlayamamış olan mezuniyet aşamasındaki öğrencilere, not ortalamalarını yükseltmek üzere seçtikleri dersleri tekrar hakkı verilir.

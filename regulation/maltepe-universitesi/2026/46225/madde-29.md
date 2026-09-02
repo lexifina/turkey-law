@@ -1,0 +1,3 @@
+Öğrenci değişim programları
+MADDE 29- (1) Üniversite, YÖK mevzuatının uygun gördüğü ikili anlaşmalarla, yurt içinde veya yurt dışında faaliyet gösteren yükseköğretim kurumları ile öğrenci değişim programları oluşturarak uygulayabilir.
+(2) Öğrenci değişim programı kapsamında başka bir üniversitede en az bir yarıyıl öğrenim görecek öğrencilerin seçimi, ilgili bölümün/programın yetkili kurulları tarafından yapılır. Öğrencinin akademik işlemlerinin takibi bölüm/program başkanlığı tarafından atanan akademik danışmanının/koordinatörün sorumluluğunda yapılır. Bu öğrencilerin idari işlemleri ilgili birimlerce yürütülür.

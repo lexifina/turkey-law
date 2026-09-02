@@ -1,0 +1,4 @@
+Yabancı dil derslerinden muafiyet
+MADDE 15- (1) Kayıt işlemlerini tamamlayan öğrenciler, yabancı dil derslerinden belirlenen muafiyet esaslarına göre yabancı dil yeterlik sınavına alınırlar. Öğrencilerin, Senato tarafından eş değerli olduğu kabul edilmiş ulusal veya uluslararası yabancı dil sınavlarının herhangi birinden eş değer başarı puanını aldıklarını gösteren veya bir başka üniversitenin hazırlık sınıfı yabancı dil derslerini başarmış olduğunu gösteren belgeye haiz olması durumunda, internet sayfasında belirtilen tarih aralığında muafiyet için başvurabilirler. Öğrenciler bu başvurunun kabulü durumunda hazırlık programından muaf tutulurlar.
+(2) Yabancı dil yeterlik sınavında başarılı olanlar yerleştirildikleri ön lisans/lisans bölümlerinin/programlarının birinci yarıyıl derslerine başlarlar.
+(3) Yabancı dil yeterlik sınavında başarılı olamayanlar hazırlık sınıfı programına kaydolurlar.
