@@ -1,0 +1,6 @@
+Notlar
+MADDE 20 – (1) Ders başarı notlarını ifade eden puanlar, notlar, katsayıları ve anlamları aşağıda belirtilmiştir:
+(2) MU (muaf) notu, muafiyet sınavı sonucunda başarılı olarak değerlendirilen öğrencilere ve başka bir yükseköğretim kurumunda başarılmış, muaf kabul edilen derslerin başarı durumunu göstermek için de kullanılır. Başarı durumu MU ile değerlendirilen öğrenci o dersi başarmış sayılır ve bu başarı notu genel not ortalamasına katılır.
+(3) Bir dersten AA, BA, BB, CB, CC ve YT başarı notu alan öğrenci o dersi başarmış sayılır. Başarı notu DC, FF, DZ ve YZ olan dersler başarısız olup, açıldıkları ilk yarıyılda/yılda tekrar edilir.
+(4) Seçmeli derslerden başarısız olan öğrenciler danışman onayı ile aynı yarıyılda açılan diğer seçmeli derse kayıt yaptırabilir. Bu durumda öğrencinin yeni kayıt yaptırdığı seçmeli dersten aldığı başarı notu geçerlidir. Ancak seçmeli dersini değiştiren öğrencinin bu dersin öğrenim ücretinin hesaplanmasında seçmeli dersini değiştirmesi bu dersi ilk kez alıyor şeklinde değerlendirilmez. Bu öğrencinin seçmeli dersi kaçıncı kez aldığı dikkate alınarak harç işlemleri yapılacaktır.
+(5) YT (Yeterli) ve YZ (Yetersiz) notu klinik uygulamaların başarı durumlarını belirtmek için kullanılır.

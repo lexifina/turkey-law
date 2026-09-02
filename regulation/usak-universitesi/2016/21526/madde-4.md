@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AKTS (Avrupa Kredi Transfer Sistemi): Bir akademik yılın 60 AKTS kredisine, her yarıyılın da 30 AKTS kredisine veya bir akademik yılda üç yarıyıl eğitim görülmesi halinde bir yarıyılın 20 AKTS kredisine eşit olduğu ilkesiyle, bir dersin başarı ile tamamlanabilmesi için öğrencilerin çalışmalarının tümünün değerlendirmeye alınarak, Fakülte Kurulunca belirlenen ve Senato tarafından kabul edilen ölçü birimini ve öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin ve notlarının bir yükseköğretim kurumundan diğerine transferini sağlayan Avrupa Kredi Transfer Sistemini,
+b) (Değişik:RG-15/5/2024-32547) Multidisipliner Klinik Sorumlusu ve Multidisipliner Klinik Yürütme Kurulu: Multidisipliner Klinik Eğitiminin yürütülüş esaslarını, kapsamını, içeriğini denetleyen ve yürütülme ilkelerini karara bağlayan ve Dekan tarafından görevlendirilen sorumluyu ve kurulunu,
+c) Danışman: Öğrenciye eğitim-öğretim, ders alma işlemleri ve benzeri konularda yardımcı olması için ilgili bölüm/program başkanlığının önerisi üzerine Dekan tarafından görevlendirilmiş öğretim elemanını,
+ç) Dekan: Uşak Üniversitesi Diş Hekimliği Fakültesi Dekanını,
+d) Ders kredisi: Bir yarıyıl/yıl içinde haftada bir saatlik teorik ders veya iki saatlik uygulama, laboratuvar, klinik, atölye ve benzeri çalışmayı ifade eden ölçü birimini,
+e) Ders sorumlusu: Bir yarıyıl/yıl içinde teorik ders veya uygulama, laboratuvar, klinik ve benzeri derslerin sorumlu öğretim üyesini,
+f) Fakülte: Uşak Üniversitesi Diş Hekimliği Fakültesini,
+g) Fakülte Kurulu: Uşak Üniversitesi Diş Hekimliği Fakültesi Fakülte Kurulunu,
+ğ) İntibak Komisyonu: Yönetim Kurulu tarafından belirlenen öğretim üyelerinden oluşan komisyonu,
+h) Ortak zorunlu ders: 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen Atatürk İlkeleri ve İnkılâp Tarihi, Türk Dili ve Yabancı Dil derslerini,
+ı) ÖİDB: Uşak Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+i) Rektör: Uşak Üniversitesi Rektörünü,
+j) Rektörlük: Uşak Üniversitesi Rektörlüğünü,
+k) Seçmeli ders: Bölüm/programda yer alan veya başka bölüm/programlardan alınmasına izin verilen ve Senatoca belirlenen şartlarda öğrencinin ilgi alanı göz önünde bulundurularak seçilen danışmanca onaylanan dersleri,
+l) Senato: Uşak Üniversitesi Senatosunu,
+m) Üniversite: Uşak Üniversitesini,
+n) Üniversite Yönetim Kurulu: Uşak Üniversitesi Yönetim Kurulunu,
+o) Yönetim Kurulu: Uşak Üniversitesi Diş Hekimliği Fakültesi Yönetim Kurulunu,
+ö) Zorunlu ders: Fakülte öğretim programında yer alan, öğrencinin kayıt olup başarmak zorunda olduğu dersleri,
+ifade eder.

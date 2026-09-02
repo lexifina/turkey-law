@@ -1,0 +1,2 @@
+Öğrenci katkı payı/öğrenim ücreti
+MADDE 8 – (1) Öğrenciler her eğitim-öğretim yılında, 2547 sayılı Kanunun 46 ncı maddesi ve diğer ilgili mevzuat hükümleri uyarınca belirlenen miktarlarda katkı payını/öğrenim ücretini akademik takvimde belirlenen sürede ödemekle yükümlüdürler. Süresi içinde katkı payı veya öğrenim ücretini ödemeyenler ve mazeretleri ilgili yönetim kurulunca kabul edilmeyenler o dönem için kayıt yaptıramaz.

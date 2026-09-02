@@ -1,0 +1,2 @@
+Öğrenci danışmanlığı
+MADDE 13 – (1) Üniversiteye kayıt yaptıran her öğrenci için eğitim-öğretim yılı başında Dekanlık tarafından bir danışman görevlendirilir. Engelli öğrenciler için ayrı bir danışman atanır. Danışman mezun oluncaya kadar öğrenciyi izler, eğitim-öğretim çalışmaları ve üniversite yaşamı ile ilgili sorunların çözümünde öğrenciye yardımcı olur. Öğrencinin yarıyılda/yılda izleyeceği dersler ve kayıt yenileme işlemleri danışman onayı ile kesinleşir. Danışmanların görevleri ile ilgili konular Senato tarafından düzenlenir.

@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 12 – (1) Diş Hekimliği Fakültesinde eğitim dili Türkçedir. Ancak ilgili kurulların önerisi, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile bazı derslerde tamamen veya %30 yabancı dilde eğitim-öğretim yapılabilir. İsteyen öğrencilere Diş Hekimliği Fakültesinin uygun görmesi halinde, kontenjan dâhilinde bir yıl süreli yabancı dil hazırlık programı uygulanır. Hazırlık programı süresi, öğretim süresi sütununda gösterilen yıllara dâhil değildir.
