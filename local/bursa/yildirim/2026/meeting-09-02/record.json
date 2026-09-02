@@ -1,0 +1,24 @@
+{
+  "number": "meeting-09-02",
+  "number_as_published": "meeting-09-02",
+  "year": 2026,
+  "title": "02/09/2026 Tarihli Meclis Karar Özeti",
+  "decision_date": "2026-09-02",
+  "source": "https://www.yildirim.bel.tr/meclis-kararlari/2026.html",
+  "official_document": "https://www.yildirim.bel.tr/tema/belediye/uploads/decisions/02-09-2026-tarihli-meclis-karar-ozeti.pdf",
+  "source_sha256": "570a7a051cd195ee508bb5193126af7d04085529fc3543a62c0d0339312e3b70",
+  "issuer": "Yıldırım Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-09-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02/09/2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02/09/2026 Tarihli Meclis Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "official_page": "https://www.yildirim.bel.tr/meclis-kararlari-details/02-09-2026-tarihli-meclis-karar-ozeti.html"
+}
