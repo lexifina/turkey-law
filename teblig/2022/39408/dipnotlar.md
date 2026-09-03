@@ -1,0 +1,1 @@
+[1] 28/2/2026 tarihli ve 33182 sayılı Resmî Gazete’nin 1 inci maddesiyle bu Tebliğin adı “Aracı Kurumlar Ve Portföy Yönetim Şirketleri Tarafından Kullanılacak Uzaktan Kimlik Tespiti Yöntemlerine ve Elektronik Ortamda Sözleşme İlişkisinin Kurulmasına İlişkin Tebliğ (III-42.1)” iken metne işlendiği şekilde değiştirilmiştir.

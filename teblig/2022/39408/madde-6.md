@@ -1,0 +1,8 @@
+Uzaktan kimlik tespitini yapacak personel ve çalışma ortamı
+MADDE 6 – (1) Uzaktan kimlik tespitinin görüntülü görüşme aşaması bu konuda eğitim almış personel tarafından gerçekleştirilir.
+(2) Personelin, kimlik tespitinde kullanılabilecek belgelerin özelliklerini ve bu belgeler için uygulanan geçerli doğrulama yöntemlerini öğrenmesi ve dolandırıcılık veya sahtecilik teşkil edebilecek eylemlere, bu Tebliğde ve ilgili diğer mevzuatta yer alan yükümlülüklere ilişkin bilgi sahibi olması sağlanır.
+(3) Personelin, uzaktan kimlik tespiti sürecine ilişkin yılda en az bir defa ve her bir güncelleme sonrasında kişisel verilerin korunması mevzuatı da dâhil olmak üzere eğitim alması sağlanır.
+(4) (Değişik:RG-28/2/2026-33182) Personelin; kişinin aracı kurum, portföy yönetim şirketi veya kripto varlık hizmet sağlayıcı müşterisi olma veya hizmet ve faaliyetlerinden yararlanma isteğini aracı kurumdan, portföy yönetim şirketinden veya kripto varlık hizmet sağlayıcıdan kendi iradesiyle talep ettiğine şüphe bırakmayacak şekilde karar verebilmesi konusunda eğitim alması sağlanır.
+(5) Uzaktan kimlik tespiti sürecinde personelin, yaşanabilecek güvenlik zafiyetlerinin ya da suistimallerin engellenmesine yönelik gerekli tedbirlerin alındığı, erişimi sınırlandırılmış ayrı alanlarda çalışması sağlanır.
+(6) (Değişik:RG-28/2/2026-33182) Kişiye güven açısından personelin aracı kurum, portföy yönetim şirketi veya kripto varlık hizmet sağlayıcı adına çalıştığını yansıtacak şekilde uygun bir ortam oluşturulması veya yöntemler kullanılması sağlanır.
+(7) (Değişik:RG-28/2/2026-33182) Aracı kurum, portföy yönetim şirketi veya kripto varlık hizmet sağlayıcı tarafından engelli kişilere hizmet verebilmek amacıyla gerekli önlemler alınır.

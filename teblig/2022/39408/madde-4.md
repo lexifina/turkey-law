@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Açık rıza: 6698 sayılı Kanunda tanımlanan açık rızayı,
+b) Aracı kurum: 6362 sayılı Kanunun 37 nci maddesinin birinci fıkrasındaki yatırım hizmet ve faaliyetlerinden mezkur fıkranın (a), (b), (c), (e) ve (f) bentlerinde yer alanları münhasıran yapmak üzere Kurul tarafından yetkilendirilen yatırım kuruluşunu,
+c) Belge Kayıt Tebliği: 1/8/2015 tarihli ve 29432 sayılı Resmî Gazete’de yayımlanan Yatırım Hizmet ve Faaliyetleri ile Yan Hizmetlere İlişkin Belge ve Kayıt Düzeni Hakkında Tebliğ (III-45.1)’i,
+ç) Beyaz ışık: Gün ışığı gibi görünürde renksiz olan ışığı,
+d) Güvenlik öğeleri: Kimlik belgesinde yer alan giyoş, gökkuşağı baskı, optik değişken mürekkep, gizli görüntü, hologram ve mikro yazıyı,
+e) Kimlik belgesi: 3/12/2019 tarihli ve 30967 sayılı Resmî Gazete’de yayımlanan Türkiye Cumhuriyeti Kimlik Kartı Yönetmeliğinde tanımlanan kimlik kartını,
+f) Kimlik Paylaşımı Sistemi: 20/8/2020 tarihli ve 2837 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Kimlik Paylaşımı Sistemi Yönetmeliğinde tanımlanan Kimlik Paylaşımı Sistemini,
+g) (Değişik:RG-3/9/2026-33359) Kişi: Uzaktan kimlik tespiti yapılacak gerçek kişiyi, gerçek kişi taciri veya tüzel kişiyi temsile yetkili gerçek kişiyi ya da gerçek kişileri,
+ğ) Kurul: Sermaye Piyasası Kurulunu,
+h) MRZ: Optik karakter okuma yöntemlerini kullanarak makine okuması için biçimlendirilmiş, zorunlu ve isteğe bağlı verileri kapsayan, kimlik belgesi üzerinde yer alan sabit boyutlu alanı,
+ı) (Değişik:RG-28/2/2026-33182) Personel: Uzaktan kimlik tespiti sürecini yönetmek amacıyla aracı kurum, portföy yönetim şirketi veya kripto varlık hizmet sağlayıcı tarafından görevlendirilmiş kişiyi,
+i) Portföy Yönetim Şirketi: 6362 sayılı Kanunun 55 inci maddesi hükümleri çerçevesinde faaliyet gösteren, ana faaliyet konusu yatırım fonlarının kurulması ve yönetimi olan sermaye piyasası kurumunu,
+j) SMS OTP: Elektronik haberleşme işletmecilerinin sunduğu kısa mesaj servis aracılığıyla iletilen tek kullanımlık parolayı,
+k) Yakın alan iletişimi: Elektronik cihazların güvenilir, temassız işlem yapabilmesini ve sayısal içeriğe ve/veya elektronik cihazlara erişimini mümkün kılan, veri okuma ve yazmakta kullanılan kısa menzilli kablosuz teknolojiyi,
+l) (Ek:RG-28/2/2026-33182) Kripto varlık hizmet sağlayıcı: Platformları, kripto varlık saklama hizmeti sağlayan kuruluşları ve kripto varlıkların ilk satış ya da dağıtımı dâhil olmak üzere kripto varlıklarla ilgili olarak hizmet sağlamak üzere belirlenmiş diğer kuruluşları,
+m) (Ek:RG-3/9/2026-33359) Gerçek faydalanıcı: 10/12/2007 tarihli ve 2007/13012 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelikte tanımlanan gerçek faydalanıcıyı,
+n) (Ek:RG-3/9/2026-33359) Merkezi Sicil Kayıt Sistemi (MERSİS): 19/12/2012 tarihli ve 2012/4093 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ticaret Sicili Yönetmeliğinde tanımlanan Merkezi Sicil Kayıt Sistemini,
+o) (Ek:RG-3/9/2026-33359) Ticaret Sicili Gazetesi: Ticaret Sicili Yönetmeliğinde tanımlanan Türkiye Ticaret Sicili Gazetesini,
+ö) (Ek:RG-3/9/2026-33359) Tüzel kişi: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununda düzenlenen ticaret siciline kayıtlı ticaret şirketlerini,
+ifade eder.
