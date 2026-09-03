@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/924",
+  "case_number": "2025/1481",
+  "decision_date": "2026-09-03",
+  "title": "2026/924 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/zwd3on.pdf",
+  "source_sha256": "2f1e928cedcd7159024f66bbfe711a1c99d971ce6364ab8aa51a3a1cb37f7872",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
