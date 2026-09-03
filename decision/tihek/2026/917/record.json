@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/917",
+  "case_number": "2025/1759",
+  "decision_date": "2026-09-03",
+  "title": "2026/917 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/4kb2gb.pdf",
+  "source_sha256": "c845a7c7b6e251f808801b883fba43b44f30bb06adaea62103dd28830cd5f914",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
