@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/926",
+  "case_number": "2025/1945",
+  "decision_date": "2026-09-03",
+  "title": "2026/926 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/7tc9u2.pdf",
+  "source_sha256": "edd64d8956550987c3eb436cb70e378ae8cde209c4386c9419070e0866b6c45e",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
