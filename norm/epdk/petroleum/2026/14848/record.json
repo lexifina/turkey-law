@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "14848",
+  "decision_date": "2026-09-03",
+  "title": "Anadolu Karasal LPG Depolama Nakliyat Sanayi ve Ticaret Anonim Şirketi’nin; LPGDPO/5572/15996 sayılı LPG Depolama Lisansı kapsamında Dağyaka Mahallesi 2010. Sokak No:29 Kahramankazan/ANKARA adresinde faaliyette bulunan LPG Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2026-09-04",
+  "resmi_gazete_number": "33360",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=isvzpcnVNuA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=isvzpcnVNuA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tjtzgrt38m0="
+  ],
+  "source_sha256": "5046ab06c1413a376368e507194014f7bf6255b5d3805d419df0129211212f7e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-09-03",
+  "law_text_complete": true
+}
