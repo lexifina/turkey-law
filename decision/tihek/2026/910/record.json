@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/910",
+  "case_number": "2025/1345",
+  "decision_date": "2026-09-03",
+  "title": "2026/910 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/ulmwse.pdf",
+  "source_sha256": "1161c6c0d3baa9b5fdee737fa0d6a2804fe0d5eba60b286cbc747333c42e410c",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
