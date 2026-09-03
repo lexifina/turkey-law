@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/927",
+  "case_number": "2025/1487",
+  "decision_date": "2026-09-03",
+  "title": "2026/927 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/jnsvxp.pdf",
+  "source_sha256": "c839371f9a187438f5f7112a7095e3f72d71295fb6c05f9424c4f80122cac5a9",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
