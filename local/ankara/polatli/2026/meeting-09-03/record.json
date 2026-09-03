@@ -1,0 +1,25 @@
+{
+  "number": "meeting-09-03",
+  "number_as_published": "meeting-09-03",
+  "year": 2026,
+  "title": "03 EYLÜL 2026 BELEDİYE MECLİS KARARLARI",
+  "decision_date": "2026-09-03",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=1",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/jdTkuGa4cUeaCKE.pdf",
+  "source_sha256": "153712abd5e47c3ef626fcf65d237782b6198f52df7a5c0e2462f296f9edb289",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-09-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03 EYLÜL 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03 EYLÜL 2026 BELEDİYE MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "03-eylül-2026-belediye-meclisi-115,-116,-117,-118,-119,-120,-121,-122,-123,-124-ve-125-sayılı-meclis-kararları.pdf",
+  "list_date": "2026-09-03"
+}
