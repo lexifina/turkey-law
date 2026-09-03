@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/911",
+  "case_number": "2025/1347",
+  "decision_date": "2026-09-03",
+  "title": "2026/911 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/kai0uj.pdf",
+  "source_sha256": "52de2f00e5d8a0362706ec7f4d140450d0a87c1b45fa03fdc514b8e70c9c8477",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
