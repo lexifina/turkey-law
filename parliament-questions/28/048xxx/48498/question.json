@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/48498",
+  "submitted": "2026-09-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa ADIGÜZEL",
+  "province": "Ordu",
+  "summary": "MESEM kapsamında çalışan öğrencilerin çalışma koşullarına ve gerçekleşen iş kazalarına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/dae22e3b-1d14-4c8b-adf9-01a07ac5c39a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f203515fe1120ceedbfaae50ae288bc3dec89b3b1ea032e9c1dd3f1e66127b4b",
+  "in_force": "2026-09-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
