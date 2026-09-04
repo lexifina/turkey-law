@@ -1,0 +1,4 @@
+Hesap ve kimlik bilgilerinin başka kişilere kullandırılması ile ilgili uyarı yükümlülüğü
+MADDE 81 – (1) Ödeme hizmeti sağlayıcıları; şube, temsilci ve benzeri bağlı birimleri nezdinde, 5549 sayılı Kanunun 15 inci maddesi kapsamında kendi adına ve fakat başkası hesabına hareket eden kimselere sorumluluklarını hatırlatmak amacıyla gerekli tedbirlerin alınmasını, bu kapsamda gerekli duyuruların çalışma yeri içerisinde müşteriler tarafından açıkça görülebilecek ve rahatlıkla okunabilecek şekilde ilan edilmesini sağlamakla yükümlüdür.
+(2) Çevrim içi sunulan hizmetler ile ilgili olarak da kuruluşun internet sayfasında, ana sayfada yer alacak, açıkça görülebilecek ve rahatlıkla okunabilecek şekilde birinci fıkradaki uyarının yapılması zorunludur.
+(3) Çalışma yerlerine ilişkin şartlar, mahiyetine uygun düştüğü ölçüde, şube, temsilci ve benzeri bağlı birimlerin internet siteleri ve mobil uygulamalar gibi çevrim içi ortamlar bakımından da aranacaktır.

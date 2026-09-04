@@ -1,0 +1,11 @@
+Elektronik paranın geri ödenmesi
+MADDE 6 – (1) Müşteri, elektronik paranın bir kısmının veya tamamının geri ödenmesini talep edebilir.
+(2) Elektronik para ihraç eden kuruluş, diğer kanunların verdiği yetkiler ve koyduğu yükümlülükler saklı kalmak kaydıyla, müşterinin talebi üzerine elektronik paranın karşılığı kadar fonun geri ödenmesine ilişkin işlemleri gecikmeksizin ve her halükarda talebi almasının ardından en geç ertesi iş günü sonuna kadar yapmakla yükümlüdür. Geri ödeme, müşterinin tercihine göre elektronik paranın banknot, madeni para, kaydi para veya başka bir kuruluş tarafından ihraç edilmiş elektronik paraya çevrilmesi suretiyle gerçekleştirilir.
+(3) Elektronik para ihraç eden kuruluş ile müşteri arasındaki sözleşmede geri ödeme koşulları, ödenecek ücretler de dâhil olmak üzere açıkça kararlaştırılır. Sözleşmede elektronik para için bir yıldan az olmamak üzere son kullanma tarihi kararlaştırılabilir. Sözleşme imzalanmadan önce müşteri, elektronik para ihraç eden kuruluş tarafından sözleşme koşulları hakkında 47 nci ve 48 inci maddelere uygun olarak bilgilendirilir.
+(4) Elektronik para ihraç eden kuruluş geri ödeme işlemi için, sözleşmede belirtilmiş olmak kaydıyla;
+a) Sözleşmenin sona ermesinden önce talep edilmesi halinde,
+b) Sözleşmede son kullanma tarihinin kararlaştırılması ve elektronik para kullanıcısının bu tarihten önce talepte bulunması halinde,
+c) Son kullanma tarihinden itibaren bir yıldan uzun bir süre geçtikten sonra talep edilmesi halinde,
+bu işlemin maliyetiyle orantılı bir ücret talep edebilir.
+(5) Müşterinin tüketici olmadığı hallerde, geri ödeme koşulları taraflar arasında serbestçe belirlenebilir.
+(6) Elektronik para karşılığı fonun kredi kartı ile ödendiği durumlarda, bu madde uyarınca elektronik paranın geri ödenmesi sadece aynı kredi kartı hesabına olacak şekilde yapılabilir. Elektronik para karşılığı fonun 4 üncü maddenin birinci fıkrasının (d) bendi kapsamında, bilişim veya elektronik haberleşme işletmecisinin düzenlediği faturaya yansıtılması suretiyle ödendiği durumlarda ise bu madde uyarınca elektronik paranın geri ödenmesi ancak faturaya yansıtılarak yapılabilir. Geri ödemeden önce kredi kartının veya hattın iptal edilmiş olduğu durumlarda, elektronik paranın geri ödenmesi fon yatıranın adına açılmış bir ödeme hesabına da yapılabilir.

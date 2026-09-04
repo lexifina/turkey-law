@@ -1,0 +1,4 @@
+Sözleşme öncesi bilgilendirme
+MADDE 42 – (1) Ödeme hizmeti sağlayıcısı, çerçeve sözleşme ilişkisi kurulmadan önce müşteriyi, 43 üncü maddede belirtilen sözleşme şartlarına ilişkin bilgilendirir.
+(2) Taslak sözleşmenin verilmesi veya ödeme hizmeti sağlayıcısının internet sitesinde yayımlanması sözleşme öncesi bilgilendirme yerine geçer. Ödeme hizmeti sağlayıcısı, uzaktan iletişim aracı ile kurulacak çerçeve sözleşme kapsamında ödeme işlemi gerçekleştirmesi durumunda, internet sitesinde 43 üncü maddede yer alan hususları yayımlamak zorundadır. Bu fıkra uyarınca 43 üncü maddenin birinci fıkrasının (ğ) bendinde yer alan hususların internet sitesinde yayımlanması 18 inci maddenin on beşinci fıkrasının (ç) bendine aykırılık oluşturmaz.
+(3) Bu madde kapsamında yapılacak bilgilendirme Bankaca 31 inci madde uyarınca çıkarılacak düzenlemelere uygun şekilde yapılır.

@@ -1,0 +1,3 @@
+Yetkili mercilerle iş birliği
+MADDE 78 – (1) Yabancı ülke kanunlarına göre denetime yetkili ve Banka muadili mercilerin, kendi ülkelerinde faaliyet gösteren ödeme kuruluşu ve elektronik para kuruluşlarının Türkiye'deki ortaklıklarında denetim yapma ve bilgi talepleri ile kuruluşların yurt dışındaki şube veya ortaklıklarının konsolidasyon kapsamında yer alan bilgilerine ilişkin taleplerinin karşılıklılık ilkesi de dikkate alınarak yerine getirilmesi Bankanın iznine tâbidir.
+(2) Yurt içi ve yurt dışı yetkili mercilerle denetime, bilgi paylaşımına ve diğer hususlara dair yapılacak iş birliğine ilişkin ilave usul ve esaslar ilgili tarafların görüşü alınmak suretiyle Bankaca belirlenebilir.

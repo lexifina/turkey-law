@@ -1,0 +1,4 @@
+Tüketici haklarını bildirme yükümlülüğü
+MADDE 48 – (1) Ödeme hizmeti sağlayıcısı, Kanun kapsamına giren işlemlerle ilgili olarak tüketicilerin haklarını içeren, açık ve kolay anlaşılır bir dilin kullanıldığı, rahatlıkla okunabilecek bir şekilde tasarlanmış elektronik veya fiziksel bir bilgi formu hazırlamakla yükümlüdür.
+(2) Birinci fıkrada belirtilen bilgi formu tüketicilerin Kanun kapsamına giren işlemlerle ilgili haklarına ilave olarak, bu işlemleri yapmak için kullanabilecekleri alternatif erişim kanalları ile yenilikçi ödeme yöntemlerine, bu işlemlerle ilgili güvenlik ve koruma önlemlerine, ücretlendirmenin adil ve şeffaf bir şekilde yapılması gerekliliğine ve şikâyet ve müracaat hakları ile ilgili alternatif yöntemlere ilişkin bilgilendirme içerir.
+(3) Ödeme hizmeti sağlayıcısı, engelli kişilerin bilgi formlarından yararlanabilmeleri veya bilgi formlarında yer alan hususlara farklı yöntemlerle ulaşabilmeleri için mümkün olan çalışmaları yapar.

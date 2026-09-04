@@ -1,0 +1,3 @@
+Bildirimler
+MADDE 22 – (1) Kuruluş adresinde meydana gelen değişikliklerin kuruluş tarafından kuruluşun yeni adresine fiilen taşınmasını müteakip beş iş günü içinde Bankaya bildirilmesi zorunludur. (Değişik cümle:RG-7/10/2023-32332) Kuruluş tarafından yapılacak unvan değişiklikleri ise değişikliğe ilişkin kuruluş içindeki süreçlerin tamamlanmasının ardından yirmi iş günü içinde Bankaya bildirilir.
+(2) Kuruluş, Kanunun 17 nci maddesinin birinci fıkrasının (a) ve (b) bentlerinde belirtilen durumlar için tüzel kişiliğin sona erdiği, (c) bendinde belirtilen durum için ise sürenin sona erdiği tarihi izleyen bir hafta içinde Bankaya bildirimde bulunur.

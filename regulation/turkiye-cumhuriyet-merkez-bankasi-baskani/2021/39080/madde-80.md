@@ -1,0 +1,3 @@
+İlave bilgi ve belge talebi
+MADDE 80 – (1) Bu Yönetmelik kapsamında Bankaya yapılacak başvurularda, Banka gerekli göreceği ilave bilgi ve belgeleri talep edebilir. Banka tarafından talep edilen ilave bilgi ve belgelerin Bankaya ulaşmasına kadar geçen süre Kanunun 15 inci maddesinin dördüncü fıkrasında yer alan altı aylık sürenin hesaplanmasında dikkate alınmaz. Farklı olarak alınan bilgi ve belgeler çerçevesinde Banka işlem tesis edebilir.
+(2) Banka, bu Yönetmelik kapsamında Bankaya yapılacak başvurularda bulunması gereken bilgi ve belgeleri farklı kapsam ve içeriklerde talep etmeye yetkilidir.

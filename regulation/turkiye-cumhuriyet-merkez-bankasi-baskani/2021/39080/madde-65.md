@@ -1,0 +1,4 @@
+Gönderilen ve alınan tutarlar
+MADDE 65 – (1) Gönderenin ödeme hizmeti sağlayıcısı ödeme işlemi kapsamında aktardığı tutar üzerinden herhangi bir kesinti yapamaz. Aktarılan tutar sonrası ödeme hesabında kalan bakiye, gönderenden alınacak işlem ücretinden az ise gönderenin ödeme hizmeti sağlayıcısı işlemi reddetmeye yetkilidir.
+(2) Alıcı ile alıcının ödeme hizmeti sağlayıcısı, tahsil edilecek ücretlerin ödeme işlemi tutarından düşülmesini kararlaştırabilir. Bu durumda, alıcıya yapılacak bildirimde ödeme işleminin tam tutarı ve ücretler ayrı ayrı belirtilir.
+(3) İkinci fıkra hükmü saklı kalmak kaydıyla, gönderen tarafından başlatılan ödeme işlemlerinde gönderenin ödeme hizmeti sağlayıcısı, alıcı tarafından veya alıcı aracılığıyla başlatılan ödeme işlemlerinde ise alıcının ödeme hizmeti sağlayıcısı ödeme işleminin tam tutarının alıcının eline geçmesinden sorumludur.

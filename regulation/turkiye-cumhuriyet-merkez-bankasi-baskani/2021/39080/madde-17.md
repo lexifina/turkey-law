@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Şube, Temsilci, Dış Hizmet Alımı ve Bildirimler
+Şube açma
+MADDE 17 – (1) Kuruluş, bu Yönetmelikte öngörülen koşulları yerine getirmesi kaydıyla, faaliyetlerini şube açmak suretiyle yerine getirebilir. Özkaynağı 33 üncü maddenin birinci fıkrasında belirtilen seviyede bulunmayan kuruluş yeni şube açamaz.
+(2) Açılan şubenin adres ve iletişim bilgileri kuruluşun internet sitesinde yayımlanır. Kuruluş, şubelerine ilişkin listenin güncel tutulmasından sorumludur ve şube listesini Birlik tarafından belirlenen usul ve esaslara göre Birliğe iletir. Kuruluş bazında güncel şube listeleri, gerekli bilgilerle birlikte Birlik tarafından Birliğin internet sitesinde yayımlanır.
+(3) Kuruluşun yurt dışında şube açabilmesi için şube açmayı planladığı ülke mevzuatı ve uygulamalarında, Bankanın denetim ve gözetim faaliyetleri kapsamında ihtiyaç duyduğu bilgi ve belgeleri edinmesine ve denetim yapmasına ilişkin herhangi bir engel bulunmaması şarttır.
+(4) Kuruluşun, yurt dışı şubesinin faaliyete başlamasını ya da faaliyetinin sona ermesini izleyen bir ay içinde Bankaya bildirimde bulunması zorunludur. Banka, mevzuata aykırı bir durum tespit etmesi veya kuruluşun faaliyetlerinin kesintisiz ve sorunsuz bir şekilde sürdürülmesini tehdit ettiğine karar vermesi durumunda kuruluşun yurt dışı şubesini kapatmasını ve belirli ülkelerde faaliyet gösterilmemesini istemeye yetkilidir.
+(5) Kuruluş, şubenin kuruluş adına ve hesabına hizmet verdiğinin müşterilere bildirilmesini temin eder.
+(6) Banka, kuruluşun faaliyetleri esnasında şube kullanmasının kuruluşun faaliyetlerinin sorunsuz bir şekilde sürdürülmesi açısından risk oluşturduğunu veya kuruluşun şubeleri yönetme konusunda sorun yaşadığını tespit etmesi durumunda, kuruluşun şube veya şubeler aracılığıyla faaliyet sunmayı sonlandırmasını istemeye yetkilidir.

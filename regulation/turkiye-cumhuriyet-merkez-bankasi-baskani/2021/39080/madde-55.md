@@ -1,0 +1,3 @@
+İşlem tutarının önceden bilinmediği kart tabanlı ödeme işlemleri
+MADDE 55 – (1) Alıcı tarafından veya alıcı aracılığıyla başlatılan kart tabanlı ödeme işlemlerinde, gönderenin ödeme işlemine onay verdiği anda işleme ilişkin tutarın tam olarak bilinmediği durumlarda, gönderenin ödeme hizmeti sağlayıcısı ödeme hesabında bulunan fonu, gönderenin bloke edilecek tam tutara ilişkin onay verdiği durumlarda bloke edebilir.
+(2) Gönderenin ödeme hizmeti sağlayıcısı, gönderenin ödeme hesabındaki blokeli fonu, ödeme işleminin tam tutarına ilişkin bilginin ulaşmasından hemen sonra gecikmeksizin ve en geç ödeme emri ulaşır ulaşmaz serbest bırakır.

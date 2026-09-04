@@ -1,0 +1,32 @@
+Sözleşme şartları
+MADDE 43 – (1) Çerçeve sözleşmede;
+a) Ödeme hizmeti sağlayıcısının unvanına, merkez adresine ve varsa ödeme hizmetinin verildiği şube veya temsilcinin adresine, elektronik posta adresi dahil iletişim bilgilerine,
+b) Sunulacak ödeme hizmetinin kapsamına ve ödemenin gerçekleştirileceği para birimine,
+c) Ödeme işleminin başlatılması veya gerçekleştirilebilmesi için müşteri tarafından sunulması gereken bilgilere veya bu bilgilere ulaşılabilmesi için gerekli kimlik tanımlayıcısına,
+ç) Ödeme işleminin başlatılması veya gerçekleştirilmesi için onay verilmesine ve bu onayın geri alınmasına ilişkin 52 nci maddede öngörülen yöntem hakkında bilgiye,
+d) Ödeme emrinin 58 inci maddede öngörülen alınma zamanına ve varsa ödeme hizmeti sağlayıcısı tarafından belirlenen gün içinde ödeme emrinin en son kabul edileceği zamana,
+e) Ödeme işleminin azami tamamlanma süresine,
+f) 53 üncü madde uyarınca ilgili ödeme aracı için harcama limiti öngörülmüş olup olmadığına ilişkin açıklamaya,
+g) Müşteri tarafından ödeme hizmeti sağlayıcısına ödenmesi gereken ücretlerin dökümüne,
+ğ) Ödeme hizmetiyle ilgili olarak uygulanacak döviz kuru veya referans döviz kuru ya da referans döviz kurunu hesaplama yöntemine ilişkin bilgiye,
+h) Kararlaştırılması halinde, uygulanacak referans döviz kurundaki değişikliklerin derhal geçerli olacağına,
+ı) Müşterinin cihazının taşıması gereken teknik özellikler de dahil olmak üzere taraflar arasında bu Yönetmelik kapsamında bilgi ve bildirimlerin iletilmesinde kullanılması kararlaştırılan iletişim araçlarına,
+i) Bu Yönetmelik kapsamında müşteriye yapılacak bilgi ve bildirimlerin iletilme yöntemi ve sıklığına ilişkin açıklamaya,
+j) Müşterinin sözleşmedeki bilgi ve koşullara erişim hakkına ilişkin açıklamaya,
+k) Bir ödeme aracına bağlı ödeme işlemlerinde müşterinin ödeme aracını güvenli olarak muhafaza etmesi için alması gereken önlemlere ve ödeme aracının kaybolması, çalınması veya haksız kullanımı durumunda ödeme hizmeti sağlayıcısının bilgilendirilmesinde izlenecek yola ilişkin açıklamalara,
+l) Kararlaştırılması halinde ödeme hizmeti sağlayıcısının 53 üncü maddeye uygun olarak ödeme aracını kullanıma kapatma hakkını kullanma koşullarına,
+m) 54 üncü madde uyarınca tutar bilgisi dahil gönderenin yetkilendirilmemiş ödeme işlemlerine ilişkin sorumluluğu hakkında açıklamaya,
+n) Müşterinin hatalı veya yetkisiz bir ödeme işlemini 54 üncü madde uyarınca ödeme hizmeti sağlayıcısına bildirmesi gereken süre ve bildirimin şekli ile ödeme hizmeti sağlayıcısının 54 üncü madde uyarınca yetkisiz ödeme işlemlerine ilişkin sorumluluğuna,
+o) Ödeme hizmeti sağlayıcısının ödeme işlemlerinin 70 inci maddeye uygun olarak gerçekleştirilmesi ile ilgili yükümlülüğüne ve ödeme işlemlerinin hiç veya gereği gibi gerçekleştirilmemesi durumunda sorumluluğuna ilişkin bilgiye,
+ö) 56 ncı maddeye uygun olarak yapılacak geri ödemenin koşullarına,
+p) Kararlaştırılması halinde müşterinin 44 üncü madde uyarınca, sözleşme şartlarına ilişkin herhangi bir değişikliği kabul etmediğini bu değişikliğin belirlenen yürürlük tarihinden önce bildirmemesi halinde değişikliği kabul etmiş sayılacağına,
+r) Sözleşmenin süresine,
+s) Sözleşmenin sona erme ve fesih şartlarına,
+ş) Taraflar arasındaki uyuşmazlığın çözümünde yetkili mercilere,
+ilişkin hususlara yer verilir.
+(2) Uzaktan iletişim aracı kullanılarak kurulan çerçeve sözleşmede birinci fıkrada yer alan hususlara ilave olarak;
+a) Kullanılan uzaktan iletişim aracının ne olduğuna,
+b) Uzaktan iletişim aracının kullanımına ilişkin ve kullanımı esnasında herhangi bir eksiklik veya aksaklık yaşanması durumunda tarafların hak ve yükümlülüklerine,
+c) Uzaktan iletişim aracı kapsamında elde edilen bilgi, belge ve kayıtların nasıl ve ne kadar süre saklanacağına,
+ç) (c) bendindeki bilgi, belge ve kayıtlara ilişkin müşterinin ve ödeme hizmeti sağlayıcısının hak ve yükümlülüklerine,
+ilişkin hususlara yer verilir.
