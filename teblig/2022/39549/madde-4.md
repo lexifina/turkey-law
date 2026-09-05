@@ -1,0 +1,15 @@
+Sürekli bilgi verme zorunluluğu getirilenler ve bildirilecek bilgiler
+MADDE 4- (1) Taşınır ve taşınmazlar ile mal ve hizmetlerin alınması, satılması veya kiralanmasının temin edilmesine yönelik olarak verilen ilanların yayımlanmasına aracılık eden aracı hizmet sağlayıcıları, (Mülga ibare:RG-5/9/2026-33361) takvim yılının birer aylık süreleri içerisinde gerçekleştirmiş oldukları söz konusu işlemlere ilişkin olarak;
+a) Verilen hizmetin sağlandığı internet adres veya adreslerini,
+b) Hizmet verilen gerçek ya da tüzel kişilere ait ad soyad/unvan, TCKN/YKN/VKN (Değişik ibare:RG-5/9/2026-33361) gibi mükellefiyet tespitine ilişkin bilgileri,
+c) Hizmet verilenler adına gerçekleştirilen taşınır, taşınmaz, mal ve hizmet satış/kiralama işlemlerine ilişkin her bir tahsilat veya satış işlemi tutarı ve tarihi ile tahsil edilen tutarların aracılık hizmeti verilenlere ödenmesine ilişkin banka hesap bilgilerini,[1]
+ç) (Değişik:RG-5/9/2026-33361) Hizmet verilenler adına gerçekleştirilen taşınır, taşınmaz, mal ve hizmet satış/kiralama işlemlerine ilişkin ilan bilgilerini,
+elektronik ortamda bu Tebliğin 5 inci maddesinde açıklanan yöntemle Başkanlık sistemlerine bildirmek zorundadır.
+(2) (Ek:RG-5/9/2026-33361)[2] Taşınır ve taşınmazlar ile mal ve hizmetlerin alınması, satılması veya kiralanmasının temin edilmesine yönelik olarak verilen ilanların yayımlanmasına imkân sağlayan yer sağlayıcılar ile sosyal ağ sağlayıcılar takvim yılının birer aylık süreleri içerisinde gerçekleştirmiş oldukları söz konusu işlemlere ilişkin olarak;
+a) Verilen hizmetin sağlandığı internet adres veya adreslerini,
+b) Hizmet verilen gerçek ya da tüzel kişilere ait ad soyad/unvan, TCKN/YKN/VKN gibi mükellefiyet tespitine ilişkin bilgileri,
+c) Hizmet verilenler adına gerçekleştirilen taşınır, taşınmaz, mal ve hizmet satış/kiralama işlemlerine ilişkin ilan bilgilerini,
+elektronik ortamda 5 inci maddede açıklanan yöntemle Başkanlık sistemlerine bildirmek zorundadır.
+(3) Birinci fıkrada sayılanların, ödemelere ilişkin olarak satıcının/kiralayanın ticari temsilcisi olması sebebiyle ödemeye aracılık etmesi veya ödeme hizmetini bir dış hizmet olarak banka veya ödeme kuruluşundan alması bilgi verme yükümlülüğünü etkilemeyecektir.1
+(4) Aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcılar üzerinden ilan verenler, verdikleri ilanlara yönelik olarak söz konusu sağlayıcıların bu madde kapsamında Başkanlığa bildirmek zorunda olduğu bilgileri bunlara vermek zorundadırlar. Verilen ilanın konusu olan taşınır, taşınmaz, mal veya hizmetlerin mülkiyetinin ilan veren dışındaki bir gerçek veya tüzel kişiye ait olması durumunda, mülkiyet sahibine ilişkin bilgilerin de aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcılara bildirilmesi zorunludur.
+(5) Aracı hizmet sağlayıcıları, sosyal ağ sağlayıcıları ile yer sağlayıcılar kendilerine (Değişik ibare:RG-5/9/2026-33361) dördüncü fıkra kapsamında bildirimde bulunmayan ilan verenlere ilişkin bilgileri bu Tebliğin 5 inci maddesinde belirtilen yöntemle Başkanlığa bildirecektir.

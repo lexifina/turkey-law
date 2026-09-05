@@ -1,0 +1,2 @@
+[1] Danıştay Üçüncü Dairesinin 29/4/2024 tarihli ve E.:2023/3109; K.:2024/2440 sayılı kararı ile bu bentler ve bu fıkralar “yer sağlayıcı” davacı yönünden iptal edilmiştir. Daha sonra VDDK’nın 22/4/2026 tarihli ve E.:2024/990; K.:2026/280 sayılı kararı ile temyiz isteminin reddine karar verilmiş olup, anılan karar kesinleşmiştir.
+[2] 5/9/2026 tarihli ve 33361 sayılı Resmî Gazete’de yayımlanan değişiklik ile maddeye birinci fıkradan sonra gelmek üzere bu fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
