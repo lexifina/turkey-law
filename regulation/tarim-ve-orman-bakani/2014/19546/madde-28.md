@@ -1,0 +1,2 @@
+Ramsar alanlarının sınırlarının tespiti ve ilanı
+MADDE 28 – (1) Ramsar Alanı (Uluslararası öneme haiz sulak alan): Bakanlık taşra teşkilatı tarafından uluslararası öneme haiz sulak alan niteliklerinden en az bir kritere sahip olduğuna karar verilen sulak alan hakkında, mahalli komisyonda değerlendirme yapılır ve karar verilmek üzere dosya Bakanlığa gönderilir. Bakanlıkça, ilgili bakanlıklar ve kuruluşların da görüşleri alındıktan sonra Ulusal Komisyona sunulur, Ulusal Komisyonun uygun görüşü alındıktan sonra Ramsar listesine dâhil edilmek üzere Resmî Gazete’de yayımlanır.

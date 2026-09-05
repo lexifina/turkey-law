@@ -1,0 +1,8 @@
+Yönetim planlarının hazırlanması ve uygulanması
+MADDE 29 – (1) (Değişik:RG-23/10/2019-30927) Bakanlıkça, Ramsar Sözleşmesi Sulak Alan Yönetim Planı Rehberi esas alınarak ulusal öneme haiz sulak alanlar ve Ramsar Alanlarında yönetim planı yapılır veya yaptırılır. İhtiyaç halinde mahalli öneme haiz sulak alanlar ve diğer sulak alanlarda Mahalli Komisyonlar vasıtasıyla Ramsar Sözleşmesi Sulak Alan Yönetim Planı Rehberi esas alınarak yönetim planı yapılabilir veya yaptırılabilir.
+(2) Yönetim planlarının hazırlanması sürecine, ilgili bakanlıkların, valiliklerin, yerel yönetimlerin, gönüllü kuruluşların ve bilim adamlarının katılımı sağlanır.
+(3) Yönetim planları ile kara avcılığı ve su ürünleri avcılığına ilişkin özel düzenlemeler yapılabilir.
+(4) Yönetim planları ile koruma bölgeleri için asgari kuralları değiştirmeyecek şekilde ilave düzenlemeler getirilebilir.
+(5) (Değişik:RG-5/9/2026-33361) Sulak alan yönetim planları, ildeki ilgili kurumların yazılı görüşleri alındıktan sonra mahalli komisyonun teklifi ile Ulusal Komisyon üyelerinin yazılı görüşlerini müteakip Genel Müdür tarafından onaylanır. Yönetim planları onay tarihinden itibaren yürürlüğe girer ve ilgili kurum ve kuruluşlara bildirilir.
+(6) Valilikler; mahalli çevre kurulları ve mahalli komisyonlar vasıtasıyla yönetim planlarının uygulanmasını, sürekli ve etkin bir izlemenin yapılmasını sağlamak için gerekli tedbirleri alır ve düzenlemeleri yapar.
+(7) (Değişik:RG-1/8/2017-30141) Bir sulak alanın Milli Park, Tabiatı Koruma Alanı, Tabiat Parkı, Tabiat Anıtı, Yaban Hayatı Koruma Sahası, Yaban Hayatı Geliştirme Sahası, Tabiat Varlığı, Doğal Sit veya Özel Çevre Koruma Bölgesi statüsü var ise; Yönetim Planı hazırlanma sürecinde mevcut koruma statüsü ile ilgili hükümler dikkate alınır.

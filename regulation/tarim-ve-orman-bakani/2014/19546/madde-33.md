@@ -1,0 +1,4 @@
+Ulusal Komisyonun çalışma usul ve esasları
+MADDE 33 – (1) Komisyon yılda en az iki defa salt çoğunlukla toplanır. Komisyon başkanı gerekli gördüğünde veya ilgili bakanlıkların talebi üzerine Komisyonu olağanüstü toplantıya çağırabilir.
+(2) Komisyonda oy çokluğu ile karar alınır. Oyların eşit çıkması halinde başkanın oyu istikametinde karar alınır. Bakanlık uygun gördüğü kamu kurum ve kuruluşları ile üniversiteler ve sivil toplum kuruluşlarının yetkili temsilcilerini, gündemle ilgili görüşlerini almak üzere gözlemci olarak Komisyon toplantısına davet edebilir. Komisyona gözlemci sıfatı ile katılan temsilciler sadece kendilerini ilgilendiren konu ile ilgili oylamaya katılabilirler.
+(3) Komisyon, gündemindeki konularda hazırlık yapmak maksadıyla ilgili kuruluşlardan oluşan bir çalışma grubu teşkil edebilir, teknik danışman belirleyebilir. Ancak teknik danışmanlar ve çalışma gruplarının görevi raporlarla sınırlıdır.

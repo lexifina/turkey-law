@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-23/10/2019-30927)
+(1) Bu Yönetmelik, 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 9 uncu maddesinin birinci fıkrasının (e) bendi, 1/7/2003 tarihli ve 4915 sayılı Kara Avcılığı Kanununun 4 üncü maddesi, 3958 sayılı Kanunla uygun bulunan 17/5/1994 tarihli ve 21937 sayılı Resmî Gazete’de yayımlanan Özellikle Su Kuşları Yaşama Ortamı Olarak Uluslararası Öneme Sahip Sulak Alanlar Hakkında Sözleşme hükümleri ve 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 410 uncu ve 420 nci maddelerine dayanılarak hazırlanmıştır.

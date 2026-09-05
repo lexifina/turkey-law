@@ -1,0 +1,5 @@
+Mahalli komisyonun oluşumu
+MADDE 35 – (1) Bütün illerde Mahalli Sulak Alan Komisyonları kurulur.
+(2) (Değişik:RG-23/10/2019-30927) Mahalli Komisyon, il valisi veya valinin görevlendireceği vali yardımcısı başkanlığında, Bakanlık (Doğa Koruma ve Milli Parklar) Bölge Müdürü, Tarım ve Orman İl Müdürü, Doğa Koruma ve Milli Parklardan sorumlu İl Şube Müdürü, DSİ Bölge Müdürü, Orman Bölge Müdürü, Çevre ve Şehircilik İl Müdürü, toplantı gündemi içeriğindeki sulak alanın bulunduğu ilçenin kaymakamı, belediye mücavir alanı içerisinde ise ilgili belediye başkanı, il ziraat odası başkanı, varsa su ürünleri kooperatiflerinden bir, avcılık ve atıcılık derneklerinden bir, mahalli üniversitelerin ilgili bilim dallarından, aynı daldan olmamak şartıyla iki, sulak alanlar konusunda faaliyet gösteren mahalli sivil toplum kuruluşlarından bir temsilcinin katılımı ile oluşur.
+(3) Komisyonda yer alacak yükseköğretim kurum ve sivil toplum kuruluş üyeleri, Şube Müdürlüğünün teklifi ile valiliklerce belirlenir ve gerek görüldüğünde Şube Müdürlüğünce yenilenir.
+(4) Komisyonun sekretarya hizmetleri Şube Müdürlüğünce yürütülür.
