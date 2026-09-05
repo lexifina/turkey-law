@@ -1,0 +1,91 @@
+{
+  "source_id": "9.5.23598",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İHRACAT, TRANSİT TİCARET, İHRACAT SAYILAN SATIŞ VE TESLİMLER İLE DÖVİZ KAZANDIRICI HİZMET VE FAALİYETLERDE VERGİ, RESİM VE HARÇ İSTİSNASI HAKKINDA TEBLİĞ (İHRACAT: 2017/4)",
+  "number": "23598",
+  "path": "teblig/2017/23598",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23598&MevzuatTertip=5",
+  "source_sha256": "8f44c893027a4991a025ed91dde68b651d4f59f06591f3d49477bea158d4be71",
+  "source_bytes": 121616,
+  "published": "2017-05-18",
+  "gazette": "30070",
+  "in_force": "2026-09-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/9/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-09-05",
+      "RG-5/9/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-09-05",
+      "5/9/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-19",
+      "RG-19/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-19",
+      "19/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-12",
+      "12/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-07-09",
+      "RG-9/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-09",
+      "9/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-28",
+      "RG-28/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-28",
+      "28/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-02-16",
+      "RG-16/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-16",
+      "16/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-02-28",
+      "RG-28/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7713,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23598-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
