@@ -1,0 +1,3 @@
+Kolluk kuvvetleri
+MADDE 25- (1) Jandarma, emniyet ve sahil güvenlik birimleri, TAMP kapsamında oluşturulan Afet Güvenlik ve Trafik Grubunun görev ve sorumlulukları kapsamında yangın alanına giriş ve çıkışları denetler, gerekli güvenlik tedbirlerini alır, trafik akışını düzenler. Mülki idare amirinin talimatı ile yangın bölgesine, yangını söndürmekle görevli olanlar ve orman yangınlarıyla mücadele gönüllüleri haricindeki kişilerin ve araçların girişleri yasaklanır.
+(2) Orman yangınlarının yerleşim birimlerini tehdit etmesi halinde, gerektiğinde o yerleşim birimindeki görevli ve orman yangınlarıyla mücadele gönüllüleri dışındaki kişilerin tahliyesi mülki idare amirinin talimatı ile TAMP kapsamında oluşturulan Afet Tahliye ve Yerleştirme Planlama Grubunca gerçekleştirilir.

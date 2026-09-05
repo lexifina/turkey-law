@@ -1,0 +1,4 @@
+İaşe, kıyafet, kişisel koruyucu donanım malzemelerinin temini ve dağıtımı
+MADDE 24- (1) Devlet ormanlarında yangının söndürülmesine iştirak eden görevliler, gönüllüler, kamu kurum ve kuruluşları ile askeri birliklerden görevlendirilen personelin iaşe giderleri söndürme işinin devamı müddetince orman idaresi tarafından sağlanır. Diğer ormanlarda ise sahiplerince karşılanır.
+(2) Orman yangınlarının söndürülmesinde görevli personel ve orman yangını söndürme gönüllülerine orman idaresince verilen kişisel koruyucu donanımların yangına müdahale çalışmalarında kullanımları zorunludur.
+(3) Özellikleri Orman Genel Müdürlüğünce belirlenen kurumsal kıyafet ve gerekli malzeme, orman yangınlarını önleme çalışmaları kapsamındaki yanıcı madde azaltılması ve orman bakımı gibi teknik çalışmalarda görev alan personele orman idaresince verilir.

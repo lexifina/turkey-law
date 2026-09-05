@@ -1,0 +1,2 @@
+Askeri birlikler
+MADDE 19- (1) Mülki idare amirinin talep etmesi durumunda askeri birlikler imkân kabiliyetleri ölçüsünde nakil, haberleşme ve söndürme vasıtaları ile birlikte orman yangınlarının söndürülmesine iştirak ederler. Orman yangınlarına müdahalede kullanılacak araç, malzeme ve teçhizat tedariki ile bakımı ve idamesine orman idaresince destek sağlanır. Orman yangınının söndürülmesini müteakip yangın amirinin uygun görüşü ile askeri birliklerin görevi sonlandırılır.
