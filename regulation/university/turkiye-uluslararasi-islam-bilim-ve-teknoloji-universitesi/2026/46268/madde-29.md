@@ -1,0 +1,4 @@
+Diploma
+MADDE 29- (1) Tez sınavında başarılı olan ve Senato tarafından belirlenen diğer mezuniyet koşullarını sağlayan öğrenciye tezli yüksek lisans diploması verilir. Bu koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azamî süresinin dolması halinde ilişiği kesilir.
+(2) Tezli yüksek lisans diploması üzerinde, öğrencinin kayıtlı olduğu Enstitü anabilim dalındaki programın Üniversite Yönetim Kurulu tarafından onaylanmış adı bulunur. Mezuniyet tarihi tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.
+(3) Tezin tesliminden itibaren üç ay içinde yüksek lisans tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere Enstitü tarafından Yükseköğretim Kurulu Başkanlığına gönderilir.

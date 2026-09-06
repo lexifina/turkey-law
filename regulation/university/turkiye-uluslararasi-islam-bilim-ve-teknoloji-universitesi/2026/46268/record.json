@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/turkiye-uluslararasi-islam-bilim-ve-teknoloji-universitesi/2026/46268",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 41- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 41- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33362",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-06",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi",
+  "issuer_slug": "turkiye-uluslararasi-islam-bilim-ve-teknoloji-universitesi",
+  "kind": "regulation",
+  "published": "2026-09-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46268&MevzuatTertip=5",
+  "source_id": "8.5.46268",
+  "source_sha256": "ec22a33db07f548e222a33fbbdf4e568f165c14257e81c1c57a845822e67593c",
+  "title": "TÜRKİYE ULUSLARARASI İSLAM, BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 459,
+  "version_label": "oldest version available",
+  "word_count": 5669
+}

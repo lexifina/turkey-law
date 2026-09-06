@@ -1,0 +1,2 @@
+Öğrenci katkı payı ve öğrenim ücreti
+MADDE 13- (1) Yarıyıl kayıt işlemleri, öğrencinin varsa ilgili mevzuat hükümleri uyarınca katkı payı ya da öğrenim ücretini yatırması, yarıyıl ders seçme işlemlerini yapması ve danışmanın ders seçimlerini onaylaması ile gerçekleşir. Süresi içinde katkı payı veya öğrenim ücreti ödemeyen öğrenciler o dönem için kayıt yaptıramaz ve öğrencilik haklarından yararlanamaz.

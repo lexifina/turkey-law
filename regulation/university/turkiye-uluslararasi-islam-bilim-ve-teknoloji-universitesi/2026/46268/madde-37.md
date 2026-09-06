@@ -1,0 +1,5 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Engelli öğrenciler
+MADDE 37- (1) Engellilik durumu ve derecesi sağlık raporu ile kanıtlanmış olan, lisansüstü programlara kayıtlı öğrenci, bu Yönetmeliğin ders almaya ilişkin hükümlerine uymakla yükümlüdür. Ancak engeli nedeniyle herhangi bir dersin gereklerini yerine getirmekte güçlük çekmesi durumunda, danışmanının ve dersin öğretim elemanının onayıyla söz konusu güçlüklerin giderilmesine ilişkin değişiklikler, uyarlamalar, düzenlemeler yapılarak öğrencinin dersi alması sağlanır. Öğrenci dersin gereklerini yerine getiremiyor ise, varsa o derse eşdeğer olan başka bir ders alır.
+(2) Lisansüstü programlara kayıtlı engelli öğrenci, 23 üncü maddede belirtilen sınavlara girmek zorundadır. Ancak öğrencinin performansının en iyi şekilde değerlendirilebilmesi için öğrencinin engeli temel alınarak dersi veren öğretim elemanı onayı ile sınav yeri, süresi, biçimi değiştirilip uygun hale getirilebilir. Sınavda kullanılacak özel alfabe, bilgisayar, büyüteç gibi ek gereçler, okumaya ya da yazmaya yardımcı kişi ya da araçlar ilgili Enstitü anabilim dalı başkanlığı tarafından sağlanır.
