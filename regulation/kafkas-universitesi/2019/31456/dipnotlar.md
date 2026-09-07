@@ -1,0 +1,1 @@
+[1] 7/9/2026 tarihli ve 33363 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin Adı “Kafkas Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.

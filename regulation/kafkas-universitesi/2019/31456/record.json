@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-04-25",
+      "25.04.2019",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-09-07",
+      "RG-7/9/2026-33363",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-07",
+      "RG-7/9/2026-33363",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-07",
+      "RG-7/9/2026-33363",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-07",
+      "RG-7/9/2026-33363",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-07",
+      "RG-7/9/2026-33363",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-07",
+      "7/9/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-7/9/2026-33363",
+  "first_law": null,
+  "gazette": "30755",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-07",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2019/31456",
+  "published": "2019-04-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31456&MevzuatTertip=5",
+  "source_bytes": 41368,
+  "source_id": "8.5.31456",
+  "source_sha256": "ad9fea9782f095c48dfc0cb9bf9a3b8c7f2102b4661634fefc1f4b39b5ccc0a2",
+  "text_status": "current-consolidated",
+  "title": "KAFKAS ÜNİVERSİTESİ DR. HÜSEYİN AYTEMİZ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 1337
+}
