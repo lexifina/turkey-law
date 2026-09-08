@@ -1,0 +1,5 @@
+Yardım ve Bedelsiz Devir
+Tarifeye bağlı hizmet satışı
+MADDE 36- (1) Karargâh birimleri ve bağlı birliklere, belirlenen tarifelerde belirtilen hizmetler haricinde ayrıca bir hizmet için talep gelmesi durumunda, satışına karar verilen hizmetin cinsi, yeri, hangi tarihler arasında verilebileceği ve süresi teknik komisyonca tespit edilerek hazırlanan komisyon raporu yetkili harcama yetkilisince onaylandıktan sonra üst yönetici onayı alınmasına müteakip bedeli tespit edilmek üzere değer tespit komisyonuna gönderilir.
+(2) Değer tespit komisyonu raporu yetkili makamca onaylandıktan ve üst yönetici oluru alındıktan sonra satışa sunulan hizmetler uygun görülen vasıtalarla duyurulur. Tarifeye bağlı olarak satışa sunulan veya tarifeye bağlı olmayan hizmetlere ilişkin talepler hizmeti veren birimler tarafından değerlendirilir ve asli görevini aksatmayacak şekilde verilir.
+(3) Hizmeti veren birim tarafından, hizmetin özelliğine göre sözleşme yapılması uygun görülüyorsa yapılacak sözleşmeye müteakip, gerek görülmüyorsa ödemeye ilişkin belge alındıktan sonra hizmet verilir.

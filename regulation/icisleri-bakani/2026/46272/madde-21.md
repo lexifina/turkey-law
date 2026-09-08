@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihale komisyonunun kararı üzerine ihalenin iptali
+MADDE 21- (1) İhale komisyonunun kararı üzerine idare, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. İdare bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak, idare isteklilerin talepte bulunması halinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.

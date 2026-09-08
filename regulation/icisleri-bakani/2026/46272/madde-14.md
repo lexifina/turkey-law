@@ -1,0 +1,2 @@
+İhale işlem dosyasının düzenlenmesi
+MADDE 14- (1) Hazırlanan ihale dosyaları, ihale işlemlerine başlanılmadan önce ihale komisyonları ile koordine edilir. İhale komisyonlarınca tetkik edilen dosyada; teknik ve değer tespit komisyonu görevlendirme yazıları, üst yönetici onayı, teknik ve değer tespit komisyonu kararları, ihale onay belgeleri ve saklanmasında yarar görülen diğer belgeler ile varsa ilana ilişkin gazete ve belgeler bulunur.

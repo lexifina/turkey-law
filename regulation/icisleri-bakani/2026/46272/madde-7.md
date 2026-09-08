@@ -1,0 +1,2 @@
+İhale komisyonları
+MADDE 7- (1) İhale komisyonları; karargâh birimlerinin veya bağlı birliklerin kendi kadrolarından olmak üzere ihale yetkilisinin belirlediği bir kişinin başkanlığında ve işin uzmanının da katıldığı en az üç kişi ve tek sayıda olacak şekilde ihale yetkilisinin onayıyla oluşturulur. Komisyonun oluşturulması sırasında görevi başında bulunamayan üyelerin yerine görev yapacak yedek üyeler de belirlenir. İhale komisyonları, Kanun ve bu Yönetmelik hükümleri gereğince yapılacak satış veya mübadele ihalelerine ilişkin işlemleri yürütür.

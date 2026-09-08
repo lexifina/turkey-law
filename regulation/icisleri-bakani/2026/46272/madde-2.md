@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; Sahil Güvenlik Komutanlığı tarafından satın alınan veya çeşitli yollarla temin edilen taşıt, silah, mühimmat, makine ve teçhizat ile her türlü mal ve malzemeden ihtiyaç fazlası bulunanlar veya standart dışı durumuna düşenler ile HEK durumunda olan veya hurdaya ayrılanların tasfiyesi ve değerlendirilmesi ile hizmet verilmesinde uyulacak usul ve esasları, bu işlemlerin yapılmasında yetkili kılınan birimlerin uyacakları kuralları, kurulacak komisyonların çalışma esaslarını, elde edilen gelirin kaydı ve bu işlerle ilgili diğer hususları kapsar.

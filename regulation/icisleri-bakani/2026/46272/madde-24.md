@@ -1,0 +1,3 @@
+Kesinleşen ihale kararlarının bildirilmesi
+MADDE 24- (1) İhale yetkilisi tarafından onaylanan ihale kararları, onaylandığı tarihten itibaren en geç beş iş günü içinde ihale üzerinde bırakılan dahil olmak üzere, ihaleye teklif veren bütün isteklilerin tebligat adresine iadeli taahhütlü mektup ile gönderilir. İadeli taahhütlü mektupla yapılan tebligatlarda, mektubun teslim edildiği tarih, tebliğ tarihi sayılır. Teslimin gerçekleştirilememesi halinde tebligat, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre gerçekleştirilir.
+(2) İhale kararlarının ihale yetkilisi tarafından iptal edilmesi halinde de durum isteklilere birinci fıkrada belirtilen şekilde bildirilir.
