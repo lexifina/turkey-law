@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-12/11/2017-30238) Destekleme Programı: D, C, B, A kurlarını başarı ile tamamlayan, ancak yapılacak olan yeterlik sınavlarına kadar süresi bulunan öğrencilere veya yeterlik sınavından başarısız olan öğrencilere yeterlik sınavlarına kadar verilen zorunlu destek kuru eğitimini,
+b) İsteğe Bağlı Yabancı Dil Hazırlık Programı: Öğrencilerin kayıtlı olduğu, öğretim dili tamamen Türkçe olan programın ilk yarıyılından önce isteğe bağlı olarak alacağı yabancı dil eğitimini,
+c) Kısmen Yabancı Dilde Eğitim: Öğrencilerin kayıtlı olduğu programda verilen derslerin toplam kredisinin en az %30’unun yabancı dilde verildiği eğitimi,
+ç) (Değişik:RG-12/11/2017-30238) Kur: D, C, B, A ve zorunlu destek kuru olmak üzere farklı seviyelerde İngilizce eğitimini,
+d) Modern Diller Bölümü: Üniversitenin Yabancı Diller Yüksekokulu Modern Diller Bölümünü,
+e) Rektör: Atılım Üniversitesi Rektörünü,
+f) Seçimlik Yabancı Dil Dersi: Öğrencinin kayıtlı olduğu programın ders programında bulunması halinde ders programı ve ders yükü dâhilinde alabileceği seçimlik yabancı dil dersini,
+g) Senato: Üniversite Senatosunu,
+ğ) Seviye Belirleme Sınavı: Yeni kayıtlı öğrencilerin Yabancı Dil Hazırlık Programında alacakları İngilizce eğitimin seviyesini belirlemek için yapılan sınavı,
+h) Temel İngilizce Bölümü: Üniversitenin Yabancı Diller Yüksekokulu Temel İngilizce Bölümünü,
+ı) Üniversite: Atılım Üniversitesini,
+i) Yabancı Dil Hazırlık Programı: Üniversitenin Yabancı Diller Yüksekokulu Temel İngilizce Bölümü bünyesindeki Yabancı Dil Hazırlık Programını,
+j) Yabancı Dilde Eğitim: Program öğretim müfredatının tamamının yabancı dilde verildiği eğitimi,
+k) Yabancı Diller Yüksekokulu: Atılım Üniversitesi Yabacı Diller Yüksekokulunu,
+l) Yeterlik Sınavı: Akademik takvimde belirtilen tarihlerde, Üniversiteye ilk defa kayıt yaptıran öğrencilerin yabancı dil hazırlık programından muaf olup olmadığının, muaf olmayan öğrencilerden seviye belirleme sınavı sonucuna göre alması gereken tüm kurları alıp en son A kurunu da başarı ile tamamlayan öğrencilerin kayıt olduğu ön lisans, lisans veya lisansüstü program için istenilen yabancı dil yeterliliğini kazanıp kazanmadığının belirlenmesi amacı ile yapılan sınavı,
+m) YÖK: Yükseköğretim Kurulunu,
+n) Zorunlu İngilizce Dersi: Üniversiteye kayıt yaptıran öğrencilerin, 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendi gereğince alması zorunlu olan yabancı dil dersini,
+ifade eder.

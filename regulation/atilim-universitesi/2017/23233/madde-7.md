@@ -1,0 +1,7 @@
+İngilizce yeterlik sınavı
+MADDE 7 – (1) Yabancı dil hazırlık programı yeterlik sınavları akademik takvimde belirtilen tarihlerde yapılır ve bu sınavlara giriş ile ilgili koşullar Yüksekokul Müdürlüğünce belirlenir. Yeterlik sınavında başarı notu, İngiliz Dili ve Edebiyatı ile Mütercim Tercümanlık bölümleri için 100 tam not üzerinden 65 ve diğer tüm ön lisans, lisans ve lisansüstü programları için 60’tır.
+(2) Aşağıdaki öğrenciler yabancı dil seviye tespit ve yeterlik sınavından muaftır:
+a) Kayıt olduğu tarihten (Değişik ibare:RG-9/9/2026-33365) en fazla üç yıl önce, eğitim dili olan İngilizcenin anadil olarak konuşulduğu bir ülkede o ülke vatandaşlarının devam ettiği ortaöğretim kurumlarında eğitim görüp ortaöğrenimini bu kurumlarda tamamlayanlar,
+b) YÖK tarafından kabul edilen merkezi yabancı dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarında Senatonun belirlediği puanla başarılı olanlar,
+c) (Değişik:RG-3/10/2022-31972) Eğitim-öğretim dili tamamen veya kısmen İngilizce olan yükseköğretim kurumlarında, yabancı dil hazırlık programını başarıyla tamamlamış olanlar.
+(3) İkinci fıkranın (b) bendi kapsamına giren sınavlarda alınan puanın değerlendirmeye alınabilmesi için, sınavı yapan ilgili kurumlar tarafından belirlenen sınav geçerlilik süresi esas alınır. Sınavın geçerlilik süresinin belli olmaması halinde emsal sınavların geçerlik süresi dikkate alınarak Senatoca belirlenen geçerlik süresi uygulanır.
