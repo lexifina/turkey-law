@@ -1,0 +1,23 @@
+{
+  "number": "meeting-09-09",
+  "number_as_published": "meeting-09-09",
+  "year": 2026,
+  "title": "Karar No 2026-09-1 Karar Tarihi 09.09.2026",
+  "decision_date": "2026-09-09",
+  "source": "https://www.incesu.bel.tr/meclis-kararlari",
+  "official_document": "https://www.incesu.bel.tr/uploads/meclis/karar/EYLUL-AYI-1.BILESIM-1.OTURUMU-KARAR-OZETI.pdf?v=1791871625",
+  "source_sha256": "ff7478383abe99af6923abf2ccc3de6e46ad32f1d18cff5b919e16145fa4b282",
+  "issuer": "İncesu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-09-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.09.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No 2026-09-1 Karar Tarihi 09.09.2026",
+  "record_scope": "one official file of council decisions (meeting)"
+}
