@@ -1,0 +1,6 @@
+Değerlendirme ve kabul
+MADDE 8 – (1) (Mülga:RG-29/12/2025-33122)
+(2) (Değişik:RG-9/9/2026-33365) Başvurular, adayların başvurduğu programın puan türünde yükseköğretime kayıt yaptırdığı yıldaki ÖSYS/YKS başarı sıralaması esas alınarak Senato tarafından belirlenen ve genel not ortalamasını, transfer not ortalamasını, başarı sıralaması ile YKS sıralamasını ilişkilendiren hesaplama yöntemine ve Senato tarafından onaylanan başkaca ölçütler çerçevesinde değerlendirilir.
+(3) Kabul edilen adaylar, bölümün önerisi ve ilgili yönetim kurulu kararı ile kesinleşir.
+(4) (Ek:RG-26/8/2023-32291) Değerlendirme sonucu başarılı bulunan aday sayısının kontenjanı geçmesi durumunda, kontenjanı aşmayacak sayıda yedek aday belirlenir.
+(5) (Ek:RG-26/8/2023-32291) Başvuru değerlendirme sonuçları, başvuran tüm adaylar değerlendirmede esas alınan ölçütlere göre sıralanmış biçimde dekanlık tarafından listelenerek Üniversitenin internet sitesinde ilan edilir.

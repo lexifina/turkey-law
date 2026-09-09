@@ -1,0 +1,5 @@
+Başvuru koşulları ve süreci
+MADDE 6 – (1) Üniversitenin aynı düzeyde fakat farklı merkezi yerleştirme puan türü ile öğrenci kabul eden diploma programları arasında yatay geçiş başvurusu yapılabilmesi için, adayın merkezi sınava girdiği yıl itibarıyla geçmek istediği diploma programı için geçerli olan puan türünde aldığı merkezi yerleştirme puanının, geçmek istediği diploma programına eşdeğer yurt içindeki diğer üniversitelerin diploma programlarının en düşük taban puanından az olmaması gerekir.
+(2) (Değişik:RG-29/12/2025-33122) Adayların, 3.00’dan az olmamak kaydıyla, ilgili program tarafından önerilen ve Üniversite Yönetim Kurulu tarafından onaylanan asgari genel not ortalaması koşulunu sağlamaları gerekir.
+(3) (Mülga:RG-26/8/2023-32291)
+(4) (Değişik:RG-9/9/2026-33365) Yatay geçiş başvuruları, akademik takvimde ilan edilen başvuru süresi içinde ilgili fakültenin öğrenci işleri ofisine yapılır. Başvuru ilanında belirtilen belgeler, eksiksiz bir biçimde ve ilanda belirtilen şekilde sunulur.

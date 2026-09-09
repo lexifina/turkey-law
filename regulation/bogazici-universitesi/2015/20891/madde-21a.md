@@ -1,0 +1,6 @@
+İngilizce dil yeterlik
+MADDE 21/A- (Ek:RG-26/8/2023-32291)
+(1) Üniversite dışından başvuran adayların başvuru esnasında İngilizce dil yeterliklerini, Boğaziçi Üniversitesi Lisans Eğitim-Öğretim Yönetmeliğinde belirtilen esaslara göre belgelemeleri gerekir.
+(2) Kayıtlı olduğu programda (Fransızca, Almanca ve benzeri dillerde hazırlık sınıfı eğitimi alanlar hariç) İngilizce dil hazırlık sınıfı eğitimi almış olan adaylar, Üniversitede tekrar dil hazırlık sınıfı eğitimi alamazlar. Bu adaylar, başvuru koşullarını sağlamaları halinde hazırlık sınıfına izinli/beklemeli statüde kabul edilebilirler.
+(3) Üniversitenin yabancı dil koşulunu sağlayamayan ve daha önce hazırlık sınıfı eğitimi almamış adaylar, öğretim dili Türkçe programdan Üniversitenin aynı isimli programlarına, en geç ikinci sınıf eğitimine başlamadan geçiş yapabilirler. Bu adaylar, Üniversitede bir yıl yabancı dil hazırlık eğitimi alabilirler.
+(4) Öğretim dili Türkçe programdan, Üniversitenin farklı isimli programına geçişte adaylar, kayıtlı oldukları döneme bakılmaksızın geçiş yapabilirler. Bu adaylardan yabancı dil şartını sağlayamayan ve daha önce hazırlık sınıfı eğitimi almamış adaylar, Üniversitede bir yıl yabancı dil hazırlık eğitimi alabilirler.

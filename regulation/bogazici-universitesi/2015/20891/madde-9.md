@@ -1,0 +1,5 @@
+İntibak işlemleri
+MADDE 9 – (1) Kabul edilen adayların, daha önce kayıtlı oldukları programda aldıkları derslerden hangilerinin, geçiş yaptıkları programda hangi derslere karşılık sayılacağı; bölümün önerisi üzerine ilgili yönetim kurulu tarafından karara bağlanır.
+(2) Yatay geçişte öğrencinin kaç yarıyıl transfer ettiği, transfer edilen krediler 17'ye bölünerek ve en yakın tam sayıya tamamlanarak bulunur. Bu sayı öğrencinin daha önce kayıtlı olduğu programda fiilen okuduğu yarıyıl sayısından fazla ise fiilen okunan sayıda yarıyıl transfer edilebilir. Transfer edilen yarıyıllar normal ve azami sürelere sayılır.
+(3) CC ve üzeri not alınarak tamamlanan ve ilgili fakülte (Mülga ibare:RG-26/8/2023-32291) tarafından transferi kabul edilen dersler, not ve kredileri ile birlikte not çizelgesine işlenir.
+(4) Öğrencinin yeni programına kayıt yaptırdığı yarıyılı takip eden ilk kayıt dönemi başına kadar yatay geçiş kredilerinde değişiklik yapılabilir. Değişiklik başvuruları, ilgili yönetim kurulu tarafından incelenir ve karara bağlanır.
