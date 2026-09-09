@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-03-09",
+      "09.03.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-09-09",
+      "RG-9/9/2026-33365",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-09",
+      "RG-9/9/2026-33365",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-09",
+      "RG-9/9/2026-33365",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-09",
+      "RG-9/9/2026-33365",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-09",
+      "RG-9/9/2026-33365",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-09",
+      "RG-9/9/2026-33365",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-09",
+      "RG-9/9/2026-33365",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-09",
+      "RG-9/9/2026-33365",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-09",
+      "9/9/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-9/9/2026-33365",
+  "first_law": null,
+  "gazette": "31063 Mükerrer",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-09",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/2020/34348",
+  "published": "2020-03-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34348&MevzuatTertip=5",
+  "source_bytes": 32243,
+  "source_id": "8.5.34348",
+  "source_sha256": "1dc216da2d58d9ce0292ac5b75851daf157f2b695b4e4e10b2b20f5fadb48e21",
+  "text_status": "current-consolidated",
+  "title": "ANADOLU ÜNİVERSİTESİ TÜRK MUTFAĞI UYGULAMA \r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 1046
+}
