@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/947",
+  "case_number": "2025/2732",
+  "decision_date": "2026-09-10",
+  "title": " 2026/947 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/unvkox.pdf",
+  "source_sha256": "2cdd9fb6ed82fef94ce2b067fafc6394e4cb1e0a2e2a293fb21d04c44e70ebe7",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
