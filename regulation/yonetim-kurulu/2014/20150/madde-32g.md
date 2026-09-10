@@ -1,0 +1,3 @@
+Borsa dışı veri kullanılarak finansal ölçüt oluşturulması
+MADDE 32/G- (Ek:RG-23/7/2025-32964)
+(1) Borsa, finansal ölçütlerin hesaplamasında veri sunmaya yetkili kendisi dışındaki kurumlar tarafından temin edilen verileri, bu verilerin toplanması ve iletilmesi süreçlerine yönelik uygun kontrol sistemlerini oluşturmak kaydıyla kullanabilir. Kontrol sistemi, verinin temin edileceği dış kaynağın seçimi, verilerin ne şekilde temin edileceği ve verinin bütünlüğü ile gizliliğinin ne şekilde sağlanacağı hususlarını kapsar. Borsa, finansal ölçütün borsa dışı veriye dayanılarak oluşturulması durumunda gözeteceği diğer esasları ilgili düzenlemelerinde belirler.

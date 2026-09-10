@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.20150",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BORSA İSTANBUL A.Ş. BORSACILIK FAALİYETLERİNE İLİŞKİN ESASLAR YÖNETMELİĞİ",
+  "number": "20150",
+  "issuer": "Yönetim Kurulu",
+  "issuer_slug": "yonetim-kurulu",
+  "path": "regulation/yonetim-kurulu/2014/20150",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20150&MevzuatTertip=5",
+  "source_sha256": "b13975a8e0b2d39c460dd44b50a64f972ae8bf3f84a3f98619b6cb03a085b973",
+  "source_bytes": 163113,
+  "published": "2014-10-19",
+  "gazette": "29150",
+  "in_force": "2026-09-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/9/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-09-10",
+      "RG-10/9/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-09-10",
+      "10/9/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-07-23",
+      "RG-23/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-23",
+      "23/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-09-18",
+      "RG-18/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-18",
+      "18/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-11-15",
+      "RG-15/11/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-11-15",
+      "15/11/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-04",
+      "RG-4/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-04",
+      "4/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-04-03",
+      "RG-3/4/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-04-03",
+      "3/4/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11458,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

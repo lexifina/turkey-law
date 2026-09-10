@@ -1,0 +1,3 @@
+Piyasaların, pazarların, platformların ve sistemlerin geçici olarak kapatılması
+MADDE 39 – (1) Olağan dışı gelişmelerin meydana gelmesi hâlinde, Borsa bünyesinde faaliyette bulunan piyasaların, pazarların, platformların veya sistemlerin beş işlem gününe kadar geçici olarak kapatılmasına Yönetim Kurulu karar verebilir. Yönetim Kurulu bu yetkisini Genel Müdüre devredebilir. Beş işlem gününü aşan durumlarda Yönetim Kurulu karar alır ve onaylanmak üzere Kurula iletir.
+(2) Borsanın piyasa, Pazar, platform veya sistem bazında kapatılma nedenlerine, kapatılma sürelerine ve yeniden açılış tarihlerinin kamuoyuna duyurulmasına ilişkin usul ve esaslar Yönetim Kurulunca belirlenir.

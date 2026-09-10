@@ -1,0 +1,4 @@
+Piyasaların, pazarların, platformların ve sistemlerin işletimi ve yönetimi
+MADDE 38 – (1) Borsa, bünyesinde oluşturulan piyasaları, pazarları, platformları ve sistemleri ölçeklendirerek işlem gören yatırım araçlarının niteliği ve gerektirdiği alım satım şartları doğrultusunda alım satım emirlerinin güvenli ve hızlı bir şekilde iletilmesine, eşleştirilmesine, gerçekleşen işlemlerin ve oluşan fiyatların tespitine ve ilanına, emir ve işlem bilgilerinin veri tabanlarına kaydedilerek erişime ve kullanıma hazır halde saklanmasına imkân sağlayan teknik altyapıyı, donanımı ve yazılımları temin eder.
+(2) Borsa, borsacılık faaliyetlerini yürütürken günlük işleyişinde karşılaşabileceği her türlü kesintiye karşı iş sürekliliği planlarını yapar.
+(3) Yönetim Kurulu bu kapsamda gereken idari, teknik ve mali düzenlemeleri yapar.

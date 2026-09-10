@@ -1,0 +1,2 @@
+TCMB’ye ilişkin istisna
+MADDE 6 – (1) TCMB, Borsanın piyasalarında, pazarlarında, platformlarında ve sistemlerinde işlem yapmaya yetkili olup Borsa düzenlemelerinde yer alan; üyeliğe kabul, işlem yapma yetkisi verilmesi, teminat, denetim ve disiplin ile ilgili yükümlülüklere tabi değildir. Ayrıca aidatlardan, emirlerden ve işlemlerden alınan ücret ve borsa payı, kota alma ve kotta kalma ücretleri ile sair ücretlerden muaftır.

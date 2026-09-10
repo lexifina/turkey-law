@@ -1,0 +1,16 @@
+İşlem yapma yetkisi verilenlerin yükümlülükleri
+MADDE 8 – (1) İşlem yapma yetkisi verilenler;
+a) Müşterilerine ve diğer işlem yapma yetkisi verilenlere karşı iyi niyet ve dürüstlük ilkelerine uygun davranmak,
+b) Sermaye piyasası mevzuatına, Borsa düzenlemelerine, Borsaca alınan kararlara, ilgili diğer düzenlemelere ve Borsa düzenine ve disiplinine uygun hareket etmek,
+c) Müşterilerine ve diğer üçüncü şahıslara karşı doğabilecek mali ve hukuki sorumluluğu teminat altına alan ve Borsa tarafından öngörülen genel ve özel mahiyetteki sigorta ve diğer konulardaki düzenlemelere uymak,
+ç) Borsa düzenlemelerinde öngörülen teminatları süresi içinde yatırmak ve teminat yükseltilmesine karar verildiğinde veya teminatı eksildiğinde süresi içinde teminatını tamamlamak,
+d) Borsa veya Borsa personeli tarafından yapılacak incelemelere müsaade etmek, istenecek her türlü bilgi ve belgeyi vermek, gerekli yardımı ve kolaylığı göstermek,
+e) Borsa işlemlerine ilişkin olarak yıllık faaliyet sonuçlarıyla, finansal tablolarının, bağımsız denetim raporlarının ve Borsa tarafından talep edilecek diğer rapor ve belgelerin birer örneğini, ilgili düzenlemelerde öngörülen sürelerde Borsaya vermek,
+f) Açtıkları davaları ve başlattıkları icra takiplerini derhal, aleyhlerine açılan davaları ve başlatılan icra takiplerini öğrendikleri tarihte Borsaya bildirmek,
+g) Borsa payı ile diğer aidat ve mali yükümlülükleri süresi içinde ödemek,
+ğ) Suiistimalleri, yolsuzlukları ve Kanun ve ilgili mevzuatta yer alan düzenlemelere aykırı olacak şekilde gerçekleştirilen işlemleri önleyici denetim süreçlerini oluşturmak ve gerekli tedbirleri almak,
+h) Müşteriler tarafından Borsada gerçekleştirilmek üzere verilen emirleri müşteri talimatlarına ve Borsa düzenlemelerine uygun şekilde Borsaya iletmek,
+ı) Borsa sistemine gönderdiği emirlerle ilgili olarak mevcut riskleri en aza indirecek her türlü kontrolü yapmak, izleme ve kontrol uygulamalarını oluşturmak, Borsa bilişim sistemlerinin ve piyasa, pazar, platform ve sistemlerinin işleyişinin güvenliğini test edici, tehdit edici veya tehlikeye sokabilecek nitelikte hiçbir girişimde bulunmamak, kendi çalışanlarının veya üçüncü şahısların Borsa tarafından kendilerine tahsis edilen imkânlar ve bilişim altyapısından yararlanarak Borsa bilişim sistemlerinin ve Borsa piyasa, pazar, platform ve sistemlerinin işleyişini engelleyecek, riske atacak, yanlış çalışmasına neden olabilecek her türlü girişimi engellemek üzere tüm tedbirleri almak, Borsa bilişim sistemlerine yönelik oluşabilecek yetkisiz erişim, yetkisiz bilgi dağıtımı ve yetkisiz bilgi paylaşımı girişimlerinde bulunmamak, söz konusu risklerin en aza indirilmesine yönelik kontroller uygulamak,
+i) İşlem yapma yetkisi verildikten sonra mali durumlarında, ortaklarında veya ortaklarının sermaye paylarında, yönetim kurulu üyelerinde, denetçilerinde ve üst düzey yöneticileri ile imzaya yetkili personelinde, adres ve iletişim bilgilerinde ve temsilcilerinin yetkilerinde meydana gelen değişiklikler ile her bir faaliyet için çıkarılan düzenlemelerde belirtilen konulardaki değişiklikleri gerçekleştiği tarihte Borsaya bildirmek,
+zorundadırlar.
+(2) İşlem yapma yetkisi verilenlerin tabi olacakları diğer yükümlülükler Yönetim Kurulu tarafından belirlenir.

@@ -1,0 +1,2 @@
+Borsanın çalışma zamanı
+MADDE 40 – (1) Borsa bünyesindeki piyasalarda, pazarlarda, platformlarda ve sistemlerde seans yapılacak günleri ve saatleri Yönetim Kurulu belirler. Ayrıca Yönetim Kurulu tarafından belirlenen olağan dışı durumlarda geçerli olmak üzere, seans yapılacak günler ve seans saatleri piyasa, Pazar, platform ve sistem bazında Genel Müdür tarafından belirlenebilir ve KAP’ta duyurulur.

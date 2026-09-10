@@ -1,0 +1,2 @@
+Borsa dışı işlemlerin Borsaya bildirimi ve tescili
+MADDE 28 – (1) Yatırım kuruluşları tarafından Borsada işlem gören, kote olan veya Borsa kaydında bulunan menkul kıymetler ile ilgili olarak Borsa dışında yapılan alım satım işlemlerinin Yönetim Kurulunun belirlediği ve Kurulun onayladığı şartlarla Borsaya tescil ettirilmesi gerekir. Borsaya tescil edilen işlemlere ilişkin bilgiler Yönetim Kurulunun belirleyeceği usul ve esaslar çerçevesinde kamuya duyurulabilir.

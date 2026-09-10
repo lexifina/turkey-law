@@ -1,0 +1,3 @@
+Emirlerin Borsaya iletilmesi
+MADDE 30 – (1) İşlem yapma yetkisi verilenler Yönetim Kurulu tarafından piyasa, Pazar, platform ve sistem bazında belirlenen emir tiplerine uygun emirleri, Yönetim Kurulu tarafından belirlenen yöntemlerle ve emir iletim araçlarını kullanarak Borsaya iletirler veya iletilmesini sağlarlar.
+(2) Borsaya iletilen emirler; Yönetim Kurulunca belirlenen ve Kurulca onaylanan usul ve esaslar çerçevesinde ilgili yatırım aracının işlem gördüğü piyasa, Pazar, platform ve sistemlerin seanslarına, ilgili seanslarda geçerli olan emir kabul sürelerine, emir kabul esaslarına ve işlem yöntemlerine, emir-işlem kurallarına göre kabul edilirler veya reddedilirler.

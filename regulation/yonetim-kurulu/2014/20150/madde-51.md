@@ -1,0 +1,2 @@
+Disiplin soruşturmasında yetki
+MADDE 51 – (1) 53 üncü maddede sayılan disiplin cezası gerektiren fiiller kapsamında disiplin soruşturması yapmakla Disiplin Komitesi görevli ve yetkilidir. Disiplin Komitesinin kuruluşu, görevleri, toplantı ve karar nisabı, çalışma usul ve esasları, raportörlüğü ve benzeri hususlar Yönetim Kurulu tarafından düzenlenir ve Kurul onayına sunulur. Disiplin Komitesince ulaşılan sonuçları karara bağlama yetkisi Yönetim Kurulundadır.

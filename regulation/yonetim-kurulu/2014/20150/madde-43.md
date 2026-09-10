@@ -1,0 +1,2 @@
+Gözetim faaliyeti
+MADDE 43 – (1) Borsa işlemlerinin güvenilir, şeffaf, etkin, istikrarlı, adil, dürüst ve rekabetçi bir şekilde gerçekleşmesinin sağlanması ve Kanuna aykırı olacak şekilde gerçekleştirilen işlemlerin tespit edilmesi amacıyla bünyesinde gerekli gözetim sistemini kurar ve her türlü önleyici tedbirleri alabilir. Borsa gözetim konusunda kendisine Kurulca verilecek diğer görevleri de yerine getirir.

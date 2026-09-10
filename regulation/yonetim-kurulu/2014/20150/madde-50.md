@@ -1,0 +1,5 @@
+Uyuşmazlık dosyasının işlemden kaldırılması
+MADDE 50 – (1) Şikayetten vazgeçilmesi, sulh olunması veya yargıya başvurulması hâllerinde, Uyuşmazlık Komitesi tarafından uyuşmazlık dosyasının işlemden kaldırılmasına karar verilir.
+(2) Tarafların sulh yoluyla anlaşması veya tahkime ya da yargı yoluna başvurması hâlinde, işlem yapma yetkisi verilenler durumu öğrendiği tarihten itibaren üç iş günü içinde Borsaya yazılı olarak bildirmekle yükümlüdür.
+(3) Başvurunun yapılmamış sayılması, şikayetten vazgeçilmesi, tahkim ya da yargı yoluna başvurulması veya tarafların sulh olmaları hâlinde aynı uyuşmazlık hakkında Borsaya yeniden başvuru yapılamaz.
+(4) Ödenen uyuşmazlık hizmet bedeli, şikayetten vazgeçilmesi, tahkim ya da yargı yoluna başvurulması veya tarafların sulh olmaları hâllerinde iade edilmez ve Borsaya gelir kaydedilir. Başvuru sahibinin kısmen veya tamamen haklı bulunması halinde başvurusu hakkında verilecek karar kapsamında ödemiş olduğu hizmet bedelinin karşı tarafça kendisine ödenmesine karar verilir.

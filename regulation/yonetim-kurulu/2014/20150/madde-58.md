@@ -1,0 +1,2 @@
+Faaliyetlerin yürütülmesine, çıkar çatışmalarının önlenmesine ve etik ilkelere uyulmasına ilişkin kurallar
+MADDE 58 – (1) Borsanın faaliyetlerinin nasıl ve hangi ilkelere ve kurallara uygun olarak yürütüleceğine, tüm çalışanlar tarafından uyulması gereken etik kurallara ve Borsa, pay sahipleri ve/veya piyasa işleticisi arasındaki muhtemel çıkar çatışmalarının önlenmesi amacıyla alınacak tedbirlere ilişkin usul ve esaslar Yönetim Kurulu tarafından belirlenir ve Kurulca onaylanır.

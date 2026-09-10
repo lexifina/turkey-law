@@ -1,0 +1,4 @@
+Borsanın gelirleri
+MADDE 59 – (1) Borsanın verdiği temel hizmetler kapsamında olan ve bu hizmetlerin tek sunucusu olmaktan kaynaklanan statüsüne dayalı olarak uyguladığı borsa payı dâhil ücretler ve komisyonlar ile bunların tahsil zamanları ve şekilleri Yönetim Kurulunca kararlaştırılır ve Kurulun onayına sunulur. Onaya sunulan ücretlere ve komisyonlara ilişkin Yönetim Kurulu kararı, Kurul tarafından otuz gün içerisinde olumsuz görüş bildirilmediği takdirde yürürlüğe girer.
+(2) Borsanın faydalanılması zorunlu olmayan temel hizmetleri ile ilgili ücretler ile bunların tahsil zamanları ve şekilleri Yönetim Kurulunca belirlenir ve Kurulun bilgisine sunulur. Borsanın verdiği eğitim hizmetleri işlem yapma yetkisi verilenlere zorunlu tutulsa dahi bu fıkra kapsamında değerlendirilir.
+(3) Bu maddenin birinci ve ikinci fıkrası dışında kalan sair gelirleri ile bunların tahsil zamanları ve şekilleri Yönetim Kurulunca belirlenir.
