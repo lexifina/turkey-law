@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/963",
+  "case_number": "2026/202",
+  "decision_date": "2026-09-10",
+  "title": " 2026/963 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/fyjsui.pdf",
+  "source_sha256": "7693f6a6bb93c013b740a962dbb323b4febec200d8cfdeb973d444c8e106768c",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
