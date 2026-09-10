@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1037",
+  "case_number": "2025/3981",
+  "decision_date": "2026-09-10",
+  "title": "2026/1037 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/qeoivv.pdf",
+  "source_sha256": "05089cb8a5b9fbe9d662b0fc31be4addeff7045a759f8c831f6326c8a60c0053",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
