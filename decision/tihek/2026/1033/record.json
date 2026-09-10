@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1033",
+  "case_number": "2026/221",
+  "decision_date": "2026-09-10",
+  "title": "2026/1033 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/db545a.pdf",
+  "source_sha256": "4d01dbec8f458a8590421f04c21836d5248e31da74eb6a0295c27ae7ca475626",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
