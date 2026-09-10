@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1015",
+  "case_number": "2025/3799",
+  "decision_date": "2026-09-10",
+  "title": "2026/1015 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/ee8muo.pdf",
+  "source_sha256": "fe41c153aca30d0a8fa8d3c6651f9810d89c741b437121eaf45ac93d59bbbfa4",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
