@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/967",
+  "case_number": "2025/3671",
+  "decision_date": "2026-09-10",
+  "title": " 2026/967 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/zy7ghp.pdf",
+  "source_sha256": "c0e973fce02d8db8fe6461a6e017d4b1e9ccc79e54cf5f1cd5c584776a41f38d",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
