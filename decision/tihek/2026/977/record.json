@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/977",
+  "case_number": "2026/673",
+  "decision_date": "2026-09-10",
+  "title": "2026/977 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/rawbia.pdf",
+  "source_sha256": "29ce1314a44f54d69fb5a1b09d9225041ad8acfcdd3cc1124d09522e73a93523",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
