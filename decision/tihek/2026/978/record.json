@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/978",
+  "case_number": "2025/3322",
+  "decision_date": "2026-09-10",
+  "title": "2026/978 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/bq37n7.pdf",
+  "source_sha256": "d80d4ca160b3f013f919cfd2300ee6a5af90f4eafcdca65bae48cb52af55e670",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
