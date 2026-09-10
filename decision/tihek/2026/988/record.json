@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/988",
+  "case_number": "2025/3690",
+  "decision_date": "2026-09-10",
+  "title": "2026/988 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/tap7ij.pdf",
+  "source_sha256": "9fb1f9fd524d59ab584bfcd86650c19cd5ac1ca312e5f115c5255fc0cc5778a5",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
