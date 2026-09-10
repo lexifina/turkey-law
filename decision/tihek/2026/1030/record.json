@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1030",
+  "case_number": "2026/231",
+  "decision_date": "2026-09-10",
+  "title": "2026/1030 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/3k0cvp.pdf",
+  "source_sha256": "82896d6492dd79fa6ea06557f46c90b6221ff074a08bc97cce4c436050a80847",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
