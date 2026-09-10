@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1035",
+  "case_number": "2025/3014",
+  "decision_date": "2026-09-10",
+  "title": "2026/1035 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/nnmart.pdf",
+  "source_sha256": "280467c845e784a038ee580a662b5df87abff058a4eda51d01404fd016e089c0",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
