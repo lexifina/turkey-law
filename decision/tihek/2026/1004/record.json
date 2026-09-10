@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1004",
+  "case_number": "2025/4082",
+  "decision_date": "2026-09-10",
+  "title": "2026/1004 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/wdq9yc.pdf",
+  "source_sha256": "29d99efb39b55955c9c81f2d2688a83bc230d03a931cad579d1ab2870ce42921",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
