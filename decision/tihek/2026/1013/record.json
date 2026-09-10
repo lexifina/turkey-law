@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1013",
+  "case_number": "2025/3213",
+  "decision_date": "2026-09-10",
+  "title": "2026/1013 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/bpwi8z.pdf",
+  "source_sha256": "46683a9ef77834ed3149cfa1e63321408a4e1b6365681c2c52088aa859613842",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
