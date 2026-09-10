@@ -1,0 +1,23 @@
+{
+  "number": "meeting-09-10",
+  "number_as_published": null,
+  "year": 2026,
+  "title": "10.09.2026 TARİHLİ MECLİS TOPLANTISI KARAR ÖZETLERİ",
+  "decision_date": "2026-09-10",
+  "source": "https://www.kocaeli.bel.tr/meclis-karar/10092026-tarihli-meclis-toplantisi-karar-ozetleri-906.html",
+  "official_document": "https://www.kocaeli.bel.tr/files/uploads/documents/1789634941_10092026-tarihli-meclis-toplantisi-karar-ozeti_ustyazipdf.pdf",
+  "source_sha256": "20c6aa4c5d76fbed658c91d0f585d228619759a3a7a2e90cf9600265dec712a1",
+  "issuer": "Kocaeli Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-09-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.09.2026 TARİHLİ (meeting date in the official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kocaeli.bel.tr/meclis-karar-ozetleri.html"
+}
