@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1028",
+  "case_number": "2026/2814",
+  "decision_date": "2026-09-10",
+  "title": "2026/1028 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/lrwxvv.pdf",
+  "source_sha256": "33e95aed3d4b911ccb54c951520a059d7439a7178279e501c08492d07eab3d4b",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
