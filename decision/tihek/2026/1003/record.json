@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1003",
+  "case_number": "2026/2524",
+  "decision_date": "2026-09-10",
+  "title": "2026/1003 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/dysixu.pdf",
+  "source_sha256": "7d7a4a54aa229ce8f0460ffa63d9f6cbe65fa36cb351131d7d68dbc660c98af6",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
