@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1008",
+  "case_number": "2026/2325",
+  "decision_date": "2026-09-10",
+  "title": "2026/1008 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/ng123x.pdf",
+  "source_sha256": "14f80459b214a8aacdad2c90919b4972e22f0348a4eb07aaa1a216768da72d32",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
