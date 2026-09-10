@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1023",
+  "case_number": "2026/333",
+  "decision_date": "2026-09-10",
+  "title": "2026/1023 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/t5q21v.pdf",
+  "source_sha256": "363e90e9dcaab455064f26180f4f77c447b39fe602b4800ecab9f96d76648841",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
