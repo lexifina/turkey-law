@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/981",
+  "case_number": "2025/4103",
+  "decision_date": "2026-09-10",
+  "title": "2026/981 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/uwrtbm.pdf",
+  "source_sha256": "79b26b89da26b59a694383ebe38818b8c79ca74d58121872d9c32c7ee169b6f4",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
