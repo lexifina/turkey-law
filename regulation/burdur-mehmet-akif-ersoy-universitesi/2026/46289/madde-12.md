@@ -1,0 +1,4 @@
+Öğretim şekli ve süresi
+MADDE 12- (1) Fakültede entegre sistemle eğitim verilir. Dönem I, II ve III’te sınıf geçme esası uygulanır. Dönem IV ve dönem V’te ise klinik staj eğitimi yapılır. Her klinik staj bir ders niteliğinde olup ders geçme esasları uygulanır ve staj süreleri, yıllık programlarla birlikte Fakülte Kurulu tarafından belirlenir.
+(2) Yurt içi ve yurt dışı değişim programları ile başka bir yükseköğretim kurumuna giden Dönem II, III, IV, V ve VI öğrencilerinin eşdeğer öğretim uygulamayan yükseköğretim kurumlarına gitmeleri halinde bu öğrenciler dönüşlerinde öncelikle eksik olan stajlarını ve derslerini tamamlarlar. Stajların ve derslerin tümünü başarıyla tamamlayan öğrenci intörnlük dönemine başlar, intörnlük programını eksiksiz olarak tamamlar.
+(3) Fakültede ders yılı intörnlük dönemi hariç en az 140 iş günü olacak şekilde hesaplanır. İntörnlük dönemi ise kesintisiz olarak on iki ay (52 hafta) sürer.

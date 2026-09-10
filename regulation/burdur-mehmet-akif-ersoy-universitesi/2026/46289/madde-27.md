@@ -1,0 +1,2 @@
+Staj sınav sonuçlarının duyurulması
+MADDE 27- (1) Dönem IV, V, VI’nın staj sınav sonuçları ana bilim dalı başkanlıkları tarafından sınavın yapıldığı tarihten itibaren 5 (beş) iş günü içerisinde öğrenci bilgi sistemine giriş yapılarak Dekanlığa iletilir. Sınav sorusuna itiraz ya da sınavda iptal edilen soru olması halinde sınav sonucunun öğrenci bilgi sisteminde ilan edildiği tarihten itibaren 7 (yedi) iş günü içerisinde yapılır.

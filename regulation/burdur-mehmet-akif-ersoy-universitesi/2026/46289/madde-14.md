@@ -1,0 +1,5 @@
+Mazeret sınavları
+MADDE 14- (1) Mazereti nedeniyle ara sınavlara ve kurul sınavlarına katılamayan öğrencilerden ilgili sınav dönemi içerisinde ilgili dersin sınav tarihinden sonraki ilk 3 (üç) iş günü içerisinde Dekanlığa mazeretini belgelendirerek başvuranlara, Fakülte Yönetim Kurulu tarafından mazeretlerinin kabul edilmesi halinde mazeret sınavı hakkı tanınır. İlan edilen mazeret değerlendirmesi tarihinde de mazereti olduğunu beyan eden öğrenciye başka bir mazeret hakkı verilmez.
+(2) Birinci derecedeki akrabaların hastalıkları, kazalar, doğal afetler, tutuklanma, yargılanma, ailevi ve ekonomik nedenlerin mazeret sayılabilmesi için resmî belgelere dayandırılması gerekir.
+(3) Disiplin suçu nedeniyle verilen Üniversiteden uzaklaştırma cezası mazeret sayılmaz.
+(4) Mazeret sınavı, çoktan seçmeli yazılı sınav, yazılı sınav, pratik uygulama sınavı, yapılandırılmış sözlü sınav, işbaşında değerlendirme (mini klinik değerlendirme, doğrudan gözlem ve benzeri) ve e-sınav uygulamalarını içerebilir.

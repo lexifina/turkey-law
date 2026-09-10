@@ -1,0 +1,2 @@
+Bütünleme sınavı
+MADDE 19- (1) Her dönemin sonunda yıl sonu sınavının bitiminden en erken 10 (on) gün sonra bütün ders kurullarını kapsayan bütünleme sınavı yapılır. Bu sınav çoktan seçmeli yazılı sınav ve/veya pratik uygulama sınavı şeklinde olabilir. Bütünleme sınavı soru ve puan dağılımı o yıl dersi olan tüm ana bilim dallarının ders saatleri ve ders kapsamları (öğrenme hedefleri) dikkate alınarak ilgili koordinatörlük tarafından belirlenir.

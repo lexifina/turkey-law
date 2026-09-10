@@ -1,0 +1,4 @@
+Not ortalamalarının hesaplanması
+MADDE 22- (1) Öğrencilerin başarı durumları, her yıl sonunda hesaplanan dönem not ortalaması (ANO) ve almış oldukları tüm dersler, ders kurulları ve stajlar için genel not ortalaması (AGNO) ile belirlenir. ANO, öğrencinin kayıtlı olduğu yılın ağırlıklı not ortalamasıdır. AGNO, öğrencinin Üniversiteye girişinden itibaren, ders kurulları ve stajların tümü göz önüne alınarak hesaplanan ağırlıklı not ortalamasıdır.
+(2) Mezuniyet derecesi, öğrencinin tamamladığı öğretim programındaki ağırlıklı not ortalaması esas alınarak belirlenir. Ağırlıklı not ortalaması öğrencinin her ders kurulu ve stajlardan almış olduğu başarı notunun, ders kurulları ve stajların kredileri ile çarpımlarının toplamı ile elde edilen sayının, ders kurulları ve stajların kredi değerlerinin toplamına bölünmesi ile hesaplanır.
+(3) Ağırlıklı ortalamanın hesaplanmasında bölme işlemi virgülden sonra iki basamak yürütülür.

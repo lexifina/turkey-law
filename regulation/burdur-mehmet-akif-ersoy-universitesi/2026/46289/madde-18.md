@@ -1,0 +1,2 @@
+Yıl sonu sınavı
+MADDE 18- (1) Her dönemin sonunda son ders kurulu sınavının bitiminden en erken 15 (on beş) gün sonra bütün ders kurullarını kapsayan yıl sonu sınavı yapılır. Bu sınav çoktan seçmeli yazılı sınav ve/veya pratik uygulama sınavı şeklinde olabilir. Yıl sonu sınavı soru ve puan dağılımı o yıl dersi olan tüm ana bilim dallarının ders saatleri ve ders kapsamları (öğrenme hedefleri) dikkate alınarak ilgili koordinatörlük tarafından belirlenir.
