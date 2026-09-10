@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/987",
+  "case_number": "2026/594",
+  "decision_date": "2026-09-10",
+  "title": "2026/987 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/a2zsha.pdf",
+  "source_sha256": "ce0438d883e65de230eb247c063e7d7634492bdacc1771e44721f20b10ba7a45",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
