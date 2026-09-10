@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/964",
+  "case_number": "2025/2316",
+  "decision_date": "2026-09-10",
+  "title": " 2026/964 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/kf1ppd.pdf",
+  "source_sha256": "e6c23e35869f1f9fd0fbd683dd9cddfc57ea3cc6933037e18e51bf8ea9b323cf",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
