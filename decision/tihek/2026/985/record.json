@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/985",
+  "case_number": "2025/3565",
+  "decision_date": "2026-09-10",
+  "title": "2026/985 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/k098xi.pdf",
+  "source_sha256": "642de9260db4863d31b0ca888b8eae8d8132c85ccf9f99188a0f94e63ecac8ab",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
