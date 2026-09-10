@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1005",
+  "case_number": "2025/2551",
+  "decision_date": "2026-09-10",
+  "title": "2026/1005 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/cvj5ue.pdf",
+  "source_sha256": "6485089c7f31c547f6028a2128b312c76dc2e7c91d99d18853c49dbfc1f7b8ed",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
