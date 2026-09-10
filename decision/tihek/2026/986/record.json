@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/986",
+  "case_number": "2026/660",
+  "decision_date": "2026-09-10",
+  "title": "2026/986 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/ktygu9.pdf",
+  "source_sha256": "0f5254e07400f129b93b79a8fb1d68a2561443805ff66671a95a1465ca82d025",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
