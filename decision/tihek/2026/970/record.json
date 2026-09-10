@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/970",
+  "case_number": "2026/669",
+  "decision_date": "2026-09-10",
+  "title": " 2026/970 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/ut2stj.pdf",
+  "source_sha256": "23bc7412594577bb3cf652ae780234ce26483b98755e202a43b7d7ad358ea10f",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
