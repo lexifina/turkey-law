@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1038",
+  "case_number": "2025/3961",
+  "decision_date": "2026-09-10",
+  "title": "2026/1038 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/hxg2pr.pdf",
+  "source_sha256": "8223224e4ebafbebdd130989d9f55b3f6603f212b047296ecf961ce2fba3b356",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
