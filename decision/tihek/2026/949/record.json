@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/949",
+  "case_number": "2025/3550",
+  "decision_date": "2026-09-10",
+  "title": " 2026/949 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/hlunbi.pdf",
+  "source_sha256": "78f091de02097e60126586c46b615a66424eade581c18cd169989307b710ec47",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
