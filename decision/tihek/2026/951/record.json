@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/951",
+  "case_number": "2025/3076",
+  "decision_date": "2026-09-10",
+  "title": " 2026/951 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/gkhb04.pdf",
+  "source_sha256": "2c16c9cc34669748afe28e95712b43d6e29ad23a7e20cc8f53b7db140ddeefe5",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
