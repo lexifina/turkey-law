@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/971",
+  "case_number": "2025/3181",
+  "decision_date": "2026-09-10",
+  "title": " 2026/971 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/oja3th.pdf",
+  "source_sha256": "7d9776ce4a888e0371faed52f7ffc9720f9a508852474d898aecf6a6076ec8e1",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
