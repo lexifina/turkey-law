@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/979",
+  "case_number": "2025/3742",
+  "decision_date": "2026-09-10",
+  "title": "2026/979 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/tt35mq.pdf",
+  "source_sha256": "5eb419e2c1b0d5b2cdf25f5d84019210da3ad9216c22706b0e1a473e0a819f8b",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
