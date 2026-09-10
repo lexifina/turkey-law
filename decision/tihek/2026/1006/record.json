@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1006",
+  "case_number": "2026/2706",
+  "decision_date": "2026-09-10",
+  "title": "2026/1006 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/yudjil.pdf",
+  "source_sha256": "66f7fc62e972e395180d6d2f5cfbf1e65c0c3c389a636043d4e6ce6117f86cda",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
