@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/944",
+  "case_number": "2025/3394",
+  "decision_date": "2026-09-10",
+  "title": "2026/944 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/8v6ka1.pdf",
+  "source_sha256": "a3c98de1551b0bca864d60b3d671f24c5aa222694643ab12a4a08599286aeb64",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
