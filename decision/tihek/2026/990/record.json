@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/990",
+  "case_number": "2025/2589",
+  "decision_date": "2026-09-10",
+  "title": "2026/990 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/6k8ugi.pdf",
+  "source_sha256": "119526bff5e79fdb3302fb705841074fc5ab37e284371e956a929d78d6661799",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
