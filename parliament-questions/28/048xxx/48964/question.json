@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/48964",
+  "submitted": "2026-09-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sümeyye BOZ ÇAKI",
+  "province": "Muş",
+  "summary": "Muş ilinde hastane kavşaklarında yaşanan trafik yoğunluğuna ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e659a85a-2a6c-4cfd-9040-01a0905a1e8f",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "58647ccece45277af59780042a397ef29fb705059ef70b22c5408d55bd6332a3",
+  "in_force": "2026-09-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
