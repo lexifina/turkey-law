@@ -1,0 +1,3 @@
+Üniversiteden çıkarılma
+MADDE 29- (1) (Değişik:RG-13/7/2024-32601) Öğrencilerin, 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre yükseköğretim kurumundan çıkarma cezası almış olmaları halinde ilgili yönetim kurulu kararıyla Üniversite ile ilişikleri kesilir.
+(2) Azami süreler içinde katkı payı veya öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin kural olarak ilişikleri kesilmez. Ancak Senatonun kararı ve Yükseköğretim Kurulunun onayı ile dört yıl üst üste katkı payı veya öğrenim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilir.

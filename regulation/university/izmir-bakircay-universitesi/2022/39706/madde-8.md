@@ -1,0 +1,2 @@
+Yurt dışı ortak program öğrencilerinin kaydı
+MADDE 8- (1) Üniversitenin yurt dışındaki bir üniversite ile ortak düzenleyeceği programlara ait öğrencilerin kayıt işlemleri 6/10/2016 tarihli ve 29849 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurt Dışı Yükseköğretim Kurumlarıyla Ortak Eğitim Öğretim Programlarına Dair Yönetmelik ve ilgili diğer mevzuat hükümleri ile Senato kararları uyarınca yürütülür.
