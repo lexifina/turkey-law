@@ -1,0 +1,3 @@
+Öğrenci işlemleri
+MADDE 10- (1) Fakültede eğitim-öğretim görmeye hak kazanan öğrencilerin kayıtları, kimlik kartlarının tanzimi ve tasdiki, askerliklerinin tecil işlemleri, öğrenci belgelerinin verilmesi, dosyalarının tutulması, diplomalarının ve diploma eklerinin düzenlenmesi işlemleri ile öğrencilerin yazılı talepleri üzerine veya yükseköğretim kurumundan çıkarılma cezasını gerektiren durumlarda kayıtlarının silinmesi, Öğrenci İşleri Daire Başkanlığı tarafından yürütülür.
+(2) Fakülte öğrencilerinin kayıtlarının iptal edilmesi ile diğer yükseköğretim kurumlarından gelen öğrencilerin yatay geçişleri ve intibaklarının yapılması, eğitim-öğretim ve sınavlara ilişkin işlemler, Fakülte Yönetim Kurulunun kararına istinaden Dekanlık tarafından yürütülür.

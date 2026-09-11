@@ -1,0 +1,3 @@
+Koordinatörlük
+MADDE 6- (1) Fakülte Yönetim Kurulu tarafından Fakültenin öğretim üyeleri arasından görevlendirilen üyelerle oluşturulan koordinatörlük; mezuniyet öncesi eğitim-öğretim koordinatörlüğü, mezuniyet sonrası eğitim-öğretim koordinatörlüğü, sürekli tıp eğitim-öğretim koordinatörlüğü, bilişim hizmetleri koordinatörlüğü, sosyal ve kültürel etkinlikler koordinatörlüğü ve spor faaliyetleri koordinatörlüğünden meydana gelir ve faaliyetlerinden Dekana karşı sorumludur.
+(2) Koordinatörlük, eğitim-öğretimin planlanması, yürütülmesi ve değerlendirilmesi faaliyetlerine katkıda bulunur, mezuniyet öncesi ve sonrası bilimsel etkinlikler düzenler, bilişim hizmetlerini yürütür, sosyal ve kültürel etkinlikler ile spor faaliyetlerini düzenler.

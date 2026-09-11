@@ -1,0 +1,2 @@
+Sınav programları
+MADDE 24- (1) Sınav programları; ara sınavlar ve staj sonu sınavları hariç olmak üzere, eğitim-öğretim yılı başlamadan önce hazırlanıp öğretim elemanları ve öğrencilere duyurulur. Ara sınavlar, ders kurulu sonu sınavları ve staj sonu sınavlarının tarihleri en geç iki hafta önceden ilan edilir. Dini ve milli bayramlar dışında cumartesi ve pazar günlerinde de sınav yapılabilir. Sınav tarihleri, Dekanlığın izni dışında değiştirilemez.
