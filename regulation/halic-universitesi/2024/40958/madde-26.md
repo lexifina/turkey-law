@@ -1,0 +1,4 @@
+Ders muafiyeti
+MADDE 26- (1) Öğrenci; daha önce aldığı ancak bir diplomaya sayılmamış olan veya kayıt sildirdiği yükseköğretim kurumlarında almış olduğu ve en az (Değişik ibare:RG-3/4/2026-33213) DD seviyesinde başardığı derslerden muaf olmak için eğitim-öğretimin başlamasından veya kayıt yaptırdığı tarihten itibaren beş işgünü içinde başkanlığa başvuruda bulunur. Başvuru; bölüm kurulu tarafından bir defaya mahsus olmak üzere değerlendirilir ve birim kurulunda karara bağlanır. Bu kararda; öğrencinin, intibakının yapıldığı ve öğrenim göreceği yarıyılı/yılı belirtilir.
+(2) Birimlerden alınan derslerin muafiyet taleplerinde ise 34 üncü maddedeki başarı kıstasları esas alınır.
+(3) Bütün öğrencilerin ortak zorunlu derslerden muafiyet işlemlerinde, lisans tamamlama öğrencilerinin muafiyet işlemlerinde ve ÖSYM tarafından DGS sonucu yerleştirilen öğrencilerin muafiyet işlemlerinde, daha önce bir diplomaya sayılmamış olma şartı uygulanmaz.

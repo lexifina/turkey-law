@@ -1,0 +1,2 @@
+İş yeri eğitimi, bitirme ödevi, bitirme projesi, bitirme tasarım projesi ve staj
+MADDE 28- (1) Öğrenciler, eğitim-öğretim müfredatlarında varsa iş yeri eğitimlerini, bitirme ödevlerini, bitirme projelerini, bitirme tasarım projelerini ve/veya stajlarını yapmak zorundadırlar. İş yeri eğitimi, bitirme ödevi, bitirme projesi, bitirme tasarım projesi hazırlama ve/veya staj yapma yöntem ve değerlendirme esasları birim kurullarının teklifi üzerine Senato tarafından belirlenir.

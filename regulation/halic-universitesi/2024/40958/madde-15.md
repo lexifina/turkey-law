@@ -1,0 +1,2 @@
+Danışman tayini
+MADDE 15- (1) Kayıt yaptıran öğrencilere; eğitim-öğretim konularında karşılaşacakları problemlerin çözümünde yardımcı olmak, öğrencileri bilgilendirmek, yönlendirmek ve ders seçimlerini onaylamak üzere, ders yılı başlamadan önce başkanlıklar tarafından, tek diploma programı olan birimlerde ise birim yöneticileri tarafından bölümün öğretim elemanları arasından öğrenci danışmanları görevlendirilir. Danışmanların atanması ve görevlerine ilişkin esaslar Senato tarafından belirlenir.

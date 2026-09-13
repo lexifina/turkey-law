@@ -1,0 +1,8 @@
+Eğitim-öğretim süreleri
+MADDE 6- (1) Eğitim-öğretim süreleri, yabancı dil hazırlık programında geçirilen süre hariç; Tıp Fakültesinde altı yıl, diğer fakültelerde, konservatuvarda ve yüksekokullarda dört yıl, meslek yüksekokullarında ise iki yıldır.
+(2) Öğrenciler, bir yıl süreli yabancı dil hazırlık sınıfı hariç, kayıt oldukları programa ilişkin derslerin verildiği dönemden başlamak üzere her dönem için kayıt yaptırıp yaptırmadıklarına bakılmaksızın; öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans programlarını azami yedi yıl, öğrenim süresi beş yıl olan lisans programlarını azami sekiz yıl, öğrenim süresi altı yıl olan lisans programlarını azami dokuz yıl içinde tamamlamak zorundadırlar. Yabancı dil hazırlık eğitim süresi azami iki yıldır.
+(3) Azami öğrenim sürelerinin bitiş tarihi, ilgili eğitim-öğretim yılının yaz okulu dönemini de kapsar.
+(4) Sağlık raporu ile belgelendirmek kaydıyla, uzun süreli sağlık problemleri nedeniyle kayıt, devam, uygulama ve sınav şartlarını yerine getiremeyen veya kayıt donduran öğrencilerin; ilgili birim yönetim kurulunun teklifi ve Senatonun kararı ile hakları saklı tutulabilir ve kaybedilen süre, öğrenim süresinden sayılmayabilir.
+(5) Yükseköğretim kurumundan uzaklaştırma cezası alan öğrencilerin ceza süreleri, öğrenim sürelerinden sayılır.
+(6) Muafiyetleri ilgili birim yönetim kurullarında kabul edilen öğrencilerin; öğrenim durumlarına göre, daha önce eğitim-öğretim gördükleri süre, birim yönetim kurulu teklifi ve Senato kararıyla normal ve azami sürelere sayılabilir.
+(7) Diğer yükseköğretim kurumlarında, değişim programları kapsamında veya özel öğrenci olarak geçirilen süreler, normal ve azami sürelere sayılır.
