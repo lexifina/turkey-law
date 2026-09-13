@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) EABD/EASD: Enstitü anabilim/anasanat dalını,
+ç) EABDB/EASDB: Enstitü anabilim/anasanat dalı başkanlığını,
+d) Enstitü: Konya Gıda ve Tarım Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+e) Eşdeğer diploma programı: İsimleri aynı olan veya enstitü yönetim kurulu tarafından içeriklerinin en az %80'inin aynı olduğu tespit edilen diploma programlarını,
+f) EYK: Enstitü Yönetim Kurulunu,
+g) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ğ) İYS: Konya Gıda ve Tarım Üniversitesi İngilizce dil seviye tespit ve yeterlik sınavını,
+h) Mütevelli Heyet: Konya Gıda ve Tarım Üniversitesi Mütevelli Heyeti,
+ı) ÖİDB: Konya Gıda ve Tarım Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+j) Rektör: Konya Gıda ve Tarım Üniversitesi Rektörünü,
+k) Senato: Konya Gıda ve Tarım Üniversitesi Senatosunu,
+l) TİK: Doktora tez izleme komitesini,
+m) Üniversite: Konya Gıda ve Tarım Üniversitesini,
+n) YDK: Yabancı Diller Koordinatörlüğünü,
+o) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ö) YÖK: Yükseköğretim Kurulunu,
+p) YÖKDİL: Yükseköğretim Kurumları Yabancı Dil Sınavını,
+ifade eder.

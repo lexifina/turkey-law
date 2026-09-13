@@ -1,0 +1,7 @@
+Programlar ve dersler
+MADDE 32- (1) Enstitü EABD/EASD lisansüstü öğretim planları, mezuniyet için alınması gereken zorunlu/seçmeli dersler, tez, seminer ve benzeri çalışmalar ile kredi toplamları Senatonun önerisi üzerine ilgili enstitü kurulunda görüşülerek onaylanır.
+(2) Bir yarıyılda hangi lisansüstü derslerin açılacağı ve dersleri yürütecek öğretim elemanları, EABDB/EASDB'nin önerileri üzerine EYK tarafından belirlenir. Dersleri yürütecek öğretim elemanlarının en az doktora veya eşdeğeri lisansüstü eğitim mezunu olması gerekir.
+(3) Lisansüstü programların kredi ve AKTS değerlerinin belirlenmesinde; bir dersin yarıyıl kredi değeri haftalık teorik ders saatlerinin tamamı ile haftalık uygulama/laboratuvar saatlerinin yarısının toplamından oluşur. AKTS kredileri Senato tarafından belirlenen ilkeler çerçevesinde hesaplanır.
+(4) Lisansüstü programlarla ilgili devam, sınavlar, notlar, başarı koşulları, ders tekrarı ve diğer esaslar ilgili mevzuat hükümleri kapsamında Senato tarafından belirlenir.
+(5) Bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren en az bir dersin lisansüstü eğitim sırasında verilmesi zorunludur.
+(6) Enstitü kurulunca onaylanan dersler içinden hangilerinin öğrencinin ders programında yer alacağına öğrenci ile birlikte danışmanı karar verir. Tez danışmanı atanıncaya kadar bu görev EABDB/EASDB veya program koordinatörü tarafından yürütülür.

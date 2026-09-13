@@ -1,0 +1,4 @@
+Doktora programında süre
+MADDE 17- (1) Doktora programı, bilimsel hazırlıkta geçen süre hariç tezli yüksek lisans derecesi ile kabul edilenler için kaydolunan programa ilişkin derslerin verildiği dönemden başlamak üzere sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıl; lisans derecesi ile kabul edilenler için on yarıyıl olup azami tamamlama süresi on dört yarıyıldır.
+(2) Doktora programı için gerekli kredili dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi ile kabul edilenler için dört yarıyıl, lisans derecesi ile kabul edilenler için altı yarıyıldır. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya en az 3,00 ağırlıklı genel ortalamasını sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(3) Kredili derslerini başarıyla bitiren, yeterlik sınavında başarılı bulunan ve tez önerisi kabul edilen, ancak tez çalışmasını birinci fıkrada belirtilen süreler içinde tamamlayamayan öğrencinin ilişiği kesilir.

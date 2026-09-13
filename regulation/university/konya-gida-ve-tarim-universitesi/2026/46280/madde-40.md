@@ -1,0 +1,16 @@
+Kayıt dondurma
+MADDE 40- (1) Öğrenci, haklı ve geçerli mazeretini belgelemek koşuluyla, talebi üzerine ve Enstitü Yönetim Kurulunun kararıyla lisansüstü öğrenimi süresince bir defada en çok iki yarıyıl, toplamda ise en çok dört yarıyıl süreyle kaydını dondurabilir. Kayıt dondurma süresi azami öğrenim süresine dahil edilmez. Rahatsızlığının ve tedavi sürecinin devam etmesi nedeniyle kayıt dondurma talebinde bulunan öğrenci ile hükümlü öğrencinin mazereti Enstitü Yönetim Kurulunca değerlendirilir. Bu öğrenciler bakımından kayıt dondurma süresi dört yarıyılı aşabilir. Bu süre azami öğrenim süresine dahil edilmez. Kayıt dondurma bakımından haklı ve geçerli kabul edilen mazeretler şunlardır:
+a) Öğrencinin sağlık mazeretinin sağlık kurulu raporuyla belgelenmesi.
+b) Öğrencinin doğal afetler nedeniyle öğrenimine ara vermek zorunda kaldığını mahallin en büyük mülki amirince düzenlenen belgeyle belgelenmesi.
+c) Öğrencinin tutuklu olması veya yükseköğretim kurumundan çıkarma cezası almasını gerektirmeyen bir mahkûmiyetinin bulunması.
+ç) Öğrencinin herhangi bir nedenle askerlik tecilinin kaldırılması üzerine askere alınması.
+d) Öğrencinin mesleği veya lisansüstü çalışmalarıyla ilgili olarak öğrenim amacıyla geçici süreyle yurt dışına gitmesi ya da aynı amaçla yurt içindeki bir kuruluşta geçici süreyle görevlendirilmesi.
+e) Öğrencinin birinci derece yakınının hastalığı hâlinde, bu yakının bakımını üstlenecek başka bir kişinin bulunmadığını belgelemesi.
+f) Ders yükünü başarıyla tamamlayan öğrencinin tez çalışmasının, cihaz veya malzeme teminindeki güçlükler gibi kendi iradesi dışındaki nedenlerle aksaması.
+g) Enstitü Yönetim Kurulunca değerlendirmelerle kabul edilecek diğer mazeretler nedeniyle başvurulması.
+(2) Afet ve salgın dönemlerinde tez aşamasındaki öğrencilere talepleri hâlinde en fazla iki dönem ek süre verilebilir; bu süreler azami süreden sayılmaz.
+(3) Doğum yapan lisansüstü kadın öğrencilere talepleri hâlinde doğum sonrası iki dönem ek süre verilebilir; bu süreler azami süreden sayılmaz.
+(4) Acil durumlar dışında kayıt dondurma süresi, karar tarihini izleyen yarıyıldan itibaren başlar. Yarıyıl başlangıcını izleyen on beş iş günü içinde yapılan kayıt dondurma başvuruları için, o yarıyılda da izin başlatılabilir. Kayıt dondurma süresi sonunda öğrenci, kaydını yenilemek zorundadır.
+(5) Kayıt dondurma süresi sonunda öğrenimine geri dönmeyenlerin ya da kaydını yenilemeyenlerin kayıtları azami öğrenim sürelerinin sonuna kadar askıya alınır ve bu öğrenciler yeniden kayıt yaptırıncaya kadar öğrencilik haklarından yararlanamazlar. Bu öğrenciler kayda geldikleri akademik yıl geçerli olan öğrenim ücretini ödemek ve yürürlükteki programa EYK tarafından intibakları yapılmak koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilirler ve öğrencilik haklarından yararlanabilirler.
+(6) Kayıt dondurma süresi dolmadan dönüş yapmak isteyen öğrencilerin, dilekçe ile ilgili dönemin mazeretli kayıtları başlamadan önce ilgili EABDB/EASDB’ye başvurmaları gerekir. Başvuru, öğrencinin akademik/tez danışmanı, EABDB/EASDB ve Enstitü Müdürlüğü tarafından değerlendirilerek ÖİDB’ye iletilir.
+(7) Yükseköğretim kurumundan süreli uzaklaştırma ya da çıkarma cezası alan öğrenciler izinli sayılmazlar.

@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/konya-gida-ve-tarim-universitesi/2026/46280",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 44- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 44- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33369",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-13",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Konya Gıda ve Tarım Üniversitesi",
+  "issuer_slug": "konya-gida-ve-tarim-universitesi",
+  "kind": "regulation",
+  "published": "2026-09-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46280&MevzuatTertip=5",
+  "source_id": "8.5.46280",
+  "source_sha256": "8f2dcaebc82897cc9a850bc5d88ede8f6739b9ca13a53406b44c91a89922c133",
+  "title": "KONYA GIDA VE TARIM ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 440,
+  "version_label": "oldest version available",
+  "word_count": 6298
+}

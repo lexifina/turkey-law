@@ -1,0 +1,2 @@
+Gerçeğe aykırı beyan ve evrakta sahtecilik
+MADDE 36- (1) Gerçeğe aykırı veya yanıltıcı beyan ve belgelerle kayıt hakkı kazanmış olanların tespiti halinde kayıtları yapılmaz, yapılmış ise bulundukları yarıyıla bakılmaksızın kayıtları iptal edilir; kendilerine verilmiş olan diploma dâhil tüm belgeler geçersiz sayılır ve haklarında yasal işlem başlatılır. Bu durumda olanlar öğrencilik statüsü kazanmamış sayılır ve gelecekte öğrencilikle ilgili hiçbir haktan yararlanamazlar.

@@ -1,0 +1,3 @@
+Diploma ve belgeler
+MADDE 37- (1) Öğrencilere ve mezunlara verilen diplomalar (tezli yüksek lisans, tezsiz yüksek lisans, doktora), diploma eki, geçici mezuniyet belgesi, not çizelgesi ve öğrenci belgesi ile bunların verilme koşulları Senato tarafından belirlenir. Diplomalar Rektör ve ilgili enstitü müdürü tarafından imzalanır.
+(2) Diplomanın üzerinde öğrencinin kayıtlı olduğu enstitü anabilim dalındaki programın YÖK tarafından onaylanmış adı bulunur. Diplomaların şekli, ölçüleri ve üzerine yazılacak bilgiler Senato tarafından belirlenir. Diplomaların kaybı hâlinde yenisi hazırlanır ve yeniden düzenlendiği belirtilir.
