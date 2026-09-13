@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Avrupa Kredi Transfer Sistemi (AKTS) kredisi: Öğrencilerin o derse ilişkin hedeflenen öğrenme kazanımlarına ulaşabilmek için dersle ilgili olarak yaptıkları tüm pratik çalışmalar, seminerler, alan çalışmaları, bireysel çalışmalar, sınavlar gibi ders saati içinde ve ders saati dışındaki tüm iş yükünün sayısal değerini,
+b) Birim: Üniversiteye bağlı fakülte ve meslek yüksekokulunu,
+c) Çift anadal programı: Başarı şartını ve diğer koşulları sağlayan öğrencilerin aynı Yükseköğretim kurumunun iki diploma programından eş zamanlı olarak ders alıp iki ayrı diploma alabilmesini sağlayan programı,
+ç) Genel ağırlıklı not ortalaması (GANO): Her bir dersten elde edilen harf notu katsayısının dersin kredisi ile çarpılarak elde edilen sonucun ilgili dönemine kadar aldığı tüm derslerin kredi değerleri toplamına bölünmesi yolu ile bulunacak değeri,
+d) İlgili kurul: İstanbul Atlas Üniversitesine bağlı bölümlerde bölüm kurulunu, fakültelerde fakülte kurulunu ve meslek yüksekokullarında meslek yüksekokulu kurulunu,
+e) İlgili yönetim kurulu: İstanbul Atlas Üniversitesine bağlı fakültelerde fakülte yönetim kurulunu, meslek yüksekokullarında meslek yüksekokulu yönetim kurulunu,
+f) Mütevelli Heyeti: İstanbul Atlas Üniversitesi Mütevelli Heyetini,
+g) Öğrenci İşleri Daire Başkanlığı: İstanbul Atlas Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+ğ) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+h) Rektör: İstanbul Atlas Üniversitesi Rektörünü,
+ı) Senato: İstanbul Atlas Üniversitesi Senatosunu,
+i) Üniversite: İstanbul Atlas Üniversitesini,
+j) Yan dal programı: Bir diploma programına kayıtlı öğrencinin öngörülen şartları taşıması kaydıyla aynı yükseköğretim kurumu içinde başka bir diploma programı kapsamında belirli bir konuya yönelik sınırlı sayıda dersi almak suretiyle diploma yerine geçmeyen bir belge (yan dal sertifikası) alabilmelerini sağlayan programı,
+k) Yarıyıl Not Ortalaması (YNO): İlgili yarıyılda alınmış olan her bir dersten elde edilen başarı notu katsayısının ders kredisi ile çarpılıp toplanması ile elde edilen sayının ilgili yarıyılda alınan toplam ders kredisine bölünmesi yolu ile bulunacak değeri,
+l) Yönetim Kurulu: Üniversite Yönetim Kurulunu,
+m) YÖK: Yükseköğretim Kurulunu,
+n) (Ek:RG-13/9/2026-33369) İşletmede mesleki eğitim: Öğrencilerin, eğitim gördükleri yükseköğretim programı ile ilgili işletmelerde uygulamaların içinde yer alarak mesleki bilgi ve beceri kazanmalarını sağlayan ve Üniversitenin akademik takvimine uygun olarak tam zamanlı eğitim-öğretim dönemi içinde yapılan uygulamalı eğitimi,
+ifade eder.

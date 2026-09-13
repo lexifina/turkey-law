@@ -1,0 +1,13 @@
+Derslerin kredi değerleri ve ders yükü
+MADDE 21- (Değişik:RG-13/9/2026-33369)
+(1) Bir yarıyıl süren bir dersin kredisi, o ders için haftalık teorik ders saati toplamına varsa o derse ilişkin olarak yapılan uygulama veya diğer çalışmaların haftalık saatinin yarısı eklenmek sureti ile belirlenir. Gerek görülmesi halinde yıllık dersler açılabilir. Yıllık derslerin kredi ve notları, nihai notun verildiği yarıyıldan itibaren hesaba katılır.
+(2) Ders yükü, bir öğrencinin herhangi bir yarıyılda aldığı derslerin toplam AKTS kredisidir. Ön lisans ve lisans öğrencilerinin güz ve bahar yarıyıllarında normal ders yükü, kayıtlı oldukları akademik programların ilgili yarıyılı için öngörülen ders yüküdür.
+(3) Öğrenciler, öncelikle başarısız oldukları veya hiç almadıkları derslere kaydolmak zorundadır. Devam zorunluluğu olan dersler haftalık ders programında çakışmamak ve belirlenen genel ders yükü sınırlarını aşmamak kaydıyla alınabilir.
+(4) Öğrencilerin üst yarıyıldan ders almamak kaydıyla GANO’suna göre alabilecekleri azami AKTS kredileri şunlardır:
+a) GANO’su 1,99 ve daha az olan öğrencilerin bir yarıyıldaki toplam ders yükü en fazla 36 AKTS kredisidir.
+b) GANO’su 2,00-2,99 arasında olan öğrenci, normal ders yüküne ilave olarak toplam 40 AKTS kredisini geçmemek kaydıyla ders alabilir.
+c) GANO’su 3,00 ve üzerinde olan öğrenci, normal ders yüküne ilave olarak toplam 45 AKTS kredisini geçmemek kaydıyla ders alabilir.
+(5) Yatay geçiş ve dikey geçiş yoluyla kayıt yaptıran öğrencilerin kayıt yaptırdıkları ilk akademik yılda alabilecekleri azami ders yükü, 45 AKTS kredisidir.
+(6) Öğrencinin çift anadal veya yan dal programına kayıtlı olması halinde bir yarıyılda alabileceği azami ders yükü 45 AKTS kredisidir. Çift anadal veya yan dal programlarından mezun olunması halinde toplam ders yükü dördüncü fıkra hükümlerine göre belirlenir.
+(7) Lisans programlarında öğrencilerin üst yarıyıllardan ders alabilmesi için en az üçüncü yarıyılın başında olması, alt yarıyıllardan başarısız (tekrar) veya müfredatında yer alıp hiç almadığı dersinin bulunmaması ve GANO’sunun en az 3,00 olması gerekir. Bu koşulları sağlayan öğrenciler, akademik danışman onayı ve üst yarıyıllardan alınacak derslerin kayıtlı olunan yarıyıldaki devam zorunluluğu olan derslerle çakışmaması kaydıyla bulundukları yarıyılın ders yüküne ek olarak üst yarıyıllardan en fazla 15 AKTS kredisine kadar ders alabilirler.
+(8) İşletmede mesleki eğitim modeline dahil olan öğrencilerin ilgili yarıyıldaki AKTS ders yükleri, staj muafiyetlerine karşılık saydırılacak seçmeli ders intibakları ve bu dönemde sahadaki eğitimle eşzamanlı olarak alabilecekleri uzaktan öğretim derslerine ilişkin hususlar Senato tarafından belirlenir.

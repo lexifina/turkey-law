@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 44- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 13/9/2026",
+  "first_law": null,
+  "gazette": "32293",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-13",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "İstanbul Atlas Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2023-08-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=40291&MevzuatTertip=5",
+  "source_bytes": 116695,
+  "source_id": "8.5.40291",
+  "source_sha256": "7ddf89c6027e7187c709a3880df9cb1c65e1effd460931ab2593fcfc61a77bc0",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL ATLAS ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 515,
+  "version_label": "oldest version available",
+  "word_count": 5134
+}

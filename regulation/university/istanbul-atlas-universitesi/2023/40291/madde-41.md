@@ -1,0 +1,2 @@
+Mücbir sebep durumlarında eğitim-öğretime ilişkin alınması gereken tedbirler
+MADDE 41- (1) Mücbir sebep olarak kabul edilebilecek deprem, salgın, savaş, seferberlik, terör ve benzeri olağan dışı durumlarda ve bunların etkisinin devam ettiği süreçlerde; eğitim-öğretimin devamının sağlanabilmesi ve öğrenci mağduriyetlerinin önlenebilmesi amacıyla, eğitim-öğretime ilişkin esas ve sürelerde değişiklik yapmaya, yeni kararlar almaya Senato yetkilidir.

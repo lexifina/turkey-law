@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Sınavlar, Notlar ve Başarı Değerlendirilmesi
+Sınavlar
+MADDE 26- (1) Her dersin öğretim elemanı, yarıyıl başında öğrencilerin sorumlu olduğu sınav, ödev, uygulama ve diğer çalışmaların dönem notu içindeki ağırlıklarını öğrencilere duyurur. Bir öğrencinin bir dersten aldığı başarı notunun değerlendirilmesinde, o derse ait çalışmalarında gösterdiği başarı düzeyi, yarıyıl/yıl içi sınav ve çalışmalarına ait GANO’su ile yarıyıl/yıl sonu sınavında aldığı not birlikte değerlendirilir. Klinik uygulamalarda ilgili klinikten gelen değerlendirme raporu ve devam durumu dikkate alınır.
+(2) Yarıyıl/yıl içi sınav ve diğer çalışmaların başarı notu içindeki ağırlığı yarıyıl içi %60 yarıyıl sonu %40 olarak uygulanır. Yarıyıl sonu ve bütünleme sınavından 40 puan altında alınması durumunda öğrenci başarısız sayılır. (Değişik cümle:RG-28/9/2025-33031) Üniversite seçmeli dersler hariç yarıyıl içi değerlendirmelerde biri sınav olmak üzere en az iki ölçme faaliyetinin yapılması zorunludur. Uygulama, staj, atölye ve proje dersleri gibi niteliği gereğince ilgili yönetim kurulu tarafından sınav yapılmasına gerek görülmeyen dersler dışında tüm dersler için yarıyıl/yıl sonu sınavı yapılır.
+(3) Yarıyıl/yıl sonu sınavı sonrasında başarısız olan öğrencilere başarısız oldukları dersler için bütünleme sınavı yapılır. Devam koşulu sağlamayan öğrenci bütünleme sınavına giremez. Bütünleme sınavından alınan not, başarı notunun hesaplanmasında yarıyıl/yıl sonu sınav notu yerine geçer.
+(4) İlgili yönetim kurulu kararı ile yarıyıl/yıl sonu sınav gerektirmeyen uygulamalı derslerden (uygulama, atölye, proje, klinik uygulama ve bitirme projeleri ve benzeri) başarısız olan öğrenciler bütünleme sınav hakkından yararlanamazlar.
+(5) Öğrenciler ancak ilgili yarıyılda kayıtlı oldukları derslerin bütünleme sınavına girebilirler.
+(6) Ek sınavlar ve tek ders sınavları için bütünleme sınavı düzenlenmez.

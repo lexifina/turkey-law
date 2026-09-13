@@ -1,0 +1,7 @@
+Kayıt dondurma
+MADDE 37- (1) Öğrenciler belgelemek koşuluyla sağlık, askerlik, ailevi, öğrenci değişim programları dışında yurt dışında öğrenim görme, beklenmedik zorunlu olaylar gibi nedenlerle bağlı bulundukları Dekanlığa/Meslek Yüksekokulu Müdürlüğüne, kayıt dondurma için başvuru yapabilir. (Değişik ikinci cümle:RG-7/10/2024-32685) İlgili yönetim kurulunun önerisi ile öğrencinin kaydı dondurulabilir. Bu süreler arasında öğrenci izinli sayılır ve kayıt dondurulan süreler öğrenim sürelerine dâhil edilmez.
+(2) Eğitim-öğretim başlama tarihini takip eden altıncı haftanın son iş gününden sonra yapılan kayıt dondurma talepleri değerlendirmeye alınmaz.
+(3) Bir defada en çok iki yarıyıl olmak üzere, toplamda normal öğrenim süresinin en çok yarısı kadar kayıt dondurulabilir. Zorunlu hallerde, Yönetim Kurulu kararı ile bu süreler uzatılabilir. Askerlik, tutukluluk ve mahkûmiyet hallerinde kayıt dondurma süresi, bu hallerin süresi kadardır.
+(4) Kayıt dondurulan yarıyıllara ait eğitim-öğretim ücretinin yarısı ödenir.
+(5) Kayıt donduran öğrenciler, izin süresince Üniversitenin sağladığı imkânlardan ve öğrencilik haklarından yararlanamazlar.
+(6) Öğrenciler, izinlerinin bitimini izleyen yarıyılda, eğitim-öğretim ücretlerini ödeyerek ve ders kayıtlarını yaparak öğrenimlerine devam ederler. İzin bitiş tarihinden önce Üniversiteye dönmek isteyen öğrencilerin, bağlı bulundukları Dekanlık/Meslek Yüksekokulu Müdürlüğüne dilekçeyle başvuru yapmaları gerekmektedir.

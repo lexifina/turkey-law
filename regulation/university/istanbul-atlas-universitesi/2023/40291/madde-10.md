@@ -1,0 +1,3 @@
+Yatay geçiş ve dikey geçiş yolu ile kayıt
+MADDE 10- (1) Üniversite içi ya da Üniversiteler arası yapılacak olan geçişler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik, Senato kararları ve ilgili yönerge hükümlerine göre yapılır.
+(2) Üniversite içinden ya da diğer yükseköğretim kurumlarından yapılacak dikey geçişler, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açık Öğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine ve Senato kararlarına göre yapılır.

@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 14- (1) Yabancı dil zorunluluğu olduğu belirtilen programların dışında, Üniversitede öğretim dili Türkçedir. Senatonun önerisi, Mütevelli Heyeti kararı ve YÖK onayı ile Üniversitenin bazı diploma programlarında kısmen veya tamamen yabancı dille eğitim-öğretim yapılmasına karar verilebilir. Hangi programlarda yabancı dil ile eğitim-öğretim yapılabileceği ÖSYM kılavuzunda belirtilir.

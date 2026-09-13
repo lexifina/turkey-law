@@ -1,0 +1,5 @@
+Değişim programları ve/veya özel öğrenci olarak ders alma
+MADDE 9- (1) Değişim programları kapsamında ve/veya özel öğrenci olarak ders alma, YÖK kararları, ilgili mevzuat hükümleri, Senato kararları ve ilgili yönetim kurulu kararları ile yapılır.
+(2) Değişim programları kapsamında ve/veya özel öğrenci olarak ders alan öğrenciler, Üniversite öğrencisi sayılmazlar ve öğrencilik haklarından yararlanamazlar. Ancak diğer hususlarda Üniversite öğrencilerinin tabi olduğu mevzuat hükümlerine uymaları gerekir. Bu öğrencilere diploma veya unvan verilmez, istekleri üzerine Üniversitede aldıkları dersleri ve notları gösteren bir belge verilir.
+(3) Değişim programları ve özel öğrenci olarak ders alan öğrencilerin Mütevelli Heyeti tarafından belirlenen eğitim-öğretim ücretini ödemeleri gerekir.
+(4) Öğretim dili Türkçe olan programlarda öğrenim gören öğrencilerin, öğretim dili yabancı dil olan programlardan da ders alabilmeleri için yabancı dil düzeylerinin yeterli olduğunu belgelemeleri gerekir. Öğrenim dilinden farklı bir dilde programa başvuran öğrenciler başvurdukları programdaki yabancı dil seviyesini belgelemek zorundadır.
