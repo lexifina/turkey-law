@@ -1,0 +1,23 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.1022",
+  "decision_date": "2026-09-14",
+  "title": "İmar ve Bayındırlık",
+  "version_label": "official-summary",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/17092026_105516_KararOzet_04.1022%20%C4%B0mar%20ve%20Bay%C4%B1nd%C4%B1rl%C4%B1k.pdf",
+  "source_sha256": "b9e4bd00961ab84b3dfed4a084a3d17f40c694caf4ccdd12fa53d097a7e5b29d",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36888",
+  "text_status": "official decision summary text; full adopted text not separately supplied by this register",
+  "privacy_flags": [],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
