@@ -1,0 +1,20 @@
+Özel hükümler
+MADDE 6- (1) Bu Yönetmelik kapsamında yer alan ürünlerin gıdalarda kullanımı ile ilgili özel hükümler şunlardır:
+a) EK-3 Bölüm A’da listelenen maddeler, listede belirtilen formuyla gıdalara ilave edilemez.
+b) Distile alkollü içkiler ile ilgili gıda kodeksi hükümleri saklı kalmak koşuluyla, aroma vericilerin ve/veya aroma verme özelliği taşıyan gıda bileşenlerinin bazı bileşik gıdalara eklenmesi sonucunda, yapılarında doğal olarak bulunan bazı maddelerin eklendikleri bu gıdalarda bulunabilecek en yüksek miktarları, EK-3 Bölüm B’deki listede yer alır. Aksi belirtilmedikçe EK-3’te yer alan maddelerin en yüksek miktarları, gıdaların piyasaya arz edildiği haline uygulanır. Ancak sulandırmaya gerek duyulan kurutulmuş ve/veya konsantre edilmiş gıdalar için en yüksek miktarlar, üretici tarafından etikette beyan edilen kullanım talimatına göre hazırlanmış gıdaya en düşük seyreltme faktörü hesaba katılarak uygulanır.
+c) EK-4 Bölüm A’da yer alan kaynak materyaller, aroma vericilerin ve/veya aroma verme özelliği taşıyan gıda bileşenlerinin üretiminde kullanılmaz.
+ç) EK-4 Bölüm B’de yer alan kaynak materyallerden üretilen aroma vericiler ve/veya aroma verme özelliği taşıyan gıda bileşenleri, sadece bu bölümde belirtilen koşullar altında kullanılır.
+d) Aşağıda yer alan aroma vericiler ve aroma verme özelliği taşıyan gıda bileşenleri, 5 inci maddenin birinci fıkrasının (a) bendine uymak koşuluyla, bu Yönetmelik kapsamında bir değerlendirme ve onay gerektirmeksizin gıdalarda kullanılabilir:
+1) Uygun fiziksel, enzimatik veya mikrobiyolojik işlemlerle; işlenmemiş ya da EK-2’de listelenen geleneksel gıda hazırlama işlemlerinden biri veya birden fazlası ile insan tüketimi için işlenmiş gıdadan elde edilen aroma verici preparatlar.
+2) EK-5 Bölüm A’da belirtilen koşulları sağlayan, EK-5 Bölüm B’de yer alan en yüksek miktarlar ile uyumlu olan ve gıdadan elde edilen ısıl işlem aroma vericileri.
+3) Gıdadan elde edilen aroma öncülleri.
+4) Aroma verme özelliği taşıyan gıda bileşenleri.
+e) (d) bendi hükmüne istisna olarak; Bakanlığın veya Bilimsel Komisyonun, (d) bendinde listeli aroma verici veya aroma verme özelliğine sahip gıda bileşeninin güvenilirliğine ilişkin şüphelerinin bulunması halinde, söz konusu aroma verici veya aroma verme özelliği taşıyan gıda bileşeninin risk değerlendirmesi Türk Gıda Kodeksi Gıda Katkı Maddeleri, Gıda Enzimleri ve Gıda Aroma Vericilerine İlişkin Ortak İzin Prosedürü Hakkında Yönetmelik kapsamında gerçekleştirilir. Bilimsel Komisyonun görüşü doğrultusunda Bakanlıkça değerlendirme yapılır ve riskin varlığının tespit edilmesi halinde gerektiğinde acil durum tedbiri uygulanır.
+f) Isıl işlem aroma vericilerinin üretim koşulları ve ısıl işlem aroma vericilerinde bulunan bazı maddelerin en yüksek miktarları, EK-5’e uygun olmak zorundadır.
+g) Birincil ürünlerin üretim koşulları, EK-6’ya uygun olmak zorundadır.
+ğ) Tütsü aroma vericisi türevleri, Bakanlıkça belirlenmiş birincil ürünlerin uygun fiziksel işlemlerle ileri işlenmesiyle üretilir.
+h) Birincil ürünlerin üretimi sırasında yan ürün olarak oluşan suda çözünmeyen yağlı faz, tütsü aroma vericisi üretiminde kullanılmaz.
+ı) Aroma verici preparat, ısıl işlem aroma vericisi, aroma öncülü ve kaynak materyal tanımlarında yer alan kaynak materyallerden, aroma vericilerin üretiminde uzun süredir kullanıldığına ilişkin yeterli veri bulunanlar, bu Yönetmelik kapsamında gıda olarak kabul edilir.
+(2) Değerlendirilmesi tamamlanan aroma verici maddeler için, EK-1 Bölüm A’da yer alan Aroma Vericiler ve Kaynak Materyallerin Listesinde dipnot yer almaz.
+(3) Halen risk değerlendirmesi devam eden aroma verici maddeler için, EK-1 Bölüm A’da yer alan Aroma Vericiler ve Kaynak Materyallerin Listesinde yer alan ve 1’den 5’e kadar numaralandırılmış olan dipnotlar verilir.
+(4) Değerlendirmesi devam eden aroma verici maddeler; değerlendirme tamamlanıp EK-1 Bölüm A, Tablo 1’de değerlendirilmiş aroma verici madde olarak listeye ekleninceye veya listeden çıkartılıncaya kadar piyasaya arz edilebilir ve gıdalarda kullanılabilir.

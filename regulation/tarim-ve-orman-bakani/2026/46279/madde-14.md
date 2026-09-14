@@ -1,0 +1,2 @@
+İlave etiket bilgisi
+MADDE 14- (1) 13 üncü maddenin birinci fıkrasının (c) bendinin (3) numaralı alt bendi uyarınca son tüketiciye sunulmayacak aroma vericilerin etiketleme kurallarına ek olarak; FL 16.133 numaralı aroma verici madde ve FL 16.133 numaralı aroma verici maddeyi içeren aroma vericilerin ambalajları veya kapları üzerinde “FL 16.133 numaralı aroma verici maddeyi içerir. Foto dönüşümünü önlemek için ışıktan koruyun” ibaresi ile “Işıktan uzak tutun” ibaresi yer alır.

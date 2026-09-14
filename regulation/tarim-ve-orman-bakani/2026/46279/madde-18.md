@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 18- (1) Bu Yönetmelik; aroma vericiler ve aroma verme özelliği taşıyan gıda bileşenlerine ilişkin 16/12/2008 tarihli ve (AB) 2008/1334 sayılı Avrupa Parlamentosu ve Konseyi Tüzüğü ve 10/11/2003 tarihli ve (AB) 2003/2065 sayılı Avrupa Parlamentosu ve Konseyi Tüzüğü ile 1/1/2012 tarihli ve (AB) 2012/872 sayılı Komisyon Uygulama Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
