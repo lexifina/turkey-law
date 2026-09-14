@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) Ana dal diploma programı: Öğrencinin kayıtlı olduğu lisans diploma programını,
+c) Birim: Antalya Bilim Üniversitesine bağlı fakülte, yüksekokul veya meslek yüksekokulunu,
+ç) Çift ana dal programı: Ana dal diploma programına kayıtlı öğrencinin öngörülen şartları taşıması kaydıyla aynı yükseköğretim kurumunda ikinci bir diploma programından ders alıp bu program içinde ayrı bir diploma alabilmesini sağlayan programı,
+d) Danışman: Öğrenciye eğitim ve öğretimi, ders alma işlemleri ve benzeri konularda yardımcı olması için görevlendirilmiş öğretim elemanını,
+e) Dekanlık: Antalya Bilim Üniversitesine bağlı fakültelerin dekanlıklarını,
+f) Diploma programı: Fakülte, yüksekokul ve meslek yüksekokullarının, belirlenen yeterlilikleri sağlayan öğrencilerine ön lisans veya lisans diploması verdiği yükseköğretim programını,
+g) İlgili birim yönetim kurulu: Antalya Bilim Üniversitesine bağlı fakülte, yüksekokul ve meslek yüksekokulu yönetim kurulunu,
+ğ) Müdürlük: Antalya Bilim Üniversitesine bağlı yüksekokul/meslek yüksekokullarının müdürlüklerini,
+h) Mütevelli Heyet: Antalya Bilim Üniversitesi Mütevelli Heyeti,
+ı) Öğrenci İşleri Müdürlüğü: Antalya Bilim Üniversitesi Öğrenci İşleri Müdürlüğünü,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+j) Rektör: Antalya Bilim Üniversitesi Rektörünü,
+k) Rektörlük: Antalya Bilim Üniversitesi Rektörlüğünü,
+l) Senato: Antalya Bilim Üniversitesi Senatosunu,
+m) Üniversite: Antalya Bilim Üniversitesini,
+n) Üniversite Yönetim Kurulu: Antalya Bilim Üniversitesi Yönetim Kurulunu,
+o) Yabancı Diller Yüksekokulu: Antalya Bilim Üniversitesi Yabancı Diller Yüksekokulunu,
+ö) Yan dal programı: Ana dal diploma programına kayıtlı öğrencinin öngörülen şartları taşıması kaydıyla aynı yükseköğretim kurumunda ikinci bir diploma programının belirli derslerini almak suretiyle diploma yerine geçmeyen bir sertifika alabilmesini sağlayan programı,
+p) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

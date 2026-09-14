@@ -1,0 +1,3 @@
+Tebligat
+MADDE 47- (1) Öğrencilere resmi olarak yapılması gereken her türlü tebligat ilgili mevzuat hükümlerine göre öğrenci için oluşturulan elektronik posta adresine, elektronik tebligat olarak yapılabilir. Bunun olmadığı durumlarda tebligat, öğrencilerin Üniversiteye kayıt sırasında bildirdikleri adrese iadeli ve taahhütlü olarak yapılmak suretiyle tamamlanmış sayılır.
+(2) Üniversiteye kayıt sırasında bildirdikleri adresi değiştirdikleri halde, bunu Öğrenci İşleri Müdürlüğüne en geç bir ay içerisinde yazılı olarak bildirmeyen veya yanlış ya da eksik bildiren öğrencilerin bu adreslerine yapılan tebligatlar geçerli sayılır.

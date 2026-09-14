@@ -1,0 +1,4 @@
+Dersten çekilme
+MADDE 23- (1) Öğrenciler, ilk iki yarıyıl dışında, her yarıyıl için akademik takvimde belirtilen son başvuru tarihine kadar danışmanının onayını alarak program müfredatındaki derslerden birinden tümüyle çekilebilirler. Öğrenciler, öğrenim hayatları boyunca ön lisans programlarında en fazla iki, lisans programlarında ise en fazla dört dersten çekilme hakkına sahiptir. Çift ana dal öğrencileri, devam etmekte oldukları ikinci dalda ana dal programı ile aynı sayıda dersten çekilme hakkına sahiptir. Öğrencinin çekildiği ders alınmamış sayılır, not dökümünde W (çekilme) olarak gösterilir.
+(2) Bir öğrenci; F, FX veya U aldığı için tekrarlamak zorunda olduğu ve daha önce W aldığı derslerden çekilemez.
+(3) Geçtiği bir dersi tekrar alıp sonra bu dersten çekilen öğrencilerin genel not ortalaması hesaplanırken daha önce aldıkları not geçerli sayılır.

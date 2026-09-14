@@ -1,0 +1,3 @@
+Danışmanlık
+MADDE 20- (1) Her öğrenci için, ilgili bölümce bir öğretim elemanı danışman olarak seçilir. Danışman, öğrenimi boyunca öğrenciyi izler ve öğrencinin devam etmekte olduğu lisans ve ön lisans programları, çift ana dal ve yan dal programları çerçevesinde öğrencinin alması gereken zorunlu ve seçmeli derslerle ilgili olarak öğrenciye tavsiyelerde bulunur. Öğrenci, yarıyıl kayıtlarının yapılması veya yenilenmesi sırasında derslerini danışmanı ile birlikte düzenler ve ders programını danışmanına onaylatmakla yükümlüdür.
+(2) Danışmanın kayıt süresi içerisinde geçerli mazereti nedeniyle Üniversitede bulunamayacak olması durumunda, bölüm başkanı danışman yerine geçici olarak bir öğretim elemanını görevlendirir ve bu durumu ilgili öğrencilere duyurur.

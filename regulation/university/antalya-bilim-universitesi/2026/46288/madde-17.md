@@ -1,0 +1,3 @@
+Zorunlu ve seçmeli dersler
+MADDE 17- (1) Program müfredatlarındaki dersler, zorunlu ve seçmeli derslerden oluşur. Zorunlu dersler, öğrencinin almak zorunda olduğu dersleri; seçmeli dersler ise öğrencinin ilgi alanları doğrultusunda önerilenler içinden seçerek alabileceği dersleri ifade eder.
+(2) Seçmeli dersler, tüm bölümlerin program müfredatlarında tek tek veya belirlenmiş ders grupları içinden seçilebilir. Seçmeli dersler, ilgili birim yönetim kurulu kararı ile açılır ve aynı usulle kaldırılır. İlgili birim yönetim kurulu, her bir seçmeli derse kaydolacak öğrenci sayısına alt ve üst sınır getirebilir ve başka birimlerden alınabilecek seçmeli derslerle ilgili esasları belirler.

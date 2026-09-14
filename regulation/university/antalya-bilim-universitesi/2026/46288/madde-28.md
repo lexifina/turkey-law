@@ -1,0 +1,6 @@
+Akademik yeterlilik değerlendirmesi
+MADDE 28- (1) Öğrencilerin akademik yeterliği her yarıyıl sonunda not ortalamaları hesaplanarak belirlenir.
+(2) Genel not ortalaması (GNO), öğrencinin programında yer alan ve not ortalamasına katılan derslerin kredi değerleri ile başarı notlarının katsayıları çarpılarak elde edilen toplamın, toplam krediye bölünmesi suretiyle hesaplanır. Öğrencinin tekrar ettiği dersler olması halinde, önceki notlar yerine o derslerden alınan en son not genel not ortalamasına dâhil edilir ancak öğrencinin tüm notları transkript üzerinde gösterilir.
+(3) Yaz dönemi sonunda öğrencilerin yaz okulunda kayıt yaptırdıkları derslerden aldıkları notlar dikkate alınarak GNO yeniden hesaplanır.
+(4) Normal öğrenim süresi içinde bir yarıyıl sonunda disiplin cezası ve başarısız bir not (F, FX veya U) almamış olmak, en az 30 AKTS kredilik normal ders yükünü almış olmak şartlarıyla, yarıyıl not ortalaması 3,00-3,49 arasında olan öğrenciler o yarıyıl için onur öğrencisi; 3,50 ve üstü olanlar ise yüksek onur öğrencisi sayılırlar.
+(5) İkinci yarıyılın sonundan itibaren GNO’su 2,00 ve üzeri olan öğrencilerin durumu başarılı; 1,99 ve altındaki öğrencilerin durumu ise akademik olarak yetersiz kabul edilir.

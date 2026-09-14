@@ -1,0 +1,2 @@
+Ortak zorunlu dersler
+MADDE 19- (1) 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen ortak zorunlu dersler olan Atatürk İlkeleri ve İnkılâp Tarihi, Türk Dili ve yabancı dil dersleri ile 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanununa göre iş güvenliği uzmanı olabilecek mezunları yetiştiren fakültelerde iş sağlığı ve güvenliği iki yarıyılda zorunlu ve kredili ders olarak program müfredatlarında gösterilir ve okutulur. Bu dersler açık veya bilgi ve iletişim teknolojilerine dayalı olarak uzaktan öğretim ile de verilebilir.
