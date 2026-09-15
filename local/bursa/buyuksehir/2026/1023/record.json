@@ -1,0 +1,18 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "1023",
+  "decision_date": "2026-09-15",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/15nr3g4dc0pw80o.pdf",
+  "source_sha256": "0201ea76d6d9afbd23fe847846273bae3f715181b29c3c00f6d862d6fa852cca",
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 2,
+      "decorative_logos": 2,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "Only the decision PDF linked by the official register is held; referenced supporting plans or annexes not separately linked are not included."
+}
