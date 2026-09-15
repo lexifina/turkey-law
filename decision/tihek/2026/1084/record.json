@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1084",
+  "case_number": "2025/3960",
+  "decision_date": "2026-09-15",
+  "title": "2026/1084 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/wjd9dl.pdf",
+  "source_sha256": "0344cac3f44024d8d59e5750fc369d2efcae21877085384530415a50ee6dcb64",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
