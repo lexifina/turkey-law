@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/ibn-haldun-universitesi/2026/46283",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33371",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-15",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İbn Haldun Üniversitesi",
+  "issuer_slug": "ibn-haldun-universitesi",
+  "kind": "regulation",
+  "published": "2026-09-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46283&MevzuatTertip=5",
+  "source_id": "8.5.46283",
+  "source_sha256": "7549d91ef349618539e44d36d0b6307395fb4c9b8503e1f6825e27e75bb1e10e",
+  "title": "İBN HALDUN ÜNİVERSİTESİ ARAP DİLİ VE EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 460,
+  "version_label": "oldest version available",
+  "word_count": 1189
+}
