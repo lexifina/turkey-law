@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1080",
+  "case_number": "2025/3237",
+  "decision_date": "2026-09-15",
+  "title": "2026/1080 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/s816u7.pdf",
+  "source_sha256": "beef31ca02695b97cd3b69d0788b981b31043473ec01f425778fc582dd1bb02c",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
