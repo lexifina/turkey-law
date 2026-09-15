@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1089",
+  "case_number": "2025/3047",
+  "decision_date": "2026-09-15",
+  "title": "2026/1089 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/jv56al.pdf",
+  "source_sha256": "814eae8cf9acf487217f7f0a287152e39de5398ae73a4e7d69550ee42a55c47d",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
