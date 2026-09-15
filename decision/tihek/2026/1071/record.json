@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1071",
+  "case_number": "2025/676",
+  "decision_date": "2026-09-15",
+  "title": "2026/1071 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/p7hgho.pdf",
+  "source_sha256": "279305234ee69018e0e6d08321490d46df9e6060dfd1bdabd311e55b020e721e",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
