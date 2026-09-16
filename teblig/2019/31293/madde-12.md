@@ -1,0 +1,3 @@
+Hijyen
+MADDE 12 – (1) Bu Tebliğ kapsamında yer alan ürünler için; 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda Hijyeni Yönetmeliği, Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliği ile (Değişik ibare:RG-16/9/2026-33372) 13/2/2025 tarihli ve 32812 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Mikrobiyolojik Kriterler Yönetmeliği hükümleri uygulanır.
+(2) UHT süt işleme prosesinde süt buharla direkt temas ediyorsa, buhar içilebilir sudan elde edilmeli, süt içinde yabancı madde bırakmamalı veya ters bir etki yaratmamalı ve işlenmiş sütün su içeriğinde herhangi bir değişiklik yapmamalıdır.
