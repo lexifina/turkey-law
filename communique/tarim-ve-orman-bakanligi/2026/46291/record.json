@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33372",
+  "date_quote": "16.09.2026",
+  "first_law": null,
+  "gazette": "33372",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-16",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-09-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46291&MevzuatTertip=5",
+  "source_bytes": 65466,
+  "source_id": "9.5.46291",
+  "source_sha256": "31b5ceb6fcb484a9fb2f228abdba6907e560ca7bd9383e0a2488c4a73468cac8",
+  "title": "YAPRAK SİGARA KAĞIDININ TEKNİK DÜZENLEMELERE UYGUNLUĞUNUN\r\nBELİRLENMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ\r\n(TEBLİĞ NO: 2026/21)",
+  "word_count": 1753
+}
