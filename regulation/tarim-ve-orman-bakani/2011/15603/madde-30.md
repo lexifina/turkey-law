@@ -1,0 +1,3 @@
+Görevlilerin yükümlülüğü
+MADDE 30 – (1) Polis, jandarma, belediye zabıta memurları ile iskele ve liman memurları, köy muhtarları, koruma bekçileri, köy ve mahalle bekçileri görevli bulundukları bölgelerde her türlü hayvan ve hayvansal ürünlerin naklinde kullanılan pasaport, nakil belgesi, veteriner sağlık raporu ve nakil beyannamesi gibi belgeleri aramakla ve ilgili belgeler olmadan yapılan hayvan ve hayvansal ürünleri alıkoyarak idari olarak bağlı bulunduğu en yakın mülki idare amirine bildirmekle yükümlüdür.
+(2) Mülki amir il/ilçe müdürlüğüne haber vererek gerekli idari ve fenni tedbirlerin alınmasını temin eder.

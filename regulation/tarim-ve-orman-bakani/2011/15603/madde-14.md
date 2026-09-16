@@ -1,0 +1,7 @@
+Diğer hayvan nakilleri
+MADDE 14 – (1) Menşe çiftlikte ölüm-öncesi muayeneye tabi tutulan ve kesime gönderilecek olan evcil domuzların kesimhaneye nakillerinde, Hayvansal Gıdaların Resmi Kontrollerine İlişkin Özel Kuralları Belirleyen Yönetmeliğin 24 üncü maddesinde belirtilen sağlık raporu bulundurulur.
+(2) Menşe çiftlikte ölüm-öncesi muayeneye tabi tutulan ve kesime gönderilecek olan çiftlikte yetiştirilen tavşanımsıların kesimhaneye nakillerinde, Hayvansal Gıdaların Resmi Kontrollerine İlişkin Özel Kuralları Belirleyen Yönetmeliğin 26 ncı maddesinde belirtilen sağlık raporu bulundurulur.
+(3) Menşe çiftlikte ölüm -öncesi muayeneye tabi tutulan ve kesime gönderilecek olan çiftlikte yetiştirilen av hayvanlarının kesimhaneye nakillerinde, Hayvansal Gıdaların Resmi Kontrollerine İlişkin Özel Kuralları Belirleyen Yönetmeliğin 27 nci maddesinde belirtilen sağlık raporu bulundurulur.
+(4) Bu maddenin birinci, ikinci ve üçüncü fıkralarında belirtilen nakillerde veteriner sağlık raporu aranmaz.
+(5) (Ek:RG-24/5/2022-31845)(2) Kedi, köpek ve gelinciklerin yurt içi nakillerinde pasaportlarının bulundurulması zorunludur.
+(6) Bu Yönetmeliğin 8, 9, 10, 11, 12 ve 13 üncü maddeleri ile (Değişik ibare:RG-24/5/2022-31845) bu maddenin birinci, ikinci, üçüncü ve beşinci fıkralarında belirtilen nakiller haricindeki diğer hayvan nakillerinde bulundurulacak belgeler ve nakledilen hayvanın menşeinin belirlenmesi amacıyla uygulanacak olan ilave hükümler Bakanlıkça belirlenir ve Bakanlık internet sayfasında yayınlanır.
