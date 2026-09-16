@@ -1,0 +1,3 @@
+Katı yakıt dağıtıcısı, satıcısı ve satış izin belgesi
+MADDE 14- (1) Gerçek/tüzel kişi tarafından Katı Yakıt Dağıtıcısı/Satıcısı Belgesi, üretici tarafından Satış İzin Belgesi için EK-1’deki Tablo 1’de yer alan bilgi/belgelerle KYM üzerinden ilgili il müdürlüğüne başvuru yapılır. Uygun bulunması halinde, KYM üzerinden ilgili idare tarafından EK-1’deki Tablo 1’de tanımlanan süre dahilinde başvuruya esas belge düzenlenir.
+(2) Satış İzin Belgesinde tanımlı satıcı veya dağıtıcıların listesinde değişiklik olması durumunda, ithalatçı/üretici tarafından il müdürlüğüne KYM üzerinden güncelleme yapılması için başvuruda bulunulur. Bu durumda Satış İzin Belgesi yenilenmeden ilgili il müdürlüğünce KYM üzerinden güncelleme yapılır.

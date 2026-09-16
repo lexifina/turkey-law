@@ -1,0 +1,7 @@
+BEŞİNCİ BÖLÜM
+Katı Yakıtların Depolanması, Taşınması ve Piyasaya Arzı
+Katı yakıtların depolanması ve taşınması
+MADDE 10- (1) Bu Yönetmelik kapsamındaki katı yakıtlar, yalnızca KYM’de tanımlı depolarda muhafaza edilir.
+(2) İthal edilmek üzere gümrüklü sahaya ya da gümrük idaresince izin verilen sahaya boşaltılan tüm yakıtlar birbiriyle karıştırılmadan numune almaya imkan sağlayacak şekilde, ayrı olarak depolanır. Katı yakıt yığınları üzerinde; yakıtın adı, Gümrük Tarife İstatistik Pozisyonu (GTİP) numarası, miktarı, getirildiği gemi adı ve kullanım amacı, gümrük beyanname numarası ile Uygunluk Belgesi numarasının yer aldığı bilgilendirici levha bulundurulur.
+(3) Firma tarafından, yeni bir yakıt deposunun eklenmesi (İş Yeri Açma ve Çalışma Ruhsatı ile birlikte) veya kapanması durumunda ilgili il müdürlüğüne başvuru yapılır. İlgili il müdürlüğünce KYM üzerinden depo bilgisi güncellenir.
+(4) Açık alanda depolanan kömürlerin toz maruziyetinin önlenmesi için; toz emisyonu kaynakları ve oluşacak toz emisyonunun yayılımını engelleyecek tedbirler alınır. Bu amaçla; depolama alanının yerleşim yerine uzaklığı, etrafındaki yapılar dikkate alınarak çevresel etkilerinin değerlendirilmesi ile en uygun toz emisyon kontrol yöntemi belirlenir. Kontrol tedbirleri gerekçeleri ile birlikte ilgili il müdürlüğüne sunulur. Toz emisyonunun kontrolü amacıyla TS 13883 Toz Bastırma Sistemleri-Mekanik Özellikleri Standardına uygun toz bastırma sistemleri kullanılır.

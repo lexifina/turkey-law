@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.46290",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAVA KALİTESİNİN KORUNMASI AMACIYLA KATI YAKITLARIN KONTROLÜ YÖNETMELİĞİ",
+  "number": "46290",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2026/46290",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46290&MevzuatTertip=5",
+  "source_sha256": "6358b52e9193b15a8d5cc43dcba5e8848df55687b030b269592554456061aef2",
+  "source_bytes": 63501,
+  "published": "2026-09-16",
+  "gazette": "33372",
+  "in_force": "2026-09-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.09.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4216,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.46290-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
