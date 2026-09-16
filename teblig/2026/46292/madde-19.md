@@ -1,0 +1,2 @@
+Beslenme ve sağlık beyanları
+MADDE 19- (1) Bu Tebliğ kapsamında yer alan ürünlerde, beslenme beyanı yönünden 20/4/2023 tarihli ve 32169 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Beslenme Beyanları Yönetmeliği ve sağlık beyanları hakkında 20/4/2023 tarihli ve 32169 sayılı Resmî Gazete’de yayımlanan Gıda ve Takviye Edici Gıdalarda Sağlık Beyanı Kullanımı Hakkında Yönetmelik hükümleri uygulanır.
