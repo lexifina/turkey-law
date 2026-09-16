@@ -1,0 +1,8 @@
+Girdiler
+MADDE 5- (1) Yaprak sigara kağıdına ait girdi bildirim ve toksikolojik veri tabloları Bakanlık internet sitesinde yayımlanan açıklama kılavuzu ve tablolarına uygun düzenlenir. Bu tablolarda, mamulat çeşidinde kullanılan girdilerin isimleri Türkçe olarak yazılır, varsa Latince isimleri parantez içinde belirtilir.
+(2) Yaprak sigara kağıdında aroma verici, şeker ve/veya tatlandırıcı kullanılamaz.
+(3) Yaprak sigara kağıdını beyazlaştırmak için kullanılanlar hariç olmak üzere yaprak sigara kağıdı üretiminde renklendirici kullanılamaz.
+(4) Yaprak sigara kağıdında Bakanlık internet sitesinde yayımlanan girdi listelerinde yer almayan bir girdinin kullanılmak istendiğinin tespit edilmesi halinde, başvuruya ait girdi bildirim ve toksikolojik veri tabloları 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanunun 4/B maddesinin ikinci fıkrasının (b) bendi çerçevesinde Bakanlıkça değerlendirilerek başvuru sonuçlandırılır.
+(5) Yaprak sigara kağıdı üretiminde; sigara kağıdında, sigara kağıdı üzerinde kullanılan mürekkepte, yapıştırıcılarında ve/veya üründe herhangi bir şekilde Ek-1’de yer alan listede belirtilen girdiler kullanılamaz.
+(6) Bakanlık, bilimsel ve teknik gelişmeleri dikkate alarak Ek-1’de yer alan listede 4733 sayılı Kanunun 4/B maddesinin ikinci fıkrasının (b) bendi çerçevesinde değişiklik yapmaya veya yeni girdiler eklemeye yetkilidir.
+(7) Bakanlık, tüketicinin bilgilendirilmesini sağlamak amacıyla bu madde uyarınca sağladığı girdileri, ticari sır oluşturan, özellikle ürün formülü bilgilerinin korunmasına özen göstererek halkın bilgisine sunar.
