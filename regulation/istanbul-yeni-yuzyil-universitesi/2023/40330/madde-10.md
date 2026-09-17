@@ -1,0 +1,3 @@
+Yabancı dil hazırlık programından muafiyet
+MADDE 10- (1) Kayıt işlemlerini tamamlayan öğrencilerden zorunlu veya isteğe bağlı hazırlık programına devam edecekler, bu konuda belirlenen esaslara göre yabancı dil yeterlik sınavına alınır. Yabancı dil yeterlik sınavında başarılı olanlar yerleştirildikleri lisans bölümleri/ön lisans programlarının birinci yarıyıl derslerine başlatılır. Yabancı dil yeterlik sınavında başarılı olamayanlar ise yabancı dil hazırlık programına kayıt olur.
+(2) Hazırlık yeterlik ve seviye tespit sınavı haricindeki muafiyet başvurusu değerlendirmeleri İstanbul Yeni Yüzyıl Üniversitesi Dil Okulu Eğitim-Öğretim ve Sınav Yönetmeliğinin ilgili hükümlerine göre yapılır.

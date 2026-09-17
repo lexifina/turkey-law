@@ -1,0 +1,8 @@
+Öğrenci değişim programları ve özel öğrenci olarak ders alma
+MADDE 30- (1) Yurt içinde veya yurt dışında bir yükseköğretim kurumuna kayıtlı olan öğrencinin, ulusal ve uluslararası öğrenci değişim programları kapsamında veya özel öğrenci olarak aynı düzeyde başka bir yükseköğretim kurumundan aldığı ders veya uygulamaların kredileri, ilgili yönetim kurulu kararı ile kayıtlı olduğu diploma programındaki yükümlülüklerinin yerine sayılabilir.
+(2) Öğrencinin özel öğrencilikte ve değişim programında geçirdiği süre, öğretim süresine dahildir.
+(3) Özel öğrencilik imkânından bir program süresince en fazla iki yarıyıl yararlanılır. Bu süre, öğrencinin talebi ve ancak aşağıdaki şartlar çerçevesinde Yükseköğretim Kurulunun kararıyla uzatılabilir:
+a) Öğrencinin, yükseköğretim kurumuna yerleşmesinden sonra eğitimi sebebiyle ikamet edilen ilde tedavisi mümkün olmayan ciddi bir hastalık teşhisi konulduğunun ya da var olan hastalığın ilerlediğinin Devlet hastanesi veya Devlet üniversitesi hastanesinden alınmış sağlık kurulu raporu ile belgelenmiş olması.
+b) Öğrencinin, maruz kaldığı darp, şiddet gibi fiiller sebebiyle öğrenimini kayıtlı olduğu yükseköğretim kurumunda devam ettirmesinin mümkün olmadığına ilişkin Üniversite Yönetim Kurulunun teklifinin olması.
+(4) Yurt dışındaki yükseköğretim kurumlarında eğitim alan Türk vatandaşı öğrenciler, özel öğrencilik imkânından en fazla iki dönem yararlanabilir.
+(5) Özel öğrenci veya değişim programına katılan öğrencilerin kurumlar arası yatay geçiş yapmaları halinde sadece kayıtlı oldukları diploma programında kabul edilmiş olan dersleri transfer edilebilir.

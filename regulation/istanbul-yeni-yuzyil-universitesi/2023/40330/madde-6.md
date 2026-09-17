@@ -1,0 +1,6 @@
+Eğitim-öğretim takvimi
+MADDE 6- (1) Eğitim-öğretim takvimi fakülte ve yüksekokulların özellikleri dikkate alınarak Senato tarafından haziran ayı sonuna kadar belirlenir. Bu takvim, en geç yeni eğitim-öğretim yılının başlama tarihinden bir ay önce ilan edilir.
+(2) Üniversitenin Tıp Fakültesi ve Diş Hekimliği Fakültesi dışında kalan bölüm ve programlarında bir eğitim-öğretim yılı, güz ve bahar dönemleri olmak üzere, her biri on dört hafta süren iki yarıyıldan oluşur. Yarıyıl sonu sınav günleri bu sürenin dışındadır. Senato gerekli gördüğü hallerde yarıyıl sürelerini uzatabilir veya kısaltabilir.
+(3) Üniversitenin Tıp ve Diş Hekimliği Fakülteleri eğitim-öğretim takvimi, ilgili fakültelerin yönergelerine göre belirlenir.
+(4) Türk dili, yabancı dil ve Atatürk İlkeleri ve İnkılap Tarihi dersleri ile fakülte yönetim kurulu ve yüksekokul müdürlüğü kararı ile belirlenmiş dersler, gerektiğinde ilgili birim kurullarının kararı ile mesai saatleri dışında veya ulusal bayram ve genel tatil günleri dışındaki cumartesi veya pazar günleri de yapılabilir. Bu dersler açık veya bilgi ve iletişim teknolojilerine dayalı olarak uzaktan öğretim ile de verilebilir.
+(5) Senato, YÖK’ün izni ile yaz öğretimi yapılmasına karar verebilir. Yaz öğretimine ilişkin esaslar Senato tarafından belirlenir.
