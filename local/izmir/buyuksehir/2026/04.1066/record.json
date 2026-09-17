@@ -1,0 +1,37 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "04.1066",
+  "decision_date": "2026-09-17",
+  "title": "Izmir council decision summary 04.1066",
+  "version_label": "metadata-only",
+  "source_url": "https://www.izmir.bel.tr/IBB-IZMIRBB-C1/Paylasim/MeclisKararOzetleri/22092026_100806_KararOzet_04.1066%20%C3%87evre%20ve%20Sa%C4%9Fl%C4%B1k%20%E2%80%93%20Hukuk%20%E2%80%93%20Deprem%20ve%20Afet%20%E2%80%93%20Kentsel%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20ve%20Konut.pdf",
+  "source_sha256": "0c05a17b1cab75483b45e6552a7a060c60f958ba680109adaf8f4f5c66a3a2f5",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2026&ay=&gun=&txtSozcuk=&draw=1&start=0&length=1000&txtKararNo=",
+  "official_id": "36972",
+  "text_status": "metadata-only; possible private-person name or personal-data marker found; official link retained",
+  "privacy_flags": [
+    "possible person name in official summary filename"
+  ],
+  "normative_images": 0,
+  "source_image_inventory": [
+    {
+      "page": 1,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    },
+    {
+      "page": 2,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    },
+    {
+      "page": 3,
+      "source_images": 0,
+      "decorative_logos": 0,
+      "normative_images": 0
+    }
+  ],
+  "annex_status": "The register supplies this decision-summary PDF; the full adopted decision and any separate supporting annexes are not supplied here."
+}
