@@ -1,0 +1,9 @@
+Ders yükü ve ders tekrarı
+MADDE 18- (1) Öğrencinin her bir yarıyıllık/yıllık ders yükü, ders alabildiği en üst sınıftaki ders yüküdür. Öğrencilerin azami yarıyıllık/yıllık ders yükleri Fakülte Kurulunca belirlenir.
+(2) (Değişik:RG-17/9/2026-33373) Akademik danışmanının onayı ile AGNO kat sayısı 2,00-2,24 arasında olan ve tekrara kaldığı dersi bulunan öğrenciye; normal ders yükünün üzerinde yıllık en çok on iki kredilik, AGNO kat sayısı 2,25 ve üzerinde olan ve tekrara kaldığı dersi bulunan öğrenciye de normal ders yükünün üzerinde yıllık en çok yirmi kredilik ders daha verilebilir.
+(3) (Değişik:RG-17/9/2026-33373) AGNO kat sayısı en az 2,50 olan, tekrara kaldığı ve bulunduğu yarıyıl/yıl ile önceki yarıyıl/yıldan alamadığı dersi bulunmayan öğrenci, akademik danışmanının görüşü ve Dekanlığın onayı ile üst yarıyıl/yıldan çakışmayan iki ders daha alabilir. Bu durumdaki öğrenci, ilk ara sınavdan önce Dekanlığa yazılı olarak bildirmek kaydıyla bu derslerden çekilebilir.
+(4) Öğrenciler alınması gereken yarıyılda/yılda alınmamış olan veya alınmış, fakat başarısız olunmuş dersleri, açıldıkları ilk yarıyılda/yılda tekrar almak zorundadır. Başarısız olunan seçimlik ders yerine ilgili yarıyılda açılan seçimlik derslerden herhangi biri alınabilir.
+(5) Birinci sınıftan başarısız dersi bulunan öğrenci, dördüncü sınıftan ders alamaz.
+(6) Öğrencinin devamsızlık nedeniyle almak zorunda olduğu önceki yarıyıla/yıla ait derslerin, içinde bulunduğu yarıyıldan/yıldan almak istediği derslerin ders saatleriyle çakışmaması gerekir. Önceki yarıyıldan/yıldan ders alınmasının zorunlu olduğu hallerde, öğrenciler bunlarla çakışan dersleri alamazlar.
+(7) Programdan çıkarılan dersleri tekrar alması gereken öğrenciler, bu ders yerine Fakülte Yönetim Kurulunca uygun görülen başka bir dersi alır.
+(8) Devam koşulu sağlanan derslerin başarısızlık nedeniyle tekrarında, devam zorunluluğu aranmaz.
