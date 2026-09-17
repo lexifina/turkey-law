@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/49280",
+  "submitted": "2026-09-17",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Fahri ÖZKAN",
+  "province": "Kırklareli",
+  "summary": "27 Şubat 2026 ile 1 Eylül 2026 tarihleri arasında kesilen trafik cezalarına dair çeşitli verilere ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e25d225e-7196-47b3-807c-01a0afa75db7",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "a608d3106ba27930cd508ef2b1a888210d412180b2b9c692d25832626c4276c7",
+  "in_force": "2026-09-17",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
