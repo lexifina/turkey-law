@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1111",
+  "case_number": "2025/4131",
+  "decision_date": "2026-09-17",
+  "title": "2026/1111 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/ugl4ot.pdf",
+  "source_sha256": "cf29c8513788c4080cdef365a26afd6472dff6453ce7207dcdfc7f3d420d45fc",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
