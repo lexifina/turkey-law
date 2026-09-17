@@ -1,0 +1,12 @@
+{
+  "kind": "decision",
+  "issuer": "Türkiye İnsan Hakları ve Eşitlik Kurulu",
+  "number": "2026/1107",
+  "case_number": "2025/3729",
+  "decision_date": "2026-09-17",
+  "title": "2026/1107 Sayılı Kurul Kararı",
+  "source": "https://www.tihek.gov.tr/public/images/kararlar/q9uttm.pdf",
+  "source_sha256": "4816df81aa6a9dcc2c08982611ffca130e13fef37e1af788b31270088d3abda8",
+  "text_status": "metadata-only",
+  "text_omission_reason": "decision concerning an individual private person"
+}
