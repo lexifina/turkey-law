@@ -1,0 +1,3 @@
+Yardımcı komisyonlar
+MADDE 43- (1) Meslek Kanununun, bu Yönetmeliğin ve ilgili diğer mevzuatın yüklediği bütün görevlerin gereklerini zamanında ve eksiksiz olarak yerine getirmekle yükümlü olan yönetim kurulu; oda üyelerinin, gerek görülürse diğer meslek kuruluşlarının mensuplarının ve akademik elemanların iştirak ettirilmesi suretiyle çalışma komisyonları kurabilir.
+(2) Kurulacak komisyonların çalışma konularının niteliği, üye adedi, çalışma usulleri ve kuruluş şekli yönetim kurulu kararı ile belirlenir. Komisyonlar, yönetim kurulunun bilgisi ve gözetimi altında çalışırlar. Komisyonlar, çalışmalarının sonuçlarını ve bu husustaki tekliflerini bir rapor hâlinde yönetim kuruluna iletirler.

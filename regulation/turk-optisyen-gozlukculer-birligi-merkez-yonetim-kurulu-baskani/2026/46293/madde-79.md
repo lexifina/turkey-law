@@ -1,0 +1,2 @@
+Merkez Denetleme Kurulu üyeliğinin boşalması
+MADDE 79- (1) Merkez Denetleme Kurulu asıl üyeliklerinden herhangi bir sebeple boşalma olması hâlinde, yerlerine yedek üyelerden sırası ile en fazla oy almış olanlar getirilerek Kurul tamamlanır. Yedek üyeler, yerlerini aldıkları üyelerin görev sürelerini tamamlarlar. Doğan boşluğun yedekler ile doldurulması mümkün olmadığı takdirde, boşluğun doğduğu tarihten itibaren en geç 15 gün içinde Merkez Yönetim Kurulunca Olağanüstü Büyük Genel Kurul toplantısı dâvetinde bulunulur.

@@ -1,0 +1,7 @@
+Genel kurulun açılışı, divan teşkili, görüşmeler ve seçim
+MADDE 13- (1) Olağan ve olağanüstü oda genel kurulları; yoklamayı takiben, oda başkanı, yoksa başkan yardımcısı, genel sekreter veya en yaşlı üye tarafından açılır. Daha sonra, aday gösterilmek sureti ile müzakereleri idare etmek üzere bir divan başkanı, bir divan başkan yardımcısı ve iki kâtip seçilir.
+(2) Divan seçiminde, odanın mührünü taşıyan oy pusulaları ile zarflar kullanılır, oy pusulasına genel kurul divan başkanlığı, başkan yardımcılığı ve iki kâtiplik için gösterilen adayların ismi yazılır. Oyların tasnifi, genel kurula katılanlar arasından kura ile belirlenecek üç kişilik bir tasnif kurulunca yapılır.
+(3) Her bir görev için birden fazla isim yazılı olan oy pusulalarında ilk önce yazılmış olan isme itibar edilir. Divan seçimi sonucu genel kurulu açan kişi tarafından açıklanır ve divan bundan sonra görevine başlar.
+(4) Genel kurulun kararları ekseriyetle alınır. Oylarda eşitlik olması hâlinde, divan başkanının bulunduğu taraf ekseriyette sayılır.
+(5) Genel kurul toplantılarında yönetim kurulunun ibrasına ilişkin olarak lehte ve aleyhte söz almak isteyenlerin, görüşmelere geçilmeden önce divan heyetine yazılı olarak müracaat etmeleri; divan başkanı tarafından söz verilmesi üzerine genel kurula hitaben görüşlerini açıklamaları ve konunun müzakere edilmesi esastır.
+(6) Odanın organlarının seçimi ile ilgili hususlar hakkında 95 inci madde hükümleri uygulanır.

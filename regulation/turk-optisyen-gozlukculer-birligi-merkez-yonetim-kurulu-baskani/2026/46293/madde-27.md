@@ -1,0 +1,2 @@
+Oda başkanı
+MADDE 27- (1) Yönetim kurulu başkanı, odanın başkanıdır; bu sıfatla odanın tüzel kişiliğini imzası ile her hususta temsile ve ilzama yetkili ve bu hususta görevlidir. Yönetim kurulunun ve odanın başkanı olarak yönetim kurulunun olağan ve olağanüstü toplantılarına ve oda bölgesi çapında yapılan diğer toplantılara başkanlık eder. Oda başkanı, aynı zamanda malî konularda harcama yetkilisi olarak imza yetkisine sahiptir. Bu yetki, gerekli görülen hâllerde yönetim kurulu üyelerinden herhangi birine devredilebilir.

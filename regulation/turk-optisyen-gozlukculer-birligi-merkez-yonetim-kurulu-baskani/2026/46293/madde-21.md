@@ -1,0 +1,3 @@
+Toplantılara katılamama
+MADDE 21- (1) Mazeretleri sebebiyle toplantıya katılamayacak olanlar, bu mazeretlerini toplantıdan önce yazılı olarak yönetim kurulu başkanına veya üyelerine bildirmekle yükümlüdür. Aksi takdirde, toplantı tutanağına bu kişilerin toplantıya mazeretsiz olarak katılmadıkları yazılır.
+(2) Mazeretli, başka yerde görevli veya izinli olanların bu durumları da tutanağa geçirilir. Mazeretsiz olarak üst üste olağan üç toplantıya katılmayan üyeler istifa etmiş kabul edilerek yerlerine oy sıralamasına göre yedek üyeler çağrılır. Belirlenmiş olan toplantı saatinden itibaren bir saat içinde çoğunluk sağlanamazsa bu durum bir tutanakla tespit edilir. Hazır bulunan yönetim kurulu ve var ise denetleme kurulu üyeleri bu tutanağı imza ederler.

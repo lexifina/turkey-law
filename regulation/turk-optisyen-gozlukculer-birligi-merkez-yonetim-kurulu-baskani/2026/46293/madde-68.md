@@ -1,0 +1,3 @@
+Merkez Yönetim Kurulu Başkanı
+MADDE 68- (1) Merkez Yönetim Kurulu Başkanı, Birliğin Genel Başkanıdır. Birliğin tüzel kişiliğini imzası ile her hususta temsile ve ilzama yetkilidir. Birliğin Genel Başkanı sıfatı ile Merkez Yönetim Kurulunun olağan ve olağanüstü toplantılarına, bölgelerarası toplantılara ve ayrıca meslek teşekkülleri veya diğer resmî ve özel kuruluşlar temsilcilerinin iştirak edeceği genişletilmiş Merkez Yönetim Kurulu toplantılarına başkanlık eder. Hazır bulunduğu bütün heyet, komisyon ve delegasyonların tabii başkanıdır.
+(2) Başkan, aynı zamanda malî konularda harcama yetkilisi olarak imza yetkisine sahiptir. Bu yetki, gerek görülen hâllerde ve konularda Merkez Yönetim Kurulu üyelerinden birisine devredilebilir.

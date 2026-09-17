@@ -1,0 +1,3 @@
+Genel kurulun toplanması
+MADDE 10- (1) Genel kurul, yılda bir defa Eylül ayı içinde odaya kayıtlı üyelerin salt çoğunluğu ile toplanır. İlk toplantıda çoğunluk sağlanamaz ise ertesi gün mevcut üyeler ile toplantı yapılır.
+(2) Genel Kurulun her türlü toplantılarına oda üyelerinin katılmaları ve seçimli toplantılarda da ayrıca oy kullanmaları mecburîdir. Mazereti sebebiyle genel kurul toplantılarına katılmayanlar ile seçimli toplantılarda oy kullanmayanlar, mazeretlerini bir hafta içerisinde oda yönetim kuruluna yazılı olarak bildirmek zorundadır. Bu süre içerisinde mazeret bildirmeyenler veya bildirdikleri mazeret geçerli kabul edilmeyenler hakkında Meslek Kanununun ek 2 nci maddesinin ikinci fıkrasının (d) bendinde öngörülen yaptırım uygulanır.
