@@ -1,0 +1,5 @@
+Kontenjan hesabı
+MADDE 75- (1) Gazete veya internet haber sitelerinin bir aylık resmî ilan kontenjanı 30 gün üzerinden hesaplanır. Gazete veya internet haber sitelerinin bir günlük kontenjan hesabında, uygulanan toplam gösterge sayısının otuzda biri esas alınır. Ancak, 5187 sayılı Kanun hükümlerine göre verdikleri beyannamede belirtildiği takdirde, o günlere özgü olmak üzere, haftada bir gün yayımlanmayan gazeteler için bu sayı 26 olarak alınır.
+(2) Herhangi bir sebeple bir aydan az süreyle resmî ilan verilmesi gereken hallerde, gazete veya internet haber sitelerinin günlük kontenjanları esas alınarak, yayımlayacakları resmî ilan miktarı bulunur.
+(3) Gazete veya internet haber sitelerinin bir ay içinde fazla veya eksik olarak yayımladığı resmî ilanlar, takip eden aydaki kontenjanlarından düşülür veya kontenjanlarına eklenir.
+(4) Resmî ilanları zamanında yayımlamayan veya haklı bir sebep olmadıkça yayımlamaktan imtina eden gazete ve internet haber siteleri, aylık resmî ilan kontenjanı kadar resmî ilan yayımlamadıklarında takip eden aylarda bu bakiyeleri talep edemez.

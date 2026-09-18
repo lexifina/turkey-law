@@ -1,0 +1,4 @@
+Asgari satış fiyatı ve komisyon oranı
+MADDE 43- (1) Gazetelerin her yayım gününe ait sayısının birinci sayfasında belirtilmesi gereken satış fiyatı, katma değer vergisi dâhil yerel ve bölgesel gazetelerde (Değişik ibare:RG-10/12/2025-33103)(5) 7 Türk lirasından, yaygın gazetelerde ise (Değişik ibare:RG-10/12/2025-33103)(5) 20 Türk lirasından az olamaz.
+(2) Bayilere ödenecek komisyon ücreti ile abonelere yapılan indirim, gazetenin üzerinde yazılı meblağın % 40’ından fazla olamaz. Abone sağlayanlara verilecek ücret bu orana dâhildir. (Ek cümle:RG-8/12/2023-32393)(3) Gazetelerin satışına dair düzenlenen komisyonsuz faturalar fiili satış hesabında dikkate alınmaz.
+(3) Abonelik bedeli, varsa indirim düşüldükten sonra belirlenen satış fiyatı ile abonelik süresinin çarpımı sonucu bulunacak tutardan az olamaz.

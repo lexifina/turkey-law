@@ -1,0 +1,2 @@
+Bekleme süresi başlangıç tarihinin belirlenmesi
+MADDE 15- (1) Gazete veya internet haber siteleri, resmî ilan yayımlama taleplerinin Kurum kayıtlarına intikal ettiği tarihten itibaren, en geç 3 ay içerisinde denetleme talebinde bulunurlar. Bekleme süresi başlangıç tarihi, başvuru üzerine Genel Müdürlükçe gerçekleştirilecek denetleme veya inceleme neticesinde, bu Yönetmeliğin yayın veya kontenjan yerine ilişkin hükümlerinde belirtilen şart ve vasıflara sahip olduğunun tespit edildiği tarih olarak belirlenir.

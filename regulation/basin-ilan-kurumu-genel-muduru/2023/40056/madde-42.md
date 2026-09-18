@@ -1,0 +1,7 @@
+Dağıtım esasları
+MADDE 42- (1) Gazetelerin yayın yerindeki tali ve son nokta bayilere dağıtımının, süreli yayın dağıtım amacıyla kurulmuş müesseseler aracılığıyla gerçekleştirilmesi şarttır. Dağıtım müessesesinin iş göreni, araç ve teknik ekipmanı ile fiziki şartlar yönünden emsalleriyle benzer her türlü imkâna sahip bulunması zorunludur.
+(2) Yaygın gazetelerin bayi satışlarını, birinci fıkrada belirtilen müesseseler aracılığıyla yönetim yerinin bulunduğu yer ile birlikte her coğrafi bölgede olmak üzere yurt genelinin en az %70’inde günü gününe bu müesseselere bağlı tali bayiler aracılığıyla dağıtıma sunarak, son nokta bayilerde gerçekleştirmeleri ve bu hususu belgelendirmeleri gerekmektedir.
+(3) Gazetelerin, yayın yerlerinde birinci fıkrada belirtilen nitelikte dağıtım müessesesi bulunmaması halinde; bayi satışlarını, yayın yerindeki satış noktaları göz önünde bulundurulmak suretiyle en az iki son nokta bayi aracılığıyla gerçekleştirmeleri ve bu hususu belgelendirmeleri gerekmektedir.
+(4) Gazetelerin her sayısının, tarihini taşıdığı gün en geç saat 09.00’a kadar son nokta bayilerde satışa sunulması şarttır.
+(5) Son nokta bayiler aracılığıyla yapılan satışlara ait verilerin, dağıtım işini gerçekleştiren müesseseler tarafından bildirilmesi hususunda gazetelerin gerekli tedbirleri almaları zorunludur.
+(6) Gazetelerin dağıtımını gerçekleştiren bayi veya bayilerin değişmesi halinde, değişikliğin en geç 3 iş günü içerisinde gazete tarafından imzalı şekilde Kuruma bildirilmesi zorunludur.

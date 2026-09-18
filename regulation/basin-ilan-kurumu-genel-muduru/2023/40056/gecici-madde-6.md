@@ -1,0 +1,2 @@
+Resmî reklam yayımlayan gazete ve dergilerin internet haber sitelerine dair geçiş hükümleri
+GEÇİCİ MADDE 6- (1) Resmî reklam yayımlama hakkı bulunan gazete ve dergilere ait internet haber siteleri, 31/3/2023 tarihine kadar imzalı başvuruda bulunmak şartıyla bu Yönetmeliğin yalnız resmî reklam yayımlayan internet haber sitelerine dair hükümlerini eksiksiz yerine getirmeleri halinde, bekleme süresine tabi tutulmaksızın 1/4/2023 tarihinden sonra süreli yayınlar listesinin yalnız resmî reklam verilebilecek internet haber sitelerine dair bölümüne dâhil edilir.

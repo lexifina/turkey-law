@@ -1,0 +1,3 @@
+Fatura düzenlenmesi
+MADDE 27- (1) Gazete ve internet haber siteleri, yayımladıkları resmî ilanlar için Resmî İlan Fiyat Tarifesinde belirtilen esas ve ölçülere göre, tüm süreli yayınlar da özel ilan ve reklamlar için kendileri tarafından belirlenen tarifeler üzerinden hesaplanan bedele göre Kurum komisyonunu düştükten sonra kalan bedel üzerinden fatura düzenlemek zorundadır.
+(2) Belirtilen tarifelere veya bu Yönetmelikte tespit edilen diğer esaslara aykırı fatura düzenlenmesi veya hiç düzenlenmemesi sebebiyle ilgili kanunlar uyarınca müeyyide uygulanması, 195 sayılı Kanunun 49 uncu maddesine göre işlem yapılmasına engel değildir.

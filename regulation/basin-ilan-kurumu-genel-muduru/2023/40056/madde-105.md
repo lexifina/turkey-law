@@ -1,0 +1,3 @@
+İtirazların çözümü
+MADDE 105- (1) Kontrol kurulu raporlarının içeriğine ilişkin itirazlarda Genel Müdürlük, kontrol kurullarının raporlarına dayanılarak verilen kararlara ilişkin itirazlarda ise Yönetim Kurulu, 20 gün içinde başka bir kontrol kuruluna gazete veya internet haber sitesini yeniden denetlettirebilir.
+(2) Düzenlenen raporlar üzerine alınan kararlara karşı yapılan itirazlar ile Yönetim Kurulunca oluşturulması öngörülen kontrol kurullarına ait denetleme raporları Yönetim Kurulunca incelenip karara bağlanır. Talep edildiği takdirde, Yönetim Kurulu gerekli görürse gazete veya internet haber sitesi sahibini de dinler.

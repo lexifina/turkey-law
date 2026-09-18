@@ -1,0 +1,9 @@
+Gazetelerin isimleri ile internet haber sitelerinin alan adlarının değişikliği
+MADDE 26- (1) Gazetelerin isimleri ile internet haber sitelerinin alan adları, genel ahlak anlayışına ve kamu düzenine ters düşebilecek kelime veya kısaltmalardan oluşamaz.
+(2) İnternet haber siteleri, haklarında yetkili merciler tarafından erişim engelleme kararı verilmesi halinde alan adı değişikliği talebinde bulunamazlar.
+(3) Gazeteler isimlerini, internet haber siteleri alan adlarını değiştirmek istedikleri takdirde yeni isimlerini veya alan adlarını da içeren taleplerini, imzalı şekilde Kuruma intikal ettirirler.
+(4) Yönetim Kurulu, yaptıracağı inceleme sonucunda isim veya alan adının birinci fıkraya uygun olduğu kanaatine varır ise değişikliğe izin verir.
+(5) Gazete ve internet haber siteleri, değişikliğe ilişkin Yönetim Kurulu kararının kendilerine ulaştığı tarihten itibaren yeni isimlerini veya alan adlarını en az 3 iş günü önce Kuruma bildirmek şartıyla kullanabilirler. Bu değişiklikler, yapılmadan önce görünür bir alanda kamuoyuna duyurulur.
+(6) Gazete ve internet haber siteleri, değişikliğe izin verildiğine ilişkin kararın kendilerine tebliğ edildiği tarihten itibaren en geç 1 ay içinde bu değişikliği duyurmak ve yapmak zorundadır. Aksi takdirde yayınını aynı isimle veya alan adıyla devam ettirir.
+(7) Gazete ve internet haber siteleri, yayın sahiplerinin değişmesi dışında, bir takvim yılı içerisinde iki defadan fazla isim veya alan adı değişikliği talebinde bulunamaz.
+(8) (Ek:RG-10/12/2025-33103) İnternet haber sitelerinin alan adı değişikliğinin, mevcut içerik yönetim sistemi ve içeriklerinin korunarak yapılması gerekir. Bu işlemler sırasında yeni bir internet sitesi oluşturulamaz veya başka bir internet sitesine devir yapılamaz. Yeni alan adı, mevcut internet haber sitesinin ana alan adı olarak tanımlanması zorunludur.

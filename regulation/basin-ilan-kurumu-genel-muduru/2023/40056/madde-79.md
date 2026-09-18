@@ -1,0 +1,2 @@
+İçerik
+MADDE 79- (1) Bu kısım kapsamındaki süreli yayınların içeriklerinde; siyasi, sosyal, ekonomi, kültür, sanat, (Ek ibare:RG-10/12/2025-33103) bilim, teknoloji, magazin ve spor konularından herhangi biri veya birden fazlasına ilişkin özgün ve güncel olmak üzere haber, köşe yazısı, makale, yorum, araştırma, röportaj gibi sair yazı ile resim, fotoğraf, grafik, karikatür ve benzerlerine yer vermeleri gerekir.

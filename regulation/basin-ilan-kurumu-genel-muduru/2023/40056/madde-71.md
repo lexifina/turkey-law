@@ -1,0 +1,5 @@
+Aylık resmî ilan kontenjanı
+MADDE 71- (1) Bir yayın veya kontenjan yerinde bir ay içinde yayımlanması muhtemel resmî ilanların, o yerdeki gazete veya internet haber sitelerinin her birine hangi oranda dağıtılacağına esas teşkil eden ölçüye aylık resmî ilan kontenjanı adı verilir.
+(2) Gazetelerin aylık resmî ilan kontenjanının tespitinde; yüzölçümü, fikir işçisi sayısı, günlük fiili satış adedi, dağıtım-satış usulü, baskı tekniği ve yerleri ile bir ay içindeki yayım sayısı gibi unsurlar dikkate alınır.
+(3) İnternet haber sitelerinin aylık resmî ilan kontenjanının tespitinde; fikir işçisi sayısı, içerik sayısı, tekil ziyaretçi sayısı, sayfa görüntüleme sayısı, sayfada kalma süresi ile sosyal medya hesaplarında resmî ilan paylaşımı gibi unsurlar dikkate alınır.
+(4) Her ayın ilk ve son günleri arasında yayımlatılan resmî ilanların dağıtımına ilişkin resmî ilan kontenjan ve dağıtım tabloları, ay sonu işlemlerinin kesinleşmesini müteakip İLANBİS üzerinden yayın veya kontenjan yerlerine göre ilgili gazete veya internet haber sitelerinin erişimine açılır.

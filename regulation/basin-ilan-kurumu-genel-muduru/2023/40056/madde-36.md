@@ -1,0 +1,5 @@
+Künye ve zorunlu bilgiler
+MADDE 36- (1) Gazetelerin her sayısında künyesinin yer alması zorunludur. Bu künyede yayının adı, tarihi, sayısı, yayın sahibinin gerçek kişi olması halinde gerçek kişi, tüzel kişi olması halinde tüzel kişi, varsa ticaret unvanı ile tüzel kişi temsilcisi, varsa yayıncısı, sorumlu müdürü (yazı işleri müdürü), yayın türü ve yönetim yeri, iletişim telefonu, kurumsal elektronik posta adresi ile Ulusal Elektronik Tebligat Sistemi (UETS) adresi ve dizilip basıldığı matbaa bilgilerinin gösterilmesi zorunludur.
+(2) Gazetelerin; yayın sahibinin, tüzel kişi temsilcisinin, varsa yayıncısının, sorumlu müdürünün (yazı işleri müdürü) ve yönetim yerinin değişmesi halinde, değişikliğin en geç ilk iş gününde imzalı şekilde Kuruma bildirilmesi ve müteakip yayımlanan ilk sayının künyesinde gerekli değişikliklerin yapılması zorunludur.
+(3) Künyenin kapladığı alan 140 santimetrekareyi geçemez.
+(4) Yönetim yeri ile baskı yeri aynı adreste bulunan gazeteler, künyelerinde bunları tek adreste gösterebilir.

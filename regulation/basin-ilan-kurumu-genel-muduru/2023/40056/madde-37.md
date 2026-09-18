@@ -1,0 +1,9 @@
+Sektörel defterler
+MADDE 37- (1) Gazetelerin, resmî ilan yayımlama hakkına esas teşkil eden basılı her sayısına ait bilgileri İLANBİS’te yer alan ilgili defterlere kaydetmeleri zorunludur.
+(2) Defterlerin tutulmasına dair usul ve esaslar Yönetim Kurulu tarafından düzenlenir.
+(3) Defterlere kaydedilmesi gereken iade miktarı hariç tüm bilgiler günlük olarak işlenir. İade miktarları ise en geç 10 gün içerisinde kaydedilir.
+(4) Gazetelerin tutmak zorunda oldukları defterler ile bunların içeriği aşağıda belirtilmiştir:
+a) Kâğıt defteri: Gazetenin baskı işlemlerinde sarf edilmek üzere fatura mukabili temin edilen kâğıdın girişi ile her sayısının baskısında kullanılan kâğıdın çıkışının, baskı tekniğine göre ağırlık veya tabaka birimi üzerinden kaydedildiği defterdir. Ancak, baskı işleminde kullanılan kâğıdın, bir sözleşmeye bağlanmış olarak baskıyı gerçekleştiren ticari kuruluş tarafından sağlandığı belgelendirildiği takdirde bu defter tutulmayabilir.
+b) Baskı defteri: Gazetenin basıldığı matbaa veya matbaalardan intikal eden baskı fişi veya karşılığı olabilecek belgeler ile birlikte faturalara dayanılarak her sayısına ilişkin toplam, temiz ve bozuk baskı adetleri, baskı yeri, saati ve tekniği ile ilgili idareye ayrılan adedinin kaydedildiği defterdir.
+c) Abone defteri: Aboneler gerçek kişi ise ad ve soyadının, tüzel kişi ise adının, varsa ticaret unvanının, adreslerinin, abonelik başlangıç ve bitiş tarihleri ile başlangıç tarihinden itibaren bedeli tahsil edilsin veya edilmesin, abone faturasına ait tarih ve numaranın kaydedildiği defterdir. Abonesi bulunmayan gazeteler bu defteri tutmak zorunda değildir.
+ç) Satış defteri: Gazetenin her sayısından kaç adedinin son nokta bayilerde satışa sunulmak üzere dağıtım işini gerçekleştiren bayi veya bayilere verildiği ile kaç adedinin satılmayıp iade edildiğine ilişkin faturalardaki bilgiler ve varsa faturası düzenlenmiş abone adedinin gösterildiği defterdir.

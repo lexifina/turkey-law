@@ -1,0 +1,4 @@
+Resmî reklam yayımlama hakkı
+MADDE 10- (1) Yalnız resmî reklam yayımlama talebinde bulunan süreli yayınlar, bu Yönetmelikte belirlenen usul ve esaslara uygun olarak vasıf ve ödevlerini eksiksiz ve zamanında yerine getirmeleri halinde bu hakkı kazanırlar. Süreli yayınlar resmî reklam yayımlama hakkı bakımından beşinci kısımda yer alan hükümlere tabidir.
+(2) Resmî ilan yayımlama hakkına sahip veya bu hakkı kazanabilmek için bekleme süresinde bulunan gazete ve internet haber siteleri, resmî reklam yayımlama hakkına da sahiptir. Resmî ilan yayımlama hakkı sona eren gazete ve internet haber sitelerinin, resmî reklam yayımlama hakları da sona erer.
+(3) Bulunduğu ilde en fazla basın kartına sahip üyesi olan gazeteci meslek kuruluşları ile bunların üst kuruluşları tarafından Ramazan ve Kurban Bayramlarına özel olarak çıkarılan yayınlara resmî reklam verilir.

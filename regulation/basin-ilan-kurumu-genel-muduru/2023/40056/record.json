@@ -1,0 +1,90 @@
+{
+  "source_id": "7.5.40056",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RESMÎ İLAN VE REKLAM YÖNETMELİĞİ",
+  "number": "40056",
+  "issuer": "Basın İlan Kurumu Genel Müdürü",
+  "issuer_slug": "basin-ilan-kurumu-genel-muduru",
+  "path": "regulation/basin-ilan-kurumu-genel-muduru/2023/40056",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40056&MevzuatTertip=5",
+  "source_sha256": "9fd9c15a5dbea03b64a55156291fc14b1e77569b9ba4ee2d5774c4a61818c908",
+  "source_bytes": 350685,
+  "published": "2023-02-01",
+  "gazette": "32091",
+  "in_force": "2026-09-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/9/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-09-18",
+      "RG-18/9/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-09-18",
+      "18/9/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-01-01",
+      "1/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-10",
+      "RG-10/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-10",
+      "10/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-03-04",
+      "4/3/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-10",
+      "RG-10/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-10",
+      "10/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-10-12",
+      "RG-12/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-12",
+      "12/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-10-01",
+      "1/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-09-19",
+      "RG-19/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14668,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+Bekleme süresinde yükümlülükler
+MADDE 16- (1) Resmî ilan yayımlama hakkı kazanabilmesi için bekleme süresine tabi tutulan bir gazete veya internet haber sitesi, bu süre dolmadan resmî ilan yayımlayamaz. Aksi halde, 195 sayılı Kanunda düzenlenmiş bulunan müeyyideler uygulanır.
+(2) Bekleme süresi içindeki gazetelerin, 5187 sayılı Kanun uyarınca verilen beyannamede belirtilen yayım aralığına uygunluk arz edecek şekilde; internet haber sitelerinin ise bu Yönetmelikte belirlenen erişim sağlanmasına ilişkin gereklilikleri yerine getirecek şekilde yayımlanmaları ve gazete ile internet haber sitelerinin aranılan diğer bütün vasıflara sahip olmaları, yükletilen ödevleri yerine getirmeleri gerekir.
+(3) Ancak, bekleme süresi içindeki gazeteler veya internet haber siteleri hakkında 113 üncü maddenin birinci fıkrası hükmü, takvim yılı yerine bekleme süresi başlangıç tarihi esas alınarak uygulanır.

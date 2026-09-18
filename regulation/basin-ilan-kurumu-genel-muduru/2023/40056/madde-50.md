@@ -1,0 +1,2 @@
+Dağıtım ek göstergesi
+MADDE 50- (1) Süreli yayın dağıtımını yerine getirebilecek iş göreni, araç ve teknik ekipmanı ile fiziki şartlar yönünden emsalleriyle benzer her türlü imkâna sahip bulunan müesseseler aracılığıyla günlük asgari fiili satış adedinin tamamını yayın yeri ile birlikte her coğrafi bölgede en az bir ilde olmak üzere, yurt genelinin en az % 70’inde günü gününe dağıtıma sunarak bu müesseselere bağlı son nokta bayilerde satışını gerçekleştiren ve istenmesi durumunda bu hususu belgelendiren yaygın gazetelere 1/3 oranında ek gösterge uygulanır.
