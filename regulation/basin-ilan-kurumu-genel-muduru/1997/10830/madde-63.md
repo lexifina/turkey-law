@@ -1,0 +1,3 @@
+Madde 63 - Disiplin cezası verilmesine sebep olmuş bir fiil veya halin, cezaların (Değişik ibare:RG-1/3/2012-28220) özlük dosyasından çıkarılmasına ilişkin süre içinde tekerrüründe bir derece ağır ceza uygulanır. Aynı derecede cezayı gerektiren fakat ayrı fiil ve haller nedeniyle verilen disiplin cezalarının üçüncü uygulamasında bir derece ağır ceza verilir.
+Geçmiş hizmetleri sırasındaki çalışmaları olumlu olan (Mülga ibare:RG-1/3/2012-28220) (…) memur ve müstahdemler için verilecek cezalarda bir derece hafif olanı uygulanabilir.
+Öğrenim veya kıdem durumları nedeniyle yükselebilecekleri en son kıdemde bulunan Kurum personelinin kıdem durdurulmasını gerektiren hallerde brüt aylık ücretlerinin 1/4’ü - 1/2’si kesilir ve tekerrüründe görevlerine son verilir.

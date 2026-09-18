@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.10830",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BASIN İLÂN KURUMU YÖNETMELİĞİ",
+  "number": "10830",
+  "issuer": "Basın İlân Kurumu Genel Müdürü",
+  "issuer_slug": "basin-ilan-kurumu-genel-muduru",
+  "path": "regulation/basin-ilan-kurumu-genel-muduru/1997/10830",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10830&MevzuatTertip=5",
+  "source_sha256": "f6bc13cf44a75bd2c736cac2c5e3bc68f35048a6643ce7c1fcb4581749602046",
+  "source_bytes": 173535,
+  "published": "1997-12-12",
+  "gazette": "23198",
+  "in_force": "2026-09-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/9/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-09-18",
+      "RG-18/9/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-02-20",
+      "RG-20/2/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-19",
+      "RG-19/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-03-06",
+      "RG-6/3/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-09-16",
+      "RG-16/9/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-06-22",
+      "RG-22/6/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-03-11",
+      "RG-11/3/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-28",
+      "RG-28/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-02-01",
+      "RG-1/2/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-11",
+      "RG-11/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-09",
+      "RG-9/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-11",
+      "RG-11/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, Resmî Gazete'de yayını tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9534,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

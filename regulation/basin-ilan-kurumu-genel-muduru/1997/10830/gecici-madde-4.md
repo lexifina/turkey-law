@@ -1,0 +1,5 @@
+Geçici Madde 4 – (Ek:RG-17/5/2020-31130)(4)
+COVID-19 salgın hastalığının ülkemizde görülmüş olması nedeniyle Genel Kurul Üyeleri Kurumun 2020 yılı Mayıs ve Ağustos Genel Kurullarına elektronik ortamda katılabilir.
+Elektronik ortamda katılımın mümkün olduğu toplantılarda Başkanlık Divanı toplantıda fiziken bulunan üyeler arasından seçilir ve bu Yönetmeliğin komisyonların çalışmasına ilişkin 17 nci ve 21 inci maddeleri uygulanmaz. Bu durumda toplantı bir oturumda sona erer ve elektronik ortamda toplantıya katılan Genel Kurul üyeleri oylarını, Başkanlık Divanınca oylamaya geçilmesinin ardından “kabul ediyorum” yahut “reddediyorum” sözleriyle kullanır. Oylama, oylamaya geçilmesinin ardından tek seferde kesilmeksizin tamamlanır ve sonuç Başkanlık Divanınca tutanakla tespit edilir.
+İşbu madde uyarınca gerçekleştirilen Genel Kurul toplantıları Genel Müdürlükçe elektronik ortamda ve Başkanlık Divanınca evrak ortamında tespit edilerek tutanak altına alınır ve saklanır.
+Elektronik ortamda katılımın olduğu toplantılara ilişkin bu maddede hüküm bulunmayan hallerde, işbu Yönetmeliğin diğer hükümleri kıyasen uygulanır.

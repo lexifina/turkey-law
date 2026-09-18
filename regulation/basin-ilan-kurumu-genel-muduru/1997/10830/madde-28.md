@@ -1,0 +1,1 @@
+Madde 28 - Bir kurul oluşturan denetçiler, çalışmalarını aralarında anlaşarak düzenlerler. Belirlenen hususlar yazılı rapor haline getirilir. Raporlar, Denetçiler Kurulu adına düzenlenip üç üye tarafından da imzalanır. Üyelerin oybirliği etmedikleri hususlarda aykırı kalan üye ile aykırılık sebebi raporda gösterilir.

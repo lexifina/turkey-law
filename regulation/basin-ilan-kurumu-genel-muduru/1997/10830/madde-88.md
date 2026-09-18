@@ -1,0 +1,1 @@
+Madde 88 - Kurum'un hesaplarının yıl sonu sonuçları ve tahsis bilânçoları ile kâr ve zarar hesabı, hesap yılının bitiminden itibaren en geç 2 ay içinde Resmî Gazete ile diğer iki gazetede yayınlanır. Bilânço ve hesapların onaylanması Genel Kurul'un Şubat ayı içinde yapacağı toplantıda görüşülür ve karara bağlanır.

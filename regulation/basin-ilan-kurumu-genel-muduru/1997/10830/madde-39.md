@@ -1,0 +1,1 @@
+Madde 39 - Yönetim Kurulu, 195 sayılı Kanun'un 6 ncı maddesinin ikinci fıkrasına uygun olağanüstü toplantı isteği üzerine, bu isteği içeren imzalı yazının alınmasından sonra yapacağı ilk oturumda, Genel Kurul'u toplantıya çağırma kararı almak zorundadır. Olağanüstü toplantı günü, Yönetim Kurulu kararı tarihinden itibaren bir ayı aşamaz.

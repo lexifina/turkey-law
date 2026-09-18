@@ -1,0 +1,2 @@
+Madde 9 – (Değişik:RG-28/12/2017-30284)
+195 sayılı Kanun’un 5 inci maddesinin birinci fıkrasının (a) bendinde öngörülen ve bu Yönetmeliğin 7 nci ve 8 inci maddelerinde belirlenme yöntemi açıklanan gazeteciler dernekleri ve sendika temsilcileri ile ilan prodüktörleri hariç 195 sayılı Kanun’un 5 inci maddesinin birinci fıkrasının (c) bendinde belirtilen bütün kurum ve kuruluşların temsilcilerini, bunların mensupları arasından kendi yönetim kurulları seçer.

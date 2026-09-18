@@ -1,0 +1,1 @@
+Madde 71 - Geçerli bir özürü olan personele, şube müdürleri iki güne; Genel Müdür 10 güne kadar izin verebilir. Özür nedeniyle daha uzun süreli izin vermeye Yönetim Kurulu yetkilidir. Özür izinlerinin bir yılda 15 günü aşan kısmı, yıllık izine mahsup edilir.

@@ -1,0 +1,1 @@
+Madde 101 - Kurum özel ilân ve reklâm veren müşterilerine ilân bedeli karşılığı, üç ayı geçmemek üzere faizsiz kredi açabilir. Yönetim Kurulu gerekli görürse açılacak kredi karşılığında Kurum'un kabul edeceği bir bankanın teminat mektubunu arayabilir.

@@ -1,0 +1,5 @@
+Madde 56 –(Değişik:RG-21/3/2015-29302)
+Memur ve müstahdemler ile mukaveleli ve aylıklı geçici hizmetliler (yan kuruluşlardaki mevsimlik hizmetliler hariç) 195 sayılı Kanunun 12 nci maddesindeki usûle göre göreve alınır ve aynı usûlle görevlerine son verilir. Sakatlık, yaşlılık, hastalık veya başka sebeplerle görevini gerektiği gibi yapamayanlar hakkında da aynı esas uygulanır. Bu Yönetmeliğin 62 nci maddesinin beş numaralı bent hükmü saklıdır.
+Genel Müdür Yardımcıları, (Mülga ibare:RG-19/9/2024-32667) Genel Müdürlük Servis Müdürleri ve Şube Müdürleri kadrosunda çalışan memurları kendi kadro ve maaşlarıyla, hizmet gereği olarak gerekli görülecek yer ve görevlerde çalıştırmaya Genel Müdürün teklifiyle Yönetim Kurulu yetkilidir.
+Diğer memur ve müstahdemler ile hizmetlileri, kendi kadroları ve maaşlarıyla, hizmet gereği olarak gerekli görülecek yer ve görevlerde çalıştırmaya, Genel Müdür yetkilidir.
+Kontrol kurullarında görevlendirilecek yevmiyeli hizmetlilerde aranacak nitelikler ile diğer hususlar, Yönetim Kurulunun teklifi üzerine Genel Kurul kararı ile belirlenir.

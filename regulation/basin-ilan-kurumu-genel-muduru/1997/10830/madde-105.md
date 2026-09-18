@@ -1,0 +1,2 @@
+Madde 105 - (Değişik: RG-02/12/1998-23541)
+Kurum'un vereceği kredilerin üst sınırı, her yıl Mart ayında, (Değişik ibare:RG-11/12/2022-32040)(6) Kurumun finansal imkânları ölçüsünde Yönetim Kurulu tarafından belirlenir. Talep sahibine verilecek kredi miktarı, belirlenen limiti ve (Değişik ibare:RG-28/12/2017-30284) süreli yayının geçmiş sene zarfında ilân ve reklâm bedeli olarak Kurum'dan tahsil ettiği meblâğın (Değişik ibare:RG-20/2/2026-33174) 1/2 sini geçemez.

@@ -1,0 +1,2 @@
+Madde 58 - (Değişik ibare:RG-19/9/2024-32667) Genel Müdür ve Yardımcısı (Değişik ibare:RG-11/12/2022-32040) ile memur ve müstahdemler, ticaret, ve serbest meslek faaliyetlerinde bulunamazlar, gazetecilik yapamazlar. Siyasî yayın ve propagandada bulunamazlar. İlân prodüktörlüğü, kurum ve şirketlerinde ortak veya herhangi bir suretle ilgili olamazlar. Telif ücretleri ve bilirkişilik hariç, maaş, ücret veya ödenek karşılığı resmî veya özel hiçbir iş alamazlar.
+Bu yasaklara uymayanlar derhal işten çıkarılır.

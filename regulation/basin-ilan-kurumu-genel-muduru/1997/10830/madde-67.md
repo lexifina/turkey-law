@@ -1,0 +1,1 @@
+Madde 67 - Aynı olaydan dolayı personel hakkında ceza koğuşturmasına başlanmış veya ceza davası açılmış olması disiplin cezası verilmesine engel olmaz. Aynı şekilde, memur veya müstahdemin mahkum olması veya olmaması da disiplin cezası uygulamasına engel olmaz.

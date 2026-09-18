@@ -1,0 +1,1 @@
+Madde 61 - Memur ve müstahdemlerin sosyal hakları ile bunlara yapılacak sosyal yardımlar, Kurum personelinin maaşlarını düzenleyen Genel Kurul Kararı'nda ayrı bir bölüm olarak yer alır ve değişen ekonomik şartlara göre ayarlanır.

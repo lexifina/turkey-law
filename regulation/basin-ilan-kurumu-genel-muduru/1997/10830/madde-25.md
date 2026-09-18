@@ -1,0 +1,1 @@
+Madde 25 - Bir denetçinin ölümü, çekilmesi, Genel Kurul üyeliğinin son bulması gibi bir sebeple görevinin sona ermesi halinde, yerine aynı temsilciler grubundan olan yedek üye geçer ve bu üye yerini aldığı denetçinin süresini tamamlar. Bu takdirde durum yapılacak ilk toplantıda Genel Kurul'a duyurularak boşalan yedek üyenin süresini tamamlamak üzere yeni yedek üye seçilir.

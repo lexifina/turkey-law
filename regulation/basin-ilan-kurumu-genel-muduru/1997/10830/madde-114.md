@@ -1,0 +1,1 @@
+Madde 114 - Kurum'un merkez ve şubeleriyle çeşitli servislerinde işlerin nasıl yürütüleceğini ve Yönetmelikte açıkça belirtilen hususları göstermek üzere Yönetim Kurulu'nca bir "İç Hizmet Talimatı" hazırlanır.

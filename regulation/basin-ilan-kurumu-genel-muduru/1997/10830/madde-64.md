@@ -1,0 +1,1 @@
+Madde 64 - Bu Yönetmeliğin 62 nci maddesinde sayılan ve disiplin cezası verilmesini gerektiren fiil ve hallere nitelik ve ağırlıkları itibariyle benzer eylemlerde (Değişik ibare:RG-28/12/2017-30284) bulunanlara veya bu fiil ve halleri bilişim araçları ve sosyal medya yoluyla gerçekleştirenlere de aynı neviden disiplin cezaları verilir.

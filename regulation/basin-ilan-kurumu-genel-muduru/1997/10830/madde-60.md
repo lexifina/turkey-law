@@ -1,0 +1,2 @@
+Madde 60 – (Değişik ibare:RG-1/3/2012-28220) Terfie engel bir hâli olmayan her memur ve müstahdem, "Kurum Ücret Tablosu"nda dahil bulunduğu kademelerde, işe giriş tarihi başlangıç alınmak suretiyle, yılda bir maaş basamağı ilerler.
+Bulunduğu grup veya kademe görevinden daha yüksek bir grup veya kademe görevine nakil ve ataması yapılan memurların, maaş basamaklarının belirlenmesinde, bunların eski hizmetleri yeni kademelerinde geçmiş sayılır.

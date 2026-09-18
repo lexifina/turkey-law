@@ -1,0 +1,1 @@
+Madde 29 - Denetçiler, görevlerine giren bir konunun görüşülmesini istedikleri takdirde, heyet halinde Yönetim Kurulu toplantılarında oya katılmamak şartıyla hazır bulunabilirler ve gerekli gördükleri önerileri Yönetim Kurulu gündemine veya Genel Kurul'un olağan ya da olağanüstü toplantı gündemlerine aldırabilirler.

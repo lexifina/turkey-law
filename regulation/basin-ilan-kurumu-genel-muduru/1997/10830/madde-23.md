@@ -1,0 +1,2 @@
+Madde 23 - Genel Kurul'da teklifler ile ilgili görüşmeler tamamlandıktan veya yeterliği teklif ve kabul edildikten sonra aynı konudaki teklifler okunur, en aykırı tekliften başlanmak üzere oylamaya geçilir.
+Tekrar görüşme yolu hariç olmak üzere, bir teklif kabul edildikten sonra aynı konudaki diğer teklifler oylamaya sunulmaz. Tekrar görüşme teklifi ancak, asıl konunun tamamının görüşülmesi bittikten sonra oylamaya sunulabilir.

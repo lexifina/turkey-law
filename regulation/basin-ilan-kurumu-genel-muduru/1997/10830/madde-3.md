@@ -1,0 +1,4 @@
+Madde 3 - (Değişik birinci cümle:RG-11/12/2022-32040) Yönetim Kurulu, 2 nci maddenin birinci fıkrasında belirtilen gazete, dergi ve internet haber sitesi sahipleri ile ilân prodüktörleri arasında yapılacak seçimlerle ilgili işlemleri yönetir. Gerekli tebligatı zamanında yapar, seçim yapılan yerde üyelerinden birini gözlemci olarak bulundurur ve seçilen üyelerin isimlerini saptayarak seçim sonucu düzenlenen tutanakların saklanmasını sağlar.
+Yönetim Kurulu, seçimlerin yapılış şekline müdahale edemez, seçim sonuçlarını etkileyecek herhangi bir karar veremez.
+(Değişik üçüncü fıkra:RG-18/9/2026-33374) Çoğunluğun sağlanmayışı nedeni ile yapılamayan seçim, ertesi gün aynı yer ve saatte yapılır. Bu seçimde Genel Kurul üyeleri toplantıya katılanların oy çokluğu ile seçilir.
+(Mülga dördüncü fıkra:RG-11/12/2022-32040)

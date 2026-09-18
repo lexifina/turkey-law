@@ -1,0 +1,1 @@
+Madde 93 - Kurum'un hangi bankalara parasını yatıracağını, alacaklarını tahsil ve borçlarını ödemede bunlardan hangilerini aracı kılacağını, Yönetim Kurulu'nun incelemeler sonucu yapacağı öneri üzerine, Genel Kurul ismen belirler. Bu bankaların değiştirilmesi gerektiğinde, aynı yöntem uygulanır.

@@ -1,0 +1,2 @@
+Madde 7 - İstanbul, Ankara ve İzmir'deki en fazla sarı basın kartlı üyeye sahip gazeteciler derneklerinin belirlenmesi için, seçimi gerektiren yıldan önceki Aralık ayı sonu esas alınmak kaydıyla, bu illerdeki gazeteciler derneklerinin adları ve üye sayıları (Değişik ibare:RG-11/12/2022-32040) İletişim Başkanlığından sorulur.
+Yönetim Kurulu, alınan belgelere göre, her üç ilden birer dernek adı saptar ve bu saptamasını 2 nci maddenin ikinci fıkrası uyarınca kendilerine duyurur.

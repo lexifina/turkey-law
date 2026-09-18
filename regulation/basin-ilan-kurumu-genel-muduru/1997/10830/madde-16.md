@@ -1,0 +1,1 @@
+Madde 16 - Genel Kurul üyeliği sona eren temsilcinin yerine, mensup bulunduğu kurum, kuruluş veya hükümet, Yönetim Kurulu'nun bir hafta içinde yapacağı tebliğ tarihinden itibaren, en geç on beş gün içinde, seçimlere ait hükümlere göre yenisini seçer veya görevlendirir. Bu suretle belirlenen temsilciler, yerine geldikleri Genel Kurul üyesinin süresini tamamlar.

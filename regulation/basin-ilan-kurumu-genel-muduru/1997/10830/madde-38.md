@@ -1,0 +1,2 @@
+Madde 38 - Yönetim Kurulu'nun görevi yeni bir Yönetim Kurulu'nun seçilmesine kadar devam eder.
+Yönetmeliğin 14 üncü maddesi hükümlerine göre, Genel Kurul üyeliği son bulan üyenin Yönetim Kurulu üyeliği de sona erer. Boşalmadan sonraki ilk Genel Kurul toplantısında boşalan üyelik için, kalan süreyi tamamlamak üzere seçim yapılır. Yönetim Kurulu'ndaki boşalmalar nedeni ile Yönetim Kurulu'nun çoğunluğu ortadan kalkmış ise Genel Kurul, seçim için olağanüstü toplantıya çağrılır.

@@ -1,0 +1,1 @@
+Madde 36 - Yönetim Kurulu Faaliyet veya Durum Raporu ile, düzenleyeceği Genel Kurul toplantı gündemini ve bu gündeme giren tekliflerinin birer nüshasını toplantıdan onbeş gün önce Genel Kurul üyelerine gönderir.
