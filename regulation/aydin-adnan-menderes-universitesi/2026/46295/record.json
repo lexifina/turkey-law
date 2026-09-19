@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-09-19",
+      "19.09.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33375",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Aydın Adnan Menderes Üniversitesi",
+  "issuer_slug": "aydin-adnan-menderes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/aydin-adnan-menderes-universitesi/2026/46295",
+  "published": "2026-09-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46295&MevzuatTertip=5",
+  "source_bytes": 49616,
+  "source_id": "8.5.46295",
+  "source_sha256": "308f3e56e9cc8c94126ca6b4cec4a48bf46343ea69e82d3b8c2b00b2ab5f81f8",
+  "text_status": "as-enacted",
+  "title": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ GELENEKSEL VE TAMAMLAYICI TIP UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 176,
+  "word_count": 927
+}
