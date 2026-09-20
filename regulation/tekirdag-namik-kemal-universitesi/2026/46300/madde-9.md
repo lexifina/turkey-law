@@ -1,0 +1,2 @@
+Türkçe yeterlilik
+MADDE 9- (1) Üniversiteye kaydolan ve Türkçe düzeyi yeterli olmayan yabancı uyruklu öğrenciler; Rektörlüğün veya bir başka üniversitenin bu konu ile ilgili birim veya bölümüne kayıt yaptırır ve bu birim veya bölüm tarafından yürütülen Türkçe derslerine devam eder. Bu öğrenim sonunda başarısız olan öğrencilere bir yıl ek süre verilir. Bu ek süre sonunda başarısız olan öğrencilerin Üniversite ile ilişikleri kesilir.

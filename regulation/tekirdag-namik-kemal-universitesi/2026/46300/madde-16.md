@@ -1,0 +1,2 @@
+Sınav sonuçlarının ilanı
+MADDE 16- (1) Yarıyıllık ve yıllık derslerde sınav sonuçları en geç sınav tarihinden itibaren on dört gün içinde öğretim elemanınca öğrenci işleri otomasyonuna kaydedilerek duyurulmuş olur. Ayrıca, sınav evrakı ve dersin not çizelgesi ilgili dersin sorumlu öğretim elemanı tarafından imzalanarak Dekanlığa teslim edilir. Teslim edilen evraklar için bir tutanak düzenlenerek bir örneği ilgili dersin sorumlu öğretim elemanına verilir. Sınav evrakının saklanması Dekanlık tarafından sağlanır. Sınav evraklarının saklanma süresi iki yıldır.

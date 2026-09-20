@@ -1,0 +1,4 @@
+Öğretim programları
+MADDE 10- (1) Fakültenin lisans öğrenimi süresince izlenecek ders programları ve derslerin yıllara dağılımı, Fakülte Kurulu tarafından belirlenir ve Senatonun onayı ile kesinleşir.
+(2) Fakültede okutulacak dersler yıllık olarak düzenlenir ve haftalık ders saatleri Senato onayıyla kabul edilir. Derslerin yıllık olarak planlanması esas olmakla birlikte, nitelikleri gereği kimi ortak zorunlu dersler veya seçmeli dersler yarıyıl esasına göre planlanabilir.
+(3) Derslerin AKTS değerleri öğrencilerin ders yükü dikkate alınarak belirlenir. Fakülte dersleri her yıl 60 AKTS olmak üzere toplam 240 AKTS'dir. Derslerin kredisi ders planında belirtilir. Dersin kredisi, öğrencinin yıllık çalışma yükü temel alınarak öğretim elemanı tarafından belirlenir ve ilgili anabilim dalı tarafından ders planı ile birlikte Fakülte Kurulunun onayına sunulur. Bir sonraki eğitim-öğretim yılının ders planı, takip eden yılın başlangıcından önce belirlenir.

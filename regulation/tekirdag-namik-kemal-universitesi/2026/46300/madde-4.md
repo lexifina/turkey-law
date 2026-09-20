@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Avrupa Kredi Transfer Sistemi (AKTS): Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin ve notlarının bir yükseköğretim kurumundan diğerine transferini sağlayan Avrupa Kredi Transfer Sistemini,
+b) Danışman: Öğrencilerin eğitim-öğretim sorunlarıyla ilgilenmek için, Fakülte Yönetim Kurulunun kararıyla görevlendirilen öğretim elemanını,
+c) Dekan: Tekirdağ Namık Kemal Üniversitesi Hukuk Fakültesi Dekanını,
+ç) Dekanlık: Tekirdağ Namık Kemal Üniversitesi Hukuk Fakültesi Dekanlığını,
+d) Fakülte: Tekirdağ Namık Kemal Üniversitesi Hukuk Fakültesini,
+e) Fakülte Kurulu: Tekirdağ Namık Kemal Üniversitesi Hukuk Fakültesi Fakülte Kurulunu,
+f) Fakülte Yönetim Kurulu: Tekirdağ Namık Kemal Üniversitesi Hukuk Fakültesi Yönetim Kurulunu,
+g) GNO: Genel not ortalamasını,
+ğ) İntibak: Üniversiteye kayıt hakkı kazanan öğrencilerin daha önce herhangi bir yükseköğretim kurumundan alıp başardığı veya muaf sayıldığı derse/derslere göre devam edecekleri yarıyıl/yılı belirleme işlemini,
+h) Kredi: Bir yarıyıl içinde haftada verilen bir saat teorik dersi veya iki saat uygulama, laboratuvar, klinik, pratik çalışma ve benzeri çalışmaları ifade eden ölçü birimini,
+ı) Muafiyet: Daha önce alınmış ve başarılmış ders/derslerin yerine, AKTS veya ders saati ve içerik uyumuna göre müfredatta bulunan ders/derslerin denkliğinin kabul edilmesi durumunu,
+i) Ortak zorunlu dersler: 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan dersleri,
+j) Ön koşullu ders: Kaydının yapılabilmesi için Fakülte Yönetim Kurulunca belirlenen diğer bazı ders veya derslerin yıl sonu sınavına girme hakkı alınmış ya da belirlenen bazı ders veya derslerin başarılmış olmasını gerektiren dersleri,
+k) Rektör: Tekirdağ Namık Kemal Üniversitesi Rektörünü,
+l) Rektörlük: Tekirdağ Namık Kemal Üniversitesi Rektörlüğünü,
+m) Seçmeli dersler: Müfredatta önceden belirlenen ve zorunlu dersler dışındaki dersleri,
+n) Senato: Tekirdağ Namık Kemal Üniversitesi Senatosunu,
+o) Üniversite: Tekirdağ Namık Kemal Üniversitesini,
+ö) YSNO: Yıl sonu not ortalamasını,
+p) Zorunlu dersler: Öğrencilerin kaydoldukları eğitim-öğretim programı gereğince almak zorunda oldukları dersleri,
+ifade eder.

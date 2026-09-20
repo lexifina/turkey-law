@@ -1,0 +1,5 @@
+Yatay ve dikey geçişler
+MADDE 23- (1) Diğer yükseköğretim kurumlarından, Fakülteye yatay geçişler ile Üniversite içindeki eşdeğer yükseköğretim programları arasındaki yatay geçişler 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yürütülür. Bu öğrencilerin lisans programına intibakları, Fakülte Yönetim Kurulu tarafından yapılır.
+(2) Meslek yüksekokulu mezunlarının Fakülteye kayıtları, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine göre yürütülür.
+(3) Yatay ve dikey geçiş işlemleri kapsamında yalnızca her ilgili eğitim-öğretim yılının birinci yarıyılı için öğrenci başvurusu ve kabulü yapılır.
+(4) Yatay ve dikey geçişlerde aranacak şartlar için ilgili mevzuat hükümleri kapsamında, Senato ve Fakülte Yönetim Kurulu kararları uygulanır.
