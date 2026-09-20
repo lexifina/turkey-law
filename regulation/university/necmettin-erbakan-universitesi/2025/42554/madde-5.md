@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Eğitim Öğretim Planlayıcı, Yürütücüleri ve Kurullar
+Koordinatörler
+MADDE 5- (1) Başkoordinatör, Başkoordinatör Yardımcıları, Dönem Koordinatörleri ve Dönem Koordinatör Yardımcılarının görev ve sorumlulukları Senato tarafından kabul edilen ilgili yönerge hükümleri kapsamında yürütülür.
+a) Başkoordinatör: Dekanlık tarafından 3 (üç) yıl süre ile görevlendirilen, eğitim ve öğretimin tüm dönemlerde planlanması, yürütülmesi ve koordinasyonundan sorumlu öğretim üyesidir.
+b) Başkoordinatör Yardımcıları: Başkoordinatörün önerisi ve Dekanın onayı ile Fakülte öğretim üyelerinden en fazla dört öğretim üyesi Başkoordinatör Yardımcısı olarak 3 (üç) yıl süre ile görevlendirilir. Başkoordinatörün görevinden ayrılması durumunda yardımcılarının da görev süresi sona erer.
+c) Dönem Koordinatörleri ve Yardımcıları: Dönem Koordinatörleri ve Yardımcıları her dönem için o dönemde dersi bulunan öğretim üyeleri arasından Başkoordinatörün önerileri dikkate alınarak Dekan tarafından 3 (üç) yıl süre ile görevlendirilir.
+(2) Ortak ders birim görevlisi: Ortak ders birim görevlisi; ortak dersler koordinatörlüğünün talebi üzerine Dekan tarafından görevlendirilen öğretim elemanı/elemanlarıdır. Ortak ders birim görevlisi ortak ders ile ilgili tüm sürecin akademik birim içindeki takibini yapar. Ortak ders birim görevlisi öğrenci bilgi sisteminde ilgili dersin ikinci öğretim elemanı olarak tanımlanır. Ortak dersler koordinatörlüğünün uygun görmesi halinde sınav notlarını öğrenci bilgi sistemine girme ve sonuçlandırma işlemlerini yapar. Sınav sonuçlarına yapılacak itirazları takip eder. Ortak ders birim görevlisinin diğer görev ve sorumlulukları ilgili yönerge çerçevesinde yürütülür.

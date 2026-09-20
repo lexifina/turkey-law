@@ -1,0 +1,3 @@
+Mazeret
+MADDE 16- (1) Dönem 1, 2 ve 3 öğrencilerinden haklı ve geçerli bir sebeple mazeret beyan eden öğrenciler; mazeretlerinin bitiş tarihinden itibaren en geç 5 (beş) iş günü içinde öğrenci işlerine mazeretini gösterir belge ile birlikte yazılı olarak başvurmak zorundadır. Bu süre içinde bildirilmeyen mazeretler kabul edilmez. Öğrencilerin sağlıkla ilgili mazeretlerinin kabul edilmesi için sağlık raporlarının üniversite hastaneleri veya yataklı sağlık kurumlarından alınmış olması gerekir.
+(2) Sağlık mazereti Fakülte Yönetim Kurulunca kabul edilen öğrenci, rapor süresince derslere devam edemez ve sınavlara giremez. Raporlu olduğu süre içerisinde sınava giren öğrencilerin sınavı geçersiz sayılır.

@@ -1,0 +1,3 @@
+Staj başarı notu hesaplanması
+MADDE 34- (1) Staj başarı notu, pratik/sözlü sınav puanının %60'ı ile teorik sınav puanının %40'ının toplanmasıyla hesaplanır. Stajı başarmak için staj başarı notunun 60 (CC) olması gerekir. Bütünleme sınavlarında ve tek ders sınavlarında da staj başarı notu aynı yöntem ile hesaplanır.
+(2) Staj sınav sonuçları, her staj döneminin sonunda ana bilim dalı başkanlıkları tarafından Dekanlığa, pratik ve teorik sınav sonuçları ayrı ayrı belirtilerek ve elde edilen staj başarı notu virgülsüz tam puan olarak (virgülden sonraki hane 5 ve yukarısı ise bir üste tamamlanır) sınavı takiben en geç üç iş günü içinde bildirilir.

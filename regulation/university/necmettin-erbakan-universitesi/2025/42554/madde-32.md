@@ -1,0 +1,3 @@
+Ders türleri
+MADDE 32- (1) Staj: Fakültenin 4 üncü ve 5 inci yılında, yatay ve dikey entegrasyona uygun olarak birbirini tamamlayan özellikte ders, seminer ve pratik uygulamalar olarak gerçekleştirilen ana bilim dalı ve bilim dallarına ait eğitimlerin birlikte yürütüldüğü mesleki uygulama ağırlıklı dersler grubudur. İlgili ana bilim dalı, staj bitimini takiben en geç 3 (üç) iş günü içinde öğrenci başarı durumunu öğrenci işlerine resmi yazı ile bildirir.
+(2) Seçmeli Staj: Fakültenin 4 üncü ve 5 inci yılında, öğrencilerin her yıl Fakülte Kurulu tarafından belirlenen stajlar arasından seçerek aldığı mesleki uygulama ağırlıklı stajlardır.

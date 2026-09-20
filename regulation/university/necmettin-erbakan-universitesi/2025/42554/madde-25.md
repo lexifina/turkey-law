@@ -1,0 +1,2 @@
+Sınavların yapılması
+MADDE 25- (1) Sınavlar; kuramsal, yapılandırılmış sözlü ve uygulamalı sınavlar, direkt gözlemsel uygulama sınavı, nesnel yapılandırılmış klinik sınav, nesnel yapılandırılmış pratik sınav, bilgi değerlendirme sınavları, mesleki beceri değerlendirme sınavları, olgu temelli değerlendirme sınavları, ortak gelişim sınavları, kanıta dayalı tıp uygulamaları değerlendirmesi, araştırma ve sosyal sorumluluk proje etkinliği değerlendirmesi, mesleki tutum ve davranış değerlendirmesi veya bu usullerden birkaçı bir arada uygulanmak üzere yapılabilir.

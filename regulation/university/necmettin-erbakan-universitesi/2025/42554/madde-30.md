@@ -1,0 +1,8 @@
+Yıl sonu genel sınavlarda değerlendirme
+MADDE 30- (1) Dönem 1, 2 ve 3 yıl sonu genel sınavlarında değerlendirme aşağıdaki şekilde belirlenir:
+a) Ders kurul sonu sınavları için belirlenen kurallar uyarınca yapılır.
+b) Dönemi başarmak için, dönem başarı notunun en az 60 (CC) olması gerekir.
+c) Dönem 1, 2 ve 3’te dönem başarı notu; ders kurulu sınavları puanlarının aritmetik ortalamasının %60'ı ile yıl sonu genel sınavı/bütünleme puanının %40'ının toplanması ile hesaplanan puana karşılık olan harf notudur. Sonuçlarda virgülden sonraki hane beşten küçükse sıfıra, beş veya daha büyükse artırılmış şekilde yuvarlanarak iki hane olarak hesaplanır. Ancak ders kurulu, ders kurulu ortalaması ve yıl sonu genel/bütünleme sınav sonuçları yuvarlanmaz.
+ç) Tüm ders kurullarında devam şartını sağlayan öğrencilerin yıl içi ders kurulu sınav puanlarının aritmetik ortalaması 80 (seksen) ve üstü olan Dönem 1,2 ve 3 öğrencileri kuruldan başarılı kabul edilir ve yıl sonu genel sınavına girme zorunlulukları yoktur. Bu öğrenciler için yıl içi ders kurulu sınav puanlarının aritmetik ortalaması harf notuna çevrilerek dönem başarı notu olarak belirlenir. Bu öğrenciler yıl sonu genel sınavından en geç üç iş günü öncesinde yazılı talepte bulunmaları halinde yıl sonu genel sınavına alınırlar ve alınan not geçerli kabul edilir.
+d) TEBAD tarafından yürütülen uygulamalı dersler ilgili yönerge hükümlerine göre değerlendirilir.
+e) Yurt içi, yurt dışı bilimsel araştırma projelerinde dereceye girmiş veya sosyal sorumluluk projelerinde paydaş veya yürütücü olarak görev alan öğrencilerin ek değerlendirme ölçütleri ilgili yönerge hükümlerine göre yürütülür.

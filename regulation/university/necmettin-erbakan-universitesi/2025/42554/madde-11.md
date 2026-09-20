@@ -1,0 +1,5 @@
+Kayıt yenileme
+MADDE 11- (1) Öğrenci, öğrencilik haklarının devam etmesi, eğitim, öğretiminin sürdürülmesi ve sınavlara girebilmesi için her öğretim yarıyıl/yılın başında akademik takvimde belirtilen süre içinde öğrenci bilgi sistemi üzerinden ders kayıtlarını yapmakla yükümlüdür.
+(2) Birinci sınıfa yeni kayıt yaptıran öğrenci, aynı zamanda Dönem 1’de yer alan derslere de kaydını yaptırmış sayılır.
+(3) Akademik takvimde belirtilen sürelerde kaydını yeniletmeyen öğrenci, o dönemde öğrencilik haklarından yararlanamaz, derslere devam edemez ve sınavlara giremez. Bu süre, 2547 sayılı Kanunda belirtilen öğrenim süresinden sayılır. Ancak, süresi içinde kaydını yeniletmeyenlerden haklı ve geçerli mazereti olan öğrencinin mazeretini belirten dilekçe ile akademik takvimde belirtilen mazeretli geç kayıtlar için tanınan süre içerisinde başvurması şartıyla kaydının yenilenmesine Fakülte Yönetim Kurulu karar verir. Mazeretleri Fakülte Yönetim Kurulunca kabul edilmeyen öğrenciler, o dönem için kayıt yaptıramaz ve öğrencilik haklarından yararlanamaz.
+(4) Kayıt yenileme işlemlerinin bütününden öğrenci sorumludur.
