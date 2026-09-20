@@ -1,0 +1,3 @@
+Not ortalamaları
+MADDE 23 – (1) Herhangi bir yarıyılın not ortalaması; o yarıyılda öğrencinin aldığı her dersin kredisi ile o dersten alınan yarıyıl başarı notu çarpımları toplamının, alınan derslerin kredilerinin toplamına bölünmesi ile hesaplanır. Elde edilen ortalama, virgülden sonra iki haneli olarak gösterilir.
+(2) Ağırlıklı Genel Not Ortalaması, öğrencinin lisansüstü programa kabul edildiği tarihten itibaren almış olduğu derslerin tümü göz önünde bulundurularak aynı yöntemle hesaplanır. Gerek yarıyıl, gerekse ağırlıklı genel not ortalamasında (AA)’dan (FF)’ye kadar verilen notlar esas alınır. Ağırlıklı Genel Not Ortalamasının hesaplanmasında tekrar edilen bir dersin en son alınan notu dikkate alınır.

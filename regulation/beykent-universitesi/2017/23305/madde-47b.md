@@ -1,0 +1,3 @@
+Lisansüstü program kontenjanları
+MADDE 47/B – (Ek:RG-30/11/2020-31320)
+(1) Lisansüstü program kontenjanları, Yükseköğretim Kurulu tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı ve mevcut öğretim üyesi başına düşen öğrenci sayısı dikkate alınarak, tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı en fazla 14, tezsiz yüksek lisans programları için ise tezli yüksek lisans ve doktora programları hariç en fazla 16 öğrenci düşecek şekilde belirlenir. Ancak, Yükseköğretim Kurulu ile yapılan protokol dahilinde ve Üniversite sanayi işbirliği çerçevesinde yürütülen lisansüstü programlar için bu kontenjan %50’ye kadar artırılabilir.

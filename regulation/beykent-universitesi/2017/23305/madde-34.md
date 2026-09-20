@@ -1,0 +1,10 @@
+BEŞİNCİ BÖLÜM
+Doktora Programı
+Amaç ve kapsam
+MADDE 34 – (1) Doktora programı, öğrenciye bağımsız araştırma yapma, bilimsel problemleri, verileri geniş ve derin bir bakış açısı ile irdeleyerek yorum yapma, analiz etme ve yeni sentezlere ulaşmak için gerekli becerileri kazandırır.
+(2) (Değişik:RG-29/5/2024-32560) Doktora programı, tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için toplam yirmi bir krediden ve bir eğitim-öğretim yılı 60 AKTS’den az olmamak koşuluyla en az yedi ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de en az kırk iki kredilik on dört ders, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere toplam en az 300 AKTS kredisinden oluşur. Öğrenci, bir yarıyılda toplam 45 AKTS krediyi geçmeyecek şekilde en fazla altı ders seçebilir. Öğrenci, ders ekle/sil işlemlerini; kayıt yenileme tarihleri içinde yapar. Ders ekle/sil işlemleri, Senato tarafından kabul edilen usul ve esaslara göre gerçekleştirilir.
+(3) (Ek:RG-29/5/2024-32560)(5) İlgili yarıyıl için Akademik Takvimlerde belirtilen ders kayıt ve ekle/sil sürelerinde ders kaydını yapmayan öğrenciler pasif öğrenci durumuna düşer. Pasif öğrenciler ilgili yarıyıldaki derslere ve sınavlara katılamaz ve öğrencilik haklarından yararlanamaz.
+(4) Doktora programlarında enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir.
+(5) Lisans dersleri ders yüküne ve doktora kredisine sayılmaz.
+(6) Doktora programları ikinci öğretim olarak açılamaz.
+(7) Doktora çalışması sonunda hazırlanacak tezin, bilime yenilik getirme, yeni bir bilimsel yöntem geliştirme, bilinen bir yöntemi yeni bir alana uygulama niteliklerinden en az birini yerine getirmesi gerekir.

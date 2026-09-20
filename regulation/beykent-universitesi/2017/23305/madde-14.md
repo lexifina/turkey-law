@@ -1,0 +1,20 @@
+Enstitüye kesin kayıt
+MADDE 14 – (1) Lisansüstü öğrencilik hakkı kazanan Türk ve yabancı uyruklu adaylar, enstitü tarafından duyurulan tarihlerde aşağıdaki belgeleri ve gerektiğinde enstitü tarafından belirlenen diğer belgeleri teslim ederek kesin kayıtlarını yaptırırlar. Kayıt için yanlış beyanda bulunan veya tahrif edilmiş belge kullanan veya giriş sınavlarında sahtecilik yaptığı belirlenen kişilerin kayıt işlemleri iptal edilir.
+(2) (Değişik:RG-29/5/2024-32560) Senatonun belirlediği kayıt ve kabul koşullarının sağlanması durumunda Türk ve yabancı uyruklu öğrencilerin kesin kayıtlarında aşağıdaki belgeler istenir:
+a) Türk uyruklu öğrencilerden;
+1) Tezli/tezsiz yüksek lisans programına veya en az sekiz yarıyıl (dört yıl) süreli lisans öğreniminden sonra doktora/sanatta yeterlik programına kabul edilen adaylardan lisans diplomasının veya mezuniyet belgesinin aslı ya da bunların Üniversitece onaylı suretleri veya e-Devlet sistemi üzerinden alınan mezuniyet belgesi; yüksek lisans yaptıktan sonra doktora/sanatta yeterlik programlarına kabul edilenlerden lisans ve tezli yüksek lisans diplomasının aslı veya Üniversitece onaylı suretleri veya e-Devlet sistemi üzerinden alınan mezuniyet belgeleri; Sağlık Bakanlığından uzmanlık yetkisi kazanmış ilgili fakülte mezunlarının doğrudan doktora programına kabul edilmeleri halinde lisans diplomasının veya yetki belgesinin aslı ya da bunların Üniversitece onaylı suretleri veya e-Devlet sistemi üzerinden alınan mezuniyet belgesi.
+2) ALES veya muadili uluslararası sınavlardan olan GRE veya GMAT sınavlarından herhangi birinin sınav sonuç belgesinin aslı veya bilgisayar çıktısı. Ancak tezsiz yüksek lisans programlarına öğrenci kabulünde, ALES puanı aranmaz.
+3) Yabancı dil yeterliği gerektiren lisansüstü programlar için YDS veya eşdeğer sınav sonuç belgesinin aslı veya bilgisayar çıktısı.
+4) Mezuniyet not ortalamasını gösteren not çizelgesinin (transkript) aslı ya da Üniversitece onaylı sureti veya e-Devlet sistemi üzerinden alınan dökümü.
+5) T.C. kimlik numaralı nüfus cüzdanı, pasaport veya ehliyet.
+6) Erkek adaylar için askerlikle ilişiğinin bulunmadığına dair yazılı beyan veya askerlik şubesi ya da e-Devlet sistemi üzerinden alınan tecil belgesi.
+7) (Değişik:RG-20/9/2026-33376) 3 adet renkli vesikalık fotoğraf (4.5x6 cm).
+8) Öğrenim bedelinin ödendiğini gösteren belge.
+b) Yabancı uyruklu öğrencilerden;
+1) Lisans veya lisansüstü öğrenimini; Türkiye’de yapmış olanlardan (a) bendinin (1) numaralı alt bendinde belirtilen diploma ve belgeler, lisans veya lisansüstü öğrenimini yabancı ülkelerde yapmış olanlardan ise diploma ve belgelerin Türk konsoloslukları veya Türkiye’de faaliyet gösteren noterlerden onaylı tercümesi ve Yükseköğretim Kurulundan alınan denklik belgesinin aslı veya onaylı sureti ve/veya Yükseköğretim Kurulu tarafından verilmiş tanınırlık belgesi.
+2) Mezuniyet not ortalamasını gösteren not çizelgesinin (transkript) aslı veya Üniversitece onaylı sureti; lisans veya lisansüstü öğrenimini yabancı ülkelerde yapmış olanlardan ise Türk konsoloslukları veya Türkiye’de faaliyet gösteren noterlerden alınan onaylı tercümesi.
+3) ALES veya muadili uluslararası sınavlardan olan GRE veya GMAT sınavlarından herhangi birinin sınav sonuç belgesinin aslı veya bilgisayar çıktısı. Ancak tezsiz yüksek lisans programlarına öğrenci kabulünde, ALES notu getirme şartı ve ALES taban puanı aranmaz.
+4) (Değişik:RG-9/2/2025-32808) Öğrenim vizesi (vize muafiyeti olmayan ülkeler için) ve/veya pasaportun “aslı gibidir” onaylı fotokopisi ile oturum izni belgesi.
+5) (Değişik:RG-20/9/2026-33376) 3 adet renkli vesikalık fotoğraf (4.5x6 cm).
+6) Öğrenim bedelinin ödendiğini gösteren belge.
+(3) (Ek:RG-9/2/2025-32808) Yabancı uyruklu öğrenciler, Üniversiteye kayıt işlemlerini tamamladıktan sonra Türkiye’ye giriş yaptığı tarihten itibaren en geç bir ay içinde öğrenim amaçlı ikamet izni almakla, İstanbul dışından alınmış ikamet iznine sahip olan öğrenciler ise ikamet izinlerini İstanbul’a taşımakla yükümlüdürler; bu işlemler ile ilgili oluşabilecek tüm maliyetlerden öğrenci bizzat sorumludur.

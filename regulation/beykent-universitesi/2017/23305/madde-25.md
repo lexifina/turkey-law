@@ -1,0 +1,6 @@
+Tezli ve tezsiz yüksek lisans programları arası geçiş
+MADDE 25 – (1) Yüksek lisans programları, tezli ve tezsiz olmak üzere iki şekilde yürütülür. Programların ne şekilde yürütüleceği, ilgili anabilim/anasanat dalı başkanının önerisi, enstitü kurulunun kararı ve Senatonun onayı ile belirlenir.
+(2) (Değişik:RG-10/5/2018-30417) Tezli ve tezsiz yüksek lisans programları arasında, öğrencinin başvurusu, enstitü yönetim kurulunun kararı ile geçiş yapılabilir. Geçiş için programın öngördüğü asgari şartların yerine getirilmiş olması gerekir.
+(3) (Değişik:RG-5/8/2017-30145) Tezli programa geçiş yapılması durumunda öğrenciye 28 inci maddede belirtilen esaslara göre danışman ataması yapılır.
+(4) Tezli ve tezsiz yüksek lisans programları arasındaki geçişlerde, geçiş yapılan programın ders planında yer alan ve öğrenci tarafından daha önceki programda alınmış ve başarılmış aynı ad ve kodlu dersler var ise; bu dersler öğrencinin kayıtlı olduğu programın ders planındaki kategori karşılığı belirtilerek orijinal adı, kodu ve kredisi ile notlu olarak öğrencinin transkriptine aktarılır.
+(5) Azami öğretim sürelerinin hesaplanmasında, öğrencinin enstitüye kayıt olduğu ilk akademik dönem esas alınarak hesaplama yapılır.

@@ -1,0 +1,28 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (Değişik-RG:10/5/2018-30417)
+(1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Girişi Sınavını,
+c) (Değişik:RG-25/12/2023-32410) Anabilim/anasanat dalı: İstanbul Beykent Üniversitesine bağlı eğitim-öğretim hizmeti veren enstitünün ilgili anabilim/anasanat dalını,
+ç) Danışman: Enstitüde kayıtlı öğrenciye ders, proje, tez, sanat eseri çalışması ve sanatta yeterlik eseri çalışması dönemlerinde rehberlik etmek üzere enstitü yönetim kurulu tarafından atanan öğretim üyesini,
+d) Dönem: Eğitim-öğretim yılının her bir yarıyılını,
+e) (Değişik:RG-25/12/2023-32410) Enstitü: İstanbul Beykent Üniversitesine bağlı lisansüstü eğitim-öğretim yapan enstitüyü,
+f) Enstitü kurulu: Enstitü müdürünün başkanlığında, müdür yardımcıları ve enstitüyü oluşturan anabilim/anasanat dalı başkanlarından oluşan kurulu,
+g) (Değişik:RG-25/12/2023-32410) Enstitü müdürü: İstanbul Beykent Üniversitesine bağlı enstitünün müdürünü,
+ğ) Enstitü yönetim kurulu: Enstitü müdürünün başkanlığında, enstitü müdür yardımcıları ve enstitü kurulunca seçilen üç öğretim üyesinden oluşan kurulu,
+h) İkinci danışman (eş danışman): Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda atanacak ikinci tez danışmanını,
+ı) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+i) Kredi: Bir lisansüstü dersin yarıyıl kredi değeri; bir yarıyıl devam eden bir dersin haftalık teorik ders saatinin tamamı ile haftalık uygulama, alan veya atölye çalışması ya da laboratuvar ve benzeri çalışma saatinin yarısının toplamını,
+j) Mütevelli Heyeti: (Değişik ibare:RG-25/12/2023-32410) İstanbul Beykent Üniversitesi Mütevelli Heyetini,
+k) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+l) Proje: Tezsiz yüksek lisans programında öğrencinin kazandığı bilgi ve deneyimi içeren bilimsel araştırma yöntemlerine uygun olarak hazırlanan metni,
+m) Proje değerlendirme komisyonu: Tezsiz yüksek lisans projelerini değerlendirip sonuçlandıran komisyonu,
+n) Rektör: (Değişik ibare:RG-25/12/2023-32410) İstanbul Beykent Üniversitesi Rektörünü,
+o) Sanat eseri çalışması: Sanat dalında yüksek lisans öğrencilerinin tez yerine hazırlayacakları çalışmayı ve yazılı raporu,
+ö) Sanatta yeterlik çalışması: Öğrencilerin sanat dalında doktora tezi yerine hazırlayacakları sanatsal çalışmayı,
+p) Senato: (Değişik ibare:RG-25/12/2023-32410) İstanbul Beykent Üniversitesi Senatosunu,
+r) Tez: Lisansüstü eğitim ve öğretim sonunda bilimsel araştırma yöntemlerine uygun olarak hazırlanmış bilimsel bir metni,
+s) Üniversite: (Değişik ibare:RG-25/12/2023-32410) İstanbul Beykent Üniversitesini,
+ş) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+t) (Ek:RG-20/9/2026-33376) Eşdeğer diploma programı: İsimleri aynı olan veya enstitü yönetim kurulu tarafından içeriklerinin en az %80’inin aynı olduğu tespit edilen diploma programlarını,
+ifade eder.

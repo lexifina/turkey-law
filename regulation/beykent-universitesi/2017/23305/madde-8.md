@@ -1,0 +1,10 @@
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 8 – (1) Lisansüstü programlarda, nitelikleri aşağıda belirtilen ve bu programlara 6 ncı maddedeki esaslara göre kabul edilen öğrencilere alan eksikliklerini gidermek amacıyla anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulunun kararı ile bilimsel hazırlık programı uygulanabilir:
+a) Lisans derecesini başvurdukları lisansüstü programından farklı alanlarda almış olan adaylar.
+b) Lisans derecesini başvurdukları yükseköğretim kurumu dışındaki yükseköğretim kurumlarından almış olan adaylar.
+c) Lisans veya yüksek lisans derecesini başvurdukları doktora programından farklı alanda almış olan adaylar.
+ç) Lisans veya yüksek lisans derecelerini başvurdukları yükseköğretim kurumu dışındaki yükseköğretim kurumlarından almış olan doktora adayları.
+(2) (Değişik-RG:10/5/2018-30417) Bilimsel hazırlık programında alınması zorunlu dersler, ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine geçemez. Ancak, bilimsel hazırlık programındaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra ilgili enstitü anabilim/anasanat dalı başkanının önerisi ve enstitü yönetim kurulu onayı ile lisansüstü programa yönelik dersler de alabilir.
+(3) Bilimsel hazırlık programı ile ilgili devam, sınavlar, derslerden başarılı sayılma koşulları, ders tekrarı, kayıt silme ve diğer hususlarda, 13/11/2016 tarihli ve 29887 sayılı Resmî Gazete’de yayımlanan (Değişik ibare:RG-25/12/2023-32410) İstanbul Beykent Üniversitesi Önlisans ve Lisans Eğitim-Öğretim Yönetmeliğinin ilgili hükümleri uygulanır.
+(4) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyılıdır. Yaz öğretimi bu süreye dahil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin ilişiği kesilir. Bu programda geçirilen süre, bu Yönetmelikte belirtilen yüksek lisans veya doktora programı sürelerine dahil edilmez.
+(5) Bilimsel hazırlık programında alınması zorunlu görülen dersler toplam 18 krediyi geçemez. Bilimsel hazırlık öğrencilerinin mali yükümlülükleri 13 üncü maddeye göre düzenlenir.

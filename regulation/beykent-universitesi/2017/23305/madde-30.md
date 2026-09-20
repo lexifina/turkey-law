@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Tezsiz Yüksek Lisans Programı
+Amaç ve kapsam
+MADDE 30 – (1) (Değişik:RG-29/5/2024-32560) Tezsiz yüksek lisans programının amacı, öğrenciye mesleki konuda derin bilgi kazandırmak ve mevcut bilginin uygulamada nasıl kullanılacağını göstermektir. Bu program toplam otuz krediden ve 90 AKTS’den az olmamak koşuluyla en az on adet ders ile dönem projesi dersinden oluşur. Öğrenci, bir yarıyılda toplam 45 AKTS krediyi geçmeyecek şekilde en fazla yedi ders seçebilir. Öğrenci, ders ekle/sil işlemlerini; kayıt yenileme tarihleri içinde yapar. Ders ekle/sil işlemleri, Senato tarafından kabul edilen usul ve esaslara göre gerçekleştirilir. Dönem projesi dersi kredisiz olup, başarılı veya başarısız olarak değerlendirilir. Öğrencinin, dönem projesinin alındığı yarıyılda dönem projesine kayıt yaptırması ve projesinin bitiminde yazılı proje ve/veya rapor vermesi gerekir. Senato tarafından belirlenen esaslara göre tezsiz yüksek lisans programının sonunda yeterlik sınavı uygulanabilir.
+(2) (Ek:RG-29/5/2024-32560)(4) İlgili yarıyıl için akademik takvimde belirtilen ders kayıt ve ekle/sil sürelerinde ders kaydını yapmayan öğrenciler pasif örğenci durumuna düşer. Pasif öğrenciler ilgili yarıyıldaki derslere ve sınavlara katılamaz ve öğrencilik haklarından yararlanamaz.
+(3) Öğrencinin alacağı derslerin en çok üç tanesi, dokuz krediyi geçmemek ve lisans öğrenimi sırasında alınmamış olması koşuluyla, lisans derslerinden seçilebilir.
+(4) Öğrenci, dönem projesine en geç üçüncü yarıyılın başında kayıt yaptırmak zorundadır.
+(5) Tezsiz yüksek lisans programı ikinci lisansüstü öğretimde de yürütülebilir.
