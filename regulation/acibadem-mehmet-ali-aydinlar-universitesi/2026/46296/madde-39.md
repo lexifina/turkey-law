@@ -1,0 +1,7 @@
+İlişik kesme
+MADDE 39- (1) Aşağıda belirtilen hâllerde öğrencinin Üniversite ile ilişiği kesilir:
+a) İlgili mevzuat hükümlerine göre yükseköğretim kurumundan çıkarılma cezası alması halinde öğrencinin ilişiği kesilir.
+b) 2547 sayılı Kanunun 44 üncü maddesi uyarınca; azami süreler içinde katkı payı veya eğitim-öğretim ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri kesilmez. Ancak Üniversite Yönetim Kurulu kararı ve YÖK onayı ile dört yıl üst üste katkı payı veya öğrenim ücretinin ödenmemesi ve kayıt yenilenmemesi halinde öğrencinin ilişiği kesilebilir.
+c) 2547 sayılı Kanunun 44 üncü maddesi uyarınca; öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıfını iki yıl içinde başarıyla tamamlayamayan öğrencilerin programdan ilişiği kesilir. Bu durumdaki öğrencinin, Üniversite ile ilişiği kesilmeden önce; kayıt olduğu yıldaki merkezi yerleştirme puanının, öğretim dili Türkçe olan bir programın o yılki taban puanına eşit veya yüksek olması hâlinde, kurum içi yatay geçiş işlemi yapılır.
+ç) Başka bir yükseköğretim kurumuna yatay geçiş yapan öğrencilerin, geçiş yaptıkları yükseköğretim kurumundan yatay geçişlerinin kabul edildiğine ilişkin resmî yazının Üniversiteye ulaşması hâlinde kayıtları silinir ve ilişikleri kesilir.
+(2) Üniversite Yönetim Kurulu kararı ile ilişiği kesilen öğrenciler, ilişiklerinin kesildiği tarihe kadar olan eğitim-öğretim ücretlerini ödemekle yükümlüdür.

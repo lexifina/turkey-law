@@ -1,0 +1,7 @@
+Kayıt yenileme
+MADDE 21- (1) Her öğrenci, kayıtlı olduğu akademik programa ilişkin ders kayıt işlemlerini; akademik takvimde belirtilen ders kayıt haftaları içinde, mali yükümlülüklerini yerine getirerek ve danışman onayı ile öğrenci otomasyon sistemi üzerinden gerçekleştirir.
+(2) Öğrenciler, kayıt yenileme işlemlerini bizzat yapmak ve işlemlerin süresi içinde tamamlanmasını sağlamakla yükümlüdür.
+(3) Akademik takvimde ilan edilen tarihlerde ilgili dönemin kayıt yenileme işlemini yapamayan öğrenciler, ders ekle-bırak haftası içinde geç kayıt yaptırabilirler.
+(4) Öğrencilerin devamsızlık süreleri, ders kayıt tarihleri dikkate alınmaksızın, derslerin başladığı tarihten itibaren hesaplanır. Zorunlu ve belgelendirilebilir mazeret durumları, ilgili Yönetim Kurulu tarafından ayrıca değerlendirilir.
+(5) Akademik yıl için ders kaydını yenilemeyen öğrenciler, öğrenimlerine ara vermiş sayılır. Bu öğrencilerin durumu YÖKSİS'te pasif öğrenci olarak gösterilir. Pasif öğrenci statüsünde bulunanlar, öğrencilik haklarından yararlanamaz; derslere devam edemez ve sınavlara giremez.
+(6) Kayıtsız öğrenci statüsünde geçirilen süreler, öğrenim süresinden sayılır. Bu statüde bulunan öğrencilerin Üniversitedeki kayıtlarının devamına ve Üniversite ile ilişiklerinin kesilmesine ilişkin işlemler, 2547 sayılı Kanunun 44 üncü ve 46 ncı maddeleri ile Üniversite tarafından çıkarılan ilgili mevzuat hükümleri uyarınca yürütülür.

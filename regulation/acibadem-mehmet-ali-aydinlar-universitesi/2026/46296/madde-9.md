@@ -1,0 +1,2 @@
+Dikey geçiş ile öğrenci kabulü
+MADDE 9- (1) Yükseköğretim kurumlarının ön lisans programlarından mezun olan öğrencilerin lisans programlarına dikey geçişleri ÖSYM tarafından yapılır. Geçiş yapan öğrencilerin öğrenim süreçleri, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik ile Üniversite tarafından çıkarılan ilgili mevzuata göre yürütülür.

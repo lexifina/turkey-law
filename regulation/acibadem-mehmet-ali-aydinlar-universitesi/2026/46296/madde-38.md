@@ -1,0 +1,10 @@
+BEŞİNCİ BÖLÜM
+Üniversiteden Ayrılma, Öğrenimine İzinsiz Ara Verme ve Kayıt Dondurma
+Üniversiteden ayrılma
+MADDE 38- (1) Üniversiteden ayrılmak isteyen öğrenci, kayıt silme işlemleri için şahsen veya noter onaylı vekâlet verdiği vekili aracılığıyla başvuruda bulunabilir.
+(2) Öğrenci veya vekili, ilişik kesme formunu doldurarak formda yer alan Üniversitenin ilgili idari birimlerinden gerekli onayları alır ve öğrenim gördüğü fakülte dekanlığına veya meslek yüksekokulu müdürlüğüne teslim eder.
+(3) Üniversiteden ayrılmak veya yatay geçiş yoluyla başka bir yükseköğretim kurumuna yatay geçiş kaydı yaptırmak isteyen öğrencilerin, kayıt sildirme işlemlerini tamamlayabilmeleri için ilgili yarıyıla kadar tüm öğrenim ücreti yükümlülüklerini yerine getirmiş olmaları ve zimmetlerinde bulunan her türlü araç, gereç ve ekipmanı hasarsız olarak iade etmeleri gerekir.
+(4) Kayıt sildirme başvurusunu ders ekleme-bırakma süresi sonuna kadar yapan öğrencilerden ilgili yarıyıla ait öğrenim ücreti tahsil edilmez; tahsil edilmiş olması hâlinde ise ilgili ücret iade edilir. Ders ekleme-bırakma süresinden sonra yapılan başvurularda ise ücret iadesi yapılmaz.
+(5) Üniversiteye yeni kayıt yaptıran öğrencinin, kayıt yaptırdığı tarihten itibaren ilk eğitim-öğretim döneminin sonuna kadar olan süre içerisinde Üniversiteden ayrılmak istemesi durumunda ilgili dönem için ödemekle yükümlü olduğu öğrenim ücretini ödemesi gerekir ve ödenen öğrenim ücretinden iade yapılmaz.
+(6) Yaz okulunda ders kaydı yaptıktan sonra Üniversiteden ayrılmak isteyen veya yaz okuluna devam etmek istemeyen öğrencilerin, derslerin başladığı ilk haftanın son gününe kadar ayrılma talebinde bulunmaları hâlinde, kayıtlı oldukları ders veya dersler için ödemiş oldukları öğrenim ücreti iade edilir. Bu süreden sonra yapılan ayrılma başvurularında herhangi bir ücret iadesi yapılmaz.
+(7) İlişik kesme işlemlerini tamamlayan öğrencilere, talep etmeleri hâlinde öğrenim durumlarını gösteren belge (transkript) verilir. Üniversite ile ilişiği kesilen öğrencilerin tüm öğrencilik hakları sona erer.

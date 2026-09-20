@@ -1,0 +1,2 @@
+Ders muafiyeti
+MADDE 27- (1) Yeni kayıt yaptıran öğrenciler, daha önce başka bir yükseköğretim kurumunda veya Üniversitede almış ve başarılı olmuş oldukları dersler için muafiyet başvurusunda bulunabilirler. Muafiyet başvuruları, öğrencilerin ilgili fakülte dekanlığına veya meslek yüksekokulu müdürlüğüne verecekleri yazılı dilekçe ile yapılır. Muafiyet başvurularının incelenmesi, değerlendirilmesi ve sonuçlandırılmasına ilişkin işlemler, başvurunun yapıldığı ilgili fakülte dekanlığı veya meslek yüksekokulu müdürlüğü tarafından yürütülür.

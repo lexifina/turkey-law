@@ -1,0 +1,3 @@
+Akademik danışmanlık
+MADDE 24- (1) Öğrencilere eğitim-öğretim süreçlerinde akademik danışmanlık yapmak üzere, ilgili bölüm veya program başkanları tarafından yeterli sayıda öğretim elemanı görevlendirilir. Yapılan görevlendirme ilgili fakülte dekanlığına veya meslek yüksekokulu müdürlüğüne bildirilir.
+(2) Akademik danışman, öğrencinin öğrenimi süresince akademik gelişimini izler ve destekler. Haftalık ders programının hazırlanması ve düzenlenmesi ile diğer akademik konularda rehberlik sağlar. Öğrenciyi ilgili mevzuat ve uygulama esasları hakkında bilgilendirir; derslere kayıt, ders ekleme-bırakma ve dersten çekilme süreçlerinde danışmanlık yapar.

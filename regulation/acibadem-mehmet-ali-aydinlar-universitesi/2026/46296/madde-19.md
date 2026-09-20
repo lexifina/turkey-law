@@ -1,0 +1,5 @@
+Azami öğrenim süreleri
+MADDE 19- (1) Öğrenciler, bir yıl süreli yabancı dil hazırlık sınıfı hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans programlarını azami yedi yıl, öğrenim süresi beş yıl olan lisans programlarını azami sekiz yıl, öğrenim süresi altı yıl olan lisans programlarını azami dokuz yıl içinde tamamlamak zorundadırlar.
+(2) Hazırlık eğitim süresi azami iki yıldır, hazırlık sınıfını iki yıl içinde başarı ile tamamlayamayan öğrenciler hakkında 2547 sayılı Kanunun 44 üncü maddesi gereğince işlem yapılır.
+(3) Azami öğrenim süresi sonunda mezun olamayan son sınıf öğrencilerine, ilgili akademik yönetim kurulu kararı doğrultusunda ve 2547 sayılı Kanunun 44 üncü maddesinde belirlenen esaslara uygun şekilde sınav ve/veya devam hakkı tanınır. Bu öğrenciler, söz konusu haktan yararlanabilmek için aldıkları derslerin kredileri karşılığında belirlenen kredi başı ücreti ödemekle yükümlüdür.
+(4) Kayıt dondurulan süre, azami öğrenim süresinin hesabında dikkate alınmaz.

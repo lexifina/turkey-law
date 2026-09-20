@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Tıp Fakültesi eğitim-öğretim ve sınav uygulamaları hariç; Acıbadem Mehmet Ali Aydınlar Üniversitesine bağlı fakülte ve meslek yüksekokullarında yürütülen ön lisans ve lisans düzeyindeki öğretim programlarının düzenlenmesi, öğrenci kabulü, ölçme, değerlendirme ve sınavlar ile başarının değerlendirilmesi, eğitim-öğretim ara verme, diploma ve unvanlar, staj, işletmede mesleki eğitim, uygulamalı dersler ve bitirme çalışmaları ile akademik danışmanlığa ilişkin usul ve esasları kapsar.
