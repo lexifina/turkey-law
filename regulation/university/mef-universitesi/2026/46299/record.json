@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/mef-universitesi/2026/46299",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33377",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-21",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "MEF Üniversitesi",
+  "issuer_slug": "mef-universitesi",
+  "kind": "regulation",
+  "published": "2026-09-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46299&MevzuatTertip=5",
+  "source_id": "8.5.46299",
+  "source_sha256": "33d525eb2545f49a0ba8e169c3d1db635198b1dd3f7973537d983ebefd0ba602",
+  "title": "MEF ÜNİVERSİTESİ YAPAY ZEKA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 426,
+  "version_label": "oldest version available",
+  "word_count": 688
+}
