@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 24/7/2020 tarihli ve 31195 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2020/19) ile Çin Halk Cumhuriyeti menşeli 8515.39 gümrük tarife pozisyonunda yer alan “yalnız aksesuarları hariç net 13 kg ve altındaki kaynak makineleri” ithalatına yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.

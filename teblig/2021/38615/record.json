@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.38615",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/19)",
+  "number": "38615",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38615",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38615&MevzuatTertip=5",
+  "source_sha256": "66bfddf8f3a159d8c3d8c1e07e7a09d561bb6b33fa905c3ccd623b01cda07332",
+  "source_bytes": 27199,
+  "published": "2021-05-22",
+  "gazette": "31488",
+  "in_force": "2026-09-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/9/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-09-23",
+      "RG-23/9/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-09-23",
+      "23/9/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 525,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38615-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
