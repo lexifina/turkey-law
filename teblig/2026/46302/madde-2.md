@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Tebliğ, 10/12/2007 tarihli ve 2007/13012 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmeliğin 27 nci maddesi ile 29/7/2016 tarihli ve 29785 sayılı Resmî Gazete’de yayımlanan Suç Gelirlerinin Aklanmasının ve Terörizmin Finansmanının Önlenmesi Kapsamında İşlemlerin Ertelenmesine Dair Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
