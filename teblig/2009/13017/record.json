@@ -1,0 +1,91 @@
+{
+  "source_id": "9.5.13017",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 324)",
+  "number": "13017",
+  "path": "teblig/2009/13017",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13017&MevzuatTertip=5",
+  "source_sha256": "7a623aa7b1736e2d5d0967cd65bd32278edef41ac1391bb44f89c0f267ad7b41",
+  "source_bytes": 135418,
+  "published": "2009-04-26",
+  "gazette": "27211",
+  "in_force": "2026-09-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/9/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-09-24",
+      "RG-24/9/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-09-24",
+      "24/9/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-12",
+      "RG-12/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-12",
+      "12/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-05",
+      "RG-5/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-05",
+      "5/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-11-19",
+      "RG-19/11/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-11-19",
+      "19/11/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-05-27",
+      "RG-27/5/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-05-27",
+      "27/5/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-10-10",
+      "RG-10/10/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-10-10",
+      "10/10/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8478,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13017-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
