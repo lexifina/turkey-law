@@ -1,0 +1,20 @@
+{
+  "applicant": "E.K.",
+  "application_date": "2025-10-31",
+  "application_number": "2025/53018",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2026-09-24",
+  "id": "8689b5ce-e5a4-490f-91f5-d2df7422b19d",
+  "in_force": "2026-09-24",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg2ODliNWNlLWU1YTQtNDkwZi05MWY1LWQyZGY3NDIyYjE5ZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "b91a86a4babd98c69eb179b049d4d562480e0953a45851b590c7d6872813b543",
+  "version_label": "as-enacted"
+}
