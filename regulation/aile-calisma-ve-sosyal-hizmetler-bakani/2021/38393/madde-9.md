@@ -1,0 +1,3 @@
+Çalışma süresinin belirlenmesi
+MADDE 9 – (1) Uzaktan çalışmanın yapılacağı zaman aralığı ve süresi iş sözleşmesinde belirtilir. Mevzuatta öngörülen sınırlamalara bağlı kalmak koşuluyla taraflarca çalışma saatlerinde değişiklik yapılabilir. Fazla çalışma işverenin yazılı talebi üzerine, işçinin kabulü ile mevzuat hükümlerine uygun olarak yapılır.
+(2) (Ek:RG-25/9/2026-33381) İş görme ediminin bir kısmının işyerinde, bir kısmının uzaktan çalışma usulüyle yerine getirilmesi kararlaştırılabilir. Bu durumda işçinin işyerinde ve uzaktan çalışacağı günler ile çalışma saatleri iş sözleşmesinde belirlenir.

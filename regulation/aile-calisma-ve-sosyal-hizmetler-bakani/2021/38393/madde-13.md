@@ -1,0 +1,3 @@
+Uzaktan çalışmanın yapılamayacağı işler
+MADDE 13 – (1) Tehlikeli kimyasal madde ve radyoaktif maddelerle çalışma, bu maddelerin işlenmesi veya söz konusu maddelerin atıkları ile çalışma, biyolojik etkenlere maruz kalma riski bulunan çalışma işlemlerini içeren işlerde uzaktan çalışma yapılamaz.
+(2) Kamu kurum ve kuruluşlarınca ilgili mevzuatına göre hizmet alımı suretiyle gördürülen işler ile millî güvenlik açısından stratejik önemi haiz birim, proje, tesis veya hizmetlerden hangilerinde uzaktan çalışma yapılamayacağı birim, proje, tesis veya hizmetten sorumlu olan veya hizmeti alan kamu kurum ve kuruluşunca belirlenir.
