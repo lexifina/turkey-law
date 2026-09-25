@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/49648",
+  "submitted": "2026-09-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Emin EKMEN",
+  "province": "Mersin",
+  "summary": "Bazı portföy yönetim şirketlerince yönetilen fonların tasfiye sürecine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/70376c68-a9fd-4a7b-8d88-01a0e7638e62",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "84749d14cc4e2ba416db0ba5334473b09d963abd2df8da61a4e6c8b9336f63e9",
+  "in_force": "2026-09-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
