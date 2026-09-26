@@ -1,0 +1,5 @@
+Öğrenim süresi
+MADDE 43- (1) Ön lisans diploma programlarında normal öğrenim süresi dört yarıyıl (iki akademik yıl), azamî öğrenim süresi sekiz yarıyıldır (dört akademik yıldır). Lisans diploma programlarında ise normal öğrenim süresi sekiz dönem (dört akademik yıl), azamî öğrenim süresi on dört dönemdir (yedi akademik yıldır). İngilizce hazırlık programı ile yaz okullarında geçirilen süreler öğrenim süresine dâhil değildir.
+(2) Lisans diploma programından mezuniyet için gerekli koşulları sağlayan öğrenciler, normal öğrenim süresini tamamlamadan mezun olabilirler.
+(3) Ön lisans/lisans diploma programından azamî öğrenim süresi içinde mezun olamayan öğrencilerin Üniversitedeki öğrenim durumları ve ilişik kesilme işlemleri 2547 sayılı Kanunun 44 üncü maddesi hükümleri çerçevesinde yürütülür. Bu madde kapsamında sınav haklarını kullanan azamî öğrenim süresini doldurmuş olan öğrenciler, ilgili dönem için belirlenmiş olan sınav ücretini ödemekle yükümlüdürler.
+(4) Azamî öğrenim süresi sonunda kayıtlı bulunduğu eğitim-öğretim programı için ilgili kurullarca belirlenen yükümlülükleri yerine getirmeyen öğrencilerin Üniversite ile ilişiği kesilir.

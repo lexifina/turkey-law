@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 50- (1) Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-05-10",
+      "10.05.2026",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-09-26",
+      "RG-26/9/2026-33382",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-26",
+      "RG-26/9/2026-33382",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-26",
+      "RG-26/9/2026-33382",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-26",
+      "RG-26/9/2026-33382",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-09-26",
+      "26/9/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/9/2026-33382",
+  "first_law": null,
+  "gazette": "33249",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Türk Hava Kurumu Üniversitesi",
+  "issuer_slug": "turk-hava-kurumu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/turk-hava-kurumu-universitesi/2026/46274",
+  "published": "2026-05-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46274&MevzuatTertip=5",
+  "source_bytes": 134585,
+  "source_id": "8.5.46274",
+  "source_sha256": "689faac8e3bb0787237780e159f5b8c9d06419ddaeec992ff4284b2ce641e30e",
+  "text_status": "current-consolidated",
+  "title": "TÜRK HAVA KURUMU ÜNİVERSİTESİ ÖN LİSANS VE LİSANS\r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 366,
+  "word_count": 7718
+}

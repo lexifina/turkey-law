@@ -1,0 +1,9 @@
+Özel öğrenci
+MADDE 10- (1) Üniversitenin herhangi bir diploma programında kayıtlı olmayan kişiler, başka bir yükseköğretim kurumu öğrencisi olmak koşulu ve ilgili yönetim kurulu kararıyla, açılan derslere özel öğrenci statüsünde katılabilirler. Özel öğrencilerin kabulüne ilişkin esaslar, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ve ilgili mevzuat hükümleri çerçevesinde yürütülür.
+(2) Özel öğrenci başvurusu ve kaydı, en geç akademik takvimde ilan edilen ders ekleme-bırakma dönemi içinde yapılır. Özel öğrenci kabulü bir dönem için geçerlidir, daha sonraki dönemlerde özel öğrenci olarak ders almak için yeniden başvuru yapılması gerekir.
+(3) Özel öğrencinin bir yarıyılda alabileceği derslerin toplam kredisi, bu Yönetmelikte belirlenen bir yarıyılda alınabilecek azami kredi sınırını aşamaz. Özel öğrenci, aldığı derslerin kredi başına belirlenen öğrenim ücretini ödemekle yükümlüdür.
+(4) Özel öğrenci, Üniversitenin kayıtlı öğrencisi sayılmaz ve öğrencilik haklarından yararlanamaz. Ancak, öğrenim süresi boyunca Üniversite öğrencilerinin tabi olduğu mevzuat hükümlerine uymakla yükümlüdür.
+(5) Özel öğrenciye diploma veya unvan verilmez. Ancak talep etmesi halinde kendisine Üniversitede aldığı dersleri ve bu derslerdeki başarı durumunu gösteren transkript verilir.
+(6) Özel öğrenci olarak yaz okulunda Üniversitede alınabilecek derslerin kredi toplamı 21 AKTS’yi geçemez.
+(7) Özel öğrencilik hakkından en çok iki yarıyıl için yararlanılabilir. Ancak, özel öğrencilik statüsünden yararlanma şartlarının devam etmesi halinde, ilgili kurulların önerisi ve Senatonun kararı ile bu süre uzatılabilir.
+(8) Özel öğrenci, bir yarıyılda alınabilecek azamî kredi sınırını aşmamak şartıyla dilediği sayıda ders alabilir.

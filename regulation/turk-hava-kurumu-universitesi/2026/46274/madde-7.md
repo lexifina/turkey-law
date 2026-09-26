@@ -1,0 +1,2 @@
+Yatay geçiş yolu ile kabul
+MADDE 7- (1) Üniversitenin fakülte, yüksekokul ve meslek yüksekokullarına kurum içinden ve kurum dışından yatay geçiş yolu ile öğrenci kabulüne ilişkin esaslar, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ve ilgili diğer mevzuat hükümleri çerçevesinde yürütülür.

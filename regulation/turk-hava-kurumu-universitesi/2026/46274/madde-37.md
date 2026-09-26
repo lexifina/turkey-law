@@ -1,0 +1,4 @@
+Not ortalamaları
+MADDE 37- (1) Öğrencilerin başarı durumu her dönem sonu ANO ve AGNO değerleri ile izlenir. Bu Yönetmeliğin ilgili madde hükümlerini ve kayıtlı olunan diploma programının mezuniyet yükümlülüklerini yerine getiren öğrencilerin mezuniyetlerine AGNO ile karar verilir.
+(2) ANO; öğrencinin herhangi yarıyılda aldığı derslerin ağırlıklı puanlarının toplamının, AKTS kredi toplamına bölünmesiyle bulunur. Hesaplamalarda virgülden sonraki iki basamak yürütülür ve yuvarlama yapılır. Yan dal ve çift anadal dersleri, anadal programındaki ANO hesaplanmasında dikkate alınmaz.
+(3) AGNO; öğrencinin bütün derslerden aldığı son notlara göre hesaplanacak ağırlıklı puanlar toplamının, derslerin AKTS kredi toplamına bölünmesiyle bulunur. Hesaplamalarda virgülden sonraki iki basamak yürütülür ve yuvarlanır. Yan dal ve çift anadal dersleri, anadal programındaki AGNO hesaplanmasında dikkate alınmaz.

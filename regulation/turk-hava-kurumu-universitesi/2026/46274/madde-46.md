@@ -1,0 +1,4 @@
+Tebligat
+MADDE 46- (1) Öğrencilere yapılması gereken her türlü tebligat ilgili mevzuat hükümlerine göre Üniversite tarafından öğrenci için oluşturulan elektronik posta adresine yapılır. Disiplin cezası bildirimleri ayrıca, öğrencilerin Üniversiteye kayıt sırasında bildirdikleri yazışma adresine iadeli taahhütlü olarak gönderilmek suretiyle yapılmış sayılır.
+(2) Üniversiteye kayıt sırasında bildirdikleri adresi değiştirdikleri halde bunu Üniversitenin Öğrenci İşleri Müdürlüğüne en geç bir ay içinde bildirmeyen veya yanlış ya da eksik bildiren öğrencilerin, mevcut adreslerine tebligat yapılması halinde, kendilerine tebligat yapılmış sayılır.
+(3) Yarıyıl uzaklaştırma disiplin cezası alan öğrenciler cezalı oldukları yarıyılların eğitim ücretini öder. Cezalı durumda geçirdikleri yarıyıllar eğitim süresine sayılır, burs süresinden düşülür.

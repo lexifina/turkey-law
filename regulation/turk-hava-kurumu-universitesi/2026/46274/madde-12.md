@@ -1,0 +1,5 @@
+Çift anadal ve yandal programları
+MADDE 12- (1) Çift anadal programı; koşulların sağlanması halinde, ön lisans öğrencisinin ön lisans düzeyindeki bir diploma programından, lisans öğrencisinin lisans veya ön lisans düzeyindeki bir diploma programından eş zamanlı olarak belirli sayıda ders almak suretiyle her iki programdan diploma alabilmesini sağlayan programdır.
+(2) Yandal programı; koşulların sağlanması halinde, ön lisans öğrencisinin ön lisans düzeyindeki bir diploma programından, lisans öğrencisinin lisans veya ön lisans düzeyindeki bir diploma programından eş zamanlı olarak belirli sayıda dersi alabilmesine ve sonunda buna ilişkin bir belge (yandal sertifikası) edinmesine imkan sağlayan programdır.
+(3) Çift anadal ve yandal programı, ilgili bölümlerin ve birim kurullarının önerisi üzerine Senatonun onayı üzerine açılır ve ilgili birimlerin iş birliğiyle yürütülür.
+(4) Çift anadal ve yandal programlarına ilişkin usul ve esaslar; Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yürütülür.

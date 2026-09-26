@@ -1,0 +1,5 @@
+Sınav sonuçlarına itiraz
+MADDE 35- (1) Sınav kâğıtlarının ve sınav not çizelgelerinin ilgili birimlere verilmesinden ve ilanından sonra maddi hata dışında not değiştirilmez.
+(2) Öğrenciler, ilan edilen sınav sonuçlarının ilanından itibaren en geç beş iş günü içinde kayıtlı oldukları birim dekanlığına/müdürlüğüne bir dilekçe vererek sınav kâğıdının tekrar incelenmesini isteyebilirler.
+(3) İtiraz üzerine sınav kâğıdı, dersin öğretim elemanı tarafından, itiraz süresinin bitiminden itibaren en geç beş iş günü içinde incelenir, sonuç yazılı ve gerekçeli olarak ilgili birim dekanlığına/müdürlüğüne bildirilir. İlgili birim dekanı/müdürü, gerek gördüğü takdirde, sınav kâğıdının incelenmesi için, en az biri söz konusu dersin alanından olmak koşuluyla üç öğretim elemanından oluşan bir komisyon kurabilir. Dersin öğretim elemanı/elemanları bu komisyonda yer almaz. Bu durumda komisyon, incelemesini itiraz süresinin bitiminden itibaren en geç on gün içinde sonuçlandırır. Sınav sonucunun değişikliği, ilgili birim yönetim kurulunun kararıyla işleme alınır.
+(4) Süresi içinde yapılmayan maddi hata itiraz dilekçeleri değerlendirmeye alınmaz.

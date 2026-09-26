@@ -1,0 +1,11 @@
+Ön lisans ve lisans diploması
+MADDE 41- (1) Bir öğrencinin kayıtlı olduğu ön lisans/lisans diploma programından herhangi bir dönem sonunda mezun olup diploma alabilmesi için aşağıdaki koşulları sağlaması gerekir:
+a) Kayıtlı olduğu diploma programının mezuniyet koşullarında yer alan tüm dersleri ve varsa ek yükümlülükleri başarı ile tamamlamak.
+b) Mezuniyet için ön lisans programlarında en az 120 AKTS, lisans programlarında en az 240 AKTS kredisini tamamlamış olmak.
+c) Ağırlıklı genel not ortalaması en az 2,00 olmak.
+ç) Üniversitede ön lisans programında en az bir dönem, lisans programlarında en az iki dönem kayıtlı bulunmuş olmak ve mezuniyet öncesi son döneminde diploma alacağı programın kayıtlı öğrencisi olmak.
+d) Mezuniyet yükümlüklerine sayılan ön lisans programlarında en az 30 AKTS kredisini, lisans programlarında en az 60 AKTS kredisini Üniversitede kayıtlı olduğu derslerden tamamlamak.
+e) Mezuniyete hak kazanabilmek için kayıtlı olunan programın öğrenim ücretlerinin tümünü ödemiş olmak.
+(2) Öğrenciler, ön lisans diploması/lisans diploması almaya hak kazandıkları dönem sonu itibarıyla, kayıtlı oldukları birim yönetim kurulu kararı ile ilgili diploma programından mezun edilirler.
+(3) Kayıtlı olunan lisans diploma programında öğrenimini tamamlayamayan, ancak ilgili programın ilk dört dönemi için öngörülen tüm zorunlu ve seçmeli dersler ile 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen zorunlu dersleri alıp bu Yönetmelik hükümlerine göre başarmış, alması ve başarması gereken tüm derslerin ağırlıklı genel not ortalaması en az 2,00 olan öğrenciye, başvurusu üzerine ilgili mevzuat hükümleri ve YÖK kararları çerçevesinde ön lisans diploması verilir.
+(4) Diplomalar üzerinde öğrencinin tamamlamış olduğu ön lisans/lisans programının adı bulunur. Diplomalar hazırlanıncaya kadar öğrenciye bir defaya mahsus olmak üzere geçici mezuniyet belgesi diploma ile değiştirilmek üzere verilir. Diploma ve geçici mezuniyet belgesi ile birlikte, talep edilmesi halinde, diploma eki de verilir. Diplomanın kaybı halinde, dilekçe ile Üniversitenin Öğrenci İşleri Müdürlüğüne başvurulması koşuluyla, yeni diploma hazırlanır. Bu durumda diplomanın ön yüzüne, düzenlenme sayısına ilişkin ibare konur.

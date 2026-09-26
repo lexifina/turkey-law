@@ -1,0 +1,11 @@
+Diğer yükseköğretim kurumlarından ders alma
+MADDE 27- (1) Öğrencinin diğer bir yükseköğretim kurumunda verilen dersleri özel öğrenci veya değişim öğrencisi olarak alabilmesi, öğrencinin başvurusu ve ilgili birim yönetim kurulunun onayı ile mümkündür.
+(2) Öğrencinin özel öğrenci statüsünde veya değişim öğrencisi olarak aldığı derslerden hangilerinin kayıtlı olduğu diploma programındaki yükümlülüklerinin yerine sayılacağı, bunların kredi uyarlamaları ve bu dersler karşılığında diploma programındaki hangi derslerden muaf tutulacağı ilgili birim yönetim kurulu tarafından değerlendirilerek karara bağlanır; not uyarlamaları ise 36 ncı maddedeki tabloya göre yapılır. Öğrencinin özel öğrenci statüsünde veya değişim öğrencisi olarak alıp başardığı dersin öğretim dilinin, ilgili ders karşılığında diploma programında muaf tutulacağı dersin öğretim dili ile aynı olması zorunludur.
+(3) Öğrenciler, özel öğrenci veya değişim öğrencisi olarak ders aldıkları dönemlerde dönem öğrenim ücretlerinin tamamını Üniversiteye öderler. Yaz okulunda özel öğrenci olarak ders alan öğrenciler, öğrenim ücretlerini ders aldıkları yükseköğretim kurumuna öderler.
+(4) Özel öğrenci statüsünde veya değişim öğrencisi olarak ders alınan dönemler, öğrenim süresinden sayılır.
+(5) Öğrenciler yaz okulunda diğer yükseköğretim kurumlarından da ders alabilirler. Ancak bunun için aşağıdaki koşulların sağlanması zorunludur:
+a) Üniversitenin yaz okulunda ilgili dersin açılmamış olması.
+b) Alınacak dersin öğretim dilinin, içeriğinin, kredi değerinin Üniversitedeki dersin öğretim dili, içeriği ve kredi değeri ile aynı olması.
+c) İlgili birim dekanlığının/müdürlüğünün, başka yükseköğretim kurumundan ilgili dersin alınmasının uygunluğuna ilişkin yönetim kurulu kararı bulunması.
+(6) Öğrenci hangi dersi hangi yükseköğretim kurumundan alacağına ilişkin bir dilekçe ile bağlı bulunduğu ilgili birim dekanlığına/müdürlüğüne başvuruda bulunur. Başvurusunda başka yükseköğretim kurumundan alınacak dersin öğretim diline, içeriğine ve kredi değerine ilişkin bilgilere yer verir.
+(7) Üniversitede yaz okulunda açılan dersler, bitirme projeleri dersleri, yaz okulunda diğer yükseköğretim kurumlarından alınamaz. Diğer dersler ise yaz okulunda beşinci fıkranın (c) bendindeki usule göre, diğer yükseköğretim kurumlarından alınabilir.
