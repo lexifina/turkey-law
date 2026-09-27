@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-09-27",
+      "27.09.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 20- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33383",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-09-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gedik Üniversitesi",
+  "issuer_slug": "istanbul-gedik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gedik-universitesi/2026/46307",
+  "published": "2026-09-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46307&MevzuatTertip=5",
+  "source_bytes": 23354,
+  "source_id": "8.5.46307",
+  "source_sha256": "950823afcb4be7fa493734d4b1b165e52aba143a73a88f1f122e0c10d3850530",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL GEDİK ÜNİVERSİTESİ KAYNAK VE MALZEME TEKNOLOJİLERİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 369,
+  "word_count": 958
+}
