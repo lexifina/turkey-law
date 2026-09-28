@@ -1,0 +1,4 @@
+Ara sınav
+MADDE 35- (1) Öğretim planlarında yer alan bir ders için akademik dönem içinde yapılan sınav veya sınavlardır.
+(2) Ara sınav sayısı, sınavın biçimi, sınavın tarihi, dönem içinde yapılan çalışmalar ile verilen ödevlerden hangilerinin ara sınav olarak değerlendirmeye alınacağı ve ara sınavlar ile diğer akademik dönem çalışmalarının ders başarı notuna katkısı, anabilim/anasanat kurulu kararı doğrultusunda ilgili öğretim üyesi tarafından belirlenir ve ekle-bırak haftasının sonuna kadar anabilim/anasanat dalı başkanlıkları ve dersi veren öğretim üyesi tarafından öğrencilere duyurulur. Proje, tasarım, atölye gibi uygulamalı dersler için bu belirleme, anabilim/anasanat dalı kurul kararı çerçevesinde yapılır.
+(3) Ara sınavlara veya yerine geçecek çalışmalara geçerli mazereti nedeniyle katılamayan öğrenciye mazeretlerini belgelemek koşuluyla uygulanacak işlemler, ilgili anabilim/anasanat dalı kurulu kararı doğrultusunda yürütülür.

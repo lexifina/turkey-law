@@ -1,0 +1,4 @@
+Sanatta yeterlik tez/eser çalışması izleme komitesi
+MADDE 68- (1) Yeterlik sınavında başarılı bulunan öğrenci için ilgili anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile bir ay içinde bir sanatta yeterlik tez/eser çalışması izleme komitesi oluşturulur.
+(2) (Değişik:RG-28/9/2026-33384) Tez/eser çalışması izleme komitesi üç öğretim üyesinden oluşur. Komitede, tez/eser danışmanı, kurum içinden bir öğretim üyesi ve sunulan tez/eser çalışmasıyla ilgili akademik çalışması olan kurum dışından bir öğretim üyesi yer alır. İkinci tez/eser danışmanının olması halinde, ikinci tez/eser danışmanı komite toplantılarına oy hakkı olmaksızın katılır.
+(3) Sanatta yeterlik tez/eser çalışması izleme komitesinin kurulmasından sonraki dönemlerde, anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile üyelerde değişiklik yapılabilir.

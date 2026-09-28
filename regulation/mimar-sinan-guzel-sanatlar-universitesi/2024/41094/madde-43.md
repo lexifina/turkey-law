@@ -1,0 +1,3 @@
+Ders başarı notuna itiraz
+MADDE 43- (1) Öğrenci, ders başarı notu girişlerinin son gününü izleyen yedi iş günü içinde, kayıtlı olduğu Enstitü Müdürlüğüne dilekçe ile başvurarak yalnızca maddi hata yönünden sınav evrakının incelenmesini isteyebilir. İnceleme sonucu, ilgili anabilim/anasanat dalı başkanlığı tarafından öğretim üyesinin görüşü alınarak Enstitü Yönetim Kurulunca karara bağlanır ve öğrenciye duyurulur.
+(2) Başarı notu değişikliği gerektiren Enstitü Yönetim Kurulu kararı, öğrenci bilgi sisteminde gerekli not düzeltmesinin yapılması için akademik takvimde belirtilen ilgili dönem kapatma tarihinden önce Enstitü Müdürlüğüne bildirilir. Akademik takvimde belirtilen süreler içinde yapılmayan başvurular kabul edilmez.

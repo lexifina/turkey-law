@@ -1,0 +1,4 @@
+Ders başarı notlarının ilanı
+MADDE 42- (1) Ders başarı notları, dönem sonu sınavlarını veya bütünleme sınavlarını izleyen en geç beşinci iş gününde ilgili öğretim üyesi tarafından öğrenci bilgi sisteminde kesinleştirilir.
+(2) Atölye, proje, tasarım, planlama, çalıştay, sergi ve benzeri uygulamalı derslerde ve bütünlemesi olmayan derslerde başarı notları, bütünleme sınavlarının sonunu takip eden en geç beşinci iş gününde ilgili öğretim üyesi tarafından öğrenci bilgi sisteminde kesinleştirilir.
+(3) Sınav sonuçlarına ilişkin maddi hatanın dersin öğretim üyesi tarafından resen tespit edilmesi halinde ilgili öğretim üyesi, bir sonraki dönemin açılışına kadar maddi hata gerekçesi ile Enstitü Müdürlüğüne yazılı olarak başvurur. Tespit edilen hata, Enstitü Yönetim Kurulu kararı ile Enstitü Müdürlüğünce düzeltilir.

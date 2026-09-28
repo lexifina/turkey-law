@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Anabilim/anasanat dalı: 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete’de yayımlanan Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde tanımlanan ve Enstitüde lisansüstü eğitim-öğretim programı bulunan akademik birimleri,
+ç) Anabilim/anasanat dalı başkanı: Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilât ve İşleyiş Yönetmeliğinin 5 inci maddesinde tanımlanan ve Enstitüde bulunan anabilim/anasanat dalı başkanını,
+d) Anabilim/anasanat dalı kurulu: Enstitü anabilim/anasanat dalının, lisansüstü düzeyde ders veren ve/veya tez/eser çalışması yöneten, tam zamanlı öğretim üyeleri ve doktora/sanatta yeterlik ünvanına sahip öğretim görevlilerinden oluşan kurulu,
+e) Enstitü: Mimar Sinan Güzel Sanatlar Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+f) Enstitü Kurulu: Enstitü Müdürü başkanlığında, müdür yardımcıları ve Enstitü anabilim/anasanat dalı başkanlarından oluşan kurulu,
+g) Enstitü Yönetim Kurulu: Enstitü Müdürü başkanlığında, müdür yardımcıları ve Enstitü Kurulu tarafından üç yıl için seçilen üç öğretim üyesinden oluşan kurulu,
+ğ) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+h) Müdür: Enstitü Müdürünü,
+ı) Öğrenci: Lisansüstü öğrenim görmek üzere Enstitüye kayıtlı olan yüksek lisans, doktora veya sanatta yeterlik programı öğrencisini,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+j) Program: Anabilim/anasanat dallarına bağlı lisansüstü eğitim-öğretim veren programları,
+k) Rektör: Mimar Sinan Güzel Sanatlar Üniversitesi Rektörünü,
+l) Senato: Mimar Sinan Güzel Sanatlar Üniversitesi Senatosunu,
+m) Tez: Yüksek lisans, doktora ve sanatta yeterlik eğitiminin amacına yönelik hazırlanan bilimsel/sanatsal çalışmayı,
+n) Üniversite: Mimar Sinan Güzel Sanatlar Üniversitesini,
+ifade eder.

@@ -1,0 +1,2 @@
+Danışman atanması
+MADDE 53- (1) Tezsiz yüksek lisans programında, anabilim/anasanat dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapmak üzere, Üniversitenin kadrolu öğretim üyesini veya Senato tarafından belirlenen niteliklere sahip doktora/sanatta yeterlik derecesine sahip Üniversitede ders veren bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar belirler.

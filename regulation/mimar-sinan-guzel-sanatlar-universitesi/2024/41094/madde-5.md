@@ -1,0 +1,10 @@
+Bilimsel/sanatsal hazırlık programına öğrenci kabulü
+MADDE 5- (1) Yüksek lisans ve doktora/sanatta yeterlik programlarında, anabilim/anasanat dalı kurulunun önerisi ve Enstitü Yönetim Kurulu kararı ile bilimsel/sanatsal hazırlık programı uygulanabilir. Bilimsel/sanatsal hazırlık programına öğrenci olarak kabul edilecek adaylar şunlardır:
+a) Lisans derecesini, başvurdukları yüksek lisans ve doktora/sanatta yeterlik programından farklı alanlarda almış olan adaylar.
+b) Lisans derecesini başvurdukları yükseköğretim kurumu dışındaki yükseköğretim kurumlarından almış olan yüksek lisans programı adayları.
+c) Lisans veya yüksek lisans derecelerini, başvurdukları yükseköğretim kurumu dışındaki yükseköğretim kurumlarından almış olan doktora/sanatta yeterlik adayları.
+ç) Lisans veya yüksek lisans derecesini başvurdukları doktora/sanatta yeterlik programından farklı alanda almış olan adaylar.
+(2) Bilimsel/sanatsal hazırlık programında alınması zorunlu dersler, öğrencinin lisansüstü programını tamamlamak için gerekli görülen derslerinin yerine geçemez. Ancak bilimsel/sanatsal hazırlık programındaki bir öğrenci, bilimsel/sanatsal hazırlık derslerinin yanı sıra anabilim/anasanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile lisansüstü programa yönelik dersler de alabilir.
+(3) Bilimsel hazırlık programı ile ilgili devam, ders sınavları, ders notları, derslerden başarılı sayılma koşulları, ders tekrarı, kayıt silme ve diğer esaslar Senato tarafından belirlenir.
+(4) Bilimsel/sanatsal hazırlık dersleri kredisiz olarak alınır. Her dersin başarı notunun en az DD olması gerekir. Ancak, bilimsel/sanatsal hazırlıkta alınan tüm derslerin ortalaması yüksek lisans için en az CC, doktora/sanatta yeterlik için en az BB olmalıdır.
+(5) Bilimsel/sanatsal hazırlık programında geçirilecek süre en fazla iki yarıyıldır. Yaz öğretimi bu süreye dâhil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin Üniversite ile ilişiği kesilir. Bu programda geçirilen süre, yüksek lisans, doktora veya sanatta yeterlik programı sürelerine dâhil edilmez.
