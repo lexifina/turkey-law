@@ -1,0 +1,2 @@
+Hüküm bulunmayan haller
+MADDE 19- (1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 2547 sayılı Kanun, Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik, Balıkesir Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği, 26/5/2024 tarihli ve 32557 sayılı Resmî Gazete’de yayımlanan Balıkesir Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliği hükümleri ve ilgili diğer mevzuat hükümleri uygulanır.

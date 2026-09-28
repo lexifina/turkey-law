@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.46309",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "BALIKESİR ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU YABANCI DİL EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "46309",
+  "issuer": "BALIKESİR ÜNİVERSİTESİ",
+  "issuer_slug": "balikesir-universitesi",
+  "path": "regulation/balikesir-universitesi/2026/46309",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46309&MevzuatTertip=5",
+  "source_sha256": "e6cce3e5a293d18d916fd80ec1f995df62fe0c5396af0ca79bf63cc3d37d1dc0",
+  "source_bytes": 83666,
+  "published": "2026-09-28",
+  "gazette": "33384",
+  "in_force": "2026-09-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.09.2026); own commencement article: \"Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2433,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
