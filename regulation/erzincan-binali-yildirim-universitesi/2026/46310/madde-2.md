@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; Erzincan Binali Yıldırım Üniversitesi Diş Hekimliği Fakültesinde yürütülen öğrencilerin kabulünü, kayıt ve kayıt yenilemeyi, eğitim-öğretim programlarının hazırlanması ve yürütülmesini, teorik dersleri, preklinik eğitimleri, klinik eğitim ve klinik uygulamaları, devam esaslarını, ölçme ve değerlendirme sistemini, sınavlara ilişkin esasları, başarı değerlendirmesini, mezuniyet ve diploma işlemlerini, öğrencilerin hak ve yükümlülüklerini, eğitim-öğretime ilişkin hükümleri kapsar.

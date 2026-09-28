@@ -1,0 +1,12 @@
+Ön koşul ve sınıf geçme esası
+MADDE 21- (1) Fakültede sınıf geçme sistemi uygulanır.
+(2) Her eğitim-öğretim yılında yer alan zorunlu derslerin teorik, preklinik ve klinik uygulamaları bir sonraki sınıfın ön koşuludur.
+(3) Zorunlu derslerin herhangi birinden başarısız olan öğrenciler bir üst sınıfa geçemez. Öğrenciler, başarısız olduğu dersleri ve bu derslere bağlı preklinik veya klinik uygulamaları tekrar ederler.
+(4) Ortak zorunlu derslerde devam şartını yerine getiren öğrenciler, bu dersleri üçüncü sınıfın sonuna kadar yapılacak sınavlarda başarılı olarak tamamlamak zorundadırlar.
+(5) Seçmeli derslerden devam şartını yerine getirdiği hâlde başarısız olan öğrenciler bir üst sınıfa geçebilir. Ancak öğrencilerin mezun olabilmesi için seçmeli ders yükümlülüğünü başarıyla tamamlamaları zorunludur.
+(6) Başarısız olunan seçmeli ders, açıldığı ilk yarıyılda tekrar alınır. Ancak öğrenciler, başarısız olduğu seçmeli ders yerine öğretim planında yer alan başka bir seçmeli dersi alma talebinde bulunabilirler. Seçmeli ders değişikliği, öğrencilerin yazılı başvurusu üzerine Fakülte Yönetim Kurulu kararıyla yapılır. Değiştirilen seçmeli ders öğrencilerin ders yükünden çıkarılır; ancak öğrencilerin transkriptinde gösterilmeye devam eder. Öğrenciler, öğrenimleri süresince sadece bir defa seçmeli dersi değiştirebilirler.
+(7) Başarısız olunan seçmeli dersin sonraki eğitim-öğretim döneminde açılmaması veya öğretim planından çıkarılması hâlinde öğrenciler, Fakülte Yönetim Kurulu kararıyla yerine öğretim planında yer alan başka bir seçmeli dersi alabilirler.
+(8) Mezuniyet aşamasına gelmiş ve seçmeli ders dışında tüm mezuniyet koşullarını yerine getirmiş öğrenciler, daha önce değişiklik haklarını kullanmış olsalar dahi, Fakülte Yönetim Kurulu kararıyla başarısız oldukları bir seçmeli ders yerine öğretim planında yer alan başka bir seçmeli dersi alabilirler. Bu haktan yalnızca bir kez yararlanılabilir.
+(9) Preklinik veya klinik uygulaması bulunan derslerin teorik ve uygulamalı bölümleri bir bütün olarak değerlendirilir. Öğrencilerin bir üst sınıfa geçebilmesi için ilgili dersin teorik ve uygulamalı yükümlülüklerini başarıyla tamamlaması gerekir.
+(10) Kayıt dondurma, Üniversiteden uzaklaştırma veya ders kaydı yaptırmama nedeniyle eğitim-öğretim dönemini tamamlayamayan öğrenciler, öğrenimlerine kaldıkları sınıftan devam ederler ve bir üst sınıftan ders alamazlar.
+(11) Eğitim-öğretim programında yer alan dersler ile programın yürütülüşü konusunda Fakülte Kurulunun önerisi ve Senatonun onayı ile başka şartlar konulabilir.

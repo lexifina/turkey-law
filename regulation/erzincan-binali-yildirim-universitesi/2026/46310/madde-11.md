@@ -1,0 +1,3 @@
+Ders muafiyeti ve intibak
+MADDE 11- (1) ÖSYM tarafından yapılan sınavla Fakülteye kayıt hakkı kazananlar ile yatay geçiş yapan öğrencilerin daha önce devam ettikleri ve başarılı oldukları derslerden muaf tutulabilmeleri için Fakülteye muafiyet istedikleri derslerin isimlerini ve onaylı not döküm belgesinin aslını bir dilekçe ekinde sunmaları gerekir. Muafiyet talepleri, öğrencinin kesin kayıt başvurusu veya ilk ders kaydı ile birlikte yapılır; e-Devlet üzerinden kayıt yaptıran öğrencilerin muafiyet talepleri, kayıt evrakının teslim edileceği süre içerisinde yapılır.
+(2) Öğrencilerin daha önceki öğrenimlerine ilişkin muafiyet ve intibak işlemleri Senato tarafından belirlenen usul ve esaslara göre yapılır.
