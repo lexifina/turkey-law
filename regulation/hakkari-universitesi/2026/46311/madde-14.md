@@ -1,0 +1,2 @@
+Yaz öğretimi
+MADDE 14- (1) Üniversitenin eğitim ve öğretim imkanlarının yaz aylarında da değerlendirilmesine, öğrencilerin yarıyıllarda alarak başarısız oldukları ve/veya alamadıkları veya notunu yükseltmek istedikleri dersleri ve GANO’su uygun olanların üst yarıyılların derslerini almalarına imkân sağlamak amacıyla; ilgili bölümün önerisi, fakülte, yüksekokul ve meslek yüksekokulu kurulunun kararı ve Senatonun onayı ile yaz öğretimi açılabilir. Yaz öğretiminde eğitim ve öğretim Senato tarafından belirlenen esaslar çerçevesinde yürütülür.

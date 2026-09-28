@@ -1,0 +1,7 @@
+Sınav sonucuna itiraz
+MADDE 23- (1) Sınav sonuçları, sınav evrakında maddi hata olduğunun belirlenmesi dışında değiştirilemez.
+(2) Öğrenciler, notların OBS’de ilan edilmesini takip eden üç iş günü içinde itiraz başvurusunu dilekçe ile ilgili bölüm başkanlığına yapar; ilgili dersin öğretim elemanı sınav kağıdında ilk incelemeyi yapar ve sonucu iki iş günü içinde bölüme iletir. Bölüm başkanı sonucu iki iş günü içerisinde öğrenciye tebliğ eder.
+(3) İlk inceleme sonucunda sınav kağıdında maddi hata bulunmadığına karar verilmesi halinde, öğrenci bu kararın tebliğ edildiği tarihten itibaren iki iş günü içinde ilgili birimin öğrenci işlerine başvurabilir. İlgili dekanlık/müdürlük ders konusu ile alakalı sınav sonuç itiraz komisyonunu en geç üç iş günü içerisinde oluşturur.
+(4) Komisyon en az üç kişiden oluşur ve komisyona dersin sorumlu öğretim elemanı katılmaz. Komisyon, gerekli incelemeyi yapar ve sonucu en geç üç iş günü içinde karara bağlayarak ilgili birim yönetimine teslim eder.
+(5) İnceleme sonucunda maddi hata tespit edilirse, ilgili birim yönetim kurulunca alınan karar doğrultusunda ÖİDB tarafından not düzeltilir ve sonuç ilan edilir.
+(6) Final sınavı sonrası yapılacak olan itirazlar neticesinde, sınav sonuç itiraz komisyonu tarafından alınan karar doğrultusunda, öğrencinin bütünleme sınavına girmesini gerektiren bir sonuç ortaya çıktığında, eğer ilgili dersin bütünleme sınavı da yapılmışsa, ilgili birim yönetim kurul kararı ile öğrenciye yeniden bir bütünleme sınav hakkı verilir.

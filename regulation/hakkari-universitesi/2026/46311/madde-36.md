@@ -1,0 +1,5 @@
+Mezuniyet ve onur öğrencileri
+MADDE 36- (1) Bir öğrencinin mezun olabilmesi için kayıtlı olduğu programdaki zorunlu dersler ve almış olduğu bütün seçmeli dersler ile varsa zorunlu yaz stajından başarılı olmalıdır. İzlemekte olduğu programı en az altmış not ortalaması ile tamamlaması zorunludur. GANO aynı zamanda mezuniyet not ortalamasıdır.
+(2) Mezuniyet derecesi, derslerin AKTS değerleri ile başarı notları çarpımları toplamının toplam AKTS’ye bölünmesiyle bulunur. Muaf olunan derslerin (M1ve M2) başarı notu ortalamaya dahil edilir.
+(3) Her akademik yıl sonunda kendi sınıf seviyesine ait normal ders yükü kadar derse kayıt yaptıran ve hepsinden başarılı olan öğrencilerden o yıla ait genel not ortalaması 100 tam puan üzerinden 90-100 arasında olanlar akademik yıl onur öğrencisi sayılır. Bu öğrencilerin listesi her yıl sonunda ilan edilir. Meslek yüksekokullarında 2. sınıf, fakültelerde 4. sınıf için onur öğrencileri hesaplaması yapılmaz.
+(4) Öğrencinin akademik yıl onur listesinde yer alabilmesi için öğrencilik hayatı boyunca disiplin cezası almamış olması gerekir.

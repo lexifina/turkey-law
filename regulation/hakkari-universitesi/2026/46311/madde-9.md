@@ -1,0 +1,4 @@
+Öğrenci katkı payı/öğrenim ücreti
+MADDE 9- (1) Öğrenciler, eğer yükümlülüğü varsa ilgili mevzuatla belirlenen miktarda katkı payı veya öğrenim ücretini, 2547 sayılı Kanunun 44 üncü ve 46 ncı maddeleri hükümleri uyarınca her yarıyıl başında öder.
+(2) Azami öğrenim süresini dolduran ancak mezun olamayan öğrenciler; sınırsız sınav hakkı, ek sınavlar veya ek süreler gibi haklarını kullanabilmek için, öğrencilik haklarından yararlanıp yararlanmadıklarına bakılmaksızın, ilgili mevzuat çerçevesinde belirlenen katkı payını veya öğrenim ücretini her yarıyıl ödemeye devam ederler.
+(3) Katkı payı veya öğrenim ücretini akademik takvimde belirtilen süreler içerisinde ödemeyen öğrencinin kaydı yapılmaz, ders seçimi onaylanmaz ve kaydı yenilenmez. Kayıt yenilenmemesi veya herhangi bir sebeple kaydın silinmesi halinde, geçmişe dönük veya içinde bulunulan döneme ait yatırılmış olan katkı payı veya öğrenim ücretleri iade edilmez.
