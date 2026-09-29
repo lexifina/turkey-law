@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 4,
+  "esas_no": "7/49756",
+  "submitted": "2026-09-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gökan ZEYBEK",
+  "province": "İstanbul",
+  "summary": "29 Ekim 2025 tarihinde Kocaeli'nin Gebze ilçesinde metro inşaatı nedeniyle çöktüğü iddia edilen bir binaya ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/919af804-ac2c-4752-ac4f-01a0f2a1a93b",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "f25949d55172c5267d91c01382d810a465da93f1a4f4d8c5399431c11c4ec842",
+  "in_force": "2026-09-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
