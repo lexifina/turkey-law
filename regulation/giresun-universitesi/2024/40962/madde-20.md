@@ -1,0 +1,3 @@
+Sınavlarda mazeret hali
+MADDE 20- (1) Haklı ve geçerli nedenlerle sınavlara giremeyen öğrencilerin, mazeretlerini sınav tarihini takip eden beş iş günü içerisinde ilgili birime yazılı olarak bildirmeleri gerekir. Mazeretleri ilgili yönetim kurulunca kabul edilenler, sınav hakkını ilgili yönetim kurulu tarafından belirlenen mazeret sınav döneminde kullanırlar. Yıl sonu sınavlarının mazereti bütünleme sınavında uygulanır, bütünleme sınavının mazereti yapılmaz.
+(2) Aynı gün ve saatte sınavları çakışan öğrencilere, ilgili birime bir dilekçeyle başvurmaları halinde, giremedikleri sınavlar için mazeret sınavı hakkı tanınır.

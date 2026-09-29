@@ -1,0 +1,4 @@
+Eğitim-öğretimin kapsamı
+MADDE 8- (1) (Değişik:RG-29/9/2026-33385) Eğitim-öğretim; ilgili birimlerde özelliklerine göre teorik dersler ve/veya uygulamalı dersler, pratik çalışma, atölye, tıbbi ve cerrahi klinik uygulamalar, laboratuvar çalışması, bitirme ödevi, bitirme projesi, diploma projesi, staj, ödev çalışması, seminer ve benzeri uygulamalardan oluşur.
+(2) (Değişik:RG-29/9/2026-33385) Lisans ve ön lisans programlarında yer alacak dersler, bunların saat sayıları ve AKTS kredileri, zorunlu veya seçimlik ders oldukları, alt birim kurullarının ve bölüm kurullarının önerileri dikkate alınarak ilgili kurulca belirlenir ve Senatonun onayı ile kesinleşir.
+(3) Staj, bitirme/diploma projesi ve tez gibi eğitim-öğretim faaliyetlerinin hazırlanması, sunulması, değerlendirilmesi gibi hususlara ilişkin esaslar ilgili birimlerce belirlenir ve Senato tarafından onaylanır.

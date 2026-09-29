@@ -1,0 +1,5 @@
+Ders açma esasları
+MADDE 13- (1) Her yarıyıl/yıl hangi derslerin açılacağı alt birim kurulları ve bölüm kurullarından gelen öneriler göz önüne alınarak ilgili kurulun önerisi ile Senatoda kararlaştırılır.
+(2) Zorunlu derslerin açılması için öğrenci sayısı dikkate alınmaz.
+(3) Seçimlik derslere kaydolan öğrenci sayısının en az on olması gerekir. Bu derslere kaydolan öğrenci sayısının ondan az olması halinde, bu dersin açılıp açılmamasına ilgili kurulca karar verilir. Dersin, kaydolan öğrenci sayısının yetersizliği veya başka nedenlerle açılmaması durumunda; ders ekleme çıkarma dönemini izleyen hafta içinde kaydı iptal edilen öğrencilerin açık bulunan seçimlik derslere kaydı, öğrenci danışmanının önerisi ile ilgili yönetim kurulu tarafından yapılır.
+(4) Derslerin ve uygulamaların hafta içindeki yerleşimi ve sorumlu öğretim elemanları, her yarıyılın/yılın başlangıcından en az on iş günü önce ilan edilir. Zorunlu hallerde ilgili yönetim kurulu kararı ile haftalık programlarda değişiklikler yapılabilir.

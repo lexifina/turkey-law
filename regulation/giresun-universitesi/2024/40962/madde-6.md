@@ -1,0 +1,2 @@
+Katkı payı
+MADDE 6- (1) Öğrencilerin, her eğitim-öğretim yılında, akademik takvimde belirtilen süreler içinde ilgili mevzuat hükümleriyle belirlenen öğrenci katkı payını ödemeleri gerekir. Öğrenci katkı payını ödemeyen öğrencilerin kayıt ve kayıt yenileme işlemi yapılmaz ve bu öğrenciler hakkında ilgili mevzuat hükümleri uygulanır. Öğrencinin katkı payını ödemediği veya kaydını yenilemediği yarıyıllar/yıllar öğrenim süresine sayılır.
