@@ -1,0 +1,29 @@
+{
+  "number": "139",
+  "number_as_published": "2026/139",
+  "year": 2026,
+  "month": 9,
+  "title": "İstanbul İli, Fatih İlçesi, Seyyid Ömer Mahallesi, 2597 Ada 90 Parsele İlişkin TEKLİF 341145940 Plan İşlem Numaralı 1/1000 ölçekli K.A.U.İ.P. Değişikliği",
+  "decision_date": null,
+  "index_date": "2026-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2026",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2026&ay=9",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2026139/1249",
+  "official_document": null,
+  "source_sha256": "8470cdc60bcb32b7379fd3d2f5d4d12d0250b9b2c9f209e520202f73b9755672",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2026-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2026-09"
+}
