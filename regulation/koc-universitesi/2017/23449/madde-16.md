@@ -1,0 +1,3 @@
+Devam
+MADDE 16 – (1) Öğrenciler kayıtlı oldukları her türlü ders, uygulama, laboratuvar ve bunların gerektirdiği veya ilgili öğretim elemanının gerekli gördüğü sınav ve diğer akademik çalışmaların hepsine katılmakla yükümlüdürler. Öğrencilerin sorumlu oldukları sınavların, ödev, uygulama ve diğer çalışmaların sayısı ve başarı notuna katkısı dönem başında ilgili dersin öğretim elemanınca belirlenip öğrencilere açıklanır. Öğrencilerin devamı ilgili öğretim elemanı tarafından izlenir.
+(2) Sağlık nedeniyle devamsızlıklara ilişkin olarak sağlık raporu sunulması, sağlık raporunun kabulü, devam durumuna etkisi gibi hususlar Rektörlük tarafından düzenlenir ve öğrencilere duyurulur.

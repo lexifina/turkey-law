@@ -1,0 +1,4 @@
+Kayıt dondurma ve izin
+MADDE 10 – (1) Zorunlu nedenleri olan öğrenciler kayıt dondurmak ve belirli bir eğitim amacını gerçekleştirmek isteyen öğrenciler ise kayıt dondurup izin almak üzere Üniversite Yönetim Kuruluna başvurabilirler. Kayıt dondurma veya izin başvurusu bir veya birkaç yarıyıl için yapılabilir. Başvuru Üniversite Yönetim Kurulu tarafından değerlendirilerek karara bağlanır. Kayıt dondurma veya izin süresi sonunda öğrenci başka bir karar gerekmeksizin Üniversitedeki eğitimine devam eder.
+(2) İzin sırasında başka eğitim kurumlarında alınan dersler için ilgili Yönetim Kurulu kararıyla öğrencinin Üniversitedeki programında nakil kredisi verilebilir.
+(3) Kayıt dondurma veya izin başvurusu yapan öğrencinin öğrenim ücretini ödemiş ve tüm kayıt işlemlerini yerine getirmiş olması gerekir.

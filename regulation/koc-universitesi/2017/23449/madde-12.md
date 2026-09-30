@@ -1,0 +1,3 @@
+Yatay geçiş
+MADDE 12 – (1) Kurumlararası yatay geçiş, bir yükseköğretim kurumuna kayıtlı olan öğrencinin Üniversitenin aynı düzeydeki diğer bir diploma programında öğrenimine devam etme hakkı kazanmasını; kurum içi yatay geçiş ise, Üniversitenin bir diploma kayıtlı olan öğrencinin Üniversitenin aynı düzeydeki diğer bir diploma programında öğrenimine devam etme hakkı kazanmasını ifade eder.
+(2) Kurumlararası ve kurum içi yatay geçiş başvurularına ve kabule ilişkin hususlar Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik çerçevesinde Akademik Kurul kararıyla belirlenir.
