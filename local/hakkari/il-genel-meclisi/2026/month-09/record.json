@@ -1,0 +1,29 @@
+{
+  "number": "month-09",
+  "year": 2026,
+  "month": 9,
+  "title": "2026 YILI EYLÜL AYI MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2026-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2026",
+  "source": "https://www.hakkariozelidare.gov.tr/2026-yili-eylul-ayi-meclis-kararlari",
+  "official_page": "https://www.hakkariozelidare.gov.tr/2026-yili-eylul-ayi-meclis-kararlari",
+  "official_document": "https://www.hakkariozelidare.gov.tr/kurumlar/hakkariozelidare.gov.tr/MECLIS/KARARLARI/2026/2026_EYLUL_MECLIS_OZET.pdf",
+  "source_sha256": "c153ed9fec1e4659e3842ab0a75df254dc5b95d13612fe6bd840d5f371f57c38",
+  "issuer": "Hakkari İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2026-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2026); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 YILI EYLÜL AYI MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2026 YILI EYLÜL AYI MECLİS KARARLARI"
+}
