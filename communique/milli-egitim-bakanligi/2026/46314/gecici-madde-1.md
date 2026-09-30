@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) 21/9/2023 tarihinden önce yapılan harcamaların öğrencilere geri ödenmesi için öğrenciler, mezuniyet tarihinden başlayarak en geç altı ay içinde geçmişe dönük yaptıkları masrafların kendilerine ödenmesi için talepte bulunabilir. Bu süre aşıldıktan sonraki talepler dikkate alınmaz. 21/9/2023 tarihinde ve bu tarihten sonra yapılan harcamalar için öğrenciler, harcamanın yapıldığı tarihten başlayarak en geç altı ay içinde talepte bulunabilir. Bu süre aşıldıktan sonraki talepler dikkate alınmaz.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Tebliğde yer alan;
+a) Adına öğrenim görülen kurum: Öğrencinin mecburi hizmetini ifa edeceği kurumu,
+b) Bakanlık: Millî Eğitim Bakanlığını,
+c) Dil öğrenimi: Esas öğrenim için gerekli görülen yurt içi ve/veya yurt dışındaki dil öğrenimini,
+ç) Esas öğrenim: İhtiyaç duyulan hâllerde görülen dil veya hazırlık öğreniminden sonra başlayan öğrenimi,
+d) Hazırlık öğrenimi: Öğrencinin yurt dışında göreceği esas öğrenime temel oluşturulması veya eğitim sistemi farklılığından doğan eksikliklerinin giderilmesi amacıyla esas öğrenim görülecek yükseköğretim kurumu tarafından gerekli görülen eğitimi,
+e) Hesabına öğrenim görülen kurum veya kuruluş: Öğrencinin öğrenim masraflarını karşılayan kurumu veya kuruluşu,
+f) Kısmi resmî burslu öğrenci: Resmî burslu statüde öğrenim görmekte iken karşılıksız burs veya asistanlık ücreti alan ancak aldıkları burs veya ücretin barınma, beslenme, sağlık gibi yaşam giderleri ile okul ücreti, seminer, konferans, toplantı, teziyle ilgili alan çalışması, kitap, defter, kırtasiye gibi öğrenim giderlerini tam olarak karşılamaması nedeniyle Bakanlık veya hesabına öğrenim görülen kurum veya kuruluş tarafından kısmi olarak burs verilen veya okul ödemeleri karşılanan öğrenciyi,
+g) Lisans öğrenimi: Ortaöğretime dayalı en az sekiz yarıyıllık programı kapsayan yükseköğretimi,
+ğ) Lisansüstü öğrenim: Lisans öğrenimine dayalı yüksek lisans, doktora, tıpta uzmanlık, eczacılıkta uzmanlık, veterinerlikte uzmanlık, diş hekimliğinde uzmanlık ve sanatta yeterlik eğitimini,
+h) Öğrenci: Resmî burslu, kısmi resmî burslu ve resmî burssuz öğrenciyi,
+ı) Öğrenim seviyesi: Yurt dışında dil öğrenimini, yüksek lisans, doktora öğrenimini,
+i) Resmî burslu öğrenci: Yurt dışına mecburi hizmet karşılığında lisans ve/veya lisansüstü düzeyde öğrenime gönderilen ve öğrenim masrafları Bakanlık veya hesabına öğrenim görülen kurum ya da kuruluşça karşılanan öğrenciyi,
+j) Resmî burssuz öğrenci: Resmî burslu veya kısmi resmî burslu statüde öğrenim görmekte iken esas öğrenimin tamamlanması veya geri çağrılma hâllerinde yurda dönüş ulaşım ücreti; öğrenimin sürdürülmesine engel teşkil eden hastalığın tedavisi için yurda dönüş ulaşım ücreti ve refakat gerekiyorsa refakatçinin ulaşım ücreti; öğrenimin sürdürülmesine engel teşkil eden ve öğrencinin ödeme gücünü aşan, acil ve mahallinde tedavi zorunluluğu bulunan hastalık hâllerindeki tedavi ücreti; ölüm hâlinde cenazenin Türkiye’de defnedileceği yere kadarki nakil masrafları, gerekli hâllerde cenazeyi getirmekle görevlendirilecek kişi veya refakatçinin ulaşım ücreti ile benzer nitelikteki giderler hariç olmak üzere çeşitli nedenlerle kendisi için herhangi bir ödeme yapılmayan öğrenciyi,
+k) Yönetmelik: Türk Öğrencilerin Yabancı Ülkelerde Öğrenimleri Hakkında Yönetmeliği,
+l) Yurt dışı akademik danışman: Öğrencilerin meslekî gelişimini izlemek, alınacak dersler, tez çalışmaları ve akademik süreçlerle ilgili konularda bilgilendirme ve önerilerde bulunmak üzere yurt dışında öğrenim görülen yükseköğretim kurumu tarafından görevlendirilen en az doktora derecesine sahip öğretim elemanını,
+m) Yurt dışı temsilciliği: Türkiye Cumhuriyeti eğitim müşavirliğini, eğitim ataşeliğini, bunların bulunmadığı yerlerde Türkiye Cumhuriyeti büyükelçiliği veya başkonsolosluğunu,
+n) Yükseköğretim: Ortaöğretime dayalı lisans ve ön lisans öğrenimi ile lisans öğrenimine dayalı yüksek lisans, doktora, tıpta uzmanlık, eczacılıkta uzmanlık, veterinerlikte uzmanlık, diş hekimliğinde uzmanlık ve sanatta yeterlik eğitimi ile en az dört yarıyılı kapsayan her kademedeki eğitim ve öğretimin tümünü,
+ifade eder.

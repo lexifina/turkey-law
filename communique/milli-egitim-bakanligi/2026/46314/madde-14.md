@@ -1,0 +1,4 @@
+Vize ve oturumlar
+MADDE 14- (1) Yurt dışına öğrenime gönderilen resmî burslu öğrencilerin dil, yüksek lisans veya doktora öğrenimi görecekleri ülkeden vize alabilmeleri için o ülkenin temsilciliklerine ödemeleri zorunlu olan vize harçları ile ABD tarafından vize alınması sırasında zorunlu tutulan SEVIS ücreti her takvim yılında bir kereye mahsus olarak karşılanır. Ancak, aynı yıl içinde bir öğrenim seviyesinden diğer bir öğrenim seviyesine geçişlerde zorunlu tutulan vize ve SEVIS ücreti de tekrar ödenebilir. Ayrıca vize randevusu ve vize posta gideri için ödenen ücretler de ödenir.
+(2) Yurt dışında öğrenim gören resmî burslu öğrencilerin bulundukları ülkelerde kalabilmeleri için zorunlu olarak ödemeleri gereken oturum izni, polis kayıt ücreti ve benzeri ödemeler karşılanır.
+(3) Resmî burslu öğrencilerin yurt dışına ilk çıkışlarında ödedikleri pasaport cüzdan bedeli karşılanır.

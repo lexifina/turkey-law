@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Tebliğ; 8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun ve 6/8/2024 tarihli ve 32624 sayılı Resmî Gazete’de yayımlanan Türk Öğrencilerin Yabancı Ülkelerde Öğrenimleri Hakkında Yönetmelik uyarınca yurt dışında resmî burslu, kısmi resmî burslu ve resmî burssuz statüde lisans ve lisansüstü seviyede öğrenim görmeye hak kazanan ya da bu öğrenim seviyelerine hazırlık amacıyla dil öğrenimi gören öğrencileri kapsar.
