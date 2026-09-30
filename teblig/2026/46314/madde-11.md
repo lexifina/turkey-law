@@ -1,0 +1,6 @@
+Mecburi hizmet süresi
+MADDE 11- (1) Yurt içi öğrenimde mecburi hizmet süresi, okul ödemeleri ve/veya aylık yurt içi burs ödemelerinin yapıldığı öğrenim süreleri kadar hesaplanır.
+(2) Yurt dışı öğrenimde mecburi hizmet süresi, okul ödemeleri ve/veya aylık yurt dışı burs ödemelerinin yapıldığı öğrenim sürelerinin iki katı olarak hesaplanır.
+(3) Resmî burslu öğrencilerden, öğrenim gördükleri yükseköğretim kurumundan veya bu kurum aracılığıyla karşılıksız burs veya asistanlık ücreti sağlayarak kısmi resmî burslu statüye geçen öğrencilere, yükseköğretim kurumu veya bu kurum aracılığıyla aylık burs veya asistanlık ücreti olarak transfer edilecek miktarların Ek-1 (I) ve (II) numaralı cetvellerdeki yabancı para cinsinden az olması durumunda aradaki fark öğrencinin isteğine bağlı olarak Bakanlıkça tamamlanır. Bu durumda da öğrenci, bursunu tam almış sayılarak o ay için iki ay mecburi hizmet hesaplanır.
+(4) Yurt dışında resmî burssuz bulunulan süreler için mecburi hizmet hesaplanmaz.
+(5) Yurt dışında öğrenim görerek yurda görev talep etmek üzere dönen öğrencilerin mecburi hizmetlerine esas aylığı, derecesini aldığı tarihin ay sonuna kadardır. Ancak; mezuniyet işlemlerinin tamamlanması ve belge düzenlenmesi nedeniyle yurt dışında beklenmesi hâlinde mecburi hizmetine esas aylığı, derecesini aldığı tarihten bir ay sonraki tarihe kadar uzatılabilir.

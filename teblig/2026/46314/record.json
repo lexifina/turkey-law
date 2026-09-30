@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.46314",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "1416 SAYILI KANUN VE BUNA BAĞLI YÖNETMELİK UYARINCA YURT DIŞINDA LİSANS VE LİSANSÜSTÜ ÖĞRENİM GÖREN ÖĞRENCİLERE YAPILACAK ÖDEMELER HAKKINDA TEBLİĞ",
+  "number": "46314",
+  "issuer": "Millî Eğitim Bakanı ile Hazine ve Maliye Bakanı",
+  "path": "teblig/2026/46314",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46314&MevzuatTertip=5",
+  "source_sha256": "5d397c9b5cb77d24d8c42ca23b4e5bd6e42feaaf6dad33326e967ed64217efcb",
+  "source_bytes": 110725,
+  "published": "2026-09-30",
+  "gazette": "33386",
+  "in_force": "2026-09-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.09.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4917,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.46314-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
