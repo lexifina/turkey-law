@@ -1,0 +1,2 @@
+Numune alma ve analiz metotları
+MADDE 18- (1) Bu Tebliğ kapsamında yer alan ürünlerden, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda ve Yemin Resmi Kontrollerine Dair Yönetmelik esaslarına göre numune alınır. Numuneler, 21/3/2017 tarihli ve 30014 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Distile Alkollü İçkiler Analiz Metotları Tebliği (Tebliğ No: 2017/9)’nde yer alan kurallara göre analiz edilir.
