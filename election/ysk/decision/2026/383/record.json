@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2026/383",
+  "list_number": "383",
+  "decision_date": "2026-10-01",
+  "title": "Yüksek Seçim Kurulunun 01/10/2026 Tarihli ve 2026/383 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58015786/2026-383.pdf",
+  "source_sha256": "8a602646d9618c6cca3bf003143e8cec543559efb3b0c57c5d8b193796056711",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2026-10-01",
+  "law_text_complete": false
+}
