@@ -1,0 +1,2 @@
+Geçici Madde 17 - (Ek: RG-26/12/2019-30990-CK-1927/3 md.)
+Ekli 5 sayılı Cetvelde yer alan Kültür ve Turizm Bakanlığı ve bağlı kuruluşlarının sanatsal faaliyetlerine ilişkin hizmetlerde 2020 yılında çalıştırılacak sözleşmeli personelin sayısı, sözleşme ücreti ve çalışma süreleri, ek 8 inci maddenin ikinci fıkrası kapsamında ayrıca bir belirleme yapılmaksızın anılan cetvelde yer alan sınırlamalar çerçevesinde kullanılır.

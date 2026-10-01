@@ -1,0 +1,2 @@
+Geçici Madde 30- (Ek:RG-8/5/2026-33247-CK-11307/2 md.)
+Bu maddeyi ihdas eden Esaslar ile doğum izni süreleri yeniden düzenlenen ve bu maddenin yürürlüğe girdiği tarih itibarıyla ilgili mevzuatı gereğince öngörülen doğum izni süresi dolmuş ancak 1/4/2026 tarihi itibarıyla doğumun gerçekleştiği tarihten itibaren yirmi dört haftalık süreyi henüz tamamlamamış olan sözleşmeli personele, bu maddenin yürürlüğe girdiği tarihten itibaren 10 iş günü içerisinde talep etmeleri halinde sekiz hafta ilave doğum izni verilir.

@@ -1,0 +1,2 @@
+Geçici Madde 18 - (Ek: RG-18/4/2020-31103-C.K-2420/2 md.)
+Bu maddenin yürürlüğe girdiği tarihte 112 Acil Çağrı Merkezlerinde, İçişleri Bakanlığının bu Esaslar kapsamındaki mevcut dolu ve boş bulunan “Büro Personeli” sözleşmeli personel pozisyon unvanları, “Çağrı Karşılama Personeli” pozisyonunun ilk ihdas edildiği tarih itibarıyla başkaca bir işleme gerek kalmaksızın “Çağrı Karşılama Personeli” olarak değiştirilmiş sayılır. Söz konusu personelin “Büro Personeli” pozisyon unvanında geçirdiği hizmet süreleri “Çağrı Karşılama Personeli” pozisyonunda geçmiş sayılır.

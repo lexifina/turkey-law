@@ -1,0 +1,2 @@
+Madde 15- (Mülga: 9/2/1979-7/17150) (Yeniden düzenleme: 22/11/2010-2010/1169)
+Esaslara, Sözleşmeli Personel Pozisyon Unvanları ile Asgari Nitelikleri Gösterir (4) sayılı Cetvel eklenmiştir. Bu cetvelde belirtilenler dışında sözleşmeli personel pozisyonları kullanılamaz ve talepte bulunulamaz. Kurumlar, söz konusu cetvelde belirlenen asgari niteliklere, hizmetin gereği ilave nitelikler belirleyebilirler.

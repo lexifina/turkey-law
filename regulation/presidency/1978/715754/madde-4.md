@@ -1,0 +1,2 @@
+Madde 4- Personel, sözleşmelerinde belirtilen görev yeri dışında çalıştırılamaz.
+Görev yeri dışına geçici olarak gönderilenlerin gündelik ve yol giderleri, 6245 sayılı Harcırah Kanunu hükümlerinde saptanan süreyi ve 1 inci derece Devlet memurlarına ödenen harcırah miktarını aşmamak üzere sözleşmelerde belirtilir. (Ek: 24/4/2007-2007/12061) (Danıştay İkinci Dairesinin 26/12/2013 tarihli ve E: 2009/140, K: 2013/12270 sayılı kararı ile iptal cümle; Sözleşmeli personele geçici görev yolluğu dışında harcırah ödenemez.)

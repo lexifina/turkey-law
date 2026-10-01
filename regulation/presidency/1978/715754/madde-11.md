@@ -1,0 +1,1 @@
+Madde 11- Ödemeler her ay başında peşin yapılır. (Değişik: 22/11/2010-2010/1169) Ay sonundan önce ayrılmalarda, 5510 sayılı Kanun hükümlerine göre aylık bağlanması veya ölüm sebebiyle sözleşmenin sona ermesi halleri dışında, kalan günlere düşen ödemeler doğrudan geri alınır.

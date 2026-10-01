@@ -1,0 +1,10 @@
+Ek Madde 7 ‒ (Ek: 12/3/2012-2012/2964)
+Sözleşmeli personel alımı başvurularında adaylardan istenecek bilgi ve belgeler şunlardır:
+a) Türkiye Cumhuriyeti kimlik numarası. Türkiye Cumhuriyeti kimlik numarası dışında adaylardan kimlik bilgilerine ilişkin olarak ayrıca bir bilgi veya belge istenmez. Ancak ilgili kamu kurum veya kuruluşu Türkiye Cumhuriyeti kimlik numarası beyanının teyidi amacıyla adaydan Türkiye Cumhuriyeti kimlik numarasının da yer aldığı nüfus cüzdanı aslını göstermesini talep edebilir.
+b) Adres bildirimi, adli sicil ve askerlik durumlarına ilişkin olarak yazılı beyanları. Bu hususlarda adaylardan yazılı beyanları dışında bir belge talep edilmez.
+c) Sağlık durumlarına ilişkin olarak yazılı beyanları. Kamu kurum ve kuruluşları sözleşmeli personele verilecek görevin uygun yürütülmesi açısından zaruri görmeleri durumunda, personel ve insan kaynaklarına ilişkin mevzuatlarında açıkça belirtilmesi kaydıyla adaylardan sağlık durumlarına ilişkin rapor talep edebilirler.
+Kamu kurum ve kuruluşlarının ilgili mevzuat gereği adaylardan talep ettikleri belgelerin suretleri, asılları adaylarca ibraz edilmesi kaydıyla tasdik edilerek işleme alınır.
+Adayların kimlik ve adres bilgilerine ilişkin beyanlarının doğruluğu Kimlik Paylaşım Sistemi aracılığıyla araştırılır. Adayların adli sicil ve askerlik durumlarına ilişkin olarak yazılı beyanlarının doğruluğu ise yetkili adli ve askeri mercilerden alınacak bilgilerle teyit edilir. Personel alım işlemleri, adayların idareye beyan ettikleri bilgilerin teyidi sürecinin tamamlanması beklenmeksizin devam ettirilir.
+Gerçeğe aykırı belge verenler ya da beyanda bulunanlar hakkında yasal işlem yapılacağı, atamaları yapılmış ise atamalarının iptal edileceği, idare tarafından kendilerine bir bedel ödenmiş ise bu bedelin yasal faizi ile birlikte tazmin edileceği hususları sözleşmeli personel alım ilanlarında kamu kurum ve kuruluşları tarafından belirtilir.
+Adaylardan başvuru sırasında istenen formlar kamu kurum ve kuruluşlarının kurumsal internet sayfalarında yayımlanır.
+Yabancı uyruklular için ilgili idare tarafından istenecek bilgi ve belgeler personel alım ilanında belirtilir.

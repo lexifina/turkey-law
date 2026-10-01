@@ -1,0 +1,2 @@
+Geçici Madde 20- (Ek: RG-9/7/2020-31180-C.K-2727/4 md.)
+Bu maddenin yürürlüğe girdiği tarihte İletişim Başkanlığında bu Esaslar kapsamında dolu ve boş bulunan “Basın-Enformasyon Personeli” unvanlı sözleşmeli personel pozisyonlarının unvanları, “İletişim Personeli” pozisyonunun ilk ihdas edildiği tarih itibarıyla başkaca bir işleme gerek kalmaksızın “İletişim Personeli” olarak değiştirilmiş sayılır. Bu şekilde unvanı değişen personelin “Basın-Enformasyon Personeli” unvanında geçirdiği hizmet süreleri “İletişim Personeli” unvanında geçmiş sayılır.

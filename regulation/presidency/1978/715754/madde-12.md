@@ -1,0 +1,4 @@
+Madde 12- (Değişik: 20/02/2017-2017/9949) Sözleşmeli olarak çalıştırılacakların, ilgili kurumun saptayacağı özel koşulların yanı sıra, 657 sayılı Kanunun 48 inci maddesinin birinci fıkrasının (A) bendinin (4), (5), (6), (7) ve (8) numaralı alt bentlerinde belirtilen koşulları taşımaları gereklidir.
+Ancak, yabancı uyruklu hekimlerin Türkiye’de herhangi bir Tıp Fakültesinden mezun yada denkliği kabul edilmiş diploma sahibi olması, uzman iseler bunların uzmanlık belgelerinin Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğine uygunluğunun onaylanmış bulunması zorunludur.
+(Değişik: 6/12/1993-93/5097) Özel kanunlarında yaş haddine ilişkin özel hüküm bulunan haller dışında, 65 yaşını bitirmiş olanlar sözleşmeli olarak çalıştırılamazlar. Sözleşmeli çalıştırılmakta iken 65 yaşını dolduranların sözleşmeleri, 65 yaşını doldurdukları tarihte hiçbir işleme gerek kalmaksızın sona erer.
+(Ek: 27/8/1979-7/18126; mülga: 6/12/1993-93/5097)

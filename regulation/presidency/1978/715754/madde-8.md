@@ -1,0 +1,2 @@
+Madde 8- (Değişik: 3/2/1982-8/4250)
+Sözleşme ile çalıştırılan personel dışarıda kazanç getirici başka bir iş yapamaz (Dava vekili, haftanın bazı günleri ya da günün belirli saatlerinde çalıştırılacak avukat, hekim ve uzman hekim, ilçe ve bucak belediyelerinde çalıştırılacak teknik personel ve 657 sayılı Kanunun Ek geçici 12 ve 13 üncü maddelerinde sayılan personel ile yurtdışındaki Enformasyon Merkezlerinde görevlendirilecek editörler hariç).[9]

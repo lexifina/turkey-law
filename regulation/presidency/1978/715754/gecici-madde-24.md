@@ -1,0 +1,2 @@
+Geçici Madde 24- (Ek: RG-4/3/2022-31768-C.K-5254/1 md.)
+Bu Esasların Geçici 19 uncu maddesinin uygulanmasından doğan uyuşmazlıklar neticesinde verilen yargı kararları gereği, ÖSYM Başkanlığı tarafından doğrudan merkezi yerleştirmesi yapılıp atama işlemleri gerçekleştirilenlerin istihdamlarına devam olunur ve merkezi yerleştirmesi yapılıp atama işlemleri devam edenlerin durumu Tarım ve Orman Bakanlığınca tekemmül ettirilir.

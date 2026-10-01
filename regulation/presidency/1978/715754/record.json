@@ -1,0 +1,51 @@
+{
+  "id": "presidency-regulation-715754",
+  "number": "715754",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASINA İLİŞKİN ESASLAR",
+  "published": "1978-06-28",
+  "enacted": "1978-06-06",
+  "gazette_number": "16330",
+  "in_force": "2026-10-01",
+  "in_force_basis": "Latest source-printed amendment/correction Gazette date: 2026-10-01; official source: (Değişik fıkra:RG-1/10/2026-33387-CK-11833/1 md.)",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=715754&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "8537a7c661a72468e7b46ac8a33b56b7641ef89fef5b8bd121b0563e3e8ae175",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 2,
+    "referenced": 0,
+    "omitted": 2
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.715754_dosyalar/image001.png",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "4b875ef7eaf3f4e99c5d98128e16fb45895787a3d40cf1dec21aeb8f1cf0e8b6",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.715754_dosyalar/image002.png",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "e00296575d92be4f4b56028096de249eca734f3ced8e7b84fe645b7ce30f5d9a",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

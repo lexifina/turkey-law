@@ -1,0 +1,1 @@
+Geçici Madde 1- Bu karar hükümleri yürürlüğe girmeden önce Bakanlar Kurulunca sözleşme ile çalıştırılmaları kararlaştırılmış olan personel hakkında, sözleşme süreleri bitinceye kadar sözleşmelerinde bulunan hükümlerin uygulanmasına devam olunur. Ancak bu süre 1978 Bütçe Yılı sonunu geçemez.

@@ -1,0 +1,2 @@
+Ek Madde 5 – (Ek: 25/10/2010-2010/982)
+24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanununu 3 üncü maddesinin (f) bendinde sayılın sosyal hizmet kuruluşlarında çalıştırılacak; sosyolog, çocuk eğiticisi, sosyal çalışmacı, psikolog, fizyoterapist, çocuk gelişimcisi, öğretmen, diyetisyen, avukat, büro personeli, destek personeli, hemşire, diğer sağlık personeli ve din görevlisi unvanlı pozisyonlarında istihdam edilecek personelin seçiminde, bu Esasların ek 2 nci maddesinin birinci fıkrasının (c) bendinde belirtilen yöntem uygulanabilir.[27][28]

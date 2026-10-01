@@ -1,0 +1,2 @@
+Geçici Madde 8 – (Ek: 2/3/2009-2009/14799)
+Bu Esasların yürürlüğe girdiği tarihten itibaren 6 ay içerisinde, kamu kurum ve kuruluşlarınca kendilerine tahsis edilmiş sözleşmeli personel pozisyonları, merkezde birim adına vizelenmiş olanlar merkez teşkilatı adına, taşra teşkilatı adına vizelenmiş olanlar ise il bazında vizesi yapılacak şekilde görüşleri alınmak üzere Devlet Personel Başkanlığına ve Maliye Bakanlığına gönderilir.
