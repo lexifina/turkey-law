@@ -1,0 +1,2 @@
+Tebligat
+MADDE 49- (1) Öğrencilere her türlü tebligat, öğrencinin resmi kayıtlarda yer alan posta adresine veya öğrenciye Üniversite tarafından sağlanan e-posta adresine gönderilerek yapılır. Kayıt olurken bildirdikleri adresi değiştirdiği halde ilgili enstitüye bu değişikliği bildirmemiş veya yanlış, eksik adres vermiş olan öğrencilerin ilgili enstitüde bulunan adreslerine tebligatın gönderilmesi halinde kendilerine tebligat yapılmış sayılır. Öğrenciler, Üniversite tarafından sağlanan e-posta adresine gönderilen iletileri izlemekle yükümlüdür.

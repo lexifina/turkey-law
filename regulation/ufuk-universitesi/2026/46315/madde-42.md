@@ -1,0 +1,4 @@
+Ders tekrarı
+MADDE 42- (1) Anabilim dalınca belirlenmiş olan zorunlu derslerde başarısız olan öğrenciler azami öğrenim süresi içerisinde o dersi tekrarlamak veya enstitü anabilim dalınca yerine konulan veya eşdeğer olarak kabul edilen dersleri almak zorundadır. Ders tekrarlayan öğrencinin derse devam zorunluluğu olmamakla birlikte yazılı sınav, ödev, sunu ve benzeri akademik sorumlulukları yerine getirmesi gerekir. Danışmanın onayıyla derse devam ile ilgili resmi bildirimde bulunmayan öğrenci o dersi ilk defa alıyor kabul edilerek derse devamla yükümlü tutulur. Tekrarlanan derste alınan son not geçerlidir.
+(2) Doktora programındaki zorunlu dersler dışındaki seçmeli derslerden başarısız olan öğrenci başarısız olduğu ders dışında seçmeli başka bir dersi de danışman onayıyla alabilir.
+(3) Azami eğitim süresi içerisinde tekrarlanan derslerde başarılı olamayanların enstitü yönetim kurulu kararı ile ilişikleri kesilir.
