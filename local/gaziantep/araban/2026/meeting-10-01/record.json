@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-01",
+  "number_as_published": "meeting-10-01",
+  "year": 2026,
+  "title": "01.10.2026 ve 05.10.2026 Tarihli 55,56,57 ve 58 Sayılı Meclis kararları",
+  "decision_date": "2026-10-01",
+  "source": "https://araban.bel.tr/karar/01-10-2026-ve-05-10-2026-tarihli-55-56-57-ve-58-sayili-meclis-kararlari.html",
+  "official_document": "https://araban.bel.tr/uploads/files/WhatsApp%20Scan%202026-10-14%20at%2008-54-23.pdf",
+  "source_sha256": "5c2e95ef6bb200de0cc87177badb698df3c88910903f4b683d4580a60f6694e2",
+  "issuer": "Araban Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.10.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.10.2026 ve 05.10.2026 Tarihli 55,56,57 ve 58 Sayılı Meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://araban.bel.tr/karar/01-10-2026-ve-05-10-2026-tarihli-55-56-57-ve-58-sayili-meclis-kararlari.html"
+}
