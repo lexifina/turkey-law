@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2026/387",
+  "list_number": "387",
+  "decision_date": "2026-10-01",
+  "title": "Yüksek Seçim Kurulunun 01/10/2026 Tarihli ve 2026/387 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58015793/2026-387.pdf",
+  "source_sha256": "f6373bfdbda8ed3ce341d7faba0d46f2b348d9a1eadd410e6bb393030907c665",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2026-10-01",
+  "law_text_complete": false
+}
