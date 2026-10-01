@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/49969",
+  "submitted": "2026-10-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yücel BULUT",
+  "province": "Tokat",
+  "summary": "Tokat'taki nefroloji uzmanı eksikliğine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/53415b54-fd3d-4893-a511-01a0fb463dba",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "b800fc4ab4882c342a8f26739e2b3008a4398fc987b5074c4a8780fa59ade61c",
+  "in_force": "2026-10-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
