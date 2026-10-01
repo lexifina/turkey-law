@@ -1,0 +1,4 @@
+Tesis alacaklarının takibi ve tahsili
+MADDE 24 – (1) Tesis alacaklarının takip ve tahsilinden tesis müdürlükleri sorumludur. Alacakların takip ve tahsili aşağıdaki esaslar çerçevesinde yürütülür:
+a) Tesis alacağı ile ilgili dava açılması veya icra takibinde bulunulmasını isteyen tesis müdürlüğü, davaya yahut icra takibine ilişkin bilgi ve belgeleri, gerekçeli teklifleriyle birlikte, zamanaşımı ve hak düşürücü süreleri dikkate alarak doğrudan Jandarma Genel Komutanlığı Hukuk Hizmetleri Başkanlığına gönderir. Süresinde gönderilmeyen yahut eksik veya yanlış gönderilen belgelerden kaynaklanan hukuki ve cezai sorumluluk, tesis müdürlüğündedir.
+b) Tesis alacağı aynı zamanda suç teşkil eden bir eylemle irtibatlı ise soruşturmaya esas bilgi ve belgeler tesisin bağlı olduğu birlik, karargâh ve kurumlarca yetkili yer Cumhuriyet Savcılığına gönderilir. Kamu davasına müdahil olunmasına ilişkin talepler Jandarma Genel Komutanlığı Hukuk Hizmetleri Başkanlığınca değerlendirilir.

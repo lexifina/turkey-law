@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Jandarma Genel Komutanlığına ait vardiya yatakhaneleri, gazinolar, sosyal tesisler ve eğitim merkezlerinde uygulanacak; kadro, kuruluş, idare, denetleme ve işletme, verilecek hizmetler ve bu hizmetler karşılığında alınacak ücretler, istifade esasları, üye aidatı, istifade aidatı/kart ücreti alınması, ihtiyaçların tespit ve temini, elde edilen gelirlerin harcanacağı yerler, vergi mükellefiyetleri ve muafiyetleri, muhasebeye yönelik belge, kayıtlar ve işleniş şekilleri ile kiralamaya ilişkin usul ve esasları kapsar.
+(2) Jandarma ve Sahil Güvenlik Akademisi Başkanlığına bağlı tesisler bu Yönetmelik esaslarına tabi olarak hizmet verir.

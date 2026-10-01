@@ -1,0 +1,6 @@
+YEDİNCİ BÖLÜM
+Satın Alma, Muayene ve Muhasebe Esasları ile Belgeler
+Alımlar
+MADDE 31 – (1) Alımlar, 4734 sayılı Kanun hükümlerine uygun olarak mevcutsa tesislerin “satın alma heyeti” tarafından, kadrolarında olmaması halinde ise tesiste görevli personel arasından tesis müdürü tarafından görevlendirilen “satın alma heyeti” marifetiyle yapılır. Alım her durumda tesis müdürünün onayı ile kesinleşir. Ayrıca, alımlar tesisin bağlı olduğu birliklerce 4734 sayılı Kanun kapsamında oluşturulan kadrolu veya kadrosuz ihale komisyonu tarafından da gerçekleştirilebilir. Kadrosunda yeterli sayı veya nitelikte personel bulunmaması halinde Jandarma Genel Komutanlığına bağlı başka birlik ve kurumlardan veya diğer kamu kurumlarından komisyona üye alınabilir. Heyet üyelerinin oluşturulması, çalışması ve karar alınması konularında 4734 sayılı Kanun hükümleri uygulanır.
+(2) Doğrudan temin kapsamındaki alımlar ise kamu ihale mevzuatı hükümlerine uygun olarak tesis müdürü tarafından görevlendirilecek personel tarafından yapılabilir.
+(3) Tesisin işletilmesine esas yiyecek ve içecek malzeme alımları haricindeki ihtiyaçların tespitine ve tespit edilen ihtiyaçların alımına, yönetim kurulu ile tesis müdürü tarafından müştereken karar verilir.

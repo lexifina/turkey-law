@@ -1,0 +1,13 @@
+İdare
+MADDE 7 – (1) Tesisler, kadrolarına atanan veya görevlendirilen personel ile tesisin bağlı olduğu birlik komutanlığınca belirlenen yönetim kurulları tarafından yönetilir.
+a) Tesislerin yönetim kurulları; söz konusu tesisin bağlı olduğu birlik komutanlıklarınca, kendi bağlısı birlik, karargâh ve kurumlardan seçilecek en az biri subay olmak üzere üç asil ve biri subay olmak üzere iki yedek üyeden teşekkül eder. Üyelerin kıdemlisi yönetim kurulu başkanıdır. Başkanın katılamadığı toplantılara en kıdemli üye başkanlık eder. Yönetim kurulu her takvim yılı başında bir yıl süreyle görevlendirilir. Yönetim kurulu, ihtiyaç duyulması hâlinde, teşkilat bağlantısına göre aynı üst komutanlıklara bağlı diğer tesisler için de görevlendirilebilir. Müteakip yıllarda aynı üyelerin tekrar görevlendirilmesi mümkündür. Jandarma Genel Komutanlığınca gerekli görülmesi hâlinde özel eğitim merkezi komutanlıklarının yönetim kurulları, bulundukları illerdeki birliklerden de teşkil edilebilir.
+b) Yönetim kurullarının görevleri şunlardır:
+1) Tesisin kuruluş amaçlarına uygun olarak gelişmesini sağlamak,
+2) Tesisin gelir-gider durumlarını incelemek ve bu konuda değerlendirmede bulunmak, düzenleyeceği raporlar ve tablolar ile üyeleri ve üst komutanlığı bilgilendirmek,
+3) Hizmetlerin en iyi ve ucuz şekilde sunulmasını sağlamak,
+4) Yönetimi kolaylaştıracak tedbirleri almak,
+5) Yıllık ikmal planları ile yıllık ikmal planları dışında üst komutanlık emirleri, acil ihtiyaçlar gibi sebeplerle yapılacak alımlarla ilgili tesis yönetimi tarafından yapılan teklifleri incelemek ve uygun görmeyi müteakip gerek duyması hâlinde görüşleriyle birlikte, onaylanmak üzere tesisin bağlı olduğu birlik komutanına sunmak,
+6) Tesisin idari denetleme kurulunun denetimi sonucunda ortaya çıkan ihtiyaçlarının temini ile ilgili kararları almak,
+7) Tesislerde uygulanmak üzere, Jandarma Genel Komutanlığınca merkezi olarak yıllık belirlenen yatak, oda, motel, havuz, düğün salonu, salon kiraları ile kart ve günübirlik giriş ve benzeri ücretler dışındaki diğer ücretleri; muaddeller, malzeme fiyatları, tesisin konuş yeri, istifade oranları, benzer tesislerin fiyatları ve uygulanması gereken kâr oranları gibi hususlar değerlendirilerek ilgili tesis yönetimi tarafından yapılan teklifi de dikkate almak suretiyle belirlemektir.
+c) Yönetim kurulları en az üç ayda bir defa salt çoğunlukla toplanır. İhtiyaç hâlinde yönetim kurulu başkanının çağrısı ile üç aylık süre dikkate alınmaksızın toplantı yapılabilir. Yönetim kurulu kararları tesislerin bağlı olduğu birlik komutanının onayına sunulur.
+(2) Tesislerin idare ve işletilmesine ilişkin diğer hususlar Yönergede belirtilir.

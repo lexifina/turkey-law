@@ -1,0 +1,6 @@
+Belgelerin bastırılması, kontrolü, bilançonun onayı ve mali bilgilerin girişi
+MADDE 34 – (1) Belgelerin bastırılması ve kontrolü aşağıdaki esaslara göre yapılır:
+a) Ana dayanak ve yardımcı belgeler, bedelleri tesis gelirlerinden karşılanarak bastırılır.
+b) Kullanılan her türlü defter, fatura, fiş, bilet ve markalar tesis müdürünün emriyle muhasebe veya nakit ile ilgili bir başka kişi veya kurul tarafından üç ayda bir kontrol edilir.
+c) Kayıtların tutulmasından muhasebeci/muhasip, ünitedeki işletme kayıtlarından kısım amirleri, bilançonun doğruluğundan ise dönem/ay sonu envanterinin çıkarılıp bilanço ve kesin mizanın tesis müdürüne imzalatılmasını müteakip tesis müdürü dahil tüm heyet sorumludur.
+(2) Bilanço tesis müdürü tarafından onaylanır, müteakiben o aya ait bilanço, mizan, gelir tabloları ve diğer tüm harcama belgeleri teftişe hazır olacak şekilde muhasip tarafından dosyalanarak muhafaza edilir. Bilançonun onayını müteakip bilanço bilgileri ve tesisin kamu bütçesinden yaptığı elektrik, su, ısınma ve büyük bakım onarım giderleri muhasip tarafından bilanço dönemini takip eden ayın son gününe kadar Jandarma Genel Komutanlığı tarafından hazırlanan kantin ve tesis bilanço bilgileri programına kaydedilir.

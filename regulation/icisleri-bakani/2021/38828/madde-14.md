@@ -1,0 +1,4 @@
+Hazine payı
+MADDE 14 – (1) Eğitim merkezlerinin aylık gayrisafi hasılatının yüzde biri en geç takip eden ayın yirmisine kadar genel bütçeye gelir kaydedilmek üzere ilgili muhasebe birimine yatırılır. Hazine payları yatırıldığı ayın sonuna kadar Jandarma Genel Komutanlığına bildirilir.
+(2) Eğitim merkezlerinin bu kapsamda hesaplayacakları hazine payları takip eden ayın yirminci günü mesai bitimine kadar faaliyette bulundukları yerlerdeki Hazine ve Maliye Bakanlığına bağlı muhasebe birimlerine Yönergede gösterilen “Aylık Gayrisafi Hâsılattan Hazineye Yatırılacak Tutara İlişkin Bildirim” ile bildirilir ve aynı süre içinde yatırılır. Bahis konusu bildirim üç nüsha düzenlenir; iki nüshası muhasebe birimine verilir, bir nüshası ise tesiste muhafaza edilir.
+(3) Eğitim merkezlerince, aylık gayrisafi hasılattan hazine payı olarak hesaplanıp yatırılan tutarlar, ilgili muhasebe kayıtlarına ayrı hesaplarda takip edilecek şekilde kaydedilir.

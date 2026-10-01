@@ -1,0 +1,5 @@
+Kiralama işlemleri ve kira gelirleri
+MADDE 20 – (1) Tesislerde özel bir ihtisas gerektiren hizmetlerin; personel yetersizliği veya maliyeti nedeniyle verilememesi durumunda bu hizmetler, hizmet alımı veya kiralama yoluyla dışarıdan karşılanabilir. Aralarında kabul edilebilir doğal bir bağlantı olması hâlinde mal ve hizmet alımları birlikte yapılabilir.
+(2) Tesislerin kiraya verilmesi, işletilmesi, işlettirilmesi, mal ve hizmet alımı işlemleri tesis müdürlüklerince yerine getirilir. Bu şekilde elde edilen gelirler, genel bütçe gelirleri ile ilişkilendirilmeksizin tesis gelirlerine dâhil edilir.
+(3) Tesislerin kiraya verilmesi işlemleri 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununa uygun olarak, Yönergede açıklanacak esaslar ve/veya tip sözleşme esasları doğrultusunda gerçekleştirilir, kiralama süresi üç yılı geçemez.
+(4) Kiraya verilen tesis, ünite veya işletmelerin elektrik, su ve yakacak giderleri kiralayan firma tarafından ödenir. Bunun dışındaki işletmeler ile hizmet alımı, mal ve hizmet alımı usulüyle işletilen ünitelerin her yıl merkezi yönetim bütçe kanunu ile belirlenen giderleri genel bütçeden karşılanabilir.

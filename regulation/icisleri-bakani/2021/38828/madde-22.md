@@ -1,0 +1,3 @@
+Bağış, promosyon, sergi, fuar ve reklam gelirleri
+MADDE 22 – (1) Şarta bağlı bağışlar şart kapsamında; herhangi bir şarta bağlı olmaksızın tesislere yapılacak bağışlar, nakdi ise kasa veya banka hesaplarına, taşınır mal ise envanter kayıtlarına usulüne uygun muhasebe kaydı yapılarak alınır.
+(2) Tesisler adına firmalar ile yapılan sözleşmeler gereği alınan promosyon gelirleri ile sergi, fuar ve reklam gelirlerinin tamamı, mal veya nakit olarak muhasebe kayıtlarına usulüne uygun olarak eklenir. Bu hususların takibi tesis müdürünün sorumluluğunda olup, idari ve özel denetlemeler ile durum ve hesap teftişlerinde mutlaka aranır. Bunlarla ilgili diğer hususlar Yönergede belirtilir.
