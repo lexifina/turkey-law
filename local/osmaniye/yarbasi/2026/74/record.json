@@ -1,0 +1,23 @@
+{
+  "number": "74",
+  "number_as_published": "2026/74",
+  "year": 2026,
+  "title": "2026/22 SAYILI İMAR KOMİSYON RAPORUNUN GÖRÜŞÜLMESİ",
+  "decision_date": "2026-10-02",
+  "source": "https://www.yarbasi.bel.tr/mecliskararlari",
+  "official_document": null,
+  "source_sha256": "c95f14df7a9e7e27a5b9dc18352a3dd7f83e588d6e665f6b329b6ea771348021",
+  "issuer": "Yarbaşı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2026-10-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 2026-10-02 (TARİH in the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (subject, number, date and decision text as published in the official list)",
+  "official_page": "https://www.yarbasi.bel.tr/mecliskararlari"
+}
