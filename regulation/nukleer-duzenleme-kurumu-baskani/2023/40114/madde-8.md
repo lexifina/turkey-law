@@ -1,0 +1,7 @@
+Düzenleyici belgeler listesine ilişkin genel hususlar
+MADDE 8- (1) Nükleer tesise ilişkin faaliyetlerin yetkilendirilmesi süreçlerinde esas alınacak düzenleyici belgeler, niyet bildirimi alındıktan sonra Kurum tarafından DBL ile belirlenir.
+(2) DBL, asgari olarak radyasyondan korunma, güvenlik, emniyet ve nükleer güvenceye ilişkin Türkiye Cumhuriyeti mevzuatını, Uluslararası Atom Enerjisi Ajansının gerekler dokümanlarını ve Kurumun uyulmasını gerekli gördüğü ulusal ve uluslararası standartları içerir. DBL, Kuruluşun önermiş olduğu veya Kurum tarafından uygun görülen diğer ülkelerin veya uluslararası kuruluşların düzenleyici belgelerini de içerebilir.
+(3) Nükleer tesislerde radyasyondan korunma, güvenlik, emniyet ve nükleer güvenceye ilişkin Kurum tarafından yeni çıkarılan veya değişiklik yapılan düzenlemeler DBL’ye dâhil edilmiş, yürürlükten kaldırılan düzenlemeler DBL’den çıkarılmış sayılır.
+(4) Kuruluş DBL’de yer alan kendisi tarafından önerilmiş belgelerin elektronik kopyalarını orijinal dilinde Kuruma sunar. Kurumun talep etmesi hâlinde bu belgelerin İngilizce çevirilerini belirtilen süre içerisinde temin eder.
+(5) DBL’deki belgelerde yer alan hükümlerin Türkiye Cumhuriyeti mevzuatı ile çelişmesi durumunda Türkiye Cumhuriyeti mevzuatı esas alınır.
+(6) DBL’deki belgelerde yer alan hükümlerden sadece radyasyondan korunma, güvenlik ve emniyeti doğrudan veya dolaylı etkileyen hükümler, Kurum tarafından yetkilendirme süreçlerinde dikkate alınır. Bu durum, Kuruluşun diğer hükümlerle ilgili sorumluluklarını ortadan kaldırmaz.

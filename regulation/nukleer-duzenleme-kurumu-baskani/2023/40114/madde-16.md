@@ -1,0 +1,19 @@
+Saha süreci
+MADDE 16- (1) Saha süreci, saha onayına ve saha hazırlama iznine yönelik (Değişik ibare:RG-2/10/2026-33388) yer araştırmaları ile yetkilendirme yapıldıktan sonra sahada yürütülecek olan hazırlık ve inşaat faaliyetlerini ve faaliyetler kapsamındaki işleri içerir.
+(2) Kuruluş, saha süreci içerisindeki;
+a) (Değişik ibare:RG-2/10/2026-33388) Yer araştırmalarına,
+b) Sahadaki faaliyetlere yönelik yol, su, elektrik gibi altyapının geliştirilmesine,
+c) (Değişik ibare:RG-2/10/2026-33388) Yer araştırmalarında ve/veya inşaat sürecinde kullanılacak olan geçici yapıların yapımına,
+ilişkin işler için Kuruma bildirim yapar. Bu işlerin gerektirdiği durumlar dışında sahada hafriyat çalışması yapılamaz.
+(3) Kuruluş, sahanın nükleer tesis kurulmasına engel olacak bir özelliği olmadığının tespiti ve tesis tasarımına etkisi olan parametrelerinin değerlerinin belirlenmesi için, tesisin türüne ve niteliklerine göre gerekli (Değişik ibare:RG-2/10/2026-33388) yer araştırmaları ile veri analiz ve değerlendirme çalışmalarını yapar.
+(4) (Ek cümle:RG-2/10/2026-33388) Saha sürecindeki yer araştırmaları, Kuruluşun yönetim sisteminin ilgili mevzuat hükümlerine uygunluğunu gösteren dokümanların ve genel kalite temin dokümanının Kurum tarafından uygun bulunması ve yer araştırmalarına özel kalite temin dokümanının Kuruma sunulması sonrası başlatılabilir. (Değişik:RG-1/8/2024-32619) Saha sürecindeki faaliyetler ve faaliyetler kapsamındaki işler, onaylı kalite planları uyarınca yürütülür. İnşaat faaliyetleri ve faaliyetler kapsamındaki işler, ilaveten uygulama projeleri çerçevesinde yürütülür.
+(5) Kuruluş, (Değişik ibare:RG-2/10/2026-33388) yer araştırmalarına ilişkin işlere ait kalite planlarını ilgili araştırma başlamadan (Ek ibare:RG-2/10/2026-33388) en az yirmi iş günü önce Kuruma sunar.
+(6) (Ek:RG-2/10/2026-33388)[2] Saha raporunun gizlilik dereceli bilgileri ve ticari sır niteliğindeki hususları içermeyen bir özeti, halkın bilgisine sunulmak üzere Kuruluş tarafından hazırlanır ve Kuruma sunulur. Özet rapor, saha onayının verilmesinden sonra Kurum tarafından uygun görülen hâliyle Kurumun internet sitesinde yayımlanır.
+(7) (Değişik:RG-2/10/2026-33388) Saha onayı, yer özelliklerinden kaynaklanan güvenliği ve emniyeti etkileyebilecek hususların; mühendislik çözümleri, saha koruma önlemleri ve/veya idari önlemler ile giderilebileceği değerlendirildiği takdirde verilir.
+(8) Saha onayı on yıl süre ile geçerlidir. Bu süre zarfında bir sonraki yetkilendirme için başvuru yapılmadığı takdirde saha onayı geçerliliğini yitirir.
+(9) (Mülga:RG-2/10/2026-33388)
+(10) (Ek:RG-1/8/2024-32619)[3] Kuruluş, güvenlik açısından önemli olmayan yapıların zemin ve temel etütleri ve inşaat faaliyetleri ile güvenlik açısından önemli yapıların zemin ve temel etütleri, temel kazıları ve zemin iyileştirme faaliyetleri için (Değişik ibare:RG-2/10/2026-33388) ilgili mevzuat uyarınca BGŞ’lerden hizmet alır ve bu faaliyetler BGŞ gözetiminde yürütülür.
+(11) Saha hazırlama sürecine ilişkin olarak yetkilendirilen Kuruluş;
+a) Her türlü saha düzenlemeleri ile güvenlik açısından önemli olmayan kalıcı yapıların inşaatına, tesisatının kurulmasına ve işletmeye alınmasına ilişkin faaliyetleri ve faaliyetler kapsamındaki işleri başlatabilir. Nükleer santrallerde, üniteye özgü olmayan ortak kullanım amaçlı ve güvenlik açısından önemli olmayan kalıcı yapılar bu kapsamdadır.
+b) Sahada güvenlik açısından önemli yapıların temel kazılarını ve ilgili zemin araştırmalarını dikkate alan zemin iyileştirme çalışmalarını tamamlayabilir.
+c) (Değişik:RG-1/8/2024-32619) Yetki kapsamında sahada yürüteceği her bir işin başlatılmasından (Ek ibare:RG-2/10/2026-33388) en az yirmi iş günü önce işe ilişkin kalite planını ve güvenlik açısından önemli olmayan yapıların zemin ve temel etütleri ile inşaat faaliyetleri ve bu yapıların yangın projeleri için ayrıca BGŞ’nin uygunluk değerlendirmesi raporunu Kuruma sunar.

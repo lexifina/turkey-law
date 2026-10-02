@@ -1,0 +1,6 @@
+[1] 2/10/2026 tarihli ve 33388 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 14 üncü maddesinin beşinci fıkrasından sonra gelmek üzere altıncı fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+[2] 2/10/2026 tarihli ve 33388 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 16 ncı maddesinin beşinci fıkrasından sonra gelmek üzere altıncı fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+[3] 1/8/2024 tarihli ve 32619 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 16 ncı maddesinin sekizinci fıkrasından sonra gelmek üzere dokuzuncu fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+[4] 2/10/2026 tarihli ve 33388 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 22 nci maddesine birinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+[5] 2/10/2026 tarihli ve 33388 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 26 ncı maddesinin birinci fıkrasının (c) bendinden sonra gelmek üzere (ç), (d), (e), (f), (g) bentleri eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
+[6] 2/10/2026 tarihli ve 33388 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 26 ncı maddesinin birinci fıkrasından sonra gelmek üzere ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
