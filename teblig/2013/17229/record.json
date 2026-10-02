@@ -1,0 +1,92 @@
+{
+  "source_id": "9.5.17229",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİ",
+  "number": "17229",
+  "path": "teblig/2013/17229",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17229&MevzuatTertip=5",
+  "source_sha256": "a2b7d8a0f8b1ff27cf21a265f3a9c5861814b178278be3559fc0d6589d2b1c69",
+  "source_bytes": 1971802,
+  "published": "2013-03-24",
+  "gazette": "28597",
+  "in_force": "2026-10-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-02",
+      "RG-2/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-08-29",
+      "RG-29/8/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-07-01",
+      "RG-1/7/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-06-29",
+      "RG-29/6/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-05-23",
+      "RG-23/5/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-08",
+      "RG-8/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-01-17",
+      "RG-17/1/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-31",
+      "RG-31/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-10",
+      "RG-10/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-11-25",
+      "RG-25/11/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-17",
+      "RG-17/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-10",
+      "RG-10/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 126731,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "unsaved://ThtmlViewer.htm/%5b1%5d27|13814|0|1",
+    "9.5.17229-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
