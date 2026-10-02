@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.46317",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UYDU VE YER TABANLI RADYO SEYRÜSEFER SİSTEMLERİ VE GÖZETİM SİSTEMLERİ UÇUŞ KONTROL YÖNETMELİĞİ (SHY-UK)",
+  "number": "46317",
+  "issuer": "Sivil Havacılık Genel Müdürü",
+  "issuer_slug": "sivil-havacilik-genel-muduru",
+  "path": "regulation/sivil-havacilik-genel-muduru/2026/46317",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46317&MevzuatTertip=5",
+  "source_sha256": "ddab59824d12eb009ecbdea60c5df658d72c2194bc5c0c7a05d1b2bee99e4653",
+  "source_bytes": 95973,
+  "published": "2026-10-02",
+  "gazette": "33388",
+  "in_force": "2026-10-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.10.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2926,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
