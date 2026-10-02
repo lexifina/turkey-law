@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.14736",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TURİZM AMAÇLI SPORTİF FAALİYET YÖNETMELİĞİ",
+  "number": "14736",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2011/14736",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14736&MevzuatTertip=5",
+  "source_sha256": "3c1eb551797f3e5f8621a192f0c4c1537a3b7d7c30b893e539eb5c86a221d9cb",
+  "source_bytes": 53227,
+  "published": "2011-02-23",
+  "gazette": "27855",
+  "in_force": "2026-10-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-02",
+      "RG-2/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-02",
+      "2/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-25",
+      "RG-25/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-25",
+      "25/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-01",
+      "RG-1/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-01",
+      "1/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2246,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

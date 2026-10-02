@@ -1,0 +1,5 @@
+İzin
+MADDE 9 – (Değişik:RG-1/6/2018-30438)
+(1) İşletmeler, her turizm amaçlı sportif faaliyet türü için ayrı ayrı olmak üzere, bu Yönetmelikte belirtilen şekilde valilikten izin alır. Bu izin bir yıldan az olmamak üzere talep doğrultusunda, faaliyet türü, parkur alanının genel ve özel şartları da göz önünde bulundurularak en fazla beş yıla kadar verilebilir.
+(2) Denizde gerçekleştirilecek turizm amaçlı su üstü ve su altı sportif faaliyetler için valilikten alınan deniz turizmi aracı işletmesi belgesi, izin belgesi yerine geçer.
+(3) Tesis önünde belirlenen parkurlar dışında yer alan ve bir işletmeye verilecek parkur için birden fazla işletme tarafından başvuruda bulunulması durumunda, yeterliliği uygun görülen işletmelerden altyapı hizmetlerine en çok katkı payı veren işletmeye izin verilir. Bu katkı payı Bakanlık Döner Sermaye İşletmesi Merkez Müdürlüğü hesabına yatırılır. Helikopterli kayak (Heliski) için belirlenen parkur alanında turizm amaçlı sportif faaliyette bulunabilme izni tek bir acentaya verilir.
