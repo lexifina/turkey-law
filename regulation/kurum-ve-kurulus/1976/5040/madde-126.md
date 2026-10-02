@@ -1,0 +1,2 @@
+Noter odalarına uygulanacak yönetmeliğin diğer hükümleri:
+Madde 126 - Noter odaları hakkında konulan hükümler dışında, Türkiye Noterler Birliği Kongresi ve Yönetim Kuruluna ilişkin bu yönetmelik hükümlerinden, Kanuna aykırı olmayanlar, noter odaları genel kurul ve yönetim kurulları için de uygulanır ancak, oda yönetim kurulunun toplantı, görüşme ve tutanak usulü Türkiye Noterler Birliği Başkanlık Divanında uygulanan esaslara göre yapılır.

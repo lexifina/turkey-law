@@ -1,0 +1,8 @@
+Çevirme işlemleri
+Madde 96 - Belgelerin bir dilden diğer dile veya bir yazıdan başka bir yazıya çevrilmesine ve noterlikçe onaylanmasına çevirme işlemi denir.
+Noterin, çevirmeyi yapanın o dili veya yazıyı doğru olarak bildiğine, diplomasını veya diğer belgelerini görerek veya diğer yollarla ve hiçbir tereddüde yer kalmayacak şekilde kanaat getirmesi gerekir.
+Noterlik Kanununun 75. maddesinin son fıkrası gereğince noter tercümana Hukuk Yargılama Usulü Kanununa göre and içirir. Bunun bir tutanakla belgelendirilmesi zorunludur. Bu tutanakta tercümanın adı, soyadı, doğum tarihi, iş adresi, ev adresi, tahsil derecesi, hangi dil veya dilleri, hangi yazıyı bildiği, noterin çevirenin bu dil ve dilleri veya yazıyı bildiğine ne suretle kanı sahibi olduğu, yemin biçimi ve tutanağın tarihini gösterir. Tutanağın altı noter ve tercüman tarafından imzalanır.
+Kendisine çevirme yaptırılan kimselerin yemin tutanakları noterlik dairesinde özel bir kartonda saklanır. Noter, kartonunda yemin tutanağı bulunmayan bir kimseye çevirme yaptıramaz.
+Noter tarafından ilgilisinden alınan çevirme ücretleri noterlik dairesinin gelirlerinden olup, yevmiye defterine gelir olarak kaydedilir. Noterin çevirene ödediği parada dairenin giderlerindendir.
+Çevirme ücreti hesaplanırken, çevrilmesi istenilen yazının sayfaları değil, çevirme yapıldıktan sonra noter tarafından yazdırılan değerli kağıdın sayfa sayısı esas tutulacaktır.
+Çevirme işleminin, ilgilinin bulunduğu yer noterliğinde yaptırılması mümkün bulunmayan hallerde, o noterlik aracılığı ile başka bir yer noterliğinde çevirme yaptırılabilir. Bu takdirde, ilgiliden ayrıca, aracılık ücreti de tahsil olunur.

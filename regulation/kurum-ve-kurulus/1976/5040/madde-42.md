@@ -1,0 +1,2 @@
+Stajyer defteri:
+Madde 42 - Noter odaları, bölgelerindeki stajyerlerin durumunu gösteren bir defter tutarlar. Bu deftere stajyerin adı, soyadı, doğum tarihi ve yeri, adresi, bitirdiği okul, staj için müracaat ettiği tarih, kabul tarihi, staj yaptığı noterlik ve aldığı ücret ile stajın sonucu ve stajyer hakkında tanzim edilen rapor özetleri, imza yetkisi verilmişse tarihi ve vekalet ettiği noterlik adı ve süresi kaydolunur.

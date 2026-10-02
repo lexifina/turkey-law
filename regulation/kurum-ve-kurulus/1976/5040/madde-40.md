@@ -1,0 +1,2 @@
+Noter Odası üye kayıt defteri:
+Madde 40 - Noter odasına bağlı noterliklerde görev yapan noterlerin üye olarak kaydedildiği defterdir. Bu defterde her notere bir sayfa ayrılır. Sayfanın sağ başına fotoğraf, altına noterin adı, soyadı, odaya kayıt numarası, noterliğin adı, noterlik doğum tarihi, doğum yeri, noterliğe ilk tayin edildiği tarih ile nakli varsa geldiği veya gittiği noterlik, giriş alda tına ait makbuzun tarih ve numarası ve düşünceler sütunu ile noterin, her türlü tatbike medar olacak imzası ve mühürünü ihtiva etmesi gerekir.

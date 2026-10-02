@@ -1,0 +1,2 @@
+Sabit eşya ve demirbaşların kullanılması:
+Madde 58 - Sabit eşya ve demirbaşlar, demirbaş defterine kaydedilerek numaralanır. Noterler ofisten sağlanan yazı ve hesap makinesi ile sair büro malzemelerini bir liste halinde bağlı bulunduğu odaya derhal bildirmek zorundadır. Bunlar devlet dairelerindeki esaslara göre miadı dolmadıkça elden çıkarılamazlar. Bunun aksine hareket eden disiplin cezası ile cezalandırılır.

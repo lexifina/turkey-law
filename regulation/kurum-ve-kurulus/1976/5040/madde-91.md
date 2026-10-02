@@ -1,0 +1,4 @@
+Yeteneğin tesbiti:
+Madde 91 - Noterin ilgilinin yeteneği hakkında bir kanı sahibi olması gereklidir. Temyiz kudretine sahip bulunan ve işlemin niteliğine göre gerekli yaşa girdiği anlaşılan herkes hukuki işlemleri yapmaya ehil olup, bu yaş resmi belge ile saptanır. Tanık veya kanı ile yaş tespit edilemez.
+İlgilinin yaşlılık, hastalık veya dış görünüşü itibariyle yeteneğinden şüphe edilmesi veya bu konuda ihbar ve şayet bulunması hallerinde temyiz kudretinin varlığı doktor raporu ile saptanır. Bu takdirde metnin içinde tarih ve numarası ile rapordan bahsedilir, raporun aslı işlemin noterde kalan nüshasına eklenir.
+Hukuki işlerin belgelendirilmesi anında ilgili iradesini serbestçe ve kendi isteğine uygun olarak beyan etmelidir. Beyanın tam ve eksiksiz olarak yazılması gereklidir. Yapılan işlemin niteliğine göre gerekli soruların sorularak işlemin sonucu hakkında ilgiliye açıklama yapılması gereklidir.

@@ -1,0 +1,4 @@
+Emanetlerin kabul, saklanma ve iadesi:
+Madde 107 - Her türlü emanet, Noterlik Kanununun 101 inci maddesine göre düzenlenecek bir tutanak ile kabul edilir. Bu tutanakta ayrıca, emanetin nitelikleri, biliniyorsa gerçek değeri, değeri tam olarak bilinmiyorsa tahmini değeri, ne süre saklanacağı, kime ve ne zaman iade olunacağı ve iade şartları da gösterilir.
+Emanetlerin saklanması, süre sonunda hak sahibine iadesi, giderlerin ödenmemesi veya emanetin geri alınmaması halleriyle hazineye devri konusunda Noterlik Kanununun emanetlere ilişkin 62 ve müteakip maddeleri uyarınca işlem yapılır.
+Emanet paranın noterliğe tevdi olunduğunun en geç ertesi iş günü, bu yönetmelikte teminat paralanın yatırılması belirtilen milli bankalardan birinde açtırılacak noterlik emanet cari hesabına yatırılması zorunludur. Bir noterliğe ait emanet paraların tek bir hesapta toplanması gerekir.

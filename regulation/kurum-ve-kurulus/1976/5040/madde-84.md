@@ -1,0 +1,4 @@
+Denetime başlama:
+Madde 84 - (Değişik birinci fıkra:RG-20/12/1995-22499) Denetimin ilgili dairenin çalışma saati içinde ve mesai saatlerine riayet olunarak yapılmasına gayret edilir. Denetimi yapacak kimse, denetlenen dairenin yetkilisine, kimlik kartı veya yetki belgesini gerektiğinde veya istendiğinde gösterir.
+(Değişik ikinci fıkra:RG-20/12/1995-22499) Hizmetin gereği gibi yürütülebilmesi için denetimi yapan kimsenin sıfatına yakışır uygun bir yer sağlanır. Göreve başlandığında başlama tutanağı düzenlenir ve altı, denetimi yapan kimse ile dairenin yetkilisi tarafından imzalanır. İki nüsha düzenlenen bu tutanağın bir nüshası dosyasına konmak üzere daire yetkilisine verilir.
+Noter, denetimden beklenen sonucun elde edilmesi için gerekli kolaylıkları göstermek suretiyle deneticiye yardımcı olur. Özellikle istek halinde hizmeti aksatmamak şartı ile eleman, yazı makinesi vesaire tahsis edilir.

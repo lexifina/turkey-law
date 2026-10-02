@@ -1,0 +1,1 @@
+Madde 35 - Vasiyetnamelerin tescil konusunda bir usul kurulmasına dair Avrupa Sözleşmesi uyarınca tescil gereken vasiyetnamelere iliş kin bilgiler sözleşmede yazılı olduğu şekilde bu defterlere işlenir. Bu defter de 33 üncü maddedeki usule göre onaylanır.

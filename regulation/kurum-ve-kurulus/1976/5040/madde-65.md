@@ -1,0 +1,3 @@
+Yapıldıkları ülke dışında kullanacak noterlik işlemlerinde mühür ve imza onayı
+Madde 65 - Türkiye’de yapılıp yabancı memleketlere gönderilecek noterlik işlemlerinin altındaki mühür ve imza o noterliğin bulunduğu yer Valiliğince onanır. Ancak, onama sadece imza ve mühüre ait olup işlemin münderecatına şamil değildir. İşlem ile, dışarıda iş görülecek ise, işin görüleceği dış memleketin Türkiye’deki temsilciliğince yapılması gerekli muamelenin işin ilgilisince yaptırılması iş sahibine noterlikçe duyurulur.
+(Değişik ikinci fıkra:RG-12/6/2012-28321) Yabancı memleketlerde usulü uyarınca yapılan noterlik işlemlerinin altındaki o memleketin yetkili merciinin imza ve mühürü konsolos tarafından onanır. Özel kanun hükümleri saklıdır.

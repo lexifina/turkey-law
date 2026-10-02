@@ -1,0 +1,7 @@
+Disiplin Kurulunun toplanma usulü:
+Madde 128 - Kurul ayda bir ve üye tam sayısının salt çoğunluğu ile toplanır. Birlik Başkanının veya Disiplin Kurulu Başkan yahut üyelerinden birinin isteği ile kurul acele hallerde her zaman olağanüstü toplantıya çağrılabilir.
+Her olağan toplantı sonunda, gelecek toplantının günü kararlaştırılır. Ayrıca, toplantı günü, üyelere çağın mektubuyla bildirilir. Engeli sebebiyle toplantıya katılamayacak üye veya Başkan en az 7 gün önce engelini Baş kanlığa bildirir.
+Olağanüstü toplantı yapılmasını gerektiren hallerde, Başkan üyeleri en seri vasıta ile toplantıya çağırır. Ancak telefonla çağın halinde bunun derhal yazı ile teyidi şarttır. Keza, olağanüstü toplantılarda engel bulunan üyenin bunu telefonla bildirmesi halinde aynı gün yazı ile de bildirmesi gerekir.
+Haklı engeli belgelendirmeden üst üste üç toplantıya gelmeyen üye istifa etmiş sayılır. Engelin haklı olup olmadığına; müteakip toplantıda; kurul karar verir. Kurul gerekli görürse ilgili üyeden bilgi alır.
+Kurul Başkan ve üyelerinden biri hakkında yapılmış olan şikayetler üzerine ilgili, kurulun bu kovuşturma ile a1 çalışmalara katılamaz. Bu yüzden açılacak üyelikler yedekleri tarafından, onlarında engeli olmaları halinde Türkiye Noterler Birliği Yönetim Kurulunda görevli, engeli olmayan en kıdemli Noter tarafından doldurulur.
+Başkanın bulunmadığı hallerde kurula, noterlikte en kıdemli üye Başkanlık eder.

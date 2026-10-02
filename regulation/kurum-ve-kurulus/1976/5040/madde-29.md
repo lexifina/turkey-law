@@ -1,0 +1,4 @@
+Noterler sicil defteri:
+Madde 29 - Noterler sicil defterinde her noter ayrı bir sayfaya kaydedilir. Bu defter sıra numarası, sicil numarası, noterin adı ve soyadı, doğum yeri, doğum tarihi, noterliğe başladığı tarih, bulunduğu noterliklerin adları, göreve başlama ve ayrılma tarihleri, ne suretle atandığı, ayrıldığı ve düşünceler sütunlarını kapsar.
+Bu Yönetmeliğin yürürlüğe girdiği tarihte noter olanlara Adalet Bakan lığınca kıdemlerine göre sicil numarası verilir. Daha sonra noterliğe atananlara da işe başlama tarihlerine göre sicil numarası verilir.
+Sicil numarası bulunan bir kimse noterlikten ayrılıp, tekrar noterlik görevine atanması halinde eski sicil numarasını alır. Yönetmeliğin yürürlüğe girmesinden önce meslekten ayrılmış olup ta, yeniden noterliğe atananlar yeni sicil numarası alırlar.

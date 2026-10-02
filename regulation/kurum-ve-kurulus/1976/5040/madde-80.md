@@ -1,0 +1,2 @@
+Ortak Cari Hesaba Giren İşlemlerde Örnek Verme (Değişik madde başlığı:RG-20/12/1995-22499)
+Madde 80 - Noterlik Kanununun 109 uncu maddesi kapsamına giren işlerden işlemin yapıldığı sırada fazla örnek İstenmesi halinde bu örnekler aynı gün ve yevmiye numarası altında verilir. Ancak başka bir gün örnek istenirse esas işlemden ayrı tarih ve yevmiye alacağı cihetle işlem yalnız örnek işlemi olarak kabul edilir, hasıl olan noterlik geliri işlemi yapan notere ait olur.

@@ -1,0 +1,4 @@
+Yetki dereceleri ve İmza yetkisinin geri alınması
+Madde 75 - Noter, stajyerine, başkatip ve katip imza yetki si verdiği takdirde, bu yetkilerin öncelik sırasını yetki belgelerinde gösterir, İmza yetkisi birinci, ikinci ve üçüncü derecede olabilir. Bir önceki derecede imzaya yetkili kişi daha sonraki derecedekilerin önünde gelir.
+Noterin herhangi bir sebeple görevi başında bulunmadığı sırada evrak, öncelikle imzaya yetkili kimse tarafından noter adına imzalanır. Bu takdirde imza yerine yetkili şahsın ismi ve sıfatı yazılır.
+Noter gerekli gördüğü takdirde imza yetkisini her zaman geri alabilir ve keyfiyeti ilgiliye yazılı olarak tebliğ eder. Ayrıca noter yetkinin geri alındığını Cumhuriyet Savcılığı aracılığı ile Adalet Bakanlığına, Valiliğe, Türkiye Noterler Birliği ve Noter Odasına bildirmek zorundadır. Noter gerekli görürse İmza yetkisinin geri alındığını ve tarihini, giderleri kendisine ait olmak üzere bir gazete ile ilanını noter odasından isteyebilir.

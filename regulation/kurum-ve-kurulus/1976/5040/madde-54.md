@@ -1,0 +1,3 @@
+Personel sicil ve izin defteri
+Madde 54 - Noterlik dairesinde çalışan personele ait bilgilerin kaydedildiği defterdir. Bu defterde her katip ile aday ve hizmetli için karşılıklı iki sayfa ayrılır. Sayfanın sol baş tarafına ilgilinin fotoğrafı yapıştırılır. Defterde adı soyadı, doğum tarihi ve yeri, baba ve anasının adı, öğrenim durumu, sicil numarası, iş yeri numarası, sigorta sicil numarası, işe giriş tarihi, ücreti, ücretindeki değişiklikler işten ayrılma nedeni ve tarihi, geldiği iş yeri ve görevler, bu noterlikte aldığı disiplin cezaları, daha önce aldığı disiplin cezaları sütunları bulunur. (Örnek 4)
+İş Kanununa göre ayrıca ücretli izin defteri tutulur.

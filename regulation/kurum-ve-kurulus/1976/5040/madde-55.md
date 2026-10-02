@@ -1,0 +1,3 @@
+Demirbaş eşya defteri:
+Madde 55 - Özel kanuna göre tutulur. Mesleki faaliyetin ifası için noterin zati eşyası ile noter tarafından daire hizmetine tahsis edilmiş taşınır ve sabit eşya ve malzemenin tümü bu deftere yazılır. Bu eşyalardan amortismana tabi olanlar ayrı bir bölüme, amortismana tabi olmayanlar ise ayrı bir bölüme kaydedilir.
+Bu defterin ayrı bir bölümüne noterlikte kullanılan mühür, başlık, kaşe gibi malzemelerin kaydedilmesi zorunludur. Bunların iptali halinde yenileri kaydolunur. İptal olunanların karşısına iptal edildiği yazılar ve iptal olunanlar imha edilmek üzere noter odasına gönderilir.

@@ -1,0 +1,4 @@
+Madde 125 - Görevini yapmayan ve Birlik Yönetim Kurulu kararlarına uymayan oda başkan veya yönetim kurulu üyeleri hakkında aşağıdaki şekil de işlem yapılır.
+Türkiye Noterler Birliği Yönetim Kurulu görevlendireceği bir veya bir kaç denetici aracılığı ile o odaya ait evrak ve sair işlemlere el koyar ve oda yönetim kurulu başkan veya üyeleri hakkında soruşturmaya girişir. Gerekirse ilgilileri her zaman işten geçici olarak yasaklayabilir.
+Gerekli görüldüğünde, Türkiye Noterler Birliği Yönetim Kurulu Noterlik Kanununun 186 ncı maddesinin son fıkrası delaletiyle 176 ncı maddesinin son fıkrası gereğince oda genel kurulunu, 188 nci maddenin birinci fıkrasında yazılı konuyu ihtiva eden gündemi görüşmek üzere olağanüstü toplantıya çağırır.
+Türkiye Noterler Birliği Yönetim Kurulu yetkili temsilcisi olağanüstü oda genel kuruluna gündem hakkında gerekçeli izahat verir. Oda Yönetim Kurulu çalışma raporunu genel kurula sunar ve gerekli açıklamada bulunur.

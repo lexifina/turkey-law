@@ -1,0 +1,2 @@
+Noterler sicil cüzdanı:
+Madde 30 - Noterler sicil cüzdanı her noter için ayrı bir defter halinde tutulur. Bu defterde noterin fotoğraf yeri ile sicil numarası, kimliği, öğrenim ve askerlik durumu, eserleri, bildiği yabancı diller, ne suretle noterliğe atandığı, bulunduğu noterlikler ve bu noterliklere başlama ayrılma tarihleri, no terliğe atanmasından önce bulunduğu görevler, aldığı madalya ve ödüller, sağlık durumu, Adalet Müfettişliğince yapılan teftiş sonuçları, fahri olarak yaptığı görevler ve düşünceler sayfa ve sütunları bulunur.

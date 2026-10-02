@@ -1,0 +1,2 @@
+Noterliğin tevdi mahalli olarak tayini:
+Madde 108 - Borçlar Kanununun 91 inci maddesinin söz konusu olduğu hallerde, noterliğin emanet parayı kabul edebilmesi için mahkemece tevdi mahalli olarak tayin edilmesi şarttır. Bu taktirde mahkeme kararının istenmesi, emanet tutanağı ve emanet defterine, kararı veren mahkemenin adı ile kararın tarih ve sayısının da yazılması zorunludur. Ancak Türk Ticaret Kanununun 624 - 690. maddelerine göre kambiyo senetleri bedellerinin notere tevdii halinde hakim kararı aranmaz.

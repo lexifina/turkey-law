@@ -1,0 +1,4 @@
+Stajın ne suretle yapılacağı
+Madde 68 - Stajyer çalıştığı noterlikte, noterlik dairesinin mevcut servislerinde, noterin gerekli göreceği sıraya göre ve tensip edeceği sürelerde çalışmak zorundadır.
+Noterlik stajı, işlemin neve’ine göre harç, damga vergisi vesair ücretlerin hesaplanması, yevmiye defteri tutulması vezne, hesap işleri ve işlemler servisinde çalışılması ile noterlik dairesinin genel gözetimi hususlarını kapsar.
+Noterlik staj ı bir yıldır. Ancak, stajyer ilk altı ayda, staj yaptığı no terliğin bütün servislerinde stajı tamamlayacaktır. İkinci altı aylık devrede, Noterlik Kanununun 33 üncü ve müteakip maddeleri ile kendisine verilen görevleri yapmak zorunda olduğundan bütün servislerin çalışması hakkında genel bilgileri kazanmış olması gerekir. Noter, stajyerin yetişmesi için lüzumlu göreceği tedbirleri alır.

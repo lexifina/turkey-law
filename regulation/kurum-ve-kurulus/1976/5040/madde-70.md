@@ -1,0 +1,3 @@
+Stajyerlerin görev ve sorumlulukları
+Madde 70 - Noterlik Kanununa göre kendisine imza yetkisi veya vekalet görevi verilen staj yerler, bu Kanunun sekizinci kısmında yer alan işlerin hepsini yapmakla görevlidirler.
+Stajyerler yaptıkları işlerden dolayı o işin asıl görevlisi gibi sorumludurlar. Ayrıca, mesleğin vekar ve onuruna aykırı eylem ve hareketler- de bulunanlarla, görevini yapmayan veya kusurlu olarak yapan yahutta görevinin gerektirdiği güveni sarsıcı hareketlerde bulunan staj yerler hak kında, noterlik hizmetlerinin gereği gibi yürütülmesi ve staj dan beklenen maksadın hasıl olması amacı ile durumun niteliğine ve ağırlık derecesine göre Noterlik Kanununun 146 ncı maddesinde yazılı disiplin cezaları verilir.

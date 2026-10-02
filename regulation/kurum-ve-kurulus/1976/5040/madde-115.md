@@ -1,0 +1,8 @@
+Türkiye Noterler Birliği Yönetim Kurulu
+Madde 115 - (Değişik:RG-30/4/1980-16975)
+Türkiye Noterler Birliği Yönetim Kurulu yedi üyeden kurulur ve dört yıllık bir süre için Türkiye Noterler Birliği Kongresi tarafından seçilir. Kurulun dörtte yedek üyesi bulunur. Şu kadarki asıl ve yedek üyelerin yarısı iki yılda bir ve dört yıl için yenilenir.
+Noterlik Kanununun 170 inci maddesi hükmüne göre kongrece seçilen Yönetim Kurulu, seçimi izleyen ilk toplantısında aralarında gizli oyla Başkan, Başkan Yardımcısı, Genel Sekreter ve Sayman üyeyi seçerler. Yönetim Kurulu bu toplantısında genel sekreter veya saymanın veya her ikisininde dışardan alınmasına karar verebilir.
+Başkanlık Divanı Üyelerinden birinin veya birkaçının süresinin bitmesi sebebiyle boşalan divan üyeliğine Yönetim Kurulunun yeni seçimleri takip eden ilk oturumunda gizli oyla seçim yapılır. Seçim dönemi sona ermeden Yönetim Kurulu Başkan ve üyelerinden birinin ayrılması halinde, göreve çağrılan yedek üyenin görevi, ayrılan asil üyenin seçim dönemi sonuna kadar devam eder.
+Genel Sekreter veya sayman veya her ikisinin de dışardan alınmasına karar verilmişse bunların dışındaki başkanlık divanı üyeleri ve başkan seçimi yapılır. Dışarıdan atanacak genel sekreter veya saymanın göreve başlamasına kadar Yönetim Kurulu bu görevlerin geçici olarak üyelerince görülmesine karar verir.
+Yönetim Kurulu dışarıdan alınacak genel sekreter veya saymanın nitelikleri, çalışma süresi ve ücretlerini tespit ve atamalarını yapar.
+Dışardan atanan Genel Sekreter ve dışardan atanan sayman Yönetim Kurulu toplantılarına katılırlar. Ancak, oya iştirak edemezler.
