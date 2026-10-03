@@ -1,0 +1,7 @@
+Sınav komisyonu
+MADDE 13- (1) Başvuruların incelenmesi, giriş sınavının gerçekleştirilmesi, sonuçlarının ve itirazların değerlendirilmesi ile adayların ilan edilen niteliklere uygunluğundan sınav komisyonu sorumludur.
+(2) Sınav komisyonu; Başkanın veya Başkanın görevlendireceği başkan yardımcısının başkanlığında, İnsan Kaynakları Dairesi Başkanı ve Başkan tarafından Başkanlıktan görevlendirilecek üç üye olmak üzere toplam beş kişiden teşekkül eder. Başkan tarafından Başkanlıktan iki yedek üye de belirlenir. Lüzum görülmesi halinde, öğretim üyeleri ile kamu kurum ve kuruluşlarından konusunda uzman kişiler Komisyon üyesi olarak görevlendirilebilirler. Ancak bu şekilde görevlendirilecek üye sayısı ikiyi geçemez.
+(3) Sınav komisyonunun başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve ikinci dereceye kadar (bu derece dâhil) kayın hısımlarının veya evlatlıklarının katıldıkları sınavda görev alamazlar.
+(4) Sınav komisyonu, üye tamsayısıyla toplanır ve oy çokluğu ile karar alır.
+(5) İsimleri ilan olunan adaylardan, gerçeğe aykırı bilgi verdiği veya belge sunduğu tespit edilenler giriş sınavına alınmaz. Sınava girmiş olanların sınavları geçersiz sayılır. Sözleşme yapılmış olsa dahi sözleşmeleri feshedilir. Bu kişiler, hiçbir hak talep edemezler ve haklarında suç duyurusunda bulunulur.
+(6) Sınav komisyonunun sekretarya hizmetleri İnsan Kaynakları Dairesi Başkanlığı tarafından yürütülür.

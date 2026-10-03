@@ -1,0 +1,4 @@
+Başvuru şekli ve yeri
+MADDE 12- (1) Giriş sınavına veya yerleştirme işlemine başvuru; şahsen, elden veya posta yoluyla ilanda belirtilen adrese veya ilanda belirtildiği takdirde internet erişimi üzerinden başvuru formu kullanılarak yapılabilir.
+(2) Posta yoluyla yapılan başvurularda istenilen belgelerin son başvuru tarihinin mesai saati bitimine kadar Başkanlık evrak birimine ulaşmış olması gerekir. Postadaki gecikme nedeniyle son başvuru tarihinden sonra Başkanlık evrak birimine ulaşan başvurular ile ilanda belirtilen süre içerisinde yapılmayan başvurular işleme konmaz.
+(3) Başvurudan göreve başlamaya kadar tüm aşamalarda adaylara yapılacak bilgilendirme ve çağrılar, ilanda belirtilmesi halinde adayların başvuru sırasında bildirdikleri elektronik posta adreslerine veya Başkanlığın resmî internet sitesinde duyuru yoluyla yapılabilir. Bu durumda ayrıca fiziksel olarak herhangi bir yazışma yapılmaz.

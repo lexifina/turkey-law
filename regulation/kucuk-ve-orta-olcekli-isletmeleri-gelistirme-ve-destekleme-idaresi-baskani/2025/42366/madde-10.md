@@ -1,0 +1,7 @@
+Giriş sınavı ve yerleştirme
+MADDE 10- (1) Giriş sınavı ve yerleştirme, Başkanlıkça uygun görülecek zamanlarda ihtiyaç duyulan pozisyonlar için yapılır. Yerleştirme işleminde ilanda belirtilen kadro sayısı kadar yedek aday belirlenebilir.
+(2) Giriş sınavı, Başkanlık tarafından yapılacak yazılı ve/veya sözlü sınavdan oluşur.
+(3) Giriş sınavının yazılı ve sözlü olarak iki aşamalı yapılması halinde yazılı sınava alım yapılacak her bir pozisyon unvanı için ayrı ayrı olmak üzere KPSS puanı en yüksek olan adaydan başlamak suretiyle ilan edilen pozisyon sayısının on katı kadar aday sınava çağrılır. Yazılı sınavdan 100 üzerinden 70 ve üzeri puan alan adaylardan; en yüksek puan alandan başlamak üzere öğrenim dallarına göre atama yapılacak pozisyon sayısının en fazla dört katına kadar aday sözlü sınava çağrılır. Yazılı sınav sonucuna göre sözlü sınava girme hakkını kazananlar, Başkanlığın resmî internet sitesinde duyurulur.
+(4) Giriş sınavının sadece yazılı veya sadece sözlü sınav şeklinde yapılması halinde alım yapılacak her bir pozisyon unvanı için ayrı ayrı olmak üzere KPSS puanı en yüksek olan adaydan başlamak suretiyle ilan edilen pozisyon sayısının dört katı kadar aday sınava çağrılır.
+(5) Yapılan sıralama sonucunda son sıradaki aday ile eşit puana sahip diğer adaylar da giriş sınavına çağrılır.
+(6) Giriş sınavına başvurusu kabul edilen adayların isim listesi, sınav giriş yeri ve tarihi, son başvuru tarihinden itibaren en geç yirmi gün içerisinde Başkanlığın resmî internet sitesinde duyurulur.

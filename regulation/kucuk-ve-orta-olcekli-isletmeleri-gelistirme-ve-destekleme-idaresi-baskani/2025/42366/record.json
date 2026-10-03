@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.42366",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KOSGEB İNSAN KAYNAKLARI YÖNETMELİĞİ",
+  "number": "42366",
+  "issuer": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanı",
+  "issuer_slug": "kucuk-ve-orta-olcekli-isletmeleri-gelistirme-ve-destekleme-idaresi-baskani",
+  "path": "regulation/kucuk-ve-orta-olcekli-isletmeleri-gelistirme-ve-destekleme-idaresi-baskani/2025/42366",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42366&MevzuatTertip=5",
+  "source_sha256": "f9f3bf09424a162214edb9f5606493be0b0401548cc709b8e6ad979c1e2541ad",
+  "source_bytes": 221441,
+  "published": "2025-04-17",
+  "gazette": "32873",
+  "in_force": "2026-10-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-03",
+      "RG-3/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-03",
+      "3/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5551,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
