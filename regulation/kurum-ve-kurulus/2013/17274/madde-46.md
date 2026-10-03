@@ -1,0 +1,4 @@
+Lisanslı depo işletmesi ve çalışanlarının hukukî ve cezaî sorumluluğu
+MADDE 46 – (1) Kanun ve bu Yönetmelik hükümlerine uygun davranmayan veya yükümlülüklerini yerine getirmeyen lisanslı depo işletmesinin malik, yönetici ve personeli, kendi kusurlarından ileri gelen zararlardan dolayı, lisanslı depo işletmesiyle birlikte sorumludur.
+(2) Lisanslı depo işletmesinin malik, yönetici ve personeli, işletmenin işlem ve faaliyetleri ile para ve mallarına, ürün ve ürün senetlerine, evrak, rapor, hesap, kayıt ve defterleri ile diğer başka belgelere ilişkin işledikleri suçlardan dolayı cezai sorumluluk bakımından kamu görevlisi sayılır. Lisanslı depo işletmesince düzenlenen evrak, 5237 sayılı Türk Ceza Kanununun tatbiki bakımından resmî evrak olarak kabul edilir.
+(3) Lisanslı depo işletmesinin malik, yönetici ve personeli, Kanunun 34 üncü maddesinde gösterilen fiil ve hareketlerinden dolayı cezai sorumluluk taşır ve haklarında aynı maddede öngörülen cezalar uygulanır.

@@ -1,0 +1,7 @@
+Faaliyet izni
+MADDE 11 – (1) Yapılan inceleme ve değerlendirme sonucunda; 8 inci maddede öngörülen şartları taşıdığı anlaşılanlara ve 9 uncu maddede belirtilen belgeleri ibraz edenlere lisans verilir. Gerekli şartların sağlanmadığının ya da istenilen belgelerin ibraz edilmediğinin anlaşılması veya güven ve ticarî itibarı sarsıcı ya da lisans verilmesine engel geçerli bir sebebin varlığının tespiti hallerinde lisans verilmez.
+(2) İki ya da daha fazla çeşit ürünün depolanması için bir lisans düzenlenebilir. Lisans belgesinde, hangi ürünlerin depolanabileceği ve bunların azamî kapasiteleri ile lisans kapsamında faaliyet gösteren tüm şubeler gösterilir.
+(3) Lisans, (Değişik ibare:RG-18/3/2023-32136) üç yıl süre için geçerlidir ve devredilemez. Bu lisans, Türkiye Ticaret Sicili Gazetesi’nde ilân edilir.
+(4) Lisanslı depoculuk faaliyetinde bulunmak için Bakanlıktan lisans alınması zorunludur. Lisans alınmadan faaliyette bulunulamaz, lisanslı olmayan bir depo lisanslı depo şeklinde işletilemez ya da izin alınmadan lisanslı depo veya lisanslı depo işletmesi izlenimini verecek hiçbir isim, unvan, işaret ve benzerleri kullanılamaz.
+(5) Lisanslı bir deponun herhangi bir nedenle lisans koşulları bakımından yetersiz hale gelmesi durumunda, depoyu yetersiz hale getiren nedenler ortadan kalkmadıkça bu depo ürünlerin depolanması amacıyla kullanılamaz.
+(6) Lisans başvuru formunda yer alan bilgi ve belgelerde değişiklik olması halinde bunlar Bakanlığa bildirilir.

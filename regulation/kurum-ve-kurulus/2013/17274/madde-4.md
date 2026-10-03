@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: (Mülga ibare:RG-12/4/2019-30743)(…) Ticaret Bakanlığını,
+b) (Değişik:RG-28/6/2022-31880) Borsa: Elektronik ürün senetleri ile elektronik ürün senetlerine dayalı vadeli işlem sözleşmelerinin işlem gördüğü Türkiye Ürün İhtisas Borsası Anonim Şirketini,
+c) Depolama hizmetleri: Lisanslı depoya kabul edilen ürünlerin tartılması, boşaltılması, yüklenmesi, taşınması, nakliyesi, depolamaya ve şartlara uygun hale getirilmesi ve depolanması, ürün ambalajlarının onarılması, ürünün depodan çıkarılması gibi hizmetleri,
+ç) Elektronik kayıt kuruluşu (EKK): Yönetim kurulunda örgün olan veya olmayan yükseköğretim kurumlarından mezun Bakanlık temsilcisi bulunan ve elektronik ürün senetlerinin oluşturulmasını sağlamak, bu senetlere bağlı tüm hak ve yükümlülükler ile işlemleri ilgili taraflar itibarıyla kayden izlemek amacıyla Bakanlıktan lisans almış olan anonim şirketi,
+d) Fon: Lisanslı Depoculuk Tazmin Fonunu,
+e) Kanun: 5300 sayılı Tarım Ürünleri Lisanslı Depoculuk Kanununu,
+f) Lisans: Bakanlıkça verilen faaliyet iznini gösterir belgeyi,
+g) Lisanslı depo: Kanun kapsamında ürünlerin sağlıklı koşullarda muhafaza ve ticarî amaçla depolanması hizmetlerini sağlayan tesisleri,
+ğ) Lisanslı depo işletmesi/işleticisi: Ürünlerin depolanmasıyla iştigal eden ve bu Yönetmelik kapsamında geçerli bir lisansa sahip anonim şirketi,
+h) Lisanslı depo teminatı: Lisanslı depo işletmesince, Kanunda ve ikincil düzenlemelerinde öngörülen yükümlülüklerin yerine getirilmemesi dolayısıyla meydana gelecek zararların karşılanmasını teminen Fona verilen Bakanlık tarafından kabul edilen ve Kanunda belirtilen nakit ve nakde çevrilebilen güvenceleri,
+ı) Mudî: Depolama hizmetleri için ürününü lisanslı depoya teslim eden veya lisanslı depo işletmesince düzenlenen ürün senedini mevzuata uygun olarak elinde bulunduran gerçek veya tüzel kişiyi,
+i) Tartıcı: Lisanslı depoya getirilen ya da depodan teslim edilen ürünü tartmak ve tartım makbuzu düzenlemekle görevli gerçek kişileri,
+j) Ürün senedi: Lisanslı depo işletmesince düzenlenen, ürünün mülkiyetini temsil ve rehnini temin eden kıymetli evrakı,
+k) Ürün: Bakanlıkça çıkarılan tebliğlerle düzenlenen, depolanmaya uygun nitelikteki ve standardize edilebilen temel ve işlenmiş tarım ürünlerini,
+l) Yetkili sınıflandırıcı: Tarım ürünlerini analiz eden, ürünün nitelik ve özelliklerini belirleyen, standartlara uygun olarak sınıflandıran ve bu durumu belgelendiren laboratuvarları işleten gerçek ve tüzel kişileri,
+m) (Ek:RG-27/8/2025-32999) Denetim kuruluşu: Lisanslı depo işletmeleri ve yetkili sınıflandırıcılar nezdinde Kanun ve bu Yönetmelik kapsamındaki denetim ve incelemeleri yapmak üzere Bakanlıkça yetkilendirilen kuruluşu,
+n) (Ek:RG-27/8/2025-32999) Lisanslı depo denetçisi: Denetim kuruluşunca denetimlerde görevlendirilecek, mezuniyet bölümü ve sayısı Bakanlıkça belirlenen ve ilan edilen kontenjan dahilinde üniversitelerin ilgili mühendislik bölümlerinden mezun veya kamu kuruluşlarının lisanslı depoculuk alanında faaliyet gösteren birimlerinde en az üç yıl görev yapmış ve üniversitelerin en az dört yıllık lisans düzeyinde eğitim veren bölümlerinden mezun, Bakanlık, Toprak Mahsulleri Ofisi Genel Müdürlüğü ve Bakanlıkça uygun görülen diğer ilgili kurumlar tarafından lisanslı depoculuk ve/veya yetkili sınıflandırıcılık alanlarında verilen eğitim programlarına katılarak yapılan sınavlarda başarılı olmak suretiyle sertifika almaya hak kazanmış kişileri,
+o) (Ek:RG-27/8/2025-32999) İş süreçleri belgesi: İnceleme ve denetimlere ilişkin süreçleri göstermek üzere Bakanlık tarafından onaylanan belgeyi,
+ö) (Ek:RG-27/8/2025-32999) Bilgi Sistemi: Lisanslı Depo Bilgi Sistemini,
+p) (Ek:RG-27/8/2025-32999) Seviye ölçüm sistemi: Lisanslı depolarda depolanan hububat, baklagiller ve yağlı tohumlar ile Bakanlıkça belirlenen diğer ürünlerin miktarlarının tespitine yönelik kurulan ve Bakanlıkça kriterleri belirlenen sistemi,
+ifade eder.

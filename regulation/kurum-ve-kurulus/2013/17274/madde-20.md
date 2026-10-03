@@ -1,0 +1,5 @@
+Lisans bedelleri ve diğer ücretler
+MADDE 20 – (1) Bu Yönetmelik hükümlerine göre verilen lisansa ilişkin bedeller, Bakanlıkça genel bütçeye gelir kaydedilmek üzere peşin olarak tahsil edilir.
+(2) Lisans bedelleri, her yıl 1 Ocak tarihinden geçerli olmak üzere Bakan oluru ile belirlenir. Lisanslı depo işletmelerinin lisans bedelleri belirlenirken depo kapasiteleri dikkate alınır.
+(3) Bakanlık, bu Yönetmelik kapsamında yapacağı veya yaptıracağı her türlü inceleme ve denetimler ile verilen hizmetlere ilişkin ücret ve masrafların tamamının veya bir kısmının ilgili lisanslı depo işletmesi tarafından karşılanmasını talep edebilir. Bu durumda ilgililer, ücret ve masrafları en geç on iş günü içerisinde öder.
+(4) (Ek:RG-27/8/2025-32999) Bakanlık, denetim kuruluşunca gerçekleştirilen lisanslı depolardaki ürünlerin ve tesisin teknik yönden incelenmesine yönelik faaliyetlerin kontrolü veya bu inceleme faaliyetlerini tamamlayıcı nitelikteki diğer görevlendirmelerde, Kanunun 14 üncü maddesinin üçüncü fıkrası hükmüne göre işlem tesis eder.

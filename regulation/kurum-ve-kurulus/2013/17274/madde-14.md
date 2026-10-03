@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Sözleşme, Sigorta, Teminat ve Lisansla İlgili Diğer Hususlar
+Borsa ve yetkili sınıflandırıcılarla sözleşme
+MADDE 14 – (1) (Değişik:RG-8/2/2024-32454) Ürün senetlerinin güven içinde ticaretinin ve takibinin yapılabilmesini teminen Borsa ile sözleşme yapılır. Sözleşmede; ürün senetlerinin Borsaya kota ettirilmesi, hareketlerinin kontrol ve takibi, teyidi, iptali, bilgi akışının düzenli olarak sağlanması, lisanslı depolardaki ürünlerin gerektiğinde elektronik ortamda Borsaca incelenmesi ve kontrolü ile aralarındaki bilgi iletişim sistemine ilişkin hususlar ve Bakanlıkça belirlenecek diğer hususlar yer alır. Bakanlık, sözleşmeleri matbu olarak düzenleyebilir.
+(2) Depolanacak veya depolanmış ürünlerin analiz, sınıflandırma ve belgelendirme işlemlerinin yürütülmesi için yetkili sınıflandırıcılarla sözleşme yapılır. Bakanlık bu sözleşmeleri matbu olarak düzenleyebilir.
+(3) Bu maddede belirtilen sözleşmeler ve sözleşmelerde yapılacak değişiklikler, Bakanlık onayından sonra geçerli olur. Sözleşmenin herhangi bir nedenle feshini doğuracak bir sebebin ortaya çıkması halinde bu durum, taraflarca en geç beş iş günü içinde Bakanlığa bildirilir ve ayrıca mudilerin zarar görmemesi için gerekli tedbirler alınır. Sözleşmenin feshi, söz konusu bildirimin Bakanlığa ulaştığı tarihten itibaren otuz günlük sürenin dolmasından sonra hüküm ifade eder.

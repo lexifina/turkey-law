@@ -1,0 +1,6 @@
+Fire
+MADDE 31– (1) Depolanmak üzere kabul edilen ürünün aynı miktar ve kalitede geri verilmesi esastır. Ancak, nitelik, çeşit, tür, depolama süresi ve koşulları ile iklim veya bölgesel ya da diğer bazı etkenlere göre üründe doğası gereği değişen oranda fire olabilir.
+(2) (Değişik:RG-28/6/2022-31880) Fire oranları, Bakanlıkça lisanslı depo fire tarifesi ile belirlenir ve bu tarife Bakanlık internet sitesinde yayımlanır. Fire tarifesinin uygulanmasına ilişkin usul ve esaslar tarifede gösterilir.
+(3) (Değişik:RG-28/6/2022-31880) Ürün senedinin satıldığı güne kadar fire tarifesine göre hesaplanan fire tutarları, borsa veya takas hizmetlerini sunan yetkili kuruluş veya işleme aracılık eden kuruluş tarafından satış bedelinden kesilerek izleyen ilk beş iş gününde ilgili lisanslı depo işletmesinin hesabına aktarılır. Ürünün lisanslı depodan teslimi sırasında fire tarifesine göre hesaplanan ancak önceden mahsup edilmemiş fire miktarı, lisanslı depo işletmesince ürün miktarından düşülerek ürün teslim edilir.
+(4) Diğer ürünlerle karıştırılmadan depolanan ürün teslim edilirken, teslim edilen bu ürünün miktarında meydana gelebilecek kayıp, fire tarifesinde belirlenen sınırları aşmamalıdır.
+(5) Fire tarifesine ilişkin bu maddede düzenlenmeyen hususlarda, lisanslı depo ücret tarifesine dair hükümler uygulanır.

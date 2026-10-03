@@ -1,0 +1,3 @@
+Yasak faaliyetler
+MADDE 35 – (Değişik:RG-27/8/2025-32999)
+(1) Lisanslı depo işletmeleri, mevzuatla ve mudî tarafından izin verilmedikçe kendilerine tevdi olunan başkalarına ait ürünler üzerinde hiçbir şekilde alım, satım, rehin gibi tasarruflarda bulunamaz, ürünlerin niteliklerini değiştirecek herhangi bir işlem yapamaz, lisanslı depo yatırım veya işletme kredisi kullanılması veya Fona lisanslı depoculuk gayrimenkul rehni verilmesi hariç olmak üzere işletmenin tesis, bina ve bunların üzerinde bulunduğu taşınmazı ipotek veremez. Yatırım veya işletme kredisi kullanılması halinde kredinin mahiyetine ilişkin Bakanlığa derhal bilgi verilir.

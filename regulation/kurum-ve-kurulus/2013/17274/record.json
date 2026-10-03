@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.17274",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM ÜRÜNLERİ LİSANSLI DEPOCULUK YÖNETMELİĞİ",
+  "number": "17274",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2013/17274",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17274&MevzuatTertip=5",
+  "source_sha256": "a172bc3932525c6aaef1c204f9b157a8e8a5e69ca230192276d22fe22e5679c8",
+  "source_bytes": 157866,
+  "published": "2013-04-12",
+  "gazette": "28616",
+  "in_force": "2026-10-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-03",
+      "RG-3/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-03",
+      "3/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-03-11",
+      "RG-11/3/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-03-11",
+      "11/3/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-27",
+      "RG-27/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-27",
+      "27/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-09-14",
+      "RG-14/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-14",
+      "14/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-05-14",
+      "RG-14/5/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-05-14",
+      "14/5/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-02-08",
+      "RG-8/2/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-02-08",
+      "8/2/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9799,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
