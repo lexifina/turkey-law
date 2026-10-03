@@ -1,0 +1,4 @@
+Başvurunun reddedilmesi halinde tekrar başvuru
+MADDE 15- (1) Bir başvuruya red kararı verilmesi halinde, söz konusu kararın ilgili firma tarafından tebellüğ edildiği tarihten itibaren başvuru şekilleri aşağıda belirtilmiştir:
+a) Başvurusu reddedilen firmalar, İlaç Başvurularına İlişkin Usul ve Esaslar doğrultusunda başvuru dosyası hazırlamadan sadece red kararına yönelik gerekçeleri ile bu gerekçelere yönelik varsa ek bilgi ve belge ile 2 ay içinde başvurabilir. Bu şekildeki başvuru, çalışma dönemi başvuru tarihine uygun olarak değerlendirmeye alınır.
+b) Başvurusu reddedilen firmaların tekrar başvurusunu 2 ay içinde yukarıda açıklanan şekilde yapamamaları halinde, tekrar başvuru İlaç Başvurularına İlişkin Usul ve Esaslar doğrultusunda yeni dosya hazırlanmak suretiyle yapılır. Bu şekildeki başvuru, çalışma dönemi başvuru tarihine uygun olarak değerlendirmeye alınır.

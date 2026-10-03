@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.39683",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL GÜVENLİK KURUMU İLAÇ GERİ ÖDEME YÖNETMELİĞİ",
+  "number": "39683",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2022/39683",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39683&MevzuatTertip=5",
+  "source_sha256": "330abc396cab496042775ead559e108a86e98608c7cbac0dac49a57f6079eda6",
+  "source_bytes": 95170,
+  "published": "2022-08-25",
+  "gazette": "31934 (Mükerrer)",
+  "in_force": "2026-10-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-03",
+      "RG-3/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-03",
+      "3/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-28",
+      "RG-28/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-28",
+      "28/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5204,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
