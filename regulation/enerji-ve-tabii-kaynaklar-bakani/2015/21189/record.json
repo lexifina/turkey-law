@@ -1,0 +1,86 @@
+{
+  "source_id": "7.5.21189",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RÜZGAR KAYNAĞINA DAYALI ELEKTRİK ÜRETİMİ BAŞVURULARININ TEKNİK DEĞERLENDİRMESİ HAKKINDA YÖNETMELİK",
+  "number": "21189",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2015/21189",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21189&MevzuatTertip=5",
+  "source_sha256": "2904488e0b4425edea9b6d6e9beee8dcdc8ec1df75a3f2363339998b6383ac93",
+  "source_bytes": 61074,
+  "published": "2015-10-20",
+  "gazette": "29508",
+  "in_force": "2026-10-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-03",
+      "RG-3/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-03",
+      "3/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-10-01",
+      "RG-1/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-01",
+      "1/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-29",
+      "RG-29/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-29",
+      "29/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-17",
+      "17/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-01-12",
+      "RG-12/1/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-01-12",
+      "12/1/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-11-08",
+      "8/11/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2917,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21189-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
