@@ -1,0 +1,6 @@
+Madde 6 — Odanın başlıca amaçları şunlardır:
+a) Ülke ve kamu çıkarları çerçevesinde şehir ve bölge (Değişik ibare:RG-3/10/2026-33389) planlama mesleği ile ilgili bütün konularda mesleğin ve meslektaşların görev ve yetkilerini düzenlemek,
+b) Oda üyelerinin birbirleri ile ve halkla olan ilişkilerinde dürüstlüğü ve güveni hakim kılmak üzere meslek disiplini ve ahlakını korumak, meslek haklarına sahip çıkmak, kent planlama ve bilimini geliştirmek,
+c) Ülke içinde ve dışında tüm resmi ve özel kuruluşlarla işbirliği yaparak uygulama ve kuram alanında mesleğin gelişmesini sağlamak üzere her türlü etkinlikte bulunmak,
+d) Ülkenin ve kamunun çıkarlarının korunması doğrultusunda meslek alanına giren konularda doğal kaynakların ve kamusal varlıkların korunması ve geliştirilmesi, ülkenin sanatsal ve teknik gelişmesi için gerekli gördüğü tüm girişim ve etkinliklerde bulunmak,
+d) Şehir ve Bölge Planlama eğitiminin ve öğrenciliğin sorunlarını incelemek, diğer ülkelerde uygulanan modellerden de yararlanarak öneriler geliştirmek, geliştirilen modellerin gerçekleştirilmesi için girişimlerde bulunmak, bu konularda oluşturulacak öğretim elemanı ve öğrenci komisyonları (ya da kolları) ile etkinliklerde bulunmak.

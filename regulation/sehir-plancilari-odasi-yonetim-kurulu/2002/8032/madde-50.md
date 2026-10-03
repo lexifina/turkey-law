@@ -1,0 +1,1 @@
+Madde 50 — Geçici olarak meslek uygulamasından uzaklaştırılanlar, mesleklerini uygulayamadıkları gibi, mesleklerini uygulamak için imza da kullanamazlar. Aksine hareket edenlerin cezaları bir kat daha arttırılır.

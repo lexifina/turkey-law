@@ -1,0 +1,1 @@
+Madde 4 — 6235 sayılı Kanun ve TMMOB Tüzük ve Yönetmelikleri çerçevesinde Türkiye’de meslek ve sanatlarını uygulama izni isteyen yabancı şehir ya da bölge plancıları ŞPO’na geçici üye olarak kaydolunmaya zorunludurlar.

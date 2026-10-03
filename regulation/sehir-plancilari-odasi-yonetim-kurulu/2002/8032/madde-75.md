@@ -1,0 +1,2 @@
+Madde 75 — (Değişik:RG-8/2/2017-29973)
+Oda Genel Kurullarında bir göreve en az o göreve seçilecek asıl ve yedekler toplamı kadar aday gösterilir. Asıl ve yedek üyeler ayrı ayrı duyurulur. Asıllar ve yedekler oy pusulalarında kendilerine ayrılmış bölümlere yazılır. Oy pusulalarına yazılı isimler asıl ve yedek üye toplamından fazla olamaz. Asıllar kendi aralarında, yedekler kendi aralarında aldıkları oy sırasına göre sıralanır. Oyların eşit olması durumunda, sicil numarası küçük olan üye seçilmiş sayılır.

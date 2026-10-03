@@ -1,0 +1,1 @@
+Madde 60 — Şube Genel Kurulu çalışmaları Başkanlık divanı tarafından hazırlanan bir tutanakla tespit edilir ve bir örneği Odaya gönderilir. Bu tutanakların bir sonraki Olağanüstü Genel Kurulu’na saklanması zorunludur. Ayrıca Oda gözlemcisi toplantıya ilişkin düzenleyeceği raporu Oda Yönetim Kurulu’na sunar.

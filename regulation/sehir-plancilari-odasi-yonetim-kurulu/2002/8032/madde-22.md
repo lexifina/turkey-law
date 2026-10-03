@@ -1,0 +1,1 @@
+Madde 22 — Oda Yönetim Kurulu’nu oluşturan üyelerin tümünün birden ayrılması veya herhangi bir nedenle ayrılan üyelerin yerine gelecek yedek kalmaması durumunda, Oda Genel Kurulu, Birlik Yönetim Kurulu’nca da olağanüstü toplantıya çağrılabilir.

@@ -1,0 +1,1 @@
+Geçici Madde 1 — 5/3/1994 tarihli 18 inci Genel Kurul öncesinde, yüksek lisans ve doktora dereceleri ile aldıkları unvanlarla Odaya kayıt olanların üyelikten doğan her türlü hak ve yükümlülükleri saklıdır.

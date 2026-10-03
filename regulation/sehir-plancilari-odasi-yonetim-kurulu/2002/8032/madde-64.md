@@ -1,0 +1,1 @@
+Madde 64 — Boşalan Yönetim Kurulu üyeliğine çağrılacak yedek kalmadığı durumda, Genel Kurul, Şube Yönetim Kurulu Başkanı tarafından, yoksa Oda Yönetim Kurulu tarafından olağanüstü toplantıya çağrılır. Seçilen Yönetim Kurulu ilk olağan Genel Kurul toplantısına kadar görev yapar.

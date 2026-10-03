@@ -1,0 +1,1 @@
+Madde 48 — Onur Kurulu tarafından verilen kararların Yönetim Kurulu’na ve ilgililere bildirilmesini izleyen 15 gün içinde, ilgili veya Yönetim Kurulu, Yüksek Onur Kurulu’na başvurabilir. Bu kararların uygulanabilmesi için Yüksek Onur Kurulunca onaylanmış olması gerekir.

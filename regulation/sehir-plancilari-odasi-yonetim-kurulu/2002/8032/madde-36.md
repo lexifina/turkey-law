@@ -1,0 +1,1 @@
+Madde 36 — Oda Onur Kurulu kendisine bir veya birkaç konu verildiğinde, Oda Yönetim Kurulunun yazılı çağrısı üzerine yapacağı ilk toplantıda, o işleri sonuçlandırıncaya kadar raportör seçer. Oda Onur Kurulu gereğinde, sadece danışma amacıyla Yönetim Kurulu üyelerinden birini oturuma çağırır.

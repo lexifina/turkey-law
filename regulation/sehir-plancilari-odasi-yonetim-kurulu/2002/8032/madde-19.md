@@ -1,0 +1,1 @@
+Madde 19 — Oda Genel Kurulu Başkanlık Divanı ve Genel Kurul Komisyonları açık oyla seçilir. Ancak Genel Kurul, gizli oyla yapılması kararını verirse, o yoldan hareket edilir. Diğer bütün seçimler gizli oyla yapılır.

@@ -1,0 +1,1 @@
+Madde 78 — (Değişik:RG-8/2/2017-29973) Seçim süresi dolan her üye aynı göreve yeniden seçilebilir. Olağan Genel Kurullarda Yönetim Kuruluna seçilen üyeler, üst üste 3 (üç) dönemden fazla aynı yürütme görevini alamazlar.

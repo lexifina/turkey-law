@@ -1,0 +1,1 @@
+Madde 42 — Onur Kurulu, gereğinde, üç kişiden oluşan bir bilirkişi kurulu seçerek, konuyu bu kurula inceletir. Bir şikayetçinin bulunduğu olaylarda taraflar bilirkişi üzerinde anlaşmazlarsa, Onur Kurulu kendisi seçer.

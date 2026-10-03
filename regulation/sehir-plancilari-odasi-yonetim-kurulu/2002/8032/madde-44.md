@@ -1,0 +1,1 @@
+Madde 44 — Onur Kurulu üç ay içerisinde karar vermezse, bunu sürenin dolmasından önce ilgililerin haberdar olabilmesi için gerekçeleri ile birlikte Oda Yönetim Kurulu’na bildirmeye ve karara ne zaman varılabileceğini açıklamaya zorunludur.

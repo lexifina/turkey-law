@@ -1,0 +1,1 @@
+Madde 37 — Onur Kurulu asıl üyelerinden bir veya birkaçı herhangi bir özür ile gelemeyeceklerini bildirir veya çağrıya uymazlarsa yerlerine sırasıyla yedekler çağrılır. Bu yedekler, toplantı konusu olan sorunlar karara bağlanıncaya kadar yapılacak toplantılarda asil üye gibi davranırlar.

@@ -1,0 +1,1 @@
+Madde 11 — Oda Genel Kurulu, Oda Yönetim Kurulu tarafından hazırlanacak ve toplantıdan en az 15 (onbeş) gün önce duyurulacak gündem maddeleri çerçevesinde açılır. En az bir gazetede Genel Kurulun ilan edilmesi zorunludur.

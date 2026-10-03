@@ -1,0 +1,1 @@
+Madde 77 — Oda Yönetim Kurulu ile Oda ya da TMMOB Onur ve Denetleme Kurullarından herhangi birinde görev almış bulunan bir üye, bu kurullardan bir diğerine de seçildiğinde, bu görevlerden birini tercih etmek zorundadır.

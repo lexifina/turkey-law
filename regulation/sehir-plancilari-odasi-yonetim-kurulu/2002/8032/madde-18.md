@@ -1,0 +1,1 @@
+Madde 18 — Konularına göre ayrı ayrı zarflara konup Sayım Kurulu Başkanı tarafından Yönetim Kurulu’na teslim edilecek oy pusulalarının, bir sonraki yıllık Genel Kurul toplantısına kadar saklanması zorunludur.

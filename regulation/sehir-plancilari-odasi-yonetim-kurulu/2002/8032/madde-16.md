@@ -1,0 +1,2 @@
+Madde 16 — (Değişik:RG-5/7/2011-27985)
+Genel Kurul, kararlarını Genel Kurula katılan delegelerin çoğunluğuyla alır. Oylarda eşitlik olursa, Divan Başkanının tarafı çoğunlukta sayılır. Yalnız Oda Ana Yönetmeliğinde değişiklik yapılabilmesi için görüşmeye katılan delegelerin üçte ikisinin olumlu kararı gerekir. Ana Yönetmelik değişikliklerinin görüşüldüğü oturumlarda, görüşmeye katılım Genel Kurula katılan delege sayısının yarısından az olamaz. Diğer yönetmelik değişikliklerinin yapılabilmesi için görüşmeye katılanların salt çoğunluğunun kararı yeterlidir.

@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.8032",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ŞEHİR PLANCILARI ODASI ANA YÖNETMELİĞİ",
+  "number": "8032",
+  "issuer": "Şehir Plancıları Odası Yönetim Kurulu",
+  "issuer_slug": "sehir-plancilari-odasi-yonetim-kurulu",
+  "path": "regulation/sehir-plancilari-odasi-yonetim-kurulu/2002/8032",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8032&MevzuatTertip=5",
+  "source_sha256": "bebd01fc2b0010505313201ecd8749d60c5d1bca66acdff205fd7b05a46d7be2",
+  "source_bytes": 108521,
+  "published": "2002-07-17",
+  "gazette": "24818",
+  "in_force": "2026-10-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-03",
+      "RG-3/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-03",
+      "3/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-02-08",
+      "RG-8/2/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-02-08",
+      "8/2/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-10-25",
+      "RG-25/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-01",
+      "RG-1/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-07-05",
+      "RG-5/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5340,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
