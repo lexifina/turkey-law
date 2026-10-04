@@ -1,0 +1,3 @@
+Dersleri tamamlamanın azami süresi
+MADDE 27- (1) Tezsiz yüksek lisans programında üç yarıyıl, tezli yüksek lisans ve tezli yüksek lisans derecesi ile kayıt olunan doktora programlarında kredili dersleri ve seminer dersini başarıyla tamamlamanın azami süresi dört yarıyıl, lisans derecesi ile kayıt olunan doktora programlarında ise bu süre altı yarıyıldır.
+(2) Kayıt dondurma hali hariç olmak üzere, akademik izin alınan veya ders kaydı yaptırılmayan yarıyıllar dersleri tamamlamanın azami süresine sayılır. Azami süre sonunda tüm kredili müfredat derslerini ve seminer dersini başarıyla tamamlamamış olan veya müfredat derslerinin genel not ortalaması 3.00’ın altında olan öğrencilerin Üniversite ile ilişikleri kesilir.

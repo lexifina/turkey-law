@@ -1,0 +1,2 @@
+Yarıyıl kayıtları
+MADDE 15- (1) Öğrenciler her yarıyıl başında akademik takvimde belirlenen tarihler içinde en az bir derse kayıt yaptırmak zorundadır. Ücret ödeyen öğrencilerin yarıyıl kaydının yapılması için yarıyıl ücretinin ödenmiş olması gerekir. Ders ekleme süresi bitene kadar kayıt yaptırmayan, öğrenim ücretini ödemeyen ve mazeretleri ilgili EYK tarafından kabul edilmeyen öğrenciler, ilgili yarıyıl öğrencilik haklarını kaybetmiş olur. Kaybedilen yarıyıl öğrenim süresinden sayılır ve dönem kaydı yapılmadan öğrencilik haklarından yararlanılamaz.

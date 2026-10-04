@@ -1,0 +1,4 @@
+Ders tekrarı
+MADDE 26- (1) Öğrenciler başarısız oldukları zorunlu dersleri tekrarlamakla yükümlüdür. Lisansüstü programlarında İşletme Enstitüsü programları hariç C- ve altı not başarısız olarak değerlendirilir. Ancak zorunlu dersin iki yarıyıl içinde tekrarlanmasının mümkün olmadığı durumlarda, ilgili program koordinatörünün önerisi ve EYK kararı ile başarısız olunan zorunlu dersin yerine içerik ve düzey yönünden eşdeğer başka bir ders alınabilir.
+(2) Seçmeli bir derste başarısız olunması durumunda ise öğrenci aynı dersi tekrar alabilir ya da başka bir ders alarak başarısız olduğu dersin notunu müfredat dışı bırakarak daha yüksek not aldığı diğer seçmeli ders ile değiştirebilir.
+(3) Talebi olan lisansüstü öğrencileri akademik danışmanlarının önerisi ve ilgili program koordinatörünün onayı ile aynı program içerisinde daha önce alıp başarılı oldukları dersleri tekrarlayabilir; bu durumda genel not ortalamasına yüksek alınan not katılır.

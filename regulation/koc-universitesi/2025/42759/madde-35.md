@@ -1,0 +1,6 @@
+Doktora tez önerisi savunması
+MADDE 35- (1) Doktora yeterlik sınavını başarı ile tamamlayan öğrenci, en geç altı ay içinde, yapacağı araştırmanın amacını, yöntemini ve çalışma planını kapsayan tez önerisini TİK önünde sözlü olarak savunur. Öğrenci, tez önerisi ile ilgili yazılı bir raporu sözlü savunmadan en az on beş gün önce komite üyelerine dağıtır.
+(2) TİK, öğrencinin sunduğu tez önerisinin kabul, düzeltme veya reddedileceğine salt çoğunlukla karar verir. Düzeltme için bir ay süre verilir. Bu süre sonunda kabul veya ret yönünde salt çoğunlukla verilen karar, toplantının bitişini izleyen üç gün içinde enstitüye tutanakla bildirilir.
+(3) Tez önerisi reddedilen öğrenci, yeni bir danışman ve/veya tez konusu seçme hakkına sahiptir. Bu durumda yeni bir TİK atanabilir. Programa aynı danışmanla devam etmek isteyen öğrenci üç ay içinde, danışman ve tez konusunu değiştiren öğrenci ise altı ay içinde tekrar tez önerisi savunmasına alınır. Tez önerisi bu savunmada da reddedilen öğrencinin Üniversite ile ilişiği kesilir.
+(4) Tez önerisi savunmasına EYK tarafından kabul edilen geçerli bir mazereti olmaksızın süresi içinde girmeyen öğrenci başarısız sayılarak tez önerisi reddedilir.
+(5) Tez önerisi savunmasını başarıyla tamamlamış öğrencilerin tez konularının değişmesi durumunda, yeniden tez önerisi savunması yapılması gereklidir.

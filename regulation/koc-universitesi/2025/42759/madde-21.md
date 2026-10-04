@@ -1,0 +1,4 @@
+Program süreleri
+MADDE 21- (1) Tezsiz yüksek lisans programlarının normal süresi iki yarıyıl, azami süresi üç yarıyıldır. Tezli yüksek lisans programlarının normal süresi dört yarıyıl, azami süresi altı yarıyıldır. Doktora programına tezli yüksek lisans derecesi ile kabul edilen öğrencilerin normal süreleri sekiz yarıyıl, azami süreleri on iki yarıyıl, lisans derecesi ile kabul edilen öğrencilerin normal süreleri on yarıyıl, azami süreleri on dört yarıyıldır. Kayıt dondurma hali hariç olmak üzere, akademik izin alınan, tatil yapılan veya ders kaydı yaptırılmayan yarıyıllar da süreye sayılır.
+(2) İngilizce hazırlık programında ve bilimsel hazırlık programında geçirilmiş süreler lisansüstü programın süresine sayılmaz.
+(3) Her program için tanınan azami sürenin sonuna kadar mezun olamamış öğrencilerin Üniversite ile ilişiği kesilir.

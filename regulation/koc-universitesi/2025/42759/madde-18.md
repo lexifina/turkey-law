@@ -1,0 +1,2 @@
+Tatil ilkesi
+MADDE 18- (1) Üniversitenin de tatil olduğu resmî tatil günleri dışında, lisansüstü öğrencilerinin kampüste olup çalışmalarına devam etmeleri ve eğitimlerinin bir parçası olan ve kendilerini mezuniyet sonrası akademik ve araştırma pozisyonlarına hazırlayacak olan TEAC 500 yükümlülüklerini de başarı ile yerine getirmeleri beklenir. Lisansüstü öğrenciler dilekçe ile başvuru yaparak TEAC 500 yükümlülüklerinin olmadığı dönemlerde en fazla iki hafta danışmanlarının onayı ile tatil yapabilirler. Bu dönemler dışındaki tatil talepleri EYK tarafından karara bağlanır.
