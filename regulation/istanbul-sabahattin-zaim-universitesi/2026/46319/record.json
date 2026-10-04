@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-10-04",
+      "04.10.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33390",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Sabahattin Zaim Üniversitesi",
+  "issuer_slug": "istanbul-sabahattin-zaim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sabahattin-zaim-universitesi/2026/46319",
+  "published": "2026-10-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46319&MevzuatTertip=5",
+  "source_bytes": 59322,
+  "source_id": "8.5.46319",
+  "source_sha256": "163db7fbf5d28cfcade70aa5821f504c835eb37aad487c785f5a166ed832bd42",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ GIDA, BESLENME VE\r\nBİYOTEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 360,
+  "word_count": 1234
+}

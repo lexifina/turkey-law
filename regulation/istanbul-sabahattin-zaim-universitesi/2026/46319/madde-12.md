@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu; Rektörün başkanlığında, ilgili Rektör Yardımcısı, Müdür, Mühendislik ve Doğa Bilimleri Fakültesi Dekanı, Sağlık Bilimleri Fakültesi Dekanı, Gıda Mühendisliği, Moleküler Biyoloji ve Genetik Bölümü, Beslenme ve Diyetetik Bölümü Başkanları ile gıda, beslenme ve biyoteknoloji alanlarında çalışmaları bulunan sektör veya sivil toplum kuruluşu temsilcilerinden Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilen dört üye olmak üzere toplam on iki üyeden oluşur.
+(2) Danışma Kurulu yılda en az bir kez toplanır ve gündemindeki konuları görüşür. Rektörün toplantıya katılamadığı durumlarda, toplantıya ilgili Rektör Yardımcısı başkanlık eder.
