@@ -1,0 +1,3 @@
+Geçiş hükmü
+GEÇİCİ MADDE 3- (Ek:RG-4/10/2026-33390)
+(1) Bu maddeyi ihdas eden Yönetmelikle 17 nci maddede yapılan değişikliklerin yürürlüğe girmesinden önce alınmış ders, ders kurulu, staj ve dönem notları transkriptte, Üniversite kayıtlarında bulunan yüzlük puanlar esas alınarak gösterilir. Yalnızca harf notu veya dörtlük sistem karşılığı bulunan kayıtların yüzlük karşılığının belirlenmesinde Yükseköğretim Kurulu tarafından yayımlanan güncel not dönüşüm tablosu esas alınır. Yapılan dönüşüm; öğrencinin bu maddenin yürürlüğe girdiği tarihten önce kazandığı ders, staj, dönem geçme ve mezuniyete ilişkin kazanımlarını koruyacak şekilde gerçekleştirilir.

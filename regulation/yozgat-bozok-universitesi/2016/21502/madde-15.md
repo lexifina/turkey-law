@@ -1,0 +1,3 @@
+İzinler
+MADDE 15 – (1) Öğrencilere, kanıtlayacakları haklı ve geçerli nedenlerin veya eğitim- öğretimlerine katkıda bulunacak Üniversite dışı burs, staj, araştırma ve benzeri imkânların ortaya çıkması halinde Fakülte Yönetim Kurulu kararı ile bir döneme kadar izin verilebilir. Öğrenci eğitim-öğretim süresi içinde bu imkândan bir kez yararlanabilir. Öğrencinin izinden yararlanabilmesi için dönem başlangıcından itibaren en az on beş gün önce Dekanlığa başvurması gerekir. Öğrenci değişim programları eğitim-öğretimin bir parçası olup, izinden sayılmaz.
+(2) İzinli sayılan öğrencilerin, izinli sayılan süreleri eğitim-öğretim süresinden sayılmaz.

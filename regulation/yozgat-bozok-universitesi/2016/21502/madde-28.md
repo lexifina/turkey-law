@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 28 – (1) Öğrenciler sınav sonuçları hakkındaki itirazlarını, sonuçlar ilan edildikten sonra en geç beş iş günü içinde yazılı olarak Dekanlığa yaparlar. İtirazlar, sorumlu öğretim üyesi tarafından maddi hata açısından incelenir ve sonucu en geç beş iş günü içerisinde Dekanlığa bildirilir. Not değişiklikleri Fakülte Yönetim Kurulu kararı ile kesinleşir. Dekanlık tarafından ilan edilir.
