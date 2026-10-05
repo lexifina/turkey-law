@@ -1,0 +1,6 @@
+Sınavlar ve değerlendirme
+MADDE 25- (1) Ders başarısının tespitinde dikkate alınacak dönem içi ve dönem sonu sınav, ödev, uygulama ve benzeri değerlendirme ölçütleri ile bu ölçütlerin ağırlıkları, dersi veren öğretim elemanı tarafından belirlenir. Değerlendirme ölçütleri ve ağırlıkları, Üniversitenin internet sitesinde ve/veya öğrenci bilgi sistemi içerisinde öğrencilere duyurulur.
+(2) Öğrencilerin herhangi bir dersteki başarısı, değerlendirme ölçütleri göz önüne alınarak, dersi veren öğretim elemanı tarafından harf notlarından birisi ile belirlenir. Öğrencinin harf notunun takdirinde; ders izlencesindeki değerlendirme ölçütlerinde belirtilen ara sınav, dönem sonu sınavı, dönem içi çalışmalar gibi kriterlerdeki başarı ile ders ve uygulamalara devamlılık göz önünde bulundurulur.
+(3) Dönem içinde yapılacak değerlendirmeler dersin öğretim elemanı tarafından öğrencilere duyurulur. Dönem sonu sınavları ise akademik takvimde belirtilen tarihlerde, Üniversite tarafından ilan edilen yer ve zamanda yapılır.
+(4) Ders notları, akademik takvimde belirlenen tarihlerde dersi veren öğretim elemanları tarafından Öğrenci Bilgi Sistemi üzerinden ilan edilir.
+(5) Öğrencilerin lisansüstü programa ilk kayıt yaptırdıkları tarihten başlayarak, öğrenimleri süresince aldıkları dersleri, notları ve akademik başarıları transkript üzerinde gösterilir.

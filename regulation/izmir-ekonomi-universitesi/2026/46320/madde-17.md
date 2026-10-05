@@ -1,0 +1,2 @@
+Diğer yükseköğretim kurumlarından ders alma ve öğrenci değişimi
+MADDE 17- (1) Üniversite ile diğer bir yükseköğretim kurumu arasında yapılan anlaşma uyarınca veya öğrenci değişim programları çerçevesinde Üniversite tarafından en fazla iki yarıyıl süresince anlaşmalı yükseköğretim kurumlarına öğrenci gönderilebilir veya bu yükseköğretim kurumlarından öğrenci kabul edilebilir. Bu süre içinde öğrencinin Üniversitedeki kaydı devam eder ve bu süre azami öğrenim süresinden sayılır.

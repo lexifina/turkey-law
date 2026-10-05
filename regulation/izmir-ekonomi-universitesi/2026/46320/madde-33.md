@@ -1,0 +1,4 @@
+Tezli yüksek lisans programı gerekleri
+MADDE 33- (1) Tezli yüksek lisans programı öğrencinin bilimsel araştırma yöntemlerini kullanarak bilgilere erişme, bilgiyi derleme, yorumlama ve değerlendirme yeteneğini kazanmasını sağlar.
+(2) Tezli yüksek lisans programı, toplam 21 yerel krediden az olmamak koşulu ile en az yedi ders, bir seminer dersi ile tez çalışması olmak üzere bir eğitim-öğretim yılında 60 AKTS kredisinden az olmamak koşulu ile toplam 120 AKTS kredisinden oluşur. Yüksek lisans semineri ve tez çalışmasının yerel kredisi yoktur.
+(3) Öğrenci, EYK’nin kararı ile lisans öğrenimi sırasında almadığı en çok iki lisans dersini alabilir. Öğrencinin bu derslerden başarılı sayılabilmesi için 27 nci maddede belirtilen koşulları sağlaması gerekir. Bu dersler öğrencinin ortalama hesabına katılır. Ayrıca, EABD’nin önerisi ve EYK’nin onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden en fazla iki ders seçilebilir.

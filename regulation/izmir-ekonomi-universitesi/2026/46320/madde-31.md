@@ -1,0 +1,6 @@
+Derslerden muafiyet
+MADDE 31- (1) Daha önce bir yükseköğretim programından ders almış olan öğrenciler, bu derslerden muafiyet isteğinde bulunabilir. Öğrencilerin, akademik takvimde ilan edilen ders kayıt tarihlerinin son gününe kadar belgeleriyle birlikte Enstitüye muafiyet talebiyle başvurmaları gerekir.
+(2) Daha önce herhangi bir diploma derecesinde kullanılmamış ve muaf olunmamış dersler için muafiyet talebinde bulunulabilir.
+(3) Muafiyet talebinde bulunulan derslerden en az BB notu veya muadilinin alınmış olması şartı ile tezli yüksek lisans öğrencilerine en fazla üç dersten, tezsiz yüksek lisans öğrencilerine en fazla dört dersten, lisans derecesi ile kabul edilen doktora öğrencilerine en fazla yedi dersten, yüksek lisans derecesi ile kabul edilen doktora öğrencilerine en fazla üç dersten muafiyet verilebilir.
+(4) Başka bir yükseköğretim kurumundan alınan derslere muafiyet verilebilmesi için bu derslerin YÖK tarafından tanınan bir yükseköğretim kurumundan alınmış olması gerekir. Muafiyet verilmiş derslere muaf (EX) notu verilir. Bu notlar GNO hesabına katılmaz, bu öğrencilerin GNO’su Üniversitede aldıkları derslere göre belirlenir.
+(5) Üniversite programlarında alınan ve muafiyet verilen dersin harf notu transfer edilir ve bu ders GNO hesabına katılır.

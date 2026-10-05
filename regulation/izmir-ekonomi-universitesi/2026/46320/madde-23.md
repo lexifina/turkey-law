@@ -1,0 +1,3 @@
+Derslerin kredi değeri
+MADDE 23- (1) Bir dersin yerel kredi değeri, o dersin haftalık teorik ders saatlerinin tamamı ile laboratuvar, uygulama, atölye, stüdyo ve benzeri faaliyetlerin haftalık saatlerinin yarısının toplamından oluşur.
+(2) Üniversitede uygulanacak AKTS kredisinin hesaplanmasına ilişkin esaslar, ders izlencesinde belirtilen öğrenci iş yükü dikkate alınarak ilgili EABD’nin önerisi ve EK’nin onayı üzerine Senato tarafından belirlenir. Öğrenci iş yükü; ders saatlerinin yanı sıra laboratuvar, atölye, klinik çalışması, ödev, uygulama, proje, seminer, sunum, sınava hazırlık, sınav, staj, iş yeri eğitimi gibi eğitim-öğretim etkinliklerinde harcanan tüm zamanı ifade eder.

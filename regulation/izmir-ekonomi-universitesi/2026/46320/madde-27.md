@@ -1,0 +1,13 @@
+Notlar
+MADDE 27- (1) Öğrencilere kayıt oldukları her ders için aşağıdaki notlardan biri verilir:
+a) Not ortalamasına katılan ve yerel kredisi olan derslerden, yüksek lisans öğrencisinin en az CC, doktora öğrencisinin ise en az CB notu alması gerekir. Harf notlarının katsayıları ve 100 puan üzerinden karşılıkları ile bu notların statüsü aşağıdaki gibidir:
+b) NA (Devamsız) notu, not ortalamasına katılan ve yerel kredisi olan bir derse devam yükümlülüklerini sağlamayan veya ders uygulamalarına ilişkin koşulları yerine getirmeyen öğrencilere dersi veren öğretim elemanı tarafından verilir. Not ortalamaları hesabında NA notunun katsayısı 0,00 (sıfır) olarak işlem görür.
+c) Ortalama hesaplarına katılmayan notlar aşağıda belirtilmiştir:
+1) S (yeterli) notu yerel kredisi olmayan derslerde başarılı olan öğrencilere verilir.
+2) U (yetersiz) notu yerel kredisi olmayan derslerde başarısız olan öğrencilere verilir.
+3) P (Başarılı devam) notu yerel kredisi olmayan, not ortalamalarına katılmayan ve süresi bir dönemden fazla olan derslerde ilgili dönemde yapılması beklenen akademik çalışmaları düzenli bir şekilde yerine getiren öğrencilere verilir.
+4) NP (Başarısız devam) notu; yerel kredisi olmayan, not ortalamalarına katılmayan ve süresi bir dönemden fazla olan derslerde ilgili dönemde yapılması beklenen akademik çalışmaları düzenli bir şekilde yerine getirmeyen öğrencilere verilir.
+5) EX (muaf) notu öğretim planlarında yer alan bazı derslerden muaf olan öğrencilere verilir.
+6) NI (ortalamaya katılmayan) notu öğrencinin not ortalamasına katılmamak koşuluyla aldığı dersleri tanımlamak üzere verilir. Bu not, öğrencinin ilgili dersten aldığı harf notu ile birlikte öğrencinin transkriptinde gösterilir. Bu statüdeki dersler öğrencinin kayıtlı olduğu programın derslerine sayılmaz. Bilimsel hazırlık dersleri için bu harf notu takdir olunur.
+7) I (eksik) notu dersi veren öğretim elemanının kabul edeceği geçerli bir nedenle ders için gerekli koşulları dönem sonunda tamamlayamayan öğrencilere verilir. I notunun, dönem notlarının son veriliş tarihinden itibaren on beş gün içinde harf notuna çevrilmesi gerekir. Ancak, özel durumlarda, bu süreyi aşan harf notuna çevrilme işlemlerinin bir sonraki dönem ders kayıtlarının başlama tarihinden en az iki hafta öncesine kadar yapılması gerekir. Özel durumlardaki bu işlemler dersi veren öğretim elemanının önerisi üzerine ve EYK kararı ile gerçekleştirilir. Süresi içinde harf notuna çevrilmeyen I notu Enstitünün talebi ile FF, NP veya U notuna dönüştürülür.
+8) W (çekilmiş) notu öğrencinin ilgili dönemde çekildiği derse verilen nottur. Dersten çekilme işlemleri 21 inci madde uyarınca yapılır.

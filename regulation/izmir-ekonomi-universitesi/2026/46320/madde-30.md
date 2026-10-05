@@ -1,0 +1,8 @@
+Derslerde başarı ve ders tekrarı
+MADDE 30- (1) Öğrencinin bir dersten başarılı sayılabilmesi için gereken koşullar 27 nci maddeye göre belirlenir.
+(2) Öğrenciler başarısız oldukları veya çekildikleri zorunlu dersleri başarılı oluncaya kadar tekrar almakla yükümlüdürler.
+(3) Bu dersler, öğretim planı değişikliği nedeni ile sonradan programdan çıkarılan dersler ise yerlerine eşdeğer olarak alınacak dersler, EYK’nin önerisi üzerine Senato tarafından belirlenir. Öğrenciler belirlenen bu eşdeğer dersleri, başarılı oluncaya kadar tekrar almakla yükümlüdürler.
+(4) Öğrenciler, daha önce alıp başarısız oldukları veya çekildikleri seçmeli dersin yerine başka bir seçmeli ders alabilirler.
+(5) Öğrenciler not yükseltmek amacıyla geçtikleri dersleri tekrarlayabilir veya bu dersleri, EYK’nin önerisi ve Senato tarafından eşdeğer kabul edilen derslerin açılması halinde alabilir.
+(6) Yüksek lisans tezinin devam ettiği dönemlerde öğrencilerin yapacağı çalışmalar tez danışmanı tarafından değerlendirilir ve bu çalışmalar için P veya NP notu verilir. Azami süre içinde tez ve teze ilişkin derslerden üst üste iki veya aralıklı olarak üç kez NP notu alan öğrenciler başarısız kabul edilir ve Üniversite ile ilişikleri kesilir.
+(7) Doktora tezinin devam ettiği dönemlerde öğrencilerin yapacağı çalışmalar komite tarafından değerlendirilir ve bu çalışmalar için P veya NP notu verilir. Azami süre içinde kayıtlı olduğu doktora tez çalışmasından üst üste veya aralıklı olarak üç kez NP notu alan veya azami süre içinde tezini tamamlayamayan öğrenciler ile tez sınavında U notu alan öğrencilerin Üniversite ile ilişikleri kesilir.

@@ -1,0 +1,3 @@
+Not ortalamaları
+MADDE 29- (1) Not ortalaması, kayıt olunan ve not ortalamalarına katılan her dersin AKTS kredisi ile o dersten alınan notun katsayısı çarpılarak bulunan ders puanları toplamının, bu derslerin toplam AKTS kredisine bölünmesi ile hesap edilir. Bu işlemin bir dönem içinde alınan dersler için yapılması halinde dönem not ortalaması, o zamana kadar alınmış tüm dersler için yapılması halinde de GNO elde edilir.
+(2) Not ortalaması hesaplanırken; tekrar edilen ders bulunması halinde bu dersten alınan en son not, öğretim planlarından çıkarılan bir ders ya da seçmeli bir ders yerine başka bir dersin tekrarlanması durumunda ise de dersin alınan en son notu dikkate alınır.
