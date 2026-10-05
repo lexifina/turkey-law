@@ -1,0 +1,4 @@
+Kontenjanların belirlenmesi ve ilanı
+MADDE 5- (1) Her dönem başlangıcından önce öğrenci kontenjanları, ilgili EABDAK/EASDAK tarafından önerilir, EK tarafından belirlenen kontenjanlar karara bağlanmak üzere Senatonun onayı sonrası ilan edilir. İlanda programların adları, son başvuru tarihi, başvuru koşulları, istenen belgeler, var ise diğer açıklayıcı bilgiler yer alır. Öğrenci alımı ile ilgili tüm işlemler, ilgili enstitü müdürlüğünce yürütülür.
+(2) Adaylar başvuru ve kabul koşullarını yerine getirmek zorundadır. Bu tür başvurularda adaylar kendi aralarında başarı puanlarına göre sıralanır, başarı puanlarının eşit olması halinde sırasıyla ALES, lisans veya yüksek lisans mezuniyet notu ve yabancı dil puanı yüksek olan adaya öncelik tanınır.
+(3) Yabancı uyruklu öğrencilerin başvuru, kayıt ve kabulü işlemleri Senato tarafından belirlenen esaslara göre yapılır.

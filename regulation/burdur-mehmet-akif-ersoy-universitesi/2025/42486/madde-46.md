@@ -1,0 +1,4 @@
+Ders saydırma
+MADDE 46- (1) Öğrenciler yaz dönemi, özel öğrencilik ve daha önce lisansüstü programlarda aldıkları derslerin kabul edilme ve öğrencinin alması gereken toplam krediden düşülmesi koşulları danışman veya yetkili öğretim üyesinin görüşü, ilgili EABDAK/EASDAK’ın önerisi üzerine EYK tarafından belirlenir. Bu öğrencilerin (Ek ibare:RG-5/10/2026-33391) diğer yükseköğretim kurumlarından aldıkları krediler, izledikleri programlardaki ulusal kredi toplamının yarısını geçmemek koşulu ile danışman ve EABD/EASD başkanının önerisi ve EYK’nın onayı ile öğrencinin devam etmekte olduğu program için geçerli sayılabilir.
+(2) Ders muafiyeti talepleri, programa kayıt olduğu yarıyılın başlangıcından itibaren ilk iki hafta içinde yapılır ve takip eden bir hafta içinde sonuçlandırılır.
+(3) Ulusal kredisi olmayan derslerde ders saydırma başvurusunda bulunulamaz.

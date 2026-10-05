@@ -1,0 +1,3 @@
+Ders alma ve alınan derslerin kabulü
+MADDE 45- (1) Lisansüstü öğrencilerin ders programlarında gerekli görülmesi halinde ilgili EABDAK/EASDAK’ın teklifi ve EYK’nın kararı ile diğer anabilim dallarından, enstitülerinden veya bir başka yükseköğretim kurumu lisansüstü programından zorunlu dersler haricinde en fazla iki ders almaları sağlanabilir. Alındığı programın zorunlu derslerinden olmamak kaydı ile bu derslerden başarılı olma şartı aranır ve kredi yüküne sayılır.
+(2) Lisansüstü öğrencilerin, bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren en az bir dersi lisansüstü eğitimi sırasında alması zorunludur.

@@ -1,0 +1,8 @@
+Ders tekrarı
+MADDE 53- (1) Zorunlu ve seçmeli derslerin ders tekrarı ile ilgili esasları şunlardır:
+a) Öğrenciler, almış olduğu zorunlu ve seçmeli dersleri başarmakla yükümlüdür. Başarısız olunması halinde aşağıdaki hususlara dikkat edilir:
+1) Zorunlu derslerde öğrenci başarısız olduğu zaman dersleri tekrar etmek zorundadır. Ancak öğretim programından kaldırılan zorunlu derslerin yerine ise öğrenciler danışmanın önerisi, EABD/EASD başkanlığının teklifi ve EYK tarafından onaylanan dersleri alırlar.
+2) Seçmeli derslerde başarısızlık halinde ise başarısız olduğu dersi tekrar alabilir veya yeniden başka bir seçmeli ders seçebilir.
+3) Dersten başarısızlık durumu, devamsızlıktan kaynaklanmış ise, tekrar edilen derse devam zorunludur.
+b) Öğrencilerin, kayıtlı olduğu yarıyılın eğitim-öğretim planında yer alan zorunlu/seçmeli ders/dersleri almaması veya dersi alıp başarısız olmaları halinde; ders adı, ders kredisi, AKTS kredisi ve içeriğinin uyması koşulu ile farklı yarıyılda açılan ders/dersleri (güz yarıyılı dersini bahar yarıyılında-bahar yarıyılı dersini güz yarıyılında) diğer bölüm/program ve birimlerden danışmanının uygun görüşü ve ilgili birimin yönetim kurulunun onayı ile ekle-sil haftası içerisinde ders yükünü aşmayacak şekilde ders kayıt işlemlerini tamamlarlar.
+(2) Öğrenciler, genel not ortalamalarını yükseltmek amacıyla başarılı olunan dersleri tekrar alabilirler. Tekrarlanacak derslerle ilgili başvuru, ders kayıtları süresi içinde öğrencinin dilekçesi, danışman onayı ve EABD/EASD başkanlığının teklifi ile EYK’da karara bağlanır. Öğrencinin not ortalamasının hesaplanmasında herhangi bir dersten en son alınan ders notu dikkate alınır.

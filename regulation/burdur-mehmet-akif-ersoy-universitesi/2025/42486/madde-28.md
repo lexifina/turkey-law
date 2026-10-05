@@ -1,0 +1,4 @@
+Tez izleme komitesi
+MADDE 28- (1) Yeterlik sınavında başarılı bulunan öğrenci için danışmanın talebi üzerine ilgili EABD/EASD başkanlığının önerisi ve EYK onayı ile bir ay içinde bir tez izleme komitesi oluşturulur.
+(2) Tez izleme komitesi üç öğretim üyesinden oluşur. Komitede tez danışmanından başka ilgili EABD/EASD içinden ve dışından birer üye yer alır. Anabilim dalı dışından komitede yer alacak üyenin uzmanlık alanı öğrencinin tez konusuyla ilgili olmalıdır. Komitede EABD/EASD dışından yer alacak üye Üniversite veya diğer yükseköğretim kurumlarında görevli öğretim üyeleri arasından seçilebilir. İkinci tez danışmanının atanması durumunda ikinci tez danışmanı komite toplantılarına katılabilir, ancak tez izleme komitesi üyesi olamaz.
+(3) Tez izleme komitesinin kurulmasından sonraki dönemlerde, danışmanın teklifi, EABD/EASD başkanlığının önerisi ve EYK onayı ile üyelerde değişiklik yapılabilir.

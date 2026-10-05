@@ -1,0 +1,2 @@
+Bir alt programdan ders alma
+MADDE 48- (1) Lisans programında almamış olmak şartıyla tezli yüksek lisans öğrencileri en fazla iki dersi, tezsiz yüksek lisans öğrencileri en fazla üç dersi danışmanın onayı ile lisans programındaki derslerden seçebilir. Doktora öğrencileri, danışmanın uygun görüşü ile yüksek lisans programından ders alabilirler. Doktora programlarında lisans veya bilimsel hazırlık programlarından alınan dersler kredi yüküne sayılmaz.

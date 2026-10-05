@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 51- (1) Öğrenciler ve derslerden sorumlu öğretim üyeleri, not ilanından itibaren beş iş günü içinde enstitü müdürlüğüne bir dilekçe ile başvurarak sınav kâğıtlarının ve başarı notunun maddi hata yönünden yeniden incelenmesini isteyebilirler. EYK’ca oluşturulan komisyon tarafından incelenir, gerektiğinde dersin sorumlu öğretim elemanı/elemanlarının görüşü alınarak en geç on beş gün içinde sonuçlandırılır. Sınav kâğıtlarında ve sınav not çizelgelerinde maddi hata belirlenirse EYK kararı ile düzeltilir. Sonuç yazılı olarak öğrenciye bildirilir.

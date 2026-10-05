@@ -1,0 +1,10 @@
+Başvuru koşulları
+MADDE 11- (1) Tezli yüksek lisans programına başvurabilmek için adayların;
+a) Lisans diplomasına veya YÖK tarafından eşdeğerliği kabul edilen yurt dışı fakülte veya yüksekokul diplomasına ve başvurduğu programın puanı türünde en az 55 ALES puanına sahip olmaları gerekir. Ancak güzel sanatlar fakültelerinin ve konservatuvarın enstitülerdeki anabilim ve anasanat dallarına öğrenci kabulünde ALES puanı aranmaz.
+b) Doktora ve tıpta/diş hekimliğinde uzmanlık eğitimini tamamlayanların yüksek lisans programına başvuru yapması halinde, Senato tarafından mezun olduğu lisansüstü programa girişteki puan türü veya uzmanlık alanı dikkate alınmaksızın ALES sınavına girme şartı aranmaksızın ALES puanı yerine kullanılmak üzere 70 olarak bir puan belirlenir.
+c) Konservatuvar programları ile güzel sanatlar fakültelerinin sadece özel yetenek sınavı ile öğrenci kabul eden programlarının enstitülerdeki anasanat ve anabilim dallarındaki öğretim dili Türkçe olan programlarına başvurularda Devlet hastanesi veya Devlet üniversitesi hastanesinden alınmış sağlık raporu ile belgelenmesi şartıyla;
+1) Düzeltilmemiş engeli en az %70 veya düzeltilmiş engeli en az %40 ve üzeri olan işitme engelli adaylarda,
+2) Engel düzeyi %50 ve üzeri olmak üzere zihin yetersizliği bulunan engelli adaylarda,
+3) Engel düzeyi %40 ve üzeri ‘’yaygın gelişimsel bozukluk’’ (Otizm spektrum bozukluğu/çocukluk otizmi/atipik otizm, Rett Sendromu, Asperger Sendromu) tanısı bulunan engelli adaylarda,
+başvuru yapabilmeleri için yabancı dil puanı aranmaz. Bu adaylar yabancı dil puanı olarak Üniversite tarafından aranan yabancı dil taban puanı şartını sağlamış sayılır.
+ç) (Ek:RG-5/10/2026-33391) Yükseköğretim kurumlarının yabancı dilde eğitim veren programlarında, YÖK tarafından kabul edilen merkezî yabancı dil sınavlarından en az 55 puan ya da ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından bu puan muadili bir puan almış olmak gerekir. Bu taban puanlar Senato kararı ile yükseltilebilir.

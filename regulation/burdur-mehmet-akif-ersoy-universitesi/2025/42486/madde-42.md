@@ -1,0 +1,6 @@
+Kesin kayıt
+MADDE 42- (1) Lisansüstü programlara kayıt hakkı kazanan Türk ve yabancı uyruklu adaylar, akademik takvimde belirtilen tarihlerde öğrenci alımı ilanında istenilen belgeleri teslim ederek kesin kayıtlarını yaptırmak zorundadırlar. Belirtilen tarihlerde kesin kayıt yaptırmayan veya eksik evrak ve benzeri nedenlerle kayıt şartlarını yerine getirmediği için kaydı yapılamayanların daha sonra hiçbir şekilde kaydı yapılmaz. Kesin kaydını yaptırmayan adayın yerine yedek adaylardan başarı puanına göre eksik kontenjan kadar aday kayıt hakkı kazanır.
+(2) Kayıt için istenen belgelerin aslı, mezun olduğu okul veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumuna ilişkin olarak ise adayların yazılı beyanına dayanılarak işlem yapılır.
+(3) Belgeleri eksik olanların ve belgelerindeki eksikliği süresi içinde gidermeyenlerin veya sahte belgelerle başvuranların kayıtları yapılmaz, yapılmış ise kayıtları iptal edilir.
+(4) Kesin kaydını yaptıran öğrenci, ilk beş iş günü içerisinde kendi isteği ile kaydını sildirmesi halinde, yedek öğrenciler sırası ile çağrılır.
+(5) Kendi isteği ile kaydını sildirmek isteyen öğrenci, dilekçe ile ilgili enstitü müdürlüğüne başvurur. Kayıt, EYK kararıyla silinir. İlişiği kesilen öğrencinin ödemiş olduğu öğrenim ücreti iade edilmez.

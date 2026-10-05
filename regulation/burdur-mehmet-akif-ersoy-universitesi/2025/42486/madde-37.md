@@ -1,0 +1,7 @@
+Sanatta yeterlik diploması
+MADDE 37- (1) Sanatta yeterlik çalışmasında başarılı olan öğrenciye, diğer koşulları da sağlamak kaydıyla YÖK tarafından onaylanan sanat dalının özelliğine göre alanı belirleyen bir diploma verilir.
+(2) Tez savunmasında başarılı olmak ve diğer koşulları da sağlamak kaydıyla sanatta yeterlik tezinin istenilen sayıda nüshasını ve kayıtlı CD’sini tez sınavına giriş tarihinden itibaren bir ay içinde Enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci sanatta yeterlik diploması almaya hak kazanır. EYK başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde ilişiği kesilir.
+(3) Sanatta yeterlik diploması öğrencinin kayıtlı olduğu enstitünün EABD/EASD dalındaki programın, Yükseköğretim Kurulu tarafından onaylanmış adıyla düzenlenir. İlgili enstitünün tez yazım kılavuzuna uygun olarak hazırlanan tezin, tez sınav jürisi tarafından imzalanarak onaylanmış son hali, Tez Teslimi Danışman Kontrol Formu ile intihal yazılım programı raporu Enstitüye teslim edilir. Mezuniyet tarihi tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.
+(4) Diploma düzenleninceye kadar yerine geçmek üzere, öğrencinin yazılı talebiyle geçici mezuniyet belgesi verilir.
+YEDİNCİ BÖLÜM
+Bilimsel Hazırlık Programı, Özel Öğrenci, Lisansüstü Programlar Arası Geçiş,

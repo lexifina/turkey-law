@@ -1,0 +1,4 @@
+İzin, Kayıt Silme ve İlişik Kesme
+Kayıt yenileme
+MADDE 44- (1) Lisansüstü programlara kayıt hakkı kazanan ve kayıtlı öğrenciler, güz ve bahar yarıyılları başlarında, akademik takvimde belirtilen tarihlerde, 2547 sayılı Kanunun 46 ncı maddesinde belirtilen koşullara göre belirlenen katkı payı veya öğrenim ücretini ödemek ve enstitü müdürlüğünce gerekli kayıt yenileme işlemlerini yerine getirmekle yükümlüdürler. Katkı payı veya öğrenim ücretini ödemeyenlerin kaydı yenilenmez. Katkı payı ödemedikleri süre içinde kendilerine not çizelgesi, öğrenci belgesi, staj yazısı ve askerlik belgesi gibi belgeler verilmez.
+(2) Kaydını yenilemeyen öğrenciler o yarıyıl ders seçemezler. Tez aşamasında ise, tez danışmanı/tez izleme komitesi tarafından o yarıyıl değerlendirme dışı bırakılır. Kayıt yenileme yapılmadığında geçen süre azami öğrenim süresinden sayılır.
