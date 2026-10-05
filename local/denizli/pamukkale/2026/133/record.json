@@ -1,0 +1,24 @@
+{
+  "number": "133",
+  "number_as_published": "2026/133",
+  "year": 2026,
+  "title": "Belediye Meclisinin Kasım ayı toplantısının “06 Kasım 2026 Cuma günü saat 15.00’te” yapılmasının uygun görüldüğü hk.",
+  "decision_date": "2026-10-05",
+  "source": "https://www.pamukkale.bel.tr/y-1002-2026-yili-ekim-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "c2edd15ac23cec76916daff0f62cb2d3ce679cf4f9dbb5dc187e34199daa953a",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2026-10-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.10.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.pamukkale.bel.tr/y-1002-2026-yili-ekim-ayi-meclis-karar-ozetleri",
+  "listing_label": "2026 YILI EKİM AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
