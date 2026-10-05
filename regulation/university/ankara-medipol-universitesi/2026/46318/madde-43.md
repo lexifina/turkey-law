@@ -1,0 +1,4 @@
+Yurt dışı eğitim
+MADDE 43- (1) Yurt dışındaki yükseköğretim kurumlarından enstitünün özel anlaşma yaptığı veya öğrencinin kişisel girişimleri sonucu kabul aldığı eğitim kurumlarında kısa veya uzun süreli eğitim veya uygulama yapılabilir. Bu tür eğitimlerin tüm giderleri öğrenciye aittir.
+(2) Yurt dışında yapılacak eğitim ve uygulamaların enstitüdeki eğitim programının bir parçası olarak değerlendirilebilmesi için ilgili anabilim/anasanat dalı başkanlığının uygun görüşü ve ilgili enstitü yönetim kurulunun kararı gerekir.
+(3) Yurt dışında geçirilecek süre, bu Yönetmelikte belirtilen öğretim sürelerinden sayılır ve yurt dışındaki eğitim ve uygulamalarda da ilgili enstitüde aranan başarı koşulları aranır. Yurt dışındaki eğitimin not ve kredi eşdeğerliği, ilgili yükseköğretim kurumundan gönderilecek belgelere göre anabilim/anasanat dalının görüşü alınarak ilgili enstitü yönetim kurulunca karara bağlanır.

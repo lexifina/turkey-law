@@ -1,0 +1,5 @@
+Diploma
+MADDE 19- (1) Tez sınavında başarılı olmak ve mezuniyet için gerekli diğer koşulları da sağlamak kaydıyla, yüksek lisans tezinin ciltlenmiş en az üç nüshasını ve dijital kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde ilgili enstitüye teslim eden ve tezi şekil yönünden uygun bulunan yüksek lisans öğrencisine tezli yüksek lisans diploması verilir. İlgili enstitü yönetim kurulu, talep durumunda, teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar geçici mezuniyet belgesini ve diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azamî süresinin dolması durumunda ilişiği kesilir.
+(2) Tezli yüksek lisans diploması üzerinde, öğrencinin kayıtlı olduğu enstitü anabilim/anasanat dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(3) Mezuniyet tarihi, tez jürisi tarafından tezin imzalı nüshasının teslim edildiği tarihtir.
+(4) Tezin tesliminden itibaren üç ay içinde yüksek lisans tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere ilgili enstitü tarafından YÖK’e gönderilir.

@@ -1,0 +1,5 @@
+Ders seçme ve derse kayıt
+MADDE 45- (1) Lisansüstü programlardaki zorunlu ve seçmeli dersler ile varsa ön koşul dersleri, bunların kredileri, dönemleri ve sorumlu öğretim elemanları, ilgili anabilim/anasanat dalı başkanlığının önerisi üzerine ilgili enstitü kurulunca kararlaştırılır ve Senatonun onayından sonra uygulanır.
+(2) Anabilim/anasanat dalı kurulunun önerisi ve ilgili enstitü yönetim kurulunun kararıyla öğrenciler yurt içi ve yurt dışındaki başka yükseköğretim kurumlarından da lisansüstü dersler alabilirler.
+(3) Öğrenciler, akademik takvimde belirlenen süreler içinde, kayıt yaptırdığı derslerde akademik danışmanlarının onayıyla ekleme veya silme yapabilirler. Öğrencilerin ders ekle sil döneminden sonra dersten çekilme talepleri ilgili enstitü yönetim kurulunda değerlendirilerek karara bağlanır. Ancak bu dersler için ücret iadesi yapılmaz.
+(4) Bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren en az bir dersin lisansüstü eğitim sırasında verilmesi zorunludur.

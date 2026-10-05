@@ -1,0 +1,5 @@
+Sanatta yeterlik diploması
+MADDE 37- (1) Sanatta yeterlik çalışmasında başarılı olan öğrenciye, diğer koşulları da sağlamak kaydıyla YÖK tarafından onaylanan sanat dalının özelliğine göre alanı belirleyen bir diploma verilir.
+(2) Mezuniyet tarihi, tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.
+(3) Tez savunmasında başarılı olmak ve diğer koşulları da sağlamak kaydıyla sanatta yeterlik tezinin ciltlenmiş en az üç kopyası ile dijital kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde ilgili enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci sanatta yeterlik diploması almaya hak kazanır. İlgili enstitü yönetim kurulu başvuru üzerine teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde sanatta yeterlik eğitimi ile ilişiği kesilir.
+(4) İlgili enstitü tarafından tezin tesliminden itibaren üç ay içinde sanatta yeterlik tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere YÖK’e gönderilir.
