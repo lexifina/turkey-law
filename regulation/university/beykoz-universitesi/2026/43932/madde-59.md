@@ -1,0 +1,5 @@
+Ders tekrarı
+MADDE 59- (1) Öğrenciler, başarısız oldukları zorunlu dersleri tekrar alırlar. Ancak öğrencinin başarısız olduğu için tekrar etmesi gereken zorunlu bir dersin açılmaması veya öğretim planından kaldırılması durumunda danışman onayıyla öğrenci bu derse eşdeğer kabul edilen başka bir ders/dersler alabilir. Yarıyıl harf başarı notu FF, DZ, BZ ve W olan öğrenciler başarısız oldukları veya çekildikleri bu dersleri tekrar etmek zorundadırlar. Tekrar edilen derslerin notları dersin ait olduğu yarıyıllara işlenir ve o yarıyılın genel not ortalamasına katılır.
+(2) Öğrenciler, başarısız oldukları seçmeli derslerin yerine, kredisi başarısız oldukları dersten az olmamak koşuluyla, başka bir seçmeli dersi alabilirler.
+(3) Öğrenciler, isterlerse başarılı oldukları dersi/dersleri, not ortalamalarını yükseltmek amacıyla her bir dersi bir kereye mahsus olmak üzere tekrar alabilirler. Bu durumda öğrencinin aldığı en son not geçerlidir.
+(4) Bir dersten devam koşulunu yerine getiren bir öğrenciden ders tekrarı yapması durumunda derse devam koşulu aranmaz.

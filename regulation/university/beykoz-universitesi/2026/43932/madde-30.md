@@ -1,0 +1,12 @@
+DÖRDÜNCÜ BÖLÜM
+Sanatta Yeterlik Programı
+Genel esaslar
+MADDE 30- (1) Sanatta yeterlik çalışması, özgün bir sanat eserinin ortaya konulmasını, müzik ve sahne sanatlarında ise üstün bir uygulama ve yaratıcılığı amaçlayan doktora eşdeğeri bir yükseköğretim programıdır.
+(2) Tez, sergi, proje, resital, konser, temsil gibi çalışmalar sanatta yeterlik çalışması olarak kabul edilir.
+(3) (Mülga:RG-5/10/2026-33391)
+(4) Sanatta yeterlik programı tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için toplam yirmi bir krediden ve bir eğitim-öğretim dönemi 60 AKTS’den az olmamak koşuluyla en az yedi ders, uygulamalar ile tez, sergi, proje, resital, konser, temsil gibi çalışmalar olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de en az kırk iki kredilik 14 ders, uygulamalar ile tez, sergi, proje, resital, konser, temsil gibi çalışmalar olmak üzere en az 300 AKTS kredisinden oluşur.
+(5) Üniversitenin farklı programlarında verilmekte olan derslerinden ise yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört tanesi ilgili ana bilim/ana sanat dalı başkanlığının önerisi ile seçilebilir.
+(6) Lisansüstü dersler, Enstitü ana bilim/ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan doktora derslerinden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir.
+(7) Sanatta yeterlik öğrencileri, danışmanın önerisiyle lisans ve/veya yüksek lisans dersleri alabilir. Bu dersler sanatta yeterlik ders yüküne ve kredisine sayılmaz. Bu dersler not döküm belgesinde gösterilir.
+(8) Lisansüstü eğitim-öğretimin tamamının bir yabancı dilde yapıldığı programlarda dersler, seminer, yeterlik sınavları ve tez savunma sınavları eğitim dilinde yapılır. Sanatta yeterlik tezi eğitim-öğretimin verildiği dilde ve tez yazım kurallarına uygun olarak yazılır.
+(9) Öğretim dili Türkçe olan lisansüstü programlarda öğrencinin talebi danışmanın gerekçeli görüşü, ana bilim dalı kurul kararı ve Enstitü Yönetim Kurulunun onayı ile tezlerin, tezin 1/4'ünden az olmamak üzere geniş bir Türkçe özet verilmek kaydıyla, başka bir dilde de yazılabilir. Senato tarafından belirlenen yabancı dilde eğitim-öğretim verilen programlara başvuru koşullarındaki dil şartının öğrenci tarafından karşılanması gerekir.

@@ -1,0 +1,6 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 44- (1) Üniversitedeki veya başka bir yükseköğretim kurumundaki lisansüstü programda bilimsel hazırlık dışında ders alma aşamasında en az bir yarıyılı tamamlamış öğrenci yatay geçiş yoluyla Üniversitenin lisansüstü programlarına kabul edilebilir.
+(2) Yüksek lisans eğitim-öğretim programlarında ders aşamasında olan veya tez savunmasına girmemiş öğrencilerden not döküm belgesi ve onaylı ders içeriği istenir. Bu öğrencilerin hangi derslerinin muaf edileceği ve hangi dersleri alacakları ana bilim/ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun kararı ile kesinleşir.
+(3) Bulunduğu Doktora/Sanatta Yeterlik Programında en az bir yarıyılı tamamlamış ve yeterlik sınavına girmemiş öğrenci Üniversite programlarına yatay geçiş yapabilir.
+(4) Doktora/sanatta yeterlik programlarına ders aşamasında yatay geçiş için başvuran öğrencilerden not döküm belgesi ve onaylı ders içeriği istenir. Bu öğrencilerin hangi derslerinin muaf edileceği ve hangi dersleri alacakları ana bilim/ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun kararı ile kesinleşir.
+(5) Öğrencinin diğer lisansüstü programda geçirdiği eğitim süresi Üniversitedeki lisansüstü programlarda eğitimi için verilecek süreye dâhil edilir.

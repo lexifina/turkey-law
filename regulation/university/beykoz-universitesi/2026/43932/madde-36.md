@@ -1,0 +1,5 @@
+Sanatta yeterlik çalışması izleme komitesi
+MADDE 36- (1) Yeterlik sınavında başarılı bulunan öğrenci için Enstitü ana bilim/ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile bir ay içinde bir sanatta yeterlik çalışması izleme komitesi oluşturulur.
+(2) Sanatta yeterlik çalışması izleme komitesi üç öğretim üyesinden oluşur. Komitede danışmandan başka Enstitü ana bilim/ana sanat dalı içinden ve dışından birer üye yer alır. İkinci danışmanın atanması durumunda ikinci tez danışmanı oy hakkı olmaksızın komite toplantılarına katılabilir.
+(3) Sanatta yeterlik çalışması izleme komitesinin kurulmasından sonraki dönemlerde, Enstitü ana bilim/ana sanat dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu onayı ile üyelerde değişiklik yapılabilir.
+(4) Çalışması kabul edilen öğrenci için sanatta yeterlik çalışması izleme komitesi, ocak-haziran ve temmuz-aralık ayları arasında birer defa olmak üzere yılda iki kez toplanır. Öğrenci, toplantı tarihinden en az bir ay önce komite üyelerine yazılı bir rapor sunar. Bu raporda o ana kadar yapılan çalışmaların özeti ve bir sonraki dönemde yapılacak çalışma planı belirtilir.
