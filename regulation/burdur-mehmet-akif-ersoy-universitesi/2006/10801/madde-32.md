@@ -1,0 +1,2 @@
+Yan dal programı
+MADDE 32 –(1) Yan dal programı; ilgili bölüm/anabilim dalının isteği, (Değişik ibare:RG-10/7/2019-30827) fakülte/yüksekokul/konservatuvar kurulunun önerisi ve Senatonun kararı ile kesinleşir ve bölüm/anabilim dallarının işbirliği ile yürütülür. Herhangi bir lisans programına kayıtlı öğrencilerden gerekli koşulları sağlayanlara kendi lisans programlarına ek olarak sertifikaya yönelik bir yan dal programı uygulanabilir, ancak bu program ayrı bir lisans programı anlamını taşımaz. Yan dal ile ilgili hususlar Senato tarafından belirlenir.

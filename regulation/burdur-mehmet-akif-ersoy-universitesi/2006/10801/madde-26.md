@@ -1,0 +1,8 @@
+Sınav sonuçlarının ilanı ve itiraz
+MADDE 26 – (Değişik:RG-14/10/2022-31983)
+(1) Sınavı yapan öğretim elemanı akademik takvimde belirlenen tarihler arasında sınav sonuçlarını öğrenci otomasyon sistemi vasıtasıyla ilan eder. Notlar ilan edildiği tarihte kesinleşir. Döneme ait tüm sınav evrakı dönem sonu sınavından sonra dekanlığa/müdürlüğe teslim edilir. Bu evraklar beş yıl süreyle saklanır.
+(2) Otomasyon bilgi sisteminde ilan edilen sınav notları ile ilgili maddi hata itirazları aşağıdaki şekilde incelenir:
+a) Öğretim elemanı tarafından sehven girildiği tespit edilen sınav notları ile ilgili olarak not düzeltme formu ile birlikte ilgili birime başvurulur ve birim yönetim kurulu kararıyla hatalı not düzeltilir.
+b) Otomasyon bilgi sisteminde ilan edilen sınav notları ile ilgili maddi hata itirazları hakkında ilan edildiği tarihten itibaren üç iş günü içinde ilgili birime başvuruda bulunulur.
+c) İlgili birim amirinin görevlendireceği dekan/müdür yardımcısı başkanlığında toplam üç öğretim elemanından oluşan maddi hata itirazları inceleme komisyonu oluşturulur. Komisyona bilgi vermek üzere dersi veren öğretim elemanı da davet edilir. Komisyon değerlendirmelerini öğrenci başvuru süresinin sona ermesini takip eden ilk iş günü içerisinde değerlendirir ve aynı gün rapor halinde dekanlığa yönetim kurulunda görüşülmek üzere sunar; takip eden gün içerisinde de birim yönetim kurulu tarafından sonuçlandırılan karar aynı gün içerisinde öğrenciye tebliğ edilir.
+(3) Bu şekilde yapılacak düzeltmelerde sınıfın hesaplanmış olan istatistiksel değerleri sabit kalır ve aynı sabit değerler üzerinden işlem yapılır.

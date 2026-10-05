@@ -1,0 +1,3 @@
+Akademik danışmanlık
+MADDE 17 –(1) Öğrencilere; eğitim-öğretim konularında karşılaşacakları sorunların çözümünde yardımcı olmak üzere, ders yılı başlamadan önce, bölüm başkanlıklarının veya program koordinasyon başkanlıklarının önerisi dikkate alınarak birim yönetim kurullarınca, ilgili bölümün öğretim üyeleri arasından, öğretim üyesi bulunmayan ya da sayıca yetersiz olan birimlerde öğretim görevlileri ve okutmanlar arasından danışmanlar görevlendirilir. Akademik danışmanların görevleri, Senato tarafından belirlenir.
+(2) (Ek:RG-5/9/2010-27693)Uzaktan eğitim yapılan programlarda ilgili birim kurulunca her program için bir akademik danışman ve her ders için bir ders danışmanı görevlendirilir.
