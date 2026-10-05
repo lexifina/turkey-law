@@ -1,0 +1,2 @@
+Yurt içi veya yurt dışı değişim programları
+MADDE 11- (1) Üniversite ile yurt içi veya yurt dışındaki diğer yükseköğretim kurumları arasında yapılan ikili anlaşmalar ve ilgili mevzuat hükümleri çerçevesinde karşılıklı öğrenci değişim programları uygulanabilir. Değişim programı süresi içinde öğrencinin Üniversitedeki kaydı devam eder. Öğrenci değişim programları, 18/2/2009 tarihli ve 27145 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Arasında Öğrenci ve Öğretim Üyesi Değişim Programına İlişkin Yönetmelik ve Senato tarafından belirlenen esaslara göre yürütülür.

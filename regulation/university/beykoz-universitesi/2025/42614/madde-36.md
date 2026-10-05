@@ -1,0 +1,2 @@
+Muafiyet sınavı
+MADDE 36- (1) Önceki öğrenmenin tanınması ve ders muafiyeti kapsamında Senato, ders programlarında yer alan bazı dersler için akademik takvimde belirtilen tarihlerde muafiyet sınavlarının yapılmasına karar verebilir. Bu sınavlara katılarak başarı gösteren öğrenciler ilgili derslerden muaf tutulurlar, muaf olunan derslerin başarı notları harfli nota dönüştürülür ve bu notlar genel not ortalaması hesabında yer alır.

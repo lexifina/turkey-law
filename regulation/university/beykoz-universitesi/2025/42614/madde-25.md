@@ -1,0 +1,5 @@
+Ders tekrarı
+MADDE 25- (1) Bir derste yarıyıl harf başarı notu DZ, FF, FD, BZ, W olan öğrenciler, başarısız oldukları ya da çekildikleri bu dersleri veya yerine açılan eş değer dersleri tekrar etmek zorundadır. Tekrar edilen derslerin notları, dersin ait olduğu yarıyıla işlenir ve ilgili yarıyılın genel not ortalamasına (GNO) katılır.
+(2) Öğrencinin başarısız olduğu dersin, eğitim-öğretim programlarındaki değişiklik sonucu ders programından çıkarılmış olması halinde, başarısız olduğu dersin kredisinden az olmamak koşuluyla, başarısız olduğu ders ile eşleştirilen ders/dersleri ilgili kurul kararı ile alır.
+(3) Öğrenciler, başarısız oldukları seçmeli derslerin yerine, kredisi başarısız oldukları dersten az olmamak koşuluyla, başka bir seçmeli dersi alabilirler.
+(4) Öğrenciler, isterlerse başarılı oldukları dersi/dersleri, not ortalamalarını yükseltmek amacıyla her bir dersi bir kereye mahsus olmak üzere tekrar alabilirler. Alınan dersin/derslerin başarı notu hesabında son alınan not geçerlidir.

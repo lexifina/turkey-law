@@ -1,0 +1,4 @@
+Eğitim-öğretim yılı ve akademik takvim
+MADDE 17- (1) Bir eğitim-öğretim yılı, yarıyıl sonu sınavları hariç olmak üzere, her biri on dört haftalık (yetmiş iş günü) iki yarıyıldan oluşur. Zorunlu hâllerde ders ve sınavlar, hafta içi mesai saatleri sonrasında ve/veya cumartesi ile pazar günlerinde de yapılabilir.
+(2) Birinci fıkrada belirtilen yarıyıllar dışında, Senato tarafından yedi hafta süreli yaz öğretimi açılmasına karar verilebilir. Yaz öğretimi, YÖK’ün belirlediği ilkeler ve Senato tarafından belirlenen esaslara göre yürütülür.
+(3) Akademik takvim; öğrencilerin öğretim programlarına kabul ve kayıt işlemleri, eğitim-öğretim, sınavlar ve benzeri faaliyetlere ilişkin süreleri kapsar ve bir önceki eğitim-öğretim yılı içerisinde Senato tarafından belirlenir ve ilan edilir. Zorunlu durumlarda akademik takvimde Senato tarafından değişiklik yapılabilir.

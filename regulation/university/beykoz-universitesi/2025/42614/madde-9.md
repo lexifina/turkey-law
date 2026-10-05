@@ -1,0 +1,2 @@
+Dikey geçiş öğrencileri
+MADDE 9- (1) ÖSYM tarafından yapılan dikey geçiş sınavı ile Üniversitenin lisans programlarına yerleştirilen öğrencilerin, yerleştikleri programlara intibak işlemleri, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümleri ve Senato tarafından belirlenen esaslara göre yürütülür.

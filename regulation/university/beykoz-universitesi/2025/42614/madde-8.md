@@ -1,0 +1,2 @@
+Yatay geçiş öğrencileri
+MADDE 8- (1) Yurt içi veya yurt dışı yükseköğretim kurumlarından Üniversitenin lisans veya ön lisans bölüm veya programlarına yatay geçişle öğrenci kabulü ve kayıtları, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato tarafından belirlenen esaslara göre yürütülür.

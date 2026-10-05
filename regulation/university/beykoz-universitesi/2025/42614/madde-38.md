@@ -1,0 +1,8 @@
+Başarı notu
+MADDE 38- (1) Örgün programlarda öğrencilerin bir ders ile ilgili başarı notu; yarıyıl içi ölçme ve değerlendirme faaliyetlerinden aldıkları notların ağırlıklı ortalamasının %50’si ve yarıyıl sonu sınavından aldıkları notun %50’si alınarak hesaplanır. Uzaktan eğitim programlarında Senato tarafından kabul edilen ilgili yönergede tanımlanan ağırlıklar uygulanır. Proje ve proje odaklı derslerde yarıyıl içi ve yarıyıl sonu sınavlarının ağırlıkları ilgili akademik birimler tarafından belirlenir ve EÖBS’de tanımlanması için Rektörlüğe iletilir.
+(2) Öğrencilerin bir derse ilişkin başarı notu, mutlak değerlendirme sistemi esas alınarak hesaplanır. Bu kapsamda:
+a) Başarı notu; yarıyıl içi çalışmaları ile yarıyıl/yıl sonu sınavlarından alınan puanlar esas alınarak belirlenir.
+b) Yarıyıl içi çalışmaları en az iki farklı değerlendirme etkinliğinden oluşur. Bu etkinliklerden biri zorunlu olarak ara sınav (vize) olmak zorundadır. Ara sınavın başarı notuna katkı oranı %35’in altına düşürülemez.
+c) Proje ve uygulama temelli derslerde yarıyıl içi ve yarıyıl sonu değerlendirme oranları, ilgili akademik birim tarafından belirlenir ve ilan edilmek üzere Rektörlüğe bildirilir.
+(3) (Değişik:RG-5/10/2026-33391) İşletmede mesleki eğitim, iş yerinde uygulama eğitimi ve staj derslerinin ölçme ve değerlendirme işlemleri ile başarı notlarının belirlenmesine ve not ortalamalarına katılmasına ilişkin hususlar, Üniversite tarafından belirlenen ilgili yönergelere göre yürütülür.
+(4) Ara sınav ve/veya yarıyıl sonu sınavı gerektirmeyen derslerin başarı notu dersin özelliğine göre mutlak bir not ile veya başarılı (BI)/başarısız (BZ) olarak değerlendirilebilir. Başarılı veya başarısız olarak değerlendirilen derslerin notları not ortalamalarına katılmaz.

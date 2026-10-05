@@ -1,0 +1,2 @@
+Özel öğrenci
+MADDE 13- (1) Yurt içi veya yurt dışındaki bir yükseköğretim kurumuna kayıtlı olan ve Üniversiteden ders almalarına izin verilen öğrencilerin kabulü ve kayıt işlemleri, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile Senato tarafından belirlenen esaslar doğrultusunda yürütülür.
