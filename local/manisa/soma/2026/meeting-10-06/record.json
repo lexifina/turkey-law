@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-06",
+  "number_as_published": "meeting-10-06",
+  "year": 2026,
+  "title": "06.10.2026 - 14.10.2026 165 - 184 2026 Ekim Ayı Meclis Karar Özetleri",
+  "decision_date": "2026-10-06",
+  "source": "https://www.soma.bel.tr/karar-detay/2026-ekim-ayi-meclis-karar-oezetleri/90",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/17936229682026 Ekim Ayı MeclisKararOzetleri.pdf",
+  "source_sha256": "9c46b08a2c4c984618b86d7656c5f7271c17e07464e88618688bc27de7230e0b",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.10.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.10.2026 - 14.10.2026 165 - 184 2026 Ekim Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2026-ekim-ayi-meclis-karar-oezetleri/90"
+}
