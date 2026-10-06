@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-06",
+  "number_as_published": "meeting-10-06",
+  "year": 2026,
+  "title": "2026 YILI EKİM AYI MECLİS KARARLARI 06 Ekim 2026 14:00",
+  "decision_date": "2026-10-06",
+  "source": "https://www.tirebolu.bel.tr/karar/2026-yili-ekim-ayi-meclis-kararlari/118/",
+  "official_document": "https://www.tirebolu.bel.tr/dosya/2026%20Ekim%20Ay%C4%B1%20Meclis/2026%20YILI%20EK%C4%B0M%20MECL%C4%B0S%20KARARLARLARI.pdf",
+  "source_sha256": "938240493f629d8002295480db07f3164c0f107a2f0e547e0e190385d0907e13",
+  "issuer": "Tirebolu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 EKİM 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2026 YILI EKİM AYI MECLİS KARARLARI 06 Ekim 2026 14:00",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.tirebolu.bel.tr/karar/2026-yili-ekim-ayi-meclis-kararlari/118/"
+}
