@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33392",
+  "date_quote": "06.10.2026",
+  "first_law": null,
+  "gazette": "33392",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-06",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Milli Eğitim Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-80-0.json",
+      "id": "80",
+      "label": "Milli Eğitim Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=80&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "milli-egitim-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-10-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46322&MevzuatTertip=5",
+  "source_bytes": 20689,
+  "source_id": "9.5.46322",
+  "source_sha256": "cbfaef602b62ed410e3717f186dbe5753e99d7c9698ef0d3a0257f0a648bc9ac",
+  "title": "2026-2027 EĞİTİM VE ÖĞRETİM YILINDA ADIYAMAN, HATAY, KAHRAMANMARAŞ VE MALATYA İLLERİ İLE GAZİANTEP İLİNİN İSLAHİYE VE NURDAĞI İLÇELERİNDEKİ\r\nÖZEL OKULLARDA ÖĞRENİM GÖREN VE ÖNCEKİ YILLARDA EĞİTİM VE\r\nÖĞRETİM DESTEĞİ KAPSAMINA ALINIP ÖĞRETİM KADEMESİNİ TAMAMLAMAYAN ÖĞRENCİLER İÇİN EĞİTİM VE ÖĞRETİM DESTEĞİ VERİLMESİNE İLİŞKİN TEBLİĞ",
+  "word_count": 638
+}
