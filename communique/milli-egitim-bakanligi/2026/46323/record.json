@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33392",
+  "date_quote": "06.10.2026",
+  "first_law": null,
+  "gazette": "33392",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-06",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Milli Eğitim Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-80-0.json",
+      "id": "80",
+      "label": "Milli Eğitim Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=80&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "milli-egitim-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-10-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46323&MevzuatTertip=5",
+  "source_bytes": 60271,
+  "source_id": "9.5.46323",
+  "source_sha256": "662cff9fcde66ca1992ec36b2b73d299263b23ace890058a620207633ad6135d",
+  "title": "2026-2027 EĞİTİM ÖĞRETİM YILINDA ORGANİZE SANAYİ BÖLGELERİ\r\nİÇİNDE VE ORGANİZE SANAYİ BÖLGELERİ DIŞINDA AÇILAN ÖZEL MESLEKÎ VE TEKNİK ANADOLU LİSELERİNDE ÖĞRENİM GÖREN/GÖRECEK ÖĞRENCİLER İÇİN EĞİTİM VE ÖĞRETİM DESTEĞİ VERİLMESİNE İLİŞKİN TEBLİĞ",
+  "word_count": 1009
+}
