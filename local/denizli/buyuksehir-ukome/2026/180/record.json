@@ -1,0 +1,24 @@
+{
+  "number": "180",
+  "number_as_published": "2026/05/180",
+  "year": 2026,
+  "title": "Toplu Taşıma Şube Müdürlüğünün yazısında belirtilen Taksi Düzenleme Projesi kapsamında alınan UKOME Kararı ile Denizli merkez ilçe sınırları içinde oluşturulan cep durak noktaları kapsamında alınan 31.03.2026 tarihli ve 2026/02/78 sayılı kararın revize edilmesi talebi.",
+  "decision_date": "2026-10-06",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=10.2026",
+  "official_document": null,
+  "source_sha256": "973be584ae49804cfbd4caa7c657423ed6920c5476da2c1731ce588ea96bbe2b",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2026-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.10.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "05",
+  "listed_subjects": 1
+}
