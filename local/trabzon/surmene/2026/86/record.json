@@ -1,0 +1,24 @@
+{
+  "number": "86",
+  "number_as_published": "86",
+  "year": 2026,
+  "title": "Ekim 2026 Meclis Toplantı Kararları 7 belge: 06.10.2026 - Karar No 86",
+  "decision_date": "2026-10-06",
+  "source": "https://surmene.bel.tr/belediye-meclis-kararlari",
+  "official_document": "https://surmene.bel.tr/assets/uploads/1791891749_0f43777c4cdfc8c48284.pdf",
+  "source_sha256": "ecd30043b969188f80eeb8d4725770989de8780a40df82ddbb11b210111e6ba2",
+  "issuer": "Sürmene Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.10.2026 (official list label); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "section": "Ekim 2026 Meclis Toplantı Kararları 7 belge",
+  "listing_label": "06.10.2026 - Karar No 86",
+  "record_scope": "one council decision document"
+}
