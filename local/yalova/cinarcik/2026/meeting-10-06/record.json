@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-06",
+  "number_as_published": "meeting-10-06",
+  "year": 2026,
+  "title": "06 Eki Ekim 2026 Olağan Meclis Toplantısı 6 Ekim 2026 Salı · 4 karar",
+  "decision_date": "2026-10-06",
+  "source": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-ekim",
+  "official_document": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-ekim",
+  "source_sha256": "c876cb0b9cac61ab6af198619e22533bc7d8fa67d2794f2745a9ef3b0ff49a37",
+  "issuer": "Çınarcık Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 6 EKİM 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06 Eki Ekim 2026 Olağan Meclis Toplantısı 6 Ekim 2026 Salı · 4 karar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-ekim",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
