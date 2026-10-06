@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/50304",
+  "submitted": "2026-10-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Rıdvan UZ",
+  "province": "Çanakkale",
+  "summary": "Çanakkale'nin Biga ilçesindeki termik santrallerin çevresel etkilerine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/572e1afe-8931-46c7-8b1e-01a11b54c9bb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "dc9d18185b06805acb7f340418127804f1e26f6b2cace9ec664e7673c7dd5bb6",
+  "in_force": "2026-10-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
