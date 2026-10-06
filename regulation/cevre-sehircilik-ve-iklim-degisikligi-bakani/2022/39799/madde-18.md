@@ -1,0 +1,4 @@
+Düzenleme yapma
+MADDE 18- (1) Bakanlık gerekli gördüğü hallerde bu Yönetmeliğin uygulanmasına ilişkin düzenlemeler yapabilir.
+(2) (Ek:RG-6/10/2026-33392) Bakanlık, afet ve salgın dönemlerinde, yeterlik belgesine sahip personel, çevre yönetim birimi ve firmalar için 6 ncı, 7 nci, 8 inci, 9 uncu, 12 nci, 13 üncü maddelerde yer alan hükümlerin uygulanmasında güçlüklerin oluşabileceği hallerde, etkilerin sürdüğü dönemleri kapsayacak şekilde ve herhalde geçici olmak kaydı ile uygulamaya ilişkin usul ve esasları belirleyebilir.
+(3) (Ek:RG-6/10/2026-33392) Yeterlik belgesine sahip olanlar, bu Yönetmelik kapsamındaki faaliyetlerle ilgili Bakanlık tarafından yapılacak düzenlemelere, Bakanlık internet sitesindeki duyurulara ve bu Yönetmeliği uygulamak için oluşturulacak programlara belirlenecek süre içinde uymak zorundadır.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (Değişik:RG-6/10/2026-33392)
+(1) Bu Yönetmelik; çevre mevzuatı ve 10/9/2014 tarihli ve 29115 sayılı Resmî Gazete’de yayımlanan Çevre İzin ve Lisans Yönetmeliği uyarınca çevre yönetimi hizmeti verecek personelin, çevre yönetim birimlerinin ve çevre danışmanlık firmalarının taşıması gereken şartları, yükümlülüklerini, çalışma usul ve esaslarını, yeterlik belgesi başvurularının yapılmasını, değerlendirilmesini, yeterlik belgelerinin verilmesini, denetlenmesini, askıya alınmasını, iptalini, çevre yönetimi hizmeti alacak işletmeler ile işletmelerin yükümlülüklerini ve idari yaptırımlara ilişkin konuları kapsar.

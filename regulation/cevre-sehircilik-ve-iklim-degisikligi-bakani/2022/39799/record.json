@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.39799",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRE YÖNETİMİ HİZMETLERİ HAKKINDA YÖNETMELİK",
+  "number": "39799",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39799",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39799&MevzuatTertip=5",
+  "source_sha256": "594bc4970448364739d800f77e826831557cb08913867e6004d2f4d531ba0891",
+  "source_bytes": 117830,
+  "published": "2022-11-01",
+  "gazette": "32000",
+  "in_force": "2026-10-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-06",
+      "RG-6/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-06",
+      "6/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6133,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39799-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
