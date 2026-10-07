@@ -1,0 +1,4 @@
+Derste başarısızlık
+MADDE 25 – (1) Bir derste başarısız olan öğrenci, o dersi bu Yönetmeliğin 20 nci maddesinde yer alan tüm yükümlülükleri yerine getirerek tekrarlamak zorundadır.
+(2) (Değişik cümle:RG-16/4/2020-31101) Devam şartını sağladığı bir derste başarısız olan bir öğrenciye, o dersin teorik kısmından ve öğretim elemanı tarafından sınıfta yapılan uygulamalardan devam muafiyeti verilebilir. Buna ilişkin esaslar Senato tarafından belirlenir. Devamdan muafiyet verilmesi durumunda, öğrenci o derse yeniden kaydolmak, ara sınavlarına katılmak ve bu Yönetmeliğin 20 nci maddesinin birinci fıkrasının (b) ve (c) bentlerindeki şartları yeniden yerine getirmek zorundadır.
+(3) (Değişik:RG-13/8/2012-28383) Yarıyıl sonu/yılsonu ve bütünleme sınavı yapılmayan uygulama ağırlıklı derslerde ve laboratuvar derslerinde başarısız olan öğrenciler, bu dersleri tümü ile tekrarlamak ve devam etmek zorundadır.

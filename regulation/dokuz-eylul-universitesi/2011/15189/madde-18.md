@@ -1,0 +1,3 @@
+Devam zorunluluğu ve devamın denetlenmesi
+MADDE 18 – (1) Öğrencilerin derslere ve diğer çalışmalara devamı zorunludur. Öğrencilerin devam durumlarının izlenmesi ve denetlenmesi ile ilgili esaslar Senato tarafından belirlenir.
+(2) Öğrenciler, sağlık raporlarının kapsadığı süreler içinde devamsız sayılır ve bu süre içinde hiçbir derse ve sınava giremezler. Bu süreler içinde ders veya sınavlara katılmış olan öğrencilerin, sınav sonuçları geçersiz sayılır ve bu öğrenciler açılacak olan mazeret sınav haklarından yararlanamazlar. Öğrencinin rapor süresi bitmeden derslere ve sınavlara girebilmesi için, sağlık durumunun düzeldiğini yeni bir sağlık raporu ile belgelendirmesi gerekir.

@@ -1,0 +1,3 @@
+Sınav sonucuna itiraz
+MADDE 24 – (1) Bir sınavın, yarıyıl içi veya yıl içi çalışmasının sonucuna, ilan tarihinden itibaren yedi gün içinde ve sadece maddi hata yönünden itiraz edilebilir. İtiraz, ilgili fakülte dekanlığına veya yüksekokul müdürlüğüne verilen bir dilekçe ile yapılır. Dekanlık veya yüksekokul müdürlüğü tarafından sınav kağıtlarında, sınav cetvellerinde veya ilgili çalışma evrakında bir maddi hata tespit edilirse, bu hata ilgili öğretim elemanının da görüşü alındıktan sonra, ilgili birimin yönetim kurulu kararı ile düzeltilir ve ilan edilir.
+(2) Öğrenciler, öğretim elemanının not takdirine ilişkin hata itirazında bulunamazlar.

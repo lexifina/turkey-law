@@ -1,0 +1,2 @@
+Tebligat
+MADDE 30 – (1) Öğrencilere tebligat, kayıt sırasında bildirdikleri adrese posta ile gönderilmek veya ilgili birim tarafından ilan edilmek suretiyle yapılır. Öğrenciler posta adreslerinde meydana gelen değişiklikleri, en geç bir hafta içinde ilgili öğrenci bürosuna yazılı olarak bildirmek zorundadır. Adreslerindeki değişiklikleri bildirmemiş veya yanlış veya eksik adres vermiş olan öğrencilerin, dosyalarında mevcut en son adreslerine tebligatın yapılmış olması halinde kendilerine tebligat yapılmış sayılır.
