@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Kontenjan belirlenmesi ve ilanı
+MADDE 36- (1) Güz ve bahar yarıyılları başında lisansüstü programlara alınacak öğrenci kontenjanları ve aday öğrencilerde aranacak nitelikler, enstitü anabilim/anasanat dalları kurullarının önerisi üzerine ilgili enstitü kurulunca karara bağlanır ve Üniversitenin resmî erişim adresinde ilan edilir. İlanlarda, adayların sınava tabi tutulacakları alanlar ve yabancı dil ile sınav günü, sınav yeri, başvuru koşulları ve başvuru tarihleri belirtilir.
+(2) Lisansüstü program kontenjanları, YÖK tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı ve mevcut öğretim üyesi başına düşen öğrenci sayısı dikkate alınarak, tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı en fazla 14, tezsiz yüksek lisans programları için ise tezli yüksek lisans ve doktora programları hariç en fazla 16 öğrenci düşecek şekilde belirlenir. Ancak, YÖK ile yapılan protokol dahilinde ve Üniversite sanayi iş birliği çerçevesinde yürütülen lisansüstü programlar için bu kontenjan %50’ye kadar artırılabilir.

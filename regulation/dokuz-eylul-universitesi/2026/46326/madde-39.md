@@ -1,0 +1,3 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 39- (1) Üniversite içindeki başka bir enstitü anabilim/anasanat dalında veya başka bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılı tamamlamış olan başarılı öğrenci, eşdeğer diploma programına yatay geçiş yoluyla kabul edilebilir. Yatay geçiş yoluyla kabul edilme koşulları, Senato tarafından belirlenir.
+(2) Yatay geçiş yoluyla kayıt yaptıran öğrencilere, anabilim/anasanat dalı kurulunun teklifi üzerine ilgili enstitü yönetim kurulu tarafından uygun görülecek diğer enstitülerdeki öğrenimleri sırasında aldıkları derslerden muafiyet verilebilir.

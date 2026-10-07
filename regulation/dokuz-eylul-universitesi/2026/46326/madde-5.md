@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Yüksek Lisans Programları
+Genel esaslar
+MADDE 5- (1) Yüksek lisans programı, tezli ve tezsiz olmak üzere iki şekilde yürütülebilir. Bu programların, YÖK tarafından belirlenen esaslar uyarınca hangi anabilim/anasanat dallarında ve nasıl yürütüleceği enstitü anabilim/anasanat dalı kurulunun teklifi, ilgili enstitü kurulu kararı ve Senato onayı ile belirlenir.
+(2) Enstitü anabilim/anasanat dalı kurulunun teklifi üzerine ilgili enstitü yönetim kurulu kararı ile tezli ve tezsiz yüksek lisans programları arasında geçiş yapılabilir. Geçiş için, enstitü anabilim/anasanat dalı kurulunun teklifi ve ilgili enstitü yönetim kurulunun onayı ile not ortalaması barajı da konulabilir. Tezsiz yüksek lisans programına geçen öğrencilerin ek kredilerini tamamlaması; tezli yüksek lisans programına geçen öğrencilerin ise tez hazırlaması gerekir.
+(3) YÖK kararı üzerine yükseköğretim kurumlarında; öğretim elemanı ve öğrencilerin aynı mekânda bulunma zorunluluğu olmaksızın, bilgi ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin planlandığı ve yürütüldüğü lisansüstü uzaktan öğretim programları açılabilir. Uzaktan öğretim programları YÖK tarafından belirlenen usul ve esaslar çerçevesinde yürütülür.

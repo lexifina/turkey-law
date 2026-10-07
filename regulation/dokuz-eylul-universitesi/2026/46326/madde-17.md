@@ -1,0 +1,4 @@
+Diploma
+MADDE 17- (1) Kredili derslerini ve dönem projesini başarıyla tamamlayan ve yeterlik sınavında başarılı olan öğrenciye tezsiz yüksek lisans diploması verilir.
+(2) Tezsiz yüksek lisans diploması üzerinde öğrencinin kayıtlı olduğu enstitü anabilim/anasanat dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(3) Tezsiz yüksek lisans programına devam edenler, Üniversite tarafından tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmek kaydıyla, aynı programın tezli yüksek lisans programının bulunması durumunda tezli yüksek lisans programına geçiş yapabilirler. Bu durumda tezsiz yüksek lisans programında alınan dersler, tezli yüksek lisans tez danışmanı tarafından uygun görülmesi halinde ilgili enstitü yönetim kurulunun kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir.
