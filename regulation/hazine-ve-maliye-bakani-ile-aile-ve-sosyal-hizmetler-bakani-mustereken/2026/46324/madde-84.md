@@ -1,0 +1,2 @@
+Rehber
+MADDE 84- (1) Genel Müdürlük tarafından, merkezlerde hizmetlerin etkin ve verimli yürütülmesi ve uygulamada birlik sağlanması amacıyla uygulama rehberleri hazırlanır. Hazırlanan rehberlerde merkezlerin başvuru ve açılış işlemleri, faaliyet işlemleri, bakım kalite standartları, engelli yerleştirme işlemleri, ilgili mevzuat hükümleri uyarınca personelin görev ve sorumlulukları, denetim esasları ile mevzuatın uygulanmasına ilişkin açıklamalara yer verilir.

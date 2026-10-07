@@ -1,0 +1,2 @@
+Acil durum planı
+MADDE 26- (1) Yangın, sabotaj ve deprem gibi durumlarda uygulanacak acil durum planı merkez tarafından faaliyet izin belgesinin kurucuya teslimini takip eden iki ay içinde hazırlanarak il müdürlüğü onayına sunulur. İl müdürlüğünce onaylanan acil durum planları “GİZLİ” gizlilik derecesini haiz olup onaylandıktan sonra kilitli bir dolap içerisinde muhafaza edilir. Bu plan içerisinde yer alan ekiplerin listesi yangın söndürme dolapları yanında gözükür bir şekilde asılır. Personel değişikliği olduğu takdirde planda güncelleme yapılır.

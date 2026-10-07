@@ -1,0 +1,12 @@
+Personelin izni ve görevden ayrılması
+MADDE 45- (1) Merkezdeki zorunlu personelin görevden ayrılması halinde yerine yeni personel istihdam edilmesi zorunludur.
+(2) Merkezden ayrılan, vefat eden, görevine son verilen, yıllık veya sağlık iznine ayrılan personel aynı gün içinde, hafta sonu veya resmî tatillere denk gelmesi halinde ise takip eden ilk iş gününde il müdürlüğüne bildirilir.
+(3) Merkezden ayrılan, vefat eden, görevine son verilen çalıştırılması zorunlu personelin yerine personel istihdam edilmesi için merkeze 15 gün süre verilir. İl müdürlüğü tarafından onay verilen personelin 3 iş gününde göreve başlaması ve takip eden günde il müdürlüğüne bildirilmesi gerekir. Bu sürede kendisi göreve başlamayan personelin, takip eden günde merkez tarafından il müdürlüğüne bildirimi yapılır. Bu durumda merkeze, bir defaya mahsus olmak üzere 3 iş günü ilave süre verilir. Verilen süreler sonunda personel istihdamını sağlamayan merkeze idari para cezası uygulanır.
+(4) Personelin yıllık, mazeret ya da sağlık izni için doldurulan izin formu sorumlu müdür tarafından onaylanır.
+(5) İzin formu, merkezin gelen evrak kayıt defterine tarih ve sayı verilerek kaydedilir ve personelin dosyasında on yıl süreyle muhafaza edilir.
+(6) Ödemeye esas belgeler içinde yer alan personel listesinde, izinli olan personel belirtilir.
+(7) Meslek personeli ve sağlık personeli yasal izinlerini aşağıdaki usul ve esaslara göre kullanır:
+a) Yıllık izin, mazeret izni ve sağlık izni kullanan personelin yerine aynı statüdeki diğer personel vekalet eder ve izin kullanan personel eksik personel sayılmaz. Bir personel sadece bir personelin yerine vekalet edebilir.
+b) İzne ayrılan personelin yerine vekaleten bakacak personelin bulunmaması durumunda merkezin işleyişini aksatmamak amacıyla, yıllık izinde 18 iş günü içinde, mazeret ve sağlık izninde ise 30 iş günü içinde yeni personel istihdamı zorunludur.
+(8) 12 kişinin üzerinde engelli bakılan merkezde çalıştırılan bakıcı personel sayısı; yıllık izin, mazeret izni, sağlık izni, haftalık izin gibi kanuni izinlerini kullanan veya refakatçi olarak görevlendirilen personel dâhil olmak üzere, merkezde bakılan engelli birey sayısının üçte birinden az olamaz. Hesaplamada küsuratlı sayılar bir üst sayıya tamamlanır.
+(9) Merkezde görevli bakıcı personele 4857 sayılı Kanun hükümleri uyarınca fazla çalışma veya fazla sürelerle çalışma yaptırabilir. Bu kapsamda yapılacak çalışmalarda 4857 sayılı Kanunun 63 üncü maddesinde belirtilen çalışma süresine uyulmak zorundadır.

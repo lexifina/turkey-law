@@ -1,0 +1,11 @@
+Faaliyet izni
+MADDE 13- (1) Açılış onayı verilen merkezler tarafından Ek-6’da yer alan belgeler iki nüsha olarak hazırlanır ve il müdürlüğüne teslim edilir. İlgili tüm belgeler, il müdürlüğü tarafından BMYS’ye yüklenir.
+(2) Başvuru evrakında eksiklik veya uygunsuzluk olmaması halinde, il müdürü tarafından imzalanan Ek-8’de yer alan faaliyet izin belgesi onaylanmak üzere Bakanlığa gönderilir. Bakanlık tarafından en geç bir ay içerisinde Ek-8’de yer alan faaliyet izin belgesi tarih ve sayı verilerek onaylanır ve BMYS’ye yüklenir. Merkez, Bakanlık kayıtlarına ve veri tabanına işlenir. Faaliyet izin belgesi üç nüsha olarak düzenlenir, bir nüshası Bakanlıkta, bir nüshası il müdürlüğünde, bir nüshası da Merkezde bulundurulur.
+(3) Merkezler, zihinsel, bedensel, ruhsal engel gruplarından biri, ikisi ya da tamamına hizmet verebilir. Faaliyet izin belgesinde bu gruplardan hangilerine hizmet sunulacağı belirtilir.
+(4) Faaliyetine izin verilen merkez için düzenlenen tüm belgelerin ve başvuru dosyasının aslı il müdürlüğünde muhafaza edilir. Düzenlenen belgelerin bir örneği de kurucuya imza karşılığında teslim edilir. Elektronik ortamda oluşturulan belgeler, Bakanlıkça belirlenen arşiv ve saklama kriterlerine uygun olarak dijital ortamda muhafaza edilir.
+(5) Faaliyet izin belgesi ve sorumlu müdür belgesi merkezin görülebilecek bir yerine asılır.
+(6) Faaliyet izin belgesi verilen her merkezin işveren ve iş yerinin adı ve yaptığı işin niteliği il müdürlüğü tarafından bir ay içinde Çalışma ve Sosyal Güvenlik Bakanlığının ilgili il müdürlüklerine ve defterdarlığa bildirilir.
+(7) Merkezi kapatılan ya da merkezini bu Yönetmelik ile belirlenen usullere uymadan kapatan gerçek kişiler ile bu gerçek kişilerin hissedarı olduğu tüzel kişiliğin merkez açmak istemesi halinde merkeze faaliyet izni verilmez.
+(8) Kurucunun 35 inci maddenin birinci fıkrasının (c) ve (ç) bentlerinde yer alan suç ve cezalardan hükümlü olmasının merkez açıldıktan sonra gerçekleşmesi halinde faaliyet izin onayı ve belgesi iptal edilir.
+(9) Faaliyet izin belgesi düzenlenen merkezin hizmete başlayabilmesi ve engelli birey kabul edilebilmesi için en az bir meslek personeli, bir sağlık personeli, dört bakıcı personel, bir temizlik personeli ve üç nöbet sorumlusu istihdam edilmesi zorunludur.
+(10) Bu maddeye aykırı bir şekilde verildiği tespit edilen faaliyet izinleri iptal edilir.

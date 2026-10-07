@@ -1,0 +1,3 @@
+Sorumlu müdürün değişmesi
+MADDE 38- (1) Sorumlu müdürün görevinden ayrılması veya görevine son verilmesi halinde; bu durum ve vekalet edecek sorumlu müdür merkez kurucusu tarafından aynı gün içinde il müdürlüğüne bildirilir, ilgili evrak en geç yedi iş günü içinde il müdürlüğüne teslim edilir. Sorumlu müdürün ayrılmasını müteakiben otuz gün içinde merkez için yeni sorumlu müdür belirlenir ve belgeleri il müdürlüğüne teslim edilir. Sorumlu müdür değişikliği BMYS’den bildirilir.
+(2) Birinci fıkrada belirtilen sürede sorumlu müdür şartlarını taşıyan kişi bulunamaması halinde, merkeze otuz gün ilave süre verilebilir. Bu fıkrada düzenlenen ek süre bir yıl içinde ancak bir kez verilebilir.

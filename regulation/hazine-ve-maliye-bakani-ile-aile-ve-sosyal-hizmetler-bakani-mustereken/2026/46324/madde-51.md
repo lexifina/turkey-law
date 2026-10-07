@@ -1,0 +1,3 @@
+İl müdürlüğüne gönderilecek belgeler
+MADDE 51- (1) Merkez tarafından her ayın onuncu gününe kadar engelli birey listesi, personel listesi, yemek listesi, muhtasar ve prim hizmet beyannamesinin bir örneği ile merkezde istihdam edilen tüm personelin sosyal güvenliklerinin sağlandığına ilişkin aylık prim ve prime ilişkin borçlarının olmadığına ya da borcu bulunmakla birlikte 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre tecil edildiğine ve taksitlendirildiğine ya da özel kanunlara göre yapılandırıldığına ilişkin belge il müdürlüğüne gönderilir.
+(2) Gerekli görüldüğü takdirde birinci fıkrada sayılan belgeler BMYS’ye yüklenir.

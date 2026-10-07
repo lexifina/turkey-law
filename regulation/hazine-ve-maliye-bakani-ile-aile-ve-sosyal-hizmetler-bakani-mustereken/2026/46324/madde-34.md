@@ -1,0 +1,11 @@
+Beslenme
+MADDE 34- (1) Merkezde bakım hizmetinden yararlanan engelli bireylerin beslenmesinin niteliği ve servisi ile ilgili aşağıdaki hususlara uyulur:
+a) Merkezlerde yemek listeleri engelli bireylerin yaş ve fiziki gelişimleri, mevsimsel özellikler, bölgenin şartları, kişi başı gıda rasyonu dikkate alınarak merkezde görev yapan ya da sözleşme usulüyle çalışan bir diyetisyen tarafından hazırlanır. Hazırlanan yemek listesi aylık evraklarla birlikte il müdürlüğüne gönderilir. İl müdürlüğünce görevlendirilecek diyetisyen tarafından incelenen yemek listesinde engelli bireylerin yaş ve fiziki gelişimleri, mevsimsel özellikler, bölgenin şartları, kişi başı gıda rasyonu dikkate alınarak listede değişiklik yapılması istenebilir. Yemek listesinin hazırlanmasında, merkezde kalan engellilerin istek ve eğilimlerine dikkat edilir.
+b) Engelli bireylerin beslenme ihtiyacı bireysel bakım ve rehabilitasyon planı da dikkate alınarak, yatılı merkezlerde en az üç ana öğün, engellilerin durumu esas alınarak kuruyemiş veya kuru meyve veya mevsim meyvelerinden oluşan bir ara öğün; gündüzlü merkezlerde ise en az bir ana öğün ve kuruyemiş, kuru meyve veya mevsim meyvelerinden oluşan bir ara öğün verilerek karşılanır. Bakanlığın belirlediği gıda rasyonuna göre düzenleme yapılır.
+c) Sağlık durumları sebebiyle özel diyet hazırlanması gereken engelli bireyler için tabibin tavsiyeleri doğrultusunda diyet yemeği hazırlanır.
+ç) Engelli bireylere verilen yemek numuneleri numune kaplarının üzerine tarih ve öğün yazılarak yetmiş iki saat muhafaza edilir.
+d) Merkez tarafından gerçekleştirilecek gezi ve piknik benzeri sosyal faaliyetler için farklı yemek listesi hazırlanabilir.
+e) Yemek salonlarına kendiliğinden gelemeyen ya da hasta olan engelli bireyin yemeği bulunduğu yerde ve gerektiğinde yardımla yedirilir.
+f) Merkezde bakım altında bulunan engellilerin, obezite ile mücadele, sağlıklı yaşam ve fiziksel aktivitelerden yararlandırılmaları amacıyla gerekli çalışmalar ve düzenlemeler yapılır.
+(2) Merkez zorunlu olması durumunda menüde değişiklik yapabilir. Menüde değişikliğin sebebini de belirtir şekilde sorumlu müdür, sağlık personeli ve aşçı tarafından imzalanan tutanak tutulur. Tutanak 24 saat içerisinde il müdürlüğüne bildirilir.
+(3) Merkezlerde yemek hizmeti dışardan alım suretiyle de yapılabilir.

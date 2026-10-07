@@ -1,0 +1,4 @@
+Hizmet içi eğitim ve kalite standartları
+MADDE 46- (1) Merkezde sunulan hizmetin kalitesini arttırmak amacıyla çalışan personele yönelik hizmet içi eğitim verilir. Yeni başlayan personel için göreve başladığı tarihten itibaren 3 ay içerisinde en az 10 saatlik iş yeri uyum eğitimleri düzenlenir. Merkezde istihdam edilen personele her yıl asgari 10 saatlik hizmet içi eğitim verilmesi zorunludur. Söz konusu eğitimlerde Bakanlık tarafından belirlenen hizmet içi eğitim programları uygulanır. Hizmet içi eğitim programının bir örneği dosyada muhafaza edilir.
+(2) Bakanlık tarafından belirlenen bakım hizmetleri kalite standartları (BHKS) Merkezler tarafından uygulanır.
+(3) Yılda en az bir kez olmak üzere il müdürlüğü tarafından, il müdürlüğünde merkez hizmetlerinden sorumlu idari personel ile merkez idari ve meslek personelinin katılımı ile rehberlik ve eğitim programı düzenlenebilir.

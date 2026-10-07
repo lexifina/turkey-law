@@ -1,0 +1,6 @@
+Gündüzlü hizmet veren merkezler
+MADDE 28- (1) Yatılı hizmet veren merkezin gündüzlü hizmet verilecek engelli kapasitesi faaliyet izin belgesinde ayrıca belirtilmesi koşuluyla gündüzlü hizmet verilebilir. Gündüzlü hizmet verilecek bölüm yatılı hizmet verilecek bölümden ayrı olmak zorundadır. Bu bölümde gündüzlü hizmetten yararlanacak engelli bireyler için yatak odası, dinlenme salonu, grup etkinlik odası oluşturulur.
+(2) Gündüzlü hizmet veren merkezlerde engellilerin gerektiğinde dinlenebileceği veya uyuyabileceği en fazla üç kişilik yatak odaları bulunur. Yatak odası olarak kullanılacak odanın her kişiye en az 5 metrekare düşecek büyüklükte olması zorunludur.
+(3) Gündüzlü bakım hizmeti verilen engellilerin ulaşımlarının merkeze ait servis aracı ile sağlanması tercih edilir. Engellinin merkeze ulaşımı, merkezin servis aracı bulunmaması halinde engelli veya engelli yakınları tarafından sağlanır.
+(4) Yatılı merkezlerde gündüzlü hizmet verilmek istenmesi durumunda gündüzlü hizmet için ayrıca sorumlu müdür aranmaz. Ancak gündüzlü hizmet için 41 inci maddenin birinci fıkrasının (a) bendinde belirtildiği şekilde personel çalıştırılır.
+(5) Merkez toplam kapasitesinin en az %20’si kadarıyla gündüzlü hizmet birimi oluşturabilir. Gündüzlü kapasitesi, merkezin yatılı kapasitesine dahil edilmez.

@@ -1,0 +1,5 @@
+Harçlık
+MADDE 68- (1) Harçlıklar, 31/1/2015 tarihli ve 29253 sayılı Resmî Gazete’de yayımlanan Sosyal Hizmet Kuruluşlarında Bakımı Sağlanan Engelli ve Yaşlı Bireylere Harçlık Ödenmesine İlişkin Yönetmelik hükümlerine göre belirlenir ve ödenir.
+(2) Merkezde ücretsiz olarak bakım hizmeti alan engelli yaşlılara ilişkin bilgiler, 1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanun kapsamında bağlanan engelli yaşlı aylığının kesilmesine yönelik gerekli işlemlerin yapılması amacıyla ilgili birimlere derhâl bildirilir. Bu bildirimin yapılmasından merkez sorumludur.
+(3) Bakanlık tarafından harçlık ödenen engellinin vefatı hâlinde, emanet kasada biriken harçlık tutarı merkez tarafından tutanakla birlikte il müdürlüğüne bildirilir. İl müdürlüğünce alınacak onayla genel bütçeye gelir kaydedilir.
+(4) Ücretsiz olarak bakım hizmeti alan engellilerden, 24 ay boyunca harçlıklarını hiç kullanmayanlara ilişkin hareketsiz harçlık bakiyesi merkez tarafından tutanakla birlikte il müdürlüğüne bildirilir. İl müdürlüğünce alınacak onayla genel bütçeye gelir kaydedilir.

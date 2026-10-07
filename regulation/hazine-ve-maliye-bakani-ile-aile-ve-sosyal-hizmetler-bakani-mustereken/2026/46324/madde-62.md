@@ -1,0 +1,5 @@
+Engellinin izne ayrılması
+MADDE 62- (1) Engellinin izne ayrılmasında aşağıdaki hususlara dikkat edilir:
+a) Engelli bireyin yasal temsilcisi veya yasal temsilcisinin yazılı olarak uygun gördüğü kişi, talep etmesi halinde engelli birey, yıl içinde toplam 30 güne kadar izin alabilir. 18 yaş üstü ve akıl ve ruh sağlığı yerinde olan engelli birey 30 günlük izin talebinde bulunabilir. Engelli bireyin izne gidişi ve dönüşü, merkez tarafından 7 iş günü içerisinde il müdürlüğüne yazılı olarak bildirilir. Engellinin izne ayrılış ve dönüş işlemleri BMYS’ye işlenir.
+b) İzne gidiş dönüşte özel bakım merkezi ve engelli birey veya engelli bireyi izinli alan kişi arasında engelli bireyin yanında götürdüğü ilaç, eşya, para ve benzeri hususların belirtildiği tutanak düzenlenir. İzin dönüşünde sağlık servisi tarafından engelli bireylerin gerekli fiziksel tıbbi kontrolü yapılır.
+c) Özel bakım merkezini izinsiz olarak terk eden engellinin ilgili aya ilişkin olarak fiilen hizmet aldığı gün sayısınca bakım merkezine ödeme yapılır.
