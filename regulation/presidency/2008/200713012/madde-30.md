@@ -1,0 +1,3 @@
+Geri bildirim
+MADDE 30- (1) Şüpheli işlem bildiriminde bulunan yükümlülere Başkanlıkça, bildirimin kayda alındığına dair bilgi verilir.
+(2) (Değişik: 28/12/2009-2009/15720 K.) Başkanlık, alınan şüpheli işlem bildirimlerinin etkinliğine ilişkin olarak belli periyotlarla genel değerlendirme yapar. Ayrıca Başkanlık, şüpheli işlem bildirimlerine ilişkin istatistikî verileri, aklama ve terörün finansmanında kullanılan yöntemleri, oluşan eğilimleri, şüpheli işlem bildirimleri sonrası süreçler ve varılan sonuçlardan faydalanılarak hazırlanan örnek olayları, yıllık faaliyet raporları, rehberler ya da periyodik yayınlar yoluyla yayımlayabilir, eğitim amacıyla kullanabilir.

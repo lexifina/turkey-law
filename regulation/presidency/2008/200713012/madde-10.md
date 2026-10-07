@@ -1,0 +1,5 @@
+Siyasi partilerde kimlik tespiti
+MADDE 10- (1) (Değişik birinci cümle: 28/12/2009-2009/15720 K.) Siyasi parti teşkilatının kimlik tespitinde; siyasi partinin ilgili biriminin adı, açık adresi, telefon numarası, varsa faks numarası ve elektronik posta adresi ile temsile yetkili kişinin adı, soyadı, doğum tarihi, uyruğu, kimlik belgesinin türü ve numarasına ilişkin bilgiler ve imza örneği ile Türk vatandaşları için bu bilgilere ilave olarak T.C. kimlik numarası, Türk uyruklu olmayanlar için doğum yeri bilgisi alınır. Siyasi partilerin ilgili biriminin adı ve adresi, tüzükleri; temsile yetkili kişinin kimliği, 6 ncı maddede belirtilen kimlik belgeleri; yetki durumları ise temsile yetkili olunduğuna dair belgeler üzerinden teyit edilir.(3)
+(2) Yetkililerce istenildiğinde sunulmak üzere teyide esas belgelerin asıllarının veya noterce onaylanmış suretlerinin ibrazı sonrası okunabilir fotokopisi veya elektronik görüntüsü alınır yahut kimliğe ilişkin bilgiler kaydedilir.
+(3) (Mülga: 28/12/2009-2009/15720 K.)
+Yurt dışında yerleşik tüzel kişilerde ve yurt dışında kurulmuş güven sözleşmelerinde kimlik tespiti (Değişik başlık:RG-24/2/2021-31405 2. Mükerrer-C.K-3580/8 md.)

@@ -1,0 +1,8 @@
+Şüpheli işlem bildirimlerinin gizliliği ve bildirimde bulunanların korunması
+MADDE 29- (1) Yükümlüler, Başkanlığa şüpheli işlem bildiriminde bulunulduğuna veya bulunulacağına dair, yükümlülük denetimi ile görevlendirilen denetim elemanlarına ve yargılama sırasında mahkemelere verilen bilgiler dışında, işleme taraf olanlar dâhil olmak üzere hiç kimseye bilgi veremezler.
+(2) Bu yükümlülük şüpheli işlemi Başkanlığa bildiren kişi, kurum ve kuruluşlar veya bu kimselerin işlemi fiilen yapan ve yöneten mensupları veya bunların kanuni temsilcileri ve vekillerinin yanı sıra şüpheli işlem bildiriminde bulunulduğuna herhangi bir şekilde vakıf olan diğer personeli de kapsar. Uyum görevlisi tayin edilen yükümlülerde, uyum görevlisine yapılan dâhili bildirimler de gizlilik kapsamındadır. Şüpheli işlem bildirimlerini elektronik ortamda gerçekleştiren uyum görevlileri, sisteme erişimi sağlayan her türlü ortamdaki kart, şifre ve sair bilgi ve araçları hiç kimseye veremez.
+(3) Yükümlüler yurt dışındaki merkezlerine veya şube, acente, temsilci ve ticari vekilleri ile benzeri bağlı birimlerine, müşterisi hakkında şüpheli işlem bildiriminde bulunduğuna dair hiçbir şekilde bilgi veremez.
+(4) Şüpheli işlem bildirimi yükümlülüğünü yerine getiren gerçek ve tüzel kişiler, bunların uyum görevlileri, yükümlülerin kanuni temsilcisi, yöneticisi ve çalışanları hiçbir şekilde hukukî ve cezaî bakımdan sorumlu tutulamaz.
+––––––––––––––––
+(1) 9/5/2014 tarihli ve 2014/6381 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 14 üncü maddesiyle bu fıkrada yer alan “bildirimlerin elektronik ortamda gönderilmesine” ibaresi “bildirimlere” şeklinde değiştirilmiştir.
+5346-2

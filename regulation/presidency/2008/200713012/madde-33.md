@@ -1,0 +1,2 @@
+Devamlı bilgi vermede istisna ve muafiyetler
+MADDE 33- (1) Yükümlülerce Başkanlığa devamlı bilgi verilmesinde, bankaların kendi aralarında kendi ad ve hesaplarına gerçekleştirdikleri işlemler ile finansal kuruluşların 5018 sayılı Kanuna göre genel yönetim kapsamındaki idareler, kamu iktisadi teşebbüsleri ve kamu kurumu niteliğindeki meslek kuruluşları ile yaptıkları işlemler devamlı bilgi verme yükümlülüğü kapsamında değildir.

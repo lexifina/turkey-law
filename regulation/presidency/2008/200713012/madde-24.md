@@ -1,0 +1,12 @@
+Elektronik transferler (1)(2)
+MADDE 24- (Değişik: 28/12/2009-2009/15720 K.)
+(1) Otuzbin TL veya üzeri yurt içi ve yurt dışı elektronik transfer mesajlarında, gönderenin; (1)(3)
+a) Adı ve soyadına, ticaret siciline kayıtlı tüzel kişinin unvanına, diğer tüzel kişiler ve tüzel kişiliği olmayan teşekküllerin tam adına,
+b) Hesap numarasına, hesap numarasının bulunmadığı durumda işlemle ilgili referans numarasına,
+c) Adresi veya doğum yeri ve tarihi veya müşteri numarası, vatandaşlık numarası, pasaport numarası, vergi kimlik numarası gibi göndereni belirlemeye yarayan bilgilerden en az birine,
+yer verilmesi zorunlu olup bu bilgilerin doğruluğu ayrıca teyit edilir. (Ek cümle:RG-24/2/2021-31405 2. Mükerrer-C.K-3580/13 md.) Elektronik transfer mesajlarında alıcıya ilişkin olarak da bu fıkranın (a) ve (b) bentlerinde belirtilen bilgilere yer verilir, bu bilgilerin teyidi zorunlu değildir.
+(2) (Ek:RG-24/2/2021-31405 2. Mükerrer-C.K-3580/13 md.) Otuzbin TL’nin altındaki yurt içi ve yurt dışı elektronik transfer mesajlarında gönderene ve alıcıya ilişkin olarak birinci fıkranın (a) ve (b) bentlerinde belirtilen bilgilere yer verilir. Bu bilgilerin teyidi zorunlu değildir. (1)(3)
+(3) Bankaların kendi nam ve hesaplarına aralarında gerçekleştirdikleri transferler ile kart numaralarının mesajlarda kullanılması kaydıyla, kredi ve banka kartları kullanılarak gerçekleştirilen transferler birinci fıkra kapsamı dışındadır.
+(4) Birinci fıkrada belirtilen bilgileri içermeyen elektronik transfer mesajı alan finansal kuruluş, söz konusu elektronik transferi iade eder veya bu mesajı gönderen finansal kuruluştan eksik olan bilgilerin tamamlanmasını sağlar.
+(5) Gönderilen mesajların sürekli olarak eksik bilgiler içermesi ve bu bilgilerin talep edildiği halde tamamlanmaması halinde, alıcı finansal kuruluş tarafından; gönderici finansal kuruluştan gelen elektronik transferlerin reddedilmesi veya söz konusu finansal kuruluşla yapılan işlemlerin sınırlandırılması ya da iş ilişkisine son verilmesi hususları göz önünde bulundurulur.
+(6) (Ek:RG-24/2/2021-31405 2. Mükerrer-C.K-3580/13 md.) Transfer emrinin verildiği finansal kuruluştan ödemeyi gerçekleştirecek finansal kuruluşa kadar oluşan mesaj zincirinde göndericiye ilişkin olarak elektronik transfer mesajlarında bulunması gereken bilgilere transfere aracılık eden tüm finansal kuruluşlarca yer verilir ve bu bilgilerin transferin her aşamasında aktarılmasına özel dikkat gösterilir.

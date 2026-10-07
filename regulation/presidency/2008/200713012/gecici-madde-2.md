@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2- (Değişik: 31/3/2008-2008/13460 K.)
+(1) Yükümlüler, bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla sürekli iş ilişkisi içinde bulundukları müşterilerinin kimlik tespiti kapsamındaki bilgilerini 31/12/2008 tarihine kadar Yönetmeliğe uygun hale getirir. Bu maddenin uygulanmasında yükümlü grupları itibarıyla yapılacak işlemlerin kapsamı, sürelerin yeniden belirlenmesi, uygulamaya ilişkin diğer usul ve esaslar Bakanlıkça belirlenir.

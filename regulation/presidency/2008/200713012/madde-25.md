@@ -1,0 +1,3 @@
+Riskli ülkelerle ilişkiler
+MADDE 25- (1) Finansal kuruluşlar ile finansal olmayan belirli iş ve meslekler, riskli ülkelerde yerleşik gerçek ve tüzel kişiler, tüzel kişiliği olmayan teşekküller ve bu ülkelerin vatandaşları ile girecekleri iş ilişkilerine ve işlemlere özel dikkat göstermek, görünürde makul hukuki ve ekonomik amacı bulunmayan işlemlerin amacı ve mahiyeti hakkında mümkün olduğu ölçüde bilgi toplamak ve bunları kayda geçirmek zorundadır. (1)
+(2) (Ek:RG-24/2/2021-31405 2. Mükerrer-C.K-3580/14 md.) Riskli ülkeler hakkında Türkiye’nin üyesi olduğu uluslararası kuruluşlarca kabul edilenler de dâhil olmak üzere alınması gereken tedbirleri belirlemeye Bakanlık yetkilidir.

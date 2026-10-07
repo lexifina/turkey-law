@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-200713012",
+  "number": "200713012",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "SUÇ GELİRLERİNİN AKLANMASININ VE TERÖRÜN FİNANSMANININ ÖNLENMESİNE DAİR TEDBİRLER HAKKINDA YÖNETMELİK",
+  "published": "2008-01-09",
+  "enacted": "2007-12-10",
+  "gazette_number": "26751",
+  "in_force": "2026-10-07",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 7/10/2026; source row: 6/10/2026 | 11845 | 5, 16, 24, 24/A, 38 | 7/10/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200713012&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "b161c64b06cf838b5ae0bb735948ac763b3a787a67f62d81839cc87174bc27b1",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

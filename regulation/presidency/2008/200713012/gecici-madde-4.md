@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 4- (Ek: 1/6/2010-2010/582 K.)
+(1) 28/12/2009 tarihli ve 2009/15720 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmeliğin 13 üncü maddesi ile değiştirilen 24 üncü madde hükmü 1/1/2011 tarihinden itibaren uygulanır. Bu tarihe kadar, 24 üncü maddenin değiştirilmeden önceki hükmünün uygulanmasına devam olunur.
