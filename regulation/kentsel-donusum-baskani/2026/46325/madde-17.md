@@ -1,0 +1,2 @@
+Yönetici kadrolarına atanacaklarda aranan şartlar
+MADDE 17- (1) Kentsel dönüşüm müdürü ünvanlı kadrolara atanabilmek için üniversitelerin mühendislik, hukuk, iktisadi ve idari bilimler, mimarlık fakülteleri ile şehir ve bölge planlama bölümü, fen fakültelerinin fizik, kimya ve biyoloji bölümlerinden ya da öğrenim süresi en az dört yıl olup bu bölümlere denkliği Yükseköğretim Kurulunca kabul edilen diğer fakülte veya yüksekokulların ilgili bölümlerinden mezun olma şartı aranır.

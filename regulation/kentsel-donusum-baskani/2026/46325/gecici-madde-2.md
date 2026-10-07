@@ -1,0 +1,2 @@
+Bakanlıkta geçen hizmet süresi
+GEÇİCİ MADDE 2- (1) 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin ellialtıncı bölümünde yer alan geçici 1 inci maddesinin birinci fıkrasının (ç) bendi ile Bakanlıktan Başkanlığa devredilen personelin Bakanlıkta geçen hizmet süreleri, 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 33 üncü maddesi gereğince Başkanlıkta geçmiş sayılır.

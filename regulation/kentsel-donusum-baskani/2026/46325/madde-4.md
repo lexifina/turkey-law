@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Alt bölge: Bulunulan hizmet bölgesinin altındaki hizmet bölgelerini,
+b) Asgari personel sayısı: Merkez veya doğrudan merkeze bağlı taşra hizmet birimleri için Başkanlıkça belirlenen bulunması gereken personel sayısının %75’ini,
+c) Bakan: Çevre, Şehircilik ve İklim Değişikliği Bakanını,
+ç) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+d) Başkan: Kentsel Dönüşüm Başkanını,
+e) Başkanlık: Kentsel Dönüşüm Başkanlığını,
+f) Bulunması gereken personel sayısı: Merkez ve doğrudan merkeze bağlı taşra hizmet birimlerince bildirilen personel ihtiyacı veya fazlası ile kadro imkânları ve Başkanlığın hizmet ihtiyacı dikkate alınmak suretiyle Başkanlıkça her yıl Ocak ayında güncellenerek belirlenen merkez ve doğrudan merkeze bağlı taşra hizmet birimlerinde ünvan bazında olması gereken personel sayısını,
+g) Hizmet alanı: Hizmet bölgelerinde görev yapılan yeri,
+ğ) Hizmet bölgeleri: Bu Yönetmeliğin ekinde yer alan EK-1 Hizmet Bölgeleri Tablosunda gösterilen il gruplarını,
+h) Hizmet grubu: Ekonomik, sosyal ve kültürel şartlar ile ulaşım şartları yönünden benzerlik ve yakınlık gösteren hizmet alanlarının kendi bölgeleri içerisinde A, B ve C olarak gruplandırılmasını,
+ı) İlan: Her yıl en geç Nisan ayı sonuna kadar Başkanlık resmî internet sitesinde duyurulan ünvan bazında atama yapılabilecek kadroları gösteren cetveli ve atanma şartlarını,
+i) Merkez teşkilatı: Başkanlık merkez hizmet birimlerini,
+j) Personel doluluk oranı (PDO): 2 nci maddenin birinci fıkrasının (b) bendinde sayılan ve ilanda belirtilen ünvanlar için merkez veya doğrudan merkeze bağlı taşra hizmet birimlerinde o ünvanda çalışan personel sayısının, Başkanlıkça merkez veya doğrudan merkeze bağlı taşra hizmet birimlerinde aynı ünvan için belirlenen bulunması gereken personel sayısına oranını,
+k) Taşra teşkilatı birimleri: Her ilde kurulan ve doğrudan merkeze bağlı Kentsel Dönüşüm Müdürlüklerini,
+l) Üst bölge: Bulunulan hizmet bölgesinin üstündeki hizmet bölgelerini,
+m) Yeniden atanma: 657 sayılı Kanunun 92 nci maddesi kapsamında bulunanların yeniden memurluğa atanmasını,
+n) Yer değiştirme suretiyle atanma: Bu Yönetmelik kapsamına giren personelin, belirlenen hizmet bölgelerine belirli süreler dâhilinde, 657 sayılı Kanunun 76 ncı maddesinde yer alan hükümler çerçevesinde atanmasını,
+o) Yönetici personel: Kentsel dönüşüm müdürlerini ve şube müdürlerini,
+ö) Zorunlu çalışma süresi: Her hizmet bölgesinde zorunlu olarak çalışılması gereken süreyi,
+ifade eder.
