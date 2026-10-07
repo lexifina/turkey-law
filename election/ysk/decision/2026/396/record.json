@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2026/396",
+  "list_number": "396",
+  "decision_date": "2026-10-07",
+  "title": "Yüksek Seçim Kurulunun 07/10/2026 Tarihli ve 2026/396 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58015795/2026-396.pdf",
+  "source_sha256": "f9167e365dc3b5029bfc4ab746c0f07fc4bf3e87a46868a95afe2cd1d9c7ac21",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2026-10-07",
+  "law_text_complete": false
+}
