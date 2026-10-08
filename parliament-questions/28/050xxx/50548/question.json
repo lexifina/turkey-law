@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/50548",
+  "submitted": "2026-10-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Eylem Ertuğ ERTUĞRUL",
+  "province": "Zonguldak",
+  "summary": "MSÜ bünyesindeki Harp Okulları ile Astsubay Meslek Yüksekokullarına öğrenci alımında uygulanan yaş sınırı şartının değiştirilmesi talebine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/1092508f-3c1e-48db-9699-01a1303868d9",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "03624a06e83cb9705831be928e9d3acebf03acafd37534cee1c28b533f5efe1f",
+  "in_force": "2026-10-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
