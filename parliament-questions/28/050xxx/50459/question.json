@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/50459",
+  "submitted": "2026-10-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Turan Taşkın ÖZER",
+  "province": "İstanbul",
+  "summary": "Kocaeli'nin Dilovası ilçesinde hakkında yıkım kararı verilen binalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/ee3850d0-293c-4e6b-8f01-01a11b658fdc",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "58d8c29ff12595d86997503cf3d4670fe1d4500e5307503d22de3499bfac104e",
+  "in_force": "2026-10-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
