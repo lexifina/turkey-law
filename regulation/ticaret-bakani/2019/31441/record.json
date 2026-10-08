@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.31441",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ÜRÜN İHTİSAS BORSASINDA ARACILIK FAALİYETLERİ İLE ARACILARIN GÖZETİMİ VE DENETİMİ HAKKINDA YÖNETMELİK",
+  "number": "31441",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2019/31441",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31441&MevzuatTertip=5",
+  "source_sha256": "182fac67ae3c25a31dcb9a99afe74cc4909d0c09ad414af1a9c95fd6bd8c7a4c",
+  "source_bytes": 77742,
+  "published": "2019-04-20",
+  "gazette": "30751",
+  "in_force": "2026-10-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-08",
+      "RG-8/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-08",
+      "8/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-30",
+      "RG-30/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-30",
+      "30/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-04-17",
+      "RG-17/4/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-04-17",
+      "17/4/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-22",
+      "RG-22/11/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-11-22",
+      "22/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-12-26",
+      "RG-26/12/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-12-26",
+      "26/12/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-29",
+      "RG-29/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-29",
+      "29/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4408,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
