@@ -1,0 +1,11 @@
+İdari para cezası ve veri paylaşımı
+MADDE 4- (1) Sürücüsünün tabiiyetine bakılmaksızın 4925 sayılı Kanunun 26 ncı maddesinin birinci fıkrası veya 655 sayılı Kanun Hükmünde Kararnameye dayanılarak yürürlüğe konulan mevzuata aykırı hareket eden yabancı plakalı taşıtlara yetkili kurumlarca idari para cezası karar tutanağı düzenlenir.
+(2) İdari para cezası karar tutanakları 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 26 ncı maddesine göre tebliğ edilir.
+(3) Düzenlenen idari para cezası karar tutanaklarına ilişkin bilgiler anında elektronik ortama aktarılır. Belediyelerce düzenlenen elektronik veya basılı idari para cezası karar tutanaklarının sistem girişleri usulüne uygun olarak Bakanlıkça gerçekleştirilir.
+(4) Üçüncü fıkraya uygun olarak sistem girişleri gerçekleştirilen idari para cezasına ilişkin tutanakların bilgileri anlık olarak Hazine ve Maliye Bakanlığı Muhasebat Genel Müdürlüğüne aktarılır.
+(5) Muhasebat Genel Müdürlüğüne aktarılan bilgiler, idari para cezalarının tahsilinde veri olarak kullanılır.
+(6) İdari para cezasını düzenleyen yetkili kurum, tahsil edilen idari para cezalarına ilişkin verileri Muhasebat Genel Müdürlüğü sisteminden sorgulayarak alabilir.
+(7) İdari para cezası karar tutanaklarının muhatabına tebliğ edilmesi halinde, idari para cezasına ilişkin tutanakların bilgilerine ek olarak tebliğ tarihi bilgisi Muhasebat Genel Müdürlüğüne gönderilir.
+(8) İlgilisine tebliğ edilmiş ve kesinleştiği halde süresinde ödenmemiş idari para cezaları 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun kapsamında takip edilmek üzere cezayı veren kurum tarafından ilgili vergi dairesine aktarılır. Bu cezaların takip edilebilmesi için 5326 sayılı Kanunun 25 inci maddesinde yer alan bilgiler ve Hazine ve Maliye Bakanlığınca belirlenmiş olan bilgilerin tutanakta yer alması gerekir.
+(9) Vergi dairesine takip için bildirilmiş olan idari para cezasının Muhasebat Genel Müdürlüğüne bağlı muhasebe birimleri tarafından tahsil edilmesi halinde, bu tahsilata ilişkin veriler cezayı veren kurumca Gelir İdaresi Başkanlığına bildirilir.
+(10) Yabancı sürücüye düzenlenen idari para cezası karar tutanakları ve varsa taşıtın yaptırımlardan muafiyetine ilişkin tutanaklar Göç İdaresi Başkanlığına bildirilir.

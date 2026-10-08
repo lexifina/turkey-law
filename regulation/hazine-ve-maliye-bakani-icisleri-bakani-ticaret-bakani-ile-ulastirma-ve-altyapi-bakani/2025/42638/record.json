@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.42638",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YABANCI PLAKALI TAŞITLARIN FAALİYETLERİNE DAİR 4925 SAYILI KANUN İLE 655 SAYILI KANUN HÜKMÜNDE KARARNAME KAPSAMINDA VERİLEN İDARİ PARA CEZALARININ TAHSİLİNE İLİŞKİN YÖNETMELİK",
+  "number": "42638",
+  "issuer": "Hazine ve Maliye Bakanı, İçişleri Bakanı, Ticaret Bakanı ile Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani-icisleri-bakani-ticaret-bakani-ile-ulastirma-ve-altyapi-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani-icisleri-bakani-ticaret-bakani-ile-ulastirma-ve-altyapi-bakani/2025/42638",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42638&MevzuatTertip=5",
+  "source_sha256": "d4071d8f760a22b8dda86deee7b5763ca0fd21fe20d74c39e5f65d2babd7100c",
+  "source_bytes": 34940,
+  "published": "2025-10-08",
+  "gazette": "33041",
+  "in_force": "2026-10-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-08",
+      "RG-8/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-08",
+      "8/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 844,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
