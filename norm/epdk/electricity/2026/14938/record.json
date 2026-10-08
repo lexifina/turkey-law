@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14938",
+  "decision_date": "2026-10-08",
+  "title": "6 Şubat 2023 tarihli Kahramanmaraş merkezli depremlerin etkilerinin devam etmesi nedeniyle, Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliği (Yönetmelik)’nin 140 ıncı maddesi uyarınca, 31 Aralık 2027 tarihine kadar; Akedaş Elektrik Dağıtım A.Ş., Dicle Elektrik Dağıtım A.Ş., Fırat Elektrik Dağıtım A.Ş., Toroslar Elektrik Dağıtım A.Ş. ile söz konusu dağıtım bölgelerinde faaliyet gösteren tedarik şirketleri hk.",
+  "resmi_gazete_date": "2026-10-10",
+  "resmi_gazete_number": "33396",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gLArxwuo8YI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gLArxwuo8YI="
+  ],
+  "source_sha256": "869698e065bb56b26c360cb3eb0f07fd07a6d5e1d38f7051365268304e915686",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-10-08",
+  "law_text_complete": true
+}
