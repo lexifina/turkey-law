@@ -1,0 +1,5 @@
+Genel müdür
+MADDE 16 – (1) Yönetim kurulu başkanının teklifi üzerine yönetim kurulu ikinci fıkrada ve 7 nci maddede belirtilen şartları haiz bir kişiyi genel müdür olarak atar. Genel müdürün yönetim kurulu üyeleri arasından atanması halinde, genel müdür aynı zamanda yönetim kurulu başkanı olamaz. Genel müdürün münhasıran bu görev için atanmış olması zorunludur.
+(2) Genel müdürün üniversitelerin en az dört yıllık lisans düzeyinde eğitim veren iktisadi ve idari bilimler, hukuk, mühendislik fakülteleri ile sermaye piyasaları veya bankacılık bölümlerinden mezun olması, iyi derecede İngilizce bilmesi ve ürün piyasalarıyla ilgili kamuda veya özel sektörde en az on yıl mesleki tecrübeye sahip bulunması gerekir.
+(3) Borsa tarafından; genel müdürlüğe atanacak kişi ikinci fıkrada ve 7 nci maddede aranan şartları taşıdığını gösteren belgelerle birlikte Bakanlığa bildirilir.
+(4) Genel müdürün herhangi bir nedenle görevden ayrılması halinde bu durum en geç beş iş günü içinde Borsa tarafından Bakanlığa yazılı olarak bildirilir.

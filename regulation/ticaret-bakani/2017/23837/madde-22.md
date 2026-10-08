@@ -1,0 +1,2 @@
+İşlem limitleri
+MADDE 22 – (1) Borsada hesap, hesap tipi ve/veya Borsa üyesi bazında, belli bir anda veya sürede toplam olarak yapılabilecek azami işlem miktarı, yönetim kurulu tarafından belirlenir. İşlem limitlerini, Borsadaki işlem hacmini gözeterek suni fiyat oluşumuna yol açmayacak şekilde belirlemek esastır. Bakanlık, gerekli gördüğü durumlarda işlem limitlerinin yeniden belirlenmesini talep edebilir veya işlem limitini geçici süreyle re’sen belirleyebilir.

@@ -1,0 +1,10 @@
+Kurucu, pay sahibi, yönetim kurulu üyeleri ve genel müdürün sahip olması gereken genel şartlar
+MADDE 7 – (1) Borsa kurucularının, pay sahiplerinin, yönetim kurulu üyelerinin ve genel müdürün;
+a) Kendileri veya sınırsız sorumlu oldukları kuruluşlar hakkında iflas veya iflasın ertelenmesi kararı verilmemiş ve konkordato ilân edilmemiş olması,
+b) Faaliyet izni iptal edilmiş borsada ve faaliyet izinlerinden biri Sermaye Piyasası Kurulunca iptal edilmiş kuruluşlarda bu müeyyideyi gerektiren olayda sorumluluğu bulunan kişilerden olmamaları,
+c) Borsanın ve sermaye piyasası araçlarının, kambiyo ve kıymetli madenler ile kıymetli taşların işlem gördüğü borsaların üyeliğinden sürekli olarak çıkarılmış kuruluşlarda, bu müeyyideyi gerektiren olayda sorumluluğu bulunan kişilerden olmamaları,
+ç) Tarım Ürünleri Lisanslı Depoculuk Kanunu, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanunu, 13/11/1996 tarihli ve 4208 sayılı Kanun ve ödünç para verme işleri hakkında mevzuat ile 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa aykırılıktan dolayı hükümlülüklerinin bulunmaması,
+d) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle hapis cezasına ya da devletin güvenliğine karşı suçlar, anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, bilişim sistemini engelleme, bozma, verileri yok etme veya değiştirme, banka veya kredi kartlarının kötüye kullanılması, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı veya haksız mal edinme suçlarından mahkûm olmaması,
+e) Mali ve ticari itibar bakımından Borsanın itibarına zarar verebilecek nitelikte engel bir durumun bulunmaması,
+gerekir.
+(2) Tüzel kişinin yönetim kurulu üyesi olarak atanması halinde birinci fıkradaki şartlar tüzel kişiyi temsil etmek üzere belirlenen gerçek kişiler için de aranır.

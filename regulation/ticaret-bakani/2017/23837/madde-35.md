@@ -1,0 +1,3 @@
+İş birliği
+MADDE 35 – (1) Borsa, ilgili mevzuattan kaynaklanan bir sınırlama veya engel olmadığı sürece kendisini geliştirmek, daha iyi hizmet sunmak ve piyasadaki güven ve istikrarı artırmak amacıyla ticaret borsalarıyla, çalışma konusu farklı diğer borsalarla, yabancı ülkelerdeki borsalarla, tarım ürünleri piyasasında faaliyet gösteren diğer kurum ve kuruluşlar ile uluslararası kuruluşlarla teknik hususlar da dahil çeşitli alanlarda iş birliği yapabilir.
+(2) (Ek:RG-2/7/2019-30819) 5174 sayılı Kanunun 53 üncü maddesinin üçüncü fıkrası kapsamında Borsa, ticaret borsaları ile acentelik sözleşmesi imzalayabilir.

@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Borsa Üyeliği, İşlem ve Takas Esasları
+Borsa üyeliği
+MADDE 20 – (1) İlgili Yönetmelik çerçevesinde Borsada aracılık yapmaya yetkili olanların Borsa üyeliğine kabul edilmesinde aranılacak şartlar, üyelik kayıt ve üyelikten kesin ya da geçici olarak çıkarılma işlemleri ile Borsa üyeliğine ilişkin diğer usul ve esaslar Borsa yönergeleri ile düzenlenir.
+(2) (Ek:RG-22/8/2024-32640) Borsa, Borsa üyelerinin Borsaya verebilecekleri zararlar ile aidat, komisyon ve diğer yükümlülüklerinin süresinde yerine getirilmemesi halinde doğacak zararları karşılayabilmek amacıyla Borsa üyelerinden Türk Lirası, Türkiye Cumhuriyet Merkez Bankası tarafından serbestçe alım satımı yapılan yabancı paralar ya da banka teminat mektubu şeklinde üyelik teminatı alabilir. Yatırılacak teminatın miktarına, teminatların tahsiline, eksik kalan kısmının tamamlanmasına, kullanılmasına ve serbest bırakılmasına ilişkin usul ve esaslar ile Borsa üyeliğinin herhangi bir nedenle sona ermesi halinde üyelik teminatının geri verilme zamanı ve şartları ile diğer hususlar Borsa yönergeleri ile düzenlenir.

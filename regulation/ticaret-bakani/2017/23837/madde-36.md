@@ -1,0 +1,3 @@
+İlgili yönetmelikler
+MADDE 36 – (1) Elektronik ürün senetleri ve vadeli işlem sözleşmelerinin Borsada alım satımına aracılık edilmesine, aracıların yetkilendirilmesi ile bu yetkinin askıya alınması ve iptaline, aracıların gözetim ve denetimine ve elektronik ürün senetleri ve vadeli işlem sözleşmeleri üzerindeki aracılık hizmetlerine dair diğer işlemlere ilişkin usul ve esaslar Bakanlık ve Sermaye Piyasası Kurulunun birlikte çıkaracağı yönetmelikle düzenlenir.
+(2) Elektronik ürün senetleri ve vadeli işlem sözleşmelerine ilişkin gerçekleştirilen işlemler üzerindeki gözetim ve denetim faaliyetleri Bakanlık ve Sermaye Piyasası Kurulunun müştereken çıkaracağı bir yönetmelikle düzenlenir.

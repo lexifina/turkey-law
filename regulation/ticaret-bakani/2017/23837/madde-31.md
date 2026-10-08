@@ -1,0 +1,2 @@
+Lisanslı depoculuk tazmin fonu payı
+MADDE 31 – (1) Tarım Ürünleri Lisanslı Depoculuk Kanununun 24 üncü maddesi uyarınca Borsada işlem gören elektronik ürün senedi alım satımından tahsil edilecek borsa tescil ücretlerinin yüzde onu ile Borsada işlem gören elektronik ürün senedi alım satım bedelinin binde yarımı, Borsa veya takas merkezi tarafından aylık olarak lisanslı depoculuk tazmin fonuna aktarılır.
