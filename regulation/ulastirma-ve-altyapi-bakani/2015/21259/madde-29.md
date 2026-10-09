@@ -1,0 +1,4 @@
+İncelemelerin gerçekleştirilmesi
+MADDE 29 – (1) (Değişik:RG-15/1/2019-30656 Mükerrer) Tüm işletmeciler kaza ve olay incelemelerini; bu Yönetmelik, Bakanlığın ve altyapı işletmecisinin belirlediği usul ve esaslara göre yapar.
+(2) Demiryolu trafiğinde gerçekleşen kaza/olayların incelenmesi kapsamında, demiryolu faaliyetiyle ile ilgili tüm kurumlar, demiryolu altyapı işletmecisine ve duruma göre demiryolu tren ve şehir içi toplu taşıma işletmecilerine kaza ve olayların incelenmesi, emniyet tavsiyelerinin oluşturulması ve uygulamalar için gerekli işbirliğini yapar.
+(3) İnceleme yapan kuruluşlar, altyapı işletmecisinin altyapıyı tekrar eski haline getirmesi ve mümkün olan en kısa sürede demiryolu trafik hizmetine açılmasını sağlamak için, kaza yerindeki incelemelerini mümkün olan en kısa zamanda sonuçlandırırlar.

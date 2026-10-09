@@ -1,0 +1,5 @@
+Kaza ve olay raporları
+MADDE 30 – (1) Tüm işletmecilerin, kaza veya olay hakkındaki incelemeleri, kazanın veya olayın ciddiyetine ve sonuçların önemine uygun şekilde bir teknik rapor hazırlanması amacıyla gerçekleştirilir.
+(2) Bu teknik rapor, Ek-3’te belirtilen şekilde, demiryolu emniyetinin iyileştirilmesine ve kazaların önlenmesine ilişkin amaçlarla ve ilgili emniyet önerileriyle oluşturulur. Aynı zamanda bir demiryolu kazasının incelenmesine ilişkin teknik rapor, şekil detaylarını, vuku bulan kaza ve olaylarının olası nedenlerini, anormallikleri, eksiklikleri ve ilgili düzensizlikleri de içerir.
+(3) Kendi iç incelenmesini yapan tüm işletmeciler, kaza raporlarını en geç 12 ay içerisinde tamamlayıp Bakanlığa gönderir.
+(4) Kaza ve olay raporları sonucu veya ihtiyaç duyulan hususlarda hazırlanan emniyet önerileri, Bakanlık tarafından demiryolu emniyeti mevzuatının uygulanması, denetlenmesi ve hazırlanmasında görevli kurum ve işletmecilere gönderilir. Tüm işletmeciler emniyet önerileri ile ilgili olarak, alınan veya planlanan tedbirleri Bakanlığa yıllık emniyet raporu kapsamında bildirir.

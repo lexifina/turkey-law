@@ -1,0 +1,26 @@
+Emniyet yönetim sistemi temel gereksinim ve bileşenleri
+MADDE 7 – (1) Emniyet yönetim sistemi, ikinci fıkranın tüm bentlerini ayrı ayrı içerecek şekilde belgelendirilir. Emniyet yönetim sistemi özellikle, tüm işletmecilerin organizasyonel yapısı içindeki emniyet sorumluluklarının dağılımını, farklı kademelerde yönetim kontrolünün nasıl korunduğunu, tüm kademelerdeki personelin ve temsilcilerinin içinde nasıl yer aldığını ve emniyet yönetim sisteminin sürekli gelişiminin nasıl sağlandığını gösterir.
+(2) Tüm işletmeciler tarafından oluşturulacak olan emniyet yönetim sistemi aşağıda belirtilen temel bileşenleri içerir:
+a) Emniyet politikasının belirlenmesi: Şirketin yönetim organı tarafından aşağıdaki konuları içerecek şekilde emniyet politikasının onaylayarak uygun bulunması ve tüm personele iletilmesi zorunludur:
+1) Yönetimin taahhüdü ve sorumluluğu,
+2) Yönetici personelin emniyet sorumlulukları,
+3) Emniyet yönetim sistemi uygulama planı,
+4) Diğer işletme politikalarıyla uyumu.
+b) Emniyet hedeflerinin belirlenmesi: Her işletme emniyetin devamlılığını sağlamak ve iyileştirilmesi için şirketin sayısal ve niteleyici hedefleri ile bu hedeflere ulaşmak için gerekli plan ve usulleri belirler. Bu emniyet hedefleri sürekli izlenir ve izleme faaliyetlerinin sonucu olarak gözden geçirilir.
+c) Emniyet standartları ile süreçlerinin belirlenmesi: Tüm işletmecilerin emniyetin sürekliliğini sağlamak için emniyet standartları ile iş süreçlerini belirlemesi zorunludur. İşletmeciler emniyet standartları ve süreçlerini aşağıda sayılan kriterlere uygun olarak belirlemek zorundadırlar;
+1) Güncel teknik ve operasyonel standartları,
+2) Bakanlık mevzuatı,
+3) Yürürlükte olan diğer ilgili mevzuat,
+4) Ekipman ve operasyonların yaşam döngüsü boyunca sağlaması gereken ulusal ve uluslararası standartlar ve prosedürler.
+ç) Emniyet risk yönetimi: Tüm işletmeciler emniyet için gerekli risk yönetimini oluştururlar. İşletmeciler; çalışma koşullarında, malzeme ve kullanılan ekipmanlarda bir değişiklik yapıldığında çeken ve çekilen araç, tesis veya altyapıda oluşabilecek yeni risklere karşı risk kontrol tedbirlerini uygulamak ve Bakanlık tarafından yayımlanan ortak emniyet yöntemlerine uygun risk değerlendirmesini yürütmek için prosedürleri oluşturur. Bunun için;
+1) Tehlike ve risk belirleme süreçleri,
+2) Risk değerlendirme, risk kontrol ve risk azaltıcı önlem süreçleri,
+3) Risk yönetimi sonucunda emniyet yönetim sisteminin sürekli iyileştirilmesi,
+süreçlerinin tanımlanması zorunludur. Risk yönetiminin bir parçası olarak tüm işletmeciler yaptığı veya yaptırdığı bakım, onarımı, malzemelerin temini ve yüklenicilerin çalışma şartlarıyla ilişkili faaliyetlerle ilgili tüm risklerin kontrol edilmesini sağlar. Mevcut emniyet yönetim sisteminin gerektirdiği şekilde üçüncü şahıs faaliyetlerinin sonucu olarak ortaya çıkan riskleri de göz önünde tutar, önlem alır veya aldırır.
+d) Personel yeterliliği ve eğitim: Personel yeterliliğinin devamlılığını korumak ve faaliyetlerin emniyetli bir şekilde sürdürülebilmesini sağlamak için işletmeciler personelinin tekrar eğitimleri dâhil tüm eğitimlerini sağlar. Bunun için tüm işletmeciler gerekli eğitim programlarını ve sistemi oluşturur.
+e) Bilgi iletişimi: Emniyetli bir işletmecilik için, tüm işletmeciler aynı altyapıda çalışan kuruluşlar arasında ve kendi içlerinde bilgi iletişimine yönelik gerekli tedbirleri alır.
+f) Dokümantasyon yönetimi: Tüm işletmeciler operasyon süreçlerini, personel ve personelin aldığı eğitimlerin tamamını belgeler ve arşivler. Bu belgelemeler; emniyet ve bağlı risklere ilişkin bilgi ve kayıtların ne şekilde tutulacağı, bu kayıtların kontrolü için prosedürleri, kaza, olay, ramak kala ve diğer tehlikeli olayların rapor edildiklerini, soruşturulduklarını, incelendiklerini ve gerekli tedbirlerin alındığını garanti eden prosedürleri içerir.
+g) Acil durum eylem planlarının hazırlanması: Tüm işletmeciler, demiryolu operasyonlarında meydana gelebilecek deray, çarpışma, yangın, patlama, tehlikeli kimyasal maddelerden kaynaklanan yayılım ve doğal afet gibi her türlü acil durum, acil müdahale, mücadele, ilkyardım veya tahliye gerektiren kaza ve olaylarda yapılacak iş ve işlemler dâhil bilgilerin ve uygulamaya yönelik eylemlerin yer aldığı acil durum planlarını hazırlar. Her plan periyodik olarak gözden geçirilir ve kaza/olaya dâhil tüm işletmeler, ilgili birimler ve yetkili kamu kurumları ile tatbikat yapılır.
+ğ) Kaza/olay inceleme yöntemlerinin belirlenmesi: Tüm işletmeciler, faaliyetleri sırasında meydana gelen kaza, olay, ramak kala ve diğer tehlikeli hadiselerin rapor edildiklerini, araştırıldıklarını, kayıt altına alındıklarını, kök sebebi araştırılarak gerekli tedbirlerin alındığını ve emniyet yönetim sisteminin yeniden gözden geçirilmesini sağlayan usulleri belirler.
+h) Emniyet yönetim sistemi iç denetimleri: Tüm işletmeciler, kuracakları emniyet yönetim sistemi kapsamında tanımladığı süreçleri iyileştirme amacıyla yıllık iç denetim planları oluşturur. Bu planlara göre tüm faaliyetlerini ve süreçlere uyulup uyulmadığının kontrolünü bu iç denetim yoluyla sağlar.
+(3) Tüm işletmeciler, ikinci fıkrada belirtilen emniyet yönetim sistemini Ek-1’e uygun olarak belgelendirir ve Bakanlığın talep etmesi halinde sunar.
