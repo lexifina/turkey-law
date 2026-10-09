@@ -1,0 +1,5 @@
+Tutanak düzenlemeye yetkili kılınanlar
+MADDE 26 – (1) 4925 sayılı Kanunun 26 ncı maddesi kapsamında düzenlenecek olan idari para cezası karar tutanakları ile ihlal tespit tutanaklarını düzenlemeye görevli Bakanlık ve İdare personeli ile aynı Kanunun 27 nci maddesinde ve Karayolu Taşıma Yönetmeliğinin 66 ncı maddesinde belirtilen diğer kurumların personeli yetkilidir.
+(2) (Değişik:RG-9/10/2026-33395) 655 sayılı Kanun Hükmünde Kararnamenin 28 inci ve 28/A maddeleri kapsamında düzenlenecek olan tutanakları düzenlemeye, görevli Bakanlık ve İdare personeli ile aynı maddelerde belirtilen diğer kurumların personeli yetkilidir.
+(3) 2918 sayılı Kanunun 35 inci maddesi kapsamında düzenlenecek olan idari para cezası karar tutanaklarını düzenlemeye aynı Kanunun 114 üncü maddesi uyarınca görevli İdare personeli yetkilidir.
+(4) 2918 sayılı Kanunun 65/A maddesi kapsamında düzenlenecek olan idari para cezası karar tutanaklarını düzenlemeye görevli bölge müdürlüğü personeli ile aynı maddede belirtilen diğer kurumların personeli yetkilidir.
