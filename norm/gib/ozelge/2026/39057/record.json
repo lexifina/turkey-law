@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-38418978-120[75-2025/3]-582310",
+  "source_id": 39057,
+  "date": "2026-10-09",
+  "title": "Dövize Endeksli Birikimli Hayat Sigortası Ödemelerindeki Gelir Vergisi Matrahının Tespiti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/39057",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "0aace6dde477e0e3de4939e6785302735dc93f95ce75f724b22c254ba79eff04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
