@@ -1,0 +1,10 @@
+DÖRDÜNCÜ BÖLÜM
+Personel ve Nitelikleri ile İlgili Hükümler
+Çalıştırılacak personel
+MADDE 11 – (1) Sabit araç muayene istasyonunda, en az bir istasyon amiri ve bir istasyon amir yardımcısı ile her muayene kanalı için en az bir olmak üzere yeterli sayıda araç muayene teknisyeni bulundurulur.
+(2) Sabit araç muayene istasyonuna bağlı olarak çalıştırılacak her bir seyyar araç veya traktör veya motosiklet muayene istasyonları için sabit araç muayene istasyonunda çalışan personele ilave olarak bir amir yardımcısı ile en az bir muayene teknisyeni çalıştırılır.
+(3) Sabit araç muayene istasyonunda her vardiya için bir istasyon amiri ve her bir amir yardımcısı başına en fazla sekiz araç muayene teknisyeni olacak şekilde amir yardımcısı görevlendirilir. Amir yardımcısı başına düşen araç muayene teknisyeni sayısı sekizin üzerinde olması halinde yeni amir yardımcısı veya yardımcıları görevlendirilerek, amir yardımcısı başına düşen teknisyen sayısının sekiz ve altında olması sağlanır.
+(4) İstasyon amirinin en az bir gün görevi başında bulunamaması halinde, istasyondaki görevini vekâlet verdiği amir yardımcısı yapar. Bu sürenin kesintisiz otuz takvim gününü aşması halinde yerine atama yapılır.
+(5) İstasyon amirleri için üçüncü fıkrada belirtilen görevlendirmeler ile istasyon amiri, amir yardımcıları ve muayene teknisyenlerinin görev ve/veya görev yeri değişiklikleri Bakanlık U–Net Otomasyon sistemi kullanılarak talep edilir ve uygun görülmesi halinde Bakanlık sistemi üzerinden atama şeklinde onaylanır.
+(6) İstasyon amirleri, yardımcıları ve araç muayene teknisyenlerinin her ne suretle olursa olsun işletici ile iş akdinin sona ermesi durumunda işletici iki iş günü içinde Bakanlık U–Net Otomasyon sistemi üzerinden bilgi vermek zorundadır.
+(7) Bakanlık, gerek gördüğü hallerde (belge/belgelerle tevsik edilmiş) istasyonlarda çalışan personel hakkında gerekli disiplin ve diğer idari işlemlerin yapılması için işleticiye talimat verir ve işletici, bu talimatı hukuka aykırılığın niteliğine göre ilgili mevzuat hükümlerine uygun olarak uygular.
