@@ -1,0 +1,23 @@
+{
+  "number": "73",
+  "number_as_published": "73",
+  "year": 2026,
+  "title": "Belediye Başkanlığımız bünyesine araç alım istemi",
+  "decision_date": "2026-10-09",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/MECL%C4%B0S%202026/73-afet-isleri-ve-risk-yonetimi-mudurlugu-belediyemiz-bunyesine-arac-alim-istemi-09102026.pdf",
+  "source_sha256": "5758541978a2f688bddaadf82f7a557b6c3ababe95c73468d8ac676e398687fc",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09 Ekim 2026 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
