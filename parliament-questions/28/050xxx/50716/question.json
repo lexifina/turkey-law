@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/50716",
+  "submitted": "2026-10-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sevilay ÇELENK ÖZEN",
+  "province": "Diyarbakır",
+  "summary": "Sayıştayın 2025 yılı Denetim Raporu'nda Gaziantep Üniversitesi ile ilgili yaptığı bazı tespitlere ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/5af725bf-8832-4ef4-8227-01a1352feea9",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "664f571a8ac478c43e1bd51aea7f931f349a771ee030c76e563c177bd43e77ed",
+  "in_force": "2026-10-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
