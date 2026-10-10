@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.31309",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEMİRYOLU İLE SEYAHAT EDEN YOLCULARIN HAKLARINA DAİR YÖNETMELİK",
+  "number": "31309",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2019/31309",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31309&MevzuatTertip=5",
+  "source_sha256": "290d08f9d1b1db5ae130eaa910880aaa406c7b1fb481804cd6edf148bb36b4b2",
+  "source_bytes": 148410,
+  "published": "2019-03-08",
+  "gazette": "30708",
+  "in_force": "2026-10-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-10",
+      "RG-10/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-10",
+      "10/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9025,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
