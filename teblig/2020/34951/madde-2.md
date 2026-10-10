@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, Millî Eğitim Bakanlığına bağlı resmi ve özel okul/kurumların bünyesinde faaliyet gösteren; kantin, kafeterya, yemekhane, büfe, çay ocağı gibi gıda işletmelerinde doğrudan öğrenciye satışa/tüketime sunulacak olan hazır ambalajlı gıdaların okul gıdası onay şartlarını ve bu gıdalarda kullanılacak okul gıdası logosuna (Ek ibare:RG-10/10/2026-33396) veya Beslenme Skoruna ilişkin hususları kapsar.
+(2) Bu Tebliğ, 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik ve 1/12/2004 tarihli ve 25657 sayılı Resmî Gazete’de yayımlanan Doğal Mineralli Sular Hakkında Yönetmelikte yer alan ürünleri kapsamaz.

@@ -1,0 +1,57 @@
+{
+  "source_id": "9.5.34951",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "OKUL GIDASI HAKKINDA TEBLİĞ (TEBLİĞ NO: 2020/23)",
+  "number": "34951",
+  "issuer": "Tarım ve Orman Bakanı, Sağlık Bakanı ve Millî Eğitim Bakanı",
+  "path": "teblig/2020/34951",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34951&MevzuatTertip=5",
+  "source_sha256": "501d3a1d933033a3410d594af565403eac89bfd16cb66a4796835cca56afe356",
+  "source_bytes": 55381,
+  "published": "2020-10-22",
+  "gazette": "31282",
+  "in_force": "2026-10-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-10",
+      "RG-10/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-10",
+      "10/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-09-28",
+      "28/9/2023",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-09-09",
+      "RG-9/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-09",
+      "9/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1482,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34951-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

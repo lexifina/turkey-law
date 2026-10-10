@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı; Millî Eğitim Bakanlığına bağlı resmi ve özel okul/kurumların bünyesinde faaliyet gösteren; kantin, kafeterya, yemekhane, büfe, çay ocağı gibi gıda işletmelerinde doğrudan öğrenciye satışa/tüketime sunulacak olan hazır ambalajlı gıdaların okul gıdası onay şartlarını ve bu gıdalarda kullanılacak okul gıdası logosuna (Ek ibare:RG-10/10/2026-33396) veya Beslenme Skoruna ilişkin hususları belirlemektir.

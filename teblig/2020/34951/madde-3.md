@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 22 nci maddesinin dördüncü fıkrası ve 43 üncü maddesinin ikinci fıkrası, 5/2/2013 tarihli ve 28550 sayılı Resmî Gazete’de yayımlanan Okul Kantinlerine Dair Özel Hijyen Kuralları Yönetmeliği ile 26/1/2017 tarihli ve 29960 mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğine dayanılarak hazırlanmıştır.
