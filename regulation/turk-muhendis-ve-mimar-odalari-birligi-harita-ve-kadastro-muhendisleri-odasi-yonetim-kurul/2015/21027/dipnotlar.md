@@ -1,0 +1,1 @@
+[1] 10/10/2026 tarihli ve 33396 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölüm başlığı “LİHKAB Tescili, Tescil İçin Gerekli Koşullar, Tescil Yenilemesi” iken metne işlendiği şekilde değiştirilmiştir.

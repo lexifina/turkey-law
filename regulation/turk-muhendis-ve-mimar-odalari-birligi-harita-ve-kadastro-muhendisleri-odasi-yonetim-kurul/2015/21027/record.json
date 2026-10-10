@@ -1,0 +1,71 @@
+{
+  "source_id": "7.5.21027",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TMMOB HARİTA VE KADASTRO MÜHENDİSLERİ ODASI LİSANSLI HARİTA VE KADASTRO MÜHENDİSLERİ VE BÜROLARI TESCİL YÖNETMELİĞİ",
+  "number": "21027",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Harita ve Kadastro Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-harita-ve-kadastro-muhendisleri-odasi-yonetim-kurul",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-harita-ve-kadastro-muhendisleri-odasi-yonetim-kurul/2015/21027",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21027&MevzuatTertip=5",
+  "source_sha256": "8eb9ea0855d3c08e7a349bdc1b099106c52d4ccfc283113683c25935801da020",
+  "source_bytes": 42214,
+  "published": "2015-08-05",
+  "gazette": "29436",
+  "in_force": "2026-10-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-10",
+      "RG-10/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-10",
+      "10/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-11-07",
+      "7/11/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-12-07",
+      "RG-7/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-07",
+      "7/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-07",
+      "7/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1352,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21027-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
