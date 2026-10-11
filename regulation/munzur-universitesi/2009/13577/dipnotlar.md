@@ -1,0 +1,1 @@
+[1] 11/10/2026 tarihli ve 33397 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı ”Tunceli Üniversitesi Su Ürünleri Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.

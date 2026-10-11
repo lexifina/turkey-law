@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-12-03",
+      "03.12.2009",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-10-11",
+      "RG-11/10/2026-33397",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-11",
+      "RG-11/10/2026-33397",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-11",
+      "RG-11/10/2026-33397",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-11",
+      "RG-11/10/2026-33397",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-11",
+      "RG-11/10/2026-33397",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-11",
+      "RG-11/10/2026-33397",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-11",
+      "RG-11/10/2026-33397",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-11",
+      "11/10/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-11/10/2026-33397",
+  "first_law": null,
+  "gazette": "27421",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-11",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Munzur Üniversitesi",
+  "issuer_slug": "munzur-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/munzur-universitesi/2009/13577",
+  "published": "2009-12-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13577&MevzuatTertip=5",
+  "source_bytes": 27590,
+  "source_id": "8.5.13577",
+  "source_sha256": "466a8330d5789d8515e80c86bbeba1ec80db34076b3ef278a897c3b8d25aa322",
+  "text_status": "current-consolidated",
+  "title": "MUNZUR ÜNİVERSİTESİ SU ÜRÜNLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 344,
+  "word_count": 746
+}
