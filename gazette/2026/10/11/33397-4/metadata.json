@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-10-11",
+  "issue": "33397",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 596)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261011-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261011.htm",
+  "index_sha256": "db2decdac2240e15994c39bcc3d3b53bdf5a404eeacbc1d1fdb0cba9d03c8e6f",
+  "index_header": "11 Ekim 2026 ... 33397 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261011.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
