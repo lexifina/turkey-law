@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-10-11",
+      "11.10.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 10- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33397",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bartın Üniversitesi",
+  "issuer_slug": "bartin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bartin-universitesi/2026/46330",
+  "published": "2026-10-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46330&MevzuatTertip=5",
+  "source_bytes": 46586,
+  "source_id": "8.5.46330",
+  "source_sha256": "e614030ce58c8ce5aa06ba5802117caca907ed3e71cc0ed011c012ff11fa5df6",
+  "text_status": "as-enacted",
+  "title": "BARTIN ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ TEKNOLOJİ\r\nGELİŞTİRME BÖLGELERİNDE GÖREVLENDİRİLME VE ŞİRKET KURABİLMELERİNE DAİR YÖNETMELİK",
+  "university_id": 348,
+  "word_count": 1485
+}
