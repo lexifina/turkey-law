@@ -1,0 +1,4 @@
+Müdür
+MADDE 8- (1) Müdür; Merkezin faaliyet alanları ile ilgili çalışmaları bulunan göz sağlığı, optometri, halk sağlığı veya ilgili disiplinlerde akademik ve/veya saha çalışmaları bulunan Üniversitenin tam zamanlı çalışan öğretim üyeleri arasından Rektör tarafından üç yıllık süre ile görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir. Müdür, görev süresi bitiminden önce aynı usulle görevinden alınabilir.
+(2) Müdüre çalışmalarında yardımcı olmak üzere Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından bir kişi Müdürün önerisi üzerine Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdürün görevi başında bulunmadığı zamanlarda müdür yardımcısı Müdüre vekâlet eder. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir.
+(3) Müdür, Merkezin faaliyetlerinden ve Merkezin çalışmalarının düzenli bir şekilde yürütülmesinden Rektöre karşı sorumludur.

@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/uskudar-universitesi/2026/46332",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33398",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-12",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Üsküdar Üniversitesi",
+  "issuer_slug": "uskudar-universitesi",
+  "kind": "regulation",
+  "published": "2026-10-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46332&MevzuatTertip=5",
+  "source_id": "8.5.46332",
+  "source_sha256": "1a98ca6c7c9c55e3ba76ad1b0dd9fa9c733a0716e8e1e1c410ee480ef3ed8748",
+  "title": "ÜSKÜDAR ÜNİVERSİTESİ MİYOPİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 372,
+  "version_label": "oldest version available",
+  "word_count": 1114
+}
