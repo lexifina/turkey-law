@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 21- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-10-12",
+      "12.10.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 21- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33398",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hakkari Üniversitesi",
+  "issuer_slug": "hakkari-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hakkari-universitesi/2026/46329",
+  "published": "2026-10-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46329&MevzuatTertip=5",
+  "source_bytes": 29576,
+  "source_id": "8.5.46329",
+  "source_sha256": "0aec438a12b49cea09d8dd872160759065a13fb89abd224c1919b9e777b8f1fc",
+  "text_status": "as-enacted",
+  "title": "HAKKARİ ÜNİVERSİTESİ DİL ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 346,
+  "word_count": 1344
+}
