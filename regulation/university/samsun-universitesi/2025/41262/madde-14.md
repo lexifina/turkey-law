@@ -1,0 +1,3 @@
+Sınav soruları ve notuna itiraz
+MADDE 14- (1) Öğrenciler, sınav sorularına sınav tarihinden itibaren 2 iş günü içinde; sınav sonuçlarına ise sonuçların ilanından itibaren 3 iş günü içinde yazılı olarak Dekanlığa bir dilekçeyle başvurarak itiraz edebilir.
+(2) İtirazlar; dönem koordinatörü, koordinatör yardımcısı ve ilgili anabilim dalı başkanından oluşan bir kurul tarafından incelenir. Değerlendirme sonuçları, bir tutanak ile Dekanlığa bildirilir. Not değişiklikleri, Fakülte Yönetim Kurulu kararıyla kesinleştikten sonra dönem koordinatörü tarafından ilan edilir. Fakülte Yönetim Kurulu, öğrencinin itirazını 5 iş günü içinde karara bağlamak zorundadır.
