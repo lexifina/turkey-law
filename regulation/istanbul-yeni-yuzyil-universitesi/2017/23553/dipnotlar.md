@@ -1,0 +1,1 @@
+[1] 6/1/2025 tarihli ve 32774 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğinin 6 ncı maddesinin birinci fıkrasına (i) bendinden sonra gelmek üzere bentler eklenmiş ve sonraki bent buna göre teselsül ettirilmiştir.
