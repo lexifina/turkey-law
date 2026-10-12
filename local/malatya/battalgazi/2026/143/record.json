@@ -1,0 +1,24 @@
+{
+  "number": "143",
+  "number_as_published": "143",
+  "year": 2026,
+  "title": "Bahçebaşı Mahallesi 192 Ada 22 No.Lu Parselde Bulunan 1.253,52 M² Belediye Hissemizin 747,41 M² ‘Lik Kısmının Bedelsiz Devri İle Bu İşlemleri Yürütmek Üzere Belediye Encümenine Yetki Verilmesi",
+  "decision_date": "2026-10-12",
+  "source": "https://www.battalgazi.bel.tr/wp-json/wp/v2/posts?categories=88&per_page=100&page=1&_fields=id,date,link,title,content",
+  "official_document": "https://www.battalgazi.bel.tr/2026/10/12/bahcebasi-mahallesi-192-ada-22-no-lu-parselde-bulunan-1-25352-m%c2%b2-belediye-hissemizin-74741-m%c2%b2-lik-kisminin-bedelsiz-devri-ile-bu-islemleri-yurutmek-uzere-belediye-encumenine-yetki-verilm/",
+  "source_sha256": "1f81ded3589c886ed8cca7dd8dec91159c25c12c22ae75fdb07a323376efcf7d",
+  "issuer": "Battalgazi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.10.2026 (Karar Tarihi on the official decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.battalgazi.bel.tr/2026/10/12/bahcebasi-mahallesi-192-ada-22-no-lu-parselde-bulunan-1-25352-m%c2%b2-belediye-hissemizin-74741-m%c2%b2-lik-kisminin-bedelsiz-devri-ile-bu-islemleri-yurutmek-uzere-belediye-encumenine-yetki-verilm/",
+  "post_date": "2026-10-12T15:38:55",
+  "record_scope": "one council decision (official decision page)"
+}
