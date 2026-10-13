@@ -1,0 +1,9 @@
+Yetkilendirme
+MADDE 35 – (1) Bakanlık, gerektiğinde teknik ve idari kapasite, teşkilat imkânları, hizmetin hızlı/etkin/yaygın olarak üretilmesi ilkelerini gözeterek, bu Yönetmelik kapsamında yerine getirmekle yükümlü olduğu iş ve işlemlerin bir kısmını aşağıda belirtilen usul ve esaslar çerçevesinde yürütmek üzere; kamu kurum/kuruluşlarını, üniversiteleri, 18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu kapsamına giren birlik ve odalar ile TÜRKAK tarafından TSE ISO/IEC 17020 standardına göre muayene kuruluşu olarak akredite edilen ve Bakanlık tarafından tasnif kuruluşu olarak yetkilendirilen ve yetkilendirildikleri Birleşmiş Milletlerin ilgili örgütleri tarafından ilan edilen kuruluşları yetkilendirebilir.
+a) Yetkilendirme, düzenlenecek bir protokol/sözleşme ile yapılır. Bu protokol/sözleşmede yetkilendirmenin konusu, süresi ve mutabakata varılan hususlar açıkça belirtilir.
+b) Yetkilendirme, yetkilendirmenin konusu ve niteliği gözetilmek suretiyle en az 1 yıl en fazla 5 yıl süreyle yapılabilir. Yetkilendirme, süresinin sonunda yenilenebilir.
+c) Bakanlık, yetkilendirmenin konusuna, niteliğine ve özelliğine göre aynı konuda birden fazla kamu kurum/kuruluşu, üniversite veya muayene kuruluşunu yetkilendirebilir.
+ç) Yetkilendirme kapsamında üretilecek hizmetler için alınacak/ödenecek ücretler Bakanlık tarafından onaylanır.
+d) Yetkilendirilmiş olanlar ilgili mevzuata ve Bakanlıkça yayımlanan idari düzenlemelere uymakla yükümlüdürler. Bakanlık, yetkilendirmenin kullanımı ile ilgili olarak gerektiğinde her türlü denetimi yapar.
+e) Yetkilendirilmiş olanların ilgili mevzuata ve Bakanlıkça yayımlanan idari düzenlemelere uymaması halinde yapılmış olan yetkilendirme, Bakanlık tarafından iptal edilir.
+f) Yetkilendirme, Bakanlığın bu konudaki görev, sorumluluk ve yetkisini ortadan kaldırmaz.

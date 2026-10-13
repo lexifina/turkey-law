@@ -1,0 +1,2 @@
+Faaliyet belgesi alma zorunluluğu
+MADDE 7 – (1) Bu Yönetmelik ve RID kapsamına giren tehlikeli maddelerin demiryolu ile taşınması alanında faaliyet gösteren; dolduran, paketleyen, yükleyen, taşımacı, gönderen, alıcı, boşaltan ve tank-konteyner/portatiftank işletmecisi, sarnıç vagon sahibi/işletmecisi, demiryolu altyapı işletmecisi, bu faaliyet alanlarından biri veya birden fazlası için faaliyette bulunanların Bakanlığa başvurarak tehlikeli madde faaliyet belgesi almaları zorunludur. Faaliyet belgesinin düzenlenmesine ilişkin hususlar Bakanlıkça belirlenir.
