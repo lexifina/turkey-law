@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 66 ncı maddesi, 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanunu, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu, 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname ve 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesine dayanılarak hazırlanmıştır.

@@ -1,0 +1,2 @@
+Muafiyet
+GEÇİCİ MADDE 4 – (1) Özel kanunlar ile korunan ve yetkili kurum/işletme uhdesindeki alanlar hariç olmak üzere, bu Yönetmeliğin yürürlüğe girdiği tarihten önce paylaşımlı e-skuter işletmeciliği yapan gerçek veya tüzel kişiler, 31/7/2021 tarihine kadar bu Yönetmelik hükümlerinden muaftır. Ancak bu Yönetmelik kapsamında e-skuter izinleri düzenlenen ilçeler/bölgeler için muafiyetler iptal edilir.

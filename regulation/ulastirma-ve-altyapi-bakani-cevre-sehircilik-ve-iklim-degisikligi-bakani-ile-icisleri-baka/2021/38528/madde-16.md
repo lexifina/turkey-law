@@ -1,0 +1,44 @@
+BEŞİNCİ BÖLÜM
+Sorumluluk, Yükümlülük ve Haklar
+Yetki belgesi verilenlerin yükümlülükleri
+MADDE 16 – (1) Yetki belgesi sahipleri, sadece izin aldıkları belediye/bölge sınırları içerisinde faaliyette bulunabilirler. E-skuterlerin izin alınmayan bir belediye/bölge sınırları içerisinde kullanılması durumunda, söz konusu e-skuterlerin 48 saat içerisinde izin alınan belediye/bölge sınırları içerisine getirilmesi zorunludur.
+(2) (Değişik:RG-2/12/2025-33095) Yetki belgesi sahipleri; yapacakları faaliyetlerle ilgili olarak, e-skuterlerin seri/plaka/id numaraları ve konum bilgileri ile 15 inci maddenin üçüncü fıkrasında belirtilen bilgileri, verilen hizmetin bitişine kadar U-Net’e işlemek/iletmek zorundadır. Bu bilgiler belediyeler, Coğrafi Bilgi Sistemleri Genel Müdürlüğü, Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır. Bu fıkraya göre;
+a) Sürüşe başlanılan e-skuterlerin, harekete başladığı andan itibaren konum bilgilerinin 3 dakikalık periyotlarla,
+b) Sürüşü bitirilen e-skuterlerin, hareket bittiği andan itibaren konum bilgilerinin en geç 10 dakika içinde,
+c) Sürüş dışında konumu değiştirilen e-skuterler için her bir konum değişikliğinde yeni konum bilgisinin,
+ç) İşlenecek/iletilecek verilerin, standartları İdarece belirlenecek olan web servis üzerinden,
+yetki belgesi sahipleri tarafından U-Net’e işlenmesi/iletilmesi zorunludur.
+(3) Yetki belgesi sahipleri, firmalarında meydana gelen unvan, adres ve sermaye şartını kaybedecek şekildeki sermaye azaltışlarını, değişikliğin meydana geldiği tarihten itibaren doksan takvim günü içinde İdareye elektronik olarak bildirmekle yükümlüdürler.
+(4) Yetki belgesi sahipleri, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununda ön görülen tedbirler, kaideler ve yasaklamalara uygun olarak faaliyette bulunmaktan sorumludurlar. Bu fıkraya aykırılığın tespiti halinde, bu durum ilgili mercilere iletilir.
+(5) Yetki belgesi sahipleri, çevreyi ve insan sağlığını koruma, çevre kirliliğini önleme amacıyla yürürlüğe konulan mevzuat hükümlerini bilmek ve faaliyetlerini bunlara uygun olarak yürütmekten sorumludurlar.
+(6) Yetki belgesi sahiplerinin, hizmet alanlara ait bilgilerin gizliliği ve güvenliğine ilişkin; her türlü bilgiyi açığa vurmaları, üçüncü kişilere bilgi vermeleri veya herhangi birinin bunları yapmasına neden olmaları yasaktır. Bu fıkraya aykırılığın tespiti halinde, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu hükümleri çerçevesinde ilgili mercilere bilgilendirme yapılır.
+(7) Yetki belgesi sahipleri, hizmetten yararlananlara hizmetleriyle ilgili çevrimiçi (mobil/internet) eğitim vermek ve bu eğitimin tamamlanıp tamamlanmadığını kontrol etmekle yükümlüdürler.
+(8) Yetki belgesi sahipleri, e-skuterin kullanımı sırasında kask, dizlik, reflektörlü ceket gibi koruyucu ve görünürlüğü artırıcı ekipmanların giyilmesi konusunda hizmetten yararlananları bilgilendirmekle yükümlüdürler.
+(9) Yetki belgesi sahipleri, 15 yaşını bitirmemiş olanlara hizmet veremez.
+(10) (Değişik:RG-2/12/2025-33095) Yetki belgesi sahipleri, UKOME/il veya ilçe trafik komisyonu tarafından belirlenen hız sınırları çerçevesinde e-skuterlerini kullandırır. Girilmesi yasak bölgeler ve hız sınırları için coğrafi çitleme uygulanır ve coğrafi çitleme verileri U-Net üzerinden İdare ile paylaşılır. Yetki belgesi sahipleri;
+a) Coğrafi çitleme yöntemine ilişkin sınırlamaların, yazılım üzerinden otomatik yapılmasına,
+b) Sürüş esnasında coğrafi çitleme olan bölgeye yaklaşılması hâlinde sürücünün direksiyona yerleştirilen işitsel cihaz ile uyarılmasına,
+c) Sürücünün coğrafi çitleme olan bölgeye girmesi hâlinde, çitleme olan bölgeden geri dönebilmesine imkân sağlayacak şekilde e-skuterin hızının kademeli olarak 6 km/saat’e indirilmesine,
+ç) Sürüş esnasında e-skuterden devrilme uyarısı alınması hâlinde, sürücü ile cep telefonu üzerinden irtibat sağlanıp herhangi bir acil durum olup olmadığının tespit edilmesine ve kaza durumunda bunun kaza verisi olarak kayıt altına alınmasına,
+yönelik gerekli tedbirleri almakla yükümlüdür.
+(11) (Değişik:RG-2/12/2025-33095) Yetki belgesi sahipleri; faaliyet gösterdikleri il için aldıkları toplam e-skuter izin sayısını aşmamak kaydıyla, faaliyet gösterdikleri ilçede/bölgede izni aldıkları toplam e-skuter sayısının %70’inden az (Kasım-Şubat döneminde %40 olarak uygulanır) %130’undan fazla e-skuter bulunduramaz. Bu uygulamada e-skuter sayısı kontrolü için 00:00-23:59 saatleri esas alınarak bir tam günlük izleme yapılır. Bu fıkraya göre belirtilen sınırlara ilişkin olarak yapılacak hesaplamalarda, 00:00 ila 23:59 saatleri arasındaki gönderilen ortalama konum bilgileri esas alınarak değerlendirme yapılır.
+(12) (Değişik:RG-2/12/2025-33095) Yetki belgesi sahipleri, kullanıcılarına 7 gün 24 saat esasına göre hizmet verebilecek kapasitede bir çağrı merkezi veya aynı amaçla hizmet edecek mobil uygulama bulundurmakla yükümlüdür. Bu fıkraya göre bulundurulacak çağrı merkezi veya mobil uygulamaya iletilen şikâyet ve soruların en kısa sürede sonuçlandırılması zorunludur. Yetki belgesi sahiplerinin faaliyetlerinde kullanacakları mobil uygulama ve/veya internet sitelerinde;
+a) Yetki belgesi sahibinin ünvan ve iletişim bilgilerinin açıkça belirtilmesi,
+b) Faaliyet gösterilen ilçe/belediye/bölgelerin açıkça belirtilmesi,
+c) E-skuter kiralama ücretlerinin (açılış, dakikalık ücret ve benzeri) belirtilmesi,
+ç) Üyelik aşamasında veya ilk kullanımdan önce; e-skuter faaliyetleri, kask, dizlik, reflektörlü ceket gibi koruyucu ve görünürlüğü artırıcı ekipmanlara ilişkin hatırlatma ile bu Yönetmelikte belirtilen güvenlik yükümlülüklerine ilişkin bilgilendirmenin video, animasyon, sunum veya yazılı doküman şeklinde yapılması,
+d) Mobil uygulamaların, Ülkemizdeki farklı platformlardan erişime açık olması,
+e) Mobil uygulamalarda; hizmete sunulan e-skuterlerin konumu, sayısı, şarj seviyeleri (yüzde olarak) ve gidebileceği tahmini mesafenin belirtilmesi,
+f) Mobil uygulamalarda, kullanıcıyı yönlendirme amaçlı harita hizmeti ile anlık ücret bilgisini görebileceği bir arayüzün sağlanması,
+g) Mobil uygulamalarda; coğrafi çitleme özelliğine entegre olarak kullanıcıların nerelerde sürüş gerçekleştirmeyip nerelere park etmeyeceğinin açık şekilde harita tabanlı olarak gösterilmesi,
+ğ) Mobil uygulamalarda, karbon ayak izi bilgisinin, otomobillere kıyasla görebileceği bir arayüzün sağlanması,
+zorunludur.
+(13) Yetki belgesi sahipleri, kamu nizamını bozacak, özel mülkiyeti ihlal edecek ve yayalar, engelliler ve hareket kısıtlılığı olan kişilerin güvenli ve bağımsız hareketlerini, araç ve yaya trafiğini engelleyecek şekilde park edilen e-skuterlerini iki saat içerisinde toplamakla yükümlüdürler.
+(14) (Değişik:RG-2/12/2025-33095) Yetki belgesi sahipleri; hizmet verecekleri e-skuterlerin en az %30’unu, Sanayi ve Teknoloji Bakanlığı tarafından yayımlanacak tebliğe göre üretim yaptığı TSE tarafından belgelendirilen işletmelerden temin etmekle yükümlüdür. TSE tarafından belgelendirilen işletmeler, üretimini yaptıkları e-skuterlerin ikinci fıkrayla belirlenen seri/plaka/id numaralarını U-Net sistemine bildirmekle yükümlüdür. Ancak, bu fıkranın birinci cümlesiyle belirlenen şartın sağlanmaması veya sonradan kaybedilmesi hâlinde, yetki belgesi sahiplerinin bu eksikliği en geç 15 gün içinde sağlamaları zorunludur.
+(15) Yetki belgesi sahipleri, unvan veya varsa kısa unvanlarını ve seri, plaka veya id numaralarından birini izni aldıkları e-skuterlerin en az bir yerine görülebilecek şekilde yazdırmak zorundadırlar.
+(16) Yetki belgesi sahipleri, e-skuterlerle ilgili hizmetten yararlananların yapmış oldukları trafik kural ihlallerinin 2918 sayılı Kanun kapsamında işlem yapılacağını kullanıcılara bildirmekle yükümlüdürler.
+(17) (Değişik:RG-2/12/2025-33095) Yetki belgesi sahipleri, kullandıracakları e-skuterleri 5 inci maddenin ikinci fıkrasına uygun olarak teçhiz etmek zorundadır. Yetki belgesi sahipleri, kullanıma sunacakları e-skuterlerin en az %20 şarj düzeyinde olmasıyla ilgili gerekli tedbirleri almakla yükümlüdür.
+(18) Yetki belgesi sahipleri, faaliyetleriyle ilgili olarak İdarece yayımlanan düzenleyici işlemlere uymakla yükümlüdürler.
+(19) (Ek:RG-2/12/2025-33095) Yetki belgesi sahipleri, kullanıma sundukları e-skuterlere ilişkin aylık periyotlar halinde; kaza ve şikâyet bilgilerini U-Net’e işlemek/iletmek zorundadır.
+(20) (Ek:RG-2/12/2025-33095) Yetki belgesi sahiplerinin, ilgili kurum veya kuruluş tarafından belirlenen hız sınırlarına uyması zorunludur.
+(21) (Ek:RG-2/12/2025-33095) 14/2/2020 tarihli ve 7221 sayılı Coğrafi Bilgi Sistemleri ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanuna istinaden coğrafi veri toplayan sensör ve donanımlara sahip e-skuter hizmeti veren yetki belgesi sahipleri; coğrafi veri izin kapsamında olup, hizmetleri süresince Çevre, Şehircilik ve İklim Değişikliği Bakanlığından coğrafi veri izin belgesi almakla yükümlüdür.

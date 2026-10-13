@@ -1,0 +1,2 @@
+Yeniden değerleme oranı
+MADDE 25 – (1) 24 üncü maddenin birinci fıkrası ile belirlenen ücretler her yıl, bir önceki yıla ilişkin olarak 213 sayılı Kanun uyarınca tespit ve ilan edilen yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılarak uygulanır. Bu Yönetmelik kapsamındaki idari para cezaları ise 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesinin yedinci fıkrası hükümlerine göre yeniden değerlemeye tabi tutulur.

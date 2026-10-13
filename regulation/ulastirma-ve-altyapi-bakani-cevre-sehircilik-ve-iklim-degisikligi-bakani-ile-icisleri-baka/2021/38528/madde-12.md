@@ -1,0 +1,17 @@
+Paylaşımlı e-skuter izni verilmesi
+MADDE 12 – (1) 11 inci maddedeki esaslar çerçevesinde UKOME ve il trafik komisyonlarınca, sorumluluk sahalarında verilecek e-skuter sayıları, her bir yetki belgesi sahibinin başvuruda bulunabileceği azami e-skuter izni sayısı, e-skuterlerin kullanılmayacağı alanlar, başvuru süreci ve talep edilebilecek diğer şartlara ilişkin karar alınır ve alınan bu karar son başvuru tarihinden en az 10 gün önce ilgili kurumların internet sayfasında duyurulur.
+(2) Başvurular büyükşehir belediyesi kurulu bulunan illerde UKOME, büyükşehir belediyesi kurulu bulunmayan yerlerde il trafik komisyonu başkanlığına yapılır. Başvurular her bir belediye için ayrı ayrı değerlendirilir, 60 gün içinde karar alınarak sonuçlandırılır ve duyurulur. Yapılan değerlendirme sonucunda; talep edilen e-skuter izni sayısının, verilebilecek e-skuter izin sayısının;
+a) Üstünde olduğu durumlarda, yetki belgesi sahibi başvurucular arasında talep ettikleri sayılar ile orantılı olarak eşit şekilde e-skuter izni verilir.
+b) Altında olduğu durumlarda, e-skuter izni düzenlenmesini müteakip 6 ay içerisinde ilgisine göre UKOME veya il trafik komisyonlarınca varsa ilave talepler alınır. E-skuter izni alan yetki belgesi sahipleri haricinde yeni talep olmaması durumunda, 11 inci maddenin beşinci fıkrasındaki kısıta bakılmaksızın izin alan yetki belgesi sahiplerinin ilave e-skuter izni talepleri (a) bendinde belirtilen usule göre karşılanır.
+(3) Bu maddeye göre alınacak kararlarda;
+a) Her bir yetki belgesi sahibi için verilecek e-skuter izni sayısı ile hangi ilçe veya belediyede faaliyet gösterileceğinin,
+b) E-skuter izni verilen gerçek veya tüzel kişiliğin yazılı olduğu listenin,
+c) İzin verilen e-skuterlerin varsa kullanılamayacağı yasaklı bölgelerin,
+ç) E-skuterler için, 25 km/saati aşmamak kaydıyla bölgelere göre belirlenen azami hız sınırının,
+d) (Ek:RG-2/12/2025-33095) Kamuya açık park veya şarj işleminin yapılabileceği alanların bulunması durumunda, söz konusu alanların,
+belirtilmesi zorunludur.
+(4) Özel kanunlar ile korunan ve yetkili kurum/işletme uhdesindeki alanlarda (havalimanları, üniversite kampüsleri, hastaneler, milli parklar ve benzeri) verilebilecek e-skuter izni sayısının tespiti, başvuru süreci ve ilan ile yetki belgesi sahiplerine e-skuter izni verilmesine ilişkin iş ve işlemler, ilgili kurumlar/işletmeler tarafından yürütülür.
+(5) Bu maddeye göre alınan kararlar; olumlu ise üçüncü fıkrada belirtilen bilgiler ile birlikte 7 iş günü içerisinde U-Net’e, olumsuz ise 15 iş günü içerisinde gerekçesiyle birlikte yazılı olarak İdareye bildirilir.
+(6) UKOME/il trafik komisyonları tarafından verilen paylaşımlı e-skuter izin sayısının, verilebilecek azami sayıya ulaşmadığı durumlarda, her 6 ayda bir yeniden değerlendirme yapılarak e-skuter izni talepleri bu maddeye göre değerlendirilir.
+(7) E-skuter izni verilen yetki belgesi sahipleri, bu maddeye göre e-skuter izninin düzenlendiği tarihten itibaren en geç 45 gün içerisinde e-skuterlerini sahada bulundurmak zorundadır.
+(8) (Ek:RG-2/12/2025-33095) Yetki belgesi sahipleri; izin aldıkları bölgede, kısmen veya tamamen faaliyetlerini sonlandırmak istemeleri hâlinde, bu durumu İdareye ve e-skuter izni aldıkları ilgili mercilere yazılı olarak bildirmek zorundadır. Bu fıkraya göre sonlandırılan faaliyetlere ilişkin e-skuter izni veren ilgili merci, talep hâlinde 11 inci maddeye ve bu maddeye göre yeniden işlem yapabilir.

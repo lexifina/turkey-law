@@ -1,0 +1,4 @@
+Bilgi paylaşımı
+MADDE 19 – (1) Bu Yönetmelik kapsamındaki faaliyetler, bu faaliyetleri yürüten gerçek ve tüzel kişiler ile kullanılan e-skuterlere ait İdare tarafından elektronik ortamda tutulan verilerin ilgili kamu idareleriyle; ilgili kamu idarelerince elektronik ortamda tutulan verilerin de ihtiyaç halinde İdare ile paylaşımı esastır.
+(2) Talep edilmesi halinde; birinci fıkraya göre İdare tarafından elektronik ortamda tutulan veriler, tâbi olduğu usul ve esaslar ilgili Bakanlıklarca yayımlanan yönetmeliklerle belirlenen ve ilgili kamu idarelerinin denetimine tabi kuruluşlarla; bu kuruluşlarca elektronik ortamda tutulan veriler de İdare ile paylaşılır.
+(3) Elektronik ortamda paylaşılan verilerin gizliliğinin korunmasından veriyi alan taraf sorumludur. Bilgi paylaşımına ilişkin usul ve esaslar yapılacak protokollerle belirlenir.

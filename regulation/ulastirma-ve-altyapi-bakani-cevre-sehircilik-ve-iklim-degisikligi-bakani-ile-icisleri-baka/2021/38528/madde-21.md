@@ -1,0 +1,4 @@
+Denetimle görevli ve yetkili kuruluşlar
+MADDE 21 – (1) Paylaşımlı e-skuter işletmeciliği faaliyeti yapanlar ile bu faaliyetlerden yararlananlar ve bu faaliyetlerde kullanılan her türlü e-skuterlerle ilgili olarak, İdare ile belediye denetim birimleri, bu Yönetmeliğin kendilerine yüklediği görev ve yetkileri doğrudan yerine getirir ve kullanırlar.
+(2) Denetimle görevli ve yetkili kılınanlar, Kararname ile bu Yönetmelik esaslarına göre denetim görevlerini yerine getirmek ve denetimler sırasında tespit ettikleri kusurlar için tutanak düzenlemekle yükümlüdürler.
+(3) E-skuterlerin 2918 sayılı Kanun kapsamına giren alanlarda mevzuatta belirtilen kurallara, şartlara, hak ve yükümlülüklere uygun olarak kullanımı hususundaki denetimler Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığı kolluk personelince yerine getirilir.
