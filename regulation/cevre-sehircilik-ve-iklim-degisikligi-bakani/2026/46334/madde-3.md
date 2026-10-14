@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 14/2/2020 tarihli ve 7221 sayılı Coğrafi Bilgi Sistemleri ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun 1 inci maddesi, 49 sayılı Coğrafi Bilgi Sistemleri Hakkında Cumhurbaşkanlığı Kararnamesinin 7 nci maddesi ile 14 üncü maddesinin dördüncü ve beşinci fıkraları ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 108 inci maddesinin birinci fıkrasının (c), (h) ve (ı) bentlerine dayanılarak hazırlanmıştır.
