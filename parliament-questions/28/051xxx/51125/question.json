@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/51125",
+  "submitted": "2026-10-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Selma Aliye KAVAF",
+  "province": "Manisa",
+  "summary": "Bakanlığa ait bilişim sistemlerinin siber saldırılardan korunması için alınan önlemlere ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/aac43618-6873-4f70-911e-01a15e91b01e",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "48238d6af2484e9b6990cc1ca75b6eefee648b29667bbe21e57969d995b5d664",
+  "in_force": "2026-10-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
