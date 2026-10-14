@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Ödemeye İlişkin Esaslar
+Üye/ortak üreticilerden kesinti
+MADDE 5- (1) Merkez birliği düzeyinde örgütlenmesini tamamlamış ve kendi merkez birliğine üye/ortak olan, 5996 sayılı Kanuna göre kurulmuş ıslah amaçlı yetiştirici birlikleri ve/veya 5200 sayılı Kanuna göre kurulmuş üretici birlikleri ve/veya 1163 sayılı Kanuna göre kurulmuş, kuruluşuna Bakanlıkça izin verilen, hayvancılık faaliyeti yürüten tarımsal amaçlı kooperatif üyeleri/ortaklarının hak ettikleri desteklerden aşağıdaki tabloda belirtilen oranlarda, çiftçi örgütlerini güçlendirme adı altında veri girişi yapanlara sistem üzerinden kesinti yapılır. Kalan miktar üreticilerin hesabına ödenir.
+Destek Konusu | Kesinti Oranı (%)
+Çiğ süt desteği(veri girişi yapan) | Üretici ve yetiştirici birlikleri üzerinden yapılan desteklemelerde %3’ü il/ilçe üretici birliklerine ve il yetiştirici birliklerine; bu bedelin içinden %5’i üretici ve yetiştirici merkez birliğine, Kooperatifler üzerinden yapılan desteklemelerde %3’ü kooperatif üst birliği veya bölge birliğine; bu bedelin içinden % 25’i kooperatif merkez birliğine,
+(2) Birden fazla merkez birliğine üyeliği bulunan kooperatif üst/bölge birlikleri destekleme yılı için çiftçi örgütlerini güçlendirme bedelinin ödeneceği merkez birliğine taahhütname verir. Bu taahhütnameler, merkez birliklerince destekleme yılı başında Bakanlığa gönderilir. Çiftçi örgütlerini güçlendirme bedeli, merkez birliklerinden gelen liste ve taahhütnamelere göre ödenir.
