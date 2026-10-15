@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/51157",
+  "submitted": "2026-10-15",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Metin İLHAN",
+  "province": "Kırşehir",
+  "summary": "5393 sayılı Kanun kapsamında Özbağ Belediyesinin tüzel kişiliğinin kaldırılarak Kırşehir Belediyesine katılmasına ilişkin",
+  "status": "15 Günlük Cevaplanma Süresi Devam Ediyor",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/22ebe0e6-4d33-4490-a7aa-01a1444b29eb",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "48238d6af2484e9b6990cc1ca75b6eefee648b29667bbe21e57969d995b5d664",
+  "in_force": "2026-10-15",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
