@@ -1,0 +1,6 @@
+Makine ve ilgili ürünlere “CE” işareti iliştirilmesi ile ilgili kurallar
+MADDE 25- (1) “CE” işareti görülebilir, okunaklı ve silinemez biçimde makine veya ilgili ürüne iliştirilir. Bunun mümkün olmaması veya makine ya da ilgili ürünün yapısı nedeniyle bu durumun garanti edilememesi halinde “CE” işareti, ambalaja ve makine veya ilgili ürüne eşlik eden belgelere iliştirilir.
+(2) “CE” işareti makine veya ilgili ürünün piyasaya arzından veya hizmete sunulmasından önce iliştirilir.
+(3) Makine veya ilgili ürünün uygunluğunun 26 ncı maddenin ikinci fıkrasının (a), (b) ve (c) bentlerinde ve üçüncü fıkrasının (b), (c) ve (ç) bentlerinde belirtilen uygunluk değerlendirme yöntemlerine göre değerlendirilmesi durumunda, “CE” işaretini takiben ilgili onaylanmış kuruluşun kimlik kayıt numarasının iliştirilmesi gerekir. Onaylanmış kuruluşun kimlik kayıt numarası kuruluşun kendisi tarafından veya talimatı ile imalatçı veya imalatçının yetkili temsilcisi tarafından iliştirilir.
+(4) “CE” işaretine ve uygun olan hallerde, onaylanmış kuruluş kimlik kayıt numarasına ek olarak, özel riski veya kullanımı gösteren her türlü görsel sembol veya işaret eklenebilir.
+(5) Bakanlık, “CE” işaretini düzenleyen mevzuatın doğru şekilde uygulanmasını sağlamak için mevcut uygulamaları temel alır ve söz konusu işaretin uygunsuz kullanımı halinde gerekli tedbirleri alır.

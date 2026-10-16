@@ -1,0 +1,2 @@
+Onaylanmış kuruluşların uygunluğu varsayımı
+MADDE 32- (1) Uygunluk değerlendirme kuruluşunun; Avrupa Birliği Resmî Gazetesi’nde referansları yayımlanmış ilgili uyumlaştırılmış standartlarda veya bunların kısımlarında ortaya konulan kriterlere uygunluğunu göstermesi durumunda, uygulanabilir uyumlaştırılmış standartlar söz konusu gereklilikleri kapsadığı ölçüde, 31 inci maddede yer alan gereklilikleri karşıladığı varsayılır.

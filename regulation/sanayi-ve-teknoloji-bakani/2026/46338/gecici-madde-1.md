@@ -1,0 +1,3 @@
+Geçici hükümler
+GEÇİCİ MADDE 1- (1) Bakanlık, 20/1/2027 tarihinden önce 51 inci maddenin birinci fıkrasının (b) bendi ile yürürlükten kaldırılan Makina Emniyeti Yönetmeliği (2006/42/AT)’ne uygun olarak piyasaya arz edilen ürünlerin piyasada bulundurulmasını engellemez. Ancak, anılan Yönetmeliğin korunma önlemine ilişkin 12 nci maddesine göre halihazırda işlem başlatılmış ürünler dahil olmak üzere bu ürünlere, bu Yönetmeliğin yayımı tarihinden itibaren, anılan Yönetmeliğin 12 nci maddesi yerine bu Yönetmeliğin yedinci bölümü uygulanır.
+(2) 51 inci maddenin birinci fıkrasının (b) bendi ile yürürlükten kaldırılan Makina Emniyeti Yönetmeliği (2006/42/AT)’nin 13 üncü maddesine göre düzenlenen AT tip inceleme belgeleri ve onay kararları süreleri dolana kadar geçerli olur.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.46338",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MAKİNE EMNİYETİ YÖNETMELİĞİ (2023/1230/AB)",
+  "number": "46338",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2026/46338",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46338&MevzuatTertip=5",
+  "source_sha256": "9c0ca588f477c9db25a41d621b1481b030184fba2c1fd2d785d15a7664ae4976",
+  "source_bytes": 143360,
+  "published": "2026-10-16",
+  "gazette": "33402",
+  "in_force": "2026-10-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.10.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10275,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.46338-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

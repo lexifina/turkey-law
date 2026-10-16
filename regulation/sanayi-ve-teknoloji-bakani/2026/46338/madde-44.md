@@ -1,0 +1,3 @@
+Korunma önlemleri
+MADDE 44- (1) 43 üncü maddenin altıncı, sekizinci ve dokuzuncu fıkralarında belirtilen önleme karşı üye ülkelerden veya Komisyondan itiraz olması ya da Komisyonun söz konusu önlemi AB mevzuatına aykırı bulması hâlinde, Komisyon tarafından yapılan inceleme sonucunda söz konusu önlemin haklı gerekçeye dayanmadığına karar verilir ise Bakanlık bu önlemi yürürlükten kaldırır.
+(2) Komisyon tarafından yapılan incelemede üye ülke tarafından alınan ulusal önlemin haklı gerekçeye dayandığına karar verilir ise Bakanlık, uygun olmayan ürüne ilişkin olarak piyasadan çekme gibi uygun kısıtlayıcı önlemlerin alınmasını sağlar ve konuya ilişkin Ticaret Bakanlığı aracılığıyla Komisyonu bilgilendirir.

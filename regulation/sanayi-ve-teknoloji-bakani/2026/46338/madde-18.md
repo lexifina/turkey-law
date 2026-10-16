@@ -1,0 +1,2 @@
+İmalatçıların yükümlülüklerinin ithalatçı ve dağıtıcılara uygulandığı durumlar
+MADDE 18- (1) İthalatçı veya dağıtıcı, bu Yönetmeliğin kapsamına giren ürünü kendi adı veya ticari markası altında piyasaya arz etmesi veya hâlihazırda piyasaya arz edilmiş ürünü, uygulanabilir gerekliliklere uygunluğu etkilenebilecek şekilde değiştirmesi durumunda, bu Yönetmeliğin amaçları doğrultusunda imalatçı olarak kabul edilir ve 11 inci ve 12 nci maddelerde belirtilen imalatçı yükümlülüklerine tabi olur.

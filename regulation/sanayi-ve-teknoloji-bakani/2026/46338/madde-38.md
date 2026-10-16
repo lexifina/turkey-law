@@ -1,0 +1,3 @@
+Onaylanmış kuruluşların yeterliliğine ilişkin itiraz
+MADDE 38- (1) Bakanlık, onaylanmış kuruluşun görevlendirilmesine temel oluşturan veya onaylanmış kuruluşun yeterliliğini koruduğuna ilişkin tüm bilgileri, talebi doğrultusunda Komisyona sunulmak üzere Ticaret Bakanlığına iletir.
+(2) Bakanlık; Komisyon veya AB üyesi ülkelerden birinin Bakanlığın görevlendirdiği onaylanmış kuruluşun teknik yeterliliğinin ve ilgili mevzuata uygunluğunun incelenmesini talep etmesi halinde, 1/2006 sayılı Türkiye-Avrupa Birliği Ortaklık Konseyi Kararının 4 üncü maddesinde belirtilen usulü takip eder. Bakanlık, gerekli bilgi ve belgeleri Ticaret Bakanlığı’na iletir, ilgili taraflarla gerekli işbirliğini tesis eder ve gerekli tedbirleri alır.
