@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) 30/6/2025 tarihine kadar, 9 uncu madde ile yürürlükten kaldırılan Ev Tipi Çamaşır Kurutma Makinelerinin Enerji Etiketlemesine Dair Tebliğ (SGM-2013/6)’in 5 inci maddesinin birinci fıkrasının (b) bendi uyarınca gerekli olan ürün bilgi formu, ürünle birlikte basılı olarak sunulmak yerine ürün veri tabanından veya tedarikçinin internet sitesi üzerinden sunulabilir. Ancak, satıcının talep etmesi halinde, tedarikçi ürün bilgi formunun basılı olarak sunulmasını sağlar.

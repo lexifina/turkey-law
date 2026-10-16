@@ -1,0 +1,2 @@
+AB mevzuatına uyum
+MADDE 8- (1) Bu Tebliğ, Avrupa Parlamentosu ve Konseyinin (AB) 2017/1369 sayılı Tüzüğünü ev tipi çamaşır kurutma makinelerinin enerji etiketlemesine dair tamamlayan ve (AB) 392/2012 sayılı Yetki Devrine Dayanan Komisyon Tüzüğünü yürürlükten kaldıran 13/7/2023 tarihli ve (AB) 2023/2534 sayılı Yetki Devrine Dayanan Komisyon (Değişik ibare:RG-16/10/2026-33402) Tüzüğü ile bu Tüzükte değişiklik yapan (AB) 2025/1353 sayılı Tüzük esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.

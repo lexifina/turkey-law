@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.41244",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EV TİPİ ÇAMAŞIR KURUTMA MAKİNELERİNİN ENERJİ ETİKETLEMESİNE DAİR TEBLİĞ (2023/2534/AB) (SGM-2024/4)",
+  "number": "41244",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2025/41244",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41244&MevzuatTertip=5",
+  "source_sha256": "ab409e9a05c988e4822d733b72ae353f575dadd5b08f021d2b5e6367658590fa",
+  "source_bytes": 32112,
+  "published": "2025-01-05",
+  "gazette": "32773",
+  "in_force": "2026-10-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-16",
+      "RG-16/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-16",
+      "16/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1454,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41244-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
