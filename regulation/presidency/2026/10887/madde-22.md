@@ -1,0 +1,3 @@
+Danışmanlar
+MADDE 22- (1) Sandık faaliyetlerinde kalite ve verimliliği artırmak, kaynak kullanımını, hizmetleri ve yönetim anlayışını geliştirmek, Sandık menfaatlerine uygun yönetim politikası oluşturmak, strateji geliştirme ve uygulamada Yönetim Kuruluna yardımcı olmak amacıyla genel yönetim, idari konular, mali ve finansal sistemler, insan kaynakları, pazarlama, üretim ve hizmet yönetimi, bilgi teknolojisi ve eğitim gibi alanların yanı sıra özel uzmanlık gerektiren diğer alan ve konularla ilgili olarak, Yönetim Kurulu tarafından konusunda uzman ve deneyimli danışman görevlendirilebilir.
+(2) Danışmanların; istihdam şekli, görev, yetki ve sorumlulukları ile sayısı Genel Kurul onayı ile yürürlüğe konulacak yönerge ile belirlenir.

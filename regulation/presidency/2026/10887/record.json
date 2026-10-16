@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-10887",
+  "number": "10887",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "POLİS BAKIM VE YARDIM SANDIĞI YÖNETMELİĞİ",
+  "published": "2026-01-17",
+  "enacted": "2026-01-16",
+  "gazette_number": "33140",
+  "in_force": "2026-10-16",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 16/10/2026; source row: 15/10/2026 | 11887 | 7, 10, 11, 15, 41, Geçici Madde 4 | 16/10/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=10887&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "b6b2655062b063b68cadef64edeb36e888c3e4a2e79b2d2afa76262bb44ad7e0",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

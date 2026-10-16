@@ -1,0 +1,2 @@
+Emeklilerin Sandığa yeniden üyelik talebi
+GEÇİCİ MADDE 3- (1) 1/1/2024 tarihinden itibaren Sandıktan emeklilik yardımını alarak üyelikten ayrılanlar, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 60 gün içinde, almış oldukları emeklilik yardımını 36 ncı madde hükümlerine göre Sandığa ödemeleri hâlinde, Sandık üyeliği ile katılım payı kâr payı yardımı ve ölüm yardımından faydalanmaya hak kazanırlar.

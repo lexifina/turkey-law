@@ -1,0 +1,10 @@
+Genel Kurul toplantısı
+MADDE 7- (1) Genel Kurul, olağan olarak her yıl en geç mayıs ayı sonuna kadar Yönetim Kurulunca saptanacak gün ve yerde toplanır.
+(2) Her yıl düzenlenecek olağan Genel Kurul toplantılarında görüşülecek konular ve gündem, Sandık faaliyetleri doğrultusunda Yönetim Kurulu tarafından belirlenir. Yönetim Kurulu üyelerinin seçimi ve Denetim Kurulu üyelerinin belirlenmesi, üç yılda bir yapılacak olan seçimli olağan Genel Kurul toplantısı öncesi ve sırasında gündeme alınır.
+(3) Yönetim Kurulunca, Genel Kurul toplantısının yeri, zamanı ve gündemi, Genel Kurul toplantı tarihinden en az bir ay önce belirlenerek, üyelere duyurulmak üzere Emniyet Genel Müdürlüğüne bildirilir. Genel Kurul toplantılarıyla ilgili duyuru metninde, gündemin belirtilmesi gerekir.
+(4) Genel Kurulun toplantı yeter sayısı, Genel Kurul üyelerinin salt çoğunluğudur. İlk gün çoğunluk sağlanamaz ise ertesi gün mevcudun katılımıyla Genel Kurul toplantısı yapılır. Kararlar, mevcudun oy çokluğuyla alınır.
+(5) Genel Kurul Başkanlık Divanına; İçişleri Bakanının görevlendireceği bir Emniyet Genel Müdür Yardımcısı başkanlık eder, Genel Kurul üyeleri arasından bir başkan yardımcısı ve iki yazman seçilir.[1]
+(6) Genel Kurulun olağan toplantılarında, gündemdeki konular görüşülür. Genel Kurul olağan toplantılarında, toplantıya katılan üyelerin en az onda birinin yazılı teklifiyle gündemde bulunmayan bir konunun gündeme alınmasına karar verebilir.
+(7) Emniyet Genel Müdürü, Yönetim Kurulu veya Denetim Kurulu gerekli hâllerde, gündemini de belirleyerek Genel Kurulu olağanüstü toplantıya çağırabilir. Olağanüstü Genel Kurul toplantılarında gündem dışı konular görüşülemez.
+(8) Toplantılarda görüşülen konular, alınan kararlar, yapılan seçimlerin sonuçları, dilek ve temenniler bir tutanakla tespit edilerek Genel Kurul toplantı tutanağı düzenlenir ve Başkanlık Divanı tarafından imzalanır. Genel Kurul toplantı tutanağının bir nüshası Emniyet Genel Müdürlüğüne, bir nüshası da Genel Müdürlüğe gönderilir.
+(9) Genel Kurul toplantısına katılacakların yolluk ve yevmiyeleri, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümleri esas alınarak Sandıkça ödenir.

@@ -1,0 +1,4 @@
+Yönetim Kurulu üyeliğinden çekilmiş sayılma ve Yönetim Kurulu üyeliğinin sona ermesi
+MADDE 12- (1) Herhangi bir nedenle Sandık üyeliğinden ayrılan veya görevi başında bulunduğu hâlde izinli, görevli veya raporlu olma hâlleri dışında, en çok üst üste üç veya bir yılda toplam olarak beş Yönetim Kurulu toplantısına gelmeyen Yönetim Kurulu üyesi, Yönetim Kurulu üyeliğinden çekilmiş sayılır. Yerine kendi grubunun ilk sırasındaki Yönetim Kurulu yedek üyesi getirilir.
+(2) Yönetim Kurulu üyesinin, kesintisiz üç ayı aşan yurt dışı görevlendirmeleri ile üç ayı aşan ücretsiz izne ayrılma hâllerinde, Yönetim Kurulu üyeliği kendiliğinden sona erer ve yerine kendi grubunun ilk sırasındaki Yönetim Kurulu yedek üyesi getirilir.
+(3) Bağımsız Yönetim Kurulu üyesinin, Yönetim Kurulundan çekilme veya Bağımsız Yönetim Kurulu üyeliğinin herhangi bir nedenle sona ermesi durumlarında, yerine kendi grubunun ilk sırasındaki bağımsız Yönetim Kurulu yedek üyesi getirilir.
