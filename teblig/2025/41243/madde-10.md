@@ -1,0 +1,2 @@
+AB mevzuatına uyum
+MADDE 10- (1) Bu Tebliğ, Avrupa Parlamentosu ve Konseyinin 2009/125/AT sayılı Direktifi uyarınca hazırlanan, (AB) 2023/826 sayılı Tüzüğü tadil eden ve (AB) 932/2012 sayılı Tüzüğü yürürlükten kaldıran Ev Tipi Çamaşır Kurutma Makineleri ile İlgili Çevreye Duyarlı Tasarım Gerekliliklerini Belirleyen 17/11/2023 tarihli ve (AB) 2023/2533 sayılı Komisyon (Değişik ibare:RG-16/10/2026-33402) Tüzüğü ile bu Tüzükte değişiklik yapan (AB) 2025/2262 sayılı Tüzük esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.
