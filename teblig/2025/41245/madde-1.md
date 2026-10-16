@@ -1,0 +1,4 @@
+Amaç, kapsam ve dayanak
+MADDE 1- (1) Bu Tebliğin amacı, 4/2/2022 tarihli ve 5187 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin uygulanmasına yönelik olarak, piyasaya arz edilen veya hizmete sunulan ev ve büro tipi elektrikli ve elektronik cihazların hazırda bekleme, kapalı ve ağ bağlantılı hazırda bekleme konumlarındaki elektrik enerjisi tüketimi ile ilgili çevreye duyarlı tasarım gereklerini belirlemektir.
+(2) Bu Tebliğ, Ek II’de yer alan ev ve büro tipi elektrik-elektronik cihazları kapsar.
+(3) Bu Tebliğ, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 385 inci, 388 inci ve 508 inci maddeleri ile Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğe dayanılarak hazırlanmıştır.

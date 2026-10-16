@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan tebliğler
+MADDE 10- (1) 25/3/2021 tarihli ve 31434 mükerrer sayılı Resmî Gazete’de yayımlanan Ev ve Büro Tipi Elektrik-Elektronik Cihazların Hazırda Bekleme, Kapalı ve Ağ Bağlantılı Hazırda Bekleme Konumlarının Elektrik Enerjisi Tüketimi ile İlgili Çevreye Duyarlı Tasarım Gerekliliklerine Dair Tebliğ (2008/1275/AT) (SGM:2021/13) ve 27/8/2011 tarihli ve 28038 sayılı Resmî Gazete’de yayımlanan Basit Set Üstü Sinyal Dönüştürücülerinin Çevreye Duyarlı Tasarım Gereklerine Dair Tebliğ (SGM-2011/8) yürürlükten kaldırılmıştır.

@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.41245",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EV VE BÜRO TİPİ ELEKTRİK-ELEKTRONİK CİHAZLARIN HAZIRDA BEKLEME, KAPALI VE AĞ BAĞLANTILI HAZIRDA BEKLEME KONUMLARININ ELEKTRİK ENERJİSİ TÜKETİMİ İLE İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2023/826/AB) (SGM-2024/5)",
+  "number": "41245",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2025/41245",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41245&MevzuatTertip=5",
+  "source_sha256": "03662c1dc34aeea52d183ae67403d2f8af6864ec9ba7079a08890136d0e9fec4",
+  "source_bytes": 29548,
+  "published": "2025-01-05",
+  "gazette": "32773",
+  "in_force": "2026-10-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-16",
+      "RG-16/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-16",
+      "16/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1246,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41245-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
