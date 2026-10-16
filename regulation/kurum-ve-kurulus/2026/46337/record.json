@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.46337",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HARİCİ GÜÇ KAYNAKLARI, KABLOSUZ ŞARJ CİHAZLARI, KABLOSUZ ŞARJ PEDLERİ, GENEL KULLANIM AMAÇLI TAŞINABİLİR BATARYALAR İÇİN BATARYA ŞARJ CİHAZLARI VE USB TİP-C KABLOLARI İLE İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2025/2052/AB) (SGM-2026/7)",
+  "number": "46337",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2026/46337",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46337&MevzuatTertip=5",
+  "source_sha256": "a1739792bda9d3a0426e9da08218ea7aa54306e49533100d823da9d6bd12501e",
+  "source_bytes": 71339,
+  "published": "2026-10-16",
+  "gazette": "33402",
+  "in_force": "2026-10-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.10.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2166,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.46337-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

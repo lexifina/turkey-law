@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 7- (1) Bu Tebliğ, (AB) 2019/1782 sayılı Komisyon Tüzüğünü yürürlükten kaldıran ve 2009/125/AT sayılı Avrupa Parlamentosu ve Konsey Direktifi uyarınca harici güç kaynakları, kablosuz şarj cihazları, kablosuz şarj pedleri, genel kullanım amaçlı taşınabilir bataryalar için batarya şarj cihazları ve USB Tip-C kablolar için eko-tasarım gerekliliklerini belirleyen 13/10/2025 tarihli ve (AB) 2025/2052 sayılı Komisyon Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.

@@ -1,0 +1,47 @@
+Tanımlar
+MADDE 2- (1) Bu Tebliğin amaçları doğrultusunda;
+a) AB: Avrupa Birliğini,
+b) Alçak gerilimli harici güç kaynağı: Etiket çıkış gerilimi 6 V’tan az ve etiket çıkış akımı 550 mA’dan büyük veya buna eşit olan harici güç kaynağını,
+c) Bağlantı istasyonu: Harici güç kaynağının, bir fiş yuvası aracılığıyla elektrik gücü sağlanmasına ve veri ile kontrol sinyallerinin alınıp gönderilmesine hizmet eden ve karşılık gelen bir güç çıkışına sahip olan fiziksel, elektriksel ve dijital arayüzünü,
+ç) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+d) Batarya: Kimyasal enerjinin doğrudan dönüştürülmesiyle üretilen elektrik enerjisini sağlayan, dâhili veya harici depolamaya sahip olan ve bir veya daha fazla şarj edilemeyen veya şarj edilebilen batarya hücresinden, modülünden veya bunların paketlerinden oluşan herhangi bir aleti ve yeniden kullanıma hazırlama, yeniden işlevlendirmeye hazırlama, yeniden işlevlendirme veya yeniden imalat işlemlerine tabi tutulmuş bataryaları,
+e) Batarya şarj cihazı: Esas olarak tüketici ürünlerinin bataryalarını şarj etmek için kullanılan ve şarj akımını ve gerilimini düzenlemek için özel devreler içeren bir tüketici ürününü,
+f) Beyan edilen değerler: Bakanlık yetkilileri tarafından uygunluğun doğrulanması için 4 üncü madde uyarınca belirtilen, hesaplanan veya ölçülen teknik parametreler için imalatçı, ithalatçı veya yetkili temsilci tarafından sağlanan değerleri,
+g) Çıkış: Harici güç kaynağının, kendisine bağlı yüke elektrik gücü veya veri sağlayan fiziksel çıkışını,
+ğ) Düşük ışık akısı ışık kaynakları için ayrı kontrol donanımı: Işık Kaynaklarının ve Ayrı Kontrol Donanımlarının Çevreye Duyarlı Tasarım Gerekliliklerine Dair Tebliğ (2019/2020/AB) (SGM:2021/11)’in 5 inci maddesinin birinci fıkrasının (c) bendinde tanımlanan, ışık kaynağı aynı fıkranın (j) bendinin (3) numaralı alt bendinde belirtilen şartı karşılamayan ve bunun yerine 60 lümenden az ışık akısına sahip olan ayrı kontrol donanımını,
+h) Elektrik kaynağı (şebeke): 230 (±%10) Volt 50 Hz alternatif akımına sahip elektrik şebekesi beslemesini,
+ı) Etiket çıkış akımı: Bu Tebliğin Ek II’sinin 5 inci maddesinin (f) bendi uyarınca Tablo 7’de gösterilen harici güç kaynağının herhangi bir çıkış akımını,
+i) Etiket çıkış gerilimi: Bu Tebliğin Ek II’sinin 5 inci maddesinin (a) bendi uyarınca harici güç kaynağı etiketinde belirtilen veya aynı Ekin 5 inci maddesinin (f) bendi uyarınca Tablo 7’de gösterilen harici güç kaynağının herhangi bir çıkış gerilimini,
+j) Etiket çıkış gücü (Po): Bu Tebliğin Ek II’sinin 5 inci maddesinin (a) bendi uyarınca harici güç kaynağı etiketinde belirtilen veya aynı Ekin 5 inci maddesinin (f) bendi uyarınca Tablo 7’de gösterilen harici güç kaynağının herhangi bir çıkış gücünü,
+k) Etkin konum: Harici güç kaynağının girişinin şebekeye, bir güç çıkışının da çalışır durumda olan bir birincil yüke bağlı olduğu durumu,
+l) Etkin konum verimliliği: Harici güç kaynağı tarafından etkin konumda sağlanan gücün harici güç kaynağı için gerekli olan giriş gücüne oranını,
+m) Fiş yuvası: Harici güç kaynağının, fişin içine takılabilmesi için dışa açılan bir açıklığı olan ve fiş ile harici güç kaynağı arasında bir elektromekanik bağlantı sağlayan bileşeni,
+n) Genel kullanım amaçlı taşınabilir batarya: Şarj edilebilir olup olmadığına bakılmaksızın, birlikte çalışabilir şekilde özel olarak tasarlanmış ve 4,5 Volt (3R12), düğme hücre, D, C, AA, AAA, AAAA, A23, 9 Volt (PP3) yaygın formatlardan birine sahip olan taşınabilir bataryayı,
+o) Güç çıkışı: Veri çıkışı aracılığıyla iletişim için kullanılan sinyal bağlantılarının aksine, bir yükün bağlanabileceği ve güç çekilebilen harici güç kaynağının herhangi bir çıkışını,
+ö) Harici güç kaynağı (EPS): Batarya şarj cihazı veya kablosuz şarj cihazı olmayan ve aşağıdaki kriterlerin tamamını karşılayan bir ürünü;
+1) Şebeke güç kaynağından gelen tek fazlı alternatif akım (AC) güç girişini bir veya daha fazla doğru akım (DC) veya AC güç çıkışına dönüştürmek üzere tasarlanan,
+2) Birincil yükü oluşturan bir veya daha fazla ayrı tüketici ürünü ile kullanılabilen,
+3) Birincil yükü oluşturan tüketici ürününden veya ürünlerinden ayrı bir fiziksel muhafaza içinde bulunan,
+4) Birincil yükü oluşturan tüketici ürününe veya ürünlerine çıkarılabilir bir elektrik bağlantısı veya sabit kablolar veya diğer kablolarla bağlanacak şekilde tasarlanan,
+5) Etiket çıkış gerilimi 60 V DC veya 42,4 V pik AC’yi aşmayan,
+6) Güç kaynağına bağlı tüketici ürünü ile birlikte veya ondan ayrı olarak piyasaya arz edilen.
+p) Kablosuz şarj cihazı: Aşağıdaki kriterlerin tamamını karşılayan bir tüketici ürününü;
+1) Endüktif kuplaj yoluyla 50 W’ı geçmeyen güç iletmek üzere tasarlanan,
+2) Aynı üniteye entegre bir güç kaynağı içeren,
+3) Birincil yükü oluşturan bir veya daha fazla ayrı tüketici ürünü ile kullanılabilen,
+4) Birincil yükü oluşturan tüketici ürünü veya ürünlerinden ayrı bir fiziksel muhafaza içinde bulunan,
+5) AC giriş gücü dışında elektrik güç kaynağı bulunmayan.
+r) Kablosuz şarj pedi: Bu fıkranın (p) bendinin (1), (3), (4) ve (5) numaralı alt bentlerinde belirtilen kriterleri karşılayan ve aynı üniteye entegre bir güç kaynağı içermeyen bir tüketici ürününü,
+s) Model tanımlayıcı: Belirli bir ürün modelini aynı ticari markaya veya aynı imalatçının, ithalatçının veya yetkili temsilcinin adına sahip diğer modellerden ayıran, genellikle alfanümerik bir kodu,
+ş) Ortak şarj cihazı logosu: Bu Tebliğin Ek III’ünde belirtilen gereklilikleri karşılayan logoyu,
+t) Sabit kablo: Nihai kullanıcılar tarafından çıkarılmak üzere tasarlanmamış veya amaçlanmamış şekilde, herhangi bir ara konektör olmadan doğrudan bir ürüne sabitlenmiş kabloyu,
+u) Tek gerilimli harici güç kaynağı: AC gücü bir seferde yalnızca bir çıkış gerilimine dönüştürebilen ve bir veya daha fazla güç çıkışı aracılığıyla beslenen harici güç kaynağını,
+ü) Toplam azami çıkış gücü: Bir harici güç kaynağının eşzamanlı olarak çalıştırılan güç çıkışlarının herhangi bir kombinasyonu veya alt kümesi tarafından sağlanabilecek azami gücü,
+v) Tüketici ürünü: Elektrik enerjisiyle çalışan veya çalışmak üzere tasarlanmış ve hizmet sunumu bağlamında da dahil olmak üzere piyasaya arz edilen, tüketicilere yönelik olan veya makul olarak öngörülebilir koşullar altında, tüketicilere yönelik olmasa bile tüketiciler tarafından kullanılması muhtemel olan ürünü,
+y) USB güç dağıtım (USB-PD) bağlantı istasyonu (portu): USB 3.0 Promoter Group ve Universal Serial Bus Implementers Forum (USB-IF) tarafından yayınlanan “Evrensel Seri Veri Yolu Güç Dağıtım Spesifikasyonu Revizyon 3.2, Sürüm 1.1, 2024-10” ve “Evrensel Seri Veri Yolu Tip-C® Kablo ve Konektör Spesifikasyonu, Sürüm 2.4, Ekim 2024” belgelerinde belirtilen gereklilikleri karşılayan uyarlanabilir bir harici güç kaynağı bağlantı istasyonunu,
+z) USB Tip-C fişi: USB 3.0 Promoter Group ve USB-IF tarafından yayınlanan “Universal Serial Bus Type-C® Kablo ve Konektör Spesifikasyonu, Sürüm 2.4, Ekim 2024” belgesinde belirtilen gereklilikleri karşılayan fişi,
+aa) USB Tip-C kablosu: Her iki ucunda USB Tip-C fişleri ve kalıpları bulunan, 60 W veya 240 W güç derecesine sahip, USB 3.0 Promoter Group ve USB-IF tarafından yayınlanan “Universal Serial Bus Type-C® Kablo ve Konektör Spesifikasyonu, Sürüm 2.4, Ekim 2024”de belirtilen gereklilikleri karşılayan bir kablo tertibatını,
+bb) Uyarlanabilir harici güç kaynağı: Etkin konumda, son kullanım uygulamasıyla kurulan dijital iletişim protokolüne dayalı olarak kullanıcı tarafından tetiklenen herhangi bir eylem olmaksızın, “uyarlanabilir bağlantı istasyonu” olarak adlandırılan bağlantı istasyonlarının birinde çıkış gerilimini değiştirebilen bir AC-DC harici güç kaynağını,
+cc) Yedek parça harici güç kaynağı: Birlikte çalışabilir bir harici güç kaynağı olmayan ve sadece 14/12/2028 tarihinden önce piyasaya arz edilen bir harici güç kaynağının yerine kullanılmak üzere tasarlanmış bir harici güç kaynağını,
+ifade eder.
+(2) Ek II ila Ek VI’nın amaçları doğrultusunda, Ek I’de belirtilen ek tanımlar geçerlidir.
