@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-16",
+  "number_as_published": "meeting-10-16",
+  "year": 2026,
+  "title": "16 Eki 2026 Yılı 3. Olağanüstü Meclis Toplantısı 16 Ekim 2026 Cuma · 2 karar",
+  "decision_date": "2026-10-16",
+  "source": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-olaganustu-3",
+  "official_document": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-olaganustu-3",
+  "source_sha256": "1eab7a693101d718a7785eb7341146383c61cf0c6cf7163966f53a40b5574e08",
+  "issuer": "Çınarcık Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16 EKİM 2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "16 Eki 2026 Yılı 3. Olağanüstü Meclis Toplantısı 16 Ekim 2026 Cuma · 2 karar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.cinarcik.bel.tr/kurumsal/meclis/2026-olaganustu-3",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
