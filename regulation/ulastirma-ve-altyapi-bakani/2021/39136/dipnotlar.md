@@ -1,0 +1,2 @@
+[1] 21/2/2025 tarihli ve 32820 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin bu bölüm başlığı “ATP Muayene/Tip Test Merkezlerinin Görevlendirilmesi ve Yetkilendirilmesi” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 21/2/2025 tarihli ve 32820 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 19 uncu maddesine birinci fıkradan sonra gelmek üzere ikinci fıkra eklenmiş, diğer fıkralar buna göre teselsül ettirilmiştir.

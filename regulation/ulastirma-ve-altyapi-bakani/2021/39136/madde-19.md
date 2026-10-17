@@ -1,0 +1,9 @@
+Bozulabilir Gıda Taşıma Belgesi[2]
+MADDE 19 – (1) Bozulabilir gıdaların taşımacılığında kullanılan, ATP Uygunluk Belgesi bulunmayan ve imal tarihinden itibaren 15 yılı geçmemiş özel nakliye ekipmanlarına Bakanlık tarafından belirlenen usul ve esaslara göre Bozulabilir Gıda Taşıma Belgesi düzenlenir.
+(2) (Ek:RG-21/2/2025-32820) Araç model yılı itibarıyla 15 yaşı geçmiş ve bu nedenle Bozulabilir Gıda Taşıma Belgesi düzenlenemeyen araçların üstyapıları, ATP’ye uygun üstyapılar ile değiştirildiği takdirde, araçların belgelendirmeleri ATP mevzuatına uygun olarak yapılarak, araçların bozulabilir gıda taşımacılığında kullanımına devam edilebilir.
+(3) Bozulabilir Gıda Taşıma Belgesi formatı ve özel nakliye ekipmanı üstünde yer alacak işaretlemeler Bakanlık tarafından yayımlanacak usul ve esaslarda belirtilir.
+(4) Bozulabilir gıdaların taşımacılığında kullanılan Bozulabilir Gıda Taşıma Belgesi sahibi özel nakliye ekipmanları ATP Anlaşmasına taraf ülkelere yapılacak taşımacılık faaliyetinde kullanılamaz.
+(5) Bozulabilir Gıda Taşıma Belgesinin ilk defa alınması için onay kuruluşuna başvurularak, özel nakliye ekipmanının ilk muayenelerinin yapılması gerekmektedir.
+(6) Bozulabilir Gıda Taşıma Belgesi sahibi özel nakliye ekipmanlarının periyodik muayene süresi 3 yıldır.
+(7) Yalıtımlı ekipman veya bu ekipmanda kullanılan soğutucu/ısıtıcı cihaz üstünde tamirat, tadilat ve değişim yapılması durumunda istisnai muayene yapılır.
+(8) Özel nakliye ekipmanlarının muayeneleri ATP muayene merkezlerinde, 12 nci maddede belirtilen randevu, başvuru ve muayene usullerine uygun olarak yapılır. İlk/periyodik/istisnai muayene raporuna istinaden Bozulabilir Gıda Taşıma Belgesi onay kuruluşu tarafından hazırlanır. Bozulabilir Gıda Taşıma Belgesi; muayene merkezine, ekipman sahibi/işleticisine teslim edilmek üzere teslim edilir.

@@ -1,0 +1,7 @@
+Referans üniteye göre üretilmiş ekipmanlara düzenlenen ATP Uygunluk Belgesi
+MADDE 14 – (1) Ürünlerine ATP Uygunluk Belgesi almaya hak kazanmış üreticiler, aynı tip kapsamında ürettikleri özel nakliye ekipmanları için, ATP Tip Test Raporu ve üretici beyanı ile birlikte onay kuruluşuna başvurur.
+(2) Üretici firmadan onaylı tipe uygun olarak ekipman satın alan müşteriler de onay kuruluşuna ATP Uygunluk Belgesi alabilmek için başvuruda bulunabilirler.
+(3) Tip onay testine istinaden, kullanılmamış yalıtımlı ekipman ve varsa kullanılmamış ısıtma/soğutma cihazından oluşan özel nakliye ekipmanlarına düzenlenecek ATP Uygunluk Belgesi için fiili olarak ekipmanın incelenmesi/muayenesi zorunlu değildir.
+(4) Kullanılmış ekipman/cihaz ile ilk belgelendirme başvurularında ilgili özel nakliye ekipmanında periyodik muayene yapılarak, uygun bulunması halinde ATP Uygunluk Belgesi düzenlenir.
+(5) Onay kuruluşunca düzenlenen her bir ATP Uygunluk Belgesi söz konusu tip için üreticiye bir sonraki teste kadar belirlenen üretim sayısından düşülür. ATP Uygunluk Belgelerinde ATP Tip Testi Raporuna atıfta bulunulur ve ilgili üreticinin söz konusu tipte yapmış olduğu üretim sayısı kayıt altına alınır.
+(6) Yalıtımlı ekipmanların “kullanılmamış” olarak kabul edilmesi için, yalıtımlı ekipmanın tescil tarihinden itibaren 6 aylık periyodun sonuna kadar başvurusunu yapmış olması gerekmektedir. Bu süreyi geçmiş yalıtımlı ekipmanlar kullanılmış olarak tanımlanır ve ATP belgelendirme başvurularında periyodik muayeneye tabi tutulur.

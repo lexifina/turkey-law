@@ -1,0 +1,5 @@
+Ücretler
+MADDE 10 – (1) Bu Yönetmelik kapsamında düzenlenen ATP İşletme Yetki Belgesi ücreti, bu Yönetmeliğin yayımlandığı tarihten itibaren otuzbin Türk Lirasıdır. İşletme Yetki Belgesinin yenilenmesinde ücretin %15’i alınır.
+(2) Bu Yönetmelik kapsamında olup bozulabilir gıda taşımacılığında kullanılacak özel ekipmanların, tip testi ve muayeneleri ile ilgili olarak onay kuruluşu ve (Değişik ibare:RG-21/2/2025-32820) tip test/muayene merkezi tarafından alınacak ücretler, bu Yönetmeliğin yürürlüğe girmesine müteakip Bakanlıkça yayımlanır.
+(3) Bakanlıkça tespit ve ilan edilmiş olan ücret tarifesi, onay kuruluşu, ATP muayene veya (Değişik ibare:RG-21/2/2025-32820) ATP tip test merkezleri tarafından ilgililere duyurulur.
+(4) Bakanlıkça tespit ve ilan edilen muayene ücretleri ve ATP İşletme Yetki Belgesi ücreti, her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca tespit ve ilan edilen yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılarak uygulanır.

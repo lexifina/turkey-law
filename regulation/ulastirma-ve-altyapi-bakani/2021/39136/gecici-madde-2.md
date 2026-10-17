@@ -1,0 +1,3 @@
+Bozulabilir gıdaların taşımacılığında kullanılan, ATP Uygunluk Belgesi bulunmayan mevcut özel nakliye ekipmanları
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlük tarihinden sonraki model yılına sahip ATP Anlaşması kapsamındaki bozulabilir gıdaların taşımacılığında kullanılan yalıtımlı ekipmanlar/araçların ATP Anlaşmasında belirtilen şartları karşılaması ve bunlarda ATP Uygunluk belgesi bulunması zorunludur.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önceki bir model yılına sahip, ilgili mevzuata göre imal edilmiş olan ve ATP Anlaşması kapsamındaki bozulabilir gıdaların taşımacılığında kullanılan yalıtımlı ekipmanlar/araçlar için (Değişik ibare:RG-21/2/2025-32820) 1/8/2025 tarihine kadar Bozulabilir Gıda Taşıma Belgesi alınması zorunludur.

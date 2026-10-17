@@ -1,0 +1,5 @@
+ATP İşletme Yetki Belgesinin iptali
+MADDE 9/B- (Ek:RG-21/2/2025-32820)
+(1) Herhangi bir nedenle faaliyetlerini sonlandırmak isteyen ATP İşletme Yetki Belgesi sahibi Onay Kuruluşuna yazılı olarak başvuruda bulunur. İptal talebinin Onay Kuruluşunca uygun bulunması halinde, Bakanlık tarafından belge iptali gerçekleştirilir.
+(2) ATP İşletme Yetki Belgesi sahiplerinin test/muayene merkezlerinde bu Yönetmeliğe ve bu Yönetmelik kapsamında hazırlanan alt mevzuata aykırı, test/muayene işlemlerinin durdurulmasını gerektiren bir durumun Onay Kuruluşunca tespit edilmesi halinde Bakanlık bilgilendirilerek, işletme yetki belgesinin askıya alınması ve/veya iptali talep edilir. Belgenin askıya alındığı süre ATP İşletme Yetki Belgesinin geçerlilik süresine eklenmez.
+(3) ATP İşletme Yetki Belgesi başvurusu için ibraz edilen belgelerin herhangi birinde gerçeğe aykırı beyanda bulunduğu veya sahte belge sunduğu tespit edilen işletmenin yetki belgesi Bakanlık tarafından iptal edilir ve işletme hakkında adli makamlara suç duyurusunda bulunulur.
