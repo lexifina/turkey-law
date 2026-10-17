@@ -1,0 +1,2 @@
+Özel kurallar
+MADDE 29- (1) Tehlikeli maddeleri taşıyan taşıtların Türk Boğazları Bölgesindeki köprüleri ve tüp geçitleri kullanımı ve karayolları üzerindeki tünellerin tünel kategorilerinin ADR’ye uygun olarak belirlenmesi, işaretlenmesi ve bu tünellerden tehlikeli madde taşıyan taşıtların geçişleri ile ilgili usul ve esaslar; İdarenin ve ilgili valiliklerin görüşü alınmak kaydı ile Karayolları Genel Müdürlüğünce belirlenir.

@@ -1,0 +1,2 @@
+Tutanak ve tutanak düzenleyenler ile bağlı oldukları kurum ve kuruluşların yükümlülükleri
+MADDE 35- (1) Tutanakların; şekli, içeriği, düzenlenmesi, teslimi, takibi, basımı, dağıtımı, arşivlenmesi, imhası, elektronik sisteme aktarılması ve iptali ile tutanağı düzenleyenler ve bağlı oldukları kurum kuruluşların yükümlülüklerine ilişkin hususlarda 3/6/2021 tarihli ve 31500 sayılı Resmî Gazete’de yayımlanan Ulaştırma Hizmetleri Denetim Yönetmeliğinin ilgili hükümleri esas alınır.

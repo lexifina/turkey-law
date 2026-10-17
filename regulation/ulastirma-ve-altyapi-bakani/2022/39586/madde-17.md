@@ -1,0 +1,4 @@
+TMFB ve tehlikeli madde güvenlik danışmanlığı hizmetine ilişkin diğer hükümler
+MADDE 17- (1) Bu Yönetmelik kapsamında bölge müdürlüklerince yapılacak tüm iş ve işlemler (belge düzenleme, belgelerin iptali, belgelerin devri ve benzeri), Bakanlıkça oluşturulan U-Net Otomasyon Sistemi üzerinden yapılır.
+(2) Bölge müdürlükleri, bu Yönetmelik kapsamında ibraz edilen bilgi ve belgeleri muhafaza etmekle yükümlüdürler.
+(3) Sosyal hayatı etkileyen salgın, olağanüstü hâl, kriz dönemleri ile afet ve acil durumlarda; Bakanlık, bu Yönetmelik kapsamında TMFB almanın şartlarına, kapsamına, taşıtlara düzenlenecek ADR/Taşıt Uygunluk Belgesi ile ilgili hususlara veya bu Yönetmelikte belirlenmiş sürelerin; azaltılmasına, artırılmasına veya durdurulmasına ve bu Yönetmeliğin dördüncü bölümünde yer alan yükümlülüklere ilişkin geçici düzenlemeler yapabilir.

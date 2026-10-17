@@ -1,0 +1,13 @@
+Tehlikeli madde güvenlik danışmanlığı hizmeti alma zorunluluğu
+MADDE 8- (1) 7 nci madde hükümlerine göre TMFB alan işletmelerden;
+a) Sadece “Taşımacı” faaliyet konulu TMFB’ye sahip olup, taşıma yetki belgesine kayıtlı taşıtlarının toplam asgari kapasitesi elli tonun altında olan işletmeler,
+b) Sadece “Alıcı” ve/veya “Tank konteyner/portatif tank işletmecisi” faaliyet konulu TMFB’ye sahip işletmeler,
+c) (a) veya (b) bendi kapsamında olan ve bu bentlerde belirtilen faaliyet konularının kombinasyonuna sahip olan işletmeler,
+haricinde kalan işletmeler; tehlikeli madde güvenlik danışmanlığı hizmeti almak zorundadır.
+(2) Birden fazla TMFB’ye sahip olup, tehlikeli madde faaliyetlerini fiilen yürüttüğü adreslerde tehlikeli madde güvenlik danışmanı hizmeti alan işletmelerin, faturalandırma işlemi yaptığı ve idari işlerini (büro, ofis, acente) yürüttüğü adreste, tehlikeli madde faaliyet tespit raporu ile belgelendirmesi şartıyla tehlikeli madde güvenlik danışmanlığı hizmeti alması zorunlu değildir. Bu fıkra hükmü 7 nci maddenin onuncu fıkrası kapsamında olan işletmeler için uygulanmaz.
+(3) 7 nci maddenin onuncu fıkrası çerçevesinde “Gönderen” faaliyetinde bulunulacak işletmeler, TMFB’sine işlettiği her beş adres için ayrıca, bir tane tehlikeli madde güvenlik danışmanı atamak zorundadır.
+(4) İlk defa TMFB alan ve tehlikeli madde güvenlik danışmanlığı hizmeti alma zorunluluğu olan işletmeler, TMFB’yi aldıkları tarihten itibaren otuz gün içerisinde tehlikeli madde güvenlik danışmanlığı hizmeti almak zorundadır.
+(5) TMFB’sinde kayıtlı faaliyet konu/konularını devreden işletmelerden, devrettiği faaliyet konu/konuları hakkında devir sözleşmesinin/sözleşmelerinin geçerliliği süresince söz konusu faaliyetlere ilişkin tehlikeli madde güvenlik danışmanlığı hizmeti alma zorunluluğu aranmaz.
+(6) Tehlikeli madde güvenlik danışmanlığı hizmeti alan işletmenin, e-Devlet sistemi üzerinden TMFB’sine yapmış olduğu TMGD atamasının; Bakanlık tarafından sonlandırılması durumunda otuz gün; TMGDK, TMGD veya işletme tarafından sonlandırılması durumunda ise on beş gün içerisinde işletme, yeniden TMGD ataması yapmak zorundadır.
+(7) Bu madde kapsamında, tehlikeli madde güvenlik danışmanlığı hizmeti alma zorunluluğu bulunan işletmeler, her bir TMFB için bir ayda 18 saatten az olmamak üzere tehlikeli madde güvenlik danışmanlığı hizmeti almak zorundadır.
+(8) Bakanlık; işletmelerin niteliğine, işlem hacmine, faaliyet konu/konularına veya risk faktörlerine bağlı olarak gerektiğinde tehlikeli madde güvenlik danışmanlığı hizmeti ile ilgili işletmelerin istihdam etmesi veya hizmet alması gereken TMGD sayısına ve hizmet süresine ilişkin düzenleme yapabilir.

@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3- (Değişik:RG-17/10/2026-33403)
+(1) Bu Yönetmelik, 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanununa, 30/11/2005 tarihli ve 5434 sayılı Tehlikeli Malların Karayolu ile Uluslararası Taşımacılığına İlişkin Avrupa Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanunla taraf olduğumuz Tehlikeli Malların Karayolu ile Uluslararası Taşımacılığına İlişkin Avrupa Anlaşmasına (ADR), 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnameye ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 477 ve 497 nci maddelerine dayanılarak hazırlanmıştır.
