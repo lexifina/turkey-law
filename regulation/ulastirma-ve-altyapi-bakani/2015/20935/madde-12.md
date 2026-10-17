@@ -1,0 +1,7 @@
+Tescilin askıya alınması
+MADDE 12 – (1) Bir demiryolu aracına verilmiş tescil aşağıdaki hallerde Bakanlık tarafından askıya alınır ve demiryolu aracının ulusal demiryolu ağında çalıştırılması altyapı işletmecisine yazılı bildirim yapılarak durdurulur.
+a) (Değişik:RG-6/7/2018-30470) Demiryolu aracının teknik kontrolleri, muayeneleri ve bakımlarının gerçekleştirilmemesi veya sürelerinin geçirilmesi.
+b) (Mülga:RG-6/7/2018-30470)
+c) (Değişik:RG-6/7/2018-30470) Demiryolu aracının tescil şartlarında ve/veya teknik özelliklerinde yapılan değişikliklerin Bakanlığa bildirilmemesi
+(2) (Değişik:RG-6/7/2018-30470) Birinci fıkranın (a) ve (c) bentlerine aykırı hareket edilmesi halinde her bir bent için ayrı ayrı 26/9/2011 tarihli ve (Değişik ibare:RG-15/1/2019-30656 Mükerrer) 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde (Değişik ibare:RG-17/10/2026-33403) Kararnamenin 28/A maddesi çerçevesinde Ulaştırma Hizmetleri Düzenleme Genel Müdürü veya yetkilendirdiği personel tarafından 270.653 Türk lirası idari para cezası karar tutanağı (Ek ibare:RG-14/1/2020-31008) araç sahibi adına ayrıca düzenlenir.
+(3) (Değişik:RG-6/7/2018-30470) Birinci fıkra kapsamında tescili askıya alınmış demiryolu araçlarının eksikliklerini gidermeleri için araç sahibine veya demiryolu tren işletmecisine talep ettikleri kadar bir süre verilir. Bu süre sonunda eksikliklerinin giderildiği belgelenen demiryolu araçlarının tescilleri yenilenir.

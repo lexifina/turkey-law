@@ -1,0 +1,2 @@
+Yönetmelikten önce işletilmekte olan RIV, RID ve TEN işaretiyle damgalanmış yük vagonlarının tescili
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce Türkiye’de işletmede olan RIV, RID ve TEN işaretiyle damgalanmış ve ticari amaçla kullanılan yük vagonlarının; bakımlarının, onarımlarının veya dönemsel teknik muayenelerinin bakımdan sorumlu kuruluş tarafından yapılmış olması ve buna ilişkin bilgi ve/veya belgeleri eksiksiz olarak Bakanlığa sunulması halinde söz konusu yük vagonlarının başka bir işleme gerek olmadan tescil işlemi yapılır.

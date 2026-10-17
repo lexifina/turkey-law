@@ -1,0 +1,2 @@
+Yönetmelikten önce işletilmekte olan RIC ve UTP/TSI işaretiyle damgalanmış demiryolu araçlarının tescili
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce Türkiye’de işletmede olan yük vagonları hariç RIC ve UTP/TSI’a uygun demiryolu araçlarına ait gerekli teknik dosyalar, ulusal ve/veya uluslararası standartlara uyumluluğu gösteren bildirimler ve/veya bakım belgelerinin eksiksiz olarak Bakanlığa sunulması halinde; söz konusu demiryolu araçlarının başka bir işleme gerek olmadan tescil işlemi yapılır.
