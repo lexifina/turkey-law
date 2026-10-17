@@ -1,0 +1,3 @@
+Tren makinistinin tren makinist brövesi
+GEÇİCİ MADDE 2 – (Başlığı ile Birlikte Değişik:RG-18/5/2019-30778)
+(1) Bu Yönetmeliğin yürürlüğe girmesinden önce on sekiz ay boyunca herhangi bir nedenle ara vermeyen TCDD ve TCDD Taşımacılık A.Ş. ile diğer demiryolu işletmecileri bünyesinde çalışan tren makinistlerinin çalıştıkları hat ile idare ve sevk ettikleri cer aracı üzerinde edindikleri tecrübelerin, aldıkları eğitimlerin ve başarılı oldukları sınavların belgelendirilmeleri şartıyla bir defaya mahsus olmak üzere işletme tarafından makiniste çalıştığı hat ve kullandığı cer aracına ait bröve düzenlenir.

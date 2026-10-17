@@ -1,0 +1,71 @@
+{
+  "source_id": "7.5.23193",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TREN MAKİNİST YÖNETMELİĞİ",
+  "number": "23193",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2016/23193",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23193&MevzuatTertip=5",
+  "source_sha256": "e66f78a5886170a44c48bb7363c0dde6282d40df59e013f4c3012b10614b1458",
+  "source_bytes": 109941,
+  "published": "2016-12-31",
+  "gazette": "29935",
+  "in_force": "2026-10-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-17",
+      "RG-17/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-17",
+      "17/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-06-20",
+      "20/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-05-18",
+      "RG-18/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-18",
+      "18/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-12-30",
+      "RG-30/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-12-30",
+      "30/12/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3959,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23193-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

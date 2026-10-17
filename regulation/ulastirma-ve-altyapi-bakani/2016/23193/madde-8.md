@@ -1,0 +1,7 @@
+Tren makinist ehliyetinin askıya alınması ve iptal edilmesi
+MADDE 8 – (Değişik:RG-18/5/2019-30778)
+(1) 7 nci maddenin birinci fıkrasının (b), (c) ve (ç) bentlerinde belirtilen şartların sağlanmadığının ve/veya işletmenin emniyet yönetim sisteminde belirlenen aralıklarla yenileme eğitimlerinin zamanında yapılmadığının Bakanlıkça yapılacak denetimlerde tespit edilmesi durumunda aşağıdaki süreç başlatılır:
+a) Bakanlık, bu durumu ehliyet sahibine ve ehliyet sahibinin çalıştığı kuruma gerekçesi ile birlikte yazılı olarak bildirerek, ehliyetin geçerliliğini süresiz olarak askıya alır.
+b) Ehliyeti askıya alınan tren makinistine çalıştığı kurum tarafından cer aracı sevk ve idare görevi verilemez. Bu fıkrada belirtilen şartlar işveren kaynaklı ise makinistin ehliyetinin askı süresince oluşacak maddi kayıplar işveren tarafından karşılanır.
+(2) Birinci fıkrada belirtilen şartların yeniden sağlanması halinde, ehliyetin askıya alınması durumu ortadan kalkar.
+(3) Tren makinistinin ehliyeti tam kusurlu olduğu adli makamlarca belgelenmesi kaydıyla, ciddi kazaya sebebiyet vermesi halinde Bakanlık tarafından iki yıl süreyle iptal edilir. Olayın meydana gelmesinden sonra görevden el çektirilen süre bu durumda dikkate alınır. Ancak, ehliyeti iptal edilen makinistin iptal süresinin bitiminden itibaren 7 nci maddenin birinci fıkrasının (b), (c) ve (ç) bentlerinde yer alan hususları yenilemesi gerekir.
