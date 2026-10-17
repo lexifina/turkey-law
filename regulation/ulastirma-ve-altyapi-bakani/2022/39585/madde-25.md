@@ -1,0 +1,4 @@
+Bilgi paylaşımı
+MADDE 25- (1) Bu Yönetmelik kapsamındaki faaliyetlere ilişkin veriler ile, bu faaliyetlerde yer alan gerçek ve tüzel kişilere ait Bakanlıkça elektronik ortamda tutulan verilerin ilgili kamu idareleriyle; ilgili kamu idarelerince elektronik ortamda tutulan ve Bakanlıkça ihtiyaç duyulan verilerin de Bakanlıkla paylaşımı esastır.
+(2) Bakanlıkça gerek görülmesi halinde; birinci fıkraya göre elektronik ortamda tutulan veriler, tabi olduğu usul ve esaslar ilgili mevzuatında belirlenen ilgili kamu idarelerinin denetimine tabi kuruluşlarla; bu kuruluşlarca elektronik ortamda tutulan veriler de Bakanlıkla paylaşılır.
+(3) Elektronik ortamda paylaşılan verilerin gizliliğinin korunmasından veriyi alan taraf sorumludur. Bilgi paylaşımına ilişkin usul ve esaslar yapılacak protokollerle belirlenir.

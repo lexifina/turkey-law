@@ -1,0 +1,9 @@
+Yetki belgesi ve şube yetki belgesi yenileme işlemleri
+MADDE 14- (1) Yetki belgesi veya şube yetki belgesi yenileme başvurularında;
+a) Yetki belgesi yenilemelerinde, 11 inci maddede istenen belgeler ile İdareye başvurulması zorunludur.
+b) Şube yetki belgesi yenilemelerinde, her bir şube için 13 üncü maddede istenen belgeler ile İdareye başvurulması zorunludur.
+c) Yetki belgesi veya şube yetki belgesinin geçerlilik süresinin bitim tarihinin doksan gün öncesinden itibaren İdareye yazılı olarak müracaat edilebilir. Yenileme işlemi, başvuruda bulunulan belge/belgelere ait yenileme ücretinin ödendiği tarih esas alınarak yapılır. Başvuruda bulunulan belge/belgelere ait yenileme ücretinin, ilgili yetki belgesi bitiş tarihinden önce ve ödeme tarihinde geçerli olan yenileme bedeli üzerinden ödenmesi şarttır. Bu bentte belirlenen doksan günlük süre içerisinde yenilenen ilgili yetki belgesinin geçerlilik süresine, bir önceki belgenin geçerlilik tarihine kadar kalan süresi ilave edilir.
+ç) Yetki belgesi veya şube yetki belgesinin geçerlilik süresinin sona erdiği tarihten itibaren otuz gün içerisinde İdareye yazılı olarak müracaat edilmesi halinde; ilgili yetki belgesi, başvuruda bulunulan belge/belgelere ait yenileme ücretinin ödendiği tarih esas alınarak yenilenir. Yenileme ücretinin, otuz günlük süre içerisinde ve belirtilen ödeme tarihinde geçerli olan yenileme bedeli üzerinden ödenmesi zorunludur.
+d) Yetki belgesinin üzerinde bulunan tüm uyarmalar kaldırılmadan ve bu Yönetmelikte belirtilen şartlar sağlanmadan yenileme işlemleri yapılamaz.
+e) TMGDK, (ç) bendinde yer alan süre içerisinde işletmelere yeni TMGD ataması yapamaz.
+f) (ç) bendinde belirtilen süre içerisinde müracaat etmeyen veya müracaat ettiği halde yenileme şartlarını yerine getirmeyen TMGDK, ilgili yetki belgesi yenileme hakkını kaybeder.

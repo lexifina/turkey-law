@@ -1,0 +1,9 @@
+TMGD’nin faaliyet belgesine atanması ve atamaların sonlanması
+MADDE 7- (1) İşletmenin her bir faaliyet belgesine yapılacak TMGD atamasının, e-Devlet sistemi üzerinden yapılması zorunludur. Bu işlem; işletme bünyesinde istihdam edilen TMGD için işletme yetkilisinin, TMGDK bünyesinde istihdam edilen TMGD için ise TMGDK’nin talebi ve işletme yetkilisinin onayı ile yapılır.
+(2) Birinci fıkra kapsamında yapılacak işlemlerde, e-Devlet sistemi üzerinden ilgili faaliyet belgesinin seçilmesi, hizmet sözleşmesinde belirtilen TMGD hizmet süresinin ve uygun sertifikaya sahip (ADR/RID/IMDG kod) TMGD’ye ait bilgilerin girilmesi zorunludur.
+(3) TMGD atama talebinin, e-Devlet sistemine giriş yapılan tarihten itibaren on beş gün içerisinde işletme yetkilisi tarafından onaylanması zorunludur.
+(4) İşletme yetkilisi tarafından onaylanmayan TMGD atama talebine ilişkin işlem, on beşinci günün sonunda sistem üzerinden sonlandırılır. TMGD atama talebinin işletme yetkilisince onaylanmaması halinde işletme, TMGD hizmeti almış sayılmaz.
+(5) Faaliyet belgesine yapılmış TMGD atamasının iptal işlemi, TMGDK veya işletme tarafından e-Devlet sistemi üzerinden yapılır.
+(6) 5 inci maddenin ikinci fıkrası kapsamında bildirilen istihdamın taraflardan birisince e-Devlet sistemi üzerinden feshedilmesi durumunda, yapılmış olan TMGD atamaları sonlanır.
+(7) TMGD’nin, Bakanlıktan almış olduğu TMGD sertifikasının geçerlilik tarihinin son bulması, askıya alınması veya iptal edilmesi durumunda TMGD’nin yapılmış olan atamaları, Bakanlık tarafından resen iptal edilir.
+(8) Ataması iptal edilen TMGD, atama iptalinden dolayı boşalan yeniden atanma hakkını, iptalin yapıldığı tarihi takip eden ayın ilk gününden itibaren kullanabilir. TMGD atamasının yapılmasından itibaren 24 saat içinde yapılan atama iptalleri için bu hüküm uygulanmaz.
