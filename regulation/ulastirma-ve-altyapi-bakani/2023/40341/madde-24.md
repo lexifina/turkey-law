@@ -1,0 +1,3 @@
+Program dışı talepler
+MADDE 24- (1) Demiryolu altyapı işletmecileri, program dışı tren çizgisi taleplerine mümkün olduğunca çabuk ve her durumda beş iş günü içinde cevap verir. Mevcut atıl veya fazla kapasite ile ilgili bilgiler, kendi internet sitesinde bu kapasiteyi kullanmak isteyebilecek olan tüm demiryolu tren işletmecilerinin erişimine sunulur.
+(2) Demiryolu altyapı işletmecileri program dışı bakım-onarım ihtiyaçları ve program dışı kapasite tahsis taleplerine hızlı cevap verebilmek amacıyla ihtiyaca göre kapasiteden belli bir pay ayırma ve saklama hakkına sahiptirler. Demiryolu altyapı işletmecileri yedek tutulması gereken kullanılabilir hat kapasiteleri için ihtiyaç değerlendirmesi yaparlar.
