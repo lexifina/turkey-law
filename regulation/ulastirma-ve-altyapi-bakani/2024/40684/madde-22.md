@@ -1,0 +1,2 @@
+Yetki belgesi değişikliklerinin bildirimi
+MADDE 22- (1) Bakanlık bir yetki belgesi verdiğinde, belgeyi askıya aldığında, iptal ettiğinde veya değiştirdiğinde, söz konusu durumu demiryolu altyapı işletmecilerine derhal bildirilir. Bu bilgilendirme Bakanlığın internet sitesi aracılığıyla kamuoyuna ayrıca duyurulur. Yetki belgesi sahibi demiryolu işletmecileri ve sahip oldukları belgeler ile ilgili güncel durum ve değişiklikler Bakanlığın internet sitesinde ayrıca duyurulur.

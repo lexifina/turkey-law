@@ -1,0 +1,11 @@
+Yetki belgelerinin devredilmemesi ve birleşmeler
+MADDE 23- (1) Yetki belgeleri, adlarına düzenlenen demiryolu işletmecileri dışında başkaları tarafından kullanılamaz ve hiçbir şekilde devredilemez.
+(2) Yetki belgesine sahip tüzel kişiliklerdeki pay sahipliği; satış, bağışlama veya muadili bir işlemle el değiştirebilir. Bu değişimin yapılabilmesi için temsil ve ilzama yetkili olanların bu Yönetmelikte öngörülen şartları sağlaması zorunludur.
+(3) Demiryolu tren/altyapı işletmecilerinin birleşme başta olmak üzere hukuki ve mali durumunu etkileyen bir durumun ortaya çıkması halinde demiryolu tren/altyapı işletmecisi, bu durumu en geç 1 ay içinde Bakanlığa bildirmekle yükümlüdür.
+(4) Tüzel kişiliklerin birleşmeleri halinde aşağıdaki kurallar uygulanır:
+a) Yetki belgeli bir tüzel kişiliğin 6102 sayılı Kanuna uygun olarak aktif ve pasifiyle bir başka yetki belgeli tüzel kişiyle birleşmesi halinde; bu durum en geç 1 ay içinde Bakanlığa bildirilir. Bu Yönetmelikte öngörülen şartların sağlanması kaydıyla yetki belgesi, birleşilen tüzel kişilik adına unvan değişikliği gibi işlem yapılmak suretiyle Bakanlık tarafından düzenlenir.
+b) Yetki belgesiz bir tüzel kişiliğin 6102 sayılı Kanuna uygun olarak aktif ve pasifiyle bir başka yetki belgeli tüzel kişiyle birleşmesi halinde; yetki belgesinin bu birleşmeye göre düzenlenebilmesi için yeni sahip ve/veya ortakların bu Yönetmelikte öngörülen şartları sağlaması zorunludur.
+c) 7/10/2010 tarihli ve 27722 sayılı Resmî Gazete’de yayımlanan Rekabet Kurulundan İzin Alınması Gereken Birleşme ve Devralmalar Hakkında Tebliğ (Tebliğ No:2010/4) ile 28/12/2013 tarihli ve 28865 sayılı Resmî Gazete’de yayımlanan Birleşme ve Bölünme Tebliği (II-23.2) hükümleri saklıdır.
+(5) Gerçek kişilerde 10 uncu maddede belirtilen şartların sağlanması halinde anne, baba, çocuk, eş ve kardeşlere yetki belgesi devri mümkündür. Bunların haricinde üçüncü kişilere yetki belgesi devredilemez.
+(6) Aynı şirketler topluluğu bünyesinde ve aynı sahipliğe ait şirketler arasında, devir yapılacak şirketin bu Yönetmeliğin ilgili maddelerindeki şartları karşılaması koşuluyla yetki belgesi devri yapılabilir.
+(7) Bu madde kapsamında düzenlenecek yetki belgesi için ücret alınmaz.

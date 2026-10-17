@@ -1,0 +1,7 @@
+Yetki belgesi alan demiryolu tren işletmecilerinin faaliyete başlamaları ve ara vermeleri
+MADDE 21- (1) Yetki belgesi alan demiryolu tren işletmecileri yetki belgesi aldığı tarihten itibaren 6 ay içerisinde ilgili mevzuat hükümleri doğrultusunda emniyet yönetim sistemlerini kurup emniyet sertifikasını aldıktan sonra faaliyetlerine başlar. Ancak 6 ay içerisinde emniyet sertifikasını alamamış olan demiryolu tren işletmecilerine emniyet sertifikasının alınması için gereken sürenin 6 aydan fazla sürmesini öngörmeleri durumunda, başvuruları incelenerek ilave 6 ay ek süre verilebilir.
+(2) Emniyet sertifikasına sahip demiryolu tren işletmecileri emniyet sertifikasını aldığı tarihten itibaren 1 yıl içerisinde faaliyetine başlar.
+(3) Demiryolu tren işletmecileri emniyet sertifikaları geçerli olmak şartıyla faaliyetlerine kesintisiz olarak 1 yıldan daha uzun bir süre ara veremez.
+(4) İkinci fıkrada belirtilen süre içerisinde demiryolu tren işletmecisine tahsis edilen kapasiteyi kullanıp kullanmadığı demiryolu altyapı işletmecisi tarafından Bakanlığa bildirilir.
+(5) Yetki belgesi sahibi demiryolu tren işletmecileri, mücbir bir sebepten dolayı işletmeciliğe ara vermesi halinde bu durumu derhal Bakanlığa bildirir. Bakanlık söz konusu talebi değerlendirerek işletmeciye en fazla 6 ay süre verir. Mücbir sebebin devamı halinde Bakanlık tarafından bu süre uzatılabilir.
+(6) Demiryolu tren işletmelerinin faaliyete başlamaları ile ilgili ilave kontroller ihtiyaç dahilinde Bakanlık tarafından ayrıca yapılır.

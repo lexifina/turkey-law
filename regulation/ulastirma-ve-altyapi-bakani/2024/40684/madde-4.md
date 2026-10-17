@@ -1,0 +1,2 @@
+Demiryolu taşımacılığı faaliyetlerinde genel kural
+MADDE 4- (1) Demiryolu taşımacılığı faaliyetlerinde genel kural, demiryolu taşımacılığı faaliyetlerinin ticari, ekonomik, sosyal ihtiyaçlara ve teknik gelişmelere bağlı olarak ekonomik, seri, elverişli, güvenli, kaliteli, çevreye kötü etkisi en az ve kamu yararını gözetecek tarzda serbest, adil ve sürdürülebilir bir rekabet ortamında ve bu faaliyetlerin diğer ulaştırma türleriyle birlikte, birbirlerini tamamlayıcı olarak gerçekleştirilmesini sağlamaktır.

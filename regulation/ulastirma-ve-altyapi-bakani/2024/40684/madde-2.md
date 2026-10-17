@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik; 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde (Değişik ibare:RG-17/10/2026-33403) Kararnameye, 24/4/2013 tarihli ve 6461 sayılı Türkiye Demiryolu Ulaştırmasının Serbestleştirilmesi Hakkında Kanunun 6 ncı maddesi ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin (Değişik ibare:RG-17/10/2026-33403) 477 nci ve 497 nci maddelerine dayanılarak hazırlanmıştır.
