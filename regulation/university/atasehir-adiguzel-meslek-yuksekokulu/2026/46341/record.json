@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/atasehir-adiguzel-meslek-yuksekokulu/2026/46341",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33404",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-18",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Ataşehir Adıgüzel Meslek Yüksekokulu",
+  "issuer_slug": "atasehir-adiguzel-meslek-yuksekokulu",
+  "kind": "regulation",
+  "published": "2026-10-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46341&MevzuatTertip=5",
+  "source_id": "8.5.46341",
+  "source_sha256": "f5f7e35b8055e2534f6819029fefaf56bd8ca7f1adf4eda9292b34d06f9c39b4",
+  "title": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU PROJELER, GİRİŞİMCİLİK, KULUÇKA VE HIZLANDIRMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 446,
+  "version_label": "oldest version available",
+  "word_count": 1379
+}
