@@ -1,0 +1,6 @@
+BEŞİNCİ BÖLÜM
+Sanatta Yeterlik Programı
+Amaç ve kapsam
+MADDE 24- (1) Sanatta yeterlik programı, özgün bir sanat eserinin ortaya konulmasını, müzik ve sahne sanatlarında ise üstün bir uygulama ve yaratıcılığı amaçlayan doktora eşdeğeri bir yükseköğretim programıdır.
+(2) Sanatta yeterlik programı tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için toplam 21 krediden ve bir eğitim-öğretim dönemi 60 AKTS’den az olmamak koşuluyla en az 7 ders, uygulamalar ile tez, sergi, proje, resital, konser, temsil gibi çalışmalar, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de en az 42 kredilik 14 ders, uygulamalar ile tez, sergi, proje, resital, konser, temsil gibi çalışmalar, seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere en az 300 AKTS kredisinden oluşur.
+(3) Lisansüstü dersler, ilgili enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir.

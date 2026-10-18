@@ -1,0 +1,5 @@
+Danışman atanması
+MADDE 13- (1) Tezsiz yüksek lisans programlarında; anabilim/anasanat dalı kurulu her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya yeterli sayıda öğretim üyesi yoksa ilgili eğitim programını kapsayan anabilim/anasanat dalı veya bilim dalında doktora derecesine sahip bir öğretim görevlisini ilk yarıyılın başında danışman olarak enstitü müdürlüğüne önerir. Danışman enstitü yönetim kurulu onayı ile kesinleşir.
+(2) Danışmanın; öğrencinin öğrenimi süresince alacağı dersleri belirleme, kayıt yenileme onayı vererek bu derslere devamını ve öğrenim durumunu izleme, dönem projesinin yürütülmesini sağlama, gerektiğinde idare ile ilişkilerinde aracılık etme ve akademik problemleriyle ilgilenme yükümlülüğü vardır.
+(3) Danışmanların nitelikleri, atanmaları, görev yetki ve sorumluluklarına ilişkin usul ve esaslar Senato kararı ile belirlenir.
+(4) Bir öğrencinin danışmanı, öğrencinin veya danışman öğretim üyesinin talebi doğrultusunda, anabilim/anasanat dalı kurulunun gerekçeli önerisi ve enstitü yönetim kurulunun onayı ile değiştirilebilir.
