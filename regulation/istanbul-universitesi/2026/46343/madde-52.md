@@ -1,0 +1,5 @@
+Doktora programından tezli yüksek lisans programına geçiş
+MADDE 52- (1) Lisans derecesi ile doktora programlarına kabul edilen öğrenciler, en az sekiz dersini, seminer dersini ve varsa tamamlayıcı faaliyetler ve uygulamaları başarıyla tamamlamaları kaydıyla talepleri halinde ve ilgili ana bilim/bilim dalı/program başkanlığının görüşü alınarak Üniversitenin aynı veya eşdeğer yüksek lisans programlarına ilgili enstitü yönetim kurulu kararıyla kontenjan aranmaksızın geçiş yapabilirler.
+(2) Doktora programında öğrenci tarafından alınan dersler ilgili enstitü yönetim kurulu kararıyla tezli yüksek lisans programındaki derslerin yerine sayılır, öğrencinin tezli yüksek lisans programına intibakı yapılır ve öğrenciye, ilgili enstitü yönetim kurulu kararıyla belirlenen dersler aldırılabilir.
+(3) Doktora programından tezli yüksek lisans programına intibakı yapılan öğrencinin, azami öğrenim süresi doktora programına kayıt tarihi esas alınarak belirlenir.
+(4) Doktora programından tezli yüksek lisans programına geçiş yapan öğrenciler tekrar doktora programına geçemezler.

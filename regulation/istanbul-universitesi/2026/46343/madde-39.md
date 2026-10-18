@@ -1,0 +1,5 @@
+Tezsiz yüksek lisans programından tezli yüksek lisans programına geçiş
+MADDE 39- (1) Üniversitenin tezsiz yüksek lisans programlarına devam eden öğrenciler, Üniversitenin aynı veya eşdeğer tezli yüksek lisans programları için belirlenmiş olan asgari şartları yerine getirmek ve kayıtlı oldukları tezsiz yüksek lisans programında dönem projesi hariç tüm dersleri başarmış olmaları kaydıyla, bu programlara ilgili enstitü yönetim kurulu kararıyla geçiş yapabilirler.
+(2) Tezsiz yüksek lisans programında öğrenci tarafından alınan dersler ilgili enstitü yönetim kurulu kararıyla tezli yüksek lisans programındaki derslerin yerine sayılır, öğrencinin tezli yüksek lisans programına intibakı yapılır ve öğrenciye, ilgili enstitü yönetim kurulu kararıyla belirlenen dersler aldırılır.
+(3) Tezsiz yüksek lisans programından tezli yüksek lisans programına intibakı yapılan öğrencinin, azami öğrenim süresi tezsiz yüksek lisans programına kayıt tarihi esas alınarak belirlenir.
+(4) Tezsiz yüksek lisans programından tezli yüksek lisans programına geçiş yapan öğrenciler tekrar tezsiz yüksek lisans programına geçemezler.

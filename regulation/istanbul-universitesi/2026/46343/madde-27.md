@@ -1,0 +1,4 @@
+Kredilendirme ve AGNO
+MADDE 27- (1) Lisansüstü derslerin yarıyıl kredi değeri, dersin yarıyıl haftalık teorik ders saatinin tamamı ile haftalık uygulama veya laboratuvar saatinin yarısının toplamıdır. Ders ve diğer faaliyetlerin AKTS olarak kredilendirilmesinde, bir AKTS kredisi, yaklaşık 25 saatlik öğrenci çalışmasının karşılığı olarak hesaplanır.
+(2) Seminer dersi, uzmanlık alan dersi, dönem projesi ve tez çalışması kredisiz olup AKTS olarak kredilendirilir. AKTS kredileri; seminer dersi için 6 AKTS, tezsiz yüksek lisans dönem projesi için 24 AKTS, uzmanlık alan dersi dâhil olmak üzere yüksek lisans tezi için toplam 60 AKTS ve doktora/sanatta yeterlik tezi için ise toplam 120 AKTS’dir.
+(3) AGNO, öğrencinin ilk yarıyıldan itibaren aldığı tüm derslerin başarı notlarının AKTS çarpımları toplamının ilk yarıyıldan itibaren alınan derslerin AKTS toplamına bölünmesiyle hesaplanır. Hesaplama sonucu, virgülden itibaren üç hane olacak şekilde yuvarlanır.

@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 72- (1) Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-10-18",
+      "18.10.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 72- (1) Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33404",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2026/46343",
+  "published": "2026-10-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46343&MevzuatTertip=5",
+  "source_bytes": 201464,
+  "source_id": "8.5.46343",
+  "source_sha256": "03c1b62ba964bec273b8226410419b2ddae29d5854d88f4fb992f3e240e72ee2",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 13756
+}

@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 32- (1) Öğrenciler, maddi hatalar nedeniyle sınav sonuçlarına itiraz edebilir. İtiraz, sınav sonuçlarının ilanından itibaren beş iş günü içinde ilgili enstitüye dilekçe ile başvurmak suretiyle yapılır. İlgili enstitü sınav kâğıdının incelenmesi için, biri sınavı yapan öğretim üyesi olmak üzere ilgili öğretim üyeleri arasından üç kişilik bir komisyon kurar. Komisyon, üç iş günü içinde itirazları değerlendirir. İtiraz, ilgili enstitü yönetim kurulu tarafından kesin olarak karara bağlanır.

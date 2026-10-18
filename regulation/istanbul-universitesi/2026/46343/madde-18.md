@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Kesin Kayıt, Kayıt Yenileme ve Kayıt Dondurma
+Kesin kayıt
+MADDE 18- (1) Lisansüstü programlara kayıt hakkı kazanan asıl ve yedek adaylar ilgili enstitünün internet sitesinde ilan edilir. Bu ilandan itibaren adaylar üç iş günü içinde ilgili enstitüye dilekçe ile başvurmak suretiyle maddi hata itirazında bulunabilir. Mülakat jürisi, en çok üç iş günü içinde itirazları kesin olarak sonuçlandırır. İtiraz üzerine ilgili programın listesinde değişiklik olması halinde, ilgili enstitü yönetim kurulu kararıyla liste kesin olarak ilan edilir.
+(2) Kesin kayıt hakkı kazanan adaylar Senato tarafından belirlenen belgeleri ilan edilen tarihler arasında Üniversitenin otomasyon sistemine yüklemek suretiyle kayıtlarını yaparlar. Kesin kayıt usulü ve istenen belgeler Senato tarafından belirlenir.
+(3) Senato tarafından belirlenen tarihler arasında, yükümlülüğü bulunan öğrencilerden öğrenci katkı payı ve/veya öğrenim ücretini ödemeyenlerin kayıtları yapılmaz.
+(4) Kayıt için sahte veya tahrif edilmiş belge kullanan, gerçeğe aykırı beyanda bulunan veya sahtecilik yaparak Üniversiteye kayıt yaptığı belirlenen kişilerin kaydı, kayıt tarihi itibarıyla iptal edilir ve haklarında kanuni işlem başlatılır. Bu kişilere verilen diploma dâhil tüm belgeler iptal edilir. Bu kişilerin ödemiş oldukları öğrenci katkı payı ve/veya öğrenim ücretleri geri ödenmez. Bu şekilde kaydı iptal edilen öğrencilerin durumu ilgili kurum ve kuruluşlara bildirilir.
+(5) Senato tarafından belirlenen tarihler arasında Üniversitenin otomasyon sistemi üzerinden kayıtlarını yaptırmayan adaylar herhangi bir hak iddia edemezler.

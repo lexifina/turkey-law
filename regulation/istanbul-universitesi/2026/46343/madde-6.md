@@ -1,0 +1,6 @@
+Lisansüstü programlar ve kontenjanlar
+MADDE 6- (1) Lisansüstü eğitim; tezli yüksek lisans, tezsiz yüksek lisans, doktora ve sanatta yeterlik programlarından oluşur.
+(2) Birinci öğretimde tezli yüksek lisans, tezsiz yüksek lisans, doktora ve sanatta yeterlik; ikinci öğretimde tezli yüksek lisans ve tezsiz yüksek lisans; uzaktan eğitimde ise tezsiz yüksek lisans programları yürütülür.
+(3) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla yurt içi lisansüstü programa kayıt yaptırılamaz ve devam edilemez.
+(4) Lisansüstü öğrenci kontenjanları, genel ve yurt dışı kontenjanlar olmak üzere ikiye ayrılır. Genel kontenjanlar, kabul koşullarını sağlayan Türk ve yabancı uyruklu adaylara; yurt dışı kontenjanları ise kabul koşullarını sağlayan yabancı uyruklu veya lisans ve/veya lisansüstü eğitiminin tamamını yurt dışında tamamlayan Türkiye Cumhuriyeti vatandaşı adaylara açıktır. Her iki kontenjan türü için yatay geçiş kontenjanları da ayrılabilir. Ayrıca uluslararası anlaşmalar, ikili iş birliği protokolleri ile veya Yükseköğretim Kurulunun belirlemiş olduğu kontenjanlarla da bu kontenjanlara öğrenci alınabilir.
+(5) En az on yarıyıllık lisans derecesi ile doktora/sanatta yeterlik programlarına öğrenci kabulünde Senato kararları uygulanır.

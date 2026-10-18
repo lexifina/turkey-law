@@ -1,0 +1,3 @@
+Mezuniyet ve diploma
+MADDE 38- (1) Bu Yönetmelikte tezsiz yüksek lisans programı için belirlenen bütün koşulları başarıyla sağlayan ve ilgili enstitü tarafından istenen diğer işlemleri yerine getiren öğrenciye, üzerinde öğrencinin kayıtlı olduğu ana bilim dalındaki programın Yükseköğretim Kurulu tarafından onaylanmış adı bulunan tezsiz yüksek lisans diploması verilir. Mezuniyet tarihi, dönem projesinin danışman tarafından başarılı olarak ilgili enstitüye bildirildiği tarihtir.
+(2) Diploma almaya hak kazanan öğrencilere, akademik ve mesleki yeterliklerin uluslararası düzeyde tanınmasına yardımcı olmak amacıyla diplomanın yanında diploma eki düzenlenir.

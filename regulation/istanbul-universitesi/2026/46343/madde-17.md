@@ -1,0 +1,3 @@
+Özel öğrenci kabulü
+MADDE 17- (1) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere kayıtlı olduğu enstitü ana bilim/ana sanat dalı/program başkanlığının onayı ve ilgili enstitü yönetim kurulu kararıyla özel öğrenci olarak kabul edilebilir. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldığı ve başarılı olduğu derslerin muafiyet işlemleri kayıtlı olduğu enstitü ana bilim/ana sanat dalı/program başkanlığı tarafından yürütülür.
+(2) Özel öğrenci olarak kabul edilenler ders aldığı yarıyıl için Yönetim Kurulu tarafından belirlenen katkı payı/öğrenim ücretini öderler.

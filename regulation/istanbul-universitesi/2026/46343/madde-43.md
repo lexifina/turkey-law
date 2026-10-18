@@ -1,0 +1,6 @@
+Dersler ve kredi değerleri
+MADDE 43- (1) Tezli yüksek lisans programında ders yükü, yirmi bir krediden az otuz krediden çok olmamak koşuluyla en az yedi ders, seminer dersi, varsa tamamlayıcı faaliyetlerden/uygulamalardan ve tez çalışmasından oluşur.
+(2) Tezli yüksek lisans programı bir eğitim-öğretim yılı seminer dersi dâhil tüm derslerden en az 60 AKTS kredisi ders ile 60 AKTS kredisi tez çalışması olmak üzere toplam en az 120 AKTS kredisinden oluşur.
+(3) Öğrenciler kayıtlı bulundukları programdaki seçmeli dersler ile birlikte lisans öğrenimleri sırasında almamış olmak kaydıyla Üniversitenin lisans ve/veya lisansüstü programlarındaki veya diğer yükseköğretim kurumlarının lisansüstü programlarındaki seçmeli ve/veya zorunlu dersleri 25 inci maddenin on birinci fıkrasında belirtilen esaslar çerçevesinde seçebilir.
+(4) Tezli yüksek lisans programı öğrencilerinin, lisans programlarındaki devam koşulları saklı kalmak kaydıyla, lisans programlarından seçtikleri derslerden almış oldukları notlar, lisans öğrencileri ile aynı ölçütlere göre değerlendirilir. Ancak bu öğrencilerin başarı notları, lisansüstü programdaki başarı değerlendirme ölçütlerine göre belirlenir.
+(5) Tezli yüksek lisans programlarında, tezsiz yüksek lisans ve doktora/sanatta yeterlik programlarından ders seçilemez.
