@@ -1,0 +1,3 @@
+Mevcut lisans sahiplerinin standartlara ilişkin yükümlülükleri
+GEÇİCİ MADDE 21 – (Ek:RG-23/12/2015-29571)
+(1) TEİAŞ 31 inci maddenin ikinci fıkrasının (r) bendi kapsamındaki yükümlülüklerini, piyasa işletim lisansı sahibi tüzel kişiler 32 nci maddenin üçüncü fıkrasının (h) bendi kapsamındaki yükümlülüklerini, dağıtım lisansı sahibi tüzel kişiler 33 üncü maddenin ikinci fıkrasının (z) bendi kapsamındaki yükümlülüklerini, görevli tedarik şirketleri ise 34 üncü maddenin (Değişik ibare:RG-22/10/2016-29865) dördüncü fıkrasının (ğ) bendi kapsamındaki yükümlülüklerini, bu maddenin yürürlüğe girdiği tarihten itibaren yirmi dört ay içerisinde tamamlamakla yükümlüdür.

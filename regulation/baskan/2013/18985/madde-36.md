@@ -1,0 +1,2 @@
+Lisans kapsamındaki hak ve yükümlülüklerin devri
+MADDE 36 – (1) Tarifesi düzenlemeye tabi faaliyet yürüten lisans sahibinin lisans kapsamındaki hakları Kuruldan izin almaksızın üçüncü şahıslara devir, temlik ve rehin edilemez. Kurul izni için yapılan başvuru, bu Yönetmeliğin 21 inci maddesi hükümleri uyarınca incelendikten sonra hazırlanan değerlendirme raporu Kurula sunulur ve Kurul kararı ile sonuçlandırılır.

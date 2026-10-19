@@ -1,0 +1,4 @@
+Rüzgâr ve güneş ölçüm süresi
+MADDE 41 – (1) Rüzgâr veya güneş ölçüm istasyonunda, 37 nci maddenin birinci fıkrası kapsamında en az bir yıllık ölçüm yapılması zorunludur.
+(2) Bir yıllık ölçüm süresi içerisinde, işletme ve/veya bakım veya sair nedenlerle veri kaybı yüzde 20’den daha fazla olamaz. Veri kaybının yüzde 20’ye kadar olduğu durumlarda kayıp veriler, mevcut veriler veya faaliyet alanını temsil edebilecek ve MGM tarafından belirlenecek bir veya birkaç meteoroloji istasyonu verilerinden faydalanılarak istatistiksel veri tamamlama yöntemlerinden birisi (enterpolasyon ve benzeri) kullanılarak elde edilir.
+(3) Ölçüm verilerinden anormal olduğu değerlendirilen veriler için de, yüzde 20’lik kayıp veri sınırının içinde kalmak kaydıyla, istatistiksel veri tamamlama yöntemlerinden birisi (enterpolasyon ve benzeri) kullanılabilir.

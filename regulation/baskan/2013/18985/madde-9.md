@@ -1,0 +1,4 @@
+Önlisans ve lisans süreleri
+MADDE 9 – (Değişik:RG-24/2/2017-29989)
+(1) Önlisansın süresi, önlisans başvurusuna konu üretim tesisi projesinin kaynak türü ve kurulu gücüne bağlı olarak, mücbir sebep hâlleri hariç, otuz altı ayı geçmemek üzere Kurul kararı ile belirlenir. YEKA için verilen önlisansın süresi önlisans başvurusuna konu işin yarışma şartnamesinde öngörülen süreye uygun olarak otuz altı ayı geçmemek üzere Kurul kararıyla belirlenir.
+(2) (Değişik:RG-9/6/2017- 30091) Lisans, faaliyetin niteliği dikkate alınarak en az on, en çok kırk dokuz yıl için verilir. Ancak, Kanunun geçici 12 nci maddesi kapsamında verilen üretim lisansının süresi, ilgili mevcut sözleşmenin süresi ile sınırlıdır. YEKA için verilen üretim lisansının süresi, YEKA Yönetmeliği çerçevesinde belirlenen süre ile sınırlıdır.

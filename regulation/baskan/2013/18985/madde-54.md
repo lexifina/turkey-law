@@ -1,0 +1,4 @@
+İnceleme ve denetim
+MADDE 54 – (1) Elektrik piyasasında faaliyet gösteren tüzel kişilerin Kanun kapsamındaki faaliyetleri ile uygulamalarının inceleme ve denetimi Kurum tarafından yapılır.
+(2) Kurum, birinci fıkra kapsamındaki inceleme ve denetim yükümlülüğü ile ilgili olarak, sonuçları itibarıyla Kurum açısından bağlayıcı olmayacak ve yaptırım içermeyecek şekilde inceleme, tespit ve raporlama yapmak üzere yetkilendireceği şirketlerden ilgili mevzuata uygun bir şekilde hizmet satın alabilir.
+(3) Kanun kapsamında tanımlanan elektrik dağıtım şirketlerinin ilgili mevzuat kapsamındaki faaliyetleri ile uygulamalarının periyodik inceleme ve denetimi, Bakanlık tarafından yapılır. Ancak, periyodik inceleme ve denetim dışında, Kurum tarafından gerekli görülmesi halinde, Kanunun 9 uncu ve 16 ncı maddeleri çerçevesinde, dağıtım şirketlerinin ilgili mevzuat kapsamındaki faaliyetleri ile uygulamalarının inceleme ve denetimi, Kurum tarafından yapılabilir.

@@ -1,0 +1,35 @@
+İletim lisansı sahibinin hak ve yükümlülükleri
+MADDE 31 – (1) TEİAŞ, iletim lisansı kapsamında;
+a) Münhasıran iletim faaliyetinde bulunma ve iletim sistemini işletme,
+b) Oluşabilecek bölgesel sistem ihtiyaçlarının karşılanmasıyla sınırlı olmak üzere, yan hizmetler anlaşmaları kapsamında yeni üretim tesisi yaptırmak ve/veya mevcut üretim tesislerinin kapasitelerini kiralamak amacıyla ihale yapabilme,
+c) Uluslararası enterkonneksiyon hatlarının ulusal sınırlar dışında kalan kısmının tesisi ve işletilmesini yapabilme ve/veya bu amaçla uluslararası şirket kurabilme ve/veya kurulmuş uluslararası şirketlere ortak olabilme ve bölgesel piyasaların işletilmesine ilişkin organizasyonlara katılabilme,
+ç) İletim sisteminin teknik ve teknik olmayan kayıplarını karşılamak amacıyla ve yan hizmetler piyasası kapsamında elektrik enerjisi veya kapasitesi satın almak, iletim sistemi teknik ve teknik olmayan kayıplarını karşılamak için sözleşmeye bağlanan enerjinin, gerçekleşmeler nedeniyle fazlasını satma,
+d) Kurulun izni alınmak kaydıyla, iletim faaliyetiyle birlikte yürütülmesi verimlilik artışı sağlayacak nitelikteki piyasa dışı bir faaliyeti yürütme,
+e) İletim sisteminin işletilmesi için ihtiyaç duyulan telsiz sistemi de dâhil her türlü iletişim ve bilgi sistemleri altyapısını kurma ve işletme,
+f) Fiber optik kablo altyapısının bir kısmını, kendi faaliyetlerini aksatmayacak şekilde ilgili mevzuat çerçevesinde Kurum görüşleri doğrultusunda, üçüncü kişilere kullandırabilme,
+hakkına sahiptir.
+(2) TEİAŞ, ilgili mevzuatta sayılanların yanısıra;
+a) Bakanlığın kararı doğrultusunda uluslararası enterkonneksiyon çalışmalarını yapmak,
+b) Kurulması öngörülen yeni iletim tesisleri için iletim yatırım planı yapmak, yeni iletim tesislerini kurmak ve gerektiğinde iletim sisteminde ikame ve kapasite artırımı yatırımı yapmak,
+c) İletim sistemine bağlı veya bağlanacak olan serbest tüketiciler dâhil tüm sistem kullanıcılarına şebeke işleyişine ilişkin mevzuat hükümleri doğrultusunda eşit taraflar arasında ayrım gözetmeksizin iletim ve bağlantı hizmeti sunmak,
+ç) Yük dağıtımı ve frekans kontrolünü gerçekleştirmek, piyasa işletim lisansı kapsamında yan hizmetler piyasasını ve dengeleme güç piyasasını işletmek, gerçek zamanlı sistem güvenilirliğini izlemek, sistem güvenilirliğini ve elektrik enerjisinin öngörülen kalite koşullarında sunulmasını sağlamak üzere gerekli yan hizmetleri belirlemek ve bu hizmetleri ilgili yönetmelik hükümleri doğrultusunda sağlamak,
+d) Lisansı kapsamında yürüttüğü faaliyetlere ilişkin tarife tekliflerini Kurumun belirlediği ilke ve standartlar çerçevesinde hazırlamak ve Kurumun onayına sunmak,
+e) Şebeke, yan hizmetler ve dengeleme ve uzlaştırma işlemlerini belirleyen ilgili mevzuatın uygulanmasını gözetmek, bu amaçla gerekli incelemeleri yapmak, sonuçları hakkında Kuruma rapor sunmak ve gerekli tedbirlerin alınmasını talep etmek,
+f) İletim kısıtlarını asgari seviyeye indirmek, kaliteyi artırmak ve arz güvenliğini sağlamak amacıyla iletim şebekesini planlanmak ve Kurul tarafından onaylanan planları icra etmek,
+g) Gerçek ve tüzel kişilere, eşitler arasında ayrım gözetmeksizin sisteme erişim ve sistemi kullanım imkânı sağlamak,
+ğ) Kurulacak olan üretim tesisinin sistemine bağlantısının mümkün olup olmadığı hakkında Kurum veya ilgili tüzel kişi tarafından istenen görüşü gerekçeleri ile birlikte kırkbeş gün içerisinde vermek,
+h) Lisans sahipleri ve iletim sisteminden bağlı tüketiciler ile bağlantı ve sistem kullanım anlaşmalarını imzalamak,
+ı) Piyasada elektrik enerjisi üretimi, toptan satışı ve perakende satışında rekabet ortamına uygun iletim teknik alt yapısını sağlamak,
+i) Kanunun 8 inci maddesinin birinci fıkrasında belirtilenler dışında, piyasada hiçbir surette kendi nam ve hesabına elektrik enerjisi ve/veya kapasite ticareti yapmamak,
+j) İletim sistemine bağlı tüm gerçek ve tüzel kişilere ait kayıtları tutmak, puant talepleri kaydetmek ve sayaç kayıtlarını izlemek,
+k) İlgili mevzuat çerçevesinde, sistem işletmeciliğinden kaynaklanan ve elektrik enerjisinin kalitesizliğinden ve/veya kesintilerinden doğduğu tespit edilen zarar ve hasarları tazmin etmek,
+l) Kurul tarafından onaylanan talep tahminlerini yayımlamak,
+m) İthalat ve ihracat faaliyetleri hakkında Kurum tarafından istenen görüşü, gerekçeleri ile birlikte Kuruma sunmak,
+n) Kanunun 23 üncü maddesi çerçevesinde, her yıl, 1 Nisan tarihine kadar, takip eden beş yıl için ve takip eden on yıl için olmak üzere, bağlantı noktasına göre ve/veya bölgesel bazda, sistemlerine bağlanabilecek bölgesel üretim tesisi kapasitelerini yayımlamak,
+o) (Mülga:RG-14/10/2023-32339)
+ö) İthalat ve/veya ihracat yapmak isteyen tedarik şirketleri veya üretim şirketleri ile enterkonneksiyon kullanım anlaşması imzalamak,
+p) (Ek:RG-26/12/2014-29217) (Değişik:RG-24/2/2017-29989) Kurumsal bilişim sistemi ile endüstriyel kontrol sistemlerini TS ISO/IEC 27001 Bilgi Güvenliği Yönetim Sistemi standardına uygun bir şekilde işletmek, TS ISO/IEC 27001 standardına uygun faaliyet gösterdiğini Türk Akreditasyon Kurumuna akredite olmuş bir belgelendirme kurumuna ispat ederek sistemlerini belgelendirmek ve söz konusu belgelerin geçerliliğini sağlamak, TS ISO/IEC 27001’e göre kuracakları Bilgi Güvenliği Yönetim Sisteminde TS ISO/IEC 27002 Uygulama Rehberine ek olarak ISO/IEC TR 27019 rehber dokümanını da referans almak,
+r) (Ek:RG-23/12/2015-29571) TS EN ISO 9001, TS ISO 10002, TS 18001 ve TS EN ISO 14001 standartları için Türk Akreditasyon Kurumuna akredite olmuş bir belgelendirme kurumu tarafından verilen uygunluk belgelerini Kuruma sunmak,
+s) (Ek:RG-14/10/2023-32339) Birden çok kaynaklı elektrik üretim tesislerinde kurulumu gerçekleştirilen yardımcı kaynak ünitelerine ilişkin olarak temini, tesisi ve OSOS entegrasyonu ilgili üretim lisansı sahibi tüzel kişi tarafından sağlanan ölçüm sistemlerinden elde edilen yıllık üretim verilerini bir sonraki yılın Ocak ayının onuna kadar Kuruma, piyasa işletmecisine ve ana kaynağın hidrolik olması durumunda DSİ Genel Müdürlüğüne bildirmek,
+ş) (Ek:RG-21/1/2025-32789) Kanunun 7 nci maddesinin onuncu ve on birinci fıkraları kapsamında kurulan iletim sisteminden bağlı depolamalı elektrik üretim tesislerine ait elektrik depolama ünite veya ünitelerini, SCADA üzerinden izlemek, kontrol etmek ve uzlaştırma hesaplamaları ile ilgili verileri piyasa işletmecisine bildirmek,
+ile yükümlüdür.

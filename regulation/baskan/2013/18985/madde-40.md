@@ -1,0 +1,3 @@
+Rüzgâr ve güneş ölçümlerine başlama
+MADDE 40 – (1) (Değişik:RG-9/7/2019-30826) “Önlisans ve Lisans İşlemleri ile İlgili Başvurulara İlişkin Usul ve Esaslar”da yer alan Rüzgâr Ölçüm İstasyonu Kurulum Raporu ile Güneş Ölçüm İstasyonu Kurulum Raporunu onaylama yetkisi yerinde inceleme yapılması kaydıyla MGM’de veya ilgili akredite kuruluşta olup raporun onaylandığı tarih, rüzgâr veya güneş ölçümüne başlama tarihi olarak kabul edilir.
+(2) Rüzgâr Ölçüm Sonuç Raporu ile Güneş Ölçüm Sonuç Raporu, MGM veya ilgili Akredite Kuruluş ile önlisans başvurusunda bulunacak tüzel kişi tarafından müştereken onaylanır.

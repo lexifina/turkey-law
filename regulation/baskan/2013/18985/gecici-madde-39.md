@@ -1,0 +1,3 @@
+Depolamalı elektrik üretim tesisi önlisans başvurularında teminat sunulmasına ilişkin yükümlülük
+GEÇİCİ MADDE 39- (Ek:RG-13/7/2023-32247)
+(1) Yönetmeliğin 12 nci maddesinin on dördüncü fıkrası kapsamında 30/6/2023 tarihine kadar yapılan önlisans başvurularından bu maddenin yürürlüğe girdiği tarih itibarıyla henüz bağlantı görüşü oluşturulmamış başvuruların teminat sunma yükümlülüklerine ilişkin olarak; TEİAŞ tarafından olumlu bağlantı görüşü oluşturulan başvurular için teminat sunma yükümlülüğünün, Kurum tarafından yapılan bildirimin şirkete tebliğ edildiği tarihten itibaren 30 gün içerisinde yerine getirilmesi zorunludur. Bu süre içerisinde söz konusu yükümlülüğünün yerine getirilmemesi halinde; önlisans başvurusu Kurul kararı ile reddedilir.

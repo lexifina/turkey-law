@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.18985",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK PİYASASI LİSANS YÖNETMELİĞİ",
+  "number": "18985",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2013/18985",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18985&MevzuatTertip=5",
+  "source_sha256": "84c17ea9ab144e5886f2fb3705f63815291687bc44410bdd9a84e756e49d4de3",
+  "source_bytes": 472333,
+  "published": "2013-11-02",
+  "gazette": "28809",
+  "in_force": "2026-10-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-19",
+      "RG-19/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-19",
+      "19/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-04-29",
+      "RG-29/4/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-04-29",
+      "29/4/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-29",
+      "RG-29/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-29",
+      "29/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-07-25",
+      "RG-25/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-25",
+      "25/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-21",
+      "RG-21/1/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-01-21",
+      "21/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-12-17",
+      "RG-17/12/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-12-17",
+      "17/12/2024",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 30942,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18985-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
