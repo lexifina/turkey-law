@@ -1,0 +1,2 @@
+Hizmet alımı
+MADDE 30 – (1) TEİAŞ ve dağıtım şirketi ile kullanıcı, önceden birbirlerinin yazılı onayını almaksızın, tarafı oldukları bağlantı ve sistem kullanım anlaşmaları kapsamındaki yükümlülüklerini ilgili mevzuat hükümlerine uygun olarak hizmet alımı yoluyla başkalarına gördürebilir. Hizmet alımı yoluna gidilmesi, bağlantı ve sistem kullanım anlaşmaları ile bu Yönetmelik kapsamındaki yükümlülüklerin devri anlamına gelmez. Hizmet alımı yapan kullanıcı, bu durumu uygulamanın başlamasından en az üç iş günü önceden TEİAŞ veya dağıtım şirketine yazılı olarak bildirir.

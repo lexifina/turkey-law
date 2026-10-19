@@ -1,0 +1,3 @@
+Anlaşmazlıkların çözümü
+MADDE 35 – (1) TEİAŞ, dağıtım şirketi ve lisans sahibi kullanıcılar; bağlantı, sistem kullanım ve enterkonneksiyon kullanım anlaşmalarının hükümleri veya anlaşma hükümlerinde yapılacak değişiklikler üzerinde mutabakata varamamaları halinde, oluşan ihtilafların çözümü için öncelikle Kuruma başvuruda bulunabilirler. Söz konusu başvuru, Kurul tarafından ilgili mevzuat hükümleri doğrultusunda ve başvuru tarihinden itibaren altmış gün içerisinde sonuçlandırılır.
+(2) Birinci fıkra kapsamında, bağlantı, sistem kullanım ve enterkonneksiyon kullanım anlaşmalarının uygulamasından doğan anlaşmazlıklar görevli ve yetkili mahkemelerde çözülür.

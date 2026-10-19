@@ -1,0 +1,5 @@
+Gerçeğe aykırı beyan
+MADDE 32 – (1) Bağlantı yapılacak tesisin mülkiyetine ilişkin olarak gerçeğe aykırı beyanda bulunulduğunun tespit edilmesi halinde, TEİAŞ veya dağıtım şirketi tarafından talep sahibinden bağlantı anlaşması yapıldığı tarihteki beyanını kanıtlayıcı belgeleri üç iş günü içerisinde sunması istenir. Bağlantı anlaşması yapıldığı tarihteki beyanını kanıtlayıcı bir belgeyi sunmayan talep sahibine, gerçeğe aykırı beyanda bulunduğu tespit edilenler hakkında yapılacak işlemler uygulanır.
+(2) Gerçeğe aykırı beyanda bulunduğu tespit edilen talep sahibinin bağlantı anlaşması ve varsa sistem kullanım anlaşması iptal edilir.
+(3) Talep sahibinin bağlantı anlaşmasında mülkiyet durumunu gerçeğe aykırı olarak beyan etmesi sonucu TEİAŞ veya dağıtım şirketinin uğradığı zararlar talep sahibi tarafından karşılanır.
+(4) Bu madde hükümleri, mahiyetine uygun olduğu ölçüde, gerçeğe aykırı beyanda bulunarak TEİAŞ veya ilgili dağıtım şirketi ile enterkonneksiyon kullanım anlaşması imzalayanlar hakkında da uygulanır.

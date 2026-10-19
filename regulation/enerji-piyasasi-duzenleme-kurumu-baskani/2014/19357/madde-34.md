@@ -1,0 +1,2 @@
+Feragat
+MADDE 34 – (1) Kullanıcılar yazılı olarak haklarından feragat etmedikleri sürece, bu Yönetmelik ile bağlantı, sistem kullanım ve enterkonneksiyon kullanım anlaşmaları kapsamındaki hakların kullanılmasındaki gecikme bu haklara herhangi bir şekilde zarar vermez ve bu haklardan feragat edildiği anlamına gelmez. Bir hakkın kısmen kullanılması, bu hakkın veya başka bir hakkın ileride kullanımını engellemez.

@@ -1,0 +1,4 @@
+Gizlilik
+MADDE 31 – (Değişik:RG-9/11/2023-32364)
+(1) Bağlantı, sistem kullanım ve enterkonneksiyon kullanım anlaşmalarının tarafları, bu Yönetmeliğin uygulanması sonucu ya da piyasa faaliyetleri veya başka bir yolla sahip oldukları ve açıklandığı takdirde ticari ilişkilere zarar verebilecek bilgilerin gizli tutulması için gerekli tedbirleri almak ve bu bilgileri, ilgili mevzuatta belirtilen kamu kurum ve kuruluşları ile yargı organları dışında, kendi iştirakleri veya hissedarları olan tüzel kişiler dâhil üçüncü şahıslara açıklamamak ve ilgili mevzuat ile öngörülen hususlar dışında kullanmamakla yükümlüdür.
+(2) Teknik veriler; ulusal veya uluslararası düzeyde teknik danışmanlık hizmetleri, Ar-Ge projeleri ve akademik iş birliği çalışmaları kapsamında, veri gizliliğinin teminine ilişkin gerekli koşulları sağlamak ve çalışma veya proje konusunun zorunlu kıldığı verilerin dışına çıkmamak şartıyla, üniversiteler, enstitüler, kamu kurum ve kuruluşları ile paylaşılabilir.

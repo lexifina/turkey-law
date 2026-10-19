@@ -1,0 +1,7 @@
+Elektrik depolama tesisleri için verilen bağlantı görüşleri
+MADDE 5/A – (Ek:RG-9/5/2021-31479)
+(1) (Mülga:RG-19/11/2022- 32018)
+(2) Üretim tesisine bütünleşik elektrik depolama ünitesi üretim tesisinin bağlı olduğu bağlantı noktasından şebekeye bağlanır.
+(3) Bu Yönetmelik kapsamında; üretim tesisine bütünleşik elektrik depolama ünitesi üretim tesisinin bir ünitesi olarak, tüketim tesisine bütünleşik elektrik depolama tesisleri ise tüketim tesisinin bir unsuru olarak kabul edilir.
+(4) Müstakil elektrik depolama tesislerinin iletim sistemine bağlantısı için gerekli olan iletim tesisi yatırımları ile ilgili tesislere ilişkin gerekmesi halinde taşınmaz temini dosyalarının hazırlanması, taşınmaz temininin gerektirdiği ödemeler, orman ve yol geçiş izinleri ile kazı bedeli gibi zorunlu bedeller başvuru sahibi tüzel kişiler tarafından karşılanır. Bu tesisler geçici kabulün tamamlanması ile birlikte herhangi bir işleme gerek kalmaksızın bakım ve işletme sorumluluğu karşılığında iz bedel ile TEİAŞ’a devredilir. Müstakil elektrik depolama tesislerinin herhangi bir sebeple iletim sisteminden ayrılması durumunda, 9 uncu madde hükümleri kapsamında işlem tesis edilir.
+(5) Müstakil elektrik depolama tesislerinin dağıtım sistemine bağlantısı, dağıtım sistemine bağlantı için gerekli tesislerin tamamının kullanıcı tarafından yapılması ve işletme, bakım, onarım ve yenileme işlerinin kullanıcıya ait olması şartıyla gerçekleştirilir.
