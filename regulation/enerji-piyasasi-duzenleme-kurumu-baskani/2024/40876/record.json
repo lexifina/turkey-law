@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.40876",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORGANİZE SANAYİ BÖLGELERİNİN VE ENDÜSTRİ BÖLGELERİNİN ELEKTRİK PİYASASI FAALİYETLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "40876",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurumu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurumu-baskani/2024/40876",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40876&MevzuatTertip=5",
+  "source_sha256": "b7023118283fa80a36faa9dc40edb35a1a8de642dd8e2af0b09607dc0d22f0fb",
+  "source_bytes": 123886,
+  "published": "2024-07-25",
+  "gazette": "32612",
+  "in_force": "2026-10-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-19",
+      "RG-19/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-19",
+      "19/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8568,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

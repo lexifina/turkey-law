@@ -1,0 +1,8 @@
+Erişim ve müdahale hakkı
+MADDE 13- (1) Katılımcı veya yatırımcı, mülkiyetin gayri ayni haklar da dahil olmak üzere, bağlantı ve dağıtım sistemi varlıklarının tesisi, işletmesi, bakımı, kontrolü, test edilmesi, sökülmesi ve sayaçlara zaman sınırlaması olmaksızın erişim amacıyla lisans sahibi OSB veya EB’den sorumlu tüzel kişiye gerekli izni sağlar.
+(2) Katılımcı veya yatırımcı yukarıda sayılan hakları tapu siciline masraflarını kendisi karşılayarak lisans sahibi OSB veya EB’den sorumlu tüzel kişi lehine tescil ettirebilir. Bağlantı anlaşmasında bir hüküm yoksa kira için bedel alınmaz.
+(3) Bir bağlantı anlaşması tarafı, temsilcileri, çalışanları ve davet ettiği sair kimseler hiçbir şekilde bağlantı anlaşmasının diğer tarafının tesis ve teçhizatına, aşağıdaki haller dışında, ilgili tarafın izni olmaksızın müdahalede bulunamaz:
+a) Can ve mal emniyetinin sağlanması için yapılması gereken acil durum müdahaleleri.
+b) Lisans sahibi OSB veya EB’den sorumlu tüzel kişinin, dağıtım sistemini ilgili mevzuat uyarınca işletebilmek amacıyla yapacağı müdahaleler.
+(4) İlgili mevzuat uyarınca TEİAŞ'a ait trafo merkezlerinde lisans sahibi OSB veya EB’den sorumlu tüzel kişi tarafından yapılacak enerji analizörü ve kompanzasyon tesisleri için TEİAŞ tarafından uygun bulunması koşuluyla tesislere erişim için gerekli izin verilir.
+(5) TEİAŞ’a ait trafo merkezlerinde bulunan dağıtım fiderlerinde arıza durumlarına münhasır olmak üzere lisans sahibi OSB veya EB’den sorumlu tüzel kişi tarafından açma kapama talep edilmesi halinde, bu talep şebeke güvenliğini sekteye uğratmayacak şekilde yazılı, elektronik imza, faks gibi yöntemlerden herhangi biriyle karşılanabilir.

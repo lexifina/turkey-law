@@ -1,0 +1,2 @@
+Bağlantı ve sistem kullanım anlaşmaları
+MADDE 26- (1) Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliği hükümleri uyarınca dağıtım şirketleri ile dağıtım sistemi kullanıcıları arasında imzalanan ve Kurul tarafından onaylanan bağlantı anlaşması ile sistem kullanım anlaşmasının hükümleri ile dağıtım lisansı sahibi OSB ile katılımcıları veya EB’den sorumlu tüzel kişi ile yatırımcıları arasında imzalanan bağlantı ve sistem kullanımına ilişkin anlaşmaların hükümleri birbiriyle uyumlu olmak zorundadır.

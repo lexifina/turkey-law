@@ -1,0 +1,3 @@
+Elektrik enerjisi tedarik sözleşmesi
+MADDE 25- (1) Elektrik Piyasası Tüketici Hizmetleri Yönetmeliği hükümleri uyarınca görevli tedarik şirketleri ile tüketiciler arasında imzalanan ve Kurul tarafından onaylanan standart perakende satış sözleşmesi hükümleri ile OSB ile katılımcıları veya EB’den sorumlu tüzel kişi ile yatırımcıları arasında imzalanan elektrik enerjisi tedarik sözleşmesi hükümleri birbiriyle uyumlu olmak zorundadır.
+(2) OSB ile katılımcısı veya EB’den sorumlu tüzel kişi ile yatırımcısı arasında elektrik enerjisi tedarik sözleşmesi imzalanabilmesi için söz konusu katılımcının veya yatırımcının tesislerine ilişkin mülkiyetin edinimi, kullanımı veya kiralamasının OSB veya EB’den sorumlu tüzel kişi tarafından uygun bulunarak onaylanması esastır.

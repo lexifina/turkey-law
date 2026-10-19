@@ -1,0 +1,6 @@
+ORGANİZE SANAYİ BÖLGELERİNİN VE ENDÜSTRİ BÖLGELERİNİN
+ELEKTRİK PİYASASI FAALİYETLERİNE İLİŞKİN YÖNETMELİK
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı; 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununa göre kurularak tüzel kişilik kazanan organize sanayi bölgeleri ile 9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu (Endüstri Bölgeleri Kanunu ve Organize Sanayi Bölgeleri Kanununda Değişiklik Yapılması Hakkında Kanun)’na göre kurularak tüzel kişilik kazanan endüstri bölgesi ile özel endüstri bölgesinden sorumlu tüzel kişilerin dağıtım ve/veya üretim lisansı alarak elektrik piyasasında faaliyette bulunmak istemeleri halinde, organize sanayi bölgesinin ve/veya onaylı sınırları içerisindeki katılımcıların ya da endüstri bölgesi ile özel endüstri bölgesinin ve/veya bunların içerisindeki yatırımcıların ihtiyaçlarını karşılamak amacıyla, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 13 üncü maddesi ile Endüstri Bölgeleri Kanunu (Endüstri Bölgeleri Kanunu ve Organize Sanayi Bölgeleri Kanununda Değişiklik Yapılması Hakkında Kanun)’nun 4/A maddesi kapsamında gerçekleştirecekleri faaliyetlere ilişkin usul ve esasları belirlemektir.

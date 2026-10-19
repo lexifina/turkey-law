@@ -1,0 +1,2 @@
+Tek bir tedarikçiden enerji tedariği
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren birden fazla tedarikçiden enerji tedarik eden OSB’lerin en geç 1/1/2025 tarihine kadar enerji tedariğini 20 nci maddenin ikinci fıkrasına uygun hale getirmeleri esastır. Bu kapsamda tedarikçi değişikliğine ilişkin piyasa işletmecisine başvuru yapılmaması durumunda, piyasa işletmecisi tarafından OSB ana sayaçları, re’sen mevcut tedarikçisinin portföyünden çıkarılır.
