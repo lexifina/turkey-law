@@ -1,0 +1,8 @@
+Muafiyet
+MADDE 22- (1) Birime yeni kayıt yaptıran öğrenci, daha önce kayıtlı olduğu yükseköğretim kurumundan almış ve başarmış olduğu derslerden muaf olmak için talepte bulunabilir. Muafiyet talebinde bulunacak olan öğrenci yalnızca birime ilk kayıt yaptırdığı yarıyılda eğitim-öğretim dönemi derslerinin başladığı ikinci haftanın son iş gününe kadar başvuru yapabilir. Ancak eğitim-öğretim dönemi dersleri başladıktan sonra kayıt hakkı kazanan öğrenciler muafiyet taleplerini, kayıtlarını müteakip beş iş günü içerisinde yaparlar. Süresi içerisinde muafiyet talebinde bulunmayan öğrencinin başvurusu değerlendirmeye alınmaz.
+(2) Hazırlık sınıfına tabi olan öğrenciler ise hazırlık sınıfını tamamlamalarının ardından kayıtlı oldukları diploma programına başladıktan sonra eğitim-öğretim dönemi derslerinin başladığı ilk haftanın son iş gününe kadar muafiyet isteğinde bulunabilirler.
+(3) Yeni kayıt olduğu birimin intibak komisyonu, muafiyet talebinde bulunan öğrencinin daha önce almış olduğu dersleri içerik, kredi/saat uyumluluğu ve başarı notu bakımından değerlendirerek intibak formu hazırlar. Öğrencinin muaf olduğu dersler dikkate alınarak hangi yarıyıla intibakının yapılacağına intibak komisyonunun önerisi üzerine ilgili birim yönetim kurulu karar verir.
+(4) Ders muafiyeti ve intibaklara ilişkin esaslar Senato tarafından belirlenir.
+(5) Öğrencilerin değişim programlarından aldığı derslerin, kredileri de göz önünde bulundurularak Üniversiteden almak zorunda oldukları derslerden hangisinin karşılığı olarak sayılacağına ilgili yönetim kurulu tarafından karar verilir. Ayrıca yurt dışında alınan ve başarılı olunan ders/dersler kredi karşılığı transkriptlerde yer alır.
+ÜÇÜNCÜ BÖLÜM
+Dersler, Derse Devam ve Yoklamalar, Sınavlar, Başarının Ölçülmesi,

@@ -1,0 +1,2 @@
+Akademik takvim
+MADDE 14- (1) Bir eğitim-öğretim yılındaki kayıt, ders, sınav ve benzeri faaliyetlerin süre ve tarihleri akademik takvim ile düzenlenir. Akademik takvim, ilgili eğitim-öğretim yılı başlamadan önceki haziran/temmuz ayı içinde Senato tarafından karara bağlanarak ilan edilir. Akademik takvimde yıl içinde ortaya çıkacak ihtiyaca göre ilgili (Değişik ibare:RG-23/11/2025-33086) birim kurulunun teklifi ve Senato onayı ile değişiklik yapılabilir.

@@ -1,0 +1,4 @@
+Yabancı dil hazırlık programı, yeterlik ve muafiyet sınavları
+MADDE 11- (1) Yabancı dille öğretim yapılan programlarda dersler, sınav uygulamaları ve diğer hususlar 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’ de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine ve 13/4/2009 tarihli ve 27199 sayılı Resmî Gazete’de yayımlanan Trakya Üniversitesi Yabancı Diller Yüksekokulu Hazırlık Eğitim-Öğretim ve Sınav Yönetmeliği hükümlerine göre yürütülür.
+(2) Kısmen veya tamamen yabancı dille yürütülecek diploma programlarına kayıt yaptıran öğrenciler için ilgili yabancı dilden muafiyet veya yabancı dil hazırlık programını başarıyla tamamlama şartı aranır.
+(3) Hazırlık sınıfı bulunmayan birimlere kaydolan öğrencilerden yabancı dil dersinden muaf olmak isteyenler için ayrıca akademik takvimde belirtilen tarihlerde yabancı dil muafiyet sınavı yapılır.

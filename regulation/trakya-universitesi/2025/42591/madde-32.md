@@ -1,0 +1,3 @@
+Dereceye girme
+MADDE 32- (1) Öğrencilerin derece sıralamasına girebilmesi için disiplin cezası almaması ve öğrenimlerini en fazla normal eğitim süresinde, bahar yarıyılı dönem sonu sınavları sonunda tamamlaması gerekir.
+(2) (Değişik:RG-20/10/2026-33406)1 Disiplin cezası bulunmayan ve kayıtlı olduğu programın öngördüğü bütün dersleri, uygulamaları ve stajları bu Yönetmelik hükümlerine göre başarı ile tamamlayıp genel not ortalaması 4,00 üzerinden 3,00-3,49 arasında olanlar onur öğrencisi, 3,50 ve üzeri olanlar yüksek onur öğrencisi sayılırlar. Bu öğrencilere ilgili dekan/müdür tarafından onur ve yüksek onur belgesi verilir.

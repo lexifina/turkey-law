@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akademik takvim: Eğitim yılının başlama ve bitiş tarihleri ile sınav tarihleri gibi önemli tarihleri içeren takvimi,
+b) AKTS: Avrupa Kredi Transfer Sistemini,
+c) Birim: Üniversiteye bağlı fakülte, yüksekokul ve meslek yüksekokullarını,
+ç) Birim kurulu: Fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu, meslek yüksekokullarında meslek yüksekokulu kurulunu,
+d) Birim yönetim kurulu: Fakültelerde fakülte yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu, meslek yüksekokullarında meslek yüksekokulu yönetim kurulunu,
+e) Danışman: Öğrenciye, eğitim-öğretim ve Üniversite yaşamıyla ilgili konularda rehberlik yapmak üzere görevlendirilen öğretim elemanını,
+f) Dekan: İlgili fakültenin dekanını,
+g) Diploma programı: Belirli bir alana yönelik eğitim veren ön lisans/lisans öğretim programını,
+ğ) Fakülte: Trakya Üniversitesine bağlı fakülteleri,
+h) Müdür: Yüksekokul ve meslek yüksekokulu müdürlerini,
+ı) Öğrenci: Üniversitenin ön lisans/lisans programlarına kayıtlı öğrenciyi,
+i) Öğrenci Bilgi Sistemi (OBS): Üniversitenin Öğrenci İşleri Daire Başkanlığı tarafından yönetilen ve tüm öğrenci bilgilerinin kaydedildiği internet tabanlı öğrenci bilgi sistemini,
+j) Öğrenci İşleri Daire Başkanlığı (ÖİDB): Trakya Üniversitesi Rektörlüğü Öğrenci İşleri Daire Başkanlığını,
+k) Öğretim programı: Bir diploma programında yer alan ve öğrencilerin o programdan diploma alabilmeleri için gerekli olan teorik ve uygulamalı tüm derslerin, bunların içeriklerinin, haftalık saatleri ile kredilerinin ve hangilerinin hangi dönemlerde açılacaklarının belirtildiği çizelgeleri,
+l) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+m) Rektör: Trakya Üniversitesi Rektörünü,
+n) Senato: Trakya Üniversitesi Senatosunu,
+o) TYYÇ: Türkiye Yükseköğretim Yeterlilikler Çerçevesini,
+ö) Üniversite: Trakya Üniversitesini,
+p) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

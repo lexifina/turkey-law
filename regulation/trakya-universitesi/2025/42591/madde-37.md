@@ -1,0 +1,4 @@
+Diploma programların izlenmesi ve güncellenmesi
+MADDE 37- (1) Birimler, öğretim programlarını her yıl temmuz ayı içerisinde Yükseköğretim Kalite Kurulu tarafından belirlenen program değerlendirme ilkeleri ile Senato tarafından belirlenen esaslar doğrultusunda iç ve dış paydaş görüşleri, akran değerlendirme, birim kalite komisyonu ve diğer değerlendirme komisyonlarının görüş ve önerilerini dikkate alarak gözden geçirir. Programların izlenmesi ve güncellenmesi sonucunda program öz değerlendirme raporu hazırlanarak bölüm başkanı tarafından birim yönetimine sunulur.
+(2) Programın değerlendirilmesi ile ilgili alınan kararlar doğrultusunda ilgili birim tarafından diploma programının kapatılması, derslerin kapatılması veya ders açma önerileri Senato tarafından belirlenen esaslara uygun olarak hazırlanarak Rektörlüğe gönderilir.
+(3) Programların izlenmesi, değerlendirilmesi ve güncellenmesine ilişkin esaslar Senato tarafından belirlenir.

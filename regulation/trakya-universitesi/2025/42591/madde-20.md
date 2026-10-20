@@ -1,0 +1,2 @@
+Ders ekleme-çıkarma
+MADDE 20- (1) Akademik takvimde belirlenen tarihlerde ders seçimi yaparak kayıt yenileyen öğrenciler, akademik takvimdeki ders ekleme-çıkarma günleri içerisinde 19 uncu maddede yer alan kredi şartlarını ve varsa ön koşulları da sağlamak koşuluyla haftalık ders programında çakışma olmayan derslerden danışmanının onayını alarak öğretim planındaki kayıtlı olduğu derslerden ekleme-çıkarma yapabilir.
