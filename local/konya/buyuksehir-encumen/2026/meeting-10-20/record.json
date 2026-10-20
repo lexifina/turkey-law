@@ -1,0 +1,23 @@
+{
+  "number": "meeting-10-20",
+  "number_as_published": null,
+  "year": 2026,
+  "title": "2026-10-20 Tarihli Encümen Kararları",
+  "decision_date": "2026-10-20",
+  "source": "https://www.konya.bel.tr/meclis-encumen/encumen-kararlari?karar_yil=2026&karar_ay=10",
+  "official_document": "https://files.konya.bel.tr/meclis/encumen_karar_pdf/ekHbe4JxP0xmI7pr32U7p4lucIqYwSETVaAmGFoJ.pdf",
+  "source_sha256": "fd1f3ee7d9618e8415f11fa92464ee2e755e287bfb9355f2a8884c5193f61ed6",
+  "issuer": "Konya Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-10-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 2026-10-20; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of encümen decisions per meeting",
+  "official_page": "https://www.konya.bel.tr/meclis-encumen/encumen-kararlari?karar_yil=2026&karar_ay=10"
+}
