@@ -1,0 +1,1 @@
+(1) 24/2/2022 tarihli ve 31760 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin adı “İstanbul Gedik Üniversitesi Engelli Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
