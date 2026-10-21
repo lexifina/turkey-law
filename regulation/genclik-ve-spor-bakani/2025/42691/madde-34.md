@@ -1,0 +1,3 @@
+İşletmedeki tadilat ve tesisat ile ilgili hususlar
+MADDE 34- (1) İşletici, yurt müdürlüğünün teklifi ve il müdürlüğünün onayı ile işletmede ihtiyaç duyulan tesisatı ve tadilatı yapabilir. Yapılacak tesisat veya tadilat değişikliğinden önce il müdürlüğü tarafından düzenlenecek teknik rapora göre, işleticinin yapacağı değişiklikler işletici ayrılırken söküp götürmesi halinde işletmenin tahrip ve tadiline sebep olacak ise bu durumda bu tesisatı işleticinin söküp götüremeyeceği, bu tesisat ve tadilat için bir hak talebinde bulunamayacağı işleticiye bildirilir ve tutanak altına alınır.
+(2) Üniversiteler tarafından işletilen işletme yerlerinin fiziki yapılarında tadilat yapılmak istenildiği takdirde birinci fıkra hükümleri uygulanır.

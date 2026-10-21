@@ -1,0 +1,3 @@
+Bakanlık alacakları
+MADDE 18- (1) İşleticiler, her türlü Bakanlık alacağını belirlenen süreler içerisinde ödemek zorundadır. Belirlenen sürede ödenmeyen her türlü Bakanlık alacağı herhangi bir ihtara gerek kalmaksızın alacağın doğduğu tarihten itibaren yasal faizi ile birlikte tahsil edilir. Bakanlık alacakları, öncelikle işleticinin Bakanlık hesabında bulunan alacağından, bunun mümkün olmaması halinde ise kesin teminatından tahsil edilir.
+(2) Sözleşme süresi içerisinde kesin teminat miktarının kapasite artışı, cezai kesinti ve sair sebeplerle tamamlanması gerektiğinde işleticiye yapılacak tebligattan itibaren yedi iş günü içerisinde tamamlanmaması halinde sözleşme bildirimsiz olarak feshedilerek kesin teminat il müdürlüğü hesabına gelir kaydedilir.

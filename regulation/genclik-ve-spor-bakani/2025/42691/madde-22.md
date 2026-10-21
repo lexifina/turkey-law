@@ -1,0 +1,8 @@
+Ayrı ayrı veya birlikte işletme
+MADDE 22- (1) Gerçek veya tüzel kişiliklere üçü geçmemek üzere birden fazla işletme verilebilir.
+(2) Birlikte veya ayrı ayrı işletmeye verilecek yurtların isimleri ile işletmelerin türleri önceden il müdürlükleri tarafından tespit edilir ve Bakanlığa bildirilir.
+(3) Bir yurdun yemekhane ve kantin işletmesi tek işleticiye veya yurdun farklı bloklarında mutfak ve yemekhane bulunması halinde ayrı ayrı işleticilere verilebilir. Her işletme, yemek üretimini kendi mutfağında yapar, ancak gerekli durumlarda Bakanlığın onayı alınarak farklı düzenleme yapılabilir.
+(4) Mutfağı bulunmayan veya mutfağı yemek pişirmeye elverişli olmayan yemekhane işletmeleri, Bakanlığın onayı ile mutfağı bulunan bir işletmeye bağlanarak birlikte hizmet verebilir.
+(5) İşletme sözleşmesi birlikte olan birden fazla yurt aynı işletme yerinden hizmet alıyor ise il müdürlüğünce bir yurt müdürlüğüne yetki verilerek tüm iş ve işlemlerin o yurt müdürlüğü tarafından yürütülmesi sağlanır. İşletme sözleşmesi birlikte olan birden fazla yurt kendi işletme yerinden hizmet alıyor ise yurt müdürlükleri idari işlemlerde koordinasyon sağlar.
+(6) Yurt dahilindeki mevcut işletmelerin hizmet alanına girmeyen işlerle ilgili olarak öğrencilerin ihtiyacının olması ve işleticilerin talep etmeleri halinde il müdürlüğünün onayı ile zaruri masraf ve kesin teminat alınmadan kendi işletmelerine uygun başka faaliyetler de gösterebilir.
+(7) 21 inci maddenin on üçüncü fıkrasına göre verilen işletmelerden o yurt için belirlenen zaruri masraf alınır, kesin teminat alınmaz ve mevcut kesin teminatı işletmekte olduğu bütün işletmeler için geçerli sayılır. Bu işletmeler il müdürlüğünce belirlenecek sayıda personeli çalıştırmakla yükümlüdür.

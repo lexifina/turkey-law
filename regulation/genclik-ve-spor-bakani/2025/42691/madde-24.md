@@ -1,0 +1,7 @@
+Denetlemeye ilişkin hususlar
+MADDE 24- (1) Denetleme neticesinde görülen eksiklik ve aksaklık işletici veya varsa vekiline yazılı olarak tebliğ edilir. Bu eksiklik ve aksaklıkların giderilmesi için işleticiye işin mahiyetine göre makul bir süre tanınır, verilen süre sonunda eksikliklerin giderilmemesi halinde gerekli işlemler yapılır.
+(2) Denetleme veya kontroller sırasında gıda maddelerinden bozuk olabileceği tahmin edilen veya kullanım süresi geçmiş olanların satışı durdurulur. İşleticinin itirazı halinde, Tarım ve Orman Bakanlığının ilgili birimlerince bu gıda maddelerinden alınan numunelerin tahlil sonucuna göre işlem yapılır. Yurt müdürlüğü öğretim yılı içerisinde gerekli gördüğünde gıda maddelerinin tahlilini yaptırabilir.
+(3) Her gün servis edilen tüm yemeklerden sterilize kavanozlara veya kilitli steril poşetlere yurt idaresince alınan numuneler 72 saat idareye ait buzdolabında +4 0C’de muhafaza edilir. Alınan numuneler en az 300 gram olmalıdır.
+(4) Numuneler üzerinde yapılan her türlü tahlil giderleri işleticiye aittir.
+(5) Yurt müdürlüğünce yapılan denetlemeler sonucunda düzenlenen kontrol ve denetleme formları yurt müdürlüklerinde; il müdürlüğünce oluşturulan komisyon tarafından ayda bir kez yapılacak denetlemelerde düzenlenen raporlar yurt bazında il müdürlüklerinde muhafaza edilir.
+(6) Denetlemeler sonucunda işleticiye ceza verilmesi durumunda verilen cezanın türü ve hangi gerekçeyle verildiği Bakanlığa bildirilir.

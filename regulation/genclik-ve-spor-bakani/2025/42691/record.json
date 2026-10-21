@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.42691",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR BAKANLIĞI YURTLARINDA BULUNAN YEMEKHANE, KANTİN VE DİĞER İŞLETMELER HAKKINDA YÖNETMELİK",
+  "number": "42691",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2025/42691",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42691&MevzuatTertip=5",
+  "source_sha256": "6cb030337f4e6a48a806f9e00d5ab9c7afb1f5f006a3611cc82e8716b54ac916",
+  "source_bytes": 133840,
+  "published": "2025-11-07",
+  "gazette": "33070",
+  "in_force": "2026-10-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-21",
+      "RG-21/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-21",
+      "21/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8372,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
