@@ -1,0 +1,50 @@
+{
+  "source_id": "7.5.24014",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BEŞERİ TIBBİ ÜRÜNLER İMALATHANELERİ YÖNETMELİĞİ",
+  "number": "24014",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2017/24014",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24014&MevzuatTertip=5",
+  "source_sha256": "534198a65ab1923f300a72f054d67075b651916e26977eca231d3b1df3de1191",
+  "source_bytes": 108541,
+  "published": "2017-10-21",
+  "gazette": "30217",
+  "in_force": "2026-10-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-21",
+      "RG-21/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-21",
+      "21/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-10",
+      "RG-10/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-10",
+      "10/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6259,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
