@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/51691",
+  "submitted": "2026-10-21",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet KAMAÇ",
+  "province": "Diyarbakır",
+  "summary": "Sayıştayın 2025 yılı Denetim Raporu'nda Hacettepe Üniversitesi ile ilgili yaptığı bazı tespitlere ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/40669c78-48af-430f-a92b-01a1690a508a",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "e241eaa364804f5777530dc83e62fd8e560f0e9c5f38d333ff443b8ff5ec9241",
+  "in_force": "2026-10-21",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
