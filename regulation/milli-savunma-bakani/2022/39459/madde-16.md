@@ -1,0 +1,3 @@
+Ödül verilme şartı
+MADDE 16- (1) Ödüller, verileceği tarihte Millî Savunma Bakanlığı kadro ve kuruluşunda yer alan kurumlarda görevli bulunan memur, askeri personel ve askeri öğrencilere verilir. Ancak; görevli bulunduğu sırada hakkında yapılan teklif, değerlendirme kurullarınca olumlu karşılandıktan sonra istifa, emeklilik, terhis, tayin ve nakil gibi sebeplerle ayrılmış bulunan memur, askeri personel ve askeri öğrenciler veya bunların vefatları halinde kanunî mirasçılarına bu ödüller, ödenek idare eden makamların onayından sonra verilir.
+(2) Ödenek tahsis edilen makamlar tarafından 15 inci maddeye göre verilecek ödüller hakkında da birinci fıkra hükümleri uygulanır.

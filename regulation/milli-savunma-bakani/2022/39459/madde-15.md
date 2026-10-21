@@ -1,0 +1,2 @@
+Doğrudan ödül vermeye yetkili makamlar
+MADDE 15- (1) Bakan, Genelkurmay Başkanı, Kuvvet Komutanları, Bakan Yardımcıları ile Genelkurmay İkinci Başkanı; gezi ve denetlemeler ile yıl içerisinde, kendi birlik, karargâh ve kurumlarındaki askeri personele ödül verilmesini gerektiren hususlar için tespit edilmiş ödül nev'i ve derecelerine tekabül eden ödülleri, değerlendirme kurullarından geçirmeden doğrudan vermeye yetkilidirler.

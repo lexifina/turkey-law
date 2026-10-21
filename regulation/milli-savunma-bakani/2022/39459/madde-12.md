@@ -1,0 +1,3 @@
+Üstün başarı para ödülü
+MADDE 12- (1) Millî Savunma Bakanlığı kadro kuruluşunda yer alan kurumlarda görevli memurlardan üstün başarı belgesi alanlara Bakan tarafından uygun görülmesi halinde en yüksek Devlet memuru aylığının iki katına kadar para ödülü verilebilir.
+(2) Bu maddeye göre Millî Savunma Bakanlığı kadro ve kuruluşunda yer alan kurumlarda bir mali yıl içinde para ödülü verileceklerin sayısı ilgili kurumun yılbaşındaki dolu memur kadro mevcudunun binde onundan fazla olamaz. Yıl içinde para ödülü verilen memur sayısı Bakanlıkça izleyen yılın ocak ayı sonuna kadar Cumhurbaşkanlığı İdari İşler Başkanlığı Personel ve Prensipler Genel Müdürlüğüne bildirilir.

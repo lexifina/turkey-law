@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 122 nci maddesine, 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 202 nci, 203 üncü ve 204 üncü maddelerine ve 31/7/1970 tarihli ve 1325 sayılı Askeri Okullar, Askeri Öğrenciler, Askeri Fabrikalar ve Bazı Düzenlemeler Hakkında Kanunun ek 9 uncu maddesine dayanılarak hazırlanmıştır.

@@ -1,0 +1,5 @@
+Değerlendirme kurulları
+MADDE 14- (1) Tugay ve eşiti birlik, karargâh (büyük karargâhlardaki asgari tuğgeneral/tuğamiral seviyesindeki daire başkanlıkları ile rütbe denkliği general olanlar) ve kurumlar (asgari tuğgeneral/tuğamiral seviyesindeki kurum amirleri) ile daha üst makamlarda (Deniz ve Havada eşiti) ödül tekliflerinin değerlendirilmesi maksadıyla “Değerlendirme Kurulları” kurulur.
+(2) Bünyesinde değerlendirme kurulu kurulan makamın amiri başkanlığında ve bu makama doğrudan bağlı en az iki ve çift sayıda üyeden oluşan değerlendirme kurullarında incelenen teklifler, başkanın onayı ile kesinleşir. Kesinleşen ödüllere tekabül eden ödenekler, ilgili birimlerin emrine gönderilir.
+(3) Değerlendirme kurulları, başarının “daha üst amirler tarafından takdir edilmesi” kararı vermesi durumunda teklifler, üst makamların değerlendirme kurullarında incelenir. Taltifi gerektiren başarı için, sadece bir makam tarafından ödül verilebilir.
+(4) Değerlendirme kurullarında kararlar çoğunlukla verilir. Kurul üyelerine ödül verilmesi gerektiği hallerde, bu kişiler üye olarak görev yapamazlar. O toplantıya münhasır olmak üzere aynı nitelikte bir başka kişi kurula katılır.
