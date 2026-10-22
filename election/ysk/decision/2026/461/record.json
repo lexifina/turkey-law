@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2026/461",
+  "list_number": "461",
+  "decision_date": "2026-10-22",
+  "title": "Yüksek Seçim Kurulunun 22/10/2026 Tarihli ve 2026/461 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58015870/2026-461.docx",
+  "source_sha256": "50fa1464b8b9c944d65d2f8ea9ccb4b47c8ec1f1c03ef3404e07c7fd83b3e8d1",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official file is .docx (not transcribed)",
+  "in_force": "2026-10-22",
+  "law_text_complete": false
+}
