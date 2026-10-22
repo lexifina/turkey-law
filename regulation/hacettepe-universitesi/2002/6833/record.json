@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 9 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-12-01",
+      "01.12.2002",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2026-10-22",
+      "RG-22/10/2026-33408",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-22",
+      "RG-22/10/2026-33408",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2026-10-22",
+      "22/10/2026",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-22/10/2026-33408",
+  "first_law": null,
+  "gazette": "24953",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2002/6833",
+  "published": "2002-12-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6833&MevzuatTertip=5",
+  "source_bytes": 24450,
+  "source_id": "8.5.6833",
+  "source_sha256": "517cc29467161a5a9716129c464369db44f0ebd80aa0729fb55da366354ced24",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nARI VE ARI ÜRÜNLERİ UYGULAMA VE ARAŞTIRMA\r\nMERKEZİ (HARÜM) YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 819
+}
