@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14982",
+  "decision_date": "2026-10-22",
+  "title": "Kullanıcı Mobil Uygulamasına ve internet sitesine elektrik dağıtım şirketleri tarafından veri sağlanmasına ilişkin",
+  "resmi_gazete_date": "2026-10-24",
+  "resmi_gazete_number": "33410",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R3jUToZaZDw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R3jUToZaZDw="
+  ],
+  "source_sha256": "13481932ff5d6ad769ac3e563b9ed30721114891629f9d5381cf45de6093c7f8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2026-10-22",
+  "law_text_complete": true
+}
