@@ -1,0 +1,2 @@
+Hukuk Fakültesi öğrencileri
+GEÇİCİ MADDE 1 – (1) 2012-2013 eğitim öğretim yılından önce Üniversitenin Hukuk Fakültesine kayıtlı olan öğrencilere mezuniyetlerine kadar, 15/7/2002 tarihli ve 24816 sayılı Resmî Gazete’de yayımlanan Çankaya Üniversitesi Hukuk Fakültesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliği hükümleri uygulanır. Ancak, söz konusu öğrenciler dönem sonu sınavları için, bu Yönetmeliğin 24 üncü maddesinde belirtilen haklardan yararlanırlar.

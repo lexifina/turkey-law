@@ -1,0 +1,2 @@
+Çift anadal programı
+MADDE 9 – (1) Üniversitede bir lisans programına kayıtlı olan öğrenciye bu lisans programına ek olarak yine Üniversitede başka bir lisans programına da eş zamanlı devam hakkı tanınabilir. Bu ikinci lisans programına çift anadal lisans programı denir. Bu programı tamamlayan öğrencilere, kayıtlı oldukları lisans programı diplomasına ek olarak çift anadal lisans diploması verilir. Çift anadal programlarına ilişkin esaslar Senato tarafından belirlenir.

@@ -1,0 +1,5 @@
+Kayıt sildirme
+MADDE 40 – (1) Öğrenciler istedikleri takdirde (Değişik ibare:RG-14/6/2023-32221) ÖİDB’ye başvurarak kayıtlarını sildirebilirler. Bu öğrencilerin, ayrılmak için başvurdukları tarih itibarıyla Üniversite ile ilişikleri kesilir.
+(2) Üniversiteden kaydını sildiren veya disiplin cezası nedeniyle Üniversite ile ilişiği kesilen öğrencilerin diplomalarını veya dosyalarındaki kendilerine ait belgeleri alabilmeleri için Üniversite tarafından belirlenen kayıt sildirme işlemlerini yapmaları ve öğrenim ücreti, yurt, kütüphane borcu ile benzeri mali yükümlülükleri yerine getirmeleri zorunludur.
+(3) Ön lisans diploması alarak veya mezuniyet koşullarını sağlamadan kayıtlı oldukları programdan kayıt sildiren öğrenciler, Üniversitedeki tüm öğrencilik haklarını kaybeder ve öğrenimlerini tamamlamak üzere kayıt sildirdikleri programa tekrar kayıt yaptıramazlar.
+(4) (Değişik:RG-23/10/2026-33409) Üniversiteden kayıt sildiren veya herhangi bir sebeple Üniversite ile ilişiği kesilen öğrencinin ödemiş olduğu öğrenim ücretinin iade edilecek kısmı YÖK tarafından çıkarılan usul ve esaslara göre belirlenir.

@@ -1,0 +1,4 @@
+Eğitim-öğretim yılı
+MADDE 7 – (1) Bir eğitim öğretim yılı en az on dörder haftalık iki yarıyıldan oluşur. Birinci yarıyıl güz, ikinci yarıyıl ise bahar olarak adlandırılır. Akademik takvim, Senato tarafından belirlenir. Senato, gerekli gördüğü hallerde yarıyıl sürelerini uzatabilir veya yaz öğretimi açabilir. Yaz öğretimi ile ilgili esaslar Senato tarafından belirlenir.
+(2) Bir eğitim öğretim yılındaki kayıt, ders, sınav ve benzeri faaliyetlerin süre ve tarihleri, akademik takvim ile düzenlenir.
+(3) Yarıyıllarda ve yaz öğretiminde verilecek dersler, bu dersleri hangi öğretim elemanının vereceği ilgili bölüm başkanlığı tarafından belirlenerek ilgili yönetim kurulu tarafından karara bağlanır. Bu derslerin grupları, kapasiteleri ve varsa diğer kriterlerine ilişkin düzenlemeler ise ilgili bölüm başkanlığı tarafından yapılır.

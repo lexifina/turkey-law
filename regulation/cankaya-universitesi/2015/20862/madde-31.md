@@ -1,0 +1,10 @@
+Sınamalı öğrenciler
+MADDE 31 – (1) Ders aldığı ilk iki yarıyılını tamamladıktan sonra, takip eden yarıyıllardaki not ortalaması iki yarıyıl üst üste 1,70’in altında kalan öğrenci, genel not ortalaması da 1,70’in altında ise, sınamalı öğrenci olarak tanımlanır ve genel not ortalamasını 1,70’e yükseltinceye kadar sınıfı sabit kalır.
+(2) Sınamalı durumda geçen süre(ler) azami eğitim öğretim süresine dâhil edilir.
+(3) Sınamalı durumdaki öğrencinin bir yarıyılda alabileceği ders yükü, kurumsal kredi değeri bulunmayan dersler hariç en fazla beş derstir.
+(4) Sınamalı öğrenci, genel not ortalamasını 1,70’e yükseltinceye kadar öncelikle (NA), (FF), (FD) notu aldıkları dersleri tekrarlamak zorundadır. Bu şartı yerine getiren öğrenciler, ders yükünün uygun olması halinde danışmanının kayıt onayı ile bu derslerin yanısıra müfredatında bulunan diğer derslerden de alabilir.
+(5) Sınamalı öğrenci, önceki yarıyıllarda aldığı seçmeli bir dersin yerine saydırmak kaydı ile daha önce almadığı farklı bir seçmeli dersi danışmanlarının onayı ile alabilir.
+(6) Sınamalı öğrenciye bu Yönetmelikte belirtilen asgari ders yükü ile ilgili kural uygulanmaz.
+(7) Öğrencilerin güz dönemi başındaki sınamalı durumları, yaz öğretimi bitimi sonundaki genel not ortalamalarına göre belirlenir. Sınamalı durumda olan veya bahar dönemi sonunda sınamalı duruma düşen öğrenciler, yaz öğretimi sonunda genel not ortalamasını 1,70’e yükselttiği takdirde sınamalı durumları ortadan kalkar. Yaz öğretimi bir yarıyıl değildir. Dolayısı ile yaz öğretiminde alınan derslerin ortalaması yarıyıl not ortalaması olarak kullanılamaz. Ancak öğrencinin genel not ortalamasına dâhil edilir.
+(8) (Değişik:RG-14/6/2023-32221) Tabi olduğu müfredatın toplam kurumsal kredisinin en az %70’ini almış olan öğrencilere bu madde hükümleri uygulanmaz. Alınmış olan derslerin kredi hesabında ortalamaya katılan başarılı dersler ile başarısız olunan FF ve FD notlu dersler dikkate alınır. NA notlu dersler dikkate alınmaz.
+(9) Genel not ortalamasını 1,70 veya üzerine getiren öğrenci, normal statüde eğitimine devam eder.

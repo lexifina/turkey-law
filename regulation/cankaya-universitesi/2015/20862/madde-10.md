@@ -1,0 +1,2 @@
+Yandal programı
+MADDE 10 – (1) Üniversitede bir lisans programına kayıtlı olan öğrenciye bu lisans programına ek olarak yine Üniversitede diğer bir lisans programının belirli sayıda dersinden veya belirli sayıda disiplinlerarası dersten oluşan bir yandal programına devam hakkı tanınabilir. Yandal programı bir lisans programı değildir. Bu programı tamamlayan öğrencilere bir sertifika verilir. Yandal programlarına ilişkin esaslar Senato tarafından belirlenir.
