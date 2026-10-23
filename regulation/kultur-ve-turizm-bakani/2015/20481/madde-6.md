@@ -1,0 +1,6 @@
+Projelerin hazırlanması, onayı ve yapı ruhsatı
+MADDE 6 – (1) Tarihi Alanda Başkanlığın yetkili olduğu kısımlarda, her türlü yapının, esaslı onarımı ile yeni yapıların inşası ve taşınmazlara ilişkin proje uygulamaları Tarihi Alan planlarına uygun olarak ve Başkanlığın aldığı kararlar doğrultusunda 6546 sayılı Kanun hükümlerine göre yürütülür.
+(2) Tarihi Alanda Başkanlığın yetkili olduğu kısımlarda, projelerin hazırlanması, onayı ve yapı ruhsatı hakkında aşağıdaki usul ve esaslar uygulanır:
+a) Başkanlıkça inşa edilecek yapılara ilişkin projeleri yapı yaklaşık maliyetleri, teknik şartnameleri ve diğer belgeleri, Başkanlık kendi bünyesinde hazırlayabileceği gibi, kamu kurum ve kuruluşlarına, akademik birimlere hazırlattırabilir veya hizmet satın almak suretiyle temin edebilir. Projeler, yapıma ilişkin yaklaşık maliyetler ve diğer belgeler Başkanlıkça onaylanır. Bu ihtiyacı herhangi bir öncelik sırası gözetmeden birinden, birkaçından veya hepsinden aynı anda temin edilebilir.
+b) (a) bendinde belirtilenler dışındaki taşınmazlarda ruhsata tabi uygulamalara ilişkin projeler ilgili mevzuatına göre hazırlanarak ilgilisince Başkanlığa sunulur ve sonuçlandırılır.
+c) Bu fıkrada belirtilen iş ve işlemler 6546 sayılı Kanun hükümlerine göre Başkanlıkça yürütülür.
