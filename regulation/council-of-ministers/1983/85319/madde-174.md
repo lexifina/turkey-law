@@ -1,0 +1,5 @@
+L – Kapıcının Görevleri:
+Madde 174 – Kapıcı, kuruma giren ve çıkan herkese ve herşeye gözlemcilik etmek, hasta ve personelin izinsiz dışarıya çıkmamasına ve dışardan kimsenin izinsiz içeri girmemesine, kurum eşyasından birşey götürülmemesine dikkat etmek ve şüpheli gördüğü kişileri kurum idaresine haber vermekle yükümlüdür.
+a) Görevi hakkında hastane müdürünce düzenlenen ve giriş kapısı yanına asılan direktif gereğince hareket eder. Bu direktifin tamamen yürütülmesi ve uygulanmasından sorumludur. Önemli durumlarda nöbetçi tabibine veya hastane müdürü ile başhemşireye başvurarak durumu haber vermek ve aldığı emirleri yerine getirmek zorundadır.
+b) Muayene için kapıya gelen hastalara iyi muamele ederek muayene yerine gönderir ve icabederse yardımda bulunur. Belirli ziyaret günlerinde hastalarını görmek üzere gelen ziyaretcileri iyi bir şekilde karşılayarak kendilerine yol gösterir ve bunların hastane müdürü, mesai dışında nöbetçi tabibin iznini almadan hastaları için hariçten içeriye eşya sokmamalarına dikkat eder.
+c) Kapıcı binası ile kapı çevresinin temizlik, düzen ve güvenini sağlamakla yükümlüdür.

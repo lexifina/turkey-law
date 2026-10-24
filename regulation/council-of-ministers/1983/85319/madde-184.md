@@ -1,0 +1,3 @@
+D – Nöbetçi Hemşirenin Görev ve Yetkileri:
+Madde 184 – Nöbetçi hemşire, nöbetçi tabibin emrinde, onun direktiflerine göre, çalışır. Nöbet tuttuğu servis ve hizmet yerlerinde hastaları muayeneye hazırlamak, tabibin lüzum göstereceği tedavileri usulüne uygun olarak uygulamak, kendisine düşen kayıtları yapmak, durumu ağırlaşan hastaları nöbetçi tabibe bildirmekle yükümlüdür.
+Birden fazla hemşire nöbeti tutulan kurumlarda her nöbet biriminin tüm hemşirelik hizmetlerinden, o birimin nöbetçi hemşiresi sorumludur. Bu takdirde ve başhemşire nöbeti tutulmayan ve birden fazla hemşirenin nöbet tuttuğu durumlarda kıdemli nöbetçi hemşire, baş hemşire görevlerini de üzerine alır.

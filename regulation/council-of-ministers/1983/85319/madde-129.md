@@ -1,0 +1,10 @@
+Ö – Başhemşirenin Görev ve Yetkileri:
+Madde 129 – Başhemşire; yüksek hemşirelik okulu veya sağlık meslek lisesi mezunu olup, mesleklerinde enaz on yıl çalışmış ve iyi sicil almış hemşireler arasından baş tabibin teklifi ile Bakanlıkça atanır. Hasta bakım hizmetlerinin en iyi şekilde görülmesini sağlamakla görevli olup doğrudan Baştabibe karşı sorumludur. İsterse sürekli olarak kurumda kalabilir. Bu takdirde yiyecek ve yatacakları kurumca sağlanır.
+a) Kurumda çalışan başhemşire yardımcıları, servis sorumlu hemşireleri, başebe ile kendisine bağlı diğer hizmet birim amir ve sorumlularının birinci derecede amiri olup hasta bakımı hizmetlerinde görevli personelin zamanında ve gereğince yönetmelik hükümlerine göre görev yapmalarını sağlamak ve kontrol etmekle yükümlüdür.
+Gerekli noksanlıkları tıbbi konularda baştabibe, idari konularda hastane müdürüne bildirir.
+b) Hizmetlerin yapılması sırasında gördüğü eksik ve kusurları gidermek ve yapamıyacağı veya yetkisi dışında kalan işleri baştabibe zamanında bildirmekle görevlidir.
+c) Kendisine bağlı hizmetlerdeki personelin çalışma yerlerinin belirlenmesi ve bunların yerlerinin değiştirilmesi ile ilgili hususlarda görüş ve isteklerini baştabibe iletir ve verilen kararları uygular.
+d) Hemşire, ebe, hemşire yardımcısı ve yardımcı hizmetler sınıfı personelinin, mesleki bilgi ve tecrübelerinin gelişmesine yardımcı olmak amacıyla hizmet içi eğitimini sağlar. Yeni mesleğe girmiş olanlara mesleğin yüceliğini anlatır. Hastalara karşı müşfik olmaları ve daima iyi davranmaları hususunda uyarmalarda bulunur. Kendi tutum ve hareketleriyle onlara iyi bir örnek olmağa çalışır.
+e) Hasta bakımı ile ilgili hususlardan sorumlu olarak özellikle, hastaların temizlik ve beslenmelerine ve yatıp kalkmalarına, ilaçlarının vaktinde verilip verilmediğine, yemeklerinin bölüm ve dağıtımına nezaret eder.
+f) Klinik ve polikliniklerin genel temizlik ve düzenini sağlar. Hasta ziyaretlerinin servislerde hasta bakımı yönünden kontrolunu yapar.
+g) Hemşire ve kendisine bağlı diğer personele ait nöbet ve izin cetvellerini düzenler ve baştabibe onaylatır. Bu listelerde sonradan değişiklik yapmak gerekirse baştabibe haber verir.

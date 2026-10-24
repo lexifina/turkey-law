@@ -1,0 +1,2 @@
+G – Çamaşırhane ve Ütühane Sorumlusunun Görev ve Yetkileri:
+Madde 169 – Hastane müdürüne bağlı olup çamaşırhane ve ütühanenin sorumlusudur. Bu yönetmelik hükümlerine göre baştabiblik emirlerine uygun olarak buranın düzenli ve verimli bir şekilde işlemesini sağlar. Buralarda çalışanların görev taksimini yapar, çalışmalarını kontrol eder. Çamaşırhane ve ütühane ile servisler arasındaki ilişki ve alışverişi düzenler.

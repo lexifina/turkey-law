@@ -1,0 +1,1 @@
+Madde 182 – Nöbetçi eczacı, nöbet zamanında harcanan ilaç ve tıbbi malzemelerin cins ve miktarlarını vizite defterine kaydeder. Nöbetin bitimin de bu harcamanın özetini ilaç sarfiyat cetveline yazarak imzaladıktan sonra başeczacıya verir.

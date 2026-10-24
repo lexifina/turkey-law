@@ -1,0 +1,6 @@
+H – Diş Tabiblerinin Görev ve Yetkileri:
+Madde 120 – Kadrolarında diş tabibi bulunan hastanelerde diş tabipleri de diğer uzmanlar gibi diş polikliniği, diş tedavi ve protez hizmetlerine ait fenni ve idari işleri bizzat yapmakla yükümlüdürler.
+Bünyelerinde birden fazla diş tabibi bulunan Yataklı tedavi kurumlarında diş tabiblerinden birisi baştabib tarafından Valilik onayı ile diş ünitesi sorumlusu olarak seçilir.
+Ünite sorumlusu diş servisi veya diş tedavi protez ünitesinin düzenli ve verimli çalışmasından baştabibe karşı sorumludur. Buranın ihtiyaçlarının sağlanması için gerekli işlemleri zamanında yapar. Diş tabibleri ve bu bölümde çalışan diğer personelin görevlerini düzenler, aralarındaki işbirliğini kurar.
+Diş tabipleri, kurumda yatan hastaların dişlerini tedavi ettikleri gibi hariçten müracaat edecek diş hastalarını da polikliniklerde muayene ve tedavi ederler. Diş tabipleri, müdahale ettikleri ve yatmasına lüzum gördükleri vakaları baştabibin bilgisi altında cerrahi servislerinden birine yatırır, müşahadesini alır, tedavi eder ve izlerler.
+Kadrosu ve olanakları bulunan kurumlarda diş grafileri ve protez yapılabilir. Protez yapılacak kurumlar Sağlık ve Sosyal Yardım Bakanlığınca saptanır.

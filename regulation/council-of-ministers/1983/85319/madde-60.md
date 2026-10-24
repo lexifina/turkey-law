@@ -1,0 +1,3 @@
+Madde 60 – Tedavi giderleri, devlet, kamu iktisadi teşekkülleri, bankalar, Sosyal Sigortalar Kurumu ve Emekli Sandığınca karşılananlar tahakkuk edecek her türlü ücretin ödeneceğini bildiren ve ilgilinin yatmaya müstahak olduğu sınıfı belirleyen bağlı oldukları daireler veya kurumlarca yataklı tedavi kurumlarına yazılmış bir yazı veya sevk kağıdı (Ek 16 Form 67) getirdikleri takdirde muayene ve tedavileri yapılır ve tahakkuk edecek ücretleri bilahare ait olduğu yerden
+tahsil edilir. (Ek 23 Form 74)
+Acil ve hemen müdahale ve tedaviyi gerektiren durumlarda kurumun yazısı sonradan alınmak kaydıyle gereği yapılır.

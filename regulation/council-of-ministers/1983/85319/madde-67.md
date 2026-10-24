@@ -1,0 +1,5 @@
+Madde 67 – Hasta kabul memurluğuna gönderilen her hasta veya sahibi kimlik belgesini veya tasdikli bir suretini, bunlar sağlanmadığı takdirde onun yerine geçecek resmi bir belgeyi, yabancı uyruklu ise pasaportunu hasta kabul memuruna vermek zorundadırlar.
+Bu belgeyi vermeyenler, (Acil vak'alar hariç) kuruma kabul edilemezler. Acil vak'alarda kimlik belgesinin en kısa zamanda sağlanmasına çalışılır.
+Hasta kabul memuru kimlik belgesine göre hastanın künyesini hasta kabul defterine geçirir (Ek 43 Form 102) ve hasta tabelasının (Ek 1 Form 51) buna ait kısımlarını doldurur. Hastanın kimlik belgesinin çıkarken geri verilmek üzere alıkonulduğu hasta kabul kağıdına kayıt olunur.
+Bu suretle alınan kimlik belgesinden hasta kabul memuru sorumludur. Ancak durumları bu işlemlere imkan bırakmıyacak derecede ağır ve acil tedavi veya müdahaleyi gerektiren hastalar, geciktirilmeden tedavi edilecekleri yere gönderilir. Gerekli işlem ondan sonra tamamlanır.
+Hasta kabulde gerekli işlemleri tamamlanan hastalar yatacağı servisten gelecek hemşire veya hastane hizmetlisine teslim edilerek gönderilir.

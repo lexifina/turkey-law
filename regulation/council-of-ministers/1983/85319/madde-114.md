@@ -1,0 +1,14 @@
+Ç – Servis Şef ve Uzmanlarının Görev ve Yetkileri:
+Madde 114 – Servis şef ve uzmanları:
+a) Servislere kabul edilen hastaları uzmanlıkları çerçevesinde muayene ve tedavi eder. Kendi servisinin polikliniğini yaparlar. Ayrıca çeşitli uzmanlık dalları bulunmayan küçük yataklı tedavi kurumlarında Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanunun hükümleri çerçevesinde diğer uzmanlık şubelerine ait hastaları da muayene ve tedavi etmekle yükümlüdür. Ancak ilk tedaviden sonra mutlaka ilgili dal uzmanının görmesi gereken vakaları, gereği yapılmak üzere baştabibe bildirir.
+Şef ve uzmanlar, hasta müşahade ve tabelalarının düzenli ve usulüne uygun olarak yazılmasından sorumludurlar.
+b) Her ne zaman olursa olsun şubelerinde çıkan önemli ve acil vakalar nedeniyle kurumca kendilerine yapılan davete gelmek ve gereken muayene ve tedaviyi yapmakla yükümlüdürler.
+Herhangi bir hasta hakkında konsültasyon için diğer şubelerden gelen davetleri kabul ve görüşlerini bildirmek zorundadırlar. Aynı şubeden birçok uzman bulunan kurumlarda bu çeşit hizmetler baştabibin düzenleyeceği sıraya göre nöbetleşe yapılır.
+c) Poliklinik ve servislerinde ihbarı mecbur bir bulaşıcı hastalık görüldüğünde, ihbar vesikasıyle durumu baştabibe bildirirler.
+d) Orijinal çalışmalara esas teşkil edebilecek nadir vakalara rastladıkça, hastane bilimsel konseyine sunulmak üzere bütün belgeleri ile beraber baştabibe verirler.
+Servis şef ve uzmanları, servis istatistiklerinin düzenlenmesi ve zamanında idareye verilmesi ile servis protokol defterinin usulüne uygun olarak tutulmasından sorumludurlar.
+e) Kurum içinde yapılacak ameliyatlarda; 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanunun aşağıda belirtilen 70. maddesine uymaları zorunludur. (Tabipler, diştabipleri ve dişçiler yapacakları her nev'i ameliye için hastanın, hasta küçük veya tahtı hacirde ise veli veya vasisinin evvelemirde muvafakıtını alırlar. Büyük ameliyei cerrahiyeler için bu muvafakatın tahriri olması lazımdır. Veli veya vasisi olmadığı veya bulunmadığı veya üzerinde ameliyat yapılacak şahıs ifadeye muktedir olmadığı takdirde muvafakat şart değildir.) Ameliyatı yapan uzman, ameliyatın sonunda yaptığı ameliyatı ameliyat kayıt defterine kaydeder (Ek 52 Form 11)
+f) Poliklinik ve servislerde geçen önemli fenni ve idari vakaları baştabibe bildirirler.
+g) Servislerine lüzumlu alet, ilaç ve sıhhi malzeme için örneğine uygun birer istek belgesi (Ek 37 Form 88) düzenleyerek baştabibe havale ettirdikten sonra bunların cinsine göre imza mukabilinde eczane veya depodan alınmasını sağlar.
+h) Servislerine ait bütün demirbaş eşyanın bakımı, muhafazası ile tüketim maddelerinin yerinde ve ekonomik kullanımından sorumludur.
+i) Kadın hastalıkları ve doğum uzmanları ile aile planlaması kursu görmüş diğer tabipler aile planlaması uygulamaları yapmak ve kendi birimleri içinde bu çalışmaları düzenlemekle yükümlüdürler.

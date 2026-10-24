@@ -1,0 +1,3 @@
+D – Laboratuvar Hizmetleri:
+Madde 15 – Laboratuvar hizmetleri; poliklinik ve servis hastaları ile gereğinde Sağlık ve Sosyal Yardım Bakanlığının halk sağlığı gibi diğer laboratuvar ihtiyaçlarını karşılayacak nitelikte ve ayrıca poliklinik laboratuvarı bulunmayan yataklı tedavi kurumlarında servis ve polikliniklere göre merkezi bir yerde düzenlenir.
+Laboratuvarlara muayene materyalleri, ilgili poliklinik ve klinik tabibleri tarafından usulune uygun olarak doldurulmuş laboratuvar istek kağıdları (EK 14 Form 65-EK 13 Form 64) ve diğer sağlık kurumlarından resmi evrak ile gönderilir. Laboratuvar hizmetleri tutulacak bir deftere kaydedilir. (EK 48 Form 107)

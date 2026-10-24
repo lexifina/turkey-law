@@ -1,0 +1,1 @@
+Madde 80 – Hastalıkları ağır olup da çıkarılmalarında sakınca olan hastalar kendi istekleriyle kurumdan çıkmakta ısrar ettikleri takdirde kendilerinin veya yakınlarının imzalı muvafakatları alınarak servis uzmanını imzasıyle çıkarılabilirler. Ancak bulaşıcı ve salgın hastalıklara tutulmuş olanlar hastalıklarının bulaşma ihtimali kaybolmadan çıkarılamazlar.

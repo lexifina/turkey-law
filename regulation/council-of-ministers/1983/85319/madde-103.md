@@ -1,0 +1,3 @@
+D – Sayım Komisyonu:
+Madde 103 – Kurumlarda Ayniyat Talimatnamesi hükümlerine göre sayım yapmak üzere her mali yıl başında baştabibin tayin edeceği ve içlerinde ayniyat saymanının, yoksa mutemedinin bulunacağı üç kişilik bir komisyon kurulur.
+Bu komisyon kurumda mevcut her türlü demirbaş, malzeme ve mefruşat ile erzak vesair maddelerin sayımını, yapar. Bu sayımda mevcutların resmi kayıtlara göre fazlası, eksiği saptanır. Bozulan, çürüyen, kırılan ve dökülenler nedenleri ile beraber bir tutunakla belirtilerek noksanlar baştabibliğe bildirilir. Kullanılmayacak hale gelen eşya, malzeme, ilaç ve erzak hakkında usulüne göre kayıt silme işlemi uygulanır.

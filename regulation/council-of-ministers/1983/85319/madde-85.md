@@ -1,0 +1,1 @@
+Madde 85 – Ölen hastaların elbise ve eşyaları ile mücevher ve paraları, o yerdeki yetkili mahkemeye teslim edilir. Mahkemeye teslim edilen emanet eşyanın, muhallefat defterindeki kayıtlarının emanet defterindeki kayıtlara uyması ve emanet defterindeki sıra numarasının da muhallefat defterine aynen yazılması gereklidir.

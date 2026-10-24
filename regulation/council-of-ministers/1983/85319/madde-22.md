@@ -1,0 +1,2 @@
+III – Sağlık Kurulları:
+Madde 22 – (Mülga:RG-24/10/2026-33410-CK-11928/1 md.)

@@ -1,0 +1,3 @@
+Madde 113 – Şef ve uzmanlar servis, klinik veya laboratuvarlarında çalışan personelin görev ve hizmetle ilgili hususlarda amiridir.
+Servis ve laboratuvarlarda mevcut bütün personel ile Bakanlıkça servislerine verilmiş her dereceden mesleki okul öğrencileri ve kursuyerlerin iş başında öğretim ve eğitimleriyle ilmi ve ameli bakımdan gelişmelerini, aralarında görev bölümüne ve çalışma düzenini sağlamak, yayın yapmalarına yardım etmek ve diğer şubelerle ilişkiler kurmakla yükümlü olup, bunların ve hasta bakımı hizmetlerinin düzenli olarak yürütülmesinden, bölümlerinde disiplinin sağlanmasından ve
+temizliğinden baştabibe karşı sorumludurlar.

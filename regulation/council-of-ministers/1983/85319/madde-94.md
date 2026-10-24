@@ -1,0 +1,1 @@
+Madde 94 – Personelin gömlekleri ve lüzum görülen diğer çamaşırları ayrı olarak yıkanır ve kolalanır. Bütün hasta çamaşırları ütülenir ve muntazam katlanarak, varsa genel çamaşır deposuna yoksa, servis dolaplarına yerleştirilir.

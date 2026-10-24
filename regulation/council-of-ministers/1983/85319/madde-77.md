@@ -1,0 +1,1 @@
+Madde 77 – Çıkarılacak hastalara öğle yemeğiden sonra servis sorumlu hemşiresi tarafından eşyaları usulüne göre teslim edilir. Üzerlerinden çıkan kurum çamaşırları eksiksiz olarak teslim alındıktan sonra gönderilirler.

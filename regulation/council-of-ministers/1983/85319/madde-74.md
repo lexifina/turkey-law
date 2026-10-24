@@ -1,0 +1,1 @@
+Madde 74 – Yatan hastaların sağlık durumları müsait olduğu takdirde çok önemli hallerde servis tabibinin kabulü ve baştabibin muvafakatı ile engeç aynı gün saat 20'de dönmek kaydıyle izin verilebilir. İzinli çıkış işlemi hasta tabelası üzerinde yapılır ve biri izinli çıkacak hastada, biri kapıcıda kalmak üzere iki nüsha izin çıkış belgesi düzenlenir. (Ek 20 Form 71)

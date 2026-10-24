@@ -1,0 +1,4 @@
+Madde 11 – Polikliniklere başvuran hastalara sıra numarası verilir. Muayene buna göre yapılır. Ağır, acil, yaşlı hastalarla sakatlar ve adli vak'alar için sıra gözetilmez.
+Adli vak'alara, poliklinikte ve diğer gerekli işlemlerin tamamlanmasında, geçici ve kesin raporların düzenlenmesinde öncelik tanınır.
+Tüberkülozlu hastaların (acil vak'alar hariç) verem savaşı dispanserlerinden sevk edilmiş olmaları icap eder.
+Ayrıca yataklı tedavi kurumlarına, sağlık ocaklarından, koruyucu sağlık hizmeti yapan kuruluşlardan (verem savaş, ana çocuk sağlığı, trahom dispanserleri gibi) sevk edilen hastalarla, daha küçük bir tedavi kurumu, müdavi tabib veya müessese tabibi tarafından tıbbi bir zorunluluk icabı gönderilen hastalara polikliniklerde öncelik verilir. Bunlardan ve tüberkülozlu hastalardan yatırılmayanlara yapılan işlemlerle, tavsiye edilen tedaviler, ait oldukları ocak, dispanser veya ilgili kuruluşlara bildirilir.

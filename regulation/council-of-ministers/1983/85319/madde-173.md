@@ -1,0 +1,2 @@
+K – Bahçıvanın Görevleri:
+Madde 173 – Bahçıvan, kurum bahçesini bir plana göre düzenlemek, tarhlar vücude getirerek, çiçeklerle süslemek, ağaçlar dikip yetiştirmek, bahçenin yollarını temizlemek, çiçekleri sulamak, ağaçları vaktinde budamak ve mevsimine göre fide ve fidan yetiştirmek, gereken aşıları yapmakla yükümlüdür. Kendisine teslim edilen işi ile ilgili aletleri iyi kullanmak ve muhafaza etmekle görevlidir.

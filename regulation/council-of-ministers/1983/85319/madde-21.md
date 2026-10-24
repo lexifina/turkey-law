@@ -1,0 +1,3 @@
+II – Eğitim Planlama ve Koordinasyon Kurulu:
+Madde 21 – Eğitim hastanelerinde ayrıca baştabible birlikte genel dal yataklı tedavi kurumlarında 5, özel dal tedavi kurumları ile yataksız kurumlarda 3 şeften oluşan Eğitim Planlama ve Koordinasyon Kurulu kurulur. Kurum amiri kurulun başkanıdır. Üyeler arasından bir başkan yardımcısı seçilir. Başkanın bulunmadığı hallerde yardımcısı ona vekalet eder. Ayrıca aynı sayıda yedek üye de seçilir. Asil ve yedek üyeler kurumda mevcut şef ve şef yardımcıları tarafından gizli oyla seçilir. Üyelerin görev süresi 3 yıldır. Tekrar seçilebilirler.
+Bu kurul Tababet Uzmanlık Yönetmeliğinin 16. maddesi gereğince görev yapar.

@@ -1,0 +1,1 @@
+Madde 7 – Poliklinik muayenelerinde gizlilik prensiblerine riayet esastır. Burada, halkın gelenek ve ahlak kurallarına saygı gösterilir. Hastalar teker teker muayene edilir. Muayene esnasında poliklinik odasında tıp ve yardımcı tıp meslekleri personelinden başka kimsenin bulunmaması gerekir. Ancak hasta isterse ailesinden biri veya bir yakını bulunabilir.

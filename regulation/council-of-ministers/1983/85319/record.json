@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "gazette": "17927",
+  "history": "current-text",
+  "images": {
+    "deferred": 53,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 53
+  },
+  "in_force": "2026-10-24",
+  "in_force_basis": "source-printed amendment RG reference: RG-24/10/2026-33410",
+  "issuer": "Council of Ministers",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "listing_gazette": "17927 (Mükerrer)",
+  "listing_published": "1983-01-13",
+  "published": "1983-01-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=3&MevzuatNo=85319&MevzuatTertip=5",
+  "source_bytes": 753031,
+  "source_id": "3.5.85319",
+  "source_sha256": "3a939f142323520bb1bcc8db8449264002c524079b42bd69675609a209d31736",
+  "title": "YATAKLI TEDAVİ KURUMLARI İŞLETME YÖNETMELİĞİ",
+  "word_count": 25827
+}

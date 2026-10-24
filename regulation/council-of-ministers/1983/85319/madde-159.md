@@ -1,0 +1,2 @@
+M – Halkla İlişkiler Memurunun Görevleri:
+Madde 159 – Halkla ilişkiler memuru sosyal hizmet uzmanı bulunmayan kurumlarda müracaat ve halkla ilişkiler hizmetlerini yürütür. Bu takdirde hastane müdürüne bağlı olarak görev yapar. Sosyal hizmet uzmanı bulunan kurumlarda, sosyal hizmet uzmanına bağlı olarak çalışır. Hasta sahiplerini hastalarını aramaları için düzenlenen pano veya listelere giren veya çıkan hastaları muntazam işler, hastaların posta hizmetlerini düzenler.

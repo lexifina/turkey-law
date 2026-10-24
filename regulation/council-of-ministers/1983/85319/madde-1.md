@@ -1,0 +1,1 @@
+Madde 1 – Yataklı Tedavi Kurumlarında çeşitli hizmetlerin uygulama esaslarını, personelin görev, yetki ve sorumluluklarını belirlemek ve modern çağın icaplarına ve memleket gerçeklerine uygun, süratli, kaliteli, ekonomik bir hastane işletmeciliği sağlamakdır.

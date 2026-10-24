@@ -1,0 +1,2 @@
+B – Hayvan Yemleri:
+Madde 188 – Kurumlarda bakılmakta olan hizmet ve tecrübe hayvanlarıyle aşı ve serum üretiminde kullanılan bütün hayvanlar için ek cetvellerde gösterilen yemler verilir. Ancak bu yönetmelikte tesbit olan hayvanlardan başka bir hayvan beslenmesine veya cetvelde bulunmayan yem verilmesine lüzum hasıl olduğundan gerekli miktarlar baştabip veya kurum amiri tarafından saptanır. Tecrübe hayvanları için yem sanayinin hazırladığı yemlerden faydalanılabilir.

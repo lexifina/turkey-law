@@ -1,0 +1,3 @@
+Poliklinikte muayene edilen bütün hastalar kaydedilir. Ağır, acil ve adli vak'aların kuruma müracaat saatleri de mutlaka kaydedilir. (Ek 42 Form 101)
+B – Servis Hizmetleri:
+Madde 13 – Servis hizmetleri uzman, uzmanlık eğitimi görenler, hemşire ile eczacı, diyetisyen, fizyoterapist, psikoloğ gibi branşla ilgili diğer meslek mensupları tarafından birlikte yürütülen bir ekip çalışması olup, hastaya en iyi koşullarda, güvenilir araçlarla isabetli teşhisi koyarak, bakımının ve en kısa zamanda tedavisinin sağlanmasını, eğitim hastanelerinde ayrıca servis içi hasta başı eğitimlerini de gerçekleştirmeyi amaçlar. Bu ekibe kimlerin dahil edileceği dalın özelliğine göre ilgili şef veya uzmanın teklifi, baştabibin tasvibiyle saptanır.

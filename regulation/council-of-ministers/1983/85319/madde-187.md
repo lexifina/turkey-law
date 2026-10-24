@@ -1,0 +1,3 @@
+X – ÇEŞİTLİ HÜKÜMLER:
+A – Yakacak İstihkakı:
+Madde 187 – Kurumun her türlü yakıt istihkakı (kok, linyit, maden kömürü, fuel-oil, mazot ve ağır yağ) kurumun soba, kalorifer, termosifon, mutfak vesaire gibi yerlerdeki sarfiyatı, mevsim, iklim, kurum, yatak adedi, genişliği ve faaliyeti gözönüne alınmak suretiyle baştabip başkanlığında teknisyen ve ilgili memurlardan kurulu bir komisyon tarafından günlük olarak saptanır. Yakacak istihkakının günlük miktarı tüketim maddeleri günlük tabelasında (Ek:40 Form 91) gösterilmek suretiyle, hesabı ambar defterine işlenir. Ancak muhtelif sebeplerle istihkak olarak günlük tüketim maddeleri tabelası ile verildiği halde kullanılmayanlar tekrar ambara gelir olarak kaydolunur.

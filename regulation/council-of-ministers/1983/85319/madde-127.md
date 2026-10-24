@@ -1,0 +1,8 @@
+N – Radyasyon Fizikçisinin Görev ve Yetkileri:
+Madde 127 – Radyasyon fizikçisinin (Sağlık, fizikçisi) yüksek fizik mühendisi olması şarttır. Bitirdiği yüksek okul ders proğramında bu dersi okumuş ve mastır yapmış olanlar tercih edilir. Bulunmadığı takdirde bu konuda en az beş sene çalışmış olanlar tercih edilir. Birden fazla olduğu takdirde içlerinden en kıdemlisi şef olarak seçilir. Teşhis, tedavi, araştırmada radyoterapi uzmanının isteğine göre kullanılacak iyonize ışının cins ve kaynaklarını seçer.
+Radyoterapi uzmanından tedavi konusunda aldığı bilgiler ışığında hastanın tedavi planını yapar, izodoz eğrilerini çizer, planın uygulanmasında hazır bulunur.
+Radyasyon fizikçisi, radyo izotop maddeleri ve iyonize ışın kaynaklarını usulüne uygun olarak depo ve muhafaza eder.
+Bu madde ve kaynakları kullanılmaya hazırlar ve kullanma ve muhafaza yerlerine nakledilmesini sağlar. Uygulama esnasında gerekli korunma tedbirlerini alır. İzotoplu hastaları tecrit eder ve onlardaki izotop artıklarını zararsız hale getirir. Bu işlemde kullanılan alet ve malzemeyi radyo aktiviteden arıtarak yeniden kullanılacak hale getirir. İzotoplu cenazelerin muhafaza ve defnedilmesinde gerekli tedbirleri alır.
+Radyasyon fizikçisi, radyo aktif materyelle çalışanların ve iyonizan ışınların etkisine uğrayanların alabilecekleri maksimum dozları tespit ederek alınan ışının zararlı düzeye gelmesinden önce bu kimselerin radyoterapi uzmanının bilgisi altında tehlikeli sahadan uzaklaştırılmalarını sağlar.
+Laboratuvarda bulunan radyasyon cihaz ve kaynaklarını ışın bakımından kontrol ederek lüzum görülenlerin kalibrasyonunu yapar.
+Radyaterapi bölümünde bulunan uzmanlık eğitimi görenlerin ve teknik personelin eğitiminde radyoterapi uzmanına yardımcı olur.

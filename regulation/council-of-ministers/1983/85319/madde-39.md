@@ -1,0 +1,2 @@
+Madde 39 – Görevliler, sabah kahvaltısını göreve başlama saatinden evvel bitirmek zorunda olup, kurumun ve hastaların sabah temizliği, bakımları, hastaların kahvaltıları, nabız ve derecelerin alınması da saat 8.30 a kadar tamamlanır.
+Sabah kahvaltıları 7-7.30 arasında, öğle yemeği genel olarak 12.00-13.00 arasında, akşam yemekleri ise saat 18.00-19.00 arasında verilir. Özel diyet ve tecrübe yemekleri tabibin lüzum gösterdiği şekilde, tabelada yazıldığı saatlerde hemşire nezaretinde yedirilir.

@@ -1,0 +1,1 @@
+Madde 180 – Nöbetçi uzman tabibi servislerin akşam vizitelerinive yeni gelen hastaların muayenelerini yapar veya uzmanlık eğitimi görenlere yaptırır. Başhemşire tarafından kendisine verilecek olan listedeki ağır ve sürekli bakıma tabi hastaları izler, ve tedavi ve bakımları için gerekli önlemleri alır.

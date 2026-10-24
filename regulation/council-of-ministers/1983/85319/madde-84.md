@@ -1,0 +1,4 @@
+Madde 84 – Ölenin ailesi, yakınları cenazelerini almak isterlerse kendilerine imza karşılığı teslim edilir. Ancak cenazeyi gömecekleri yer ölümün vuku bulduğu belediye sınırları dışında ise, nakli için gerekli işlem yapılarak, alınan belgenin kurum idaresine ibrazı mecburidir.
+Medeni kanun hükümlerine göre kişilik kazanmamış ölü doğan çocuklar düşük mahsulleri ve ampute edilmiş organlar adli sakınca bulunmadığı ve aileleri tarafından, plasentalar ise tıbbi maksatlarla kullanılmak üzere ilgililerce alınmadıkları takdirde gömülür veya tesisatı olan kurumlarda fenni şekilde yok edilir. Bu takdirde olay bir tutanakla saptanır.
+Tıbbi ve hukuki sakınca bulunduğu hallerde cenaze, sahiplerine verilmez. Gerekenler kurum tarafından yapılır ve cenaze sahiplerine bilgi verilir.
+Polikliniklerde veya kurum dışında ölenler, baştabibin muvafakatı ile kurum morguna kabul edilebilirler.

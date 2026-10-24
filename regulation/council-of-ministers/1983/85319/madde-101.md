@@ -1,0 +1,10 @@
+B – Muayene ve Tesellüm:
+Madde 101 – Satınalma veya irsal yolu ile kuruma gelen bir malın muayene ve tesellümü, Ayniyat Talimatnamesi esaslarına göre muayene ve tesellüm komisyonu tarafından yapılır,
+a) Muayene ve tesellüm komisyonu: Hastane Müdürü (Bunun bulunmaması halinde baştabibin tayin edeceği kimsenin) başkanlığında, alınan malın ve yapılan işin özelliğine göre, bu konuda yetkili birinin (cihaz, alet ve tıbbi malzemede ilgili dal uzmanı tabib, ilaçlarda eczacı, gıda maddelerinde diyetisyen veya ahçı gibi) ve baştabibin tayin edeceği üç kişiden kurulur.
+b) Muayene ve tesellüm komisyonu, malın muayenesi ile birlikte tartırılarak veya sayılarak ambar veya depoya konulmasından sorumludur.
+Teslim alınan mal, muayene ve tesellümden sonra komisyonca (muayene ve tesellüm belgesi) düzenlenerek imza edilir.
+Günlük olarak alınan et, ekmek, sebze, süt, yoğurt gibi maddelerin muayene ve tesellümünde iki nüsha düzenlenecek girdi pusulalarının birer nüshası idare memurluğunca saklanır. Ay sonlarında veya tesbit edilen muayyen süre sonunda girdi pusulalarının toplamına göre muayene ve tesellüm belgesi düzenlenerek (a) fıkrasındaki komisyonca imzalanır.
+Muayene ve tesellüm işleri günlük çalışma saatleri içinde yapılır.
+c) Toptan veya parakende gelen odun, kömür, fuel-oil, mazot ve benzeri yakacak maddeleri, otomatik kantar tartı kartelasını havi olanlar kartela miktarına göre, bunun dışındakiler tartılarak, hastane müdürü, nöbetçi memuru ve anbar memurundan oluşan komisyonca muayene ve tesellüm edilir. (Ek 36 Form 87) Her defası için ikinüsha girdi pusulası düzenlenir ve imza edilir. Malın tamamı veya taksit miktarı tamamlandığında girdi pusulaları toplamına göre (a) fıkrasındaki komisyonca muayene ve tesellüm belgesi imzalanır ve buna göre ayniyat tesellüm makbuzu düzenlenir.
+d) Girdi pusulalarının diğer nüshası ayniyat tesellüm makbuzu dipkoçanına bağlanır.
+e) Sağlık ve Sosyal Yardım Bakanlığından veya diğer bir kurumdan gelen hertürlü malın irsaliyesindeki miktar ve evsafa uygunluğu (a) fıkrasındaki komisyonca tespit ve buna göre tesellüm edilir.

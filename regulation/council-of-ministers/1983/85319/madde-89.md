@@ -1,0 +1,3 @@
+R – MUTFAK VE BESLENME HİZMETLERİ:
+Beslenme Türleri:
+Madde 89 – Kurumlarda; kadrolarında bulunan tüm personel ile yönetmelikler gereği hastanede staj yapan öğrencilere ve hizmet içi eğitime gelen sağlık ve yardımcı sağlık personeline öğle yemeği, bunlardan kurumda yatanlarla bu yönetmeliğin ilgili maddelerindeki hükümlere göre sürekli olarak kurumda kalanlar ve nöbetçilere üç öğün yemek ve vardiye uygulanan kurumlarda vardiyaya kalan personele çalışma sürelerine isabet eden öğünlerde yemek verilir. (Ek cümle: RG-19/12/2018-30630-C.K.-477/1 md.) İlgili mevzuatı gereğince yataklı tedavi kurumlarında staj yapan öğrenciler, staj yaptıkları günlerle sınırlı olmak üzere hastalar için oluşturulmuş yemek servisinden ücret ödemeden yararlandırılır.

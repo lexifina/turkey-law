@@ -1,0 +1,1 @@
+Madde 179 – Nöbetçi uzman tabip, gündüz mesaisi bitiminde hastane müdürü tarafından kendisine verilecek nöbet ekibini ve diğer bütün görevlileri gösterir listeye göre, bunların görev başında bulunup bulunmadıklarını tesbit eder, denetler ve çalışmalarını sürekli izler.

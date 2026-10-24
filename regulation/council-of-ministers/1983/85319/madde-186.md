@@ -1,0 +1,2 @@
+F – Nöbetçi İdari Memurun Görev ve Yetkileri:
+Madde 186 – Nöbetçi idari memur, çalışma saati dışında, kurum kadrosunda bulunan bütün idari memurların görevlerini üzerine alır. Çıkarılan yardıma muhtaç hastaların sevkini sağlar, Teknisyenle birlikte hastanenin bütün bölümlerini dolaşarak idari ve teknik arızaların giderilmesini sağlar, önemli hallerde nöbetçi uzmanı durumdan haberdar ederek onun mütalaa ve direktifi dairesinde hareket eder. Nöbetçi idare memuru, nöbetinde idari işlerle uğraşanlarla nöbetçi teknisyenlerin birinci derecede amiridir.

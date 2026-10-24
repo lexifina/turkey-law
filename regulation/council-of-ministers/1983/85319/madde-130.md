@@ -1,0 +1,2 @@
+P – Başhemşire Yardımcısının Görev ve Yetkileri:
+Madde 130 – 100 Yataklı ve daha büyük kurumlarda baştabib tarafından mesleklerinde enaz beş yıl çalışmış ve iyi sicil almış hemşireler arasından standart kadroya aşmamak üzere yeteri kadar baş hemşire yardımcısı görevlendirilir. Başhemşire yardımcısı sürekli olarak kurumda kalabilir. Bu takdirde yiyecek ve yatacak kurumca sağlanır. Başhemşire yardımcısı, başhemşirenin vereceği görevleri yapmakla ve başhemşirenin bulunmadığı hallerde de kendisine vekalet etmekle yükümlüdür.

@@ -1,0 +1,2 @@
+Madde 82 – Ölüm vukuunda servis veya nöbetçi tabibi ölüm sebebini ve zamanını tesbitle tabelasına kayıt ve altına imza eder.
+Ölüm tesbitinden sonra servis tabibi veya nöbetçi tabib ve kurumda görevli iki kişi huzurunda ölünün yanında bulunan kişisel eşyası ve parası tesbit ve müfredatıyle tabelasına kayıt olunarak usulüne göre muhafaza edilir. Ölünün, tabelasındaki kimliği aynen delikli bir kartona yazılarak sağ ayağının başparmağına bağlanır ve cenaze gasılhaneye nakledilerek, özel defterine kaydı yapılır.

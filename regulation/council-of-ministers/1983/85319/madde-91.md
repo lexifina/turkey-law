@@ -1,0 +1,3 @@
+Madde 91 – Her gün hasta tabelalarına yazılan normal ve rejim yemekleri, servis sorumlu hemşiresi tarafından, hasta mevcudu, çıkacak yemeklerin tür ve miktarlarını gösterip şekilde değerlendirilmesi kolay bir cetvel halinde toplanarak imza edilmek suretiyle idareye verilir. (Ek 41 Form 92)
+Yardımcı sağlık hizmetleri personelinin izin ve vardiye durumları göz önüne alınarak yemek adedi başhemşire tarafından, diğer personel için hastane müdürü tarafından aynı esaslara göre birer cetvel tanzim edilir. (Ek 39 Form 90)
+Bunlar bir araya getirilerek hesaplanan, normal ve rejim rasyonu ile yiyeceklerin miktarları saptanarak günlük tüketim maddeleri tabelası düzenlenir (Ek 40 Form 91) ve ertesi günün erzakı saat 15.00 de buna göre çıkarılır.

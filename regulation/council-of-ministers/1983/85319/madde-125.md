@@ -1,0 +1,4 @@
+L – Sosyal Hizmetler Şefinin Görev ve Yetkileri:
+Madde 125 – Sosyal hizmet uzmanı; Sosyal Hizmetler akademisi veya muadili fakülte mezunu, kişilerle iyi ilişkiler kurabilecek ve kuruluşlar arasında iletişimi sağlayacak yetenekte sağlık personelidir. Birden fazla sosyal hizmet uzmanı bulunan kurumlarda içlerinden biri baştabiblikçe sosyal hizmetler şefi olarak görevlendirilir.
+Sosyal Hizmetler şefi: Kurumun ihtiyaçlarını gözönünde tutarak bölümünün hizmet proğramını hazırlamak, uygulamak ve yürütmekle yükümlüdür. Bölümündeki sosyal hizmetler uzmanları ile diğer personelin işbölümünü yapar ve çalışmalarını denetler.
+Sosyal hizmetler şefi, kurum içinde ve kurum dışında çeşitli meslek grupları ve kuruluşlarla ve teşhis, tedavi hizmetleri açısından diğer yataklı kurumlarla gerekli işbirliği ve koordinasyonu baştabibin bilgisi dahilinde sağlar. Bu hususların yerine getirilmesinde baştabibe karşı sorumludur.
