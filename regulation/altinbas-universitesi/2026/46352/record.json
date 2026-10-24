@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2026-10-24",
+      "24.10.2026",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "33410",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Altınbaş Üniversitesi",
+  "issuer_slug": "altinbas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/altinbas-universitesi/2026/46352",
+  "published": "2026-10-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46352&MevzuatTertip=5",
+  "source_bytes": 53568,
+  "source_id": "8.5.46352",
+  "source_sha256": "b944998d7020514c6a3c0c19b32d21f7fadcc9f7eb9e67ff1159f2360a051426",
+  "text_status": "as-enacted",
+  "title": "ALTINBAŞ ÜNİVERSİTESİ TOPLUM, KADIN VE AİLE ÇALIŞMALARI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 342,
+  "word_count": 1084
+}
