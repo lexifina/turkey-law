@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce 375 sayılı Kanun Hükmünde Kararnamenin ek 25 inci maddesine göre yapılmış olan geçici görevlendirmeler, görevlendirme süresi bitene kadar geçerliliğini korur.

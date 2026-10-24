@@ -1,0 +1,51 @@
+{
+  "id": "presidency-regulation-1025",
+  "number": "1025",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KURUMLAR ARASI GEÇİCİ GÖREVLENDİRME YÖNETMELİĞİ",
+  "published": "2019-05-03",
+  "enacted": "2019-05-02",
+  "gazette_number": "30763",
+  "in_force": "2026-10-24",
+  "in_force_basis": "Latest source commencement-table date: 2026-10-24; official source: 23/10/2026 | 11927 | 8, 10 | 24/10/2026 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=1025&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "26a6d2dea470d3a2e01dd6d7edc9f4c836c978f1cc8e8d13a00b3c471791e4eb",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 2,
+    "referenced": 0,
+    "omitted": 2
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1025_dosyalar/image001.png",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "ed5c1830cd619584c778ad339c2e327737bb0feababf6f36bd8ba416fc81ac90",
+      "response_bytes": 259936
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1025_dosyalar/image002.png",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "ed5c1830cd619584c778ad339c2e327737bb0feababf6f36bd8ba416fc81ac90",
+      "response_bytes": 259936
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}
