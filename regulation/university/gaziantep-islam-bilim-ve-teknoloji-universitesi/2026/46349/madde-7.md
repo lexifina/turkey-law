@@ -1,0 +1,3 @@
+Eğitim-öğretim yılı
+MADDE 7- (1) Fakültede eğitim-öğretim, Fakülte Kurulunun kararlaştırdığı ve Senatonun onayladığı akademik takvime göre yürütülür. Yarıyıl/yıl sonu sınavları, bütünleme sınavları ve tek ders sınıf geçme sınavı bu sürenin dışındadır. Ancak, Fakülte Kurulunun gerekli gördüğü durumlarda klinik uygulama dersleri akademik takvimde belirtilen teorik eğitim ve sınavlar ile ilgili süreyi aşabilir.
+(2) Bir eğitim-öğretim yılı, güz ve bahar yarıyılı olmak üzere on altı haftalık iki dönemden oluşur. Bu süre, gerektiğinde Fakülte Kurulunun kararı ve Senatonun onayı ile on dört haftadan az olmamak üzere değiştirilebilir.

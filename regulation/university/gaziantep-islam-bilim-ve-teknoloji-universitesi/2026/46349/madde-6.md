@@ -1,0 +1,2 @@
+Eğitim-öğretim süresi
+MADDE 6- (1) Fakültede eğitim-öğretim süresi beş yıldır. Öğrenciler, kayıtlı olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın lisans ve yüksek lisans derecesini birlikte veren programları azami sekiz yıl içinde başarı ile tamamlamak zorundadır. Bu öğrenim süresini başarı ile tamamlayan öğrencilere diş hekimliği diploması verilir.
