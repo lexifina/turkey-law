@@ -1,0 +1,8 @@
+Özel hükümler
+MADDE 7- (1) Başvurunun işleme alınabilmesi için yürürlükteki mevzuatta aksi yönde bir hüküm bulunmadıkça, başvuruya ait hizmet bedelinin tahsil edildiği tarihten itibaren altı ay içinde başvuru sahibi tarafından Bakanlığın ilgili birimine müracaat edilmesi zorunludur. Bu süre içerisinde müracaat edilmeyen başvurular işleme alınmaz ve tahsil edilen hizmet bedeli iade edilmez. Başvuru sürecinde Bakanlıkça istenilen bilgi ve belgelerin tamamlanması için geçen süre, altı aylık süreye dahil değildir. Başvurunun mücbir sebepler nedeniyle yapılamadığının belgelendirilmesi halinde belirlenen altı aylık süre, mücbir sebebin ortadan kalktığı tarihten itibaren hesaplanır.
+(2) İşlem tesis edilip sonuçlanan başvuruların yeniden değerlendirilmesinin talep edilmesi halinde, yeni başvuru hizmet bedelinin ödenmesi zorunludur.
+(3) Bakanlığın ilgili birimlerince başvurulara ilişkin tesis edilen işlemlerin idari yargı mercilerince iptal edilmesi halinde, daha önce tahsil edilen hizmet bedeli iade edilmez.
+(4) 18/11/1983 tarihli ve 2960 sayılı Boğaziçi Kanununda tanımlanan Boğaziçi Sahil Şeridi ve Öngörünüm Bölgesi için yapılan başvurularda, ücret tarifesinde belirtilen birim fiyatın iki katı ücret alınır.
+(5) Ücret tarifesinde belirtilen hizmet bedellerine yürürlükteki vergi mevzuatına göre hesaplanan katma değer vergisi ayrıca eklenir.
+(6) Aynı başvuru kapsamında birden fazla hizmet bedeli kaleminin doğması halinde, her bir işlem için ücret tarifesinde öngörülen bedel ayrı ayrı tahsil edilir; ancak aynı işleme ilişkin mükerrer tahsilat yapılamaz.
+(7) Başvuru bedelinin yanlış veya eksik yatırılması halinde eksiklik tamamlanıncaya kadar başvuru işleme alınmaz.
