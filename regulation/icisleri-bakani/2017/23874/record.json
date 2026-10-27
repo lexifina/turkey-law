@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.23874",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ LİSANSÜSTÜ ENSTİTÜLERİ KURULUŞ, GÖREV VE ÇALIŞMA ESASLARI İLE LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "number": "23874",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2017/23874",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23874&MevzuatTertip=5",
+  "source_sha256": "8577b362a4ab67983c4b39d47cbcb04b76faa77ff09fe8a031da6f27da90cb29",
+  "source_bytes": 212818,
+  "published": "2017-08-26",
+  "gazette": "30166",
+  "in_force": "2026-10-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-27",
+      "RG-27/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-27",
+      "27/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10083,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

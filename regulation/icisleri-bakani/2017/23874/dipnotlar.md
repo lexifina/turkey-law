@@ -1,0 +1,1 @@
+[1] 27/10/2026 tarihli ve 33413 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin adı “Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsü Kuruluş, Görev Ve Çalışma Esasları İle Lisansüstü Eğitim Öğretim Yönetmeliği” iken metne işlendiği şekilde değiştirilmiştir.
