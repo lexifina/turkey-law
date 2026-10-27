@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/52167",
+  "submitted": "2026-10-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali YÜKSEL",
+  "province": "Konya",
+  "summary": "2002'den bu yana yapılan özel kalem müdürü atamalarına ilişkin",
+  "status": "15 Günlük Cevaplanma Süresi Devam Ediyor",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/e7a0a52b-d942-4b89-8984-01a18142f60e",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "8c0cfc9cbb9161e63f34d706e9ac7fad79f01f70ab1f880bd8d87c240af9150d",
+  "in_force": "2026-10-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
