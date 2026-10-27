@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/52307",
+  "submitted": "2026-10-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Keziban KONUKCU KOK",
+  "province": "İstanbul",
+  "summary": "Ortak Yazılı Sınav Sistemi'ne ilişkin",
+  "status": "15 Günlük Cevaplanma Süresi Devam Ediyor",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f5beb619-8fc4-48f1-84b7-01a17d805738",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "c6f6a93a2028a7c64dd58885b4a89616950ab222840f25efdfd9d7d7030ff11e",
+  "in_force": "2026-10-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
