@@ -1,0 +1,8 @@
+Cep telefonu numarasının doğrulanması
+MADDE 7- (1) Bilgilendirilmiş rızanın elektronik ortamda alınabilmesi için hastanın doğrulanmış cep telefonu numarasının bulunması gerekir.
+(2) Bilgilendirilmiş rızanın e-Nabız üzerinden alınması halinde hastanın cep telefonu numarasının e-Nabız vasıtasıyla doğrulanmış olması gerekir. Doğrulanmış cep telefonu numarasının e-Nabızda bulunmaması halinde cep telefonu numarası e-Nabızda yer alan ilgili alan üzerinden girilir. Sonrasında hastanın cep telefonuna gönderilen SMS OTP çevrimiçi olarak sisteme girilerek cep telefonu numarası doğrulanır.
+(3) Bilgilendirilmiş rızanın sağlık tesisinin elektronik haberleşme aracı üzerinden alınacağı durumlarda; sağlık tesisinin SBYS’sinde hastaya ait doğrulanmış bir cep telefonu numarasının bulunması gerekir. Sağlık tesisinin SBYS’sinde hastanın doğrulanmış cep telefonunun bulunmadığı durumlarda aşağıdaki usul ve işlemlere göre hastanın cep telefonu numarası doğrulanır:
+a) Hastaya cep telefon numarasının doğrulanması amacıyla SMS OTP gönderilir.
+b) Gönderilen SMS OTP hasta tarafından ilgili sağlık meslek mensubuna beyan edilir.
+c) Sağlık meslek mensubu SMS OTP’yi sağlık tesisinin elektronik haberleşme aracı vasıtasıyla çevrimiçi olarak iletir.
+ç) Bu yolla doğrulanan cep telefonu numarası, bilgilendirilmiş rızanın elektronik ortamda alınmasında kullanılmak üzere, doğrulama tarihinden itibaren 12 ay süre ile sağlık tesisinin kayıtlarına doğrulanmış cep telefonu numarası olarak kaydedilir. 12 aylık sürenin bitiminden sonra elektronik haberleşme aracı vasıtasıyla hastanın bilgilendirilmiş rızasına başvurulması halinde sağlık tesisi tarafından hastanın cep telefonu numarasının tekrar doğrulanması gerekir.
