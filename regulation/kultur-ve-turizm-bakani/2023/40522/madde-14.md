@@ -1,0 +1,3 @@
+Düzenleme yetkisi
+MADDE 14- (1) Uygulamada doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye, ilke ve standartları belirlemeye, uygulama birliğini sağlayacak gerekli düzenlemeleri yapmaya, bu hususta her türlü bilgi ve belgeyi istemeye ve bu Yönetmelikte yer almayan konularda karar vermeye Bakanlık yetkilidir.
+(2) Bakanlık, Kanunun 4 üncü maddesinin birinci fıkrasının (e) bendinin etkin şekilde uygulanmasını teminen, izin belgesi olmayan konutların tanıtım ve pazarlama içeriklerinin kaldırılmasına yönelik uyarıyı çevrim içi sistemler üzerinden aracı hizmet sağlayıcılara iletebilir (Ek ibare:RG-26/7/2024-32613) , ilgili kamu kurum ve kuruluşları, seyahat acentaları ve aracı hizmet sağlayıcıları ile veri paylaşımı yapabilir.
