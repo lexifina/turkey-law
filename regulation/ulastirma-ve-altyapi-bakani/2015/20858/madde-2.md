@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik hükümleri, 4/4/1990 tarihli ve 3621 sayılı Kıyı Kanunu ve ilgili mevzuatında belirtilmiş olan iç sular, kıyı ve sahil şeridi ile dolgu ve kurutma yoluyla kazanılan alanlar üzerinde, imar planı kararı ile belirlenen mevcut ve yeni kurulacak olan tesislere uygulanır.
+(2) (Değişik:RG-29/12/2017-30285) Bu Yönetmelik hükümleri aksi belirtilmedikçe; kıyı ve sahil şeridi ile dolgu ve kurutma yoluyla kazanılan alanlar dışındaki tesisler, tüm sanayi bölgelerindeki tesisler, serbest bölgelerdeki tesisler, balıkçı barınakları içerisindeki çekek yerleri, yat limanı içerisindeki çekek yerleri, askerî tesisler, Sahil Güvenlik Komutanlığına ait tesisler ve polis tesisleri hakkında uygulanmaz.

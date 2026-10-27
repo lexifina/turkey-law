@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Yüzer Havuz İşletme Ön İzni, İzin, Devir ve Unvan Değişikliği Başvuruları ile
+Değerlendirme Esasları
+Yüzer havuz işletme ön izni belgesi başvurusu ve değerlendirme esasları
+MADDE 13 – (1) Tesis işleticisi, yüzer havuzun satın alma veya inşa ve/veya kiralama işlemleri öncesinde, yüzer havuzun tesiste konuşlandırılabileceğine dair İdareden yüzer havuz işletme ön izni alır. Tesis işleticisi ön izni almak için ek-5’ teki bilgi ve belgelerle İdareye başvurur.
+(2) (Değişik:RG-4/1/2020-30998) İdarece, ek-5’teki bilgi ve belgeler ile birlikte İTDK tarafından mahallinde yapılan inceleme sonucu hazırlanan rapor üzerinden değerlendirme yapılır. Konuşlandırılması uygun görülen yüzer havuza ilişkin yüzer havuz bağlama planı İdarece onaylanarak yüzer havuz konuşlandırılması için yüzer havuz işletme ön izni verilir. Verilen izin, veriliş tarihinden itibaren altı ay geçerlidir. Başvurulması halinde, verilen yüzer havuz işletme ön izni süresi, yüzer havuzun tesiste inşa edilmesi durumunda 2 yıla kadar, yüzer havuzun satın alınması durumunda da 1 yıla kadar ilave bilgi belge olmaksızın İdarece uzatılabilir. Bu süreler sonunda yüzer havuz işletme izni belgesi alınmayan yüzer havuzlar için verilen yüzer havuz işletme ön izni iptal edilmiş sayılır.
+(3) Yüzer havuz işletme ön izni verilen yüzer havuz dışında İdareden izin alınmadan başka bir yüzer havuz getirilemez. Ancak yüzer havuz işletme ön izni verilen yüzer havuzun boyutlarından daha küçük başka bir yüzer havuzun söz konusu olması durumunda ek-5’deki bilgi ve belgelerin İdareye sunulması ve yüzer havuzun daha önce uygun görülmüş konum dışına taşmaması kaydıyla verilmiş olan yüzer havuz işletme ön izni geçerli sayılır.
+(4) Yüzer havuz İdarenin vermiş olduğu yüzer havuz işletme ön izni doğrultusunda onaylı yüzer havuz bağlama planına göre konuşlandırılır.
+(5) Yüzer havuz bağlama planı ek-2’deki yer alan örnekte olduğu gibi hazırlattırılır.

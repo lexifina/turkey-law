@@ -1,0 +1,2 @@
+Kapsam dışı tesisler
+GEÇİCİ MADDE 3 – (1) (Değişik:RG-29/12/2017-30285) Askeri tesisler, Sahil Güvenlik Komutanlığı tesisleri ve polis tesisleri hariç, 13/2/2009 tarihinden önce faaliyette bulunan kapsam dışı tesisler, ilgili kurumlarından alınmış veya alınacak faaliyet konusuna uygun iş yeri açma ve çalışma ruhsatı ve/veya faaliyet izni gibi belgelerini (Değişik ibare:RG-25/12/2020-31345) 31/12/2021 tarihine kadar İdareye ibraz etmek zorundadır.

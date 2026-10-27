@@ -1,0 +1,5 @@
+Yeni tesis kurma ve modernizasyona yönelik tevsi yatırım başvurusu
+MADDE 6 – (1) Yeni tesis kurma ve modernizasyona yönelik tevsi yatırımlarda yatırımcı, ilgili mevzuatına göre imar planı ve ön izin verilmesi, irtifak hakkı tesis edilmesi ve/veya kullanma izni verilmesi işlemlerini sonuçlandırır.
+(2) Yeni tesis kurma aşamasında İdarenin görüşü 5 inci madde kapsamında oluşturulur.
+(3) Mevcut tesis için, onaylı imar planı bulunan ve tahsisi yapılmış alanlar üzerinde tevsi veya modernizasyon talebi bulunan yatırımcılar, ek-1’deki formata uygun hazırlattığı revize tesis organizasyonu ve yerleşim planını idareye onaylatır.
+(4) Yeni tesis için, imar plan onayı ve ön izin verilmesi, irtifak hakkı tesis edilmesi ve/veya kullanma izni verilmesi işlemlerini tamamlayan yatırımcı, ek-1’deki formata uygun olarak hazırlattığı tesis organizasyonu ve yerleşim planı onayı ve yatırım iş ve işlemleri ile bunlara ait prosedürü tamamladıktan sonra kısmi işletme izni belgesi veya işletme izni belgesi almak üzere İdareye başvurur.

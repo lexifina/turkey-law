@@ -1,0 +1,13 @@
+Tesis kira ve devir başvuruları ve değerlendirme esasları
+MADDE 15 – (1) Maliye Bakanlığı tarafından lehlerine irtifak hakkı tesis edilen ve/veya adlarına kullanma izni verilen ve yatırımı tamamlanmış tesislere ilişkin sahiplik/hisselerin kısmen veya tamamen üçüncü kişilere devrine yönelik başvurular Maliye Bakanlığına yapılır. İdarenin uygun görüşü alınmak suretiyle Maliye Bakanlığınca ilgili mevzuatı çerçevesinde izni verilebilir.
+(2) Tesis işleticisi, yer tahsisini yapan ilgili kurumca alınmış taahhütname ya da sözleşmede bağlayıcı bir hüküm bulunmaması halinde, idarenin uygun görüşünü ve ilgili kurum veya kuruluşların iznini almak kaydı ile tesisin tamamını kiraya verebilir. Bu durumda yeni sahip tesis işleticisi sayılır.
+(3) Devir alacak veya kiralayacak tüzel veya gerçek kişilik aşağıdaki bilgi veya belgeler ile İdareye başvurur;
+a) Başvuru dilekçesi,
+b) Devir sözleşmesi aslı veya idarece onaylı örneği,
+c) Tüzel kişiliğe ait bu Yönetmelik kapsamında faaliyet konusuna uygun Ticaret Sicil Gazetesi veya gerçek kişiye ait sicil belgesinin aslı veya idarece onaylı örneği ve T.C. kimlik numarası beyanı,
+ç) (Değişik ibare:RG-17/4/2022-31812) Sicil tasdiknamesinin aslı veya idarece onaylı örneği ve yetki belgesi.
+(4) İdare, yukarıdaki bilgi veya belgelerin değerlendirilmesi sonucunda, devir işlemlerine ilişkin görüşünü 15 gün içerisinde ilgili kurum veya kuruluşlara bildirir.
+(5) (Değişik:RG-27/10/2026-33413) Devir veya kiralamanın gerçekleşmesine müteakip devir alan veya kiralayan gerçek veya tüzel kişi tesis yetkilisi olarak işletme izni belgesi veya kısmi işletme izni belgesine ve yüzer havuz mevcutsa yüzer havuz işletme izni belgesine başvurur. Bu madde kapsamında devir veya kiralamaya konu daha evvel kısmi veya işletme izni belgesi almış tesisler için kısmi işletme izni belgesi talep edilebilir. İTDK tarafından yapılacak denetim neticesinde bu Yönetmelik gereklerinin karşılandığının tespit edildiği hallerde tesis için bir defaya mahsus olmak üzere iki yıl geçerli kısmi işletme izni belgesi düzenlenir. Gerçek veya tüzel bir kişiye ait bir taşınmazın devri ve kiralanması halinde de kısmi işletme izni belgesi talep edilebilir.
+(6) (Değişik:RG-27/10/2026-33413) İşletme izni veya kısmi işletme izni belgesiyle faaliyet gösteren tesisin faaliyet gösterdiği taşınmazlardaki değişiklikler tesis organizasyonu ve yerleşim planı ile varsa bağlama planına işlenir. Taşınmaz ile kapasite değişiklikleri bir sonraki ara denetim veya belge talebine yönelik gerçekleştirilen denetimde dikkate alınır. Gerektiği hallerde işletme izni, kısmi işletme izni ve yüzer havuz işletme izni belgesi yeniden düzenlenir.
+(7) (Mülga:RG-27/10/2026-33413)
+(8) (Mülga:RG-27/10/2026-33413)

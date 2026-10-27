@@ -1,0 +1,3 @@
+Mevcut tesisler
+GEÇİCİ MADDE 1 – (1) (Değişik:RG-4/1/2020-30998) Kısmi işletme izni belgesi almış olan mevcut tesislerin kısmi işletme izni belgesi geçerlilik süresi (Değişik ibare:RG-25/12/2020-31345) 31/12/2021 tarihine kadardır. Bu tarihten sonra işletme izni belgesi almaksızın faaliyetlerine devam edecek olan tesislere Yönetmeliğin 22 nci maddesinin üçüncü fıkrası kapsamında işlem tesis edilir.
+(2) Mevcut tesislerden işletme izni belgesi alıp da, belgelerinde tarih bulunmayanların belgeleri bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren (Değişik ibare:RG-25/12/2020-31345) altı yıl geçerlidir.
