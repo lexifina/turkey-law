@@ -1,0 +1,8 @@
+MENAFİİ UMUMİYEYE MÜTEALLİK İMTİYAZAT
+HAKKINDAKİ 10 HAZİRAN 1326 TARİHLİ KANUNA
+BAZI MADDELER TEZYİLİNE VE BU KANUNUN
+BAZI MADDELERİNİN İLGASINA DAİR KANUN
+Kanun Numarası : 2025
+Kabul Tarihi : 25/6/1932
+Yayımlandığı Resmî Gazete : Tarih: 2/7/1932 Sayı: 2139
+Yayımlandığı Düstur : Tertip: 3 Cilt: 13 Sayfa: 564
