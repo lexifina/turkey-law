@@ -1,0 +1,4 @@
+[1] 8/7/1937 tarih ve 3116 sayılı Orman Kanunu ile bununla ilgili 24/3/1950 tarih ve 5653 sayılı Kanun, 31/8/1956 tarih ve 6831 sayılı Orman Kanununun 117. maddesi ile yürürlükten kaldırılmış; mezkür 3116 sayılı Kanunla ilgili olmalarına rağmen bu Kanun ile 24/3/1950 tarih ve 5658 sayılı kanun yürürlükten kaldırılmamış olduklarından külliyata alınmışlardır.
+[2] Bu maddenin 2 nci cümlesinden başlayan ve yapı ve tesislerin karşılığını, 1936 bütçe yılı bina vergisine matrah olan safi iratları esas alarak düzenleyen hükümleri Anayasa Mahkemesinin 23/6/1963 tarih ve E. 1963/141 K.1964/50 sayılı kararıyla iptal edilmiştir.
+[3] Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine bakınız.
+[4] 2/7/2018 tarihli ve 698 sayılı KHK’nin 20 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
