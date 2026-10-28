@@ -1,0 +1,1 @@
+Geçici Madde 2 – Bu Kanunun yayımı tarihinden itibaren bir yıl içinde, Hakimler ve Savcılar Kanununun 40 ıncı maddesine göre mesleğe yeniden atanma için başvuranlar hakkında, sözü edilen maddenin son fıkrası hükmü uygulanmaz.

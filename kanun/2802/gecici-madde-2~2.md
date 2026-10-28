@@ -1,0 +1,1 @@
+Geçici Madde 2 – Halen görevde bulunan hakim ve savcıların evvelce hakim adaylığında geçen iki yıldan fazla süreleri, geçmişe yönelik bir hak doğurmamak kaydıyla kadro şartı aranmaksızın değerlendirilerek derece ve kademeleri tesbit edilir.

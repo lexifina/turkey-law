@@ -1,4 +1,4 @@
-III. Kira ilişkisinin devri
+III. Kira ilişkisinin devri [2]
 MADDE 323- Kiracı, kiraya verenin yazılı rızasını almadıkça, kira ilişkisini başkasına devredemez. Kiraya veren, işyeri kiralarında haklı sebep olmadıkça bu rızayı vermekten kaçınamaz.
 Kiraya verenin yazılı rızasıyla kira ilişkisi kendisine devredilen kişi, kira sözleşmesinde kiracının yerine geçer ve devreden kiracı, kiraya verene karşı borçlarından kurtulur.
 İşyeri kiralarında devreden kiracı, kira sözleşmesinin bitimine kadar ve en fazla iki yıl süreyle devralanla birlikte müteselsilen sorumlu olur.

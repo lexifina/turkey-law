@@ -1,3 +1,3 @@
-Karşılık davalar ve davaya müdahale :
+Karşılık davalar ve davaya müdahale:
 Madde 6 – Karşılık davalar, müstakil davalar gibi harca tabidir.
 Davaya müdahale eden kimse, kanun yollarına müracaat ederse iltihak ettiği taraftan alınan harca eşit harcı ödemek mecburiyetindedir.

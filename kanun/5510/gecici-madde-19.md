@@ -1,0 +1,3 @@
+Aylık alanlardan kesilecek sağlık sigortası primi
+GEÇİCİ MADDE 19 – (Ek: 17/4/2008-5754/73 md.; Değişik: 13/2/2011-6111/50 md.)
+1479 ve 2926 sayılı kanunlara göre aylık almakta olanlarla 4 üncü maddenin birinci fıkrasının (b) bendi kapsamında çalışmaları nedeniyle geçici 2 nci maddeye göre aylık bağlanacaklara aylık bağlamaya esas tüm hizmetleri süresince on yıl süreyle hastalık sigortası veya sağlık sigortası veya genel sağlık sigortası primi ödememiş olanlardan, hastalık sigortası, sağlık sigortası ve genel sağlık sigortası primi kesilmiş olan süreler düşülmek kaydıyla, aylıklarının %10’u oranında ve 10 yılı tamamlayacak süreyle genel sağlık sigortası primi kesilir. Ancak, bu maddenin yürürlük tarihinden önce yapılan kesintiler iade edilmez.

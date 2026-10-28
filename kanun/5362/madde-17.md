@@ -1,2 +1,2 @@
 Birliğin çalışma bölgesi
-Madde 17 - Birlik çalışma bölgesi kurulduğu ilin idari sınırlarıdır. Çalışma bölgesindeki odalar faaliyetlerinden dolayı birliğe karşı sorumludurlar.
+Madde 17- Birlik çalışma bölgesi kurulduğu ilin idari sınırlarıdır. Çalışma bölgesindeki odalar faaliyetlerinden dolayı birliğe karşı sorumludurlar.

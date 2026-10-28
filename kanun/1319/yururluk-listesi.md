@@ -1,20 +1,22 @@
-GÖSTERİR LİSTE
-Yürürlükten Kaldıran Mevzuatın
-Yürürlükten Kaldırılan
-Kanun veya Kanun Hükümleri Tarihi Sayısı Maddesi
-1319 sayılı Kanunun;
-7 nci maddesinin 3 ve 4 üncü fıkraları 17/7/1972 1610 3
-33 üncü maddesinin son fıkrası 17/7/1972 1610 23
-27 nci maddesinin 2 nci fıkrası ve 34 üncü madde 8/12/1980 2350 6
-6245 sayılı Harcırah Kanununun 41 inci maddesi ile bu kanuna bağlı (2) sayılı cetvel,
-25/4/1963 tarih ve 226 sayılı Kanun,
-22/6/1971 tarih ve 1416 sayılı 13/1/1972 tarih ve 1511 sayılı Harcırah Kanununa ek kanunlar,
-1765 sayılı Üniversite Personel Kanununun değişik 13 üncü maddesi,
-1319 sayılı Emlak Vergisi Kanununun geçici 5 inci maddesi,
-1309 sayılı Devlet Opera ve Balesi Genel Müdürlüğü Kuruluşu Hakkında Kanunun 15 inci ve 5441 sayılı Devlet Tiyatrosu Kuruluşu Hakkında Kanuna 1310 sayılı Kanunla eklenen Ek 2 nci maddelerinin "Yurt içi Turne Faaliyetlerine Katılacaklara Ödenecek Harcırah Yevmiye
-sinin Tespitine ilişkin" hükümleri 11/12/1981 2562 28
-1319 sayılı Kanunun, 6 ncı maddesi ile 30 uncu madde-
-sinin 2 nci fıkrası ve 31 inci maddesinin 3 üncü fıkrası 4/12/1985 3239 141
-1319 sayılı Kanunun mükerrer 8,35,39 maddeleri ile 10
-ve 20 nci maddelerinin ikinci fıkralarının son cümleleri 22/7/1998 4369 82
-4706
+1319 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
+YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE
+Değiştiren Kanunun Numarası | 1319 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri | Yürürlüğe Giriş Tarihi
+1446 | 20, 38, 41, Geçici Madde 1, Geçici Madde 2, Geçici Madde 6, Geçici Madde 7, Geçici Madde 8 | 1/3/1971
+1610 | 2, 8 | 1/3/1971
+4, 5, 7, 9, 10, 12, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 30, 31, 32, 33, 41, Geçici Madde 9, Geçici Madde 10 | 1/3/1972
+2104 | 41 | 17/7/1972
+2350 | Geçici Madde 11, Geçici Madde 12, Geçici Madde 13 | 11/12/1980
+4, 6, 8, 23, 26, 27, 30, 32, 35, 36, 40 | 1/3/1981
+2380 | 38 | 1/3/1981
+2536 | 4, 14 | 1/3/1982
+2562 | Geçici Madde 5 | 1/3/1982
+2587 | 2, 3, 4, 5, 6, 7 | 1980 genel beyan dönemini izleyen ilk genel beyan döneminin rasladığı Bütçe yılının başında
+8, 10, 16, 18, 20, 32, 35 | 27/1/1982
+3208 | 6, 16, 39 | 1983 genel beyan dönemini izleyen ilk genel beyan döneminin rasladığı yılın başında
+20, 23 | 4/6/1985
+3239 | Bu Kanunun birinci bölümünün araziye ait, asgari ölçüde birim değer tesbiti için yeniden kurulan TAKDİR KOMİSYON'ları arazi ile ilgili diğer hükümleri ve yoklamadan maksat ve yoklama memurlarına ilişkin hükümleri, | 11/12/1985
+Arsalara ait asgari ölçüde birim değer tesbiti için yeniden kurulan Takdir Komisyonları ile ilgili hükümleri | 1/3/1986
+Bu Kanunun beşinci bölümünün, 96 ncı maddesiyle 492 sayılı Kanunun 8 sayılı tarifesine eklenen telsiz harçlarına ait hükümleri (Yıllık Harçlara ait hükümleri hariç) | 7/10/1983 tarihinden geçerli olmak üzere, 11/12/1985
+107, 115, 119, 126, 132, 133, 134, 135, Geçici Madde 2, Geçici Madde 3, Geçici Madde 4 | 11/12/1985
+Bu kanunun Bakanlar Kuruluna ve Maliye ve Gümrük Bakanlığına yetki veren hükümleri | 1/1/1986 tarihinden geçerli olmak üzere 11/12/1985
+Bu kanunun diğer hükümleri | 1/1/1986

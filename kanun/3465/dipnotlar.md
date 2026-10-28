@@ -1,0 +1,4 @@
+[1] 25/6/2010 tarihli ve 6001 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “yolculukla ilgili tesislerin” ibaresi “hizmet tesislerinin” olarak değiştirilmiştir.
+[2] 25/6/2010 tarihli ve 6001 sayılı Kanunun 41 inci maddesiyle, bu maddenin (a) bendinde yer alan “Bayındırlık ve İskân Bakanını” ibaresi “Ulaştırma Bakanını”, (b) bendinde yer alan “Bayındırlık ve İskân Bakanlığını” ibaresi “Ulaştırma Bakanlığını” olarak değiştirilmiştir.
+[3] 25/6/2010 tarihli ve 6001 sayılı Kanunun 41 inci maddesiyle, bu 4 üncü maddenin (a) ve (b) bentlerinde yer alan “yolculukla ilgili” ibareleri madde metninden çıkarılmıştır.
+[4] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 41 inci maddesiyle bu fıkrada yer alan “Bakanlıkça hazırlanıp Bakanlar Kurulu kararı ile” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.

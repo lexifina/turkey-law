@@ -1,0 +1,3 @@
+[1] 17/6/2021 tarihli ve 7328 sayılı Kanunun 1 inci maddesiyle bu fıkraya (1) numaralı bentten sonra gelmek üzere (2) numaralı bent eklenmiş ve diğer bent numaraları buna göre teselsül ettirilmiş ve fıkranın mevcut (3) numaralı bendine “Başkanlığına,” ibaresinden sonra gelmek üzere “Kamu Denetçiliği Kurumuna, Türkiye İnsan Hakları ve Eşitlik Kurumuna,” ibaresi eklenmiş ve aynı bentte yer alan “görev alanına giren bir şikâyet konusu bulunduğu takdirde” ibaresi madde metninden çıkarılmıştır.
+[2] 20/11/2007 tarihli ve 5712 sayılı Kanunun 3 üncü maddesiyle bu fıkrada geçen “iki” ibaresi “üç” olarak değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.

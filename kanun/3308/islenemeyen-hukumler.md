@@ -1,4 +1,5 @@
-5/6/1986 TARİHLİ VE 3308 SAYILI ANA KANUNA İŞLENEMEYEN HÜKÜMLER
+5/6/1986 TARİHLİ VE 3308 SAYILI ANA KANUNA
+İŞLENEMEYEN HÜKÜMLER
 1) 25/6/1992 tarihli ve 3824 sayılı Kanunun geçici maddesi:
 Geçici Madde 1 – a) 1992 takvim yılında yıllık beyanname ile beyan edilecek kazanç ile iratlar,
 b) Ölüm ve memleketi terk nedeniyle 1992 takvim yılında yıllık beyanname ile beyan edilen kazanç ve iratlar,
@@ -6,5 +7,5 @@ c) 1992 yılında münferit ve özel beyannamelerle beyan edilen kazanç ve irat
 d) 1992 takvim yılına ilişkin götürü matrahlar,
 e) 1992 takvim yılında Gelir Vergisi Kanununun 94 üncü maddesi ile Kurumlar Vergisi Kanununun 24 üncü maddesi kapsamında yapılan ödemeler.
 Üzerinden hesaplanan gelir ve kurumlar vergilerinden ayrılacak fon payları hakkında, 7.11.1985 tarihli ve 3238 sayılı, 29.5.1986 tarihli ve 3294 sayılı, 5.6.1986 tarihli ve 3308 sayılı Kanunların ilgili hükümlerinin uygulanmasına devam olunur.
-2) 29/6/2001 tarihli ve 4702 sayılı Kanunun Geçici Maddesi:
+2) 29/6/2001 tarihli ve 4702 sayılı Kanunun geçici maddesi:
 Geçici Madde 1 – Bu Kanunla ilgili yönetmelikler, Kanunun yayımı tarihinden itibaren bir yıl içerisinde çıkarılır. Bu Kanunun uygulanmasına ilişkin yönetmelikler çıkarılıncaya kadar mevcut yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam edilir.

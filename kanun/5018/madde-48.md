@@ -1,0 +1,4 @@
+Mal yönetiminde etkililik ve sorumluluk
+Madde 48- Kamu idareleri, taşınırların yönetimi, kaydı, muhafazası ve kullanımından sorumludurlar. Taşınırların özelliğinden veya olağan kullanımından kaynaklanan yıpranma ile usulüne uygun olarak belirlenen firelerden dolayı sorumluluk aranmaz.
+Kullanılmak üzere taşınır teslim edilen görevliler, taşınırın korunmasından ve taşınıra verilen zararlardan sorumludur. Kamu idareleri, verilen zararların sorumlularına ödettirilmesini sağlamakla yükümlüdür.
+Kamu idarelerine ait malları edinme, kiralama, tahsis, yönetim, kullanma ve elden çıkarma işlemleri, mevzuatında öngörülen kurallar dahilinde hizmetin amacına uygun olarak verimlilik ve tutumluluk ilkesine göre yapılır. Bu ilkeye aykırı eylem ve işlemlerden doğacak zararlardan, malların yönetimi veya kullanılması hususunda yetki verilenler sorumludur.

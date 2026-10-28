@@ -1,0 +1,1 @@
+Geçici Madde 4 – Bu Kanunun 2802 sayılı Hakimler ve Savcılar Kanununun 13 üncü maddesinin ikinci fıkrasında değişiklik yapan hükmü, bu Kanunun yürürlüğe girdiği tarihten önce adaylıktan Danıştay tetkik hakimliğine atanmış idari yargı hakimleri hakkında da uygulanır.

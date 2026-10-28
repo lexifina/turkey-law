@@ -1,0 +1,7 @@
+[1] 2/7/2018 tarihli ve 703 sayılı KHK’nin 36 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu üyeleri” ibaresi “Cumhurbaşkanı Yardımcıları ve Bakanlar” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 36 ncı maddesiyle, bu maddenin birinci fıkrasında yer alan “Başbakanlık bünyesinde” ibaresi madde metninden çıkarılmış ve ikinci fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 36 ncı maddesiyle, 2 inci maddenin dördüncü fıkrasında yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde, “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde, altıncı fıkrasında yer alan “Başbakanlık Personel ve Prensipler Genel Müdürlüğü” ibaresi “Çalışma, Sosyal Hizmetler ve Aile Bakanlığı” şeklinde ve sekizinci fıkrasında yer alan “Başbakanlık” ibaresi “Çalışma, Sosyal Hizmetler ve Aile Bakanlığı” şeklinde değiştirilmiştir.
+[4] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “sakatlık” ibaresi “engellilik” olarak değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 36 ncı maddesiyle, bu fıkrada yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı ve Çalışma, Sosyal Hizmetler ve Aile Bakanlığı” şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 36 ncı maddesiyle, bu maddede yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[7] 2/7/2018 tarihli ve 703 sayılı KHK’nin 36 ncı maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.

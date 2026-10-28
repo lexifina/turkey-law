@@ -1,5 +1,5 @@
 Milletvekili Hizmetleri Başkanlığı
-MADDE 12 – (1) Milletvekili Hizmetleri Başkanlığının görevleri şunlardır:
+MADDE 12- (1) Milletvekili Hizmetleri Başkanlığının görevleri şunlardır:
 a) Milletvekillerinin ödenek, yolluk ve emeklilik işlemleri ile diğer özlük ve sosyal haklarına ilişkin işlemleri yapmak.
 b) Milletvekillerinin sağlık harcamalarına ilişkin belgeleri incelemek ve ödemelerin yapılabilmesi için gerekli işlemleri yerine getirmek.
 c) Milletvekillerinin sekretarya ve halkla ilişkiler hizmetlerini yerine getirmek.

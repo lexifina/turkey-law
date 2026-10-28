@@ -1,6 +1,6 @@
 DÖRDÜNCÜ KISIM
 İhale İşlerinde Yasaklar ve Sorumluluklar
-Yasak fiil ve davranışlar :
+Yasak fiil ve davranışlar:
 Madde 83 – İhale işlemlerinin hazırlanması, yürütülmesi ve sonuçlandırılması sırasında;
 a) Hile, desise, vait, tehdit, nüfuz kullanma ve çıkar sağlama suretiyle veya başka yollarla ihaleye ilişkin işlemlere fesat karıştırmak veya buna teşebbüs etmek,
 b) Açık teklif ve pazarlık usulü ile yapılan ihalelerde isteklileri tereddüde düşürecek veya rağbeti kıracak söz söylemek ve istekliler arasında anlaşmaya çağrıyı ima edecek işaret ve davranışlarda bulunmak veya ihalenin doğruluğunu bozacak biçimde görüşme ve tartışma yapmak,

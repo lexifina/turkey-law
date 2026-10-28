@@ -1,0 +1,1 @@
+Geçici Madde 3 – Hakim ve Savcı adayları eğitim merkezi tesisleri, alınan tüm adaylara hizmet verebilecek şekilde ikmal edilinceye kadar, 7 nci maddeye göre atanmış olan adayların eğitim merkezine kabulleri, eğitim merkezinin kapasitesi gözönünde tutularak Adalet Bakanlığınca tesbit edilecek esaslar dairesinde yapılır.

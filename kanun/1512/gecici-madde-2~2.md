@@ -1,0 +1,1 @@
+Geçici Madde 2 – Noterlik Kanununun 112 nci maddesinin son fıkrası gereği tarifede gerekli görülecek değişiklikler, Mart 1991 tarihinde yapılacak değişikliğe kadar geçerli olmak üzere, bu Kanunun yürürlüğe girdiği tarihten itibaren bir ay içinde yapılır.

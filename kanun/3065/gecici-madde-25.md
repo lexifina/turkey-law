@@ -1,0 +1,2 @@
+Geçici Madde 25 - (Ek: 4/6/2008-5766/12 md.)
+Bu maddenin yürürlük tarihinden önce Kanunun 17 nci maddesinin (4) numaralı fıkrasının (s) bendinde düzenlenen istisnadan vazgeçen mükelleflerin, bu maddenin yürürlük tarihini izleyen ayın sonuna kadar istisnadan vazgeçme taleplerini geri almaları halinde, 18 inci maddenin (3) numaralı fıkrasının ikinci cümlesinde yer alan hüküm uygulanmaz. Bu hükmün uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.

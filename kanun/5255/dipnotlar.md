@@ -1,0 +1,1 @@
+[1] Bu fıkrada yer alan " yapılacak giderler Katma Değer Vergisi dahil her türlü vergi,” ibaresi, 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle “yapılacak giderler her türlü vergi,” olarak değiştirilmiştir.

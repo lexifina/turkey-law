@@ -1,0 +1,4 @@
+[1] 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 65 inci maddesinin üçüncü fıkrasında “Diğer mevzuatta geçen “Telekomünikasyon Kurumu” ibaresinden “Kurum”; “Telekomünikasyon Kurulu” ibaresinden de “Kurul” anlaşılır.” hükmü yer almaktadır.
+[2] 15/7/2016 tarihli ve 6728 sayılı Kanunun 45 inci maddesiyle, bu fıkrada yer alan “teminat sözleşmeleri,” ibaresi “banka teminat mektupları dışındaki teminat sözleşmeleri,” şeklinde değiştirilmiştir.
+[3] 22/12/2021 tarihli ve 7349 sayılı Kanunun 8 inci maddesiyle bu fıkraya “mektupları” ibaresinden sonra gelmek üzere “ve Türkiye’de yerleşik sigorta şirketleri tarafından düzenlenen kefalet senetleri” ibaresi eklenmiştir.
+[4] 23/1/2008 tarihli ve 5728 sayılı Kanunun 528 inci maddesiyle bu maddenin “İdarî nitelikteki suçların tekrarı ve kapatma” olan başlığı “Tüzel kişilere özgü güvenlik tedbirleri” olarak değiştirilmiş ve metne işlenmiştir.

@@ -1,5 +1,5 @@
 Kütüphane ve Arşiv Hizmetleri Başkanlığı
-MADDE 14 – (1) Kütüphane ve Arşiv Hizmetleri Başkanlığının görevleri şunlardır:
+MADDE 14- (1) Kütüphane ve Arşiv Hizmetleri Başkanlığının görevleri şunlardır:
 a) TBMM Kütüphanesi için ihtiyaç duyulan basılı ve dijital belgeleri tespit ve temin etmek ve elektronik veri tabanlarına erişim sağlamak.
 b) Milletvekillerinin ihtiyaç duyabilecekleri referans kaynakları ve belgeleri kullanıma sunmak.
 c) Görev alanına giren konularla ilgili ulusal ve uluslararası gelişmeleri takip etmek, ulusal ve uluslararası kurum ve kuruluşlarla iş birliği yapmak ve kütüphane koleksiyonunu zenginleştirmek.

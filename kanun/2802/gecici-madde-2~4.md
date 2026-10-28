@@ -1,0 +1,1 @@
+Geçici Madde 2 – 2802 sayılı Hakimler ve Savcılar Kanununun 15 inci maddesinin üçüncü fıkrası hükmüyle birinci sınıf olan hakim ve savcılar ile geçici 1 inci madde hükmüyle Sayıştay üyeleri ile ilgili hükümler uygulanacak olan Sayıştay Meslek Mensupları ile Sayıştay Savcı Yardımcıları, bu Kanunun yayımı tarihinden itibaren geçmişe yönelik mali hak talebinde bulunamazlar.

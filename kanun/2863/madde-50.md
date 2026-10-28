@@ -1,0 +1,5 @@
+Define arama:
+Madde 50 – Define aramak isteyenlere, bu Kanunun 6 ncı maddesinde korunması gerekli taşınmaz kültür ve tabiat varlığı olarak belirtilen yerler ile tespit ve tescil edilen sit alanları ve mezarlıklar dışında, Kültür ve Turizm Bakanlığınca define arama ruhsatnamesi verilebilir.
+Define aramak isteyenlere aynı süre içinde birden fazla yerde arama izni verilemez. Define arama izni, başkalarına devredilemez. Bu iş için bir başkası tevkil olunamaz.
+Define aramada, Kültür ve Turizm Bakanlığından ve diğer kamu kurum ve kuruluşlarından temsilci olarak gönderileceklerin yolluk ve yevmiyeleri ile zaruri giderleri arayıcı tarafından karşılanır. Bu iş için gerekli olan ödenek, Bakanlıkça, define arayıcısından peşinen tahsil edilip bir Devlet bankasına yatırılır.
+Arama ruhsatının verilmesi, define arayıcıdan istenecek belgeler, aramanın yapılması, çıkan defineden arayıcıya tanınacak haklar, Kültür ve Turizm Bakanlığı ile Maliye Bakanlığının birlikte düzenleyeceği yönetmelikte belirtilir.

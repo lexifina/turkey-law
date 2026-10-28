@@ -1,0 +1,1 @@
+Geçici Madde 1 – Halen görevde bulunan hakim, savcı ve hakim adaylarının diğer kamu kurumlarında kadro, maaş ve derece yönünden iktisap ettikleri hizmet süreleri geçmişe yönelik mali bir hak doğurmamak ve hakimlik ve savcılık kıdeminden sayılmamak kaydıyla kadro şartı aranmaksızın değerlendirilerek derece ve kademeleri tesbit edilir.

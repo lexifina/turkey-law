@@ -1,0 +1,1 @@
+Geçici Madde 2 – Bu Kanunun geçici 1 inci maddesi kapsamında olup da maddede gösterilen süreler içerisinde siyasi parti kuramayacakları belirtilenlerin, herhangi bir siyasi partinin kurucuları arasında bulunmaları halinde, o siyasi parti tüzelkişilik kazanamaz.

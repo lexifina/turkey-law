@@ -1,5 +1,5 @@
 İnsan Kaynakları Başkanlığı
-MADDE 9 – (1) İnsan Kaynakları Başkanlığının görevleri şunlardır:
+MADDE 9- (1) İnsan Kaynakları Başkanlığının görevleri şunlardır:
 a) TBMM Başkanlığının insan gücü politikası ve planlaması ile insan kaynakları sisteminin geliştirilmesi ve performans ölçütlerinin oluşturulması konusunda çalışmalar yapmak ve tekliflerde bulunmak.
 b) Personelin atama, nakil, terfi, emeklilik ve benzeri özlük işlemlerini yapmak.
 c) Siyasi parti gruplarında ve milletvekilleri için çalıştırılacak personelin istihdamına ilişkin işlemleri yerine getirmek.

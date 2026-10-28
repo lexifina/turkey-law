@@ -1,0 +1,10 @@
+[1] Bu Kanunun adı “Türk Patent Enstitüsü Kuruluş ve Görevleri Hakkında Kanun (Türk Patent Enstitüsü Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü ile Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerde ve Devlet Memurları Kanununda Değişiklik Yapılmasına Dair Kanun)” iken, 22/12/2016 tarihli ve 6769 sayılı Kanunun 188 inci maddesiyle “Türk Patent ve Marka Kurumu Kuruluş ve Görevleri Hakkında Kanun” şeklinde, daha sonra 2/7/2018 tarihli ve 703 sayılı KHK’nin 86 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] Bu madde başlığı “Yeniden İnceleme ve Değerlendirme Kurulu” iken, 22/12/2016 tarihli ve 6769 sayılı Kanunun 168 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[3] Bu madde başlığı “Endüstriyel Tasarımlar Dairesi Başkanlığı” iken, 22/12/2016 tarihli ve 6769 sayılı Kanunun 170 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[4] Bu madde başlığı “Uluslararası İlişkiler Dairesi Başkanlığı” iken, 22/12/2016 tarihli ve 6769 sayılı Kanunun 171 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[5] Bu madde başlığı “İdarî ve Malî İşler Dairesi Başkanlığı” iken, 22/12/2016 tarihli ve 6769 sayılı Kanunun 174 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[6] Bu madde başlığı “Enformasyon, Dokümantasyon ve Bilgi İşlem Dairesi Başkanlığı” iken, 22/12/2016 tarihli ve 6769 sayılı Kanunun 175 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[7] 22/12/2016 tarihli ve 6769 sayılı Kanunun 188 inci maddesiyle, bu maddenin üçüncü, dördüncü ve beşinci fıkralarında yer alan “Enstitünün” ibareleri “Kurumun”, beşinci fıkrasında yer alan “Enstitü” ibaresi “Kurum” şeklinde değiştirilmiştir.
+[8] Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine bakınız.
+[9] 22/12/2016 tarihli ve 6769 sayılı Kanunun 188 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “Enstitü” ibaresi “Kurum”, “Enstitünün” ibaresi “Kurumun” şeklinde değiştirilmiştir.
+[10] Bu maddede yer alan kadrolarla ilgili olarak, 10/1/2017 tarihli ve 29944 sayılı Resmi Gazete’ye bakınız.

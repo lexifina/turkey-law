@@ -1,0 +1,6 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 166 ncı maddesiyle, bu maddenin birinci, ikinci ve üçüncü fıkralarında yer alan “Bakanlar Kurulunun” ibareleri “Cumhurbaşkanının” şeklinde ve üçüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[2] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “üyeleri il özel idareleri ve köylerden oluşan birlikler için İçişleri Bakanının, geri kalanları için Çevre ve Şehircilik” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 166 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[4] 29/12/2005 tarihli ve 5445 sayılı Kanunun 4 üncü maddesiyle; bu maddeye birinci, ikinci ve üçüncü fıkralar eklenmiş, diğer fıkralar buna göre teselsül ettirilmiş, mevcut birinci fıkrasındaki "denetim" kelimesi madde metninden çıkarılmıştır.
+[5] 2/7/2018 tarihli ve 700 sayılı KHK’nin 166 ncı maddesiyle, bu fıkrada yer alan “İçişleri Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[6] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.

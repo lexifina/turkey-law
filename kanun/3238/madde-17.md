@@ -1,0 +1,2 @@
+Denetim:
+Madde 17 – (Mülga: 24/10/2011-KHK-661/45 md.)

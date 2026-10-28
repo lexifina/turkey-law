@@ -1,0 +1,16 @@
+[1] 4/7/2012 tarihli ve 6353 sayılı Kanunun 72 nci maddesiyle, bu maddenin birinci fıkrasının (a) bendine “tahkiki” ibaresinden sonra gelmek üzere “veya trafik ve yol güvenliğini sağlamak” ibaresi eklenmiş, (d) bendinde yer alan “Ceza” ibaresi “Tutuklu ve hükümlülerin sevk ve nakilleri ile ceza” ibaresi şeklinde değiştirilmiştir.
+[2] 12/7/2013 tarihli ve 6495 sayılı Kanunun 79 uncu maddesiyle, bu fıkraya (g) bendinden sonra gelmek üzere (h) ve mevcut (h) bendi (ı) bendi olarak teselsül ettirilmiştir.
+[3] 23/3/2023 tarihli ve 7442 sayılı Kanunun 34 üncü maddesiyle, bu fıkraya (h) bendinden sonra gelmek üzere (ı) bendi eklenmiş ve sonraki bent buna göre teselsül ettirilmiştir.
+[4] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasının (b) bendinde yer alan “sakatlananlara” ve “sakatlık” ibareleri sırasıyla “engelli hâle gelenlere” ve “engellilik” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 34 üncü maddesi ile bu fıkrada yer alan “Sıkıyönetim veya olağanüstü hallerin” ibaresi “Olağanüstü halin” şeklinde ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[6] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer alan “Sakatlanarak” ibaresi “Engelli hâle gelerek”, (b) bendinde yer alan “sakatlananların” ibaresi “engelli hâle gelenlerin” ve (d) bendinde yer alan “sakat kalmaları” ibaresi “engelli hâle gelmeleri”, şeklinde değiştirilmiştir.
+[7] 12/7/2013 tarihli ve 6495 sayılı Kanunun 80 inci maddesiyle, bu bentte yer alan “(5434 sayılı Kanunun 18/1/1979 gün ve 2177 sayılı Kanunla değişik 64 üncü maddesinden yararlananlar hariç)” ibaresi çıkarılmıştır.
+[8] Bu maddenin madde başlığı 7/6/1990 tarih ve 3658 sayılı Kanunla değiştirilmiştir.
+[9] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan “sakatlanma” ibaresi “engelli hâle gelme”, birinci fıkrasında yer alan “sakatlanmaları” ibaresi “engelli hâle gelmeleri” şeklinde değiştirilmiştir.
+[10] Anayasa Mahkemesinin 24/9/2024 Tarihli ve E: 2024/15, K: 2024/159 Sayılı Kararı ile bu fıkralarda yer alan “ve manevi” ibareleri iptal edilmiştir.
+[11] Bu maddenin madde başlığı 7/6/1990 tarih ve 3658 sayılı Kanunla değiştirilmiştir.
+[12] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “sakat kalanların” ibaresi “engelli hâle gelenlerin”, beşinci fıkrasında yer alan “sakatlanmalardan” ibaresi “engelli hâle gelmelerden” şeklinde değiştirilmiştir.
+[13] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu fıkranın birinci cümlesine “yedek subay,” ibaresinden sonra gelmek üzere “yedek astsubay,” ibaresi eklenmiştir.
+[14] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlanma” ibaresi “engelli hâle gelme” şeklinde değiştirilmiştir.
+[15] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 34 üncü maddesi ile bu fıkrada yer alan “kanunun yürürlüğe girdiği tarihten itibaren 3 ay içinde Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[16] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibareleri “engellilik” şeklinde değiştirilmiştir.

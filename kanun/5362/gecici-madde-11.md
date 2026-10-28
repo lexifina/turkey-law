@@ -1,1 +1,1 @@
-Geçici Madde 11-Bu Kanunda öngörülen yönetmelikler çıkarılıncaya kadar mevcut yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+Geçici Madde 11- Bu Kanunda öngörülen yönetmelikler çıkarılıncaya kadar mevcut yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.

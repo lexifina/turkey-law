@@ -1,5 +1,5 @@
 Bilgi verme ve araştırma yükümlülüğü:
-Madde 7 – Organ ve doku alacak hekimler :
+Madde 7 – Organ ve doku alacak hekimler:
 a) Vericiye, uygun bir biçimde ve ayrıntıda organ ve doku alınmasının yaratabileceği tehlikeler ile, bunun tıbbi, psikolojik, ailevi ve sosyal sonuçları hakkında bilgi vermek;
 b) Organ ve doku verenin, alıcıya sağlayacağı yararlar hakkında vericiyi aydınlatmak;
 c) Akli ve ruhi durumu itibariyle kendiliğinden karar verebilecek durumda olmayan kişilerin vermek istedikleri organ ve dokuları almayı reddetmek;

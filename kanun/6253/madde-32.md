@@ -1,5 +1,5 @@
 Stenograflık
-MADDE 32 – (1) Stenograflar mesleğe özel yarışma sınavı ile Stenograf Yardımcısı olarak alınırlar. Stenograf Yardımcısı olarak atanabilmek için TBMM Başkanlığı tarafından verilecek stenografi kursunda başarılı olmak şarttır.
+MADDE 32- (1) Stenograflar mesleğe özel yarışma sınavı ile Stenograf Yardımcısı olarak alınırlar. Stenograf Yardımcısı olarak atanabilmek için TBMM Başkanlığı tarafından verilecek stenografi kursunda başarılı olmak şarttır.
 (2) Stenografi kursuna katılacaklarda 657 sayılı Kanunun 48 inci maddesinde sayılan genel şartlara ilave olarak aşağıdaki şartlar aranır:
 a) Hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakültelerinden veya bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurt içindeki veya yurt dışındaki yükseköğretim kurumlarından mezun olmak.
 b) Yapılacak yarışma sınavında başarılı olmak.

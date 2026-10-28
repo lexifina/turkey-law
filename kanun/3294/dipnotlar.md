@@ -1,0 +1,6 @@
+[1] 16/6/1989 tarih ve 3582 sayılı Kanunun 2 nci maddesi ile bu fıkrada yer alan "2022 sayılı Kanuna göre aylık alan kişiler dahil" ibaresi madde metninden çıkartılmıştır.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 104 üncü maddesiyle, 2 nci maddesinin üçüncü fıkrasına “Ayrıca, kanunla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamesiyle” ibaresi eklenmiş, 3 üncü maddesinde yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanınca görevlendirilen Cumhurbaşkanı yardımcısına veya bakana” ve 4 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[3] 3/4/2013 tarihli ve 6456 sayılı Kanunun 25 inci maddesiyle, bu fıkrada yer alan “Her türlü afetten” ibaresi “Her türlü acil durum ve afetten” şeklinde değiştirilmiştir.
+[4] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “Özürlülerin” ve “özürlülere” ibareleri sırasıyla “Engellilerin” ve “engellilere” şeklinde değiştirilmiştir.
+[5] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 104 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.

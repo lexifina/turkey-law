@@ -1,6 +1,5 @@
 İKİNCİ AYIRIM
-İNTİFA HAKKI VE DİĞER İRTİFAK
-HAKLARI
+İNTİFA HAKKI VE DİĞER İRTİFAK HAKLARI
 A. İntifa hakkı
 I. Konusu
 Madde 794- İntifa hakkı, taşınırlar, taşınmazlar, haklar veya bir malvarlığı üzerinde kurulabilir.

@@ -1,0 +1,3 @@
+[1] Bu Kanunun ekindeki listeler aynı tarihli Resmi Gazete'de yayımlanmıştır. Daha sonra 20/4/1989 tarih ve 3541 sayılı Kanunun 1 inci maddesi ile bu maddenin 57 nci bendine bağlı (57) sayılı liste değiştirilmiş olup 28/4/1989 tarih ve 20152 sayılı Resmi Gazete'de yayımlanmıştır.
+[2] 12/7/2013 tarihli ve 6495 sayılı Kanunun 30 uncu maddesiyle, bu Kanuna ekli (57) sayılı listede yer alan “Çağlıyancerit” ibareleri “Çağlayancerit” olarak değiştirilmiştir.
+[3] 12/7/2013 tarihli ve 6495 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “Çağlıyancerit” ibareleri “Çağlayancerit” olarak değiştirilmiştir.

@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanun ile kaldırılan Milli Eğitim Gençlik ve Spor Bakanlığı Gençlik Hizmetleri Genel Müdürlüğü personelinin yeni bir göreve atanıncaya kadar eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminat hakları devam eder.

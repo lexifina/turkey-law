@@ -1,5 +1,5 @@
 Dış İlişkiler ve Protokol Başkanlığı
-MADDE 21 – (1) Dış İlişkiler ve Protokol Başkanlığının görevleri şunlardır:
+MADDE 21- (1) Dış İlişkiler ve Protokol Başkanlığının görevleri şunlardır:
 a) 28/3/1990 tarihli ve 3620 sayılı Türkiye Büyük Millet Meclisinin Dış İlişkilerinin Düzenlenmesi Hakkında Kanun kapsamında, TBMM’nin dış ilişkileri ve uluslararası etkinliklerinin yürütülmesi için gerekli olan destek hizmetlerini yerine getirmek, bu çerçevede, bilgi notu ve dosyası hazırlamak, parlamentolar, ulusal ve uluslararası kurum ve kuruluşlar ile eş güdüm sağlamak ve iş birliği yapmak, toplantı raporlarını hazırlamak ve protokol hizmetlerini yerine getirmek.
 b) 3620 sayılı Kanun kapsamında TBMM Başkanı, Başkanlık Divanı üyeleri, ihtisas komisyonları, uluslararası komisyonlar, dostluk grupları ve milletvekillerince yürütülecek faaliyetlere yönelik her türlü destek hizmetleri ile parlamentolararası iş birliği süreçlerinin sürdürülmesi ve geliştirilmesi konusunda gerekli olan faaliyetleri yerine getirmek.
 c) Avrupa Birliğine tam katılım müzakereleri ve Avrupa Birliğine üyelik süreçlerinde TBMM adına yürütülen faaliyetlere ilişkin her türlü destek hizmetini yerine getirmek.

@@ -1,5 +1,5 @@
 Araştırma Hizmetleri Başkanlığı
-MADDE 13 – (1) Araştırma Hizmetleri Başkanlığının görevleri şunlardır:
+MADDE 13- (1) Araştırma Hizmetleri Başkanlığının görevleri şunlardır:
 a) Yasama uzmanları marifetiyle yasama ve denetim faaliyetlerine ilişkin konu odaklı nesnel araştırmalar yapmak ve milletvekillerinin ve komisyonların bilgisine sunmak.
 b) Milletvekillerinin talep ettikleri konularda bilgi ihtiyaçlarını karşılamak.
 c) TBMM gündemindeki konulara ilişkin bilgi ve belge derlemek.

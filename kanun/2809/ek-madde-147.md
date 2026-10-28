@@ -1,0 +1,2 @@
+Ek Madde 147 – (Ek: 16/5/2012-6307/2 md.)
+21/12/2011 tarihli ve 6260 sayılı 2012 Yılı Merkezi Yönetim Bütçe Kanunu, 2/9/1983 tarihli ve 78 sayılı Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararname ile 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamede Muğla Üniversitesine yapılmış olan atıflar Muğla Sıtkı Koçman Üniversitesine yapılmış sayılır.

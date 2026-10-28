@@ -1,6 +1,5 @@
 ÜÇÜNCÜ BÖLÜM
-Sözleşmede Değişiklik, Sözleşmenin
-Devri ve Feshi
+Sözleşmede Değişiklik, Sözleşmenin Devri ve Feshi
 Sözleşmede değişiklik yapılması
 Madde 15- Sözleşme imzalandıktan sonra, sözleşme bedelinin aşılmaması ve idare ile yüklenicinin karşılıklı olarak anlaşması kaydıyla, aşağıda belirtilen hususlarda sözleşme hükümlerinde değişiklik yapılabilir:
 a) İşin yapılma veya teslim yeri.

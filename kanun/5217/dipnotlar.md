@@ -1,0 +1,2 @@
+[1] 12/6/2024 tarihli ve 7517 sayılı Kanunun 40 ıncı maddesi ile bu fıkrada yer alan “ile 22.4.1925 tarihli ve 657 sayılı Kanunun ek 2 nci maddesi” ibaresi madde metninden çıkarılmıştır.
+[2] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.

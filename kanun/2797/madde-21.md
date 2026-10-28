@@ -2,9 +2,8 @@
 Görev ve Haklar
 Birinci Başkanın görevleri:
 Madde 21 – Birinci Başkanın görevleri şunlardır:
-1.Yargıtayı temsil etmek,
-2. Hukuk ve Ceza Genel Kurullarına katılması zorunlu olan daire başkanlarını
-belli etmek,
+1. Yargıtayı temsil etmek,
+2. Hukuk ve Ceza Genel Kurullarına katılması zorunlu olan daire başkanlarını belli etmek,
 3. Kurullara başkanlık etmek; başkanlık yaptığı kurullarda kendi yazmayacağı kararların hangi üye tarafından yazılacağını belli etmek ve yazılan kararlardan ilgili dairelere örnekler göndermek,
 4. Yargıtayın verimli ve düzenli çalışmasını sağlamak ve bu amaçla uygun göreceği tedbirleri almak, daire ve kurullara katılmamak veya geç katılmak suretiyle, kurul çalışmalarını aksatan başkan ve üyelerin dikkatini çekmek,
 5. Dairelerin çalışma durumları ile ilgili olarak gerekli gördüğü bilgileri yazı ile istemek,

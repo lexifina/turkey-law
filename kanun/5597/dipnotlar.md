@@ -1,0 +1,5 @@
+[1] 9/9/2025 tarihli ve 33012 sayılı Resmî Gazete’de yayımlanan 10381 sayılı Cumhurbaşkanı Kararı ile harç tutarı “1.000 Türk Lirası” olarak yeniden belirlenmiş olup metne parantez içinde siyah punto ile işlenmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 178 inci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[3] 17/7/2019 tarihli ve 7186 sayılı Kanunun 20 nci maddesiyle bu fıkrada yer alan “15 Türk Lirası” ibaresi “50 Türk lirası” şeklinde, “bu miktarı” ibaresi “bu miktarı üç katına kadar artırmaya veya” şeklinde değiştirilmiştir.
+[4] 28/7/2024 tarihli ve 7524 sayılı Kanunun 51 inci maddesi ile bu fıkrada yer alan “50 Türk lirası” ibaresi “500 Türk lirası” şeklinde değiştirilmiş ve mevcut ikinci cümlesinde yer alan “bu miktarı” ibaresi “bu fıkrada yer alan harcı veya bu harcın yeniden değerleme oranı uygulanmak suretiyle belirlenmiş olan tutarını” şeklinde değiştirilmiştir.
+[5] Anayasa Mahkemesinin 29/1/2014 tarihli ve E.: 2013/66, K.: 2014/19 sayılı Kararı ile bu fıkrada yer alan “…ile Bakanlar Kurulunca belirlenen Türkiye Cumhuriyeti vatandaşlarından…” ibaresi iptal edilmiştir.

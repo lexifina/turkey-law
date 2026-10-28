@@ -1,4 +1,4 @@
-Ek Madde 1 – (Ek: 16/11/1995 - 4133/3 md.)
+Ek Madde 1 – (Ek: 16/11/1995-4133/3 md.)
 Tabii afet nedeniyle hasar gören:
 a) İskan ruhsatı alınmış binalara ait afet tarihinden önce resmi şekilde düzenlenmiş satış vaadi senedine veya noterlikçe düzenlenmiş satış senedine sahip olanlara,
 b) Fiilen oturulmasına rağmen iskan ruhsatı alınmamış konut sahipleri ile konut kooperatiflerinin üyelerine yalnız bir kooperatif ve tek bir üyelik için,

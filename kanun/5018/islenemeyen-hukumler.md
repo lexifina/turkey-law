@@ -1,86 +1,58 @@
 5018 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
-1-24/7/2008 tarihli ve 5793 sayılı Kanunun geçici maddeleri:
+1- 24/7/2008 tarihli ve 5793 sayılı Kanunun geçici maddeleri:
 GEÇİCİ MADDE 1 – Devlet Su İşleri Genel Müdürlüğünce (DSİ) tahakkuk ettirilen sulama ve kurutma tesisleri işletme ve bakım ücretlerinden vadesi 1/1/2004 tarihinden önce olup bu maddenin yürürlüğe girdiği tarihe kadar tahsil edilememiş olanlar ile bunlara ilişkin fer’ilerin tahsilinden vazgeçilir ve bu alacaklar ilgili muhasebe birimleri tarafından terkin edilir. Bu alacaklardan, maddenin yürürlüğe girdiği tarihe kadar yapılmış olan tahsilât red ve iade edilmez. Bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.
 GEÇİCİ MADDE 2 – Genel bütçe kapsamındaki kamu idareleri ve hazine yardımı alan özel bütçeli idarelerin 2007 ve 2008 yıllarına ilişkin sosyal yardım zammı borçları ile Kamu İktisadi Teşebbüsleri ödeneklerinden ödeme yapılan Kamu İktisadi Teşebbüslerinin aynı döneme ilişkin, Maliye Bakanlığınca uygun bulunan sosyal yardım zammı borçlarını Çalışma ve Sosyal Güvenlik Bakanlığı bütçesinin 18.01.00.23-10.9.9.26-1-05.2 tertibinde yer alan ödenekten mahsup etmeye Çalışma ve Sosyal Güvenlik Bakanı yetkilidir.
-8690-5
-(I) SAYILI CETVEL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)
-(Değişik: 22/12/2005-5436/12 md.)
+(I) SAYILI CETVEL[124]
+(Değişik:RG-16/10/2020-7254/5 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi
 2) Cumhurbaşkanlığı
-3) Başbakanlık
-4) Anayasa Mahkemesi
-5) Yargıtay
-6) Danıştay
-7) Hâkimler ve Savcılar Yüksek Kurulu
-8) Sayıştay
-9) Adalet Bakanlığı
-10) Millî Savunma Bakanlığı
-11) İçişleri Bakanlığı
+3) Anayasa Mahkemesi
+4) Yargıtay
+5) Danıştay
+6) Hâkimler ve Savcılar Kurulu
+7) Sayıştay
+8) Adalet Bakanlığı
+9) (Değişik:20/5/2021-7319/10 md.) Aile ve Sosyal Hizmetler Bakanlığı
+10) (Ek:20/5/2021-7319/10 md.)124 Çalışma ve Sosyal Güvenlik Bakanlığı
+11) (Değişik:4/11/2021-7341/18 md.) Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 12) Dışişleri Bakanlığı
-13) Maliye Bakanlığı
-14) Millî Eğitim Bakanlığı
-(…) (7)
-16) Sağlık Bakanlığı
-17) Ulaştırma, Denizcilik ve Haberleşme Bakanlığı(8)
-(…) (7)
-19) Çalışma ve Sosyal Güvenlik Bakanlığı
-(…) (7)
-21) Enerji ve Tabiî Kaynaklar Bakanlığı
-22) Kültür ve Turizm Bakanlığı
-(…) (7)
-24) Aile ve Sosyal Politikalar Bakanlığı (7)
-25) Avrupa Birliği Bakanlığı (7)
-26) Bilim, Sanayi ve Teknoloji Bakanlığı (7)
-27) Çevre ve Şehircilik Bakanlığı (7)
-28) Ekonomi Bakanlığı (7)
-29) Gençlik ve Spor Bakanlığı (7)
-30) Gıda, Tarım ve Hayvancılık Bakanlığı (7)
-31) Gümrük ve Ticaret Bakanlığı (7)
-32) Kalkınma Bakanlığı(7)
-33) Orman ve Su İşleri Bakanlığı (7)
-34) Millî Güvenlik Kurulu Genel Sekreterliği
-35) Millî İstihbarat Teşkilatı Müsteşarlığı
-36) Jandarma Genel Komutanlığı
-37) Sahil Güvenlik Komutanlığı
-38) Emniyet Genel Müdürlüğü
-39) Diyanet İşleri Başkanlığı
-40) Hazine Müsteşarlığı
-(…)(8)
-42) Kamu Düzeni ve Güvenliği Müsteşarlığı
-8690-6
-43) Başbakanlık Yüksek Denetleme Kurulu
-44) Devlet Personel Başkanlığı
-45) Türkiye İstatistik Kurumu
-46) Afet ve Acil Durum Yönetimi Başkanlığı
-47) Gelir İdaresi Başkanlığı
-(…)(11)
-49) Tapu ve Kadastro Genel Müdürlüğü
-50) Meteoroloji Genel Müdürlüğü(9)
-(…)(11)
-52) Basın-Yayın ve Enformasyon Genel Müdürlüğü
-53) Türkiye Halk Sağlığı Kurumu (10)
-54) Türkiye Kamu Hastaneleri Kurumu(10)
-55) (Ek:4/4/2013-6458/123) Göç İdaresi Genel Müdürlüğü
-____________________
-(1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 19 uncu maddesiyle bu cetvelde yer alan “45)Orman Genel Müdürlüğü” ibaresi çıkarılmış ve sıra numaraları yeniden teselsül ettirilmiştir.
-(2) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle; bu cetvelde bulunan “Sosyal Güvenlik Kurumu Başkanlığı” ibaresi çıkarılmıştır.
-(3) 29/5/2009 tarihli ve 5902 sayılı Kanunun 25 inci maddesiyle bu cetvele “38 – Türkiye İstatistik Kurumu” ibaresinden sonra gelmek üzere “39 – Afet ve Acil Durum Yönetimi Başkanlığı” ibaresi eklenmiş ve sıra numaraları yeniden teselsül ettirilmiştir.
-(4) 17/2/2010 tarihli ve 5952 sayılı Kanunun 18 inci maddesiyle bu cetvele 33 üncü sırasından sonra gelmek üzere "34) Kamu Düzeni ve Güvenliği Müsteşarlığı" ibaresi eklenmiş ve sıra numaraları yeniden teselsül ettirilmiştir.
-(5) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu cetvelde yer alan “43) Karayolları Genel Müdürlüğü” ibaresi çıkarılmış ve cetveldeki idarelerin sıra numaraları yeniden teselsül ettirilmiştir.
-(6) 11/12/2010 tarihli ve 6087 sayılı Kanunun 46 ncı maddesiyle, bu cetvele 6 ncı sırasından sonra gelmek üzere “7) Hâkimler ve Savcılar Yüksek Kurulu” ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
-(7) 3/6/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle; bu cetvelde yer alan “15) Bayındırlık ve İskân Bakanlığı”,”18) Tarım ve Köyişleri Bakanlığı”,”20) Sanayi ve Ticaret Bakanlığı”,”23) Çevre ve Orman Bakanlığı”, “30) Devlet Planlama Teşkilatı Müsteşarlığı “, “32) Dış Ticaret Müsteşarlığı “,”33) Gümrük Müsteşarlığı”,”36) Avrupa Birliği Genel Sekreterliği”,“39) Özürlüler İdaresi Başkanlığı”,”46) Tarım Reformu Genel Müdürlüğü”,”49) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü”,”50) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü, 51) Aile ve Sosyal Araştırmalar Genel Müdürlüğü, 52) Kadının Statüsü Genel Müdürlüğü” sıraları yürürlükten kaldırılmış olup, aynı cetvele 23 üncü sırasından sonra gelmek üzere “24) Aile ve Sosyal Politikalar Bakanlığı, 25) Avrupa Birliği Bakanlığı ,26) Bilim, Sanayi ve Teknoloji Bakanlığı , 27) Çevre, Orman ve Şehircilik Bakanlığı ,28) Ekonomi Bakanlığı, 29) Gençlik ve Spor Bakanlığı, 30) Gıda, Tarım ve Hayvancılık Bakanlığı, 31) Gümrük ve Ticaret Bakanlığı, 32) Kalkınma Bakanlığı” sıraları eklenmiş ve diğer sıralar buna göre teselsül ettirilmiş, daha sonra bu sıra 29/6/2011 tarihli ve 644 sayılı KHK’nin 37 nci maddesiyle cetvelde yer aldığı şekilde değiştirilmiş ve teselsül ettirilmiştir.
-(8) 26/9/2011 tarihli ve 655 sayılı KHK’nın 44 üncü maddesiyle; bu Cetvelin 17 nci sırası “Ulaştırma Bakanlığı” iken metne işlendiği şekilde değiştirilmiş ve aynı Cetvelin “41) Denizcilik Müsteşarlığı” sırası yürürlükten kaldırılmıştır.
-(9) 10/10/2011 tarihli ve 657 sayılı KHK’nın 16 ncı maddesiyle bu cetvelde geçen “Devlet Meteoroloji İşleri” ibaresi “Meteoroloji” şeklinde değiştirilmiştir.
-(10) 11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle bu Cetvele “53) Türkiye Halk Sağlığı Kurumu” ve “54) Türkiye Kamu Hastaneleri Kurumu” sıraları eklenmiştir.
-(11) 11/10/2011 tarihli ve 662 sayılı KHK’nın 58 inci maddesiyle bu Cetveldeki “48) Devlet Su İşleri Genel Müdürlüğü” ve “51) Petrol İşleri Genel Müdürlüğü” sıraları yürürlükten kaldırılmıştır.
-8690-7
-(II) SAYILI CETVEL (1)
+13) Enerji ve Tabii Kaynaklar Bakanlığı
+14) Gençlik ve Spor Bakanlığı
+15) Hazine ve Maliye Bakanlığı
+16) İçişleri Bakanlığı
+17) Kültür ve Turizm Bakanlığı
+18) Milli Eğitim Bakanlığı
+19) Milli Savunma Bakanlığı
+20) Sağlık Bakanlığı
+21) Sanayi ve Teknoloji Bakanlığı
+22) Tarım ve Orman Bakanlığı
+23) Ticaret Bakanlığı
+24) Ulaştırma ve Altyapı Bakanlığı
+25) Devlet Arşivleri Başkanlığı
+26) Diyanet İşleri Başkanlığı
+27) İletişim Başkanlığı
+28) Milli Güvenlik Kurulu Genel Sekreterliği
+29) Milli İstihbarat Teşkilatı Başkanlığı
+30) Milli Saraylar İdaresi Başkanlığı
+31) Strateji ve Bütçe Başkanlığı
+32) Jandarma Genel Komutanlığı
+33) Sahil Güvenlik Komutanlığı
+34) Emniyet Genel Müdürlüğü
+35) (Mülga:18/7/2021-7333/14 md.)
+36) Afet ve Acil Durum Yönetimi Başkanlığı
+37) Gelir İdaresi Başkanlığı
+38) Tapu ve Kadastro Genel Müdürlüğü
+39) Meteoroloji Genel Müdürlüğü
+40) (Değişik:4/11/2021-7341/18 md.) Göç İdaresi Başkanlığı
+41) Avrupa Birliği Başkanlığı
+42) (Ek:4/11/2021-7341/18 md.) İklim Değişikliği Başkanlığı
+(II) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
 A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLERİ
 1) Yükseköğretim Kurulu
-2) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (1)
+2) (Değişik: 17/2/2011-6114/11 md.) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı
 3) İstanbul Üniversitesi
 4) İstanbul Teknik Üniversitesi
 5) Ankara Üniversitesi
@@ -93,12 +65,12 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 12) Dicle Üniversitesi
 13) Çukurova Üniversitesi
 14) Anadolu Üniversitesi
-15) Cumhuriyet Üniversitesi
+15) (Değişik: 9/5/2018-7141/10 md.) Sivas Cumhuriyet Üniversitesi
 16) İnönü Üniversitesi
 17) Fırat Üniversitesi
 18) Ondokuz Mayıs Üniversitesi
 19) Selçuk Üniversitesi
-20) Uludağ Üniversitesi
+20) (Değişik: 9/5/2018-7141/10 md.) Bursa Uludağ Üniversitesi
 21) Erciyes Üniversitesi
 22) Akdeniz Üniversitesi
 23) Dokuz Eylül Üniversitesi
@@ -107,19 +79,16 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 26) Mimar Sinan Güzel Sanatlar Üniversitesi
 27) Trakya Üniversitesi
 28) Yıldız Teknik Üniversitesi
-29) Yüzüncü Yıl Üniversitesi
+29) (Değişik: 18/6/2017-7033/81 md.) Van Yüzüncü Yıl Üniversitesi
 30) Gaziantep Üniversitesi
-––––––––––––––––––
-(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu cetvelde yer alan “2 – Öğrenci Seçme ve Yerleştirme Merkezi” ibaresi yerine “2 – Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı” ibaresi eklenmiş ve metne işlenmiştir.
-8690-8
-31) Abant İzzet Baysal Üniversitesi
-32) Adnan Menderes Üniversitesi
+31) (Değişik: 9/5/2018-7141/10 md.) Bolu Abant İzzet Baysal Üniversitesi
+32) (Değişik: 9/5/2018-7141/10 md.) Aydın Adnan Menderes Üniversitesi
 33) Afyon Kocatepe Üniversitesi
 34) Balıkesir Üniversitesi
-35) Celal Bayar Üniversitesi
+35) (Değişik: 20/8/2016-6745/22 md.) Manisa Celal Bayar Üniversitesi
 36) Çanakkale Onsekiz Mart Üniversitesi
-37) Dumlupınar Üniversitesi
-38) Gaziosmanpaşa Üniversitesi
+37) (Değişik: 9/5/2018-7141/10 md.) Kütahya Dumlupınar Üniversitesi
+38) (Değişik: 9/5/2018-7141/10 md.) Tokat Gaziosmanpaşa Üniversitesi
 39) (Değişik: 21/10/2014-6562/4 md.) Gebze Teknik Üniversitesi
 40) Harran Üniversitesi
 41) İzmir Yüksek Teknoloji Enstitüsü
@@ -129,40 +98,39 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 45) Kocaeli Üniversitesi
 46) Mersin Üniversitesi
 47) (Ek: 16/5/2012-6307/4 md.) Muğla Sıtkı Koçman Üniversitesi
-48) Mustafa Kemal Üniversitesi
-49) Niğde Üniversitesi
+48) (Değişik: 9/5/2018-7141/10 md.) Hatay Mustafa Kemal Üniversitesi
+49) (Değişik: 18/6/2017-7033/81 md.) Niğde Ömer Halisdemir Üniversitesi
 50) Pamukkale Üniversitesi
 51) Sakarya Üniversitesi
 52) Süleyman Demirel Üniversitesi
-53) (Değişik: 30/3/2012-6287/22 md.) Bülent Ecevit Üniversitesi
+53) (Değişik: 9/5/2018-7141/10 md.) Zonguldak Bülent Ecevit Üniversitesi
 54) Eskişehir Osmangazi Üniversitesi
 55) Galatasaray Üniversitesi
-56) (Ek: 1/3/2006-5467/5 md.) Ahi Evran Üniversitesi
+56) (Ek: 1/3/2006-5467/5 md.; Değişik: 9/5/2018-7141/10 md.) Kırşehir Ahi Evran Üniversitesi
 57) (Ek: 1/3/2006-5467/5 md.) Kastamonu Üniversitesi
 58) (Ek: 1/3/2006-5467/5 md.) Düzce Üniversitesi
-59) (Ek: 1/3/2006-5467/5 md.) Mehmet Akif Ersoy Üniversitesi
+59) (Ek: 1/3/2006-5467/5 md.; Değişik: 9/5/2018-7141/10 md.) Burdur Mehmet Akif Ersoy Üniversitesi
 60) (Ek: 1/3/2006-5467/5 md.) Uşak Üniversitesi
-61) (Ek: 1/3/2006-5467/5 md.; Değişik: 30/3/2012-6287/22 md.) Recep Tayip Erdoğan Üniversitesi
-62) (Ek: 1/3/2006-5467/5 md.) Namık Kemal Üniversitesi
-63) (Ek: 1/3/2006-5467/5 md.) Erzincan Üniversitesi
+61) (Ek: 1/3/2006-5467/5 md.; Değişik: 30/3/2012-6287/22 md.) Recep Tayyip Erdoğan Üniversitesi
+62) (Ek: 1/3/2006-5467/5 md; Değişik: 9/5/2018-7141/10 md.) Tekirdağ Namık Kemal Üniversitesi
+63) (Ek: 1/3/2006-5467/5 md. ; Değişik: 9/5/2018-7141/10 md.) Erzincan Binali Yıldırım Üniversitesi
 64) (Ek: 1/3/2006-5467/5 md.) Aksaray Üniversitesi
 65) (Ek: 1/3/2006-5467/5 md.) Giresun Üniversitesi
 66) (Ek: 1/3/2006-5467/5 md.) Hitit Üniversitesi
-67) (Ek: 1/3/2006-5467/5 md.) Bozok Üniversitesi
+67) (Ek: 1/3/2006-5467/5 md. ; Değişik: 9/5/2018-7141/10 md.) Yozgat Bozok Üniversitesi
 68) (Ek: 1/3/2006-5467/5 md.) Adıyaman Üniversitesi
 69) (Ek: 1/3/2006-5467/5 md.) Ordu Üniversitesi
 70) (Ek: 1/3/2006-5467/5 md.) Amasya Üniversitesi
-8690-9
 71) (Ek: 17/5/2007-5662/9 md.) Karamanoğlu Mehmetbey Üniversitesi
-72) (Ek: 17/5/2007-5662/9 md.) Ağrı Dağı Üniversitesi (1)
+72) (Ek: 17/5/2007-5662/9 md.) Ağrı Dağı Üniversitesi[125]
 73) (Ek: 17/5/2007-5662/9 md.) Sinop Üniversitesi
 74) (Ek: 17/5/2007-5662/9 md.) Siirt Üniversitesi
-75) (Ek: 17/5/2007-5662/9 md.;Değişik: 30/10/2013-6501/3 md.) Nevşehir Hacı Bektaş Veli Üniversitesi
+75) (Ek: 17/5/2007-5662/9 md.; Değişik: 30/10/2013-6501/3 md.) Nevşehir Hacı Bektaş Veli Üniversitesi
 76) (Ek: 17/5/2007-5662/9 md.) Karabük Üniversitesi
 77) (Ek: 17/5/2007-5662/9 md.) Kilis 7 Aralık Üniversitesi
 78) (Ek: 17/5/2007-5662/9 md.) Çankırı Karatekin Üniversitesi
 79) (Ek: 17/5/2007-5662/9 md.) Artvin Çoruh Üniversitesi
-80) (Ek: 17/5/2007-5662/9 md.;Değişik: 19/4/2012-6296/4 md.) Bilecik Şeyh Edebali Üniversitesi
+80) (Ek: 17/5/2007-5662/9 md.; Değişik: 19/4/2012-6296/4 md.) Bilecik Şeyh Edebali Üniversitesi
 81) (Ek: 17/5/2007-5662/9 md.) Bitlis Eren Üniversitesi
 82) (Ek: 17/5/2007-5662/9 md.) Kırklareli Üniversitesi
 83) (Ek: 17/5/2007-5662/9 md.) Osmaniye Korkut Ata Üniversitesi
@@ -177,98 +145,107 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 92) (Ek: 22/5/2008-5765/3 md.) Hakkari Üniversitesi
 93) (Ek: 22/5/2008-5765/3 md.) Iğdır Üniversitesi
 94) (Ek: 22/5/2008-5765/3 md.) Şırnak Üniversitesi
-95) (Ek: 22/5/2008-5765/3 md.) Tunceli Üniversitesi
+95) (Ek: 22/5/2008-5765/3 md.; Değişik: 20/8/2016-6745/22 md.) Munzur Üniversitesi
 96) (Ek: 22/5/2008-5765/3 md.) Yalova Üniversitesi
 97) (Ek: 1/4/2010-5979/4 md.) Türk-Alman Üniversitesi
-98) (Ek: 14/7/2010-6005/2 md.) Yıldırım Beyazıt Üniversitesi
+98) (Ek: 14/7/2010-6005/2 md.; (Değişik: 20/8/2016-6745/22 md.) Ankara Yıldırım Beyazıt Üniversitesi
 99) (Ek: 14/7/2010-6005/2 md.) Bursa Teknik Üniversitesi
 100) (Ek: 14/7/2010-6005/2 md.) İstanbul Medeniyet Üniversitesi
 101) (Ek: 14/7/2010-6005/2 md.) İzmir Kâtip Çelebi Üniversitesi
 102) (Ek: 14/7/2010-6005/2 md.; Değişik: 30/3/2012-6287/22 md.) Necmettin Erbakan Üniversitesi
 103) (Ek: 14/7/2010-6005/2 md.; Değişik: 30/3/2012-6287/22 md.) Abdullah Gül Üniversitesi
 104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
-105) (Ek: 31/3/2011-6218/2 md.) Adana Bilim ve Teknoloji Üniversitesi
+105) (Ek: 31/3/2011-6218/2 md.) (Değişik:21/2/2019-7167/3 md.) Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi
 106) (Ek: 22/1/2013-6410/5 md.) Ankara Sosyal Bilimler Üniversitesi
-–––––––––––––––––
-(1)19/6/2008 tarihli ve 5773 sayılı Kanunun 2 nci maddesiyle 28/3/1983 tarihli ve 2809 sayılı Kanuna eklenen Geçici 38 inci maddesinde; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda Ağrı Dağı Üniversitesine yapılmış olan atıfların Ağrı İbrahim Çeçen Üniversitesine yapılmış sayılacağı hüküm altına alınmıştır.
-8690-10
-B) ÖZEL BÜTÇELİ DİĞER İDARELER(1)(2)(3)(4)(5)
-1) Savunma Sanayi Müsteşarlığı
+107) (Ek: 27/3/2015-6639/6 md.) Sağlık Bilimleri Üniversitesi
+108) (Ek: 31/3/2015-6640/7 md.) Bandırma Onyedi Eylül Üniversitesi
+109) (Ek: 31/3/2015-6640/7 md.) İskenderun Teknik Üniversitesi
+110) (Ek: 31/3/2015-6640/7 md.) Alanya Alaaddin Keykubat Üniversitesi
+111) (Ek: 1/4/2015-6641/6 md.) Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi
+112) (Ek: 20/8/2016-6745/22 md.) İzmir Bakırçay Üniversitesi
+113) (Ek: 20/8/2016-6745/22 md.) İzmir Demokrasi Üniversitesi
+114) (Ek: 18/6/2017-7033/81 md.) Yükseköğretim Kalite Kurulu
+115) (Ek: 18/6/2017-7033/81 md.; Değişik: 6/12/2017-7063/6 md.) Ankara Müzik ve Güzel Sanatlar Üniversitesi
+116) (Değişik: 17/1/2019-7161/39 md.) Gaziantep İslam Bilim ve Teknoloji Üniversitesi
+117) (Ek: 9/5/2018-7141/10 md.) Konya Teknik Üniversitesi
+118) (Ek: 9/5/2018-7141/10 md.) Kütahya Sağlık Bilimleri Üniversitesi
+119) (Ek: 9/5/2018-7141/10 md.) Malatya Turgut Özal Üniversitesi
+120) (Ek: 9/5/2018-7141/10 md.) İstanbul Üniversitesi-Cerrahpaşa
+121) (Ek: 9/5/2018-7141/10 md.) Ankara Hacı Bayram Veli Üniversitesi
+122) (Ek: 9/5/2018-7141/10 md.) Sakarya Uygulamalı Bilimler Üniversitesi
+123) (Ek: 9/5/2018-7141/10 md.) Samsun Üniversitesi
+124) (Ek: 9/5/2018-7141/10 md.) Sivas Bilim ve Teknoloji Üniversitesi
+125) (Ek: 9/5/2018-7141/10 md.) Tarsus Üniversitesi
+126) (Ek: 9/5/2018-7141/10 md.) Trabzon Üniversitesi
+127) (Ek: 9/5/2018-7141/10 md.) Kayseri Üniversitesi
+128) (Ek: 9/5/2018-7141/10 md.) İstiklal Bilim ve Teknoloji Üniversitesi[126]
+129) (Ek: 9/5/2018-7141/10 md.) Eskişehir Teknik Üniversitesi
+130) (Ek: 9/5/2018-7141/10 md.) Isparta Uygulamalı Bilimler Üniversitesi
+131) (Ek: 9/5/2018-7141/10 md.) Afyonkarahisar Sağlık Bilimleri Üniversitesi
+B) (Değişik:RG-16/10/2020-7254/5 md.) ÖZEL BÜTÇELİ DİĞER İDARELER
+1) Savunma Sanayi Başkanlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
-3) (Ek: 25/6/2009-5917/47 md.) Atatürk Araştırma Merkezi
-4) (Ek: 25/6/2009-5917/47 md.)Atatürk Kültür Merkezi
-5) (Ek: 25/6/2009-5917/47 md.)Türk Dil Kurumu
-6) (Ek: 25/6/2009-5917/47 md.)Türk Tarih Kurumu
-7) Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü
-8) Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
-9) Türkiye Bilimler Akademisi
-10) Türkiye Adalet Akademisi
-11) Yükseköğrenim Kredi ve Yurtlar Kurumu
-12) Karayolları Genel Müdürlüğü
-13) Spor Genel Müdürlüğü (4)
-14) Devlet Tiyatroları Genel Müdürlüğü
-15) Devlet Opera ve Balesi Genel Müdürlüğü
-16) Orman Genel Müdürlüğü
-17) Vakıflar Genel Müdürlüğü
-18) (Değişik: 11/10/2011-KHK-663/58 md.) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü
-(…)(6)
-20) Maden Tetkik ve Arama Genel Müdürlüğü
-21) Sivil Havacılık Genel Müdürlüğü
-22) Türk Akreditasyon Kurumu
-23) Türk Standartları Enstitüsü
-(…)(5)
-25) Türk Patent Enstitüsü
-26) Ulusal Bor Araştırma Enstitüsü
-_____________________
-(1) Bu bölüme; 1/7/2006 tarihli ve 5538 sayılı Kanunun 19 uncu maddesiyle “Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” ibaresi eklenmiş ve sıra numaraları yeniden teselsül ettirilmiştir.
-(2) Bu bölüme; 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle “2)Atatürk Kültür, Dil ve Tarih Yüksek Kurumu” sırasından sonra gelmek üzere “3) Atatürk Araştırma Merkezi , 4) Atatürk Kültür Merkezi, 5) Türk Dil Kurumu, 6) Türk Tarih Kurumu” ibareleri eklenmiş ve sıra numaraları buna göre teselsül ettirilmiştir.
-(3) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu bölüme “11) Yükseköğrenim Kredi ve Yurtlar Kurumu” sırasından sonra gelmek üzere “12) Karayolları Genel Müdürlüğü” ibaresi eklenmiş, cetveldeki idarelerin sıra numaraları yeniden teselsül ettirilmiştir.
-(4) 6/3/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle, bu bölümün 13 üncü sırası metne işlendiği şekilde değiştirilmiş, aynı bölüme” 39) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı”,” 40) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı “ sıraları eklenmiştir.
-(5) 8/8/2011 tarihli ve 649 sayılı KHK’nin 60 ncı maddesiyle, bu cetvelde yer alan “24) Millî Prodüktivite Merkezi” sırası yürürlükten kaldırılmıştır.
-(6) 11/10/2011 tarihli ve 662 sayılı KHK’nın 58 inci maddesiyle bu Cetveldeki “19) Elektrik İşleri Etüd İdaresi Genel Müdürlüğü” sırası yürürlükten kaldırılmıştır.
-8690-11
-27) Türkiye Atom Enerjisi Kurumu
-28) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
-(…) (1)
-30) Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı (5)
-31) (Mülga: 8/8/2011-648-KHK/19 md.)
-32) GAP Bölge Kalkınma İdaresi
-33) Özelleştirme İdaresi Başkanlığı
-34) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile; Yeniden düzenleme: 14/6/2012-6328/35 md.) (2) Kamu Denetçiliği Kurumu
-35) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu(3)
-36) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu(3)
-37) (Ek: 24/3/2010-5978/30 md.) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
-38) (Ek: 28/12/2010-6093/14 md.) Türkiye Yazma Eserler Kurumu Başkanlığı
-39) (Ek: 6/3/2011-KHK-643/13 md.) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
-40) (Ek: 6/3/2011-KHK-643/13 md.) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı
-41) (Ek: 8/8/2011-KHK-649/60 md.)Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
-42) (Ek: 11/10/2011-KHK-662/58 md.) Devlet Su İşleri Genel Müdürlüğü
-43) (Ek: 10/10/2011-KHK-658/12 md.)Türkiye Su Enstitüsü
-44) (Ek: 11/10/2011-KHK-663/58 md.) Türkiye İlaç ve Tıbbî Cihaz Kurumu
-45) (Ek: 21/6/2012-6332/22 md.) Türkiye İnsan Hakları Kurumu
-46) (Ek: 19/11/2014-6569/40 md.) Türkiye Sağlık Enstitüleri Başkanlığı
-(III) SAYILI CETVEL (4)
-(Değişik: 22/12/2005-5436/12 md.)
+3) Atatürk Araştırma Merkezi
+4) Atatürk Kültür Merkezi
+5) Türk Dil Kurumu
+6) Türk Tarih Kurumu
+7) Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
+8) Türkiye Bilimler Akademisi
+9) Karayolları Genel Müdürlüğü
+10) Devlet Tiyatroları Genel Müdürlüğü
+11) Devlet Opera ve Balesi Genel Müdürlüğü
+12) Orman Genel Müdürlüğü
+13) Vakıflar Genel Müdürlüğü
+14) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü
+15) Maden Tetkik ve Arama Genel Müdürlüğü
+16) Sivil Havacılık Genel Müdürlüğü
+17) Türk Akreditasyon Kurumu
+18) Türk Standardları Enstitüsü
+19) Türk Patent ve Marka Kurumu
+20) Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı
+21) Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı
+22) GAP Bölge Kalkınma İdaresi
+23) Özelleştirme İdaresi Başkanlığı
+24) Kamu Denetçiliği Kurumu
+25) Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumu
+26) Meslekî Yeterlilik Kurumu
+27) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
+28) Türkiye Yazma Eserler Kurumu Başkanlığı
+29) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
+30) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı
+31) Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
+32) Devlet Su İşleri Genel Müdürlüğü
+33) Türkiye Su Enstitüsü
+34) Türkiye İlaç ve Tıbbî Cihaz Kurumu
+35) Türkiye İnsan Hakları ve Eşitlik Kurumu
+36) Türkiye Sağlık Enstitüleri Başkanlığı
+37) Helal Akreditasyon Kurumu
+38) Maden ve Petrol İşleri Genel Müdürlüğü
+39) Türkiye Uzay Ajansı
+40) Türkiye Adalet Akademisi
+41) Kapadokya Alan Başkanlığı
+42) Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu
+43) (Ek:18/7/2021-7333/14 md.) Türkiye İstatistik Kurumu
+44) (Ek:18/1/2023-7432/11 md.) Uludağ Alan Başkanlığı
+45) (Ek:7/11/2023-7471/5 md.) Kentsel Dönüşüm Başkanlığı
+46) (Ek:12/3/2025-7545/19 md.) Siber Güvenlik Başkanlığı
+47) (Ek:10/7/2025-7553/11 md.) Doğa Koruma ve Milli Parklar Genel Müdürlüğü
+(III) SAYILI CETVEL
+(Değişik:RG-16/10/2020-7254/5 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
 1) Radyo ve Televizyon Üst Kurulu
-2) Bilgi Teknolojileri ve İletişim Kurumu (4)
+2) Bilgi Teknolojileri ve İletişim Kurumu
 3) Sermaye Piyasası Kurulu
 4) Bankacılık Düzenleme ve Denetleme Kurumu
 5) Enerji Piyasası Düzenleme Kurumu
 6) Kamu İhale Kurumu
 7) Rekabet Kurumu
-8) Tütün ve Alkol Piyasası Düzenleme Kurumu (4)
-9) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu(6)
+8) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu
+9) Kişisel Verileri Koruma Kurumu
+10) Nükleer Düzenleme Kurumu
+11) Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
 (IV) SAYILI CETVEL
 (Değişik: 16/5/2006-5502/42 md.)
 SOSYAL GÜVENLİK KURUMLARI
 1- Sosyal Güvenlik Kurumu
 2- Türkiye İş Kurumu Genel Müdürlüğü
-_______________________
-(1) 6/3/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle, “29) İhracatı Geliştirme Etüt Merkezi” sırası yürürlükten kaldırılmıştır.
-(2) Bu sırada yer alan “Kamu Denetçiliği Kurumu”, 28/9/2006 tarihli ve 5548 sayılı Kanunun Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmış;14/6/2012 tarihli ve 6328 sayılı Kanunun 35 inci maddesi ile yeniden düzenlenmiştir.
-(3) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle bu bölüme “29) Kamu Denetçiliği Kurumu” ibaresinin eklenmesinden dolayı, bu kurumlara ait sıra numaraları yeniden teselsül ettirilmiştir.
-(4) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle; bu Cetvelde yer alan “Telekomünikasyon Kurumu” ibaresi “Bilgi Teknolojileri ve İletişim Kurumu”, “Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu” ibaresi “Tütün ve Alkol Piyasası Düzenleme Kurumu” olarak değiştirilmiş ve metne işlenmiştir.
-(5) 24/10/2011 tarihli ve 656 sayılı KHK’nin 20 nci maddesiyle, bu bölümün 30 uncu sırasnda yer alan “Türk İşbirliği ve Kalkınma İdaresi Başkanlığı” ibaresi “Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı” olarak değiştirilmiş ve metne işlenmiştir.
-(6) 26/9/2011 tarihli ve 660 sayılı KHK’nin 32 nci maddesiyle, bu cetvele “9) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu” sırası eklenmiştir.
-8690-12

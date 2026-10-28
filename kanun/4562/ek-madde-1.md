@@ -1,5 +1,5 @@
 Finansal kiralama
-Ek Madde 1 ‒(Ek: 20/2/2014-6525/23 md.)
+Ek Madde 1 ‒ (Ek: 20/2/2014-6525/23 md.)
 OSB içinde yer alan taşınmazlar, finansal kiralama sözleşmesine konu edilebilir. Bu durumda:
 a) OSB yönetiminden uygunluk görüşü alınması zorunludur.
 b) Devlet tarafından arsa teşviki verilen arsalar için finansal kiralama sözleşmesi yapılamaz.

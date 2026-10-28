@@ -1,4 +1,4 @@
-Madde 10 - Sinema sanayi ve müzik sanatının gelişmesine katkıda bulunmak, sinema ve müzik sanatını desteklemek, tarihi ve kültürel zenginliklerin tanıtılması, fikrî haklara tecavüzün önlenmesi amacıyla kullanılmak üzere;
+Madde 10 – Sinema sanayi ve müzik sanatının gelişmesine katkıda bulunmak, sinema ve müzik sanatını desteklemek, tarihi ve kültürel zenginliklerin tanıtılması, fikrî haklara tecavüzün önlenmesi amacıyla kullanılmak üzere;
 a) Yerli ve yabancı eserlerden alınacak kayıt ve tescil ücretleri,
 b) Her film ve video kopyasından bandrol başına alınacak ücretler,
 c) Her plak ve her ses kaseti başına alınacak ücretler,

@@ -1,7 +1,6 @@
 Kamulaştırma hâlinde mülkiyetin ne zaman sona ereceği özel kanunla belirlenir
 İKİNCİ AYIRIM
-TAŞINMAZ MÜLKİYETİNİN İÇERİĞİ
-VE KISITLAMALARI
+TAŞINMAZ MÜLKİYETİNİN İÇERİĞİ VE KISITLAMALARI
 A. Taşınmaz mülkiyetinin içeriği
 I. Kapsam
 Madde 718- Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstündeki hava ve altındaki arz katmanlarını kapsar.

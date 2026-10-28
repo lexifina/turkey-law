@@ -1,0 +1,1 @@
+Geçici Madde 4 – Halen görevde bulunan hakim ve savcıların, hakim adaylığına başlamadan önce, mahkemeler nezdinde yaptıkları avukatlık stajının tamamı ile serbest avukatlıkta geçen sürelerinin üçte ikisi geçmişe yönelik bir mali hak doğurmamak kaydıyla, kadro şartı aranmaksızın değerlendirilerek derece ve kademeleri tespit edilir.

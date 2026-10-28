@@ -1,2 +1,2 @@
 Paylar:
-Madde 17 – (Mülga: 21/2/2001-4629/1 md.)
+Madde 17- (Mülga: 21/2/2001-4629/1 md.)

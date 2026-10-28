@@ -1,4 +1,4 @@
-Geçici Madde 2 – (Değişik: 9/4/1986 - 3273/1 md.)
+Geçici Madde 2 – (Değişik: 9/4/1986-3273/1 md.)
 Bu Kanunun Geçici 1 inci maddesinde belirtilen ücretleri;
 1/10/1985'den 31/12/1986 tarihine kadar yüzde elli,
 1/1/1987'den 31/12/1987 tarihine kadar yüzde yüz,

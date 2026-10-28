@@ -1,0 +1,3 @@
+Belli para gösterme mecburiyeti:
+Madde 11 – (Değişik: 29/7/1970 - 1318/94 md.)
+Cari hesap şeklinde açılan kredilerle her türlü ikrazata ait taahhütname ve mukavelenameler (İskonto ve iştira senetleri taahhütnamesi - Dispans - dahil) ve bunların temlik, yenileme, devir ve değiştirilmesine müteallik bütün kağıtlarda ve keza matlupların devir ve temlikine ilişkin mukavelename ve temliknamelerde ikraz veya temlik edilen para miktarının veya azami haddinin gösterilmesi mecburidir. Gösterilmediği takdirde bu kağıtların her birinden alınması gereken Damga Vergisi ile cezası olayın meydana çıktığı tarihte, ilgili bulunduğu cari hesapta kayıtlı kredi veya ikrazat miktarına göre hesaplanır ve alınır.

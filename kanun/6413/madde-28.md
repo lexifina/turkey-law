@@ -1,5 +1,6 @@
 YEDİNCİ BÖLÜM
-Disiplin Cezaları Dışındaki İdari Yaptırımlar ve Disiplin Cezalarının Etkileri
+Disiplin Cezaları Dışındaki İdari Yaptırımlar ve
+Disiplin Cezalarının Etkileri
 Geçici olarak kontrol altına alma tedbiri
 MADDE 28 – (1) Ekli (1) sayılı çizelgede oda hapsi cezası vermeye yetkili kılınmış disiplin amirleri, diğer kanunlar ile verilmiş yakalama yetkisi haricinde aşağıdaki durumlardan birisi bulunduğunda veya benzer bir amaçla emri altındakileri geçici olarak kontrol altına almaya veya aldırmaya yetkilidir:
 a) Firar veya izin tecavüzündeyken yakalanarak birliğine teslim edilenlerin adli makamlar önüne çıkarılması

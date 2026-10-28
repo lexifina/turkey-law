@@ -1,2 +1,2 @@
 Cezaların güncelleştirilmesi
-Madde 27 - (Mülga: 23/1/2008 – 5728/578 md.)
+Madde 27 - (Mülga: 23/1/2008-5728/578 md.)

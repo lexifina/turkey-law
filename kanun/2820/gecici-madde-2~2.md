@@ -1,0 +1,1 @@
+Geçici Madde 2 – Siyasi Partiler, bu Kanunun 5 inci maddesi ile değiştirilen 2820 sayılı Siyasi Partiler Kanununun 42 nci maddesine göre önseçime esas üye listelerinin eksiklerini tamamlayarak bu Kanunun yayımı tarihinden itibaren iki ay içinde 2820 sayılı Siyasi Partiler Kanununun 10 uncu maddesi gereğince Cumhuriyet Başsavcılığına bildirirler.

@@ -12,3 +12,5 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5739 | 63 | 1/3/2008
 6000 | 61/A ve İşlenemeyen Hüküm | 30/6/2010
 6191 | 62 | 22/3/2011
+6413 | 1 | 16/2/2013
+7179 | 62 | 26/6/2019

@@ -5,5 +5,4 @@ Kullanıcılar tesis veya konutu için aldığı LPG’yi amacı dışında kull
 İKİNCİ KISIM
 Çeşitli Hükümler
 BİRİNCİ BÖLÜM
-Fiyat Oluşumu, Eşgüdüm, Bilgilerin
-Toplanması, Kayıt Düzeni, Denetim,
+Fiyat Oluşumu, Eşgüdüm, Bilgilerin Toplanması, Kayıt Düzeni, Denetim,

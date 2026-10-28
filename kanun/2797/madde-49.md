@@ -3,5 +3,5 @@ Madde 49 – Birinci başkanvekilleri ile daire başkanları, genel kurullardan 
 Kararların tasnifi işleri, Birinci Başkanlık Kurulu tarafından görevlendirilecek bir Yargıtay üyesinin başkanlığında yeteri kadar tetkik hakiminden oluşan Tasnif Kurulu tarafından yapılır.
 Tasnif Kurulu Başkanı dört yıl için görevlendirilir. Süre bitiminde yeniden görevlendirilebilir.
 Bu Kurulun görevleri şunlardır:
-a)Birinci fıkra hükmüne göre Yayın İşleri Müdürlüğünden verilen kararları tasnif etmek, daire ve kurullarınca özetlenmeyen kararları özetlemek,
+a) Birinci fıkra hükmüne göre Yayın İşleri Müdürlüğünden verilen kararları tasnif etmek, daire ve kurullarınca özetlenmeyen kararları özetlemek,
 b) Uygulanacak tasnif ilkelerini ve yöntemlerini, yapacağı inceleme ve araştırmalarla bilime uygun olarak saptamak.

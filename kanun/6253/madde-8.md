@@ -1,5 +1,5 @@
 Tutanak Hizmetleri Başkanlığı
-MADDE 8 – (1) Tutanak Hizmetleri Başkanlığının görevleri şunlardır:
+MADDE 8- (1) Tutanak Hizmetleri Başkanlığının görevleri şunlardır:
 a) Genel Kurul görüşmelerinin tutanağını tutmak, tutanak özetini hazırlamak ve TBMM Tutanak Dergisini baskıya hazırlamak.
 b) Komisyon kararı üzerine komisyon görüşmelerinin tutanağını tutmak ve yasama yılı sonunda Komisyon Tutanak Dergisini yayımlamak.
 c) Başkanlık Divanı ve Danışma Kurulunun toplantı tutanaklarını tutmak.

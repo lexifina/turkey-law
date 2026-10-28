@@ -1,0 +1,4 @@
+[1] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu maddeye “astsubay” ibaresinden sonra gelmek üzere “(yedek astsubay hariç)” ibaresi eklenmiştir.
+[2] 18/2/2021 tarihli ve 7281 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “ve uzman jandarmalarla bunları istihdam edecek Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dâhil)” ibaresi “, uzman jandarma ve uzman erbaşlar ile bunları istihdam eden Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı” şeklinde değiştirilmiştir.
+[3] 22/5/2012 tarihli ve 6318 sayılı Kanunun 79 uncu maddesi ile bu maddede yer alan “bir yıl” ibaresi “üç yıl” şeklinde değiştirilmiştir.
+[4] 18/2/2021 tarihli ve 7281 sayılı Kanunun 34 üncü maddesiyle, bu fıkrada yer alan “(Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dâhil)” ibaresi “, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı” şeklinde değiştirilmiştir.

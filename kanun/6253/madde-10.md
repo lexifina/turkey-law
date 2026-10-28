@@ -1,5 +1,5 @@
 Destek Hizmetleri Başkanlığı
-MADDE 10 – (1) Destek Hizmetleri Başkanlığının görevleri şunlardır:
+MADDE 10- (1) Destek Hizmetleri Başkanlığının görevleri şunlardır:
 a) Milletvekillerinin ve personelin yemek ve diğer ikram hizmetlerinin yerine getirilmesini sağlamak.
 b) Sosyal tesislerin sevk ve idaresini yapmak, lojman tahsis işlemleri ile kreş hizmetlerini yerine getirmek.
 c) Ulaşım hizmetlerinin yerine getirilmesini sağlamak.

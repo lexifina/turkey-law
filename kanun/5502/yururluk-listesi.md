@@ -1,6 +1,6 @@
 5502 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
 YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
-Değiştiren Kanunun/ KHK’ninNumarası | 5502 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası | 5502 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri | Yürürlüğe Giriş Tarihi
 5538 | Geçici Madde 1 Geçici Madde 2 | 20/5/2006 tarihinden geçerli olmak üzere 12/7/2006 12/7/2006
 5597 | 28, Ek madde 1 ve 2 Geçici Madde 2 | 1/1/2007 tarihinden geçerli olmak üzere 23/3/2007 23/3/2007
 5673 | 15 | 2/6/2007
@@ -11,4 +11,3 @@ Değiştiren Kanunun/ KHK’ninNumarası | 5502 sayılı Kanunun değişen veya 
 KHK/633 | 2, 12, 15, 33, 34, 37, Ek (I) Sayılı Cetvel | 12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
 KHK/665 | 2, 12, 13, 13/A, 20, 21, 29, Ek (I) Sayılı Cetvel | 2/11/2011
 KHK/666 | 28 28 28 | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011 tarihinde 15/1/2012 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011 tarihinde
-9782-1

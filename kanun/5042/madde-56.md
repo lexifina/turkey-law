@@ -1,6 +1,5 @@
 YEDİNCİ KISIM
-Hakka Tecavüz Halleri, Davalar ve
-Görevli Mahkeme
+Hakka Tecavüz Halleri, Davalar ve Görevli Mahkeme
 BİRİNCİ BÖLÜM
 Hakka Tecavüz Halleri
 Hakka tecavüz sayılan haller

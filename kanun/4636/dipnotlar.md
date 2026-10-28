@@ -1,0 +1,1 @@
+[1] 2/7/2018 tarihli ve 703 sayılı KHK’nin 81 inci maddesi ile bu Kanunun adı “Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığının Kuruluşu ve Görevleri Hakkında Kanunu” iken metne işlendiği şekilde değiştirilmiştir.

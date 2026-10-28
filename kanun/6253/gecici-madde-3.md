@@ -1,5 +1,5 @@
 Emeklilik
-GEÇİCİ MADDE 3 – (1) TBMM Genel Sekreterliği kadrolarında görev yapmakta olanlardan bu Kanunun yürürlüğe girdiği tarihte emekli aylığı bağlanmasına hak kazanmış olan ve bu tarihten itibaren dört ay içinde emeklilik başvurusunda bulunanlara emekli ikramiyesi, bu maddenin yayımı tarihi itibarıyla yaş haddinden emekliliğine;
+GEÇİCİ MADDE 3- (1) TBMM Genel Sekreterliği kadrolarında görev yapmakta olanlardan bu Kanunun yürürlüğe girdiği tarihte emekli aylığı bağlanmasına hak kazanmış olan ve bu tarihten itibaren dört ay içinde emeklilik başvurusunda bulunanlara emekli ikramiyesi, bu maddenin yayımı tarihi itibarıyla yaş haddinden emekliliğine;
 a) En fazla üç yıl kalmış olanlara yüzde otuz,
 b) Üç yıldan çok ve altı yıl dâhil, altı yıldan az kalmış olanlara yüzde kırk,
 c) Altı yıldan fazla kalmış olanlara yüzde elli,

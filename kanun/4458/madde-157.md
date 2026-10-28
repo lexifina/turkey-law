@@ -6,5 +6,5 @@ d) Gümrük kontrolü altında işleme rejimine tabi tutulabilir.
 e) Geçici ithalat rejimine tabi tutulabilir.
 f) 164 üncü maddeye göre gümrüğe terk edilebilir.
 g) İlgili kişinin, gümrük idarelerince gerekli görülen tüm bilgileri vermesi şartıyla imha edilebilir.
-Eşyanın (c),(d) ve (e) bentlerinde belirtilen rejimlerden birine tabi tutulması halinde, serbest bölgelerin işletilmesine ve gümrük gözetimine ilişkin koşullar da gözönünde bulundurularak, ilgili rejimin gerektirdiği düzenlemeler yönetmelikle belirlenir.
+Eşyanın (c), (d) ve (e) bentlerinde belirtilen rejimlerden birine tabi tutulması halinde, serbest bölgelerin işletilmesine ve gümrük gözetimine ilişkin koşullar da gözönünde bulundurularak, ilgili rejimin gerektirdiği düzenlemeler yönetmelikle belirlenir.
 2. Normal olarak ihracata bağlı olanaklardan yararlanan tarım politikası kapsamındaki eşya, yalnızca mutat elleçleme işlemine tabi tutulabilir. Bu işlemler izin alınmaksızın da yapılabilir.

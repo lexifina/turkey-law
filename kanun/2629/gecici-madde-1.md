@@ -1,0 +1,1 @@
+Geçici Madde 1 – Pilot, silah sistem operatörü, uçuş ekibi personeli ile denizaltıcı, dalgıç ve kurbağa adamların, hizmet yıllarının tespitinde bu Kanunun yürürlüğe girdiği tarihe kadar geçen uçuş veya dalış hizmet süreleri de dikkata alınır.

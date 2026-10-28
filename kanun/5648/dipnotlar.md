@@ -1,0 +1,3 @@
+[1] 2/7/2018 tarihli ve 703 sayılı KHK’nin 93 üncü maddesi ile Kanunun adı “Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Kuruluş ve Görevleri Hakkında Kanun” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 93 üncü maddesi ile bu fıkrada yer alan ‘’Başbakanlık’’ ibareleri ‘’Bakanlık’’ şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 93 üncü maddesi ile bu fıkrada yer alan ‘’Kurum, bu Kanunun’’ ibaresi ‘’ Tarım ve Kırsal Kalkınmayı Destekleme Kurumu, bu Kanunun ve kuruluşuna ilişkin Cumhurbaşkanlığı Kararnamesinin’’ şeklinde değiştirilmiştir.

@@ -1,6 +1,6 @@
 4857 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
-YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
- | Kanun / KHK No. | Kanun / KHK Resmi Gazete Tarihi | Kanun / KHK Yürürlüğe giriş tarihi | Anayasa Mahkemesi Kararı Tarih/No. | 4857 sayılı Kanunun değiştirilen maddeleri
+YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE
+ | Kanun/KHK No. | Kanun/KHK Resmî Gazete Tarihi | Kanun/KHK Yürürlüğe Giriş Tarihi | Anayasa Mahkemesi Kararı Tarih/ No. | 4857 Sayılı Kanunun Değiştirilen Maddeleri
 1. | 4884 | 17/6/2003 | 17/6/2003 | - | 3
 2. | 5378 | 7/7/2005 | 7/7/2005 | - | 108
 3. | 5538 | 12/7/2006 | 12/7/2006 | - | 2, 81
@@ -18,5 +18,4 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 15. | 6353 | 12/7/2012 | 12/7/2012 | - | 30
 16. | 6331 | 30/6/2012 | 30/12/2012 | - | 2, 4, 7, 25, 63, 69, 71, 77, 78, 79, 80, 81, 83, 84, 85, 86,87, 88, 89, 95, 98, 105, Geçici Madde 2
 17. | 6462 | 3/5/2013 | 3/5/2013 | - | 25, 30, 101
-18. | 6518 | 6/2/2014 28918 | 19/2/2014 | - | 5, 30, Ek Madde 1
-8460-2
+18. | 6518 | 6/2/2014 | 19/2/2014 | - | 5, 30, Ek Madde 1

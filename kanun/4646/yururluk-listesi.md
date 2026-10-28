@@ -1,24 +1,28 @@
-4646 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
-GÖSTERİR LİSTE
-Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının/ Tebliğin Numarası | 4646 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
-TEBLİĞ 14/4/2003 tarihli ve 25079 sayılı R.G | 9 | 2002 ve 2003 yılları için
-4918 | GEÇİCİ MADDE 5 | 2/5/2003 tarihinden geçerli olmak üzere 11/7/2003
-TEBLİĞ 20/12/2003 tarihli ve 25322 sayılı R.G | 9 | 2004 yılı için
-TEBLİĞ 31/12/2004 tarihli ve 25322 (3. Mükerrer) sayılı R.G | 9 | 1/1/2005 tarihinden geçerli olmak üzere
-TEBLİĞ 26/4/2005 tarihli ve 25797 sayılı R.G | 9 | 1/1/2005 tarihinden geçerli olmak üzere
-5367 | 4, GEÇİCİ MADDE 2 | 25/6/2005
-5669 | GEÇİCİ MADDE 3 | 12/6/2007
+4646 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA
+ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ
+TARİHLERİNİ GÖSTERİR TABLO
+Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası | 4646 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri | Yürürlüğe Giriş Tarihi
+4918 | Geçici Madde 5 | 2/5/2003 tarihinden geçerli olmak üzere (11/7/2003)
+5367 | 4, Geçici Madde 2 | 25/6/2005
+5669 | Geçici Madde 3 | 12/6/2007
 5728 | 9, 10, 12 | 8/2/2008
-5784 | 7, 11, 12, GEÇİCİ MADDE 2 | 26/7/2008
-TEBLİĞ 5/12/2008 tarihli ve 27075 sayılı R.G | 9 | 1/1/2009 tarihinden geçerli olmak üzere
-TEBLİĞ 17/12/2010 tarihli ve 27788 sayılı R.G | 9 | 1/1/2011 tarihinden geçerli olmak üzere
-7934-4
+5784 | 7, 11, 12, Geçici Madde 2 | 26/7/2008
 6111 | 4 | 25/2/2011
-TEBLİĞ 23/12/2011 tarihli ve 28151 sayılı R.G | 9 | 1/1/2012 tarihinden geçerli olmak üzere
 6352 | 10 | 5/7/2012
-6353 | GEÇİCİ MADDE 3 | 12/7/2012
-TEBLİĞ 19/12/2012 tarihli ve 28502 sayılı R.G | 9 | 1/1/2013 tarihinden geçerli olmak üzere
+6353 | Geçici Madde 3 | 12/7/2012
 6491 | 4 | 11/6/2013
-TEBLİĞ 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı R.G | 9 | 1/1/2014
 6552 | 4 | 11/9/2014
+6719 | 3, 4, 7 | 17/6/2016
+7033 | 4 | 1/7/2017
+7103 | Geçici Madde 2 | 27/3/2018
+7257 | 3, 4, 7 Ek Madde 1 | 2/12/2020
+7346 | 6, Ek Madde 2 | 25/12/2021
+7349 | Geçici Madde 6 | 25/12/2021
+7351 | 11 | 22/1/2022
+7429 | Geçici Madde 7 | 28/12/2022
+7451 | 11, Ek Madde 3, Geçici Madde 2 | 10/4/2023
+Anayasa Mahkemesinin 8/11/2023 tarihli ve E.: 2023/97; K.: 2023/192 sayılı Kararı | Geçici Madde 2 | 8/12/2023
+7501 | 3, 4 | 11/5/2024
+7521 | Geçici Madde 8 | 26/7/2024
+Anayasa Mahkemesinin 14/3/2024 tarihli ve E.: 2022/21; K.: 2024/79 sayılı Kararı | 6 | Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (14/3/2025)
+7577 | Geçici Madde 9 | 17/4/2026

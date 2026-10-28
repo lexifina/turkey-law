@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 2 – (1) Bu Kanunda geçen;
+MADDE 2- (1) Bu Kanunda geçen;
 a) TBMM: Türkiye Büyük Millet Meclisini,
 b) Genel Kurul: Türkiye Büyük Millet Meclisi Genel Kurulunu,
 c) İçtüzük: Türkiye Büyük Millet Meclisi İçtüzüğünü,

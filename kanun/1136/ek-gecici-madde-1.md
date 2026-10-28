@@ -1,0 +1,2 @@
+Ek Geçici Madde 1 – (Ek: 31/10/1980 - 2329/3 md.)
+Bu Kanunun yürürlüğe girmesinden sonra, değiştirilen 168 nci madde hükümleri uyarınca hazırlanacak ilk tarifeler yürürlüğe girinceye kadar açılan davalar veya başlayan hukuki yardımlarla ilgili olarak değer veya miktarın bir milyar lirayı aşan bölümü için takdir edilecek nispi avukatlık ücretinin hesabında, yürürlükte olan tarifelere bakılmaksızın, binde bir oranı uygulanır.

@@ -1,6 +1,5 @@
 DÖRDÜNCÜ AYIRIM
-PAYLAŞMANIN TAMAMLANMASI
-VE SONUCU
+PAYLAŞMANIN TAMAMLANMASI VE SONUCU
 A. Paylaşmanın sonuçlandırılması
 I. Paylaşma sözleşmesi
 Madde 676- Mirasçılar arasında payların oluşturulması ve fiilen alınması veya aralarında yapacakları paylaşma sözleşmesi mirasçıları bağlar.

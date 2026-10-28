@@ -5,4 +5,4 @@ c) İlk öğrenimini yapmamış olanların en geç beş yıl içinde bu öğreni
 d) (b) ve (c) bentlerindeki şartları yerine getiremiyenler emekliye sevk edilir.
 e) Bu Kanun yürürlüğe girmeden önce iller kuruluşunda maaşlı kadroya dahil edilenlerden, evvelce ücretli hizmeti olanların, ücrette geçen süreleri bu madde uyarınca terfilerine sayılır.
 f) Halen görevi başında bulunan Kur'an öğreticileri de yukarıdaki bendler dairesinde bu kanuna ekli 2 sayılı cetveldeki aylıklı Kur'an öğretici kadrolarına alınırlar.
-Emeklilik durumları için T.C.Emekli Sandığı Kanunu hükümleri saklıdır.
+Emeklilik durumları için T.C. Emekli Sandığı Kanunu hükümleri saklıdır.

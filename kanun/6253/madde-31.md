@@ -1,5 +1,5 @@
 Yasama Uzmanlığı
-MADDE 31 – (1) Yasama uzmanları mesleğe özel yarışma sınavıyla Yasama Uzman Yardımcısı olarak alınırlar.
+MADDE 31- (1) Yasama uzmanları mesleğe özel yarışma sınavıyla Yasama Uzman Yardımcısı olarak alınırlar.
 (2) Yasama Uzman Yardımcısı olarak atanabilmek için 657 sayılı Kanunun 48 inci maddesinde sayılan genel şartlara ilave olarak aşağıdaki şartlar aranır:
 a) En az dört yıllık lisans eğitimi veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakültelerinden veya bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurt içindeki veya yurt dışındaki yükseköğretim kurumlarından mezun olmak.
 b) Sınavın yapıldığı tarihte otuz beş yaşını doldurmamış olmak.
