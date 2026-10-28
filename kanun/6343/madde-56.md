@@ -1,0 +1,1 @@
+Madde 56 – Giriş ve yıllık aidatı ile haysiyet divanınca verilmiş her türlü para cezalarını kendilerine yapılan yazılı tebligata rağmen, tebliğ tarihinden itibaren 30 gün içersinde ödemiyen oda azaları hakkında İcra ve İflas Kanunu hükümleri tatbik olunur.
