@@ -1,0 +1,4 @@
+Geçici Madde 10 – (Ek : 25/5/1995 - 4108/37 md.)
+(Değişik birinci fıkra : 20/6/2001 - 4684/19 md.) 5422 sayılı Kurumlar Vergisi Kanununun geçici 28 inci maddesi ile geçici 29 uncu maddesinin birinci fıkrasının (6) ve (7) numaralı bentleri kapsamındaki teslimler vergiden müstesnadır.
+Bu şekilde teslim edilen kıymetlerin iktisabında yüklenilen ve teslimin yapıldığı dönemde indirilemeyen katma değer vergisi, bu hesap dönemine ait kurumlar vergisi matrahının tespitinde gider olarak kabul edilir.
+Şu kadar ki; satış nedeniyle oluşan kazancın tamamının, teslimi takip eden hesap dönemi başından itibaren ikinci hesap dönemi sonuna kadar ödenmiş sermayeye dönüştürülmemesi halinde, satıştan doğan kazancın ödenmiş sermayeye dönüşmeyen kısmına ait katma değer vergisi, teslimin yapıldığı tarihteki katma değer vergisi nispetine göre hesaplanarak 213 sayılı Vergi Usul Kanunu hükümlerine göre tarh edilir.

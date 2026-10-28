@@ -1,0 +1,3 @@
+Geçici Madde 33 – (Ek: 10/9/2014-6552/27 md.)
+31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun geçici 41 inci maddesi kapsamında taşınmazların Sosyal Güvenlik Kurumuna devir ve teslimi ile bu taşınmazların Sosyal Güvenlik Kurumu tarafından (müzayede mahallerinde yapılan satışlar dâhil) devir ve teslimi 31/12/2028 tarihine kadar katma değer vergisinden müstesnadır.[122]
+Bu kapsamda vergiden istisna edilen işlemler bakımından 30 uncu maddenin birinci fıkrasının (a) bendi hükmü uygulanmaz. Maliye Bakanlığı, istisnaya ilişkin usul ve esasları belirlemeye yetkilidir.
