@@ -1,0 +1,2 @@
+Madde 4 – Zabıt varakalarının üçüncü madde mucibince Ereğli Kömürleri İşletme İdaresine tevdiini takip eden aybaşından itibaren bu idare ocaklara ve bütün müştemilat ve teferruatına vaziyed eder.
+Birinci fıkra mucibince Ereğli Kömürleri İşletme İdaresinin el koyduğu tarihten itibaren imtiyaz ve imal ruhsat tezkeresi sahiplerinin, müstecirlerin ve intifa hakkı sahiplerinin ocaklar ile alakası kesilmiş olur.
