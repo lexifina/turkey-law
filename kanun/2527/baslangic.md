@@ -1,0 +1,8 @@
+TÜRK SOYLU YABANCILARIN TÜRKİYE'DE MESLEK VE SANATLARINI
+SERBESTÇE YAPABİLMELERİNE, KAMU, ÖZEL KURULUŞ VEYA
+İŞYERLERİNDE ÇALIŞTIRILABİLMELERİNE İLİŞKİN KANUN
+Kanun Numarası : 2527
+Kabul Tarihi : 25/9/1981
+Yayımlandığı Resmî Gazete : Tarih: 29/9/1981 Sayı: 17473
+Yayımlandığı Düstur : Tertip: 5 Cilt: 20 Sayfa: 428
+Amaç:
