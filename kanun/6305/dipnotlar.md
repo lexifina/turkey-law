@@ -1,0 +1,5 @@
+[1] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 67 nci maddesi ile bu bentte yer alan “ve bu Kanuna” ibaresi “, Cumhurbaşkanlığı kararnameleriyle ve bunlara” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 67 nci maddesi ile bu fıkrada yer alan “Bakanın teklifi ile Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[3] 17/1/2019 tarihli ve 7161 sayılı Kanunun 61 inci maddesiyle bu fıkraya “ve benzeri doğal afetler” ibaresinden sonra gelmek üzere “ile diğer özellik arz eden riskler” ibaresi eklenmiştir.
+[4] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 67 nci maddesi ile bu fıkrada yer alan “Bakanın teklifi ile Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[5] Bu maddede yer alan tarife ve talimatlarla ilgili olarak, 31/12/2016 tarihli ve 29935 (3.Mükerrer) sayılı Resmi Gazete’de yayımlanan Başbakanlık (Hazine Müsteşarlığı) ‘ın Zorunlu Deprem Sigortası Tarife ve Talimat Tebliğine bakınız.
