@@ -1,0 +1,1 @@
+[1] 19/6/2010 tarihli ve 6000 sayılı Kanunun 11 inci maddesiyle, bu maddenin birinci fıkrasında yer alan "öğrencilere" ibaresinden sonra gelmek üzere ", personel ve amortisman giderleri hariç," ibaresi eklenmiştir.
