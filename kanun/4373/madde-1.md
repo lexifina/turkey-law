@@ -1,0 +1,1 @@
+Madde 1 – Yüksek seviye gösteren umumi ve hususi, kapalı veya akarsuların taşmasiyle su altında kalan veya su baskınlarına uğrayabilecek olan sahaların sınırları Cumhurbaşkanı kararı ile tesbit ve ilan edilir.[2]
