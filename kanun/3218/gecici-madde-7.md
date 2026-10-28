@@ -1,0 +1,2 @@
+Geçici Madde 7- (Ek:26/1/2023-7435/4 md.)
+Bu maddenin yürürlüğe girdiği tarihten önce bölge içi doğal gaz şebekesi yatırımı işleticilerce yapılmış olan serbest bölgelerde, işleticilerin bölge içi doğal gaz dağıtım ve satış faaliyetleri, 9 uncu maddenin üçüncü fıkrasına uygun olarak devam eder. Bu maddenin yürürlüğe girdiği tarihten önce bölge içi doğal gaz şebekesi yatırımı doğal gaz dağıtım şirketlerince yapılmış olan serbest bölgelerde, işleticilerin bölge içi doğal gaz dağıtım ve satış yetkisi doğal gaz dağıtım şirketlerine devredilmiş sayılır.
