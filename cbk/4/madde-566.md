@@ -1,0 +1,5 @@
+KIRKINCI BÖLÜM
+Türkiye Bilimler Akademisi
+Amaç
+MADDE 566 – (1) Bu bölümün amacı, Türkiye’de tüm bilim alanlarındaki araştırmaları, bilim insanlığını ve araştırıcılığı özendirmek ve bu alanlarda emeği geçenleri onurlandırmak; gençleri bilim ve araştırma alanına yöneltmek; Türkiye’deki bilim insanları ve araştırıcıların toplumsal statülerinin yükseltilmesi ve korunmasına çalışmak; Türkiye’nin bilim diplomasisine katkı sunmak; bilim ve araştırma standartlarının yükseltilmesine yardım etmek amacıyla kurulan, Sanayi ve Teknoloji Bakanlığı ile ilgili, tüzel kişiliğe, bilimsel, idari ve mali özerkliğe sahip, özel bütçeli Türkiye Bilimler Akademisinin (kısa adı TÜBA) teşkilat, görev ve yetkilerini düzenlemektir.[151][152]
+(2) Akademi, bu Bölümde belirtilmeyen hallerde özel hukuk hükümlerine tabidir.

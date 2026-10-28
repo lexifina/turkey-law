@@ -1,0 +1,2 @@
+Organlar
+MADDE 552 – (1) Türk Standardları Enstitüsünün organları Genel Kurul, Teknik Kurul, Yönetim Kurulu ve Denetleme Kurulu ile İhtisas Kurullarıdır.

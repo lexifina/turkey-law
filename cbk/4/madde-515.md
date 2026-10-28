@@ -1,0 +1,2 @@
+Yurt dışı sağlık hizmet birimleri
+MADDE 515 – (Mülga:RG-21/11/2023-32376-C.K-155/12 md.)

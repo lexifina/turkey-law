@@ -1,0 +1,2 @@
+Genel Kurulun görevleri
+MADDE 230 – (1) Genel Kurulun görevleri, kalkınma plan ve programları doğrultusunda işletmelerin teknolojik gelişmelere ve serbest rekabet ortamına uyumunu sağlamak maksadıyla işletmelere ilişkin geliştirme ve destekleme kararlarının alınması, uygulamaların planlanması ve koordinasyonunun sağlanması bakımından tedbirler almak, düzenleyici direktifler vermek, Başkanlığın faaliyet raporu ile performans programını incelemek ve önerilerde bulunmaktır.[90]

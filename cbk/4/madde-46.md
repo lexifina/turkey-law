@@ -1,0 +1,2 @@
+Strateji Geliştirme Dairesi Başkanlığı
+MADDE 46 - (Mülga:RG-9/6/2022-31861-C.K-103/12 md.)

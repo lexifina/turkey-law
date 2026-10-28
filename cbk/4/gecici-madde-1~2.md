@@ -1,0 +1,2 @@
+Afet ve Acil Durum Yönetimi denetçiliğine atanma
+GEÇİCİ MADDE 1 - (1) Başkanlık teşkilatında en az dört yıllık lisans eğitimi veren yükseköğretim kurumlarını bitirerek mesleğe özel yarışma sınavı ile girmiş ve belirli süreli meslek içi eğitim ve özel bir yeterlik sınavı sonucunda atanmış olanlar, bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde Afet ve Acil Durum Yönetimi Denetçisi olarak atanabilirler. Bu şekilde atanacakların sayısı yediyi geçemez ve bu şekilde atananların kadroları ihdas edilmiş sayılır.

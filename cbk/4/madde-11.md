@@ -1,0 +1,5 @@
+Adli tıp şube müdürlükleri[14]
+MADDE 11 - (1) Adli tıp şube müdürlükleri, Adalet Bakanlığınca ağır ceza mahkemesi bulunan yerlerde kurulur. Ancak ağır ceza mahkemesi bulunmayan ilçelerde de coğrafi durum ve iş yoğunluğu da göz önünde tutularak adlî tıp şube müdürlükleri kurulabilir. Adli tıp şube müdürlükleri, iş hacmine göre bir veya birden fazla adlî tıp uzmanı ve diğer personelden oluşur.
+(2) Adli tıp şube müdürlüğünde görevli personel, Adalet Bakanlığınca görev sınırları belirlenen yerlerde bulunan mahkemeler, hâkimlikler ve savcılıklar tarafından adlî tıpla ilgili olmak üzere gerekli görülecek otopsi, muayene ve keşifleri, gerekirse olay yerine de gitmek suretiyle yaparak bu hususta rapor vermek ve yapılan davet üzerine sözlü görüşlerini bildirmekle yükümlüdür. Adli tıp şube müdürlüğü bulunmayan yerlerde bu görevler adlî tabip ve diğer personel tarafından yerine getirilir.
+(3) (Ek:RG-10/10/2024-32688-C.K-165/9 md.) İstanbul’da bulunan adli tıp şube müdürlükleri, iş durumu ve coğrafi konumları dikkate alınarak doğrudan Kurum merkezine bağlanabilir.
+(4) Adli tıp şube müdürlüklerinin çalışma usul ve esasları yönetmelikte gösterilir.[15]
