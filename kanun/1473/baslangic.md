@@ -1,0 +1,9 @@
+TÜRK HAVA KUVVETLERİNİN GÜÇLENDİRİLMESİ VE
+MİLLİ HAVA SANAYİMİZİN KURULMASI AMACIYLA
+KATILMA PAYI İHDASI VE MİLLİ PİYANGO HASILATININ
+BU GAYEYE SARFI HAKKINDA KANUN[1]
+Kanun Numarası : 1473
+Kabul Tarihi : 25/8/1971
+Yayımlandığı Resmî Gazete : Tarih : 28/8/1971 Sayı : 13940
+Yayımlandığı Düstur : Tertip : 5 Cilt : 10 Sayfa : 3100
+Konu:
