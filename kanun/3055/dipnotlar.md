@@ -1,0 +1,2 @@
+[1] Bu Kanunun adı “BAŞBAKAN VE BAKANLARIN TEMSİL ÖDENEKLERİ İLE DIŞARIDAN ATANAN BAKANLARIN ÖDENEK VE YOLLUKLARI HAKKINDA KANUN” iken 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 191 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] Bu Kanunun Adı “CUMHURBAŞKANI YARDIMCILARI VE BAKANLARIN ÖDENEK VE YOLLUKLARI İLE TEMSİL ÖDENEKLERİ HAKKINDA KANUN” iken 27/3/2025 tarihli ve 7546 sayılı Kanunun 12 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
