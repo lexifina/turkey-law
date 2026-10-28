@@ -1,0 +1,3 @@
+Sporcuların ve spor yöneticilerinin izinli sayılmaları
+Madde 29 – Milletlerarası seviyede yurt içi ve yurt dışı spor müsabakaları ve bunların hazırlık çalışmalarına katılacak sporcu, hakem, antrenör, monitör, yöneticiler ve bu amaçla görevlendirilecek diğer görevliler, bağlı oldukları kurumlarınca organizasyonun devamı süresince izinli sayılırlar. Bunların özlük hakları kurumlarınca saklı tutulur. Öğrencilerin bu süreleri devamsızlık süresinin hesabında dikkate alınmaz.
+Sözleşmeli personel[19][20]

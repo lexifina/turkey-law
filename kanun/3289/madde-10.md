@@ -1,0 +1,3 @@
+Merkez Danışma Kurulunun görevleri
+Madde 10 – (Mülga: 2/7/2018-KHK-703/12 md.)
+Verilecek cezalar[12]
