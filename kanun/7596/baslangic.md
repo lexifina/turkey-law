@@ -1,0 +1,5 @@
+TASFİYESİNE KARAR VERİLEN BAZI YATIRIM FONLARI
+HAKKINDA KANUN
+Kanun Numarası : 7596
+Kabul Tarihi : 22/10/2026
+Yayımlandığı Resmî Gazete : Tarih: 27/10/2026 Sayı: 33413
