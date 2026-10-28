@@ -1,0 +1,2 @@
+[1] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlü” ibaresi “Engelli” şeklinde değiştirilmiştir.
+[2] 17/4/2008 tarihli ve 5754 sayılı Kanunun 91 inci maddesiyle; bu maddede yer alan “öğretmenlerin” ibaresi “öğretmenler ile din görevlilerinin” şeklinde; aynı maddede geçen “bunların sicilleri Milli Eğitim Bakanlığınca” ibaresi de “bunlardan öğretmen olanların sicilleri Milli Eğitim Bakanlığınca, din görevlisi olanların sicilleri ise Diyanet İşleri Başkanlığı tarafından” şeklinde değiştirilmiştir.
