@@ -1,0 +1,2 @@
+[1] 30/5/2013 tarve 6491 sayılı Kanunun 27 nci maddesi ile bu fıkrada yer alan “ecnebi tahlisiye gemilerinin” ibaresinden sonra gelmek üzere “ve petrol arama ve üretim faaliyetlerinde kullanılan deniz vasıtalarının” ibaresi eklenmiştir.
+[2] 27/12/2023 tarihli ve 7491 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “bin” ibaresi “kırk bin”, “yirmibeşbin” ibaresi “iki milyon”, “beşyüz” ibaresi “yirmi bin” ve “beşbin” ibaresi “iki yüz bin” şeklinde değiştirilmiştir.
