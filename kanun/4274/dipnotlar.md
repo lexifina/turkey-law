@@ -1,0 +1,2 @@
+[1] 27/1/1954 tarih ve 6234 sayılı Kanunun 12. maddesi hükmü gereğince metinde geçen “Köy enstitüleri” deyimi “İlköğretmen okulu” olarak değiştirilmiştir.
+[2] Maddede bahsi geçen sandık, 4/9/1947 tarih ve 5129 Sayılı Kanunun 8 inci maddesi ile yeniden kurulmuş; 27/1/1954 tarih ve 6234 sayılı Kanunun 6 ncı maddesi ile adı ve mahiyeti değiştirilmiş; son olarak 20/11/1959 tarih ve 7381 sayılı Kanunun 4 üncü maddesinin, 6234 sayılı Kanunun 6 ncı maddesini yürürlükten kaldırmasıyla hükmü ve uygulanma imkanı kalmamıştır.
