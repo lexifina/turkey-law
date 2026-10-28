@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 73 üncü maddesiyle, bu fıkrada yer alan “Sağlık ve Sosyal Yardım Bakanlığının koordinatörlüğünde, Milli Savunma, Milli Eğitim ve Sosyal Güvenlik Bakanlıklarınca birlikte hazırlanarak Bakanlar Kurulu kararı ile” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 73 üncü maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.
