@@ -1,0 +1,1 @@
+Geçici Madde 1 – 1624 sayılı kanuna ek 4445 sayılı kanunun 6 ncı maddesi ile bakanlık seferberlik müdürlüğüne mevdu (Milli Seferberlik ve ordu seferberliğine yardım işleri) İçişleri Bakanlığınca Sivil Savunma Genel Müdürlüğü merkez ve taşra teşkilatında kurulacak birer büro tarafından idare olunur.

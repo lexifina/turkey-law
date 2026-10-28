@@ -1,0 +1,1 @@
+Geçici Madde 3 – 3502 sayılı Hava Taarruzlarına Karşı Korunma Kanununun yayımından 7126 sayılı Kanunun yürürlüğe girdiği tarihe kadar pasif korunma ödenekleriyle satın alınmış olan veya sair suretlerle temin ve tedarik edilmiş bulunan bilcümle teçhizat, alat, edevat, ekiplere ait malzeme ve teçhizat ve sair eşya Sivil Savunma Genel Müdürlüğüne devrolunur.

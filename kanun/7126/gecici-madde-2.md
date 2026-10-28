@@ -1,0 +1,1 @@
+Geçici Madde 2 – 3502 sayılı Hava Taarruzlarına Karşı Korunma Kanunu uyarınca özel idareler ve belediyeler bütçelerine konulmuş ve sarf edilmemiş pasif korunma ödenekleri Sivil Savunma Fonuna aktarılır.
