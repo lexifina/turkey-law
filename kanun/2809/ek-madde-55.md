@@ -1,0 +1,19 @@
+Ek Madde 55 – (Ek: 26/6/2003-4909/1 md.)
+Ankara’da Türkiye Odalar ve Borsalar Eğitim ve Kültür Vakfı tarafından 2547 sayılı Kanunun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tâbi olmak üzere, kamu tüzel kişiliğine sahip TOBB Ekonomi ve Teknoloji Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
+Bu Üniversite, Rektörlüğe bağlı olarak;
+a) Fen-Edebiyat Fakültesi,
+b) İktisadî ve İdarî Bilimler Fakültesi,
+c) Mühendislik Fakültesi,
+d) Sosyal Bilimler Enstitüsü,
+e) Fen Bilimleri Enstitüsünden,
+f) (Ek: 19/2/2009-5839/1 md.) Ankara ve kalkınmada öncelikli yöreler öncelikli olmak üzere, Milli Eğitim Bakanlığı ile TOBB Ekonomi ve Teknoloji Üniversitesi tarafından birlikte tespit edilecek illerdeki eğitim bilimleri enstitülerinden,
+Oluşur.
+(Ek fıkra: 19/2/2009-5839/1 md.) İkinci fıkranın (f) bendinde belirtilen eğitim bilimleri enstitüleri, kampüslerinde uluslararası yüksek kalite ve standartlara sahip eğitim merkezi olmak amacıyla kurulabilecek 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununa tâbi ilk ve ortaöğretim okullarını laboratuvar okulları olarak kullanır. Kampüslerde açılacak ortaöğretim kurumları fen lisesi statüsünde eğitim verirler. Ankara’daki laboratuvar okulu ile TOBB Ekonomi ve Teknoloji Üniversitesinin fakülteleri, enstitüleri ve diğer birimlerinin öğrencileri ve öğretmenleri müşterek akademik ve sosyal çalışmalarda bulunur.
+(Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullardaki öğretmenler, kampüslerindeki eğitim bilimleri enstitüsünde yükseklisans veya doktora öğrencisi olabileceği gibi, eğitim bilimleri enstitüsü öğretim elemanları da laboratuvar okullarında öğretmenlik yapabilir.
+(Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullarında onuncu sınıftan onbirinci sınıfa geçişte, TOBB Ekonomi ve Teknoloji Üniversitesi Senatosu tarafından belirlenecek ve Milli Eğitim Bakanlığınca kabul edilerek onaylanacak uluslararası sınavlarda başarılı olma şartı aranır. Bu liselerden mezun olabilmek için uluslararası bakalorya diploması alınması da gereklidir.
+(Ek fıkra: 19/2/2009-5839/1 md.) TOBB Ekonomi ve Teknoloji Üniversitesinin eğitim bilimleri enstitülerine bağlı olarak kurulacak kampüslerdeki laboratuvar okullarında öğrenim gören öğrencilerin en az yüzde yetmişinin burslu olması zorunludur. Bu kampüslerde eğitim ve araştırma bilimleri ile sağlık merkezi, lojmanlar, misafirhaneler gibi her türlü tesisin kurulması ve işletilmesiyle ilgili ücretler dâhil her türlü giderler ile okullarda burslu okuyacak öğrencilere sağlanacak burslar;
+a) TOBB Ekonomi ve Teknoloji Üniversitesi ve Üniversitenin kampüslerinde bulunan okulların tüm personelinin ücretlerinden, bu Kanunun yürürlüğe girdiği tarihi takip eden aybaşından itibaren yirmibeş yıl süre ile kesilecek gelir vergisi tutarının özel bir hesaba aktarılmasıyla oluşan kaynaktan,
+b) Burssuz öğrencilerden alınacak eğitim ücretlerinden,
+c) TOBB Ekonomi ve Teknoloji Üniversitesinin temin veya kabul edeceği diğer gelir kaynakları ile bağışlardan,
+karşılanır. (a) bendinde belirtilen özel hesabın oluşturulması, kullanımı ve denetimine ilişkin usul ve esaslar, Maliye ve Milli Eğitim bakanlıkları ile TOBB Ekonomi ve Teknoloji Üniversitesince birlikte hazırlanacak yönetmelikle düzenlenir.
+Kırşehir Ahi Evran Üniversitesi:[119][120][121]

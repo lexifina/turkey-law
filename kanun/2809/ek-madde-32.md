@@ -1,0 +1,4 @@
+Ek Madde 32 – (Ek: 13/8/1993-KHK-496/2 md.)
+Anadolu Üniversitesi, yurt düzeyinde ve yurtdışında çağdaş iletişim ve eğitim-öğretim teknolojilerini kullanan Açıköğretim Fakültesinin kendi programlarının yanı sıra,bu fakültenin servis ve organizasyonu ile diğer birimlerinin ekstern öğrencilerine ve yalnızca açıköğretim sistemi uygulamak üzere kurulan fakülte ve yüksekokullarına hizmet vererek,aynı zamanda ağırlıklı açık üniversite fonksiyonu yapmakla görevli bir üniversitedir.
+Merkezi Eskişehir’de olan Anadolu Üniversitenin,açıköğretim öğrencilerinin yüzyüze eğitim-öğretim,kültür ve sportif hizmetleri için yurtiçinde gereken yerlerde mevcut kamuya ait eğitim-öğretim,kültür ve spor tesislerinin boş zamanları ile kamu televizyonunun bir kanalı kuruluşlarca üniversitenin kullanımına tahsis edilir.
+Başkent Üniversitesi:[93]
