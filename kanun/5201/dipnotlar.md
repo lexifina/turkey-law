@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 153 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 153 üncü maddesiyle, bu fıkrada yer alan “Kanunun yayımı tarihinden itibaren bir yıl içerisinde Bakanlar Kurulu kararı ile yürürlüğe konulacak” ibaresi “Cumhurbaşkanınca çıkarılan” şeklinde değiştirilmiştir.
