@@ -1,0 +1,1 @@
+[1] Bu fıkra 4/1/1961 tarih ve 213 sayılı Kanunun 368 inci maddesine eklenmiş olup, 1/1/2003 tarihinde yürürlüğe gireceği hüküm altına alınmış ise de, 11/8/1999 tarih ve 4444 sayılı Kanunun 14 üncü maddesiyle yürürlükten kaldırlmıştır.
