@@ -1,0 +1,5 @@
+[1] Bu KHK’nin Adı “Bilim, Sanayi ve Teknoloji Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname” iken, 2/7/2018 tarihli ve 703 sayılı KHK’nin 26 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir. Daha sonra bu KHK’nin Adı “Yükseköğretim Kurumlarının Araştırma ve Geliştirme Projelerinin Karşılanması Hakkında Kanun Hükmünde Kararname” iken 30/5/2019 tarihli ve 7176 sayılı Kanunun 20 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] Bu madde başlığı “Bilim ve Teknoloji Genel Müdürlüğü” iken, 2/7/2018 tarihli ve 703 sayılı KHK’nin 26 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[3] Bu bölüm başlığı “Taşra Teşkilatı, Şûra ve Çalışma Grupları” iken, 4/7/2012 tarihli ve 6353 sayılı Kanunun 58 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[4] Bu madde başlığı “Taşra Teşkilatı” iken, 4/7/2012 tarihli ve 6353 sayılı Kanunun 58 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[5] Bu madde başlığı” Sanayi ve Teknoloji Uzmanlığı” iken, 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
