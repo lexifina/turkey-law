@@ -1,0 +1,2 @@
+Ek Madde 19- (Ek:23/11/2022-7422/7 md.)
+Jandarma Genel Komutanlığının emniyet ve asayişe yönelik hizmetleri açısından güçlendirilmesi ve her yönüyle ileri düzeye yükseltilebilmesi amacıyla kurulan ve vakıf senedi 6/9/1997 tarihli ve 23102 sayılı Resmî Gazete’de ilan edilen Jandarma Asayiş Vakfı, 22/1/2004 tarihli ve 5072 sayılı Dernek ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanunun 1 inci maddesinin ikinci fıkrası kapsamındaki vakıflara ilişkin hükümlere tabidir.

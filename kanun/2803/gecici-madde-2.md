@@ -1,0 +1,1 @@
+Geçici Madde 2 – Jandarma Genel Komutanlığı bünyesindeki deniz birlik ve tesisleri ile buralarda hizmet yapan sivil memur ve işçiler; 9/7/1982 gün ve 2692 sayılı Kanunla kurulup 1985 yılına kadar Jandarma Genel Komutanlığına bağlı olarak görev icra edecek Sahil Güvenlik Komutanlığına geçerler.

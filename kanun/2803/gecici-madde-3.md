@@ -1,0 +1,1 @@
+Geçici Madde 3 – Bu Kanunun yürürlüğe girdiği tarihte, yeterli polis bulunmaması nedeniyle jandarmanın polis sahalarındaki görev ve sorumluluğu devam eder. Polis miktarına bağlı olarak jandarma bu sahaları Emniyet Genel Müdürlüğüne devreder.

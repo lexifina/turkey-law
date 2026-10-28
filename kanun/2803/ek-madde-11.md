@@ -1,0 +1,4 @@
+Adli yardım
+Ek Madde 11- (Ek: 2/1/2017-KHK-680/47 md.; Aynen kabul: 1/2/2018-7072/46 md.)
+Kanunlarla veya Cumhurbaşkanlığı Kararnameleriyle verilen; karakol, karakol nöbetçisi, devriye, sevk, nakliyat muhafazası hizmetlerinde veya emniyet, asayiş ile kamu düzeninin korunması ve kaçakçılığın men, takip ve tahkiki için görevlendirilen ya da önleyici, caydırıcı, düzenleyici, koruyucu, istihbari ve adli görev ile hizmetlerin yerine getirilmesi sırasında veya bu görevlerinden dolayı, karargâh personeli dahil sanık durumuna düşen personelin vekalet verdiği avukatın ücreti, olayın mahiyetine ve kusurun derecesine göre durumunun uygun görülmesi halinde Jandarma Genel Komutanlığı bütçesine konulan ödenekten karşılanır.[34]
+Avukat tutma ve ücret ödeme usul ve esasları ile adli yardıma esas olan görevlerin mahiyeti ve sınırları İçişleri Bakanlığı tarafından yönetmelikle düzenlenir.
