@@ -1,0 +1,1 @@
+Madde 27 – Hususi hastanelerde mütehassıslar tarafından kullanılan ve mahsus kanunlarındaki vasıflarda bulunan röntgen ve sesiriyat laboratuvarlarında hastanede yatmıyanlara ait muayeneler yapılabilir.
