@@ -1,0 +1,3 @@
+Ek Geçici Madde 2 – (Ek: 5/4/1983-2812/1 md.)
+1/7/1982 tarihli ve 2687 sayılı Kanunun 8 inci maddesine göre oy kullanma yeterliğine sahip olup yazım için gelen memurlara kendilerini yazdırmayanlardan, bu Kanun hükümlerine göre kütüklerin askı süresi içinde başvurarak kendilerini kütüğe yazdıranlar hakkında, bu suçtan dolayı takibat yapılmaz, ceza mahkümiyetleri sonuçlarını da kapsamak üzere ortadan kalkar. Ancak tahsil edilmiş para cezaları iade edilmez.
+Bu şekilde kütüğe kendilerini yazdıranlar, genel ve ara seçimleri ile mahalli seçimlerde ve halkoylamalarında oy kullanabilirler ve aday olabilirler.

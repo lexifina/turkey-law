@@ -1,0 +1,2 @@
+Seçmen Kütüğü Genel Müdürlüğü çalışma amaç ve ilkeleri:
+Madde 29 – (Mülga: 30/11/2017-7062/12 md.)

@@ -1,0 +1,3 @@
+Madde 22 - (Değişik: 13/3/2018-7102/3 md.)
+İlçede görev yapan tüm kamu görevlilerinin listesi, mülki idare amiri tarafından yerleşim yeri adresleri esas alınmak suretiyle ilgili ilçe seçim kurulu başkanlıklarına gönderilir. İlçe seçim kurulu başkanı, bu kamu görevlileri arasından ihtiyaç duyulan sandık kurulu başkanı sayısının iki katı kamu görevlisini ad çekme suretiyle tespit eder ve bu kişiler arasından mani hali bulunmayanları sandık kurulu başkanı olarak belirler.
+Sandık kurulu başkanının göreve gelmemesi halinde, kamu görevlileri arasından belirlenen üye, bu üyenin de bulunmaması durumunda en yaşlı üye kurula başkanlık eder.
