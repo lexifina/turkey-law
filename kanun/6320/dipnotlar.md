@@ -1,0 +1,3 @@
+[1] Bu Kanunun, uzman çavuşlarla ilgili hükümleri; 18/3/1986 tarih ve 3269 sayılı "Uzman Erbaş Kanunu"nun 20 inci maddesiyle yürürlükten kaldırılmış ve bu kanuna göre, uzman çavuş olarak istihdam edilenlerin, mezkür kanun hükümlerine tabi olacakları aynı kanunun geçici maddesinde hükme bağlanmıştır.
+[2] Bu kanunun; aylık ücret miktarları ile ilgili hükümleri, 31/7/1970 tarih ve 1323 sayılı Kanunun 19 uncu maddesinin (f) bendi ile yürürlükten kaldırılmıştır.
+[3] Bu maddenin denizaltıcı ve dalgıç tazminatına ait hükmü, 18/4/1963 tarih ve 223 sayılı Denizaltı, Dalgıç ve Kurbağa Adam Tazminat Kanununun 12 inci maddesi ile yürürlükten kaldırılmıştır.
