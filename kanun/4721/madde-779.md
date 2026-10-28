@@ -1,0 +1,8 @@
+SINIRLI AYNÎ HAKLAR
+BİRİNCİ BÖLÜM
+İRTİFAK HAKLARI VE TAŞINMAZ YÜKÜ
+BİRİNCİ AYIRIM
+TAŞINMAZ LEHİNE İRTİFAK HAKKI
+A. Konusu
+Madde 779- Taşınmaz lehine irtifak hakkı, bir taşınmaz üzerinde diğer bir taşınmaz lehine konulmuş bir yük olup, yüklü taşınmazın malikini mülkiyet hakkının sağladığı bazı yetkileri kullanmaktan kaçınmaya veya yararlanan taşınmaz malikinin yüklü taşınmazı belirli şekilde kullanmasına katlanmaya mecbur kılar.
+Yapma borçları, irtifaka başlı başına konu olamaz; ona ancak yan edim olarak bağlanabilir.

@@ -1,0 +1,4 @@
+B. Miras sözleşmesi
+I. Şekli
+Madde 545- Miras sözleşmesinin geçerli olması için resmî vasiyetname şeklinde düzenlenmesi gerekir.
+Sözleşmenin tarafları, arzularını resmî memura aynı zamanda bildirirler ve düzenlenen sözleşmeyi memurun ve iki tanığın önünde imzalarlar.

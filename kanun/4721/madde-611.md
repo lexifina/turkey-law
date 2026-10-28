@@ -1,0 +1,3 @@
+III. Mirasçılardan biri tarafından ret
+Madde 611- Yasal mirasçılardan biri mirası reddederse onun payı, miras açıldığı zaman kendisi sağ değilmiş gibi, hak sahiplerine geçer.
+Mirası reddeden atanmış mirasçının payı, mirasbırakanın ölüme bağlı tasarrufundan arzusunun başka türlü olduğu anlaşılmadıkça, mirasbırakanın en yakın yasal mirasçılarına kalır.

@@ -1,0 +1,4 @@
+B. Aile malları ortaklığı
+I. Oluşumu
+1. Koşulları
+Madde 373- Hısımlar, kendilerine geçen mirasın tamamı veya bir bölümüyle ya da ortaya başka mallar koymak suretiyle aralarında bir aile malları ortaklığı kurabilirler.

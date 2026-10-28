@@ -1,0 +1,3 @@
+3. El yazılı vasiyetname
+Madde 538- El yazılı vasiyetnamenin yapıldığı yıl, ay ve gün gösterilerek başından sonuna kadar mirasbırakanın el yazısıyla yazılmış ve imzalanmış olması zorunludur.
+El yazılı vasiyetname, saklanmak üzere açık veya kapalı olarak notere, sulh hâkimine veya yetkili memura bırakılabilir.

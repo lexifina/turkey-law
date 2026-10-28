@@ -1,0 +1,4 @@
+IV. Hükümleri
+1. Önmirasçı hakkında
+Madde 524- Önmirasçı, mirası atanmış mirasçılar gibi kazanır.
+Önmirasçı, mirasa artmirasçıya geçirme yükümlülüğü ile sahip olur.

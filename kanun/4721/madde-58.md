@@ -1,0 +1,5 @@
+III. Tüzük
+Madde 58- Her derneğin bir tüzüğü bulunur.
+Dernek tüzüğünde derneğin adı, amacı, (...)[5] gelir kaynakları, üyelik koşulları, organları ve örgütü ile geçici yönetim kurulunun gösterilmesi zorunludur.
+Dernek tüzüğü, kanunun emredici hükümlerine aykırı olamaz.
+Dernek tüzüğünde düzenlenmemiş konularda kanun hükümleri uygulanır.
