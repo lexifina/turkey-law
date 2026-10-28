@@ -1,0 +1,7 @@
+SPOR MÜSABAKALARINA DAYALI SABİT İHTİMALLİ VE MÜŞTEREK
+BAHİS OYUNLARININ ÖZEL HUKUK TÜZEL KİŞİLERİNE
+YAPTIRILMASI HAKKINDA KANUN
+Kanun Numarası : 5738
+Kabul Tarihi : 21/2/2008
+Yayımlandığı R.Gazete : Tarih : 27/2/2008 Sayı : 26800
+Yayımlandığı Düstur : Tertip : 5 Cilt : 47
