@@ -1,0 +1,5 @@
+Kurum personelinin statüsü
+MADDE 15 ‒ (1) Kurumun Başkan Yardımcıları, Daire Başkanları, Başkanlık Müşavirleri ve meslek personeli kadro karşılığı sözleşmeli statüde istihdam edilir. Kadro karşılığı sözleşmeli çalışan Kurum personeli ücret, mali ve sosyal haklar dışında; Kurumun kadrolu diğer personeli ise her türlü hak ve yükümlülükleri yönünden 657 sayılı Kanuna tabidir.
+(2) Kurumun hizmet birimlerinde uzmanlık gerektiren işlerde meslek personeli çalıştırılması esastır. Hizmet birimlerinde istihdam edilecek diğer personelin nitelikleri Başkanın önerisi üzerine Kurulca belirlenir.
+(3) İlgili kamu kurum ve kuruluşlarında görevli personelden ihtisasına ihtiyaç duyulanlar gerekli hallerde Kurumda geçici olarak görevlendirilebilir.
+(4) Kurul üyeleri ve Kurum personeli hakkında 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanır. 4483 sayılı Kanun uyarınca soruşturma izinleri Kurul Başkan ve üyeleri için Bakan, Kurum personeli için Başkan tarafından verilir.
