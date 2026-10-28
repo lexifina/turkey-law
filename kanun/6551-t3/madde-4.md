@@ -1,0 +1,1 @@
+Madde 4 – İnhisarlar İdaresi, bu kanunla inhisar dışı bırakılan maddelerin muhafazası için kullanılan ve mülkiyeti kendisine ait bulunan bütün gayrimenkulleri ve tesisleri Cumhurbaşkanı karariyle ve Muhasebei Umumiye Kanununun 24 üncü maddesine tabi tutulmaksızın umumi hükümler dairesinde hakiki veya hükmi şahıslara satmaya salahiyetlidir.[2]
