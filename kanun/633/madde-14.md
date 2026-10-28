@@ -1,0 +1,7 @@
+Madde 14 – (Değişik: 1/7/2010-6002/13 md.)
+Dinî Yayınlar Döner Sermaye İşletmesinin sermayesi, yirmi milyon Türk Lirasıdır. Bu miktarı on katına kadar artırmaya Cumhurbaşkanı yetkilidir. Bu Kanunun yürürlüğe girmesinden önce mevcut olan sermayenin tamamı ile sermayenin işletilmesinden elde edilen kârlar, tahsis edilen sermaye miktarına ulaşılıncaya kadar sermayeye ilave olunur. Ödenmiş sermaye tutarı, tahsis edilen sermaye tutarına ulaştıktan sonra kalan kârlar, izleyen mali yılın şubat ayı sonuna kadar genel bütçeye gelir kaydedilmek üzere ilgili muhasebe birimine yatırılır.[34][35]
+Döner sermayenin gelirleri; her türlü mal ve hizmet satış gelirleri, (…)[36] sınav giderlerini karşılamak üzere sınav hizmetlerinden elde edilen gelirler, bağış ve yardımlar ile diğer gelirlerden oluşur. Elde edilen gelirler döner sermayenin yürüteceği faaliyetlere ilişkin giderlerin karşılanmasında ve yönetmelikte belirtilecek diğer faaliyet alanlarında kullanılır.
+Bağış ve yardımlar tahsis olunan sermaye ile sınırlı olmaksızın sermayeye eklenir. Şartlı bağışlar şart kılınan yere harcanır.
+Döner Sermaye İşletmesi, Başkanlık yayınlarının satış yerleri ile ilgili hizmetleri yürütür, kitabevleri açabilir, yayın hizmetleri ile ilgili olarak ithalat ve ihracat yapabilir.
+Döner Sermaye İşletmesinin faaliyet alanları ile çalışma usul ve esasları yönetmelikle düzenlenir.
+Yöneticilerin sorumlulukları ve yetki devri:[37]
