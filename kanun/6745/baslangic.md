@@ -1,0 +1,7 @@
+YATIRIMLARIN PROJE BAZINDA DESTEKLENMESİ İLE
+BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE
+DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 6745
+Kabul Tarihi : 20/8/2016
+Yayımlandığı Resmî Gazete : Tarih : 7/9/2016 Sayı : 29824
+Yayımlandığı Düstur : Tertip : 5 Cilt : 57
