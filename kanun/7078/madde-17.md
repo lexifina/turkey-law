@@ -1,0 +1,2 @@
+MADDE 12 ila 16 - (4/6/1937 tarihli ve 3201 sayılı Emniyet Teşkilat Kanun ile ilgili olup yerine işlenmiştir.)
+MADDE 17- 18- (29/6/1938 tarihli ve 3533 sayılı Umumi Mülhak ve Hususi Bütçelerle İdare Edilen Daireler ve Belediyelerle Sermayesinin Tamamı Devlete veya Belediye veya Hususi İdarelere Aid Daire ve Müesseseler Arasındaki İhtilafların Tahkim Yolile Halli Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
