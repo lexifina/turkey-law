@@ -1,0 +1,10 @@
+[1] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 202 nci maddesiyle bu fıkrada yer alan “Bakanlığın teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 202 nci maddesiyle (c), (ç), (e), bentlerinde yer alan “Kurulun teklifi üzerine Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 202 nci maddesiyle (f) ve (g) bentlerinde yer alan “Kurulun teklifi üzerine Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 202 nci maddesiyle bu bentte yer alan “Kurulun teklifi üzerine, Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 202 nci maddesiyle bu bentte yer alan “Bakanlığın teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[6] 19/4/2018 tarihli ve 7139 sayılı Kanunun 42 nci maddesiyle, bu bentte yer alan “, toplulaştırma, tarla içi geliştirme hizmetleri” ibaresi madde metninden çıkarılmıştır.
+[7] 28/10/2020 tarihli ve 7255 sayılı Kanunun 27 nci maddesi ile 19 uncu maddesinin birinci fıkrasının (e) bendinin birinci cümlesine “güçlendirilmesi” ibaresinden sonra gelmek üzere “, modern sulama sistemlerinin geliştirilmesi” ibaresi eklenmiştir.
+[8] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 202 nci maddesiyle bu fıkrada yer alan “Bakanlığın teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[9] 28/3/2013 tarihli ve 6455 sayılı Kanunun 51 inci maddesiyle, bu fıkrada yer alan “hesaplanan kanunî faizi ile birlikte geri alınır” ibaresi “hesaplanan kanunî faizi ile birlikte anılan Kanun hükümlerine göre geri alınır” şeklinde değiştirilmiştir.
+[10] 23/3/2023tarihli ve 7442 sayılı Kanunun 4 üncü maddesiyle bu maddede yer alan “bitkisel üretimle ilgili destekleme ödemelerinde çiftçi kayıt sistemi” ibaresi “destekleme ödemelerinde Bakanlıkça belirlenen kayıt sistemleri” şeklinde değiştirilmiştir.
