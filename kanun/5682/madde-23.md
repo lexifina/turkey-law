@@ -1,0 +1,4 @@
+Madde 23 – (Değişik: 25/2/1981 - 2418/4 md.)
+Cumhurbaşkanı, harp tehlikesi veya memleket güvenliğine veya sağlık durumuna dokunan diğer olağanüstü haller dolayısıyla Türk vatandaşlarının yabancı memleketlere gitmelerini kısmen veya tamamen men edebileceği gibi, siyasi ve ekonomik mülahazalarla sadece belli ülkeler için geçerli pasaport düzenlenmesine de karar verebilir.[24]
+Harp tehlikesi, yabancı memleketlerde zuhur edebilecek dahili karışıklıklar veya salgın hastalıklar sebebiyle veya siyasi veya ekonomik nedenlerle dış memleketlerdeki pasaport vermeye yetkili Türkiye Cumhuriyeti makamları, Dışişleri Bakanlığının talimatı veya muvafakati ile Türk vatandaşlarına verecekleri pasaportları, yalnız belli memleketlere gitmek için muteber olmak üzere tanzim edebilirler.
+(Mülga üçüncü fıkra: 31/3/2011-6217/31 md.)
