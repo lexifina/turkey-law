@@ -1,0 +1,1 @@
+Madde 4 - 12 – (14/7/1965 tarih ve 657 sayılı Kanunun 36/A - 11, 43/B-k, 68/B-c, 79, 146, 202, 213 üncü maddeden sonra gelen Ek Madde ile Ek 23 üncü maddelerinin değiştirilmesi ile ilgili olup, yerlerine işlenmiştir.)
