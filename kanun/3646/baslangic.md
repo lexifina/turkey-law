@@ -1,0 +1,6 @@
+TARIM İŞLETMELERİ GENEL MÜDÜRLÜĞÜ
+ADINA TESCİL EDİLECEK TAŞINMAZ
+MALLAR HAKKINDA KANUN
+Kanun Numarası : 3646
+Kabul Tarihi : 16.5.1990
+Yayınlandığı Resmî Gazete : Tarih : 25.5.1990 Sayı : 20528
