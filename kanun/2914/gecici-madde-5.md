@@ -1,0 +1,1 @@
+Geçici Madde 5 – Geçici 4 üncü madde hükmü saklı kalmak üzere bu Kanunun yürürlüğe girdiği tarihten önce doçent kadrosuna atanmış bulunanların görev aylıkları, bir üst derecenin aynı kademesine yükseltilir.

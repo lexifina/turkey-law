@@ -1,0 +1,1 @@
+Geçici Madde 7 – 4/11/1981 tarih ve 2547 sayılı Yükseköğretim Kanununun 24/9/1982 tarih ve 2708 sayılı Kanun ile değişik geçici 23 üncü maddesinde belirtilen ve sözleşmeli olarak çalıştırılan öğretim elemanları ile idari personel 30/9/1984 tarihine kadar sahip oldukları statü içinde çalıştırılırlar. Bu tarihten sonra genel hükümlere tabi olurlar.

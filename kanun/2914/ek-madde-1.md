@@ -1,0 +1,3 @@
+Eğitim Öğretim Ödeneği:
+Ek Madde 1 – (Ek: 24/11/1994 - 4048/4 md.; Değişik: 20/3/1997 - KHK-570/6 md.)
+4.11.1981 tarih ve 2547 sayılı Kanunun 33 üncü maddesi ve 39 uncu maddesinin ikinci fıkrası uyarınca yurtdışına gönderilenler ile anılan Kanunun 38 inci maddesine göre diğer kurum ve kuruluşlarda görevlendirilenlerden yüksek öğretim kurumlarındaki kadro görevini yapmayanlar hariç olmak üzere Yükseköğretim Kurumlarında görevli öğretim elemanlarına en yüksek Devlet memuru aylığı (ek gösterge dahil) brüt tutarının on ikide biri, her ay aylıklarla birlikte Eğitim Öğretim Ödeneği olarak ödenir. Bu ödenek damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaz.
