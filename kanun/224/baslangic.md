@@ -1,0 +1,8 @@
+SAĞLIK HİZMETLERİNİN SOSYALLEŞTİRİLMESİ
+HAKKINDA KANUN[1]
+Kanun Numarası : 224
+Kabul Tarihi : 5/1/1961
+Yayımlandığı Resmî Gazete : Tarih: 12/1/1961 Sayı: 10705
+Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 1486
+Genel Hükümler
+Kanunun gayesi:

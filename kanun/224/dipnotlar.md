@@ -1,0 +1,1 @@
+[1] Bu Kanunun personelle ilgili mali hükümleri 29/6/1978 tarih ve 2162 sayılı Kanunun 13 üncü maddesi ile yürürlükten kaldırılmıştır. Ayrıca 657 sayılı Devlet Memurları Kanununa 31/7/1970 tarih ve 1327 sayılı Kanunun 90 ıncı maddesi ile eklenen ve 15/5/1975 tarih ve 1897 sayılı Kanunla değişik "Ek Geçici Madde 18" hükmüne bakınız.
