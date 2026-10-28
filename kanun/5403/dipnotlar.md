@@ -1,0 +1,15 @@
+[1] 30/4/2014 tarihli ve 6537 sayılı Kanunun 4 üncü maddesiyle bu maddenin başlığı “Tarım arazilerinin sınıflandırılması ve arazi parsel büyüklüklerinin belirlenmesi” iken metne işlendiği şekilde değiştirilmiştir.
+[2] Bu maddeye bağlı Ek-1 Sayılı Liste için Kanunun sonuna bakınız.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu fıkrada yer alan “Bakanlığın teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[4] 28/10/2020 tarihli ve 7255 sayılı Kanunun 18 inci maddesi ile 8/B maddesinin başlığında yer alan “yeter gelirli” ibaresi madde başlığından, birinci fıkrasında yer alan “tarımsal arazi ve yeter gelirli” ibaresi madde metninden çıkarılmıştır.
+[5] 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu fıkrada yer alan “Hazine Müsteşarlığının bağlı olduğu Bakanın ve Bakanlığın müşterek teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[6] 28/10/2020 tarihli ve 7255 sayılı Kanunun 19 uncu maddesi ile 8/I maddesinin üçüncü fıkrasında yer alan “Yeter gelirli tarımsal arazilerin mülkiyetinin devri konusunda anlaşmaları” ibaresi “Tarımsal arazilerin mülkiyetinin devri konusunda mirasın açılmasından itibaren bir yıl içinde anlaşmaları” şeklinde değiştirilmiştir.
+[7] 30/4/2014 tarihli ve 6537 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “tüzükle” ibaresi “yönetmelikle” şeklinde değiştirilmiştir.
+[8] 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu fıkrada yer alan “Bakanlığın teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[9] 30/4/2014 tarihli ve 6537 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “tüzükle” ibaresi “yönetmelikle” şeklinde değiştirilmiştir.
+[10] 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu fıkrada yer alan “kurulların görüşü alınarak, Bakanlığın teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[11] 28/10/2020 tarihli ve 7255 sayılı Kanunun 23 üncü maddesi ile 19 uncu maddesinin birinci fıkrasının ikinci cümlesinde yer alan “projelerle ilgili denetim örnekleme yöntemiyle yapılır ve” ibaresi “projeler ve izinlerle ilgili denetimler, proje ve izin onaylarının verilmesinden itibaren iki yıl içerisinde tamamlanarak” şeklinde, dördüncü cümlesinde yer alan “ilgili” ibaresi “verilen iznin amacına uygun olmayan” şeklinde, beşinci cümlesinde yer alan “üç ay içerisinde,” ibaresi “bir ay içerisinde Bakanlığa ve” şeklinde değiştirilmiştir.
+[12] 11/6/2026 tarihli ve 7584 sayılı Kanunun 24 üncü maddesiyle bu fıkranın birinci cümlesinde yer alan “on” ibaresi “iki bin beş yüz” şeklinde değiştirilmiştir.
+[13] 11/6/2026 tarihli ve 7584 sayılı Kanunun 25 inci maddesiyle bu bendin ikinci cümlesinde yer alan “on” ibaresi “iki bin beş yüz” şeklinde değiştirilmiştir.
+[14] 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu bölüm başlığında yer alan “Tüzük ve” ibaresi yürürlükten kaldırılmıştır.
+[15] Bu madde başlığı “ Tüzük ve yönetmelikler” iken, 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
