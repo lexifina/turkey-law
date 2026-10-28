@@ -1,0 +1,7 @@
+Personel[5]
+Madde 6 – (Birinci fıkra mülga: 9/4/1990 - KHK - 418/45 md.)
+(Mülga: 11/10/2011-KHK-666/1 md.)
+Ayrıca, özel bilgi ve ihtisası gerektiren konularda kadro aranmaksızın ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın yerli ve yabancı elemanlar sözleşmeli olarak çalıştırılabilir.
+Bu suretle çalıştırılacakların sözleşme usul ve esasları ile ücret miktarı ve her çeşit ödemeler Cumhurbaşkanlığınca tesbit edilir. Sözleşme ile çalıştırılacak personel, istekleri halinde T.C. Emekli Sandığı ile ilgilendirilir.4
+Genel ve katma bütçeli daireler, iktisadi devlet teşekkülleri ve kamu iktisadi kuruluşları ile bunlara bağlı kuruluşlar ve müesseselerde çalışanlar, GAP İdaresi Başkanlığında sözleşmeli olarak istihdam edilebilirler. Başkanlığın bu konudaki talepleri, ilgili kurum ve kuruluşlarca öncelikle sonuçlandırılır. Bu personel ilgili kurumundan aylıksız izinli sayılır. İzinli oldukları sürece memuriyetleri ile ilgili özlük hakları devam ettiği gibi, bu süreler terfi ve emekliliklerinde hesaba katılır. Terfileri başkaca bir işleme gerek kalmaksızın süresinde yapılır.
+Ayrıca, beşinci fıkrada belirtilen kurumlarda görevli personel; aylık, ödenek, her türlü zam ve tazminatlar ile diğer mali, sosyal hak ve yardımları kurumlarınca ödenmek kaydıyla geçici olarak GAP İdaresi Başkanlığında görevlendirilebilirler. (Son cümle mülga: 5/7/1991-KHK 433/16 md.)
