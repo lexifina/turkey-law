@@ -1,0 +1,3 @@
+Seferberlik halinde komutanların görev ve yetkileri:[12]
+Madde 12 – Seferberlik ilanıyla birlikte (…)12 seferberlik ilan edilen bölgelerde Cumhurbaşkanınca görevlendirilen komutanlar, kendi sorumluluk bölgelerinde Cumhurbaşkanınca belirlenen yetkileri kullanır.
+Bu komutanlar, genel güvenlik, asayiş ve kamu düzeninin sağlanması ve devam ettirilmesi, hava ve deniz limanları ile hudutların kontrolü, yıkıcı faaliyetlerin önlenmesi ajanların ve kaçakların aranıp bulunması için lüzumu tedbirlerin tespitiyle bu faaliyetlerin icrasında mülki makamlar ile işbirliği yapar ve gerektiğinde kolluk kuvvetlerini emrine alır.

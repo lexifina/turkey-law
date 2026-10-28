@@ -1,0 +1,2 @@
+Gerçek ve tüzelkişilerin görev ve sorumlulukları:[9]
+Madde 9 – Tüm gerçek kişilerle, kamu ve özel kurum ve kuruluşları; bu Kanun ile diğer kanunlarda, Cumhurbaşkanlığı kararnamelerinde ve yönetmelikte seferberlik ve savaş hazırlıklarına ilişkin olarak kendilerine verilen görev ve yükümlülükleri yerine getirmek ve yönetmelikte belirtilecek mülki ve askeri makamlar tarafından istenilen her türlü bilgileri vermek zorundadır. Bu yoldan temin edilen bilgiler seferberlik ve savaş planlaması dışında, başka maksatlarla kullanılamaz.
