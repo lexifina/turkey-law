@@ -1,0 +1,1 @@
+Madde 5 – Uyuşturucu maddelerin ithaline mahsus vesika ibraz edilmedikçe gümrüklerden bu gibi maddelerin ithaline müsaade edilmez. Vesikalarda yazılan miktarın bir defada ithali şarttır. Altı ay içinde ithal edilmeyen uyuşturucu maddelere ait vesikalar muteber değildir.
