@@ -1,0 +1,7 @@
+YÜKSEKÖĞRETİM PERSONEL KANUNU, TÜRKİYE CUMHURİYETİ
+EMEKLİ SANDIĞI KANUNU VE DEVLET MEMURLARI KANUNUNDA
+DEĞİŞİKLİK YAPILMASI HAKKINDA KANUNU
+Kanun Numarası : 4048
+Kabul Tarihi : 24/11/1994
+Yayımlandığı Resmî Gazete : Tarih : 2/12/1994 Sayı : 22129
+Yayımlandığı Düstur : Tertip : 5
