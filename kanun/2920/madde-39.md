@@ -1,0 +1,3 @@
+Askeri havaalanlarından yararlanma
+Madde 39 – Türk Silahlı Kuvvetlerine ait havaalanlarının sivil hava araçları tarafından kullanılması Genelkurmay Başkanlığı ile Ulaştırma Bakanlığı arasında, Devlet hava araçlarının sivil havaalanlarından istifade edebilmeleri ise Devlet hava araçlarına sahip bakanlıklar ile Ulaştırma Bakanlığı arasında yapılacak protokollerle düzenlenir. Yabancı hava taşımacılarının askeri meydanlardan yararlanmaları; ilgili Kuvvet Komutanlığı, Dışişleri, İçişleri, Gümrük ve Tekel bakanlıkları koordinasyonu sonunda Genelkurmay Başkanlığı onayı ile belirlenir.
+Milli Sivil Havacılık Güvenlik Kurulu ve havacılık güvenliği[11]

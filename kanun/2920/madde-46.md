@@ -1,0 +1,3 @@
+Türk hava sahasında gerekli tedbirlerin alınması
+Madde 46 – Ulaştırma Bakanlığı, Türkiye'nin taraf olduğu uluslararası anlaşmaların hükümlerine de uymak şartı ile, Türk hava sahasında hava trafiğinin güvenli, süratli ve düzenli bir şekilde yürütülmesi, haberleşmenin ve bilgi akışının sağlanması, meteoroloji hizmetlerinin yürütülmesi amacı ile ve çağdaş teknolojiye uygun olarak gereken önlemleri alır ve işletilmesini sağlar.
+Havaalanları ve çevresinde yapılaşma sınırlamaları[13][14]
