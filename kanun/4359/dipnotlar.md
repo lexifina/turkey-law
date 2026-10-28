@@ -1,0 +1,1 @@
+[1] Bu arada yer alan “1997 yılında ... azami 7 ay ve daha az süreli” sözcükleri Anayasa Mahkemesinin 8/6/1999 tarih ve E : 1998/37. K : 1999/25 sayılı Kararı ile iptal edildiği için metinden çıkarılmıştır.

@@ -1,0 +1,12 @@
+14.7.1965 TARİHLİ VE 657 SAYILI, 8.6.1949 TARİHLİ VE 5434 SAYILI 5.3.1964
+TARİHLİ VE 439 SAYILI, 30.4.1992 TARİHLİ VE 3797 SAYILI, 11.10.1983
+TARİHLİ VE 2914 SAYILI KANUNLARIN BAZI MADDELERİNDE
+DEĞİŞİKLİK YAPILMASI VE 5.1.1961 TARİHLİ VE 222 SAYILI,
+24.11.1994 TARİHLİ VE 4048 SAYILI KANUNLARIN BAZI
+MADDELERİNİN YÜRÜRLÜKTEN KALDIRILMASI
+HAKKINDA KANUN
+Kanun Numarası : 4359
+Kabul Tarihi : 3/4/1998
+Yayımlandığı Resmî Gazete : Tarih : 4/4/1998 Sayısı : 23307
+Yayımlandığı Düstur : Tertip : 5 Cilt : 37
+Madde 1 ila 16 – (Çeşitli Kanunlarda değişiklik yapılmakta olup ilgili yerlerine işlenmiştir.
