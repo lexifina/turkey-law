@@ -1,0 +1,6 @@
+Vergilendirilmeyecek değer artışı kazançları
+Madde 81– (Değişik: 7/1/2003-4783/3 md.)
+Aşağıdaki yazılı hallerde değer artışı kazancı hesaplanmaz ve vergilendirilmez:
+1. Ferdi bir işletmenin sahibinin ölümü halinde, kanunî mirasçılar tarafından işletmenin faaliyetine devam olunması ve mirasçılar tarafından işletmeye dahil iktisadî kıymetlerin kayıtlı değerleriyle (bilanço esasına göre defter tutuluyorsa bilançonun aktif ve pasifiyle bütün halinde) aynen devir alınması.
+2. Kazancı bilanço esasına göre tespit edilen ferdi bir işletmenin bilançosunun bir sermaye şirketine aktif ve pasifiyle bütün halinde devrolunması, devir alan şirketin bilançosuna aynen geçirilmesi ve devredilen ferdi işletmenin sahip veya sahiplerinin şirketten, devir bilançosuna göre hesaplanan öz sermayesi tutarında ortaklık payı alması (Bu ortaklık payını temsil eden hisse senetlerinin nama yazılı olması şarttır.).
+3. Kollektif ve adi komandit şirketlerin bu maddenin (2) numaralı bendinde yazılı şartlar dahilinde nev’i değiştirerek sermaye şirketi haline dönüşmesi (Kollektif ve adi komandit şirketlerin şekil değiştirerek anonim şirket haline dönüşmesi halinde şekil değiştiren kollektif ve adi komandit şirketlerin ortaklarının anonim şirketteki ortaklık paylarını gösteren hisse senetlerinin nama yazılı olması şarttır.).

@@ -1,0 +1,2 @@
+Sakatlık indirimi:
+Geçici Madde 4 – (Ek: 24/12/1980-2361/86 md.) Gelir Vergisi Kanununun bu Kanunla değiştirilen 31 nci maddesinde belirtilen sakatlık indirimine ait yönetmelik yürürlüğe girinceye kadar, daha önce Gelir Vergisi Kanununun 23 ncü maddesinin bu kanunla değiştirilmeden önceki 1 numaralı bendi hükmüne göre ücretleri vergiden müstesna tutulan mükellefler, Gelir Vergisi Kanununun bu Kanunla değiştirilen 31 nci maddesi hükümlerine göre, 1 nci derece sakat sayılarak bu dereceye ait indirimden faydalanırlar.

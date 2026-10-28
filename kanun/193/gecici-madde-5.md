@@ -1,0 +1,2 @@
+Geçici Madde 5 – (Ek: 24/12/1980-2361/86 md.) 1/1/1981 tarihinden önce yapılmış olan yatırım indirimi kapsamına giren yatırım harcamalarına yatırım indirimine ilişkin eski hükümler, bu tarihten sonra yapılacak yatırım harcamalarına ise yatırım indirimine ilişkin yeni hükümler uygulanır.
+1/1/1981 tarihinden önce başlandığı halde henüz bitmemiş olan yatırım indirimi kapsamına giren yatırımlar nedeniyle uygulanacak yatırım indirimi tutarı yukarıdaki hükme göre hesaplanacak indirimler toplamını geçemez.
