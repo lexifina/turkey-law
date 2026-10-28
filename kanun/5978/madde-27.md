@@ -1,0 +1,2 @@
+Kaynak yönetimi
+MADDE 27 – (1) (…)[3] Başkanlığa verilen görevlerden yurtdışında veya doğrudan yurtdışındaki faaliyetlere yönelik olarak kullanılmak üzere tefrik edilen ödeneklerden, Bakan tarafından belirlenecek olan kısımlar Başkanlık bütçesine gider kaydedilmek suretiyle özel hesaba aktarılır. Aktarılan bu tutarların harcanması, muhasebeleştirilmesi ve denetlenmesine ilişkin usûl ve esaslar Maliye Bakanlığı ile Başkanlıkça müştereken belirlenir.
