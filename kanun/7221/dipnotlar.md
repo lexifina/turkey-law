@@ -1,0 +1,1 @@
+[1] 10/6/2022 tarihli ve 7410 sayılı Kanunun 29 uncu maddesiyle bu bende “mevzuat hükümleri” ibaresinden sonra gelmek üzere “ile 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamındaki hükümler” ibaresi eklenmiştir.
