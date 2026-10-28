@@ -1,0 +1,4 @@
+[1] 27/6/2019 tarihli ve 30814 sayılı Resmi Gazete’de yayımlanan 41 sayılı Cumhurbaşkanlığı Kararnamesinin 2 nci maddesiyle bu fıkrada yer alan “6 ay içerisinde” ibaresi “31/12/2019 tarihine kadar” şeklinde değiştirilmiştir.
+[2] 26/12/2019 tarihli ve 30990 sayılı Resmi Gazete’de yayımlanan 54 sayılı Cumhurbaşkanlığı Kararnamesinin 5 inci maddesiyle bu fıkrada yer alan “31/12/2019” ibaresi “31/12/2021” şeklinde değiştirilmiştir.
+[3] 22/12/2021 tarihli ve 31697 sayılı Resmi Gazete’de yayımlanan 88 sayılı Cumhurbaşkanlığı Kararnamesinin 1 inci maddesiyle bu fıkrada yer alan “31/12/2021” ibaresi “31/12/2022” şeklinde değiştirilmiştir.
+[4] 22/12/2021 tarihli ve 31697 sayılı Resmi Gazete’de yayımlanan 88 sayılı Cumhurbaşkanlığı Kararnamesinin 1 inci maddesiyle bu fıkrada yer alan “birinci fıkrada belirtilen yönetmelikler yayımlanana kadar” ibaresi yürürlükten kaldırılmıştır.
