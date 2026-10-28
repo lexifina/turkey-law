@@ -1,0 +1,1 @@
+Madde 10 – Emlaki Hakaniye namı altında olup evvelce Millete devredilen emlak ile beraber mülga Padişahlığa ait bilcümle emlak ve sabık Hazinei Humayun, muhteviyatlariyle birlikte saray ve kasırlar ve mebani ve arazi Millete intikal etmiştir.
