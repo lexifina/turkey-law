@@ -1,0 +1,3 @@
+Taraftardan sorumlu kulüp temsilcisi
+MADDE 9 – (1) Spor kulüpleri, yönetim kurulu üyeleri arasından bir veya birkaç kişiyi taraftardan sorumlu kulüp temsilcisi olarak belirlemek ve bu kişilerin kimlik ve adres bilgilerini spor kulübünün bulunduğu yerdeki genel kolluk birimine bildirmekle yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde, bu Kanun hükümlerine göre taraftardan sorumlu kulüp temsilcisine terettüp eden yükümlülükler, kulüp başkan ve yönetim kurulu üyelerinin tamamı tarafından yerine getirilir.
+(2) Taraftardan sorumlu kulüp temsilcileri, müsabaka güvenliğinin sağlanması konusunda genel kolluk görevlileri ile özel güvenlik görevlilerine yardımcı olmakla yükümlüdür.
