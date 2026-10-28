@@ -1,0 +1,16 @@
+[1] Bu Kanunun Radyo ve Televizyon Yüksek Kurulu'na ilişkin hükümleri 13/4/1994 tarih ve 3984 sayılı Kanunun 36 ncı maddesi ile yürürlükten kaldırılmıştır.
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile bu fıkrada yer alan “Kurumunun kuruluş, görev, yetki ve sorumluluklarına” ibaresi “Kurumuna” şeklinde değiştirilmiştir.
+[3] Bu bentte geçen "verici istasyonlarının kurulması, işletilmesi", ibaresi 12/1/1989 tarih ve 3517 sayılı Kanunun 7 nci maddesi ile yürürlükten kaldırılmış daha sonra mezkur madde Anayasa Mahkemesi’nin 18/5/1990 tarih ve E. 1989/9, K. 1990/8 sayılı Kararıyla iptal edilmiştir.
+[4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile bu fıkrada yer alan “Bakanlar Kurulu kararnamesi ile” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile madde başlığında ve metninde yer alan “Hükümet” ibareleri “Cumhurbaşkanı” şeklinde, “Hükümetin” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
+[6] Bu madde başlığı “Türkiye Büyük Millet Meclisi ile ilgili yayınlar:“ iken, 11/6/2008 tarihli ve 5767 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[7] 28/12/1993 tarih ve 3959 sayılı Kanunun Geçici 1 inci maddesi uyarınca, bu madde hükmü sadece ilk genel yerel seçimlerde uygulanır.
+[8] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile bu fıkrada yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[9] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile (c) bendinde yer alan “bu Kanun” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı Kararnamesi” ibaresi eklenmiş, üçüncü fıkrada yer alan “Bu Kanunun 19 uncu maddesi uyarınca yapılan” ibaresi “Cumhurbaşkanlığı faaliyetlerinin tanıtılmasına yönelik” şeklinde, dördüncü fıkrada yer alan “bu Kanunun 18 inci maddesi uyarınca yayınlanan Hükümet” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiştir.
+[10] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile bu fıkrada yer alan “Bu Kanunun 18,” ibaresi “Cumhurbaşkanlığı bildiri ve konuşmaları ile bu Kanunun” şeklinde değiştirilmiştir.
+[11] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile bu fıkrada yer alan “Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
+[12] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile bu bendin yürürlükten kaldırılması iptal edilmiştir.
+[13] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile bu fıkrada yer alan “sözleşmeli” ibaresi “özel hukuk hükümlerine tabi” şeklinde değiştirilmiştir.
+[14] 21/5/2025 tarihli ve 7548 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “veya özel hukuk hükümlerine tabi” ibaresi “veya özel hukuk hükümlerine tabi” şeklinde değiştirilmiştir.
+[15] Bu fıkrada yer alan “… disiplin cezaları…” ibaresi, Anayasa Mahkemesinin 29/6/2017 tarihli Resmî Gazete’de yayımlanan 14/6/2016 tarihli ve E: 2016/182, K: 2017/111 sayılı Kararı ile iptal edilmiş olup, söz konusu karar Resmî Gazete’de yayımından başlayarak bir yıl sonra yürürlüğe girmiştir.
+[16] 2/7/2018 tarihli ve 703 sayılı KHK’nin 95 inci maddesi ile bu maddenin başlığı “Kamulaştırma” iken metne işlendiği şekilde değiştirilmiştir.

@@ -1,0 +1,10 @@
+11/11/1983 TARİHLİ VE 2954 SAYILI ANA KANUNA İŞLENEMEYEN MADDELER
+1 – 13/4/1988 tarih ve 322 sayılı KHK'nin geçici maddesi :
+Geçici Madde – Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihte Kurumda çalışanlardan sözleşmeli personel statüsüne geçenler veya geçecek olanlar ile T.C.Emekli Sandığı ile ilgilendirilmek suretiyle sözleşmeli olarak çalıştırılacaklar hakkında, 5434 sayılı T.C.Emekli Sandığı Kanununun geçici 191 ve 192 nci maddesi hükümleri uygulanır,
+2 – 6/7/1999 tarih ve 4397 sayılı Kanunun Geçici Maddeleri :
+Geçici Madde 1 – Bu Kanunda öngörülen devir, bir protokolle 31.12.1999 tarihine kadar yapılır. Bu Kanunda öngörülen bütün geçiş, devir, temlik ve intikal işlemleri ile bu işlemlerle ilgili olarak düzenlenecek protokol ve kağıtlar her türlü vergi, resim, harç, ücret ve fonlardan istisnadır.
+Geçici Madde 2 – Türkiye Radyo-Televizyon Kurumu Genel Müdürlüğü ile Türk Telekominikasyon Anonim Şirketi arasında 12.1.1989 tarihli ve 3517 sayılı Kanunun yürürlüğe girdiği tarih ile bu Kanunun yürürlüğe girdiği tarih arasında 3517 sayılı Kanunun uygulanmasından doğan mevcut borç ve alacaklar karşılıklı olarak silinmiştir.
+Türk Telekominikasyon A.Ş. silinen alacak miktarını gider olarak yazar, Türkiye Radyo-Televizyon Kurumu ise silinen aynı miktardaki borçları Hazinenin payı olarak Kurum sermayesine ekler.
+Geçici Madde 3 – 1 inci maddede devredilecekleri belirtilen istasyon, tesis ve hizmetlerle ilgili olarak Türk Telekominikasyon Anonim Şirketi tarafından yapılmış sözleşmeler, kredi anlaşmaları, devam eden yatırım projeleri, leh ve aleyhe açılmış ve açılacak olan davalar ve icra takipleri bütün hak, borç, alacak ve yetkileri ile birlikte Türkiye Radyo-Televizyon Kurumuna geçer.
+Türk Telekominikasyon A.Ş. tarafından Türkiye Radyo-Televizyon Kurumu Genel Müdürlüğüne devredilecek maddi duran varlıkların amortismanlar ve yeniden değerleme artış fonundan karşılanamayan bölümü Hazinece Türk Telekominikasyon A.Ş.'ye ödenir.
+Ayrıca, Türkiye Radyo-Televizyon Kurumu Genel Müdürlüğünce devir alınan aktif değerler aynı bedel üzerinden Hazinenin payı olarak Kurum sermayesine eklenir.
