@@ -1,0 +1,2 @@
+MADDE 29 - (1) Genel Sekreterlik Genel Bütçeye dâhildir. Bütçenin sarfında kamu maliyesinin öngördüğü işlemler zamanında ve usulüne uygun olarak yürütülür.
+(2) Gizli hizmet giderleri için bütçeye ayrıca ödenek konulur. Genel Sekreter bu ödeneğin sarfından Cumhurbaşkanına karşı sorumludur. Gizli hizmet ödeneğinin sarfı konusunda tutulacak kayıt, nakit paranın korunması ve harcanması usulleri 5018 sayılı Kanuna uygun olarak Genel Sekreterce belirlenen esaslar çerçevesinde yürütülür.
