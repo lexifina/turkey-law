@@ -1,0 +1,8 @@
+DEVLET KONSERVATUVARI VE RİYASETİCUMHUR
+SENFONİ ORKESTRASI TARAFINDAN VERİLECEK
+TEMSİL VE KONSERLERİN GİRİŞ ÜCRETİNE
+TABİ TUTULMASI HAKKINDA KANUN[1][2]
+Kanun Numarası : 3942
+Kabul Tarihi : 16/12/1940
+Yayımlandığı Resmî Gazete : Tarih : 20/12/1940 Sayı : 4691
+Yayımlandığı Düstur : Tertip : 3 Cilt : 22 Sayfa : 46
