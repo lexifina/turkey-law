@@ -1,0 +1,2 @@
+Madde 17 – (Mülga: 14/4/2016-6704/17 md.)
+Zorunlu karayolu taşımacılık malî sorumluluk sigortası

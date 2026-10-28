@@ -1,0 +1,2 @@
+Madde 24 - (Mülga: 14/4/2016-6704/17 md.)
+Yetkili mahkeme ve icra daireleri
