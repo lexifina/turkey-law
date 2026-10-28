@@ -1,0 +1,1 @@
+Madde 7 – Bütçeden ayrılacak ödeneğe faiz yürütülmez. Ancak, özel kaynaklardan sağlanacak kredilerin faizleri ile masrafları, ilgili belediyelerin borçlanacakları miktara eklenmek suretiyle kendilerinden tahsil edilir.
