@@ -1,0 +1,2 @@
+[1] 2/5/2024 tarihli ve 7501 sayılı Kanunun 14 üncü maddesiyle bu maddeye yedinci fıkradan sonra gelmek üzere fıkra eklenmiş ve sonraki fıkra buna göre teselsül ettirilmiştir.
+[2] Bu fıkraya ilişkin 2026 yılı için uygulanacak idari para cezaları için 11/12/2025 tarihli ve 33104 sayılı Resmî Gazete’de yayımlanan Enerji ve Tabii Kaynaklar Bakanlığının (Nükleer Düzenleme Kurumu) 7381 Sayılı Nükleer Düzenleme Kanununun 25 İnci Maddesi Uyarınca 2026 Yılında Uygulanacak İdari Para Cezalarına İlişkin Tebliğine bakınız.
