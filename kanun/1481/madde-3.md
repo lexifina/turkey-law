@@ -1,0 +1,1 @@
+Madde 3 – Bu kanun hükümleri dairesinde silah kullanan polis veya jandarma hakkında hazırlık soruşturması Cumhuriyet Savcıları veya yardımcıları tarafından bizzat yapılır. Dava açıldığında sanık duruşmadan vareste tutulabilir ve hakkında açığa alma, işten el çektirme işlemi uygulanmaz.
