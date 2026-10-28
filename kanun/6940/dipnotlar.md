@@ -1,0 +1,2 @@
+[1] 31/7/1970 tarih ve 1327 sayılı kanunun Ek Geçici 14 üncü maddesi gereğince, Cumhurbaşkanlığı Senfoni Orkestrasının 6940 sayılı Kanuna göre teknik kuruluşuna dahil olan personeli hakkında kendi özel kanunları yürürlüğe girinceye kadar, mezkur 6940 sayılı Kanun hükümleri ile bu Kanunun atıfta bulunduğu Kanun hükümlerinin uygulanmasına devam olunur.
+[2] Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile bu maddelerin yürürlükten kaldırılması iptal edilmiştir.
