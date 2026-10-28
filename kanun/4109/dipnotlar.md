@@ -1,0 +1,1 @@
+[1] 26/5/1981 tarih ve 2464 sayılı Belediye Gelirleri Kanununun 103 üncü maddesinin 1 inci bendinde; bu bent ile belediye meclislerine verilmiş olan zam yetkisinin, % 10 oranında olmak üzere anılan kanunun yalnız Meslek Vergisine dair madde hükümlerine uygulanacağı hükme bağlanmıştır.
