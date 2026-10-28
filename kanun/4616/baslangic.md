@@ -1,0 +1,7 @@
+23 NİSAN 1999 TARİHİNE KADAR İŞLENEN SUÇLARDAN DOLAYI
+ŞARTLA SALIVERİLMEYE, DAVA VE CEZALARIN
+ERTELENMESİNE DAİR KANUN
+Kanun Numarası : 4616
+Kabul Tarihi : 21/12/2000
+Yayımlandığı Resmî Gazete : Tarih : 22/12/2000 Sayı : 24268
+Yayımlandığı Düstur : Tertip : 5 Cilt : 40
