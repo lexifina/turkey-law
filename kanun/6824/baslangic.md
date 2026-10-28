@@ -1,0 +1,7 @@
+BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE
+BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE
+DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 6824
+Kabul Tarihi : 23/2/2017
+Yayımlandığı Resmî Gazete : Tarih : 8/3/2017 Sayı : 30001
+Yayımlandığı Düstur : Tertip : 5 Cilt : 58
