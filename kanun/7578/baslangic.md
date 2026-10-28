@@ -1,0 +1,4 @@
+SOSYAL HİZMETLER KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 7578
+Kabul Tarihi : 22/4/2026
+Yayımlandığı Resmî Gazete : Tarih: 1/5/2026 Sayı: 33240
