@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM[249]
+İnsan Kaynakları Ofisi
+İnsan Kaynakları Ofisinin görevleri
+MADDE 527/D- (Ek:RG-24/10/2019-30928-CK-48/9 md.) (Mülga:RG-28/3/2025-32855-CK-183/12 md.)
