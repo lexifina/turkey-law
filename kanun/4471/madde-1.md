@@ -1,0 +1,1 @@
+Madde 1 – Ordu motörlü silah ve vasıtalarında kullanılacak ücretli sivil makinist ve şoförlere Milli Müdafaa Vekaletince tayin ve tesbit edilecek şekil ve kıyafette, bu birlikler erbaşına ve erine verilen melbusat ve teçhizat parasız olarak verilir.
