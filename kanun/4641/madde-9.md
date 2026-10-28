@@ -1,0 +1,2 @@
+Madde 9 – (Mülga: 2/7/2018 - KHK/703/109 md.)
+Malî hükümler[12]
