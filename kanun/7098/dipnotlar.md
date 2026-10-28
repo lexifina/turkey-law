@@ -1,0 +1,6 @@
+[1] Bu Kanunun ekinde yer alan listeler için 8/3/2018 tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.
+[2] Anayasa Mahkemesinin 9/11/2022 Tarihli ve E: 2018/87, K: 2022/137 Sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…üyeliği, mensubiyeti veya…” ibaresi iptal edilmiştir.
+[3] Anayasa Mahkemesinin 9/11/2022 Tarihli ve E: 2018/87, K: 2022/137 Sayılı Kararı ile bu fıkranın dördüncü ve beşinci cümleleri iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.
+[4] Anayasa Mahkemesinin 9/11/2022 Tarihli ve E: 2018/87, K: 2022/137 Sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…üyeliği, mensubiyeti veya…” ibaresi iptal edilmiştir.
+[5] Anayasa Mahkemesinin 9/11/2022 Tarihli ve E: 2018/87, K: 2022/137 Sayılı Kararı ile bu fıkranın beşinci cümlesinde yer alan “…ve ilgili pasaport birimlerince pasaportları…” ibaresi iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.
+[6] Anayasa Mahkemesinin 9/11/2022 Tarihli ve E: 2018/87, K: 2022/137 Sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “...her türlü kısıtlama ve taşınmaz yükünden ari olarak...” ibaresi iptal edilmiştir.
