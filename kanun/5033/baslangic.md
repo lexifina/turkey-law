@@ -1,0 +1,7 @@
+KARŞILIKSIZ ÇEK VE PROTESTOLU SENETLER İLE KREDİ VE
+KREDİ KARTLARI BORÇLARINA İLİŞKİN KAYITLARIN
+DİKKATE ALINMAMASI HAKKINDA KANUN
+Kanun Numarası : 5033
+Kabul Tarihi : 25/12/2003
+Yayımlandığı Resmî Gazete : Tarih : 31/12/2003 Sayı : 25333
+Yayımlandığı Düstur : Tertip : 5 Cilt :
