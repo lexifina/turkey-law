@@ -1,0 +1,1 @@
+Madde 46 – Diş tabipleri ve dişçilerin muayenehanelerinde çalışan ve dişçilik etmek salahiyeti olmıyan eşhasın hastalara tedavi tatbik etmesi ve sair suretlerle müdahale yapması memnudur. Muayenehanelerinde bu gibi salahiyetsiz kimselerin dişçilik sanatını icra etmesine müsaade eyliyen diş tabipleri ve dişçiler hakkında “44” üncü madde ahkamı tatbik edilir.
