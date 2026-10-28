@@ -1,0 +1,2 @@
+[1] Sulama alanlarında arazi düzenlenmesine dair 22/11/1984 tarih ve 3083 sayılı Kanunun 26 ıncı maddesinin (b) fıkrasında; "Bu Kanunun uygulanmasında, diğer kanunların bu kanuna aykırı hükümleri uygulanmaz. Ancak, 28/12/1960 tarih ve 189 sayılı Kanun hükümleri saklıdır" hükmü yer almıştır.
+[2] Bu maddenin uygulanması ile ilgili olarak 31/12/2005 tarihli ve 26040 Mükerrer sayılı Resmi Gazete'de yayımlanan 27/12/2005 tarihli ve 5437 sayılı 2006 yılı Merkezi Yönetim Bütçe Kanununun 13 üncü maddesine bakınız.
