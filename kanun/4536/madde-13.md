@@ -1,0 +1,2 @@
+Ödüllendirme
+Madde 13 – Patlayıcı madde ve şüpheli cisimleri gören ve bulan kişiler, bunların yerini tam olarak tespit edip gerekli ikaz edici işaretlemeleri yaparak, ilgili makamlara haber verdiklerinde, kendilerine, ele geçen cismin teknik istihbarat yönünden yurt savunmasına sağlayacağı faydaya göre, 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununda belirtilen en yüksek Devlet memuru aylığı (ek gösterge dahil) brüt tutarını geçmemek kaydıyla, Genelkurmay Başkanlığının teklifi üzerine Milli Savunma Bakanlığı bütçesinden ödül verilir.

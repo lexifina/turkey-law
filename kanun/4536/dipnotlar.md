@@ -1,0 +1,1 @@
+[1] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu maddenin başlığında yer alan “sakatlanma” ibaresi “engelli hâle gelme”, birinci fıkrasında yer alan “sakat kalan” ibaresi “engelli hâle gelen”, ikinci fıkrasında yer alan “sakatlanan” ibaresi “engelli hâle gelen” olarak değiştirilmiştir.
