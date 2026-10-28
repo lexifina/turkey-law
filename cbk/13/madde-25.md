@@ -1,0 +1,2 @@
+Görevlendirme
+MADDE 25- (1) Başkanlıkta 375 sayılı Kanun Hükmünde Kararnamenin ek 25 inci maddesine göre personel görevlendirilebilir.

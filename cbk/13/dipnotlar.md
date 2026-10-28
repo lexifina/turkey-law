@@ -1,0 +1,6 @@
+[1] 9/6/2022 tarihli ve 31861 sayılı Resmî Gazete’de yayımlanan 101 sayılı Cumhurbaşkanlığı Kararnamesinin 12 nci madesiyle bu fıkraya (s) bendinden sonra gelmek üzere (ş) bendi eklenmiş ve sonraki bent buna göre teselsül ettirilmiştir.
+[2] 9/11/2018 tarihli ve 30590 sayılı Resmi Gazete’de yayımlanan 21 sayılı Cumhurbaşkanlığı Kararnamesi ile bu fıkrada yer alan ““iki” ibaresi “üç” şeklinde değiştirilmiştir.
+[3] 9/11/2018 tarihli ve 30590 sayılı Resmi Gazete’de yayımlanan 21 sayılı Cumhurbaşkanlığı Kararnamesi ile bu maddenin birinci fıkrasına (ç) bendinden sonra gelmek üzere (d) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
+[4] 9/6/2022 tarihli ve 31861 sayılı Resmî Gazete’de yayımlanan 101 sayılı Cumhurbaşkanlığı Kararnamesinin 12 nci madesiyle bu fıkraya (d) bendinden sonra gelmek üzere (e) bendi eklenmiş ve sonraki bentler buna göre teselsül ettirilmiştir.
+[5] 21/4/2021 tarihli ve 31461 sayılı Resmî Gazete’ de yayımlanan 73 sayılı Cumhurbaşkanlığı Kararnamesinin 50 nci maddesiyle bu fıkraya (a) bendinden sonra gelmek üzere (b) bendi eklenmiş ve sonraki bent buna göre teselsül ettirilmiştir.
+[6] Bu maddede belirtilen ekli listeyi görmek için bu Cumhurbaşkanlığı Kararnamesinin yayımlandığı Resmî Gazete’ye bakınız.
