@@ -1,0 +1,8 @@
+3 MART 1340 (1924) TARİHLİ VE 431 SAYILI KANUNLA
+HAZİNEYE KALAN TAŞINMAZ MALLARDAN
+BAZILARININ ZİLYEDLERİNE DEVRİ
+HAKKINDA KANUN
+Kanun Numarası : 4071
+Kabul Tarihi : 16/2/1995
+Yayımlandığı Resmî Gazete : Tarih : 19/2/1995 Sayı : 22207
+Yayımlandığı Düstur : Tertip : 5 Cilt : 34
