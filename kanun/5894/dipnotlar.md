@@ -1,0 +1,1 @@
+[1] Anayasa Mahkemesinin 17/6/2025 tarihli ve E.: 2022/85; K.: 2025/131 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…Yönetim Kurulu tarafından…” ibaresi ve ikinci cümlesinde yer alan “…Yönetim Kurulu kararı…” ibaresi iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (2/1/2027) yürürlüğe gireceği hüküm altına alınmıştır.
