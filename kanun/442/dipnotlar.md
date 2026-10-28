@@ -1,0 +1,14 @@
+[1] Bu Kanunun; 31/8/1956 tarih ve 6830 sayılı mülga İstimlak Kanununa aykırı hükümleri,mezkür kanunun 35. maddesi ile; 29/8/1977 tarih ve 2108 sayılı Muhtar Ödenek ve Sosyal Güvenlik Kanununa aykırı hükümleri de anılan Kanunun 7. maddesi ile yürürlükten kaldırılmıştır.
+[2] Bu madde ile ilgili olarak 1,2,3,4 ve 5 inci Ek maddelere bakınız.
+[3] Bu bendin uygulanmasında Ek 1 - 5 inci maddelere bakınız.
+[4] 29/8/1977 tarih ve 2108 sayılı Kanunun 1 inci maddesine bakınız.
+[5] 3/10/2016 tarihli ve 676 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “geçici köy” ibareleri “güvenlik”, “Geçici Köy” ibaresi “Güvenlik” şeklinde, aynı maddenin birinci fıkrasında yer alan “gönüllü korucu” ibaresi “gönüllü güvenlik korucusu” şeklinde ve aynı fıkrada yer alan “gönüllü korucular” ibaresi “gönüllü güvenlik korucuları” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 8 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[7] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlanmaları” ibaresi “engelli hâle gelmeleri” şeklinde değiştirilmiştir.
+[8] Anayasa Mahkemesinin 23/7/2024 tarihli ve E.: 2023/25; K.: 2024/139 sayılı Kararı ile bu bentte yer alan “…üyeliği, mensubiyeti,…” ibaresi iptal edilmiştir.
+[9] 3/10/2016 tarihli ve 676 sayılı KHK’nin 8 inci maddesiyle, bu madde yer alan “Geçici Köy” ibaresi “Güvenlik” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 8 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[10] Anayasa Mahkemesi’nin 24/2/2022 tarihli ve E.:2021/2 ; K.:2022/20 sayılı Kararı ile bu maddede yer alan “uygulanacak disiplin cezaları” ibaresi iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.
+[11] 2/7/2018 tarihli ve 700 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “Milli Savunma Bakanlığı ve Maliye Bakanlığının görüşü üzerine İçişleri Bakanlığınca hazırlanacak ve bu maddenin yayımı tarihinden itibaren altı ay içinde Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[12] 24/12/2020 tarihli ve 7261 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “31/12/2020” ibareleri “31/12/2024” şeklinde değiştirilmiştir.
+[13] 5/12/2024 tarihli ve 7534 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “31/12/2024” ibareleri “31/12/2028” şeklinde değiştirilmiştir.
+[14] 26/2/2014 tarihli ve 6527 sayılı Kanunun 19 uncu maddesiyle, bu bentte yer alan “5.000” ibaresi “1/10/2013-31/12/2013 tarihleri arasındaki dönemde 8.500, 1/1/2014 tarihinden itibaren 9.189” şeklinde değiştirilmiştir.
