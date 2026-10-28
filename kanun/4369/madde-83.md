@@ -1,0 +1,4 @@
+ONBEŞİNCİ BÖLÜM
+178 VE 190 SAYILI KANUN HÜKMÜNDE KARARNAMELERDE
+YAPILAN DEĞİŞİKLİKLER
+Madde 83 – (13/12/1983 tarih ve 178 sayılı KHK'nin Ek 8 ve Ek 9 uncu maddeleri ile ilgili olup, yerlerine işlenmiştir.)
