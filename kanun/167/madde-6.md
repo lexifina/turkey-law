@@ -1,0 +1,2 @@
+Komşu hakkı:[2]
+Madde 6 – Arazisinde faydalı ihtiyaçları için yeter miktarda su bulunmıyan veya bu suyu elde etmesi fahiş masrafı icabettiren bir kimsenin, komşu arazideki yeraltı suyundan istifade şartları 20 nci maddede sözü geçen yönetmelikte belirtilir.
