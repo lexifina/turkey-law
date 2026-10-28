@@ -1,0 +1,2 @@
+Tüzükler, Bakanlar Kurulu kararları ve yönetmelikleri
+GEÇİCİ MADDE 1 – (1) Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten önce, bu Kanun Hükmünde Kararname ile değişiklik yapılan kanunların ilgili maddeleri gereğince yürürlüğe konulmuş olan tüzükler, nizamnameler, Başbakanlık ve Bakanlar Kurulu tarafından çıkarılan yönetmelikler ile diğer işlemler yürürlükten kaldırılmadıkça geçerliliğini sürdürür.
