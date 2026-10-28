@@ -1,0 +1,6 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 71 inci maddesiyle, 3 üncü maddenin dördüncü fıkrasının (b) bendinde yer alan “Tüzükte” ibaresi “Yönetmelikte” şeklinde ve aynı maddenin beşinci fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 71 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 71 inci maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 700 sayılı KHK’nin 71 inci maddesiyle, bu maddenin ikinci fıkrasında yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde ve üçüncü fıkrasında yer alan “tüzüğe” ibaresi “yönetmeliğe” şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 71 inci maddesiyle, bu maddenin başlığında yer alan “Tüzük” ibaresi “Yönetmelik” şeklinde ve birinci fıkrasında yer alan “Ticaret Bakanlığı, Gümrük ve Tekel Bakanlığı ile Ulaştırma Bakanlığının iştirakiyle müştereken hazırlanacak ve bir yıl içerisinde yürürlüğe konulacak bir tüzükle” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
