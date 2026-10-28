@@ -1,0 +1,8 @@
+CEZA EVLERİYLE MAHKEME BİNALARI İNŞASI
+KARŞILIĞI OLARAK ALINACAK HARÇLAR VE
+MAHKÛMLARA ÖDETTİRİLECEK YİYECEK
+BEDELLERİ HAKKINDA KANUN
+Kanun Numarası : 2548
+Kabul Tarihi : 30/6/1934
+Yayımlandığı Resmî Gazete : Tarih: 9/7/1934 Sayı: 2747
+Yayımlandığı Düstur : Tertip: 3 Cilt: 15 Sayfa: 547
