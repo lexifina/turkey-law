@@ -1,0 +1,3 @@
+[1] 10/10/1983 tarih ve 110 sayılı mülga K. H. K. nin 25. maddesinde ve 15/7/1970 tarih ve 1312 sayılı Mülga Kanunun 37. maddesinde bu Kanunun mezkür K.H.K. ye ve Kanuna aykırı hükümlerinin yürürlükten kaldırıldığı hükme bağlanmıştır.
+[2] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “Maliye, Dahiliye ve Nafıa Vekaletlerince” ibaresi “Hazine ve Maliye ile Çevre ve Şehircilik Bakanlıklarınca” şeklinde değiştirilmiştir.
+[3] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “Dahiliye ve Nafıa Vekaletlerince” ibaresi “Çevre ve Şehircilik Bakanlığınca” şeklinde değiştirilmiştir.

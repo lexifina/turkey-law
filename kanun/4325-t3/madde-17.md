@@ -1,0 +1,1 @@
+Madde 17 – İşletme müesseselerinin memur ve müstahdemleri halk ve mensup oldukları idare ile münasebetlerinde hususi müessese memurları gibi muameleye tabidirler. Bunlar hakkında Memurin Muhakematı hakkındaki kanun ile Memurin Kanunu hükümleri tatbik olunmaz.
