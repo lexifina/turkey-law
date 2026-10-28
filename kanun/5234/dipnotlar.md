@@ -1,0 +1,3 @@
+[1] Bu madde ile ihdas edilen kadrolar için 21/9/2004 tarihli ve 25590 sayılı Resmi Gazete’ye bakınız.
+[2] 10/7/2025 tarihli ve 7553 sayılı Kanunun 12 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “(I) ve (II) sayılı cetvellerde” ibaresi “(I), (II) ve (IV) sayılı cetvellerde” şeklinde değiştirilmiş ve dördüncü cümlesine “uluslararası antlaşma hükümleri saklı kalmak kaydıyla” ibaresinden sonra gelmek üzere “Hazine ve” ibaresi eklenmiştir.
+[3] 1/7/2006 tarihli ve 5538 sayılı Kanunun 25 inci maddesiyle bu fıkrada yer alan "(ilaç ve tıbbî sarf malzemesi hasılatının % 5'i)" ibaresi "(ilaç, kan ve kan bileşenleri ile tıbbî sarf malzemesi hasılatının yüzde 5'i)" şeklinde değiştirilmiştir.
