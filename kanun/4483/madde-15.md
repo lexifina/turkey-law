@@ -1,0 +1,3 @@
+Cumhuriyet başsavcılığınca re'sen dava açılacak haller
+Madde 15 – Memurlar ve diğer kamu görevlileri hakkındaki ihbar ve şikayetlerin ihbar veya şikayet edileni mağdur etmek amacıyla ve (...)[8] uydurma bir suç isnadı suretiyle yapıldığı hazırlık soruşturması sonucunda anlaşılır veya yargılama sonucunda sabit olursa haksız isnatta bulunanlar hakkında yetkili ve görevli Cumhuriyet başsavcılığınca re'sen soruşturmaya geçilir.
+Memurlar ve diğer kamu görevlilerinin yukarıdaki fıkrada belirtilen durumlarda kamu davası açılması için Cumhuriyet başsavcılığına başvurma ve haksız isnatta bulunanlar hakkında genel hükümlere göre tazminat davası açma hakları saklıdır.
