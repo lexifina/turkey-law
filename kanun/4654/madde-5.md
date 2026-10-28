@@ -1,0 +1,1 @@
+Madde 5 – Hizmet esnasında bu hizmet dolayısiyle hastalananlar ile yaralanan ve ölenler hakkında askerlik mükellefiyeti dahilinde olan emsali gibi muamele yapılır. Bu vazifeleri gönüllü olarak yapanlar da ayrı hükümlerden istifade ederler.
