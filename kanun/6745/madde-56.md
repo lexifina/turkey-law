@@ -1,0 +1,2 @@
+MADDE 51 ila 55- (6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 56- (10/7/2003 tarihli ve 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun ile ilgili olup yerine işlenmiştir.)

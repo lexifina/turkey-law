@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 206 ncı maddesiyle 80 inci maddenin üçüncü fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde; birinci, dördüncü, beşinci ve altıncı fıkralarında yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[2] 21/12/2021 tarihli ve 7346 sayılı Kanunun 36 ncı maddesiyle bu bende “49 yıl süreyle bedelsiz irtifak hakkı” ibaresinden sonra gelmek üzere “ya da bağımsız ve sürekli nitelikte irtifak hakkı” ibaresi eklenmiştir.
