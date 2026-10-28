@@ -1,0 +1,7 @@
+SİVİL HAVA ARAÇLARI ÜÇÜNCÜ ŞAHIS MALİ MESULİYET SİGORTASININ
+TİCARİ OLARAK TEMİN EDİLEMEYEN KISMININ DEVLET
+GARANTİSİ İLE KARŞILANMASI HAKKINDA KANUN
+Kanun Numarası : 4911
+Kabul Tarihi : 26/6/2003
+Yayımlandığı Resmî Gazete : Tarih : 9/7/2003 Sayı : 25163
+Yayımlandığı Düstur : Tertip : 5 Cilt : 42

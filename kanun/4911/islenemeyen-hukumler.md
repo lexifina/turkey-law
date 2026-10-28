@@ -1,0 +1,3 @@
+26/6/2003 TARİHLİ VE 4911 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
+1- 18/4/2007 tarihli ve 5625 sayılı Kanunun Geçici 1 inci Maddesi:
+Geçici Madde 1 – 26/6/2003 tarihli ve 4911 sayılı Kanun hükümlerine göre Türk Sivil Hava Aracı Siciline kayıtlı hava araçlarının terör eylemlerine, savaş haline ve bunlara bağlı risklere maruz kalmaları durumunda üçüncü şahısların uğrayacağı zararların teminat altına alınması amacıyla Devlet garantisi bedeli, Hazine Müsteşarlığı adına, Türkiye Cumhuriyet Merkez Bankası nezdinde oluşturulan Sivil Hava Araçları Üçüncü Şahıs Malî Mesuliyet Devlet Garantisi Hesabına, ait olduğu ay sonundan itibaren 30/9/2007 tarihine kadar yatırılır.
