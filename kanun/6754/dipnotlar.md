@@ -1,0 +1,7 @@
+[1] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 208 inci maddesiyle bu fıkrada yer alan “adli, idari ve askerî” ibaresi “adli ve idari” şeklinde değiştirilmiştir.
+[2] 15/8/2017 tarihli ve 694 sayılı KHK’nin 175 inci maddesiyle, bu bentte yer alan “(e)” ibaresi “(f)” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 169 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[3] (1) 6/12/2018 tarihli ve 7155 sayılı Kanunun 24 üncü maddesiyle bu fıkrada yer alan “bölge adliye mahkemesi adalet komisyonu” ibaresi “Bakanlık” şeklinde değiştirilmiştir.
+[4] 5/6/2017 tarihli ve 691 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin birinci fıkrasına (a) bendinden sonra gelmek üzere (b) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiş, daha sonra bu hüküm 31/1/2018 tarihli ve 7069 sayılı Kanunun 10 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[5] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 208 inci maddesiyle bu fıkrada yer alan “Adli, idari ve askerî” ibaresi “Adli ve idari” şeklinde değiştirilmiştir.
+[6] 15/8/2017 tarihli ve 694 sayılı KHK’nin 176 ncı maddesiyle, bu fıkrada yer alan “(ç), (d) ve (e)” ibaresi “(d), (e) ve (f)” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 170 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[7] Bu maddede yer alan kadrolarla ilgili olarak 24/11/2016 tarihli ve 29898 sayılı Resmi Gazete’ye bakınız.
