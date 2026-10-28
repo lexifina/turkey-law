@@ -1,0 +1,2 @@
+Çocuk teslimine ve çocukla kişisel ilişki kurulmasına dair ilâmların icrasında uzman bulundurulması:
+Madde 25/b- (Ek: 17/7/2003-4949/7 md.) (Mülga:24/11/2021-7343/32 md.)

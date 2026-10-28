@@ -1,0 +1,3 @@
+Borçlunun tasarruf hakları:
+A – Umumiyetle:
+Madde 324 – Borçlu işlerine devam edebilir. Ancak mühletin devamınca alacaklıların kanuni menfaatlerine dokunacak yahut alacaklılardan bir kısmını diğerlerinin zararına olarak tercih suretiyle yapılacak muameleler memnudur.

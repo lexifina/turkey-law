@@ -1,0 +1,5 @@
+Madde 298- (Değişik: 28/2/2018-7101/26 md.)
+Komiser, görevlendirilmesini müteakip borçlunun mevcudunun bir defterini yapar ve malların kıymetlerini takdir eder. Borçlunun başka yerlerde malları varsa bu muamele o yer icra dairesi marifetiyle yaptırılabilir.
+Komiser rehinli malların kıymetinin takdirine ilişkin kararını alacaklıların incelemesine hazır bulundurur; kıymet takdiri kararı alacaklılar toplantısından önce yazılı olarak rehinli alacaklılara ve borçluya bildirilir.
+İlgililer, yedi gün içinde ve masrafını önceden vermek kaydıyla, mahkemeden rehinli malların kıymetini yeniden takdir etmesini isteyebilirler. Eğer yeni kıymet takdiri bir alacaklı tarafından istenmiş ve takdir edilen kıymet, kayda değer bir şekilde değişmişse alacaklı borçludan masraflarının ödenmesini talep edebilir.
+Rehinli taşınmaz malların bu madde kapsamındaki kıymet takdiri, 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunu uyarınca gayrimenkul değerleme uzmanlığı lisansı ile yetkilendirilen kişilere yaptırılabilir.
