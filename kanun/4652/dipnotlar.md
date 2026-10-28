@@ -1,0 +1,19 @@
+[1] 23/11/2022 tarihli ve 7422 sayılı Kanunun 9 uncu maddesiyle, bu fıkranın (l) bendinde yer alan “ön lisans, lisans üstü eğitim-öğretim,” ibaresi “ön lisans, lisans, lisans üstü eğitim-öğretim,” şeklinde, (n) bendinde yer alan “Güvenlik Bilimleri Fakültesi:” ibaresi “Fakülte:” şeklinde değiştirilmiş ve (s) bendine “Akademi,” ibaresinden sonra gelmek üzere “fakülte,” ibaresi eklenmiştir.
+[2] 22/2/2018 tarihli ve 7100 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan yardımcı doçentleri” ibaresi “doktor öğretim üyesi” şeklinde değiştirilmiştir.
+[3] 27/3/2015 tarihli ve 6638 sayılı Kanunun 35 inci maddesiyle bu bentte yer alan “Temel bilimler ve sosyal bilim alanlarından birinde lisans düzeyinde bilgi ve beceriye sahip, mezuniyetten” ibaresi “Mezuniyetten” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 154 üncü maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının görüşü alınarak Bakanlığın teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[5] 17/2/2011 tarihli ve 6114 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “genel lise, erkek teknik öğretim, kız teknik öğretim ve ticaret ve turizm öğretimine bağlı okul mezunları” ibaresi “lise ve dengi okulları bitirenler” şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 154 üncü maddesiyle, bu bentte yer alan “, tüzük ve yönetmelikleri,” ibaresi “ve diğer mevzuatı” şeklinde değiştirilmiştir.
+[7] 22/2/2018 tarihli ve 7100 sayılı Kanunun 21 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentlerin” ibaresi “doktor öğretim üyelerinin” şeklinde değiştirilmiştir.
+[8] 22/2/2018 tarihli ve 7100 sayılı Kanunun 21 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentler” ibaresi “doktor öğretim üyeleri” şeklinde değiştirilmiştir.
+[9] 23/11/2022 tarihli ve 7422 sayılı Kanunun 10 uncu maddesiyle, bu madde başlığında yer alan “ile evlenme yasağı” ibaresi başlık metninden çıkarılmıştır.
+[10] 23/11/2022 tarihli ve 7422 sayılı Kanunun 10 uncu maddesiyle, bu fıkranın başına “Fakültede eğitim alanlar eğitim süresinin iki katı,” ibaresi eklenmiştir.
+[11] 27/3/2015 tarihli ve 6638 sayılı Kanunun 38 inci maddesiyle, bu fıkrada yer alan “diğer polis yüksek öğretim kurumlarında veya” ibaresi madde metninden çıkarılmıştır.
+[12] 2/7/2018 tarihli ve 703 sayılı KHK’nin 154 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[13] 2/7/2018 tarihli ve 703 sayılı KHK’nin 154 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[14] 27/3/2015 tarihli ve 6638 sayılı Kanunun 39 uncu maddesiyle, bu bentte yer alan “polis meslek yüksek okulu müdürleri,” ibaresinden sonra gelmek üzere “Polis Amirleri Eğitimi Merkezi Müdürü ve polis meslek eğitim merkezi müdürleri,” ibaresi eklenmiştir.
+[15] 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
+[16] 22/2/2018 tarihli ve 7100 sayılı Kanunun 21 inci maddesiyle, bu fıkrada yer alan “öğretim elemanları ve öğretim yardımcılarına” ibaresi “öğretim elemanlarına” şeklinde değiştirilmiştir.
+[17] Anayasa Mahkemesinin 15/1/2026 tarihli ve E.2025/194:, K.: 2026/15 sayılı Kararı ile bu bentte yer alan “bu okullara alınacak öğrencilerde aranacak şartlar” ibaresi iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (4/2/2027) tarihinde yürürlüğte girer.
+[18] Anayasa Mahkemesinin 23/7/2024 tarihli ve E.: 2023/25; K.: 2024/139 sayılı Kararı ile bu fıkranın ikinci cümlesinde yer alan “…merkezin kuruluş, görev, yetki ve sorumlulukları,…” ibaresi ile “…giriş sınavı….” ibaresi iptal edilmiştir.
+[19] Bu maddede sözü edilen kadrolar, 9/5/2001 tarihli ve 24397 sayılı Resmî Gazete’de yayımlanmıştır.
