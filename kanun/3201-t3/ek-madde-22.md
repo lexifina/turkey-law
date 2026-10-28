@@ -1,0 +1,2 @@
+Trafik araştırma merkezi:
+Ek Madde 22 – (Ek: 17/10/1996 - 4199/45 md.) (Mülga:6/12/2019-7196/6 md.)

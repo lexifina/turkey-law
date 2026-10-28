@@ -1,0 +1,3 @@
+Ek Madde 26 – (Ek: 24/4/2008-5757/2 md.)
+Bomba Uzmanı Yetiştirme Kursu görüp, bomba uzmanı sertifikası almaya hak kazanmış ve bomba uzmanı olarak görev yapan Emniyet Genel Müdürlüğü merkez ve taşra teşkilatlarında görevli personele 13.000 gösterge rakamının memur aylık kat sayısı ile çarpımı sonucu bulunacak miktarda bomba imha tazminatı ödenir. (Ek cümle: 16/6/2010-5997/4 md.) Bomba imha tazminatı, damga vergisi hariç hiçbir vergi ve benzeri kesintiye tâbi değildir.
+Bomba imha tazminatının hesaplanması, ödeme şekli, kapsamı, uygulamaya ilişkin esas ve usuller İçişleri Bakanlığınca, bu maddenin yayımını takip eden iki ay içerisinde çıkarılacak yönetmelikle belirlenir.

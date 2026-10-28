@@ -1,0 +1,3 @@
+Geçici Madde 22- (Ek: 24/10/2011-KHK-661/20 md.)
+Ek 30 uncu maddenin yayımı tarihinden itibaren üç yıllık süre içerisinde, bir üst rütbeye yükselmek için en az bekleme süresini tamamlayacak olan Üçüncü Sınıf Emniyet Müdürü rütbesinde bulunan personelden, en az bir kez zorunlu ikinci bölge hizmetini yapmamış veya ikinci bölgeye atanmak ile birlikte göreve başlamamış olanlar hakkında, Emniyet Genel Müdürlüğü Yüksek Değerlendirme Kurulunca verilecek bir üst rütbeye terfie ilişkin kararlar, bu bölgede fiilen çalışmaya başlaması kaydıyla uygulanır.
+(İptal: Anayasa Mahkemesi’nin 17/1/2013 tarihli ve E.: 2011/143, K.: 2013/18 sayılı Kararı ile.)

@@ -1,0 +1,20 @@
+Rütbeler, Meslek Dereceleri ve Görev Unvanları[7][8][9][10][11][12][13][14]
+Madde 13 – (Değişik 10/3/1993 - 3870/1 md.)
+Emniyet hizmetleri sınıfı mensuplarının rütbeleri, meslek dereceleri ve görev unvanları aşağıda gösterilmiştir.
+Rütbeler | Meslek dereceleri | Görev Unvanları
+Sınıf Üstü Emniyet Müdürü | Derece Üstü | Emniyet Genel Müdürü
+Birinci Sınıf Emniyet Müdürü | 1 | (Değişik: 27/3/2015-6638/21 md.) Genel Müdür Yardımcısı, Teftiş Kurulu Başkanı, Polis Akademisi Başkanı, Başkan, Merkez Emniyet Müdürü, Emniyet Müşaviri
+2 | (Değişik: 27/3/2015-6638/21 md.) Daire Başkanı, Birinci Hukuk Müşaviri, İl Emniyet Müdürü, Polis Başmüfettişi, Öğretim Görevlisi, Merkez Emniyet Müdürü, Polis Moral Eğitim Merkezi Müdürü, Polis Akademisi Başkan Yardımcısı, Başkan Yardımcısı, Polis Amirleri Eğitimi Merkezi Müdürü, Teftiş Kurulu Başkan Yardımcısı, Teftiş Kurulu Grup Amiri, Emniyet Müşaviri, Polis Meslek Yüksek Okulu Müdürü, Polis Meslek Eğitim Merkezi Müdürü, Polis Eğitim Merkezi Müdürü, Uçuş Kıymetlendirme Kurulu Üyesi, Pilot
+İkinci Sınıf Emniyet Müdürü | 3 | (Değişik: 27/3/2015-6638/21 md.) Kriminal Polis Laboratuvarı Müdürü, Daire Başkan Yardımcısı, İl Emniyet Müdür Yardımcısı, Polis Müfettişi, Hukuk Müşaviri, İlçe Emniyet Müdürü, Polis Akademisi Bölüm Başkanı, Polis Amirleri Eğitimi Merkezi Müdür Yardımcısı, Polis Meslek Yüksek Okulu Müdür Yardımcısı, Polis Meslek Eğitim Merkezi Müdür Yardımcısı, Polis Eğitim Merkezi Müdür Yardımcısı, Enstitü Sekreteri, Öğretim Görevlisi, Uçuş Kıymetlendirme Kurulu Üyesi, Havacılık Müdürü, Özel Harekat Müdürü, Başkanlıklarda Şube Müdürü, Pilot
+Üçüncü Sınıf Emniyet Müdürü | 4 | Moral Eğitim Merkezi Müdür Yardımcısı, Hukuk Müşaviri, Şube Müdürü, İlçe Emniyet Müdürü, İlçe Emniyet Müdür Yardımcısı, Öğretim Görevlisi, Pilot
+Dördüncü Sınıf Emniyet Müdürü | 5 | Şube Müdürü, İlçe Emniyet Müdür Yardımcısı, Hukuk Müşaviri, Şube Müdür Yardımcısı, Öğretim Görevlisi, Pilot, İlçe Emniyet Müdürü
+Emniyet Amiri | 6 | İlçe Emniyet Amiri, Bürolar Amiri, Birlik Amiri, Çevik Kuvvet Grup Amiri, Ekipler Amiri, Tim Amiri, İlçe Emniyet Müdür Yardımcısı, Büro Amiri, Trafik İstasyon Amiri, Sınıflar Amiri, Öğretim Görevlisi, Pilot
+Başkomiser | 7 | Karakol Amiri, Büro Amiri, Çevik Kuvvet Grup Amiri, İlçe Emniyet Komiseri, Birlik Amiri, Tim Amiri, Trafik İstasyon Amiri, Trafik Kayıt ve Tescil Büro Amiri, Karakol Amir Yardımcısı, Sınıflar Amiri, Grup Amiri, Öğretim Görevlisi, Pilot
+Komiser | 8 | Grup Amiri, Ekip Amiri, Tim Amiri, Büro Amiri, Karakol Amir Yardımcısı, Sınıflar Amiri Yardımcısı Sınıf Komiseri, Trafik İstasyonu Amir Yardımcısı, Öğretim Görevlisi, Pilot
+Komiser Yardımcısı | 9 | Grup Amiri, Ekip Amiri, Tim Amiri, Büro Amiri, Karakol Amir Yardımcısı, Sınıflar Amiri Yardımcısı, Sınıf Komiseri, Öğretim Görevlisi, Pilot
+Kıdemli Başpolis Memuru | 10 | Ekip Amiri, Tim Amiri, Grup Amiri, Büro Amir Yardımcısı, Grup Amir Yardımcısı, Büro Memuru, Ekip Memuru
+Başpolis Memuru | 11 | Ekip Amiri, Tim Amiri, Devriye Amiri, Grup Amiri, Grup Amir Yardımcısı, Ekip Amir Yardımcısı, Büro Amir Yardımcısı, Büro Memuru, Ekip Memuru
+Polis Memuru | 12 | Büro Memuru, Ekip Memuru, Tim Memuru, Karakol Memuru, Nokta Memuru, Devriye Memuru, Koruma Memuru, Trafik Memuru, Telsiz Memuru, Memur
+(Ek fıkra: 27/3/2015-6638/21 md.) İkinci Sınıf Emniyet Müdürü rütbesinde olan polis amirleri; emniyet ve asayiş durumu, ekonomik, sosyal ve kültürel özellikler, nüfus büyüklüğü, şehirleşme düzeyi gibi kriterler dikkate alınarak belirlenecek ilçelere, ilçe emniyet müdürü olarak atanabilirler. (Ek cümle:6/12/2019-7196/1 md.) Bu ilçelerde Üçüncü Sınıf Emniyet Müdürleri, ilçe emniyet müdür yardımcısı olarak görevlendirilebilirler.
+(Ek fıkra: 27/3/2015-6638/21 md.) 2 nci, 3 üncü, 4 üncü, 5 inci ve 6 ncı meslek derecelerinde bulunan personel ihtiyaç hâlinde görev unvanlarına bakılmaksızın araştırma, inceleme ve denetleme gibi görevler verilmek üzere atandıkları birim amirinin emrine alınabilirler.
+(Ek fıkra: 27/3/2015-6638/21 md.) İdare, her rütbe ve meslek derecesi karşısında gösterilen görev unvanları arasında personelin görev yerini değiştirmeye yetkilidir.

@@ -1,0 +1,5 @@
+Geçici Madde 9 – (28/12/1972 - 1649/5 md. ile gelen geçici 1 inci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu kanunun yürürlüğe girdiği tarihte, Emniyet Genel Müdürlüğüne ait kadrolardaki genel idare hizmetleri sınıfına dahil bulunan (Mütercim, antrenör, basın, istatistik, araştırma ve planlama uzmanları hariç) her derecedeki memurlardan;
+a) Emniyet amiri, başkomiser, komiser, komiser muavini, emniyet müfettişi veya emniyet müfettiş muavini iken Genel İdare Hizmetleri Sınıfına geçmiş olanlar, maaş derecesi bakımından kazanılmış hakları saklı kalmak şartiyle, emniyet hizmetleri sınıfında derecelerine uygun ve daha önce aynı sınıfta sahip oldukları rütbe ünvanını taşıyan kadrolara;
+b) (a) fıkrası kapsamı dışında kalanlar, kazanılmış hak olan maaş derecelerine uygun polis memuru kadrolarına; 3201 sayılı Emniyet Teşkilat Kanununun 23 üncü maddesinde gösterilen yaş, boy ve sağlık şartları aranmaksızın ve geçici 2 nci madde hükmü gözönüne alınarak atanırlar.
+Atanma işlemleri, bu kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde tamamlanır.[49]

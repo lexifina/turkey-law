@@ -1,0 +1,2 @@
+Geçici Maddeler
+Geçici Madde 1 – Bu kanuna bağlı (1) sayılı cetveldeki kadrolar her sene bütçesine konacak tahsisatın miktarına göre beş sene zarfında tatbik edilir. Bu kanuna bağlı (2) sayılı cetvelde derece, adet ve maaşları gösterilen memuriyetler 1937 mali yılı Muvazenei Umumiye Kanuna bağlı (L) cetveline ve (3) sayılı cetvelde adet ve ücretleri yazılı hizmetler mezkur kanunun (D) cetvelinin Emniyet İşleri Umum Müdürlüğü kısmına ilave edilmiştir.[48]

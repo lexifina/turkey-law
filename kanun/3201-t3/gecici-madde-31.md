@@ -1,0 +1,5 @@
+Devlet memurluğundan ilişiği kesilenlerin durumu
+Geçici Madde 31- (Ek: 23/11/2022-7422/4 md.)
+Emniyet Genel Müdürlüğü eğitim ve öğretim kurumlarına girişte aranan sağlık şartlarını taşımadıkları gerekçesiyle eğitim ve öğretim kurumlarından ilişiği kesilenlerden, yargı kararına istinaden eğitim ve öğretime devam ederek mezun olan ve polis memuru veya polis amiri rütbesiyle Emniyet Hizmetleri Sınıfına atanan ancak bilahare sağlık sebeplerine dayanan yargı kararı gereğince Devlet memurluğundan ilişiği kesilmiş olanların, bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içerisinde Emniyet Genel Müdürlüğüne başvurmaları halinde Genel İdare Hizmetleri Sınıfında durumlarına uygun unvana atamaları yapılır.
+Bu madde kapsamında yapılacak olan atamalarda 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesindeki şartlar ile Emniyet Hizmetleri Sınıfı dışında kalan diğer hizmet sınıflarına açıktan yapılacak atamalar için belirlenmiş olan sağlık şartlarına uygunluk aranır.
+Bu madde kapsamında yapılacak olan Devlet memurluğuna açıktan atama işlemleri ile ilgili diğer usul ve esaslar Emniyet Genel Müdürlüğünce belirlenir.
