@@ -1,0 +1,4 @@
+ÜÇÜNCÜ BÖLÜM
+İstihdam
+Personele ilişkin hükümler
+MADDE 6 – (Mülga:2/7/2018-KHK-703/92 md.)
