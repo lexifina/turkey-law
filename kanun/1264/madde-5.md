@@ -1,0 +1,2 @@
+Madde 5 – Muhtelif sebeplerle tedavülden kaldırılması gereken madeni paraların belli bir tarihten başlamak üzere geçerli olacakları süre Başbakanlık Hazine ve Dış Ticaret Müsteşarlığınca belirtilir. Bu süre bir yıldan az olamaz.
+Bu paralar tayin ve ilan olunan müddetin sonunda tedavül kabiliyetlerini kaybeder, şu kadar ki, bu paralar, mezkür müddetin sonundan itibaren bir yıl içinde (…)2 Başbakanlık Hazine ve Dış Ticaret Müsteşarlığına devredilmek üzere Hazinenin veznedarlığını yapan bankalarca kabul edilir.
