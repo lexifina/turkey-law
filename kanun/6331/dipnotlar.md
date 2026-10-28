@@ -1,0 +1,19 @@
+[1] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özre uğratan” ibaresi “engelli hâle getiren” şeklinde değiştirilmiştir.
+[2] 18/6/2017 tarihli ve 7033 sayılı Kanunun 85 inci maddesiyle, bu bentte yer alan “10’dan az” ibaresi “50’den az” şeklinde değiştirilmiştir.
+[3] 10/9/2014 tarihli ve 6552 sayılı Kanunun 16 ncı maddesiyle, bu bentte yer alan “işyeri hekimi ve” ibaresinden sonra gelmek üzere “on ve daha fazla çalışanı olan çok tehlikeli sınıfta yer alan işyerlerinde” ibaresi eklenmiştir.
+[4] 9/1/2025 tarihli ve 7538 sayılı Kanunun 19 uncu maddesi ile bu bendin ikinci cümlesine “birimlerinden” ibaresinden sonra gelmek üzere “veya ÇASMER’lerden” ibaresi eklenmiştir.
+[5] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 210 uncu maddesiyle bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[6] 9/1/2025 tarihli ve 7538 sayılı Kanunun 20 nci maddesi ile bu fıkranın üçüncü cümlesinde yer alan “veya iş güvenliği uzmanınca,” ibaresi “, iş güvenliği uzmanı ve/veya ortak sağlık ve güvenlik birimi yönetimi tarafından” şeklinde değiştirilmiş ve dördüncü cümlesinde yer alan “süreyle” ibaresinden sonra gelmek üzere “; ortak sağlık ve güvenlik biriminin yetki belgesi altı ay, tekrarında ise bir yıl süreyle” ibaresi eklenmiştir.
+[7] 10/9/2014 tarihli ve 6552 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “işyerlerinde” ibaresi “işlerde” şeklinde değiştirilmiştir.
+[8] 18/6/2017 tarihli ve 7033 sayılı Kanunun 85 inci maddesiyle, bu fıkrada yer alan “10’dan az” ibaresi “50’den az” şeklinde değiştirilmiştir.
+[9] 9/1/2025 tarihli ve 7538 sayılı Kanunun 21 inci maddesi ile bu fıkranın ikinci cümlesinde yer alan “kamu hizmet sunucuları veya aile hekimlerinden de” ibaresi “ÇASMER’lerden, aile hekimlerinden veya diğer kamu sağlık hizmeti sunucularından da” şeklinde değiştirilmiştir.
+[10] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu maddenin (2), (3), (4), (5), (6) ve (7) numaralı fıkralarının yürürlükten kaldırılması iptal edilmiştir.
+[11] 4/4/2015 tarihli ve 6645 sayılı Kanunun 2 nci maddesiyle, bu fıkrada yer alan “mülki idare amiri tarafından” ibarelerinden sonra gelmek üzere “kolluk kuvvetleri marifetiyle” ibareleri eklenmiştir.
+[12] 25/1/2024 tarihli ve 7495 sayılı Kanunun 10 uncu maddesiyle bu bentte yer alan “24 üncü maddesinin ikinci” ibaresi “24/A maddesinin birinci” şeklinde değiştirilmiştir.
+[13] 18/6/2017 tarihli ve 7033 sayılı Kanunun 85 inci maddesiyle, bu alt bentte yer alan “10’dan az” ibaresi “50’den az” şeklinde değiştirilmiştir.
+[14] 9/1/2025 tarihli ve 7538 sayılı Kanunun 22 nci maddesi ile bu madde başlığında yer alan “ihtar” ibaresinden sonra gelmek üzere “, askı” ibaresi eklenmiş ve birinci fıkrada yer alan “İş sağlığı ve güvenliği hizmeti sunan, ölçüm ve analizleri yapan kişi, kurum, kuruluşlar ve eğitim kurumları ile ilgili olarak” ibaresi “Bu Kanun kapsamında yetkilendirilen veya belgelendirilen kişi ve kuruluşlara yönelik” şeklinde değiştirilmiştir.
+[15] Bu maddede yer alan kadrolar için 30/6/2012 tarihli ve 28339 sayılı Resmî Gazete’ye bakınız.
+[16] 21/2/2019 tarihli ve 7166 sayılı Kanunun 16 ncı maddesiyle, bu fıkrada yer alan “1/1/2020 tarihine kadar” ve “1/1/2019 tarihine kadar” ibareleri “38 inci maddenin birinci fıkrasının (a) bendinin (1) numaralı alt bendinde yer alan yürürlük tarihine kadar” şeklinde değiştirilmiştir.
+[17] Anayasa Mahkemesinin 22/7/2025 tarihli ve E.: 2024/54, K.: 2025/163 sayılı Kararı ile bu alt bentte yer alan “31/12/2024” ibaresi iptal edilmiştir.
+[18] 23/7/2020 tarihli ve 7252 sayılı Kanunun 10 uncu maddesiyle, bu alt bentte yer alan “1/7/2020” ibaresi “31/12/2023” şeklinde değiştirilmiştir.
+[19] 27/12/2023 tarihli ve 7491 sayılı Kanunun 71 inci maddesi ile bu alt bentte yer alan “31/12/2023” ibaresi “31/12/2024” şeklinde değiştirilmiştir.
