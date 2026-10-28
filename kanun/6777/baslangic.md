@@ -1,0 +1,9 @@
+ZEYTİNCİLİĞİN ISLÂHI VE YABANİLERiNİN
+AŞILATTIRILMASI HAKKINDAKİ 3573 SAYILI
+KANUNUN SAKIZ VE NEVİLERİYLE
+HARNUPLUKLARA DA TEŞMİLİNE
+DAİR KANUN
+Kanun Numarası : 6777
+Kabul Tarihi : 9/7/1956
+Yayımlandığı Resmî Gazete : Tarih: 14/7/1956 Sayı : 9358
+Yayımlandığı Düstur : Tertip: 3 Cilt: 37 Sayfa : 1876
