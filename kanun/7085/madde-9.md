@@ -1,0 +1,5 @@
+Yürütme
+MADDE 9- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası | 7085 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Anayasa Mahkemesinin 9/11/2022 Tarihli ve E: 2018/80, K: 2022/136 Sayılı Kararı | 1,3,4,5 | 20/7/2023
+1 inci maddenin ikinci fıkrası | 20/7/2023 tarihinden başlayarak dokuz ay sonra (20/4/2024)
