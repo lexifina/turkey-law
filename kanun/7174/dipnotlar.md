@@ -1,0 +1,3 @@
+[1] 25/10/2023 tarihli ve 7464 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “elli bin Türk lirasından iki yüz bin Türk lirasına kadar idari para cezası” ibaresi “aşağıda belirtilen idari para cezaları” şeklinde değiştirilmiştir.
+[2] 25/10/2023 tarihli ve 7464 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “ve” ibaresi “veya” şeklinde, “beş yüz Türk lirasından beş bin Türk lirasına kadar idari para cezası” ibaresi “aşağıda belirtilen idari para cezaları” şeklinde değiştirilmiştir.
+[3] 25/10/2023 tarihli ve 7464 sayılı Kanunun 23 üncü maddesiyle bu fıkraya “9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu,” ibaresinden sonra gelmek üzere “4/6/1985 tarihli ve 3213 sayılı Maden Kanunu,” ibaresi eklenmiştir.
