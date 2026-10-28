@@ -1,0 +1,2 @@
+Madde 90 – Türkiye karasularından geçen ve hakkında ihbar bulunan veya şüphe edilen transit eşya yüklü gemilerin ambar kapakları veya bu gibi eşya konulan diğer yerleri, gümrük idarelerince mühür altına alınabilir. Bu gemilere memur eşlik ettirilebilir veya gemiler seyir halinde iken dış gözetim altında tutulabilir.
+Yukarıda belirtilen önlemler, gemilerin Türkiye karasularından çıkışı üzerine kaldırılır.

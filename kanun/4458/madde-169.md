@@ -1,0 +1,1 @@
+Madde 169 – 168 inci maddede belirtilen ithalat vergilerinden muafiyet, geri gelen eşyanın ihracı sırasındaki ayniyeti değişmeden yeniden ithali halinde tanınır. Bu koşula istisna getirilmesine ilişkin hal ve şartlar Cumhurbaşkanınca belirlenir.96

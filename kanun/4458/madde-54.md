@@ -1,0 +1,1 @@
+Madde 54 – Bu Kanun hükümlerine aykırı olarak; Türkiye Gümrük Bölgesine getirildiği veya gümrük kontrolüne tabi tutulmadığı saptanan eşyaya, Kaçakçılıkla Mücadele Kanunu ile ilgili diğer kanun hükümleri uygulanır.[42][43]

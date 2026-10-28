@@ -1,0 +1,1 @@
+Madde 49 – 41 inci madde hükümleri saklı kalmak üzere, geçici depolanan eşya, görünüş ve teknik özelliklerinin değiştirilmemesi koşuluyla, aynı durumda muhafazalarını sağlamak üzere yönetmelikle belirlenen elleçlemeye tabi tutulabilir.
