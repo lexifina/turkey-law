@@ -1,0 +1,4 @@
+[1] Bu kanunun, 15/5/1959 tarih ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısı ile Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun'a aykırı hükümleri 51. maddesinin (a) bendi ile yürürlükten kaldırılmıştır.
+[2] 2/7/2018 tarihli ve 698 sayılı KHK’nin 18 inci maddesiyle, bu maddede yer alan “Nafıa Vekaletinin teklifi üzerine İcra Vekilleri Heyetinin” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[3] Anayasa Mahkemesi'nin 22/7/1970 tarih, E. 1969/35, K. 1969/70 sayılı kararı ile bu bentte yer alan (veya vakıflar idaresine) şeklindeki ibare iptal edilmiştir.
+[4] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “sakatlananların sakatlık”, “sakatlananlar” ve “sakatları” ibareleri sırasıyla “engelli hâle gelenlerin engel”, “engelli hâle gelenler” ve “engellileri” şeklinde değiştirilmiştir.
