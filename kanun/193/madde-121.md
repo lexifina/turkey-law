@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Mahsuplar
+Vergi tevkifatının mahsubu:
+Madde 121 – Yıllık beyannamede gösterilen gelire dahil kazanç ve iratlardan bu Kanuna göre kesilmiş bulunan vergiler, beyanname üzerinden hesaplanan Gelir Vergisine mahsubedilir.[148]
+(Değişik : 24/12/1980-2361/84 md.) Mahsubu yapılan miktar (...)[149] Gelir Vergisinden fazla olduğu takdirde aradaki fark vergi dairesince mükellefe bildirilir ve mükellefin tebliğ tarihinden itibaren bir yıl içinde müracaatı üzerine kendisine ret ve iade olunur.
+(Ek fıkra: 25/12/2003-5035/15 md.) Maliye Bakanlığı; iadeyi mahsuben veya nakden yaptırmaya, inceleme raporuna, yeminli mali müşavir raporuna veya teminata bağlamaya ve iade için aranılacak belgeleri belirlemeye yetkilidir.
+(Ek fıkra: 25/12/2003-5035/15 md.) Bu yetki; kazanç türlerine, iade şekillerine, geliri elde edenin veya ödemeyi yapanın hukuki statüsüne göre ayrı ayrı kullanılabileceği gibi belli hadler çerçevesinde de kullanılabilir.
+(Ek fıkra: 25/12/2003-5035/15 md.) Mahsuben iade işlemi, aranan tüm belgelerin tamamlanması koşuluyla, yıllık gelir vergisi beyannamesinin verildiği tarih itibarıyla yapılır. İkmalen veya resen yapılan tarhiyatlarda mahsup işlemi, mahsup talebine ilişkin dilekçe ve eklerinin eksiksiz olarak vergi dairesi kayıtlarına girdiği tarih esas alınarak yapılır. Aranan belgelerin tamamlanması aşamasında yapılan tahsilatlar yönünden düzeltme yapılmaz.
+(Ek fıkra: 28/3/2007-5615/8 md.) Kontrol edilen yabancı kurumlara yapılan ödemeler üzerinden 94 üncü maddesinin ikinci fıkrası uyarınca kesilen vergiler, Türkiye’de yıllık beyannameyle bildirilen kontrol edilen yabancı kurum kârı üzerinden hesaplanacak gelir vergisinden mahsup edilebilir. Mahsup edilecek vergi, kontrol edilen yabancı kurumun bu ödemelerden kaynaklanan kazancına isabet eden gelir vergisinden fazla olamaz.
+Vergiye uyumlu mükelleflere vergi indirimi[150]

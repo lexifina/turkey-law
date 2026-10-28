@@ -1,0 +1,1 @@
+Geçici Madde 2 – (Ek: 24/12/1980-2361/86 md.) Gelir Vergisi Kanununun bu Kanunla değiştirilen 9 ncu maddesinde yer alan esnaf muaflığı şartlarını 1/1/1981 tarihi itibariyle taşımayanlar, 1981 takvim yılında esnaf muaflığından faydalanamazlar.

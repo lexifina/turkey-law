@@ -1,0 +1,6 @@
+Hizmet erbabına pay senedi verilmek suretiyle sağlanan menfaatlerde ücret istisnası:
+Madde 17 – (Mülga: 22/7/1998-4369/82 md.) (Başlığı ile Birlikte Yeniden Düzenleme:28/7/2024-7524/2 md.)
+Sanayi ve Teknoloji Bakanlığınca belirlenen kriterlere göre teknogirişim şirketi niteliğini haiz işverenlerce hizmet erbabına bedelsiz veya indirimli olarak verilen ve ücret niteliğinde kabul edilen pay senetlerinin, verildiği tarihteki rayiç değerinin o yıldaki bir yıllık brüt ücret tutarının iki katını aşmayan kısmı gelir vergisinden istisnadır.[10]
+Şu kadar ki, hizmet erbabı tarafından bu şekilde iktisap edilen pay senetlerinin; iktisap tarihinden itibaren iki tam yıl içerisinde elden çıkarılması halinde istisna edilen verginin tamamı, üç ila dört yıl içerisinde elden çıkarılması halinde istisna edilen verginin %75’i, beş ila altı yıl içerisinde elden çıkarılması halinde istisna edilen verginin %25’i, vergi ziyaı cezası uygulanmaksızın gecikme faizi ile birlikte işverenden tahsil edilir.10
+Bu şekilde istisna nedeniyle zamanında alınmayan vergilere ilişkin zamanaşımı süresi, hizmet erbabına bedelsiz veya indirimli olarak verilen pay senetlerinin hizmet erbabı tarafından elden çıkarıldığı tarihi takip eden takvim yılı başından itibaren başlar.
+Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.
