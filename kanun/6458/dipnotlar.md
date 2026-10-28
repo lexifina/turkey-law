@@ -1,0 +1,30 @@
+[1] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “ve İçişleri Bakanlığına bağlı Göç İdaresi Genel Müdürlüğünün kuruluş, görev, yetki ve sorumluluklarını” ibaresi yürürlükten kaldırılmıştır.
+[2] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu fıkrada yer alan “, Göç İdaresi Genel Müdürlüğünün kuruluş, görev, yetki ve sorumluluklarını” ibaresi yürürlükten kaldırılmıştır.
+[3] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[4] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+[5] 6/12/2019 tarihli ve 7196 sayılı Kanunun 70 inci maddesiyle, bu fıkraya “Aşağıdaki yabancılar,” ibaresinden sonra gelmek üzere “kabul edilemeyen yolcu kapsamına alınır ve” ibaresi eklenmiştir.
+[6] 6/12/2019 tarihli ve 7196 sayılı Kanunun 71 inci maddesiyle, bu fıkrada yer alan alan “Türkiye dışında olup da” ibaresi madde metninden çıkarılmıştır.
+[7] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[8] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[9] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddenin başlığında yer alan “Bakanlar Kurulunun” ibaresi “Cumhurbaşkanının” şeklinde, aynı maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, değiştirilmiştir.
+[10] 18/10/2018 tarihli ve 7148 sayılı Kanunun 35 inci maddesiyle bu bentte yer alan “69 uncu maddesinin yedinci fıkrası ile” ibaresi madde metninden çıkarılmıştır.
+[11] Anayasa Mahkemesi’nin 25/1/2023 Tarihli ve E: 2020/30, K: 2023/12 Sayılı Kararı ile bu fıkranın ikinci cümlesinde yer alan “%20’sinin” ibaresi ve “Bakan onayıyla” ibaresi ile beşinci cümlesinde yer alan “Cumhurbaşkanı” ibaresi iptal edilmiştir.
+[12] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[13] 28/7/2016 tarihli ve 6735 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “iki yılı” ibaresi “üç yılı” şeklinde değiştirilmiştir.
+[14] 28/7/2016 tarihli ve 6735 sayılı Kanunun 27 nci maddesiyle bu maddenin birinci fıkrasının birinci cümlesine “Türkiye’de” ibaresinden sonra gelmek üzere “örgün” ibaresi eklenmiş ve fıkranın ikinci cümlesinde yer alan “haftada yirmi dört saatten fazla olamaz” ibaresi “ilgili kanunlarla düzenlenir” şeklinde değiştirilmiştir.
+[15] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “ilgili kanunlarla” ibaresi “ilgili kanunlar ve Cumhurbaşkanlığı kararnameleriyle” şeklinde değiştirilmiştir.
+[16] 6/12/2019 tarihli ve 7196 sayılı Kanunun 73 üncü maddesiyle, bu fıkrada yer alan “Göç Politikaları Kurulunca belirlenecek esaslar çerçevesinde” ibaresi madde metninden çıkarılmıştır.
+[17] 6/12/2019 tarihli ve 7196 sayılı Kanunun 73 üncü maddesiyle, bu fıkralarda yer alan “Göç Politikaları Kurulunun” ibareleri “Bakanlığın” şeklinde değiştirilmiştir.
+[18] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[19] 6/12/2019 tarihli ve 7196 sayılı Kanunun 74 üncü maddesiyle, bu fıkrada yer alan “Bakanlığın onayı alınmak ve en fazla birer yıllık sürelerle olmak kaydıyla,” ibaresi “Bakanlıkça belirlenen sürelerle sınırlı olmak kaydıyla ve Genel Müdürlüğün onayı alınarak” şeklinde değiştirilmiştir.
+[20] 6/12/2019 tarihli ve 7196 sayılı Kanunun 76 ncı maddesiyle, bu bende “ihlal edenler” ibaresinden sonra gelmek üzere “ya da bu hükümleri ihlale teşebbüs edenler” ibaresi eklenmiştir.
+[21] 6/12/2019 tarihli ve 7196 sayılı Kanunun 79 uncu maddesiyle, bu bentte yer alan “ve refakatsiz çocuklar” ibaresi madde metninden çıkarılmıştır.
+[22] 18/10/2018 tarihli ve 7148 sayılı Kanunun 35 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “Mülakatı tamamlanan” ibaresi “Kayıt işlemleri tamamlanan” şeklinde değiştirilmiştir.
+[23] 6/12/2019 tarihli ve 7196 sayılı Kanunun 83 üncü maddesiyle, bu fıkrada yer alan “altı ay süreli” ibaresi madde metninden çıkarılmıştır.
+[24] 6/12/2019 tarihli ve 7196 sayılı Kanunun 85 inci maddesiyle bu fıkraya “Mülteci” ibaresinden sonra gelmek üzere “, şartlı mülteci ve ikincil koruma” ibaresi eklenmiş ve bu fıkrada yer alan “üçer yıl süreli” ibaresi madde metninden çıkarılmıştır.
+[25] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[26] 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Hâkimler ve Savcılar Yüksek Kurulu” ibaresi “Hâkimler ve Savcılar Kurulu” şeklinde değiştirilmiştir.
+[27] 15/8/2017 tarihli ve 694 sayılı KHK’nin 171 inci maddesiyle, 102 nci maddeye birinci fıkradan sonra gelmek üzere ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiş, aynı maddenin mevcut dördüncü fıkrasına “valilik veya” ibaresinden sonra gelmek üzere “Genel Müdürlük ya da” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 165 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[28] 6/12/2019 tarihli ve 7196 sayılı Kanunun 88 inci maddesiyle, bu fıkrada yer alan “imkân sağlayan kişilere” ibaresi “, barınmasına, konaklamasına imkân sağlayan kişiler ile mülkiyetindeki gayrimenkulü kiralayanlara” şeklinde değiştirilmiştir.
+[29] 6/12/2019 tarihli ve 7196 sayılı Kanunun 88 inci maddesiyle, bu fıkraya “bir takvim yılı içinde” ibaresinden sonra gelmek üzere “gerçek kişiler tarafından” ibaresi eklenmiştir.
+[30] 6/12/2019 tarihli ve 7196 sayılı Kanunun 88 inci maddesiyle, bu fıkrada yer alan “Düzensiz göçü önlemek maksadıyla” ibaresi madde metninden çıkarılmış ve bu fıkraya “Bakanlıkça” ibaresinden sonra gelmek üzere “bu Kanun kapsamında” ibaresi eklenmiştir.
