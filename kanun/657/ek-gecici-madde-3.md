@@ -1,0 +1,3 @@
+Öğrenim durumları değişenlerin intibakı:
+Ek Geçici Madde 3 – (Ek: 31/7/1970 - 1327/90 md.; Değişik: 15/5/1975 - 1897/2 md.)
+1/3/1970 - 30/11/1970 tarihleri arasında görevde bulunmaları nedeniyle intibakı yapılmış olanlarla, 30/11/1970 tarihinden 1/3/1975 tarihine kadar olan sürede göreve alınanlardan, değerlendirmeye esas alınan hizmetlerden ilkinde (Askerlik dahil) göreve başladıktan sonra öğrenim durumları 36 ncı maddeye göre daha ileri kademe veya yüksek derecede hizmete alınma hakkı verecek şekilde değişenlerin, derece ve kademelere intibakı 36 ncı maddenin (A) bendinin 12/d fıkrası uyarınca ve ek geçici 2 nci madde esaslarına göre yapılır. Öğrenim durumları bir defadan fazla değişenlerin intibakı aynı esaslara göre yeniden tespit olunur.

@@ -1,0 +1,2 @@
+Geçici Madde 52- (Ek:25/12/2024-7537/7 md.)
+Geçici 37 nci, geçici 41 inci ve geçici 48 inci madde çerçevesinde sözleşmeli personel pozisyonlarından memur kadrolarına atanmış olup bu maddenin yürürlük tarihi itibarıyla memur kadrolarında bulunanların söz konusu pozisyonlarda geçen hizmet süreleri, bu maddenin yürürlüğe girdiği tarihten itibaren, 64 üncü maddenin dördüncü fıkrası kapsamında değerlendirilir.

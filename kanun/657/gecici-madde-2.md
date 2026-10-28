@@ -1,0 +1,2 @@
+Düzenlenecek kadroların Başbakanlık Devlet Personel Başkanlığı ile Maliye Bakanlığına bildirilmesi:
+Geçici Madde 2 – (Mülga: 31/7/1970 - 1327/76 md.)

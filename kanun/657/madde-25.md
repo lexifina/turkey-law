@@ -1,0 +1,2 @@
+İsnat ve iftiralara karşı koruma:
+Madde 25 – Devlet memurları hakkındaki ihbar ve şikayetler, garaz veya mücerret hakaret için, uydurma bir suç isnadı suretiyle yapıldığı ve soruşturma veya yargılamanın tabi olduğu kanuni işlem sonucunda bu isnat sabit olmadığı takdirde, merkezde bu memurun en büyük amiri, illerde valiler, isnatta bulunanlar hakkında kamu davası açılmasını Cumhuriyet Savcılığından isterler.
