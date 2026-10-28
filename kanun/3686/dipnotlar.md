@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli 703 sayılı KHK’nin 55 inci maddesiyle, bu bentte yer alan “tasarı ve teklifleriyle, kanun hükmünde kararnameleri” ibaresi “teklifleri ile olağanüstü hal sırasında çıkarılan Cumhurbaşkanlığı kararnamelerini” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli 703 sayılı KHK’nin 55 inci maddesiyle, bu fıkrada yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiştir.
