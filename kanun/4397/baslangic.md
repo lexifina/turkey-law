@@ -1,0 +1,9 @@
+RADYO VE TELEVİZYON VERİCİ TESİSLERİNİN TÜRKİYE
+RADYO-TELEVİZYON KURUMU GENEL MÜDÜRLÜĞÜNE
+DEVREDİLMESİ VE BAZI KANUNLARDA
+DEĞİŞİKLİK YAPILMASI
+HAKKINDA KANUN
+Kanun Numarası : 4397
+Kabul Tarihi : 6/7/1999
+Yayımlandığı Resmî Gazete : Tarih : 10/7/1999 Sayı : 23751
+Yayımlandığı Düstur : Tertip : 5
