@@ -1,0 +1,13 @@
+[1] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, bu fıkrada yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanının görevlendireceği Bakana” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, 5 inci maddenin üçüncü ve dördüncü fıkralarında yer alan “Başbakanın” ibareleri “Cumhurbaşkanının” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, 6 ncı maddenin birinci fıkrasında yer alan “iki” ibaresi “üç” şeklinde değiştirilmiş, “Başbakan ve” ibaresi madde metninden çıkarılmış, “birer” ibaresi “bir” şeklinde değiştirilmiş, ikinci fıkrasında yer alan “, Başbakan” ibaresi madde metninden çıkarılmış, dördüncü fıkrası ile altıncı fıkrasının (ğ) bendinde yer alan “Başbakan” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, 7 nci maddenin üçüncü fıkrasının (a) bendinde yer alan “tüzük ve yönetmelik taslakları, bütçe” ibaresi “mevzuat” şeklinde, (ğ) bendinde yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, bu bentte yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, bu bentte yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[7] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, bu bentte yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[8] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, bu bentte yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[9] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, 21 inci maddenin ikinci fıkrasında yer alan “Başbakan veya” ibaresi madde metninden çıkarılmış ve 22 nci maddenin ikinci fıkrasında yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[10] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, 22 nci maddenin ikinci fıkrasında yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[11] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, bu fıkrada yer alan “Yüksek Kurum Başkanı ile” ibaresi madde metninden çıkarılmıştır.
+[12] 2/7/2018 tarihli ve 703 sayılı KHK’nin 140 ıncı maddesiyle, 27 nci maddenin birinci fıkrasında yer alan “Bakanlar Kurulunun teklifi ve Cumhurbaşkanının onayıyla” ibaresi “Cumhurbaşkanının kararıyla” şeklinde, ikinci fıkrasında yer alan “Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[13] Bu fıkrada yer alan kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (Mük.) sayılı Resmi Gazete’ye bakınız.
