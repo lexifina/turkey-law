@@ -1,0 +1,7 @@
+[1] Bu Kanunun adı “Yalova Kaplıcalarının İşletilmesi ve Kaplıcaların İnkişafı İşlerinin Sıhhat ve İçtimaî Muavenet Vekaletine Bağlı Hükmî Şahsiyeti Haiz Bir Teşekküle Devri Hakkında Kanun” iken, metne işlendiği şekilde ve Kanunun maddelerinde geçen “Sıhhat ve İçtimaî Muavenet” ibareleri “Sağlık Bakanlığı”; “Yalova Kaymakamlığı” ibareleri, “Yalova Valiliği” olarak, 3/6/2004 tarihli ve 5185 sayılı Kanunun 1 inci maddesiyle değiştirilmiştir.
+[2] 3/6/2004 tarihli ve 5185 sayılı Kanunun 1 inci maddesiyle “Sıhhat ve İçtimaî Muavenet” ibareleri “Sağlık Bakanlığı” olarak değiştirilmiş ancak, “Sıhhat ve İçtimaî Muavenet” ibarelerinin devamında yer alan “Vekalet” ibarelerinin de kullanılma imkanı kalmadığından Kanun metninden çıkarılmıştır.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu fıkrada yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[5] Bu hükmün emekliliğe ait kısmı 8/6/1949 tarih ve 5434 sayılı Kanunun 135. maddesi ile yürürlükten kaldırılmıştır.
+[6] 3633 sayılı Kanun 5842 sayılı Denizcilik Bankası A. 0. Kanunu ile; 5842 sayılı kanun da 117 sayılı KHK'nin 23. maddesi ile yürürlükten kaldırılmıştır.
+[7] 2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu maddede yer alan ““Maliye ve Sağlık bakanlarınca tesbit ve İcra Vekilleri Heyetince” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
