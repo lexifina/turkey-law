@@ -1,0 +1,7 @@
+[1] 2/7/2018 tarihli ve 703 sayılı KHK’nin 149 uncu maddesiyle, bu bentte yer alan “, Türkiye Büyük Millet Meclisi Başkanlığına ve Başbakanlığa” ibaresi “ve Türkiye Büyük Millet Meclisi Başkanlığına” şeklinde değiştirilmiştir.
+[2] Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile dördüncü fıkranın (a) ve (d) bentleri, beşinci fıkra, altıncı fıkranın birinci ve ikinci cümlelerinin yürürlükten kaldırılması iptal edilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 149 uncu maddesiyle, bu fıkrada yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 149 uncu maddesiyle, 14 üncü maddenin beşinci fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, altıncı fıkrasında yer alan “Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 149 uncu maddesiyle, bu fıkrada yer alan “Devlet Personel Başkanı, Başbakanlık genel müdürleri ve Başbakanlık genel müdür yardımcıları” ibaresi “Gelir İdaresi Başkanı, bakanlık genel müdürleri ve bakanlık genel müdür yardımcıları” şeklinde değiştirilmiştir.
+[6] Bu maddede yer alan kadrolarla ilgili olarak 20/4/2016 tarihli ve 29690 sayılı Resmi Gazete’ye bakınız.
+[7] 2/7/2018 tarihli ve 703 sayılı KHK’nin 149 uncu maddesiyle, bu fıkrada yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiştir.
