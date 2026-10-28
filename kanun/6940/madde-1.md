@@ -1,0 +1,1 @@
+Madde 1 – Maarif Vekaletine bağlı Riyaseticumhur Filarmoni Orkestrasının adı (Riyaseticumhur Senfoni Orkestrası) olarak değiştirilmiş ve müessese aşağıdaki hükümlere göre yeniden teşkilatlandırılmıştır.
