@@ -1,0 +1,7 @@
+TAHSİS EDİLDİKLERİ GAYELERDE KULLANILMALARINA
+İMKAN VEYA LÜZUM KALMAYAN HARB SEFİNELERİNİN
+SATILMASINA YETKİ VERİLMESİ HAKKINDA KANUN
+Kanun Numarası : 269
+Kabul Tarihi : 11/7/1963
+Yayımlandığı Resmî Gazete : Tarih: 17/7/1963 Sayı: 11456
+Yayımlandığı Düstur : Tertip: 5 Cilt: 2 Sayfa: 1622
