@@ -1,0 +1,2 @@
+[1] 30/12/2020 tarihli ve 31350 sayılı Resmî Gazete’de yayımlanan 3343 sayılı Cumhurbaşkanı Kararı ile bu maddede yer alan başvuru ve ilk taksit ödeme sürelerinin, anılan maddelerde belirtilen sürelerin bitiminden itibaren bir ay uzatılmasına karar verilmiştir.
+[2] 30/12/2020 tarihli ve 31350 sayılı Resmî Gazete’de yayımlanan 3343 sayılı Cumhurbaşkanı Kararı ile bu maddede yer alan başvuru ve ilk taksit ödeme sürelerinin, anılan maddelerde belirtilen sürelerin bitiminden itibaren bir ay uzatılmasına karar verilmiştir.
