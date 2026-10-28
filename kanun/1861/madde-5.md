@@ -1,0 +1,1 @@
+Madde 5 – Ordu ve jandarma sınıf küçük zabitleri, jandarma onbaşıları ve gedikli küçük zabit ihzarı mektebini bitirip kıtada onbaşı nasbedilenler talimatında yazılı şartları haiz ve muvazzaflık hizmetinden başka ayrıca üç sene hizmeti taahhüt edip gedikli küçük zabit mektebini ve meslek kursunu muvaffakiyetle bitirenler; gedikli çavuşluğa terfi edilirler.[3]
