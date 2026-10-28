@@ -1,0 +1,3 @@
+[1] Bu maddede adı geçen iller arasına 18/5/1990 tarih ve 426 sayılı KHK ile Batman ve Şırnak İlleri dahil edilmiştir. (Bkz.: Bu KHK'nin sonundaki "İşlenemeyen Hükümler Kısmı")
+[2] (k) bendi; 30/10/1989 tarih ve 387 sayılı KHK ve onu değiştirerek Kanunlaştıran 18/1/1990 tarih ve 3601 sayılı Kanun ile yürürlükten kaldırılmış ve müteakip (l) bendi (k) olarak teselsül ettirilmiştir.
+[3] Bazı illerde Kamu personeline ödenecek ek tazminat esasları, 27/7/1987 tarih ve 87/11989 sayılı Kararname ile tespit edilerek 28/7/1987 tarih ve 19531 sayılı Resmî Gazete'de yayımlanmıştır. Daha sonra bu esaslarda yapılan değişiklikler için; 1/4/1988 tarih ve 88/12795 sayılı (R.G.11/4/1988-19782), 18/5/1990 tarih ve 90/460 sayılı (R.G.24/5/1990-20527) Kararnamelere bakınız.
