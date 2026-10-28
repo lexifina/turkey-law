@@ -1,0 +1,9 @@
+GÜNEYDOĞU ANADOLU PROJESİ BÖLGE KALKINMA
+İDARESİ TEŞKİLATININ KURULUŞ VE GÖREVLERİ
+HAKKINDA KANUN HÜKMÜNDE KARARNAME
+Kanun Hükmünde Kararnamenin Tarihi : 27.10.1989 No : 388
+Yetki Kanununun Tarihi : 12.3.1986 No : 3268
+No : 9.4.1987 3347
+No : 12.10.1988 3479
+No : 1.6.1989 3569
+Yayımlandığı Resmî Gazete Tarihi : 6.11.1989 No : 20334
