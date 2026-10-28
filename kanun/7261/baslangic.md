@@ -1,0 +1,4 @@
+TÜRKİYE ÇEVRE AJANSININ KURULMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 7261
+Kabul Tarihi : 24/12/2020
+Yayımlandığı Resmî Gazete : Tarih: 30/12/2020 Sayı: 31350
