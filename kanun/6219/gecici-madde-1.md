@@ -1,0 +1,6 @@
+VIII - İntikal Hükümleri
+Muvakkat Madde 1 – Vakıfparalar Müdürlüğünün mevcut ve matlupları, halen ikraz yoliyle işletmekte bulunduğu bütün hak ve menfaatleri bu müdürlüğün bil cümle taahhüt ve borçlariyle birlikte, Türkiye Vakıflar Bankası Türk Anonim Ortaklığına intikal eder.
+Devre esas olmak üzere Vakıfparalar Müdürlüğünce hazırlanacak devir bilançosunda yazılı menkul kıymetler borsa veya rayiç bedelleriyle, gayrimenkuller takdir olunacak kıymetleriyle ve alacaklar devir tarihindeki bakıyeleri üzerinden değerlendirilir. Peşin alınan faizlarin devir tarihinden sonraya ait kısmı temettü olarak bankaya intikal eder.
+Mazbut vakıflarla mülhak vakıfların devir tarihinde Vakıfparalar Müdürlüğünde mevcut bilcümle matlubatından bunların bankaya iştirak hisseleri çıktıktan sonra geri kalanı Vakıflar Umum Müdürlüğü ile mülhak vakıflar namına tevdiat kayıt veya Vakıflar Umum Müdürlüğünün göstereceği şekilde tenmiye edilir.
+Vakfedilmiş olan bu paralarla hisse senedi alınması mecburidir.
+Vakıfparalar Müdürlüğü adına tescil edilmiş olan ayni hakların Türkiye Vakıflar Bankası Türk Anonim Ortaklığı adına devir ve tescili muamelelerinden dolayı bir defaya mahsus olmak üzere hiç bir vergi, resim ve harç alınmaz.
