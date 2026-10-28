@@ -1,0 +1,1 @@
+Madde 5 – Röntgen ve radiyom ve elektrikle tedavi müesseselerinde buraya kabul edilen hastaları kayda mahsus ve Sıhhat ve İçtimai Muavenet Vekaletince hazırlanan örneklere uygun protokol defterleri tutulması mecburidir.
