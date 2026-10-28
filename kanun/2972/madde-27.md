@@ -1,0 +1,1 @@
+Madde 27 – Devlet İstatistik Enstitüsü, ilçe seçim kurulları tarafından kendilerine verilecek belgelere dayanarak seçim çevreleri itibariyle sandık tutanaklarından mevcut bilgiyi, en geç seçimi takip eden yıl içinde yayımlar.

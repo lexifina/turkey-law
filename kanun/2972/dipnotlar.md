@@ -1,0 +1,6 @@
+[1] 13/3/2018 tarihli ve 7102 sayılı Kanunun 23 üncü maddesiyle; bu fıkrada yer alan “yirmibeş” ibaresi “on sekiz” şeklinde değiştirilmiştir.
+[2] 13/3/2018 tarihli ve 7102 sayılı Kanunun 22 nci maddesiyle; bu maddenin birinci fıkrasında yer alan “pusulası” ibaresi “pusulaları” şeklinde, mevcut üçüncü fıkrasında yer alan “pusulasını” ibaresi “pusulalarını” şeklinde değiştirilmiştir.
+[3] Bu bentte yer alan “ve ilk kademe belediyesi” ibaresi, 10/7/2004 tarihli ve 5216 sayılı Kanunun 30 uncu maddesiyle eklenmiştir.
+[4] 13/3/2018 tarihli ve 7102 sayılı Kanunun 23 üncü maddesiyle; bu fıkrada yer alan “25” ibaresi “on sekiz” şeklinde değiştirilmiştir.
+[5] 28/12/1993 tarih ve 3959 Sayılı Kanunun Geçici 1 inci maddesi, bu fıkranın sadece ilk genel yerel seçimlerde uygulanacağını hüküm altına almıştır.
+[6] Bu fıkranın "Bu Kanunun yayımı tarihine kadar 2972 sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi hakkında Kanunun 29 uncu maddesine göre yeniden seçim yapılmasına karar verilerek ilanları yapılan belediye başkanlıkları ile ..." içerikli bölümü, Anayasa Mahkemesinin 21/4/1992 tarih ve E.1992/17,K.1992/30 Sayılı Kararıyla iptal edilmiş olup, metinden çıkarılmıştır. (Bkz: 2/10/1992 - 21363 R.G.)
