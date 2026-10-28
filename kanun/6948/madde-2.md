@@ -1,0 +1,4 @@
+Madde 2 – (Değişik: 18/6/2017-7033/4 md.)
+Sanayi işletmelerinin Bilim, Sanayi ve Teknoloji Bakanlığında tutulacak sanayi siciline kaydettirilmesi ve mukabilinde alınacak sanayi sicil belgesinin icabında salahiyetli memurlara ibraz olunması mecburidir.
+Sanayi işletmeleri üretim faaliyetine başlamadan önce sanayi siciline ön kayıt olmak zorundadır. Sanayi işletmelerine işyeri açma ve çalışma ruhsatı düzenlemesi için sanayi siciline kaydolduğuna dair yazı, işyeri açma ve çalışma ruhsatı veren idareler tarafından aranır.
+Yeni açılan sanayi işletmeleri, Bilim, Sanayi ve Teknoloji Bakanlığı tarafından tanzim kılınacak beyannameleri faaliyete başladıkları tarihten itibaren 3 üncü madde uyarınca doldurup iki ay içinde Bilim, Sanayi ve Teknoloji Bakanlığına elektronik ortamda göndermekle mükelleftir.

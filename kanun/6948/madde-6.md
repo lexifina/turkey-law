@@ -1,0 +1,1 @@
+Madde 6 – Kuruluş maksatları ve istihsallerinin mahiyeti bakımından diğer müesseselerden ayrı şekilde tescil edilmesi ve malumat alınması zaruri görülen sınai işletmeler, Cumhurbaşkanı kararı ile tayin ve tesbit olunur.[2]
