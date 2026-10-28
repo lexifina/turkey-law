@@ -1,0 +1,1 @@
+Madde 48 – Bu kanun neşri tarihinden muteberdir.
