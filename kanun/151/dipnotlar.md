@@ -1,0 +1,1 @@
+[1] 8/6/1936 tarihli ve 3008 Sayılı İş Kanununun 147 nci maddesi ile bu Kanunun sözü edilen İş Kanununa aykırı hükümleri yürürlükten kaldırılmış, bilahare 3008 sayılı Kanun da 25/8/19 tarih ve 1475 sayılı Kanunun 110 uncu maddesiyle yürürlükten kaldırılmıştır.
