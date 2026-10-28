@@ -1,0 +1,7 @@
+KARŞILIKSIZ ÇEK VE PROTESTOLU SENETLER İLE KREDİ VE
+KREDİ KARTLARI BORÇLARINA İLİŞKİN KAYITLARIN
+DİKKATE ALINMAMASI HAKKINDA KANUN
+Kanun Numarası : 5834
+Kabul Tarihi : 22/1/2009
+Yayımlandığı Resmî Gazete : Tarih : 28/1/2009 Sayı : 27124
+Yayımlandığı Düstur : Tertip : 5 Cilt : 48
