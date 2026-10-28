@@ -1,0 +1,7 @@
+29/2/1984 TARİHLİ VE 2983 SAYILI ANA KANUNA İŞLENEMEYEN HÜKÜMLER:
+1) 9/4/1990 tarihli ve 414 sayılı KHK'nin geçici maddeleri:
+Geçici Madde 1 – Toplu Konut ve Kamu Ortaklığı İdaresi Başkanlığına ait bütün personel Kamu Ortaklığı İdaresine devredilmiştir. Ayrıca Toplu Konut ve Kamu Ortaklığı İdaresine ait her türlü menkul ve gayrimenkul, araç, gereç, malzeme, döşeme, demirbaş, taşıt ve personelin, Kamu Ortaklığı İdaresi Başkanlığı ile Toplu Konut İdaresi Başkanlığına devri, ilgili bakan tarafından onanacak bir protokolle tespit olunur.
+Kamu Ortaklığı İdaresinin 1990 Mali Yılı harcamaları Toplu Konut ve Kamu Ortaklığı İdaresi bütçesinden karşılanır.
+Geçici Madde 2 – Kadroları ekli listede yer alan personelden kadro unvan ve dereceleri değişenlerin eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminat hakları yeni bir kadroya atanıncaya kadar şahıslarına bağlı olarak saklı tutulur.
+Geçici Madde 3 – 2983 sayılı kanun ile diğer mevzuatta yer alan "Toplu Konut ve Kamu Ortaklığı İdaresi", "Toplu Konut ve Kamu Ortaklığı İdaresi Başkanı" ve "Toplu Konut ve Kamu Ortaklığı İdaresi Başkanlığı" ibareleri, sırasıyla "Kamu Ortaklığı İdaresi"," Kamu Ortaklığı İdaresi Başkanı" ve "Kamu ortaklığı İdaresi Başkanlığı" şeklinde değiştirilmiştir.
+Diğer mevzuatta Toplu Konut ve Kamu Ortaklığı İdaresine yapılmış olan atıflar, hizmetin özelliğine göre Kamu Ortaklığı İdaresi Başkanlığı veya Toplu Konut İdaresi Başkanlığına ilişkin düzenlemelerin ilgili hükümlerine yapılmış sayılır.
