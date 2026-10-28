@@ -1,0 +1,6 @@
+YIPRANAN TARİHİ VE KÜLTÜREL TAŞINMAZ VARLIKLARIN YENİLENEREK
+KORUNMASI VE YAŞATILARAK KULLANILMASI HAKKINDA KANUN
+Kanun Numarası : 5366
+Kabul Tarihi : 16/6/2005
+Yayımlandığı Resmî Gazete : Tarih : 5/7/2005 Sayı : 25866
+Yayımlandığı Düstur : Tertip : 5 Cilt : 44

@@ -1,0 +1,3 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 165 inci maddesiyle 2 nci maddesinin birinci fıkrasında yer alan “Çevre ve Şehircilik Bakanlığının teklifi ile Bakanlar Kuruluna” ibareleri “Cumhurbaşkanına”, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” ve ikinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “İçişleri Bakanlığının teklifi üzerine Bakanlar Kurulunca Kanunun yayımı tarihinden itibaren üç ay içinde” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
