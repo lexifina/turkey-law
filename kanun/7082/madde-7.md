@@ -1,0 +1,2 @@
+Rütbeleri alınan askeri yargı mensupları
+MADDE 7- (1) Bu Kanunun yayımı tarihinden önce 667 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesi uyarınca ilgili kurul veya komisyon tarafından meslekte kalmasının uygun olmadığına ve meslekten çıkarılmalarına karar verilen Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesi daire başkanı ve üyeleri ile askeri hakimler ve 26/10/1963 tarihli ve 357 sayılı Askeri Hakimler Kanununun ek 14 üncü maddesi uyarınca görevlerine son verilen askeri hakim adaylarının askeri rütbeleri, mahkûmiyet kararı aranmaksızın alınmıştır.
