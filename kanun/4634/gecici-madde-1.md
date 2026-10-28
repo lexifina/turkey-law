@@ -1,0 +1,1 @@
+Geçici Madde 1 – 6747 sayılı Şeker Kanununa uygun olarak yurt içinde şeker fabrikası kurup işletmek üzere Bakanlar Kurulundan izin alan, ancak henüz üretime geçmeyen gerçek ve tüzel kişilerin kota hakkı saklıdır. Bu hak, Kanunun yürürlüğe girdiği tarihten itibaren beş yıl süre ile geçerlidir. Bu süre içinde kota, hak sahibince başkasına devredilemez.

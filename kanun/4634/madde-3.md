@@ -1,0 +1,7 @@
+Kotalar ve kotaların tespiti
+Madde 3 – Şeker üretimi ve arzında istikrarı sağlamak amacıyla pazarlanacak şeker miktarı, sakaroz kökenli ve diğer şekerler için ayrı ayrı olmak üzere şeker türlerine göre, gerektiğinde dönemsel olarak kotalar ile belirlenir. Nişasta kökenli şekerler için belirlenecek toplam A kotası, ülke toplam A kotasının % 5’ini geçemez. Cumhurbaşkanı bu oranı,% 50’sine kadar artırmaya, % 50’sine kadar eksiltmeye yetkilidir.[5][6][7]
+Sakaroz kökenli şekerler dışındaki depolanabilir nitelikte olmayan diğer şekerler için B kotası belirlenmez.
+(Değişik üçüncü fıkra: 21/3/2018-7103/47 md.) Şirketlerin A ve B kotaları Cumhurbaşkanı tarafından her yıl en geç 30 Haziran tarihine kadar, yurt içi şeker talebi, fabrikaların işleme ve şeker üretim kapasiteleri göz önünde bulundurularak müteakip beşer yıllık dönemler için tespit edilir.6
+Kotalar, fabrikaların üretim süreleri ile son üç yıllık ortalama fiili günlük işleme kapasiteleri ve/veya üretim miktarları ve randımanları esas alınmak suretiyle hesaplanır. İlk kez üretime geçecek ve üç yaşın altındaki şeker fabrikaları ile bu Kanunun yürürlüğe girmesinden önce kapasite artırım izni almış olan fabrikalar için kota belirlenmesinde nominal üretim verileri esas alınır.
+(Değişik beşinci fıkra: 21/3/2018-7103/47 md.) Yeni fabrika kurulabilmesi ve/veya mevcut fabrikaların kapasitelerini artırabilmeleri için kota temin etmeleri zorunludur. Şirketlere yeni A ve B kotaları tahsisine Cumhurbaşkanı yetkilidir.6
+Kota iptal ve transferleri[8]
