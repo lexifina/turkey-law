@@ -1,0 +1,2 @@
+Kapsam:
+Madde 2 – Bu Kanun Hükmünde Kararname, Yükseköğretim Üst Kuruluşları ve bağlı kuruluşlarla Yükseköğretim Kurumlarının 2547 sayılı Yükseköğretim Kanunu'nun 51'inci maddesine göre kurulan idare teşkilatını kapsar.
