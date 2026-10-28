@@ -1,0 +1,12 @@
+[1] 10/9/2014 tarihli 6552 sayılı Kanunun 128 inci maddesiyle, bu fıkrada yer alan “Kadıköy ilçe belediyesine bağlı Atatürk Mahallesinin” ibaresinden sonra gelmek üzere “ve Barbaros Mahallesinin” ibaresi eklenmiştir.
+[2] Bu fıkra; Kanunun ekinde yer alan (44) sayılı listede gösterilen belediyelerden,
+1 - Türkiye İstatistik Kurumu tarafından gerçekleştirilen adrese dayalı nüfus sayımı sonuçlarına yasal süresi içinde iptal davası açanlar,
+2 - Yasa’nın yürürlüğe girdiği 22.3.2008 tarihinden önce 5393 sayılı Yasa’nın 8. maddesi uyarınca yapılan katılma işlemi ile nüfusu 2000’in üzerine çıkanlar,
+3 - “Kültür ve Turizm Bakanlığı’nın önerisi ve Bakanlar Kurulu kararı ile ilan edilmiş turizm bölge, alan ve merkezleri ve kültür ve turizm koruma ve gelişim bölgeleri” kapsamında kalanlar ile “Bayındırlık ve İskân Bakanlığı’nca saptanan 2008 yılı turizm öncelikli yöreler“ listesinde yer alanlar,
+yönünden, Anayasa Mahkemesi’nin 31/10/2008 tarihli ve E.: 2008/34, K.: 2008/153 sayılı Kararı ile iptal edilmiştir.
+[3] 10/9/2014 tarihli 6552 sayılı Kanunun 128 inci maddesiyle, bu listesinin sekizinci sırasında yer alan “Barbaros” ibaresi “Barbaros Mahallesinin O4 Karayolunun güneyinde kalan kısmı” şeklinde değiştirilmiş, on birinci sırasında yer alan “Yeni Çamlıca” ibaresinden sonra gelmek üzere “, Yenişehir, Mimar Sinan ve Mevlana Mahalleleri” ibaresi eklenmiş, on ikinci sırasında yer alan “Mustafakemal Mahallesinin” ibaresinden sonra gelmek üzere “ve Aşık Veysel Mahallesinin” ibaresi eklenmiş, on üçüncü sırasında yer alan “Namıkkemal” ibaresi “Esenevler” şeklinde değiştirilmiştir.
+[4] Bu Kanunun Geçici 1 inci maddesinin (1) numaralı fıkrası; bu listede gösterilen belediyelerden,
+1 - Türkiye İstatistik Kurumu tarafından gerçekleştirilen adrese dayalı nüfus sayımı sonuçlarına yasal süresi içinde iptal davası açanlar,
+2 - Yasa’nın yürürlüğe girdiği 22.3.2008 tarihinden önce 5393 sayılı Yasa’nın 8. maddesi uyarınca yapılan katılma işlemi ile nüfusu 2000’in üzerine çıkanlar,
+3 - “Kültür ve Turizm Bakanlığı’nın önerisi ve Bakanlar Kurulu kararı ile ilan edilmiş turizm bölge, alan ve merkezleri ve kültür ve turizm koruma ve gelişim bölgeleri” kapsamında kalanlar ile “Bayındırlık ve İskân Bakanlığı’nca saptanan 2008 yılı turizm öncelikli yöreler“ listesinde yer alanlar,
+yönünden, Anayasa Mahkemesi’nin 31/10/2008 tarihli ve E.: 2008/34, K.: 2008/153 sayılı Kararı ile iptal edilmiştir.
