@@ -1,0 +1,1 @@
+Madde 31 – Cumhurbaşkanınca kararlaştırılan sınır bölgelerinde fiziki güvenlik sistemi tesis edilir. Sistemin kurulmasından ve idame ettirilmesinden Milli Savunma ve İçişleri Bakanlığı sorumludur.[15]
