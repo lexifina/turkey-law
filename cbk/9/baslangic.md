@@ -1,0 +1,2 @@
+MİLLETLERARASI ANDLAŞMALARIN ONAYLANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ
+Cumhurbaşkanlığı Kararnamesinin Sayısı : 9 Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 15/7/2018 - 30479
