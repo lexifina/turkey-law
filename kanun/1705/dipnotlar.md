@@ -1,0 +1,2 @@
+[1] Bu Kanunda geçen Türk Standartlarının mecburi kılınması ile ilgili olarak "İcra Vekilleri Heyeti" ve "Hükümet" deyimleri, 16/5/1985 tarihli ve 3205 sayılı Kanunun 8 inci maddesiyle 18/11/1960 tarih ve 132 sayılı Kanuna ekle nen Ek birinci madde hükmü ile "ilgili bakanlık" şeklinde değiştirilmiştir.
+[2] Bu maddenin başına, 24/6/1995 tarihli ve 560 sayılı KHK'nin 21 inci maddesiyle "Gıda maddeleri hariç olmak üzere" ibaresi eklenmiş ve bu değişiklik 27/5/2004 tarihli ve 5179 sayılı Kanunun 33 üncü maddesiyle aynen kabul edilerek Kanunlaşmıştır.
