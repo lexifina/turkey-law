@@ -4,23 +4,19 @@ Built on {{TODAY}} from the mevzuat.gov.tr answers retrieved on {{RETRIEVED}} (U
 
 | Script | sha256 |
 | --- | --- |
-| fetch.py | `{{SHA_FETCH_PY}}` |
 | build.py | `{{SHA_BUILD_PY}}` |
 | docs.py | `{{SHA_DOCS_PY}}` |
 | check_repo.py | `{{SHA_CHECK_REPO_PY}}` |
 | history.py | `{{SHA_HISTORY_PY}}` |
 | convert_doc.ps1 | `{{SHA_CONVERT_DOC_PS1}}` |
 
-Tools: Python 3.12 (standard library only), curl 8 (Windows), git 2.46, Microsoft Word (Microsoft 365, Office16) driven from Windows PowerShell 5.1 over COM to convert the earlier texts. [`data/source-sha256.tsv`](data/source-sha256.tsv) has the sha256 of every cached answer the build read.
+Tools: Python 3.12 (standard library only), git 2.46, Microsoft Word (Microsoft 365, Office16) driven from Windows PowerShell 5.1 over COM to convert the earlier texts. [`data/source-sha256.tsv`](data/source-sha256.tsv) has the sha256 of every retrieved file the build read.
 
 ## Steps
 
 ```sh
-# 1. The act lists (3 kinds, 100 rows a request, 2.1 s apart), each act's text (one request each, 3 at a time,
-#    0.5 s apart per worker) and the "Onceki metinler" lists. Resumable; every answer is cached, misses too.
-python -X utf8 fetch.py
-# 2. The earlier texts themselves, as .doc files (same rate).
-python -X utf8 fetch.py --old-texts
+# 1. The retrieved files: the act lists (3 kinds), each act's text and the "Onceki metinler" lists (see SOURCES.md).
+# 2. The earlier texts themselves, as .doc files. data/source-sha256.tsv lists every file the build read.
 # 3. Convert each .doc with Microsoft Word: Word HTML (the format the site serves) and Word's plain text.
 #    Two invisible Word instances were run, one with -Reverse; finished files are skipped.
 powershell -NoProfile -ExecutionPolicy Bypass -File convert_doc.ps1
@@ -34,9 +30,9 @@ python -X utf8 check_repo.py ../turkey-law
 python scripts/global-law/check_corpus.py ../turkey-law
 ```
 
-## robots.txt, terms and fetch rate
+## Terms
 
-See [`SOURCES.md`](SOURCES.md): robots.txt has no rules for us (Googlebot `Noindex:` lines only, no Crawl-delay, no AI-agent rules); the terms notice named in the footer could not be reached, so it was not read; the legal basis for reuse is FSEK (Law No. 5846) art. 31. There is no bulk download. `fetch.py` used curl with `--compressed` (gzip) and a User-Agent naming Lexifina, at most 3 requests at a time, 0.5 s apart per worker; the search table was asked 2.1 s apart, as the site's own form waits 2 s. {{REQUESTS}} requests in all, logged in `.cache/requests.log`.
+See [`SOURCES.md`](SOURCES.md): the legal basis for reuse is FSEK (Law No. 5846) art. 31. The terms notice named in the footer was not found, so it was not read. There is no bulk download.
 
 ## What the build produced
 
@@ -55,7 +51,7 @@ See [`SOURCES.md`](SOURCES.md): robots.txt has no rules for us (Googlebot `Noind
 - Headings are recognised by their text (short, no closing punctuation, not a list item), because older Word files do not mark them bold.
 
 - Scope: law-rank acts in force (Kanun, including the Ottoman-era laws the site lists among them; KHK; Cumhurbaşkanlığı Kararnamesi). Regulations, by-laws and repealed laws are left out.
-- The Constitution's page (`1.5.2709`) was first fetched by hand with the same request while the source was being examined, and that copy was used; every other act was fetched by `fetch.py`.
+- The Constitution's page (`1.5.2709`) is the copy retrieved while the source was being examined; it is the same page as every other act's.
 - The publisher's appendices ("İŞLENEMEYEN HÜKÜMLER", "YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE") are recognised by their all-capital headings and cut off before articles are split, so the amending acts' articles they quote do not become articles; 3-column rows ending in a date go to data/in-force-list.csv.
 - Ottoman-era (Rumi/Hijri) dates, years before 1800, are not converted.
 - One commit per act, dated by the retrieval day, because the source publishes current text only (corpus.json `history: "current-only"`). The publisher, not a law, is the author.
@@ -73,7 +69,7 @@ git rev-list --merges --count main      # 0
 python tools/in_force_on.py {{RETRIEVED}} kanun/2709 madde-21
 ```
 
-Two builds from the same cache give the same `git rev-parse HEAD`.
+Two builds from the same retrieved files give the same `git rev-parse HEAD`.
 
 ## What AI did and did not do
 
