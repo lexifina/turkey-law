@@ -1,0 +1,2 @@
+Madde 1 – Bu Kanunda sayılan, özel veya resmi, her türlü konaklama, dinlenme bakım ve tedavi tesisleri, marinalar, liman tesisleri, kıyı tesisleri ve işyerleri ile konutlarda geçici veya sürekli olarak kalanlar, oturanlar, çalışanlar ve ayrılanlar ile araç, gemi/deniz turizmi aracı kiralayan gerçek ve tüzel kişilerin kimliklerinin tespiti ve bildirilmesi bu Kanunun hükümlerine göre yapılır.[1][2]
+Askeri konaklama, dinlenme ve kamp tesisleri ile ordu evleri bu Kanunun kapsamı dışındadır.
