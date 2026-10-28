@@ -1,0 +1,2 @@
+Bakanlık Maarif Müfettişleri ve çalışma merkezleri[8]
+MADDE 41 – (Ek: 1/3/2014-6528/23 md. ; Mülga: 2/7/2018-KHK-703/22 md.)
