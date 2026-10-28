@@ -1,0 +1,15 @@
+[1] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu Kanunun 35. Maddesinin, 36. Maddesinin birinci fıkrası ile ikinci fıkrasının birinci cümlesinin, 37 ila 42. Maddelerinin, 43. Maddesinin birinci ve üçüncü fıkralarının, 44. ve 45. Maddelerinin, 46. Maddesinin üçüncü fıkrasının, 47 ila 51. Maddelerinin, 52. Maddesinin (a), (b), (c), (f), (g) ve (h) bentlerinin, 53 ila 71., 73., 74., geçici 1 ila geçici 4. Maddeleri ile ekli (I) ve (II) sayılı cetvellerin yürürlükten kaldırılması iptal edilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 102 nci maddesiyle, bu fıkrada yer alan “; Vakıflar Genel Müdürlüğünün kuruluşu ile Genel Müdürlüğün teşkilât, görev, yetki ve sorumluluklarının düzenlenmesi” ibaresi madde metninden çıkarılmıştır.
+[3] 12/7/2013 tarihli ve 6495 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “(c), (e) ve (f) bentlerinde” ibaresi “(c) ve (e) bentlerinde” şeklinde değiştirilmiştir.
+[4] 25/3/2020 tarihli ve 7226 sayılı Kanunun 33 üncü maddesiyle, bu maddenin başlığı ‘Kira süresi’ iken metne işlendiği şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 102 nci maddesiyle, bu fıkrada yer alan “Başbakan Yardımcısının” ibaresi “Bakanın” şeklinde değiştirilmiştir.
+[6] 20/11/2025 tarihli ve 7565 sayılı Kanunun 10 uncu maddesiyle bu fıkranın ilk cümlesinde yer alan “üç” ibaresi “beş” şeklinde değiştirilmiştir.
+[7] 20/11/2025 tarihli ve 7565 sayılı Kanunun 10 uncu maddesiyle fıkrada yer alan “altı aylık” ibaresi madde metninden çıkartılmıştır.
+[8] 4/4/2023 tarihli ve 7451 sayılı Kanunun 17 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “mazbut vakıflara ait taşınmazların” ibaresinden sonra gelmek üzere “yatırım karşılığı uzun süreli kira sözleşmeleri hariç olmak üzere” ibaresi eklenmiştir.
+[9] 2/7/2018 tarihli ve 703 sayılı KHK’nin 102 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[10] 20/11/2025 tarihli ve 7565 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “yirmisi” ibaresi “kırkı” şeklinde değiştirilmiştir.
+[11] 22/8/2011 tarihli ve 651 sayılı KHK’nın 15 inci maddesi ile bu maddenin birinci fıkrasına (c) bendinden sonra gelmek üzere (d) bendi eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir.
+[12] 28/11/2017 tarihli ve 7061 sayılı Kanunun 95 inci maddesiyle, bu maddenin birinci fıkrasına (f) bendinden sonra gelmek üzere (g) bendi eklenmiş ve mevcut (g) bendi (h) bendi olarak teselsül ettirilmiştir.
+[13] 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
+[14] 7/11/2024 tarihli ve 7531 sayılı Kanunun 20 nci maddesiyle bu fıkrada yer alan “katılım payından” ibaresi “kamu kurum ve kuruluşlarına ödenecek katılım payları ile değerli kâğıt ve işlem bedelinden” şeklinde değiştirilmiştir.
+[15] 7/11/2024 tarihli ve 7531 sayılı Kanunun 20 nci maddesiyle bu fıkraya “işlemleri,” ibaresinden sonra gelmek üzere “ceza ve ihalelerden yasaklama hükümleri hariç” ibaresi eklenmiştir.

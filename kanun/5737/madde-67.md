@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+İstihdam
+Personel rejimi
+MADDE 67 – (Mülga: 2/7/2018/KHK/703/102 md.)
