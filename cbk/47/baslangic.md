@@ -1,0 +1,2 @@
+SİGORTACILIK VE ÖZEL EMEKLİLİK DÜZENLEME VE DENETLEME KURUMUNUN TEŞKİLAT VE GÖREVLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ
+Cumhurbaşkanlığı Kararnamesinin Sayısı : 47 Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 18/10/2019 - 30922
