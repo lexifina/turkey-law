@@ -1,0 +1,2 @@
+Madde 59 – 60 – (Mülga: 17/6/1987 - 3386/18 md.)
+Kararlara uyma zorunluluğu:[26]
