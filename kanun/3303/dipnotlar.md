@@ -1,0 +1,2 @@
+[1] Anayasa Mahkemesinin 13/7/2023 Tarihli ve E: 2023/117, K: 2023/121 Sayılı Kararı ile bu fıkrada yer alan “maden işletmeciliği sebebiyle meydana gelen zararlardan dolayı bir hak ve tazminat talep edemezler” ibaresi iptal edilmiştir.
+[2] 30/3/2023 tarihli ve 7447 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “Bu Kanunun yürürlüğe girdiği tarihte:” ibaresi “Devir tarihi itibarıyla;” şeklinde değiştirilmiştir.
