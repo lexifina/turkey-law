@@ -1,0 +1,3 @@
+[1] 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 18 inci maddesiyle, bu Kanunda 5957 sayılı Kanun hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.
+[2] İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri, 6/5/1986 tarih ve 3283 sayılı Kanunun 1 inci maddesi ile yürürlükten kaldırılmıştır.
+[3] 553 sayılı KHK’nin değiştirilerek kabulüne dair 6/4/2005 tarihli ve 5330 sayılı Kanun karşısında, 553 sayılı KHK’nin bu geçici maddelerinin hükmü kalmamıştır.
