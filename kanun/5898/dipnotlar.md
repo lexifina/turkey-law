@@ -1,0 +1,2 @@
+[1] 18/10/2018 tarihli ve 7148 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan “boya incelticisi gibi” ibaresi “boya incelticisi, çakmak gazı ve benzeri” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 64 üncü maddesi ile bu bentte yer alan “ilgili Devlet bakanlıkları ile İçişleri, Millî Eğitim, Çalışma ve Sosyal Güvenlik ve Sanayi ve Ticaret bakanlıklarının görüşleri alınarak, Sağlık Bakanlığınca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
