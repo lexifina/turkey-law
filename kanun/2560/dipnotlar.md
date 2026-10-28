@@ -1,0 +1,15 @@
+[1] 2/7/2018 tarihli ve 703 sayılı KHK’nin 112 nci maddesiyle, bu fıkrada yer alan “İçişleri ile Bayındırlık ve İskan bakanlıklarının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[2] Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.
+[3] 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle, bu bentte yer alan “yılda iki maaşı geçmemek üzere verilecek ikramiyelerin miktar ve zamanını belirlemek,” ibaresi yürürlükten kaldırılmış olup, daha sonra 666 sayılı KHK ile bu bentte yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
+[4] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
+[5] 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu bentte yer alan “taslakları ile personele verilecek ikramiye miktar ve zamanlarına” ibaresi “taslaklarına” şeklinde değiştirilmiştir.
+[6] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
+[7] Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine bakınız.
+[8] Bu fıkrada yer alan “…%10’dan aşağı olmayacak nispetinde…” ibaresi, Anayasa Mahkemesi’nin 26/1/2012 tarihli ve E.: 2011/6, K.: 2012/16 sayılı Kararı ile iptal edilmiştir.
+[9] Bu maddedeki "İstanbul Belediyesi" ifadesi yerine "İstanbul Büyük Şehir Belediyesi" ifadesinin kullanılacağı 23/5/1984 tarih ve 3009 sayılı Kanunun 13 üncü maddesiyle bu Kanuna eklenen Ek Madde 2 ile hükme bağlanmıştır.
+[10] 2/7/2018 tarihli ve 703 sayılı KHK’nin 112 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[11] Bu hükümdeki 10., 11., ve 12 nci maddeler 23/5/1984 tarih ve 3009 sayılı Kanunun maddeleri olup 20/11/1981 tarih ve 2560 sayılı Kanunun 12., 20. ve 22 nci maddelerinin değiştirilmesine dair çerçeve maddeleridir.
+[12] Bu maddedeki "İstanbul Belediyesi" ifadesi yerine "İstanbul Büyükşehir Belediyesi" ifadesinin kullanılacağı 23/5/1984 tarih ve 3009 sayılı Kanunun 13 üncü maddesiyle bu Kanuna eklenen Ek madde 2 ile hükme bağlanmıştır.
+[13] Bu maddedeki "İstanbul Belediyesi" ifadesi yerine "İstanbul Büyükşehir Belediyesi" ifadesinin kullanılacağı 23/5/1984 tarih ve 3009 sayılı Kanunun 13 üncü maddesiyle bu Kanuna eklenen Ek Madde 2 ile hükme bağlanmıştır.
+[14] Bu maddede sözü edilen esaslar; evvelce 25/3/1987 tarih ve 19411 sayılı R. G.'de yayımlanan 11/3/1987 tarih ve 87/11594 sayılı, daha sonra da 28/9/1989 tarih ve 20296 sayılı R. G.'de yayınlanan 8/9/1989 tarih ve 89/14524 sayılı Bakanlar Kurulu Kararları ile tespit edilmiştir.
+[15] 2/7/2018 tarihli ve 703 sayılı KHK’nin 112 nci maddesiyle, bu fıkrada yer alan “İçişleri Bakanlığının teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.

@@ -1,0 +1,8 @@
+Yönetim Kurulu:
+Madde 7 – (Değişik: 23/5/1984 - 3009/5 md.)
+Yönetim Kurulu bir başkanla beş üyeden oluşur.
+Büyük Şehir Belediye Başkanı Yönetim Kurulunun başkanıdır. Belediye Başkanının bulunmaması halinde, Genel Müdür Yönetim Kuruluna başkanlık eder.
+Genel Müdür ile genel müdür yardımcılarından hizmette en eski olanı, hizmette eşitlik halinde yaşlı bulunan Yönetim Kurulunun tabii üyesidirler. Yönetim Kurulunun diğer üç üyesi İstanbul Büyük Şehir Belediye Başkanının teklifi ve Çevre ve Şehircilik Bakanının onayı ile atanır.[4]
+Yönetim Kuruluna atanan üyelerin hizmet süresi 3 yıldır. Süresi dolanlar yeniden atanabilirler. Bir üyeliğin herhangi bir sebeple boşalması halinde, yerine atananlar daha önceki üyenin süresini tamamlarlar. Yönetim Kuruluna atanacak olanların İSKİ'nin konusuna giren teknik işlerde, yöneticilikte veya işletmecilikte uzmanlaşmış bulunmaları ve uzmanlıklarına uygun yüksek öğrenim görmüş olmaları gerekir.
+Üyeler, Devlet memurlarına ilişkin mevzuatta yer alan istisnalar dışında, özel ya da kamu sektöründe başka bir görev alamazlar. Genel, katma ve özel bütçeli idarelerin, kamu iktisadi teşebbüslerinin kadrolarından yönetim kuruluna getirilenler asıl görevlerinden maaşsız izinli sayılırlar. Bu kimselerin memuriyetleri ile buna ait her türlü hak ve yükümlülükleri saklıdır. İzinli oldukları müddet, terfi ve emekliliklerinde fiili hizmet olarak hesaba katılacağı gibi bunlardan izinli oldukları sırada terfi hakkını kazananlar, başkaca hiçbir işleme gerek kalmaksızın terfi ettirilirler.
+Yönetim Kurulu üyelerinin ücretleri izinli sayıldıkları kurumlarda ellerine geçen ücretlerden daha az olursa, aradaki fark tazminat olarak kendilerine ödenir.
