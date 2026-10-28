@@ -1,0 +1,1 @@
+Madde 1 – Hususi kanunlarla ihdas edilip Maliye Vekaletince bastırılan bilümum pullarla kıymetli kağıtlar, bayiler vasıtasile sattırılır. Bayi bulunmayan veya lüzum görülen yerlerde mezun memurlar vasıtasile sattırılmaları da caizdir. Harç ve hukuk mektebi iane pullarile noter kağıdları yalnız noterler vasıtasile sattırılır.
