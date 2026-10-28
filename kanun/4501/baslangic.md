@@ -1,0 +1,9 @@
+KAMU HİZMETLERİ İLE İLGİLİ İMTİYAZ ŞARTLAŞMA VE
+SÖZLEŞMELERİNDEN DOĞAN UYUŞMAZLIKLARDA
+TAHKİM YOLUNA BAŞVURULMASI HALİNDE
+UYULMASI GEREKEN İLKELERE
+DAİR KANUN
+Kanun Numarası : 4501
+Kabul Tarihi : 21/01/2000
+Yayımlandığı Resmî Gazete : Tarih : 22.1.2000 Sayı : 23941
+Yayımlandığı Düstur : Tertip : 5 Cilt : 39
