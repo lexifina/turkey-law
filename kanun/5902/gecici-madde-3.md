@@ -1,0 +1,2 @@
+Uzmanlık kadrosuna geçiş
+GEÇİCİ MADDE 3 – (Mülga: 2/7/2018 – KHK-703/62 md.)
