@@ -1,0 +1,7 @@
+Çocuk bürosunun görevleri
+Madde 30- (1) Çocuk bürosunun görevleri;
+a) Adli süreçteki çocuklar hakkındaki soruşturma işlemlerini yürütmek,[11]
+b) Çocuklar hakkında tedbir alınması gereken durumlarda, gecikmeksizin tedbir alınmasını sağlamak,
+c) Korunma ihtiyacı olan, suç mağduru veya adli süreçteki çocuklardan yardıma, eğitime, işe, barınmaya ihtiyacı olan veya uyum güçlüğü çekenlere ihtiyaç duydukları destek hizmetlerini sağlamak üzere, ilgili kamu kurum ve kuruluşları ve sivil toplum kuruluşlarıyla işbirliği içinde çalışmak, bu gibi durumları çocukları korumakla görevli kurum ve kuruluşlara bildirmek,11
+d) Bu Kanunla ve diğer kanunlarla verilen görevleri yerine getirmektir.
+(2) Gecikmesinde sakınca bulunan hâllerde, bu görevler çocuk bürosunda görevli olmayan Cumhuriyet savcıları tarafından da yerine getirilebilir.
