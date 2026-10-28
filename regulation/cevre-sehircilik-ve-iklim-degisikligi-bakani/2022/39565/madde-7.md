@@ -1,0 +1,3 @@
+Değerlendirme kuruluşu
+MADDE 7- (1) Değerlendirme kuruluşu; başvuruya konu bina veya yerleşmeye ilişkin olarak değerlendirme kılavuzunda belirtilen kriterleri değerlendirebilecek nitelik ve sayıda yeşil sertifika değerlendirme uzmanını bünyesinde bulundurur veya dış kaynaklı temin eder.
+(2) Değerlendirme kuruluşu, sertifika başvurularını inceler ve değerlendirme kılavuzlarına uygun nitelikteki binalar ile yerleşmelerin sürdürülebilir çevresel, sosyal ve ekonomik performanslarını kılavuzlara göre değerlendirir. Kuruluş, sertifikalandırma faaliyetlerini yürütür ve kriterleri sağlayan bina ve yerleşmelere ilgili sertifikayı düzenler.

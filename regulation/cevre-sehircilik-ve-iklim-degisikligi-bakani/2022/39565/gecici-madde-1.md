@@ -1,0 +1,3 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yayımı tarihinden önce 10 uncu maddede yer alan hükümlere göre Bakanlıkça eğitici kuruluş olarak görevlendirilen tüzel kişiler ile gerekli eğitimleri alarak yeşil sertifika uzmanlığı elde etmiş olanların hakları saklıdır.
+(2) (Ek:RG-2/12/2025-33095) Bu fıkranın yürürlüğe girdiği tarihten önce yeşil sertifika uzmanlık yetkisi alanlar için, yeşil sertifika uzmanlık yetkisinin geçerlilik süresi on yıl olarak uygulanmaya devam olunur. Bu sürenin bitiminde eğitici kuruluştan Bakanlıkça belirlenen içerikte eğitim alındıktan sonra tekrar sınava girilerek uzmanlık yetkisi yenilenebilir.
