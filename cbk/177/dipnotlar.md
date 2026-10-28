@@ -1,0 +1,5 @@
+[1] 28/3/2025 tarihli ve 32855 sayılı Resmî Gazete’ de yayımlanan 183 sayılı Cumhurbaşkanlığı Kararnamesinin 23 inci maddesiyle, bu fıkranın (ı) bendinden sonra gelmek üzere (i) bendi eklenmiş ve sonraki bent buna göre teselsül ettirilmiştir.
+[2] 25/12/2025 tarihli ve 33118 sayılı Resmî Gazete’de yayımlanan 192 sayılı Cumhurbaşkanlığı Kararnamesinin 1 inci maddesiyle bu fıkraya (i) bendinden sonra gelmek üzere bentler eklenmiş ve sonraki bent buna göre teselsül ettirilmiştir.
+[3] 25/12/2025 tarihli ve 33118 sayılı Resmî Gazete’de yayımlanan 192 sayılı Cumhurbaşkanlığı Kararnamesinin 1 inci maddesiyle bu bende “Siber güvenlik” ibaresinden sonra gelmek üzere “ve dijital devlet” ibaresi eklenmiştir.
+[4] 25/12/2025 tarihli ve 33118 sayılı Resmî Gazete’de yayımlanan 192 sayılı Cumhurbaşkanlığı Kararnamesinin 3 üncü maddesiyle bu fıkraya (c) bendinden sonra gelmek üzere bentler eklenmiş, sonraki bentler buna göre teselsül ettirilmiştir.
+[5] Bu maddede belirtilen ekli listeyi görmek için bu Cumhurbaşkanlığı Kararnamesinin yayımlandığı Resmî Gazete’ye bakınız.
