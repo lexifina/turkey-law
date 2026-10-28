@@ -1,0 +1,8 @@
+TELGRAF VE TELEFON KANUNUNA BAZI EK MADDELER
+EKLENMESİNE, BAZI KANUN VE KANUN HÜKMÜNDE
+KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA
+DAİR KANUN
+Kanun Maddesi : 4107
+Kabul Tarihi : 3/5/1995
+Yayımlandığı Resmî Gazete : Tarih : 6/5/1995 Sayı : 22279
+Yayımlandığı Düstur : Tertip : 5 Cilt : 34
