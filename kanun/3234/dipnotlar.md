@@ -1,0 +1,8 @@
+[1] Bu Kanunun evveliyatını teşkil eden 8/6/1984 tarih ve 236 sayılı Kanun Hükmünde Kararname, 8/6/1984 tarihinde yürürlüğe girmiştir.
+[2] Bu Kanunun adı “Orman Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanunun” iken 2/7/2018 tarihli ve 703 sayılı KHK’nin 83 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[3] 29/6/2011 tarihli ve 645 sayılı KHK’nın 30 uncu maddesi ile bu maddenin başlığı “Orman Koruma ve Yangınla Mücadele Dairesi Başkanlığı” iken metne işlendiği şekilde değiştirilmiştir.
+[4] Bu madde başlığı”Fidanlık ve Tohum İşleri Dairesi Başkanlığı” iken, 29/6/2011 tarihli ve 645 sayılı KHK’nin 30 uncu maddesiyle metne işlendiği şekilde yeniden düzenlenmiştir.
+[5] Bu madde başlığındaki "Ağaçlandırma ve " ibaresi 7/8/1991 tarih ve 442 sayılı KHK'nin 34 üncü maddesi ile yürürlükten kaldırılmış olup, metinden çıkarılmıştır. Daha sonra bu hüküm, 21/5/1992 tarih ve 3800 sayılı Kanunun 36 ıncı maddesiyle aynen kabul edilmiştir.
+[6] Bu madde başlığı” Milli Parklar Dairesi Başkanlığı” iken, 29/6/2011 tarihli ve 645 sayılı KHK’nin 30 uncu maddesiyle metne işlendiği şekilde yeniden düzenlenmiştir.
+[7] 29/6/2011 tarihli ve 645 sayılı KHK’ nın 30 uncu maddesi ile, bu maddenin başlığı “Savunma Uzmanlığı” iken “Bilgi İşlem Dairesi Başkanlığı” şeklinde değiştirilmiş olup; daha sonra 10/10/2011 sayılı ve 657 sayılı KHK’nın 14 üncü maddesiyle, metne işlendiği şekilde değiştirilmiştir.
+[8] Bu madde başlığı “Mal ve kıymetlerin hukuki durumu” iken, 19/4/2018 tarihli ve 7139 sayılı Kanunun 33 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
