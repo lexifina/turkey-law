@@ -1,0 +1,9 @@
+SEÇİMLERLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI;
+TÜRKİYE BÜYÜK MİLLET MECLİSİNİN 21 İNCİ DÖNEM
+MİLLETVEKİLİ GENEL SEÇİMLERİ VE BİRLİKTE
+YAPILACAK MAHALLİ İDARELER GENEL
+SEÇİMLERİ HAKKINDA KANUN
+Kanun Numarası : 4381
+Kabul Tarihi : 31/7/1998
+Yayımlandığı Resmî Gazete : Tarih : 2/8/1998 Sayı : 23421
+Yayımlandığı Düstur : Tertip : 5 Cilt : 38
