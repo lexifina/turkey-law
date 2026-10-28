@@ -1,0 +1,6 @@
+[1] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 204 üncü maddesiyle bu fıkrada yer alan “arasından Bakanın teklif edeceği üç aday” ibaresi madde metninden çıkarılmış ve “Adalet Bakanının teklif edeceği üç aday arasından Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 204 üncü maddesiyle bu bentte yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 204 üncü maddesiyle bu fıkrada yer alan “Bakanlık tarafından hazırlanarak Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 204 üncü maddesiyle bu fıkrada yer alan “Bakanlık tarafından hazırlanarak Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 204 üncü maddesiyle bu fıkrada yer alan “Bakanlık tarafından hazırlanarak Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[6] Bu maddede yer alan kadrolarla ilgili olarak 20/5/2016 tarihli ve 29717 sayılı Resmi Gazete’ye bakınız.
