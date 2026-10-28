@@ -1,0 +1,2 @@
+Yabancılarla ilgili yasaklara uymama
+Madde 25 - Av turizmi izin belgesi almadan av turu, fotoğraf ve film çekimleri ile av ve yaban hayvanları gözlem turları yaptıran veya yabancıların geçici avcılık belgesi olmadan avlanmasına aracılık eden kişi, kuruluş ve acentelere onbin Türk Lirası, geçici avcılık belgesinde kayıtlı türler ve yerler dışında avlanan yabancı uyruklu kişiye, beşbin Türk Lirası idarî para cezası verilir.[23]
