@@ -1,0 +1,2 @@
+Geçici Madde 1 – Toplu Konut ve Kamu Ortaklığı İdaresi Başkanlığına ait bütün personel Kamu Ortaklığı İdaresine devredilmiştir. Ayrıca Toplu Konut ve Kamu Ortaklığı İdaresine ait her türlü menkul ve gayrimenkul, araç, gereç, malzeme, döşeme, demirbaş, taşıt ve personelin, Kamu Ortaklığı İdaresi Başkanlığı ile Toplu Konut İdaresi Başkanlığına devri, ilgili bakan tarafından onanacak bir protokolle tespit olunur.
+Kamu Ortaklığı İdaresinin 1990 Mali Yılı harcamaları Toplu Konut ve Kamu Ortaklığı İdaresi bütçesinden karşılanır.

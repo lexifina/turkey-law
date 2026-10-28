@@ -1,0 +1,1 @@
+Geçici Madde 2 – Kadroları ekli listede yer alan personelden kadro unvan ve dereceleri değişenlerin eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminat hakları yeni bir kadroya atanıncaya kadar şahıslarına bağlı olarak saklı tutulur.
