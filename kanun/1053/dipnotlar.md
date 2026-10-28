@@ -1,0 +1,3 @@
+[1] 18/4/2007 tarihli ve 5625 sayılı Kanunun 4 üncü maddesiyle bu Kanunun adı “ Ankara, İstanbul ve Nüfusu Yüzbinden Yukarı Olan Şehirlerde İçme, Kullanma ve Endüstri Suyu Temini Hakkında Kanun” iken, metne işlendiği şekilde değiştirilmiştir.
+[2] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 29 uncu maddesi ile bu fıkrada yer alan “Devlet Su İşleri Genel Müdürlüğünün bağlı olduğu Bakanlığın teklifi ve Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
