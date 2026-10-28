@@ -1,0 +1,6 @@
+[1] Bu Kanunun adı “Kalkınma Ajanslarının Kuruluşu, Koordinasyonu ve Görevleri Hakkında Kanun” iken 2/7/2018 tarihli ve 703 sayılı KHK’nin 75 inci maddesi ile metne işlendiği şekilde değiştirilmiştir.
+[2] 21/12/2021 tarihli ve 7346 sayılı Kanunun 23 üncü maddesiyle bu bentte yer alan “borçlanma,” ibaresi, “, katma” ibaresi ve “borçlanma ve” ibaresi madde metninden çıkarılmıştır.
+[3] Anayasa Mahkemesinin 14/3/2024 Tarihli ve E: 2022/21, K: 2024/79 Sayılı Kararı ile bu bentte yer alan “…borçlanma ve …” ibaresinin madde metninden çıkarılması iptal edilmiştir.
+[4] 9/9/2011 tarihli ve 28049 sayılı Resmi Gazete’de yayımlanan 8/8/2011 tarihli ve 2011/2168 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle; Belediyelerin, 5449 sayılı Kalkınma Ajanslarının Kuruluşu, Koordinasyonu ve Görevleri Hakkında Kanunun 19 uncu maddesi uyarınca bütçe gelirleri üzerinden kalkınma ajanslarına aktaracakları payların oranı binde beş olarak belirlenmiştir.
+[5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 75 inci maddesiyle; bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 75 inci maddesiyle bu fıkrada yer alan “Bu maddeye göre” ibaresi “Kalkınma Ajanslarında” şeklinde değiştirilmiştir.
