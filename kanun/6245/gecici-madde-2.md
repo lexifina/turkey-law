@@ -1,0 +1,2 @@
+Muvakkat Madde 2 – a) Eski hükümlere göre harcırah almış olup ta bu kanunun mer'iyeti tarihinde henüz hareket etmemiş olanların harcırahları bu kanun hükümlerine göre hesap ve noksanı varsa ikmal olunur.
+b) Bu kanunun mer'iyeti tarihinde yolda bulunanlardan veya bu tarihten evvel vazife mahallerine muvasalat etmiş oldukları halde aileleri efradını mezkür tarihten sonra nezdlerine celbedenlerin bu kanuna göre müstahak oldukları aile ve yer değiştirme masrafları yekünundan Harcırah Kararnamesine göre ödenmiş bulunan infikak ve muvasalat yevmiyelerinin tutarı tenzil olunur.
