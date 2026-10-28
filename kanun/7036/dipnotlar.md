@@ -1,0 +1,1 @@
+[1] 7/11/2024 tarihli ve 7531 sayılı Kanunun 28 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “yargılama giderinin tamamından sorumlu tutulur.” ibaresi “karşı tarafın ödemekle yükümlü olduğu yargılama giderlerinin yarısından sorumlu tutulur.” şeklinde değiştirilmiştir.
