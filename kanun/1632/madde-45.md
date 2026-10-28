@@ -1,0 +1,2 @@
+Din ve vicdana göre lazım sayılan hareketler cezaya ehliyeti ve tesiri:
+Madde 45 – Bir şahsın hareketini vicdanına veya dinine göre lazım saymış olması, yapmak veya yapmamakla vukua gelen bir cezayı mucip olmasına mani teşkil etmez.
