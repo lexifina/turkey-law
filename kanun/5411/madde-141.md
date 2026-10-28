@@ -1,0 +1,2 @@
+Zamanaşımı
+Madde 141 — Bu Kanundan kaynaklanan Fon alacaklarına ilişkin dava ve takiplerde zamanaşımı süresi yirmi yıldır.
