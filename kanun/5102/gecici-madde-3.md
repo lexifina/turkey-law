@@ -1,0 +1,1 @@
+Geçici Madde 3- 2003-2004 öğretim yılında Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonundan ilk defa burs almaya hak kazanan öğrencilerin 1.1.2004 tarihinden itibaren burs ödemeleri Yüksek Öğrenim Kredi ve Yurtlar Kurumu tarafından yapılır.

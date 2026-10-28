@@ -1,0 +1,4 @@
+[1] 25/11/2010 tarihli ve 6082 sayılı Kanunun 17 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “yurt içinde” ibaresinden sonra gelmek üzere “ve dışında” ibaresi eklenmiş ve metne işlenmiştir.
+[2] Bu maddenin ikinci fıkrasında yer alan “ … (belediyeler hariç) …” ibaresi, Anayasa Mahkemesi’nin 20/11/2008 tarihli ve E.: 2004/24, K.: 2008/165 sayılı Kararı ile iptal edilmiştir.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 150 nci maddesiyle, bu fıkrada yer alan “kanunların verdiği yetkiye dayanılarak” ibaresi “Cumhurbaşkanlığı kararnameleriyle” şeklinde değiştirilmiştir.
+[4] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
