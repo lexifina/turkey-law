@@ -1,0 +1,2 @@
+[1] 27/12/2023 tarihli ve 32412 sayılı Resmî Gazete’de yayımlanan 7981 sayılı Cumhurbaşkanı Kararıyla bu madde kapsamında sağlanan indirim ve istisnaların uygulama süresinin 31/12/2028 tarihine kadar uzatılmasına karar verilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 211 inci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
