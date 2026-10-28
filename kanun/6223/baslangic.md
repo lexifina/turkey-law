@@ -1,0 +1,8 @@
+KAMU HİZMETLERİNİN DÜZENLİ, ETKİN VE VERİMLİ BİR ŞEKİLDE
+YÜRÜTÜLMESİNİ SAĞLAMAK ÜZERE KAMU KURUM VE KURULUŞLARININ
+TEŞKİLAT, GÖREV VE YETKİLERİ İLE KAMU GÖREVLİLERİNE
+İLİŞKİN KONULARDA YETKİ KANUNU
+Kanun Numarası : 6223
+Kabul Tarihi : 6/4/2011
+Yayımlandığı Resmî Gazete : Tarih : 3/5/2011 Sayı : 27923
+Yayımlandığı Düstur : Tertip : 5 Cilt :
