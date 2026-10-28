@@ -1,0 +1,1 @@
+Madde 1 – Ağa, Hacı, Hafız, Hoca, Molla, Efendi, Bey, Beyefendi, Paşa, Hanım, Hanımefendi ve Hazretleri gibi lakap ve unvanlar kaldırılmıştır. Erkek ve kadın vatandaşlar, kanunun karşısında ve resmi belgelerde yalnız adlariyle anılırlar.
