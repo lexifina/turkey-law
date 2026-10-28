@@ -1,0 +1,5 @@
+Değerlendirme yöntemi
+Ek Madde 3 – (Ek: 1/7/2006-5540/1 md.)[10]
+Birinci sınıf mülkî idare amirlerinin tespiti amacıyla yapılacak inceleme ve değerlendirmeler, her yıl en fazla iki defa İçişleri Bakanlığı tarafından yapılır. Bu değerlendirmeler sonucunda başarılı olabilmek için yüz tam puan üzerinden en az yetmişbeş puan almak şarttır. Birinci sınıf mülkî idare amirliği statüsüne yükselmeye layık görülenlerin isimleri liste halinde Resmi Gazetede yayımlanır.
+İsimleri bu listede yer almayan ilgililer, kararın yayımı tarihinden itibaren otuz gün içerisinde, yazılı olarak başvurmak suretiyle durumlarının İçişleri Bakanlığı tarafından bir defa daha görüşülmesini isteyebilirler. (…)10 itiraz süresinin bitiminden itibaren altmış gün içerisinde karar verilir.
+Birinci sınıf mülkî idare amirliği statüsüne yükseltilmeyenler karar tarihinden sonra yapılacak ilk değerlendirmede tekrar birinci sınıf incelemesine tâbi tutulabilirler. Değerlendirmeye (…)10 dair usûl ve esaslar ile değerlendirme ölçütlerinin başarı puanındaki ağırlıklarının tespiti ve itiraza ilişkin hususlar Cumhurbaşkanınca yürürlüğe konulacak yönetmelikle düzenlenir.[11]
