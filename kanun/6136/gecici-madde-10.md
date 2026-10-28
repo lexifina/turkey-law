@@ -1,0 +1,2 @@
+Geçici Madde 10-(Ek: 2/7/2018-KHK-703/33 md.)
+Bu maddenin yayımı tarihinde Başbakan, Başbakanlık müsteşarı, Başbakanlık ve Başbakanlığa bağlı veya ilgili kurum ve kuruluşların başkanları ile Müsteşar Yardımcısı, Başbakan Başmüşaviri, Genel Müdür, Bakanlar Kurulu Sekreteri, Başbakanlık özel kalem müdürü ve bu görevlerde asaleten bulunmuş olanlar ile Başbakanlıkta asli görevleri ve kadroları teftiş ve denetim olan kamu görevlilerinin bu Kanun gereği elde ettikleri haklar saklıdır.

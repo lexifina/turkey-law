@@ -1,0 +1,2 @@
+Geçici Madde 4 – (Ek: 4/7/1956 - 6768/2 md.)
+6136 sayılı kanunun geçici 1 inci ve 2 nci maddelerinde yazılı izin ve vesikaları zamanında almıyanlarla zabıta makamlarına teslim etmiyenler ve bu sebeple ellerinde vesikasız ateşli silahlarla mermilerini ve mezkür kanuna göre menedilmiş bıçak ve benzerlerini bulunduranlar bu kanunun neşri tarihinden itibaren 6 ay zarfında mezkür silah ve mermilerle bıçak ve benzerlerini makbuz mukabilinde zabıta makamlarına teslime veya vesika almıya mecburdurlar.
