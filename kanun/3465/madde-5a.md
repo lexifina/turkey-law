@@ -1,0 +1,2 @@
+Madde 5 /A– (Ek: 6/2/2014-6518/39 md.)
+Bu Kanun kapsamında yapılacak görevlendirmelerde ihale aşamasında 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun ceza ve yasaklama hükümleri, sözleşmenin uygulanması aşamasında 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun ceza, yasaklama ve sözleşmenin feshi hükümleri uygulanır. Uygulamaya ilişkin usul ve esaslar yönetmelikle düzenlenir.
