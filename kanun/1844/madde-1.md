@@ -1,0 +1,1 @@
+Madde 1 – Zabitan ve askeri memurların maaşatı hakkındaki 1453 numaralı kanun ile askeri memurlar hakkındaki 1455 numaralı kanunun hükümleri jandarma sınıfına mensup sivil memurlar hakkında dahi tatbik olunur.
