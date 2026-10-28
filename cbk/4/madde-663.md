@@ -1,0 +1,4 @@
+KIRKYEDİNCİ BÖLÜM
+Türkiye Sağlık Enstitüleri Başkanlığı
+Amaç ve kapsam
+MADDE 663 – (1) Bu Bölüm; sağlık bilim ve teknolojileri alanında ülkeye ve insanlığa hizmet etmek amacıyla Türkiye’nin rekabet gücünü artırmak ve sürekli kılmak, kalkınma planı hedefleri ile Cumhurbaşkanının belirlediği öncelikleri de dikkate alarak ülkemizin ileri teknoloji ve inovasyon ihtiyacını karşılamak, yeni ürünlerin üretimini ve var olanların geliştirilmesini sağlamak, araştırmacılara bilimsel ortam temin etmek, kamu hukuku ve özel hukuk tüzel kişileri ile işbirliği yaparak bilimsel araştırmalar yapmak, yaptırmak, bu araştırmaları koordine etmek, teşvik etmek, Ar-Ge’lere katkı sağlamak, sağlık bilim ve teknoloji kültürü ile ekosistemlerin geliştirilmesinde öncülük yapmak, sağlık hizmetlerinde akreditasyon faaliyetlerini yürütmek üzere Türkiye Sağlık Enstitüleri Başkanlığının kurulması ile teşkilat ve görevleriyle ilgili usul ve esasları düzenler.

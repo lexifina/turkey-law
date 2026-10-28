@@ -1,0 +1,4 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (Ek:RG-29/10/2021-31643-C.K-85/31 md.)
+(1) Bu maddenin yürürlüğe girdiği tarih itibarıyla Göç İdaresi Başkanlığında Genel Müdür, Genel Müdür Yardımcısı, Yabancılar Dairesi Başkanı, Uluslararası Koruma Dairesi Başkanı, İnsan Ticareti Mağdurlarını Koruma Dairesi Başkanı, Göç Politika ve Projeleri Dairesi Başkanı, Uyum ve İletişim Dairesi Başkanı, Düzensiz Göçle Mücadele Dairesi Başkanı, Bilgi Teknolojileri Dairesi Başkanı, Strateji Geliştirme Dairesi Başkanı, Personel Dairesi Başkanı, Destek Hizmetleri Dairesi Başkanı, Eğitim Dairesi Başkanı kadrolarında bulunanların görevleri hiçbir işleme gerek kalmaksızın sona erer.
+(2) Mevzuatta Göç İdaresi Genel Müdürlüğüne yapılan atıflar Göç İdaresi Başkanlığına, Göç İdaresi Genel Müdürüne yapılan atıflar ise Göç İdaresi Başkanına yapılmış sayılır.

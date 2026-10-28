@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 3- (1) Bu Cumhurbaşkanlığı Kararnamesi kapsamındaki kurum ve kuruluşların 703 sayılı Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarih itibarıyla mevcut bulunan kadro ve pozisyonları Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki cetvellerin ilgili bölümlerine eklenmiş sayılır.

@@ -1,0 +1,2 @@
+Genel sekreterlik
+MADDE 195 – (1) Genel sekreterlik ajansın icra organıdır. Genel sekreterliğin ve yatırım destek ofislerinin en üst amiri genel sekreterdir. Genel sekreter yönetim kuruluna karşı sorumludur.
