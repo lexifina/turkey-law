@@ -1,0 +1,9 @@
+[1] 15/5/1986 tarih ve 3288 sayılı Kanunun 8 inci maddesi ile, bu Kanunda geçen "Ticaret Bakanlığı" ile "Tarım Bakanlığı" deyimleri "Tarım Orman ve Köyişleri Bakanlığı", "Tüzük" deyimi ise, "yönetmelik" olarak değiştirilmiştir.
+[2] 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 18 inci maddesiyle, bu Kanunda 5957 sayılı Kanun hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.
+[3] 22/7/2003 tarihli ve 4950 sayılı Kanunla bu madde başlığı, "Üretme havuzları:" iken metne işlendiği şekilde değiştirilmiştir.
+[4] 6/11/2019 tarihli ve 7191 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Cumhurbaşkanı,” ibaresi “Cumhurbaşkanı yetkilidir.” şeklinde değiştirilmiştir.
+[5] 6/11/2019 tarihli ve 7191 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “Tarım Orman ve Köyişleri” ibaresi “Tarım ve Orman” şeklinde değiştirilmiştir.
+[6] Anayasa Mahkemesinin 12/11/2020 tarihli ve Esas No.:2020/10; Karar No.:2020/67 sayılı Kararı ile bu fıkranın üçüncü cümlesinde yer alan “…yaptırılır.” ibaresinin “…onayı,…” ve “…kabulü…” ibareleri yönünden iptaline karar verilmiştir.
+[7] 6/11/2019 tarihli ve 7191 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “su ürünleri zabıt ve müsadere edilerek haklarında” ibaresi “su ürünlerine el konulup mülkiyeti kamuya geçirilerek bunlar hakkında” şeklinde değiştirilmiştir.
+[8] Önceki madde metninde madde başlığı olmadığı halde 4950 sayılı Kanunun 5 inci maddesinde "madde başlığı ile değiştirilmiştir" hükmü yer aldığından anılan Kanunun hükmü olan madde başlığı metne işlenmiştir.
+[9] Bu maddede öngörülen bir yıllık süre, Bakanlar Kurulunun 20/5/1987 tarih ve 87/11786 sayılı Kararı ile, 28/5/1987 tarihinden itibaren 6 ay uzatılmıştır.
