@@ -1,0 +1,3 @@
+Türkiye Şeker Fabrikaları A.Ş.’ye ait görev zararı:
+Geçici Madde 10 – (Ek: 3/4/2013-6456/59 md.)
+1. 12/12/2001 tarihli ve 2001/3372 sayılı Bakanlar Kurulu Kararı ile önceki yıllar kararları kapsamında üretilen şekerin Türkiye Şeker Fabrikaları A.Ş.’nin özelleştirme programına alındığı tarih itibarıyla sözleşmesi ve bağlantısı yapılmış olan dâhilde işleme rejimi kapsamındaki satışlarıyla ihracatından doğan görev zararı bedeli, Türkiye Şeker Fabrikaları A.Ş. tarafından yapılacak ödeme talebine istinaden, Hazine Müsteşarlığı tarafından yapılacak incelemeyi müteakip, Hazine Müsteşarlığı bütçesinde yer alan ilgili harcama tertiplerinden gider kaydedilerek ödenir. Bu ödemeler, 5018 sayılı Kanunun 35 inci maddesi hükümlerine tabi değildir.
