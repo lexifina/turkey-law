@@ -1,0 +1,1 @@
+Madde 1 – 23/6/1941 tarihinde batan Refah vapurunda ölen askeri şahıslar şehit, dul ve yetimleri de şehit dul ve yetimi sayılırlar ve haklarında bu tarihten itibaren şehit dul ve yetimi hükümleri uygulanır.
