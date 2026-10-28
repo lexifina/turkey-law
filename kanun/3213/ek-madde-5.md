@@ -1,0 +1,2 @@
+Ek Madde 5 – (Ek :26/5/2004 – 5177/24 md.)
+Bu Kanuna ekli (1) sayılı listede yer alan kadrolar iptal edilerek, 190 sayılı Kanun Hükmünde Kararnamenin eki (III) sayılı cetvelin "Maden Tetkik ve Arama Genel Müdürlüğü" ile ilgili bölümünden çıkarılmış ve Maden İşleri Genel Müdürlüğünde kullanılmak üzere bu Kanuna ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin "Enerji ve Tabiî Kaynaklar Bakanlığı" ile ilgili bölümüne eklenmiştir.

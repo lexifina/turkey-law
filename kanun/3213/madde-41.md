@@ -1,0 +1,2 @@
+Haciz ve ihtiyati tedbir dolayısıyla madenin faaliyetine müdahale edilemeyeceği:
+Madde 41 – Madenin tamamına veya çıkarılmış cevherlerle bakiye yığını ve cürufuna gerek haciz veya ihtiyati tedbir konulması ve gerekse bunların icraen satışına teşebbüs edilmesi hallerinde alacaklı veya icra dairesince madenin faaliyeti durdurulamayacağı gibi bu faaliyete müdahale de edilemez.
