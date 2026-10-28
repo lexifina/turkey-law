@@ -1,0 +1,2 @@
+Madde 6 – (Değişik: 4/1/1943-4348/1 md.)[6]
+5 inci maddede zikredilen şartlar dahilinde yapılacak müstahzarların müsaadesini almak için evvelemirde bir istida ile Sağlık Bakanlığına müracaat olunur. Bu istida ile beraber (…)6 cinsi ve miktarı sarih olarak tayin edilmiş olmak şartiyle müstahzarı terkip eden maddeleri bildirir tasdikli bir formül ve müstahzarın ambalajına mahsus kab ve saire ve tarifname (…)6 ve suretleri gönderilir (…)6.
