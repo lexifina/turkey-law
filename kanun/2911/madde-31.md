@@ -1,0 +1,5 @@
+Kanuna aykırı propaganda vasıtaları ve suç işlemeye teşvik
+Madde 31 – Düzenleme kurulu başkanı ve en az altı üyesinin ad ve soyadları ile imzalarını taşımayan 26 ncı maddede yazılı propaganda vasıtalarını hazırlayanlar, yazdıranlar, bastıranlar, propaganda maksadıyla kullananlar veya sair surette 26 ncı maddedeki yasak ve şartlara uymayanlar altı aydan bir yıla kadar hapis (...)[17] cezası ile cezalandırılır.
+Bu propaganda vasıtalarında halkı suç işlemeye teşvik ve tahrik eder mahiyette yazı veya resim veya işaret bulunursa veya bu maksatla başka araçlar kullanılmış olursa, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde failleri bir yıl altı aydan üç yıla kadar hapis (...)17 cezası ile cezalandırılır.
+Teşvik ve tahrik neticesi olarak suç işlenir veya suçun icrasına teşebbüs edilirse, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde teşvik veya tahrikte bulunanlar üç yıldan beş yıla kadar hapis (...)17 cezası ile cezalandırılır.
+Direnme[18]
