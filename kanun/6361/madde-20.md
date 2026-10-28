@@ -1,0 +1,2 @@
+Finansal kiralama bedeli
+MADDE 20 – (1) Finansal kiralama bedeli ve ödeme dönemleri taraflarca belirlenir. Sözleşmede açıkça belirtilmek kaydıyla sözleşme konusu mal henüz imal edilmemiş veya kiracıya teslim edilmemiş olsa dahi, sözleşme tarihinden başlamak üzere kira bedelleri tahsil edilebilir. Sözleşmede aksi belirtilmediği takdirde, sözleşme konusu malın sözleşme tarihinden itibaren iki yıl içinde kiracıya teslim edilmesi zorunludur.
