@@ -1,0 +1,1 @@
+[1] Bu Kanun ile diğer Kanunların hükümlerinde yapılan ek, değişiklik ve ilgalar ilgili yerlere işlenmekle birlikte, Kanunun geniş içerikli cezai hükümler getirmiş olması nedeniyle uygulayıcıya kolaylık getireceği düşüncesiyle ayrıca müstakil olarak da yayımlanmıştır.
