@@ -1,0 +1,1 @@
+Madde 4 – Yaptırılan tesisler inşaları tamamlandıkça ilgisine göre ve Cumhurbaşkanınca kararlaştırılacak esaslar dairesinde işletme teşekküllerine, özel idare veya belediyelere veya Vakıflar Genel Müdürlüğüne devrolunur.[3][4]
