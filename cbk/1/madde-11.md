@@ -1,0 +1,2 @@
+MADDE 11 - (1) (Değişik:RG-10/1/2019-30651-CK-27/3 md.) Cumhurbaşkanlığı Makamı, Cumhurbaşkanlığı Genel Sekreterliği, Cumhurbaşkanı Yardımcılıkları ve Cumhurbaşkanlığı Politika Kurullarından oluşan Cumhurbaşkanlığı Merkez Teşkilatının kadroları, Cumhurbaşkanı kararıyla belirlenir.
+(2) Genel Sekreter, dolu kadrolarda derece değişikliğine, boş kadrolarda ise sınıf, unvan ve derece değişikliğine yetkilidir.

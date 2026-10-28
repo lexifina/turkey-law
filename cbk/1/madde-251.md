@@ -1,0 +1,2 @@
+Döner sermaye
+MADDE 251 - (1) Döner sermayenin gelirleri, Bakanlığın bütçesine bu amaçla konulan ödenekler, basım, yayım, bilgisayar işletmesinden ve diğer faaliyetlerden elde edilen gelirlerden meydana gelir. Döner Sermaye İşletmesi faaliyetinin gerektirdiği giderler, döner sermaye işletmesinin gelirinden karşılanır. Dönem sonu gelir fazlası bütçeye irad kaydedilir. Döner sermaye işletmesinin faaliyet alanları, gelir kaynakları, mali işlemleri, harcama usul ve esasları ile yönetimine ilişkin diğer hususlar yönetmelikle düzenlenir.

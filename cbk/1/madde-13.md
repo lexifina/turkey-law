@@ -1,0 +1,14 @@
+MADDE 13 - (1) Merkez Teşkilatında;
+a) Kadrolu personel,
+b) Kadroya bağlı süreli personel,
+c) Kadroya bağlı olmayan süreli personel,
+ç) Kısmi zamanlı personel,
+d) Sözleşmeli personel,
+görev yapar.
+(2) Kadrolu personel, istisnai memuriyet statüsünde 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tâbi Genel Sekreterlik kadrolarına naklen veya açıktan atanan personeldir. (…)[16], herhangi bir sosyal güvenlik kurumundan emeklilik veya yaşlılık aylığı alanlar kadrolu olarak atanamazlar. (İptal cümle: Anayasa Mahkemesinin 26/10/2023 tarihli ve E.:2018/118; K.:2023/180 sayılı Kararı ile.)
+(3) Kamu kurum ve kuruluşlarında, mevzuatın verdiği yetkiye dayanılarak kurulan banka ve kuruluşlarda, bunların sermayelerinin yarısından fazlasına katılması suretiyle kurulan kuruluşlarda çalışanlar (…)[17] hizmetlerine ihtiyaç duyulması sebebiyle ve üç yıl süreyle Genel Sekreterliğin talebi üzerine Genel Sekreterlik kadrolarında süreli olarak görevlendirilebilir. Süresi bitenlerin aynı usulle yeniden görevlendirilmeleri mümkündür. Bu personel kendi kurum veya kuruluşundan izinli sayılır ve Genel Sekreterlikte geçen süreleri, mensubu oldukları kurum veya kuruluşta geçmiş kabul edilir; her türlü özlük hakları kendi kurum veya kuruluşunda saklı kalır; (…)[18] Genel Sekreterin uygun görüşü alınmadan, kendi kurum veya kuruluşundaki işlem ve eylemi sebebiyle, adlî yönden ve disiplin yönünden verilen bir ceza kararı olmadıkça veya yaş haddine ulaşmadıkça, özelleştirme kapsamına alınan kuruluş personeli hariç olmak üzere, emekli edilemez, kendi kurumunda kurum içi görev değişikliği yapılamaz, varsa sözleşmesi feshedilemez, özlük, malî ve sosyal hakları ve yardımları kısıntıya uğratılamaz; bu Kararnamede yer verilen hükümler saklı kalmak şartıyla, kendi kurum ve kuruluş çalışanlarının bağlı olduğu mevzuata tâbidir.
+(4) Kadroya bağlı olmayan süreli personel, kadroları ve kadroya bağlı bütün özlük hak ve işlemleri kendi kurum veya kuruluşlarında olan, personel Genel Sekreterlikteki hizmetlerini bir kadroya bağlı olmaksızın yürüten personeldir.
+(5) Doktor, mühendis ve mimarlar ile diğer sağlık personeli ve teknik personel Genel Sekreterlikte haftanın belirli günlerinde veya günün belirli saatlerinde kısmî zamanlı olarak çalıştırılabilir.
+(6) Genel Sekreterlik birinci fıkrada belirtilen istihdam şekilleriyle bağlı olmaksızın, gerekli gördüğü konularda araştırma, inceleme ve çalışma yaptırmak amacıyla kamu kurum ve kuruluşlarında çalışan uzman personelden oluşan komisyonlar, danışma kurulları ve çalışma grupları kurmaya yetkilidir. Serbest veya özel sektörde çalışan uzman kişilere de bu komisyonlarda görev verilebilir. Komisyonlarda görevlendirilenler çalışmaları ile ilgili gizli bilgileri açıklayamazlar.
+(7) (İptal fıkra: Anayasa Mahkemesinin 26/10/2023 tarihli ve E.:2018/118; K.:2023/180 sayılı Kararı ile.)
+Sözleşmeli personele ilişkin hükümler[19]

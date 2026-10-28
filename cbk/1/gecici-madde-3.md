@@ -1,0 +1,10 @@
+GEÇİCİ MADDE 3- (Ek:RG-3/7/2024-32591-CK-161/11 md.)
+(1) Bu maddenin yürürlüğe girdiği tarihte;
+a) Bakanlığın taşra teşkilatı olan defterdarlıklar kapatılmıştır.
+b) Mülga defterdarlıklarda görevli defterdarların görevi başka bir işleme gerek kalmaksızın sona erer.
+c) Mülga defterdarlık birimlerinin her türlü taşınırları, araç, gereç, malzemeleri, demirbaşları, yazılı ve elektronik ortamdaki her türlü kayıtları ve dokümanları bu birimlerce kullanılmaya devam eder. Mülga defterdarlık birimlerinin taşıtları, borç ve alacakları ile hak ve yükümlülükleri Gelir İdaresi Başkanlığına bağlı defterdarlıklara başkaca bir işleme gerek kalmaksızın devredilmiş sayılır.
+ç) Mülga defterdarlıklar tarafından kullanılmakta olan taşınmazlar Gelir İdaresi Başkanlığına bağlı defterdarlıklara başkaca bir işleme gerek kalmaksızın tahsis edilmiş sayılır.
+d) Mülga defterdarlık birimlerinde kullanılan ve Bakanlığın ilgili birimlerince işletilen bilgisayar yazılım, donanım ve işletim sistemleri, Bakanlığın ilgili birimlerince işletilmeye devam edilir.
+e) Bakanlığın taşra teşkilatı kadro ve pozisyonlarında bulunanlardan mülga defterdarlıklarda istihdam edilenlerin Bakanlık taşra teşkilatı ile Gelir İdaresi Başkanlığına bağlı defterdarlıkların kadro ve pozisyonlarına atanmaları hakkında 375 sayılı Kanun Hükmünde Kararnamenin ek 33 üncü maddesi hükümleri uygulanır.
+(2) Mevzuatta görev, yetki ve sorumluluk yönüyle; defterdarlığa ve defterdar yardımcılığına yapılmış atıflar Gelir İdaresi Başkanlığına bağlı defterdarlığa; defterdara ve defterdar yardımcısına yapılmış atıflar Gelir İdaresi Başkanlığına bağlı defterdara; personel müdürlüğüne, personel müdürüne ve personel müdür yardımcısına yapılmış atıflar sırasıyla Gelir İdaresi Başkanlığı taşra teşkilatındaki ilgili müdürlüğe, müdüre, müdür yardımcısına; defterdarlık uzmanına ve defterdarlık uzman yardımcısına yapılan atıflar sırasıyla muhasebe uzmanına ve muhasebe uzman yardımcısına yapılmış sayılır.
+(3) Bu maddenin uygulanmasına ilişkin hususlarda ortaya çıkabilecek tereddütleri gidermeye, sorunları çözmeye ve uygulamayı yönlendirmeye Bakan yetkilidir.
