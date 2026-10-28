@@ -1,0 +1,2 @@
+Kapanma kararının kapatmaya ilişkin hükmün sonuçlarına etkili olamayacağı:
+Madde 108 – (İptal: Anayasa Mahkemesi’nin 8/12/2010 tarihli ve E.: 2010/17, K.: 2010/112 sayılı Kararı ile.)
