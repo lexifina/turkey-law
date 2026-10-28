@@ -1,0 +1,2 @@
+Madde 10 – (Değişik: 23/1/2008-5728/9 md.)
+Fenne uygun tahliller yerine getirilmediği ve beyannamesinde belirtilen hükümlere uymadığı veya bu Kanunun 7 nci maddesi uyarınca düzenlenen yönetmeliğe aykırı hareket ettiği belirlenenlere mahallî mülkî amir tarafından bin Türk Lirasından üçbin Türk Lirasına kadar idarî para cezası verilir. Ayrıca, şartlar yerine getirilinceye kadar laboratuvar kapatılır.
