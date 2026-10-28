@@ -1,0 +1,1 @@
+Bend 62 – Fahri başşehbenderler mukim oldukları memleketde bulunan sefareti seniyeye merbut olup fahri şehbenderler dahi silsilei meratib kaidesine tevfikan muvazzaf baş şehbender ve bunun fıkdanı halinde fahri başşehbender maiyetinde bulunurlar. Fahri şehbender vekilleri muvazzaf şehbender ve bunun fıkdanı takdirinde fahri şehbender maiyetin de bulunurlar.

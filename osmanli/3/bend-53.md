@@ -1,0 +1,1 @@
+Bend 53 – Memuriyeti mahsusa ile veyahud bir töhmet ve cinayt vukununda icrayi istintak için aldığı emir üzerine mahalli memuriyetinden diğer mahalle azimet eden şehbenderlere verilmesi lazımgelen harcırah ile orada ikameti müddetinde vukubulacak masarif hükümeti seniye tarafından ita edilecek ve ahvali sairede harcırah alakadar olanlar tarafından peşin olarak verilecekdir.

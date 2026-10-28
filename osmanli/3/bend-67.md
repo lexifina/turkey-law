@@ -1,0 +1,1 @@
+Bend 67 – Fahri şehbenderler yirmi dokuzuncu bendde muharrer talimata melfuf (4) işaretile murakkam cedvel mucibince mezun oldukları masarif ile şehbenderhane hasılatını mübeyyin nezareti hariciyeye her üç ayda bir defter irsal edeceklerdir.

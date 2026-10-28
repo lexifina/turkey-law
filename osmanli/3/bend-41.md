@@ -1,0 +1,1 @@
+Bend 41 – Şehbenderler tarafından verilen veya imza edilen evrakı resmiyenin pul yapışdırılmamış ise asla hüküm ve itibarı olmıyacakdır. Bu makule pulsuz evrakdan dolayı alakadar olanlara terettüb eden zarar ve ziyandan şehbender mes'ul olacak ve bundan maada ehemmiyeti maslahata göre balada beyan olunan mücazata düçar olacakdır.

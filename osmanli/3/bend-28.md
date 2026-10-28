@@ -1,0 +1,1 @@
+Bend 28 – Maiyet memuriyetinde bulunan şehbender vekili başşehbender veya şehbender nezareti tahtında ifayı memuriyet ekliyecek ve vekaleti zamanında yirmi dokuzuncu bendde zikrolunan talimatda gösterildiği vechile kendi mes'uliyeti tahdında şehbenderhaneye gelen evrakı imza edecekdir.

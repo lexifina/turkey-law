@@ -1,0 +1,1 @@
+Bend 31 – Şehbenderler ticaret ve sanayi ve sıhhati umumiye gibi bir sureti mahsusada menfaati ammeye müteallik kaffei malümat ve ıttılaatlarını hükümeti seniyeye ita edeceklerdir işbu maksadın hususü için hükümeti mahalliye ve muteberanı ehali ve düveli ecnebiye konsolosları ile münasebatı mütemadiyede bulunacaklardır.

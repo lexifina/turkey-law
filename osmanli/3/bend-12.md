@@ -1,0 +1,3 @@
+Bend 12 – (Değişik: 10 Teşrinisani 1302 tarihli irade ile)
+Şehbenderlik selkine duhul, nezareti hariciye umuru şehbenderi müdüriyeti marifetile şeraiti mevzuası mucibince icra olunacak müsabakat imtihanile vukubulacakdır. Şehbenderlik memuriyetleri müdüriyeti mezküre tarafından tanzim edilen takrir üzerine nezareti hariciyenin tasvib ve intihabile icra olunacakdır. Mektebi sultanide ikmali tahsil edib yedlerinde şehadetnameleri olarak hariciye nezaretinde müstahdem bulunan veyahud istihdam olunmak üzere mukayyed ve mülazim olanlar işbu müsabakat imtihanına duhul hakkını haizdirler.
+Mektebi mülkiye şehadetnamesini haiz olanlar nizamnamei mahsusu mucibince müsabakat imtihanına girmeksizin sefaret kitabetlerile şehbenderliklere intihab olunurlar.

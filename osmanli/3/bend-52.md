@@ -1,0 +1,1 @@
+Bend 52 – Adat ve nizamatı belde iktizasınca ayrıca tediyesi lazımgelen mağaza ücreti ve hekim ve rü'yeti hesab ve ehli hibre masarifi gibi şeyler şehbenderler tarafından verilen evrak için ahzolunan rüsum dahilinde değildir.

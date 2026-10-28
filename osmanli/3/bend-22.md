@@ -1,0 +1,1 @@
+Bend 22 – Memuriyetde bulunan her şehbendar bulunduğu mahallin mensub olduğu devlet nezdine terhis olunmuş olan sefareti seniyeye merbutdur. Bulundukları mahallin mensub olduğu devlet nezdinde sefaret bulunmıyan şehbenderler hariciye nezareti maiyetinde bulunurlar.

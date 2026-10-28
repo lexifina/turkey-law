@@ -1,0 +1,1 @@
+Bend 8 – Bir şehbenderin memuriyetde iken vefatı takdirinde familyasının memleketine iadesi hükümeti seniyeye aid olacak ve fakat bunun için edilecek masarif müteveffaya verilecek harcırah mikdarını tecavüz etmiyecekdir.

@@ -1,0 +1,1 @@
+Bend 37 – Şehbenderler tebai saltanatı seniyeye muavenet ve sahabet ve tebaanın vikayei menfaatlerine sarfı makderet ve adat ve nizamatı beldenin müsaadesi derecesinde tebaa üzerine icrayi hükümet ederler.
