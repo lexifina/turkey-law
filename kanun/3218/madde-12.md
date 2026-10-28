@@ -1,0 +1,3 @@
+Uygulanmayan hükümler:
+Madde 12 – (Değişik: 12/11/2008-5810/6 md.)
+Serbest bölgelerde (…)[15] 4875 sayılı Doğrudan Yabancı Yatırımlar Kanunu, 5393 sayılı Belediye Kanununun ölüm ve yangın halleri, kanalizasyonların inşa ve tamiri ile içme, kullanma, endüstri suyunu sağlamaya ve gaz, su, elektrik sarfiyatını denetlemeye yönelik maddeleri dışında kalan hükümleri, 5682 sayılı Pasaport Kanunu, 5683 sayılı Yabancıların Türkiye'de İkamet ve Seyahatleri Hakkında Kanun ile diğer kanunların bu Kanuna aykırı hükümleri uygulanmaz. Ayrıca, 5 inci maddenin ikinci fıkrasında belirtilen işlemler, 2886 sayılı Devlet İhale Kanunu hükümlerine tabi değildir.
