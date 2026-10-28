@@ -1,0 +1,3 @@
+Mahallî idareler ve birliklerce verilen sağlık hizmetleri
+Ek Madde 8 – (Ek: 1/7/2006-5538/11 md.)
+Mahallî idare birlikleri, belediyeler ve il özel idarelerinin; doğrudan kanunla ihdas edilmiş veya kanunların bu kurumlar adına kadro ihdas etmeye yetki vermiş olduğu makam veya organlar tarafından ihdas edilmiş olan memur kadrolarına atanmış veya memur norm kadrosuna uygun olarak 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 36 ncı maddesinin üçüncü fıkrası ile 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 49 uncu maddesinin üçüncü fıkrası uyarınca istihdam edilen sözleşmeli personel eliyle verilen sağlık hizmetleri, resmî sağlık kuruluşları tarafından verilen sağlık hizmetleri kapsamında kabul edilir.
