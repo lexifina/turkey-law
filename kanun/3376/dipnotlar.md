@@ -1,0 +1,2 @@
+[1] 3/3/2010 tarihli ve 5955 sayılı Kanunun 1 inci maddesiyle bu maddede yer alan “yüzyirminci günden” ibaresi “altmışıncı günden” olarak değiştirilmiştir.
+[2] 3/3/2010 tarihli ve 5955 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “Kanunun 94 üncü maddesi uyarınca, yabancı ülkelerdeki vatandaşlar halkoylamasından 40 gün” ibaresi “Kanun uyarınca yabancı ülkelerdeki vatandaşlar halkoylamasından yirmi gün” olarak değiştirilmiştir.
