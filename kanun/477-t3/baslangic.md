@@ -1,0 +1,8 @@
+MEMLEKETLERİNDE TÜRK TEBAASINDAN KAVANİN VE
+TEDABİRİ İSTİSNAİYEİ HARBİYEYİ REFETMİŞ OLAN
+DEVLETLERİN TÜRKİYE'DEKİ TEBAASINA MEVZU
+TEDABİRİN DE REFİNE DAİR KANUN
+Kanun Numarası : 477
+Kabul Tarihi : 12/4/1924
+Yayımlandığı Resmî Gazete : Tarih: 26/4/1924 Sayı : 69
+Yayımlandığı Düstur : Tertip: 3 Cilt : 5 Sayfa : 415
