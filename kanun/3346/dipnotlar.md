@@ -1,0 +1,7 @@
+[1] 3/12/2010 tarihli ve 6085 sayılı Kanunun Geçici 4 üncü maddesiyle, bu Kanunda Başbakanlık Yüksek Denetleme Kuruluna yapılmış olan atıfların Sayıştay’a yapılmış sayılacağı hüküm altına alınmıştır.
+[2] Anayasa Mahkemesinin 28/1/1988 tarihli ve E. 1987/12, K. 1988/3 sayılı Kararı ile bu maddenin ikinci fıkrasında yer alan “…ve Milletlerarası Andlaşmalar gereğince özel teşebbüsün idaresine bırakılan kurumlar…” ibaresi, üçüncü fıkrasında yer alan “…sermayesinin yarısından fazlası yukarıda anılan kişi ve kurumlar tarafından sağlanan bu Kanun kapsamına dahil olupta bankacılık alanında faaliyette bulunan kurumların bu faaliyetleri…” ibaresi iptal edilmiştir.
+[3] 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “iki yasama yılı” ibaresi “iki yıl” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli 703 sayılı KHK’nin 53 üncü maddesiyle, bu fıkrada yer alan “Başbakanlığın” ibaresi “Cumhurbaşkanlığının” şeklinde “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli 703 sayılı KHK’nin 53 üncü maddesiyle, bu fıkrada yer alan “Hükümete” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli 703 sayılı KHK’nin 53 üncü maddesiyle, bu fıkrada yer alan “Hükümet” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[7] 2/7/2018 tarihli 703 sayılı KHK’nin 53 üncü maddesiyle, bu maddede yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.
