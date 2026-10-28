@@ -1,0 +1,6 @@
+[1] Bu Kanunun ekinde yer alan listeler için 8/3/2018 tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.
+[2] Anayasa Mahkemesi’nin 26/10/2022 tarihli ve E: 2018/85, K: 2022/127 sayılı Kararı ile bu fıkrada yer alan “...ile bunların eş ve çocuklarına...” ibaresi iptal edilmiştir.
+[3] 13/2/2018 tarihli ve 7098 sayılı Kanunun Ek 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “kefaletten doğmaması” ibaresi “asıl borçlu ve diğer kefiller hakkında kesin aciz vesikası bulunan haller hariç olmak üzere kefaletten doğmaması” şeklinde değiştirilmiş, aynı fıkraya “(FETÖ/PDY’ne)” ibaresinden sonra gelmek üzere “veya diğer terör örgütlerine” ibaresi eklenmiştir.
+[4] Anayasa Mahkemesi’nin 26/10/2022 tarihli ve E: 2018/85, K: 2022/127 sayılı Kararı ile bu fıkrada yer alan “...aidiyeti, iltisakı veya irtibatı olmayan kişilerle...” ibaresi iptal edilmiştir.
+[5] 13/2/2018 tarihli ve 7098 sayılı Kanunun Ek 1 inci maddesiyle, bu fıkrada yer alan “eğitim” ibaresinden sonra gelmek üzere “ve sağlık” ibaresi eklenmiştir.
+[6] Bu madde hükmü; 667 sayılı KHK’nin 18/10/2016 tarihli ve 6749 sayılı Kanun ile, 668 sayılı KHK’nin 8/11/2016 tarihli ve 6755 sayılı Kanun, 669 sayılı KHK’nin 9/11/2016 tarihli ve 6756 sayılı Kanun ile kanunlaşması nedeniyle aynen muhafaza edilmiştir.
