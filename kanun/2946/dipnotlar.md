@@ -1,0 +1,4 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 87 nci maddesiyle, bu bentte yer alan “özel kanunların verdiği yetkiye dayanılarak” ibaresi “Cumhurbaşkanlığı kararnameleriyle” şeklinde değiştirilmiştir.
+[2] Bu maddenin uygulanması ile ilgili olarak; 28/12/2017 tarihli ve 30284 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının (Sıra No: 380) numaralıMilli Emlak Genel Tebliği’ne bakınız.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 87 nci maddesiyle, bu fıkrada yer alan “ve Başbakan” ibaresi madde metninden çıkarılmıştır.
+[4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 87 nci maddesiyle, bu fıkrada yer alan “Kanunun yayımı tarihinden itibaren beş ay içinde, Maliye Bakanlığının koordinatörlüğünde, Milli Savunma, İçişleri, Dışişleri, Bayındırlık, Sanayi ve Teknoloji ve İmar ve İskan bakanlıklarıyla müştereken hazırlanıp, Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
