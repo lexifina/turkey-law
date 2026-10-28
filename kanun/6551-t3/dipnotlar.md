@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 33 üncü maddesiyle, bu fıkrada yer alan “Dahiliye, Milli Müdafaa, Maliye, Gümrük ve İnhisarlar ve İşletmeler Vekaletleri tarafından müştereken hazırlanacak bir nizamname” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 33 üncü maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
