@@ -1,0 +1,11 @@
+Madde 3 – A) Askeri Yargıda aşağıda ünvanları yazılı görevlerde bulunanlara hizalarında gösterilen gösterge rakamlarının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunan miktarda Yüksek Hakimlik Tazminatı ödenir. Bu tazminat damga vergisi hariç herhangi bir vergiye tabi tutulmaz ve ödemelerde aylıklara ilişkin hükümler uygulanır. Bu tazminattan yararlananlara ayrıca 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun Ek 18 inci maddesi gereğince makam tazminatı ödenmez.
+(Değişik cetvel: 20/3/1997 - KHK - 570/2 md.)
+Sıra No | Kadro ve Görev Unvanı | Tazminat Göstergeleri
+1 | Askeri Yargıtay Başkanı, Askeri Yüksek İdare Mahkemesi Başkanı, Askeri Yargıtay Başsavcısı, Askeri Yüksek İdare Mahkemesi Başsavcısı (…)[4] | 15.000
+2 | Askeri Yargıtay İkinci Başkanı, (…)4, Askeri Yargıtay Daire Başkanları ve Askeri Yüksek İdare Mahkemesi Daire Başkanları | 8.000
+3 | Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesi Üyeleri ile Birinci sınıfa ayrıldıktan sonra bu sınıfta altı yılını tamamlamış ve askeri yüksek yargı organları üyeliklerine seçilme niteliklerini kaybetmemiş askeri hakim subaylar | 7.000
+4 | Birinci sınıfa ayrıldıktan sonra bu sınıfta üç yılını tamamlamış ve Askeri Yargıtay ile Askeri Yüksek İdare Mahkemesi üyeliklerine seçilme hakkını kaybetmemiş askeri hakim subaylar | 4.500
+5 | Birinci sınıfa ayrılmış askeri hakim subaylar | 2000
+B) Yüksek Askeri Yargı organları dışındaki görevlerde bulunan askeri hakim sınıfı general-amiraller Yüksek Hakimlik Tazminatından yararlanamazlar. Bunlara, 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun Ek 18 inci maddesindeki makam tazminatı ödenir.
+C) Yüksek Hakimlik Tazminatı almaya müstehak oldukları tarihten itibaren bu görevlerde en az iki yıl çalıştıktan sonra emekliye ayrılanlara, bu maddeye göre bulunacak miktarın tamamı hayatta bulundukları sürece T.C. Emekli Sandığınca ödenir. T.C. Emekli Sandığı bu ödemeleri üç aylık devreler halinde faturası karşılığında Hazine'den tahsil eder.
+(Değişik: 9/4/1990 - KHK - 418/37 md.) Askeri hakim sınıfı, general ve amirallerle albaylara yukarıda esaslara göre ödenecek tazminat miktarının rütbelerinin karşılığı makam tazminatından az olması halinde, rütbelerinin karşılığı makam tazminatı ödenir.[5]
