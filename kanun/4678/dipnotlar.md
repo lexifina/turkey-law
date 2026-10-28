@@ -1,0 +1,19 @@
+[1] 11/2/2014 tarihli ve 6519 sayılı Kanunun 58 inci maddesiyle bu bentte yer alan “nasıp kararnamesinin onay” ibaresi “nasıp onayı” şeklinde değiştirilmiştir.
+[2] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu fıkraya “yedek subay” ibaresinden sonra gelmek üzere “ve yedek astsubay” ibaresi eklenmiştir.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 134 üncü maddesiyle, bu fıkrada yer alan “sıkıyönetim,” ibaresi madde metninden çıkarılmıştır.
+[4] 13/7/2013 tarihli ve 6496 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “Sözleşme süreleri;” ibaresinden sonra gelmek üzere “terörle mücadele sırasında veya bu görevlerden dolayı alıkonulma ya da kaybolma hâli ve” ibaresi eklenmiştir.
+[5] 2/1/2017 tarihli ve 681 sayılı KHK’nin 66 ncı maddesiyle bu fıkrada yer alan “Genelkurmay Başkanının” ibaresi “ilgisine göre Milli Savunma Bakanlığı veya İçişleri Bakanlığının” şeklinde değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 66 ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[6] 22/5/2012 tarihli ve 6318 sayılı Kanunun 70 inci maddesi ile bu fıkrada yer alan “onbeş yıl” ibaresi “on yıl” şeklinde değiştirilmiştir.
+[7] 2/1/2017 tarihli ve 681 sayılı KHK’nin 67 nci maddesiyle bu fıkrada yer alan “on” ibaresi “onbeş” şeklinde değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 67 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[8] 2/1/2017 tarihli ve 681 sayılı KHK’nin 68 inci maddesiyle bu fıkrada yer alan “Genelkurmay Başkanlığınca tespit edilecek bölüm veya branşlarda” ibaresi yürürlükten kaldırılmış; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 68 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[9] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu fıkraya “istihdam edilenler ile” ibaresinden sonra gelmek üzere “yedek astsubay ve” ibaresi eklenmiştir.
+[10] 2/7/2018 tarihli ve 700 sayılı KHK’nin 134 üncü maddesiyle, bu fıkrada yer alan “sıkıyönetim,” ibaresi madde metninden çıkarılmıştır.
+[11] 18/2/2021 tarihli ve 7281 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “Genelkurmay Başkanının” ibaresi “ilgisine göre Milli Savunma Bakanlığı veya İçişleri Bakanlığının” şeklinde değiştirilmiştir.
+[12] 22/5/2012 tarihli ve 6318 sayılı Kanunun 71 inci maddesi ile bu fıkrada yer alan “onbeş yıl” ibaresi “on yıl” şeklinde değiştirilmiştir.
+[13] 2/1/2017 tarihli ve 681 sayılı KHK’nin 69 uncu maddesiyle bu fıkrada yer alan “on” ibaresi “onbeş” şeklinde değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 69 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[14] 21/11/2024 tarihli ve 7533 sayılı Kanunun 27 nci maddesi ile bu fıkranın ikinci cümlesine “muvazzaf astsubaylığa geçirilenlerin ise” ibaresinden sonra gelmek üzere “sözleşmeli astsubay olmak için başvuru yaptıkları tarihteki öğrenim süreleri itibarıyla” ibaresi eklenmiştir.
+[15] 31/1/2013 tarihli ve 6413 sayılı Kanunun 45 inci maddesiyle bu fıkrada yer alan "yurt dışı sürekli görevler” ibaresinden sonra gelmek üzere “ ve aylıksız izinler” ibaresi eklenmiştir.
+[16] 18/2/2021 tarihli ve 7281 sayılı Kanunun 42 nci maddesiyle, bu bentte yer alan “Genelkurmay Başkanlığınca” ibaresi “Milli Savunma Bakanlığınca” şeklinde değiştirilmiştir.
+[17] 2/1/2017 tarihli ve 681 sayılı KHK’nin 70 inci maddesiyle bu fıkrada yer alan “asker hastanelerinin bulunmadığı garnizonlarda ise” ibaresi yürürlükten kaldırılmış; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 70 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[18] 18/2/2021 tarihli ve 7281 sayılı Kanunun 42 nci maddesiyle, bu bentte yer alan “Genelkurmay Başkanlığınca” ibaresi “Milli Savunma Bakanlığınca” şeklinde değiştirilmiştir.
+[19] 16/6/2009 tarihli ve 5907 sayılı Kanunun 15 inci maddesiyle bu madde başlığı “Askerlik yükümlülüğünün yerine getirilmiş sayılması” iken, metne işlendiği şekilde değiştirilmiştir.
