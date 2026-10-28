@@ -1,0 +1,8 @@
+DEVLET MEMURLARI İLE DİĞER KAMU GÖREVLİLERİNİN
+AYLIKLARININ ÖDEME ZAMANININ DEĞİŞTİRİLMESİNE
+DAİR 9.9.1987 TARİH VE 289 SAYILI KANUN HÜKMÜNDE
+KARARNAMENİN KABULUNE DAİR KANUN
+Kanun Numarası : 3472
+Kabul Tarihi : 28/9/1988
+Yayımlandığı Resmî Gazete : Tarih : 4/10/1988 Sayı : 19949
+Yayımlandığı Düstur : Tertip : 5 Cilt :
