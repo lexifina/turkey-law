@@ -1,0 +1,3 @@
+8/6/1942 TARİHLİ VE 4250 SAYILI ANA KANUNA İŞLENEMEYEN HÜKÜMLER
+1) 11/1/2001 tarihli ve 4619 sayılı Kanunun hükmüdür:
+Geçici Madde 1 – Bu Kanunun 1 inci maddesinin üçüncü fıkrasındaki bir milyon litre/yıl dışalım ve satış miktarı ölçüsü, bu Kanunun yürürlüğe girdiği tarihi izleyen birinci takvim yılı sonuna kadar bir milyon, ikinci takvim yılı sonuna kadar dokuz yüz bin, üçüncü takvim yııl sonuna kadar sekiz yüz bin, dördüncü takvim yılı sonuna kadar yedi yüz bin ve beşinci takvim yılı sonuna kadar altı yüz bin litre/yıl olarak uygulanır. Altıncı yıldan itibaren uygulanacak olan bu ölçüyü sıfıra indirmeye Bakanlar Kurulu yetkilidir.
