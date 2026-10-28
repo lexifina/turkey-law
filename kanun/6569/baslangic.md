@@ -1,0 +1,5 @@
+TÜRKİYE SAĞLIK ENSTİTÜLERİ BAŞKANLIĞINA İLİŞKİN BAZI DÜZENLEMELER İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN[1]
+Kanun Numarası : 6569
+Kabul Tarihi : 19/11/2014
+Yayımlandığı R.Gazete : Tarih : 26/11/2014 Sayı : 29187
+Yayımlandığı Düstur : Tertip : 5 Cilt : 55

@@ -1,0 +1,4 @@
+ALTINCI BÖLÜM
+Mali Hükümler
+Gelirler
+MADDE 16- (Mülga: 2/7/2018/KHK/703/101 md.)
