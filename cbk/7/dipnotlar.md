@@ -1,0 +1,2 @@
+[1] 10/11/2022 tarihli ve 32009 sayılı Resmî Gazete’de yayımlanan 114 sayılı Cumhurbaşkanlığı Kararnamesinin 1 inci maddesiyle bu maddenin başlığı “Kuruluş” iken metne işlendiği şekilde değiştirilmiştir.
+[2] 2/3/2021 tarihli ve 31411 sayılı Resmî Gazete’de yayımlanan 71 sayılı Cumhurbaşkanlığı Kararnamesinin 1 inci maddesiyle bu fıkrada yer alan “Milli Savunma Bakanı,” ibaresinden sonra gelmek üzere “Sanayi ve Teknoloji Bakanı,” ibaresi eklenmiştir.
