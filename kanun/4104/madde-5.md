@@ -1,0 +1,1 @@
+Madde 5 – Gözaltı edilen yabancı askerlerin idareleri Kızılay Cemiyetine devredilebilir. Devredildiği takdirde nakil, iaşe, ilbas, iskan ve tedavi gibi bilümum idare işleri cemiyet tarafından yapılır ve masrafları bilahara Hükümetçe cemiyete iade olunur.

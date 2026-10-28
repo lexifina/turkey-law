@@ -1,0 +1,1 @@
+Madde 1 – Yabancı memleketlerden Türkiye'ye iltica eden muharip yabancı ordu mensuplarının Türkiye topraklarına girdikleri tarihten itibaren iade olunacakları tarihe kadar nakil, iaşe, ilbas, iskan ve tedavi hususları Hükümetçe temin olunur.
