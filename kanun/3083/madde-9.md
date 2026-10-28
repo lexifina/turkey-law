@@ -1,0 +1,3 @@
+Borçlandırma
+Madde 9 – Bu Kanuna göre tarım toprağının dağıtımından faydalananlar ile yerleşime tabi tutulanlar, iktisap tarihinde mülkiyetini iktisap ettikleri tarım toprağının ve mevcutsa üzerindeki diğer gayrimenkullerin tespit edilen rayiç bedeli üzerinden, uygulayıcı kuruluşa borçlanırlar. Borçlandırmak suretiyle verilen tarım toprakları, sahiplerinin adına tapuya tescil edilir.
+Borçlar, borçlandırmadan sonra gelen dördüncü yılın Ocak ayını takip eden ve uygulayıcı kuruluş tarafından hasat dönemleri dikkate alınarak tespit edilecek aylardan başlamak üzere, on yılda ve on eşit taksitte faizsiz olarak ödenir. Borçlandırma esas ve usulleri, yönetmelikle düzenlenir.

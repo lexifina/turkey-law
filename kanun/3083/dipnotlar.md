@@ -1,0 +1,11 @@
+[1] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu fıkrada ve bu fıkranın (g) bendinde yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu maddenin birinci fıkrasının (k) ve (l) bentlerinde yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu fıkranın birinci cümlesinde yer alan “ilgili Bakanlığın teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde, ikinci cümlesinde yer alan “Bakanlar Kurulunun” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu maddenin üçüncü ve dördüncü fıkralarında yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[5] 23/2/2011 tarihli ve 6171 sayılı Kanunun 2 nci maddesiyle bu madde başlığı “Toplulaştırma” iken metne işlendiği şekilde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu fıkrada yer alan “kendilerine özel kanunlarla” ibaresinden sonra gelmek üzere “ya da Cumhurbaşkanlığı kararnameleriyle” ibaresi eklenmiştir.
+[7] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu maddenin ikinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve üçüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[8] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[9] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[10] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[11] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesiyle, bu fıkrada yer alan “Kanun yürürlüğe girdiği tarihten itibaren altı ay içinde Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
