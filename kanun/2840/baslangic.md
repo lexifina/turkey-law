@@ -1,0 +1,8 @@
+BOR TUZLARI, TRONA VE ASFALTİT MADENLERİ İLE
+NÜKLEER ENERJİ HAMMADDELERİNİN İŞLETİLMESİNİ,
+LİNYİT VE DEMİR SAHALARININ BAZILARININ
+İADESİNİ DÜZENLEYEN KANUN[1]
+Kanun Numarası : 2840
+Kabul Tarihi : 10/6/1983
+Yayımlandığı Resmî Gazete : Tarih : 13/6/1983 Sayı : 18076
+Yayımlandığı Düstur : Tertip : 5 Cilt : 22 Sayfa : 396
