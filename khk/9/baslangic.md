@@ -1,0 +1,6 @@
+657 SAYILI DEVLET MEMURLARI KANUNUNUN 1327 SAYILI
+KANUNLA 6, 7, 8 SAYILI KANUN HÜKMÜNDE KARARNAMELERLE DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME
+Kanun Hükmünde Kararnamenin Tarihi: 15/1/1974 No: 9
+Yetki Kanununun Tarihi : 23/5/1972 No: 1589
+Yayımlandığı Resmî Gazete Tarihi : 19/1/1974 No: 14773
+V. Tertip Düsturun Cildi : 13 Sh: 616
