@@ -1,0 +1,1 @@
+Madde 17 – Hükümet, sahiplerine kati lüzumu olmıyan makine, alat, edevat ve tesisatı vesair her nevi istihsal vasıtalarını sahiplerinin işlerini sekteye uğratmamak şartiyle ihtiyacı olan müesseselere vermek üzere değer pahası mukabilinde satın alabilir.
