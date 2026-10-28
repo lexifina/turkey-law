@@ -1,0 +1,3 @@
+[1] 2/7/2018 tarihli ve 703 sayılı KHK’nin 156 ncı maddesiyle, bu maddenin ikinci fıkrasında yer alan “dördü” ile “ve üçü Bakanlar Kurulu” ibareleri madde metninden çıkarılmış, aynı fıkranın ikinci cümlesinde yer alan “Bunlardan” ibaresi “Mütevelli Heyeti;” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 156 ncı maddesiyle bu maddenin ikinci fıkrasının (e) bendinde yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, dördüncü fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 156 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
