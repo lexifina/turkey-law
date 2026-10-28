@@ -1,0 +1,3 @@
+IV - Bir daha kabule arz
+MADDE 694- (1) Muhatap, poliçenin, kendisine arz edildiği günü izleyen günde bir daha ibrazını isteyebilir. İlgililer, bu istemin yerine getirilmediğini, ancak bu istem protestoya yazılmışsa ileri sürebilirler.
+(2) Hamil, kabule arz edilen poliçeyi muhataba bırakmak zorunda değildir.

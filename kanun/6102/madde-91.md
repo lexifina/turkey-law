@@ -1,0 +1,3 @@
+II - Özel durumlar
+1. Ticari senetler
+MADDE 91- (1) 90 ıncı maddede öngörüldüğü şekilde cari hesaba yazılan ancak bedeli alınamayan ticari senet sahibine geri verilerek, cari hesaptan kaydı silinir.

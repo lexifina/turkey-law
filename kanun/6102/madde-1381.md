@@ -1,0 +1,2 @@
+b) İpotek sahiplerinin
+MADDE 1381- (1) Akdî veya kanuni gemi ipoteği alacaklıları, ipoteğin paraya çevrilmesi yoluyla takip yapabilirler. Bu hüküm, Türk ve yabancı bayraklı bütün gemilere uygulanır.

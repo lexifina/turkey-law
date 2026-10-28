@@ -1,0 +1,11 @@
+5. Tür değiştirme raporu
+MADDE 186- (1) Yönetim organı tür değiştirme hakkında yazılı bir rapor hazırlar.
+(2) Raporda;
+a) Tür değiştirmenin amacı ve sonuçları,
+b) Yeni türe ilişkin kuruluş hükümlerinin yerine getirilmiş bulunduğu,
+c) Yeni şirket sözleşmesi,
+d) Tür değiştirmeden sonra ortakların sahip olacakları paylara dair değişim oranı,
+e) Varsa ortaklar ile ilgili olarak tür değiştirmeden kaynaklanan ek ödeme ile diğer kişisel edim yükümlülükleri ve kişisel sorumluluklar,
+f) Ortaklar için yeni tür dolayısıyla doğan yükümlülükler
+hukuki ve ekonomik yönden açıklanır ve gerekçeleri gösterilir.
+(3) Tüm ortakların onaylaması hâlinde küçük ve orta ölçekli şirketler tür değiştirme raporunun düzenlenmesinden vazgeçebilirler.[35]

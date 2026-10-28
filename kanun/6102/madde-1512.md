@@ -1,0 +1,3 @@
+II - Teminatlar
+1. Sigorta teminatı
+MADDE 1512- (1) Sigortacı, hastalık sigortası ile sözleşmede öngörülen hastalıklardan birinin veya birkaçının, sözleşme süresi içinde gerçekleşmesi veya ortaya çıkması hâli için sigorta teminatı sağlar. Sözleşmede birden çok hastalık sigorta teminatına bağlanmışsa, hastalıklardan birinin gerçekleşmesi veya ortaya çıkması hâlinde bedel ödenir ve sözleşme sona erer. Teminatın, aksi kararlaştırılmamışsa, hastalıklardan sadece birinin gerçekleşmesi hâli için verildiği kabul edilir.
