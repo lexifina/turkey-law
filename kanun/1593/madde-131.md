@@ -1,0 +1,1 @@
+Madde 131 – Fuhuş sebebiyle intişar eden hastalıklara karşı tedbir ittihazı masarifi belediyelere aittir. Bu husus için umumi evler sahiplerinden 128 inci maddede zikredilen yönetmelikte gösterilecek bir ücret alınabilirse de umumi kadınlardan şahsan her nevi resim veya ücret cibayeti usulü mülgadır.[20]

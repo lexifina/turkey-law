@@ -1,0 +1,1 @@
+Madde 169 – Kız liselerinde ve orta tahsilli kız mekteplerinde mektep idarelerince münasip görülecek sınıflarda talebeye fenni çocuk bakımı usulleri nazari ve ameli surette öğretilmek üzere haftada laakal bir saatlik mahsus bir ders küşat olunur.

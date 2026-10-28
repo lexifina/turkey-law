@@ -1,0 +1,1 @@
+Madde 56 – 37 nci maddede zikredilen hastalıklardan birinin hüküm sürdüğü memleketlerden hava nakil vasıtalariyle vürut eden yolcu ve eşyalar hakkında 54 üncü maddede yazılan tedbirler Sıhhat ve İçtimai Muavenet Vekaletinin münasip göreceği hallerde hudutlarda veya bu vasıtaların karaya indikleri mahallerde tatbik olunur.

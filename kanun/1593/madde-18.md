@@ -1,0 +1,3 @@
+DÖRDÜNCÜ FASIL
+Vilayet Hususi İdareleri ve Belediyeler
+Madde 18 – Vilayet hususi idareleri bütçelerinde hususi kanuna tevfikan tefrik ve Sıhhat ve İçtimai Muavenet Vekaletinin tensibi ile sarfolunan sıhhi ve içtimai işlere mahsus tahsisat, vilayet merkezinde veya tensip olunacak sair mahallerde açılacak hastaneler ve dispanserlerle seyyar etıbba teşkilatına ve seyyar etüv tedarikine ve tephirat ve tathirat istasyonları tesisine ve verem ve frengi ve çocuk vefiyatı mücadelesine muhtas hıfzıssıhhai içtimaiye dispanserlerine ve sıtma ve frengi ilacı tedarikine ve Sıtma Kanununda tasrih edilen ahvalde sıtma membalarının izalesine sarfolunur.

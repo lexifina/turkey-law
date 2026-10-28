@@ -1,0 +1,1 @@
+Madde 158 – Yedi yaşından aşağı olan metrük, öksüz veya babası ve anası hayatta çocukları gerek para ile ve gerek parasız kabul ederek bakan resmi ve hususi bütün müesseseler Sıhhat ve İçtimai Muavenet Vekaletinin murakabe ve teftişine bağlıdır. Bu tarzdaki müesseselerin küşadı, sahipleri tarafından Vekalete ihbar olunur.

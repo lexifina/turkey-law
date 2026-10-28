@@ -1,0 +1,1 @@
+Madde 213 – Köyler için tesis edilecek mezarlık mahalleri bu köylerin merbut olduğu kaza kaymakamlarınca Hükümet tabiplerinin mutalaası alınarak tayin olunur. Mütaaddit ve yekdiğerine mücavir köyler için bir mezarlık mahalli tesis olunabilir. Köy mezarlıklarının iyi halde muhafazaları ihtiyar heyetlerine aittir.
