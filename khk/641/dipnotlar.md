@@ -1,0 +1,4 @@
+[1] Bu KHK’nin Adı “Kalkınma Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname” iken, 2/7/2018 tarihli ve 703 sayılı KHK’nin 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 17 nci maddesiyle, bu bentte yer alan “Bakanlar Kuruluna” ibareleri “Cumhurbaşkanına” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 17 nci maddesiyle, bu fıkranın (b) bendinde yer alan “Bakanlar Kurulunun” ibaresi “Cumhurbaşkanının” şeklinde, (c) ve (ç) bentlerinde yer alan “Bakanlar Kuruluna” ibareleri “Cumhurbaşkanına” şeklinde ve (d) bendinde yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 17 nci maddesiyle, bu bentte yer alan “Hükümet programları” ibaresi “Cumhurbaşkanınca belirlenen politikalar” şeklinde değiştirilmiştir.
