@@ -1,0 +1,2 @@
+Parasız ve tenzilli tarife ile seyahatte yol masrafı:
+Madde 31 – Birinci maddenin a, b ve c bentlerinde yazılı kurumlara ait veya bunlar tarafından kiralanmış nakil vasıtalarında paso veya permi ile veya diğer her hangi bir suretle parasız olarak seyahat edenlere yol masrafı verilmez. Tarifeler gereğince bilet ücretlerinde tenzilat yapılması halinde yol masrafı fiilen ödenen ücrete göre hesaplanır.

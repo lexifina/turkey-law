@@ -1,0 +1,5 @@
+Seyyar olarak vazife gören memur ve hizmetliler:
+Madde 49 – (Değişik: 11/12/1981 - 2562/23 md.)
+Asli görevleri gereği memuriyet mahalli dışında ve belirli bir görev bölgesi (Merkez veya il kuruluşuna dahil birimlerde il sınırı, bölge şeklinde çalışan birimlerde bölge sınırı) içinde fiilen gezici olarak görev yapan memur ve hizmetlilere gündelik ve (Aşağıda unvanları sayılanlar hariç) yol masrafı ödenmez.
+(Değişik: 14/1/1988 - KHK - 311/16 md.) Bunlardan, Maliye ve Gümrük Bakanlığınca görev unvanları ile iş ve çalışma özellikleri uygun görülenlere; bu Bakanlıkça vize edilen cetvellere dayanılarak fiilen gezici görev yaptıkları günler için almakta oldukları aylık/kadro derecelerine göre müstahak oldukları yurtiçi gündeliklerinin üçte biri günlük tazminat olarak verilir.
+Takip memuru, gezici sağlık memuru, ebe, orman muhafaza memuru, koruyucu, koruma memuru, posta dağıtıcısı, hat bakıcısı, tahsildar, gezici başöğretmen ve görev niteliklerinin bunlara benzerliği Maliye Bakanlığınca onaylanacak diğer memur ve hizmetlilerin yol masrafları mutat taşıt araçlarına fiilen ödedikleri miktarlar üzerinden karşılanır.
