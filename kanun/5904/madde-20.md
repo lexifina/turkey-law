@@ -1,0 +1,5 @@
+MADDE 1 ilâ 4 – (31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 5 ilâ 7 – (13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 8 ilâ 16 – (25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 17 ilâ 19 – (6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 20 – (1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)
