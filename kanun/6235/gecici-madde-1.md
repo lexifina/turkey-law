@@ -1,0 +1,1 @@
+Muvakkat Madde 1 – Türkiye'de mevcut bilümum yüksek mühendis, yüksek mimar, mühendis ve mimarlar bu kanunun neşrinden itibaren iki ay içinde Bayındırlık Vekaletinden alacakları birer beyannameyi doldurarak bulundukları yer bayındırlık müdürlüklerine veya doğrudan doğruya Bayındırlık Vekaletine vermeye mecburdurlar.

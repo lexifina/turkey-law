@@ -1,0 +1,2 @@
+Muvakkat Madde 4 – (Ek: 27/5/1959 - 7303/1 md.)
+Birlik İdare Heyeti bu kanunun neşrinden itibaren 3 ay içinde birlik ve odaların durumunu nizamname ve talimatnamelerini bu kanun hükümlerine uydurmaya, hariçte olan oda merkezlerini Ankara'ya getirmeye, ihtisas ve iştigal mevzuları dışındaki odalara kaydolanları mensup olduğu odaya nakletmeye ve bu hususlara riayet etmiyenler hakkında 6235 sayılı kanunun 38 inci maddesi hükümlerini tatbika mecburdur.
