@@ -1,2 +1,0 @@
-MADDE 16 – 5393 sayılı Kanunun 12 nci maddesine aşağıdaki fıkra eklenmiştir.
-“Mevzuatla orman köyleri ve orman köylüsüne tanınan hak, sorumluluk ve imtiyazlar orman köyü iken mahalleye dönüşen yerler için devam eder. Bir belediyeye katılarak mahalleye dönüşen köy, köy bağlısı ve belediyelerce kullanılan mera, yaylak, kışlak gibi yerlerden bu mahalle sakinleri ve varsa diğer hak sahipleri 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu hükümleri çerçevesinde yararlanmaya devam eder.”

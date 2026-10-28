@@ -1,2 +1,1 @@
-MADDE 33 – 14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanunun 28 inci maddesine aşağıdaki fıkra eklenmiştir.
-“Tüm acil çağrıları karşılamak üzere büyükşehirlerde yatırım izleme ve koordinasyon başkanlığı bünyesinde, diğer illerde ise valilikler bünyesinde 112 acil çağrı merkezleri kurulur. Bu merkezlerin iş ve işlemleri İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.”
+MADDE 33 – 34 – (14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)

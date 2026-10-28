@@ -1,2 +1,0 @@
-MADDE 40 – 5521 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 2 – Bölge adliye mahkemelerinin, 5235 sayılı Kanunun geçici 2 nci maddesi uyarınca Resmî Gazete’de ilan edilecek göreve başlama tarihine kadar, Yargıtayın bozma kararlarına karşı verilen direnme kararının temyizi halinde dava dosyası, önce kararı veren daireye gönderilir. Direnme kararları daireler tarafından öncelikle incelenir. Kararı veren daire, direnmeyi yerinde görürse kararı düzeltir; yerinde görmezse talebi on gün içinde Yargıtay Hukuk Genel Kuruluna iletir.”

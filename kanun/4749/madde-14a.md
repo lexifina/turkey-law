@@ -1,12 +1,11 @@
 İdari para cezaları
-Madde 14 /A (Ek: 16/7/2008-5787/11 md.)
+Madde 14 /A(Ek: 16/7/2008-5787/11 md.)
 Bu Kanunun;
 a) 4 üncü maddesinin beşinci fıkrası gereğince Müsteşarlıktan izin alınmaması,
 b) 7 nci maddesinin dördüncü fıkrasında belirtilen ikraz ücretinin Müsteşarlıkça talep edilen süre içerisinde ödenmemesi,
 c) 8 inci maddesinin üçüncü fıkrasında belirtilen garanti ücretinin Müsteşarlıkça talep edilen süre içerisinde ödenmemesi,
 ç) 8 inci maddesinin beşinci fıkrasında belirtilen sorumluluk ile müteselsil sorumluluğa ilişkin yükümlülüklerin yerine getirilmemesi,
-8291
-d) 8 inci maddesinin altıncı fıkrası gereğince Hazine garantisi altında sağlanan dış kredilere ilişkin geri ödemeler için gereken tutarın yılı bütçelerinde (…)(1) öncelikli olarak ayrılmaması, (1)
+d) 8 inci maddesinin altıncı fıkrası gereğince Hazine garantisi altında sağlanan dış kredilere ilişkin geri ödemeler için gereken tutarın yılı bütçelerinde (…)[52] öncelikli olarak ayrılmaması,
 e) 8 inci maddesinin onuncu fıkrası gereğince Müsteşarlıktan izin alınmaması,
 f) 11 inci maddesinin dördüncü fıkrası gereğince ikrazen kullandırılan dış borca ilişkin olarak Kanunun 8 inci maddesinin beşinci fıkrasında belirtilen sorumluluk ile müteselsil sorumluluğa ilişkin yükümlülüklerin yerine getirilmemesi,
 g) 11 inci maddesinin dokuzuncu fıkrasında belirtilen bilgi ve belgelerin Müsteşarlıkça talep edilen usul ve esaslar çerçevesinde verilmemesi,

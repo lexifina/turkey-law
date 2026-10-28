@@ -7,7 +7,6 @@ MADDE 195- (1) a) Bir ticaret şirketi, diğer bir ticaret şirketinin, doğruda
 b) Bir ticaret şirketi, diğer bir ticaret şirketini, bir sözleşme gereğince veya başka bir yolla hâkimiyeti altında tutabiliyorsa,
 birinci şirket hâkim, diğeri bağlı şirkettir. Bu şirketlerden en az birinin merkezi Türkiye’de ise, bu Kanundaki şirketler topluluğuna ilişkin hükümler uygulanır.
 (2) Birinci fıkrada öngörülen hâller dışında, bir ticaret şirketinin başka bir ticaret şirketinin paylarının çoğunluğuna veya onu yönetebilecek kararları alabilecek miktarda paylarına sahip bulunması, birinci şirketin hâkimiyetinin varlığına karinedir.
-11023
 (3) Bir hâkim şirketin, bir veya birkaç bağlı şirket aracılığıyla bir diğer şirkete hâkim olması, dolaylı hâkimiyettir.
 (4) Hâkim şirkete doğrudan veya dolaylı olarak bağlı bulunan şirketler, onunla birlikte şirketler topluluğunu oluşturur. Hâkim şirketler ana, bağlı şirketler yavru şirket konumundadır.
 (5) Şirketler topluluğunun hâkiminin, merkezi veya yerleşim yeri yurt içinde veya dışında bulunan, bir teşebbüs olması hâlinde de, 195 ilâ 209 uncu maddeler ile bu Kanundaki şirketler topluluğuna ilişkin hükümler uygulanır. Hâkim teşebbüs tacir sayılır. Konsolide tablolar hakkındaki hükümler saklıdır.

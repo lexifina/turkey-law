@@ -4,7 +4,6 @@ Diğer hükümler
 Madde 12 – a) Kamulaştırma; bu Kanunda öngörülen faaliyetlerin gerektirmesi halinde, 4.11.1983 tarihli ve 2942 sayılı Kamulaştırma Kanununda belirtilen esaslar dahilinde kamulaştırma yapılır. Bu konuda Kurulca verilecek lüzum kararı, kamu yararı kararı yerine geçer ve müteakip işlemler Kamulaştırma Kanunu hükümlerine göre yürütülür.
 Kamulaştırılan taşınmazın mülkiyeti Hazineye; kullanma hakkı kamulaştırma bedelini ödeyen tüzel kişiye ait olur. Kullanma hakları, ilgili lisans veya sertifikanın bir cüz’ü olup geçerliliği bunların geçerlilik süresi ile sınırlıdır.
 Lisans veya sertifikanın sona ermesi veya iptali halinde, tüzel kişilerce ödenmiş bulunan kamulaştırma bedelleri iade edilmez.
-7931
 b) Mülkiyetin gayri ayni haklar ve kiralama; tüzel kişiler, faaliyetleri ile ilgili olarak kamuya ait araziler üzerinde, bedeli ilgili tüzel kişi tarafından ödenmesi suretiyle mülkiyetin gayri ayni hak tesisini ve bu arazilerin kiralanmasını talep edebilir.
 Bu istek Kurulca uygun görüldüğünde, Kurum ilgili kanunlar uyarınca ihtiyaca göre intifa, irtifak, üst hakkı veya uzun süreli kiralama yoluna gider.
 Bu şekilde elde edilen hakkın bedelini ödeme yükümlülüğü devralan tüzel kişiye aittir. Kullanma hakları, ilgili lisans veya sertifikanın bir cüz’ü olup, geçerliliği bunların geçerlilik süresi ile sınırlıdır.

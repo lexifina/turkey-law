@@ -1,1 +1,0 @@
-MADDE 25 - 4760 sayılı Kanuna ekli (II) sayılı listenin 87.03 G.T.İ.P. numarasında “27, 46, 50” olarak yer alan vergi oranları sırasıyla “30, 52, 75” olarak, 87.04 G.T.İ.P. numarasında yer alan mal ve vergi oranı ise ekli (2) sayılı cetvelde gösterilen şekilde değiştirilmiştir. (1)

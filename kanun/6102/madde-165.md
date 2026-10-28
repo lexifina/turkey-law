@@ -2,7 +2,6 @@ MADDE 165- (1) Bilanço günüyle, bölünme sözleşmesinin imzası veya bölü
 (2) Bu fıkranın (a) ve (b) bentlerinde öngörülen hükümler saklı kalmak kaydıyla, ara bilançoya yıllık bilançoya ilişkin hüküm ve standartlar uygulanır. Ara bilanço için;
 a) Fizikî envanter çıkarılması gerekli değildir.
 b) Son bilançoda kabul edilmiş bulunan değerlemeler, sadece ticari defterlerdeki hareketler ölçüsünde değiştirilir; amortismanlar, değer düzeltmeleri ve karşılıklar ile ticari defterlerden anlaşılmayan işletme için önemli değer değişiklikleri de dikkate alınır.
-11015
-3. Bölünme belgelerini inceleme hakkı (1)
+3. Bölünme belgelerini inceleme hakkı[30]
 a) Bölünme sözleşmesi ve bölünme planı
 aa) Genel olarak

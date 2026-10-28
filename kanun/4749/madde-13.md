@@ -7,4 +7,4 @@ c) Hesaptan yapılan ödemeler karşılığında ilgili kuruluşlardan yapılan 
 d) Bu Maddenin son fıkrasına göre sağlanan nemalar.
 e) Bütçe Kanunlarıyla risk hesabına aktarılmak üzere öngörülen ödenekler.
 Yılı bütçesine bu amaçla konulan ödenek bir başka tertibe aktarılamaz. Yılı bütçesinde risk hesabına aktarılması öngörülen ödeneklerin yetersiz olması halinde ilgili tertibe ödenek aktarmaya Maliye Bakanı yetkilidir.
-(Değişik dördüncü fıkra: 3/4/2013-6456/6 md.) Hesaptaki tutarlar nemalandırılır. Nemalandırmanın şartları Müsteşarlık ile Türkiye Cumhuriyet Merkez Bankası tarafından müştereken tespit olunur. 8290
+(Değişik dördüncü fıkra: 3/4/2013-6456/6 md.) Hesaptaki tutarlar nemalandırılır. Nemalandırmanın şartları Müsteşarlık ile Türkiye Cumhuriyet Merkez Bankası tarafından müştereken tespit olunur.

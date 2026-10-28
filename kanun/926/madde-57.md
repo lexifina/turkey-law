@@ -1,3 +1,2 @@
 Yönetmelik:
-Madde 57 – (Değişik: 7/7/1971 - 1424/22 md.)
-Yüksek Askerî Şuranın terfi işlemlerine ait çalışma usulleri ve kararlarını nasıl alacağı, sair hususlar Subay Sicil Yönetmeliğinde gösterilir.
+Madde 57 – (Mülga: 5/6/2017-KHK-691/5 md.; Aynen kabul: 31/1/2018-7069/5 md.)

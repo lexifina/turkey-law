@@ -3,4 +3,3 @@ Madde 113 – Yükleten, taşıma sözleşmesinden doğan tüm borçlarını yer
 Yükleten bu hakkını taşıyıcıya veya diğer yükletenlere zarar vermeyecek şekilde kullanmaya mecbur olup, bu tasarruf hakkının kullanılmasından doğan masraflardan sorumludur.
 Yükletenin verdiği talimatın yerine getirilmesi mümkün olmaz ise, taşıyıcı, durumu derhal kendisine bildirmekle yükümlüdür.
 Taşıyıcı, yükletenin talimatını hava yük senedinin yükletene verilmiş olan nüshasının iadesini istemeden yerine getirirse, bu hava yük senedi nüshasının zilyedinin, bu yüzden uğrayabileceği herhangi bir zarardan, yükletene rücu hakkı saklı kalmak şartı ile sorumlu olur.
-6126

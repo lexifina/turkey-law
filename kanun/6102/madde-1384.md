@@ -4,7 +4,6 @@ a) Geminin kayıtlı olduğu sicil devletinde, gemi sicilini tutmakla yükümlü
 b) Tescil edilmiş akdî rehin alacaklılarına,
 c) İcra dairesine bildirilmiş olmaları kaydıyla kanuni rehin alacaklılarına,
 d) Geminin sicile kayıtlı malikine,
-bildirilmesi veya gideri ilgililer tarafından karşılanmak şartıyla tirajı ellibin üzerinde olan ve sicilin fiilen tutulduğu ülke düzeyinde dağıtımı yapılan gazetelerden biriyle ilan edilmesi zorunludur.
-11276
+bildirilmesi veya gideri ilgililer tarafından karşılanmak şartıyla bir internet haber sitesi ve tirajı ellibin üzerinde olan ve sicilin fiilen tutulduğu ülke düzeyinde dağıtımı yapılan gazetelerden biriyle ilan edilmesi zorunludur.[104]
 (3) İkinci fıkrada belirtilen yazılı bildirim, iadeli taahhütlü mektupla, bildirimin muhataba ulaştığını doğrulayan elektronik iletişim araçlarıyla veya başkaca uygun bir yol ve araçla yapılır.
 4. Artırmanın ilanı

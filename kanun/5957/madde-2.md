@@ -1,14 +1,13 @@
 Tanımlar
-MADDE 2 – (1) Bu Kanunun uygulanmasında;
-a) Bakanlık: Sanayi ve Ticaret Bakanlığını,
+MADDE 2 – (1) Bu Kanunun uygulanmasında;[1]
+a) Bakanlık: Gümrük ve Ticaret Bakanlığını,
 b) Belediye: 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu ile 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununa tabi belediyeleri,
 c) Belediye toptancı hali: Belediyelerce kurulan toptancı hallerini,
 ç) Hal hakem heyeti: Üreticiler ile meslek mensupları arasında veya meslek mensuplarının kendi aralarında çıkan uyuşmazlıklara çözüm bulmak amacıyla il veya ilçe merkezlerinde oluşturulan heyetleri,
 d) Hal rüsumu: Malları satın alanlarca toptan satış bedeli üzerinden ödenen meblağı,
-e) İlgili bakanlıklar: İçişleri Bakanlığı ile Tarım ve Köyişleri Bakanlığını,
+e) İlgili bakanlıklar: Çevre ve Şehircilik Bakanlığı ile Gıda, Tarım ve Hayvancılık Bakanlığını,[2]
 f) Komisyoncu: Malların toptan satışı amacıyla kendi adına ve başkası hesabına komisyon esası üzerinden çalışan meslek mensuplarını,
-g) Künye: Malların üretim yerini, cinsini, miktarını, hangi üretici ve işletmeye ait olduğunu, varsa sertifika bilgilerini ve Bakanlık ile Tarım ve Köyişleri Bakanlığınca uygun görülecek diğer hususları ihtiva eden barkodlu etiketi veya bu bilgileri içeren belgeyi,
-10514
+g) Künye: Malların üretim yerini, cinsini, miktarını, hangi üretici ve işletmeye ait olduğunu, varsa sertifika bilgilerini ve Bakanlık ile Gıda, Tarım ve Hayvancılık Bakanlığınca uygun görülecek diğer hususları ihtiva eden barkodlu etiketi veya bu bilgileri içeren belgeyi,
 ğ) Mal: Ticarete konu sebze ve meyveler ile arz ve talep derinliğine göre belirlenecek et ve et ürünleri, süt ve süt ürünleri, su ve su ürünleri, bal ve yumurta gibi diğer gıda maddeleri ile kesme çiçek ve süs bitkilerini,
 h) Meslek kuruluşları: Türkiye Odalar ve Borsalar Birliği, Türkiye Esnaf ve Sanatkârları Konfederasyonu ile Türkiye Ziraat Odaları Birliğini,
 ı) Meslek mensubu: Malların ticaretiyle iştigal eden ilgili meslek odalarına kayıtlı kişileri,

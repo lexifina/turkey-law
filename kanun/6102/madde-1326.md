@@ -5,7 +5,6 @@ b) 1320 nci maddenin birinci fıkrasının (b) ilâ (e) bentlerinde sayılan ala
 işlemeye başlar.
 (2) 1320 nci maddenin birinci fıkrasının (f) bendinde sayılan gemi alacaklılarının sahip olduğu rehin hakkı;
 a) Geminin, zararın tespitinin ve paylaştırılmasının yapılacağı varma yerine ve eğer gemi buraya varmazsa yolculuğun bittiği limana vardığı günden itibaren işleyecek altı ay içinde; gemi cebrî icra yoluyla satışla sonuçlanacak şekilde ihtiyaten haczedilmemişse altı ayın geçmesiyle,
-11263
 b) Geminin iyiniyetli bir üçüncü kişiye satılması hâlinde, alıcının gemiyi, sicil yeri hukukuna uygun olarak kendi adına tescil ettirdiği günden itibaren işleyecek altmış günün sonunda,
 düşer. Bu sürelerin ikisi de işlemeye başlamışsa, rehin hakkı ilk sürenin dolmasıyla düşer.
 (3) Geminin ihtiyati haczinin hukuken caiz olmadığı zaman aralığı, bu sürelerin hesabında dikkate alınmaz. Diğer sebeplerden sürenin durması veya kesilmesi söz konusu değildir.

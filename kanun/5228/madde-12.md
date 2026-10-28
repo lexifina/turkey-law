@@ -1,2 +1,1 @@
-MADDE 12 - 21.7.1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 62 nci maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
-Maliye Bakanlığı amme alacaklarının takibinde haczolunacak malların tespiti amacıyla yapılacak mal varlığı araştırmasının şekli, alanı ve kapsamı ile araştırma yapılacak amme alacaklarının türü ve tutarını belirlemeye yetkilidir. Bu yetki alacaklı amme idaresi itibarıyla da kullanılabilir.
+Madde 12- (21.7.1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun ile ilgili olup yerine işlenmiştir.)

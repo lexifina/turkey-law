@@ -4,7 +4,6 @@ b) Kendisine protesto çekilen kişinin, poliçeden doğan taahhüdünü yerine 
 c) Sözü geçen davetin yapıldığı veya davet teşebbüsünün sonuçsuz kaldığı yer ve güne ait bir şerhi ve
 d) Protestoyu düzenleyen noterin imzasını,
 içerir.
-11136
 (2) Kısmi ödeme protestoda belirtilir.
 (3) Kabul için kendisine bir poliçe ibraz edilmiş olan muhatap, poliçenin ertesi günü tekrar ibrazını istemiş ise bu durum da protestoya yazılır.
 c) Protesto belgesi

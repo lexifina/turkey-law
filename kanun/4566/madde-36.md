@@ -1,6 +1,6 @@
 ALTINCI BÖLÜM
 Eğitim, Öğretim ve Öğrenciler
 Giriş şartları
-MADDE 36 —Harp okullarının esas öğrenci kaynağı askerî liselerdir. İhtiyaç halinde, ilgili kuvvet komutanlıklarınca belirlenen ve Genelkurmay Başkanlığınca onaylanan sivil liseleri bitiren ve yönetmelikte belirtilecek şartları taşıyan öğrenciler de harp okullarına alınırlar.
-Yabancı ülke öğrencilerinin harp okullarına kabul edilmeleri, mevzuat çerçevesinde yapılacak antlaşmalar veya Bakanlar Kurulu kararı ile olur.
+Madde 36 – (Değişik birinci fıkra: 25/7/2016-KHK-669/76 md.; Aynen Kabul: 9/11/2016-6756/76 md.) Harp okullarının öğrenci kaynağı lise ve dengi okul mezunlarıdır.
+Yabancı ülke öğrencilerinin harp okullarına kabul edilmeleri, mevzuat çerçevesinde yapılacak antlaşmalar veya Cumhurbaşkanı kararı ile olur.[22]
 Yabancı ülke öğrencilerinin seçimi ile ilgili esaslar yönetmelikte gösterilir.

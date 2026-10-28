@@ -11,4 +11,3 @@ h) Görülen hizmetin ve içinde bulunulan durumun gerektirdiğinin dışında y
 Yasaktır.
 Yukarıdaki yasaklara istisna getirmek üzere, özel veya genel nitelikte izin vermeye, Ulaştırma Bakanlığı yetkilidir.
 Bu izni vermeden önce, Ulaştırma Bakanlığı gerektiğinde, ilgili bakanlıklar ve Genelkurmay Başkanlığının görüşünü alır.
-6122

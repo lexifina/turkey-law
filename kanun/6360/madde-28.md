@@ -1,2 +1,1 @@
-MADDE 28 – 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun 86 ncı maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
-“Belediyelerce veya belediyelere bağlı müesseselerce aşağıdaki şekillerde inşa, tamir ve genişletilmeye tabi tutulan yolların iki tarafında bulunan veya başka bir yola çıkışı olmaması dolayısıyla bu yoldan yararlanan gayrimenkullerin sahiplerinden meclis kararı ile Yol Harcamalarına Katılma Payı alınabilir.”
+MADDE 28 – (26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanunu ile ilgili olup yerine işlenmiştir.)

@@ -1,4 +1,4 @@
-Sulh ceza hâkimliği(2)
+Sulh ceza hâkimliği[7]
 Madde 10- (Değişik: 18/6/2014–6545/48 md.)
 Kanunların ayrıca görevli kıldığı hâller saklı kalmak üzere, yürütülen soruşturmalarda hâkim tarafından verilmesi gerekli kararları almak, işleri yapmak ve bunlara karşı yapılan itirazları incelemek amacıyla sulh ceza hâkimliği kurulmuştur.
 İş durumunun gerekli kıldığı yerlerde birden fazla sulh ceza hâkimliği kurulabilir. Bu durumda sulh ceza hâkimlikleri numaralandırılır. Müstakilen sulh ceza hâkimliğinde görevlendirilen hâkimler, adli yargı adalet komisyonlarınca başka mahkemelerde veya işlerde görevlendirilemez.

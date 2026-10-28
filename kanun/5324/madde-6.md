@@ -1,5 +1,5 @@
 Diğer idarî müeyyideler ve tedbirler
-MADDE 6 — Bu Kanun hükümleri ile bu Kanuna göre yürürlüğe konulan yönetmelik ve diğer düzenlemelerde belirlenen esaslara uygun olmadığı tespit edilen kozmetik ürünler ile ilgili uyarı, piyasadan toplatma ve imha için gereken işlemler ile kozmetik ürün üretim yerinin ıslahı ve gerektiğinde kapatılması ile ilgili bütün tedbirleri almaya ve uygulamaya Sağlık Bakanlığı yetkilidir.
+Madde 6- Bu Kanun hükümleri ile bu Kanuna göre yürürlüğe konulan yönetmelik ve diğer düzenlemelerde belirlenen esaslara uygun olmadığı tespit edilen kozmetik ürünler ile ilgili uyarı, piyasadan toplatma ve imha için gereken işlemler ile kozmetik ürün üretim yerinin ıslahı ve gerektiğinde kapatılması ile ilgili bütün tedbirleri almaya ve uygulamaya Sağlık Bakanlığı yetkilidir.
 Bu Kanun ile bu Kanuna göre çıkarılan mevzuata uygunluğu belgelenmiş olsa dahi, bir ürünün genel sağlık yönünden güvenli olmadığına dair kesin belirtilerin bulunması halinde, bu ürünün piyasaya arzı, kontrol yapılıncaya kadar Sağlık Bakanlığınca geçici olarak durdurulur.
 Kontrol sonucunda ürünün genel sağlık yönünden güvenli olmadığının tespit edilmesi halinde, masrafları üretici tarafından karşılanmak üzere Sağlık Bakanlığı;
 a) Ürünün piyasaya arzının yasaklanmasını,

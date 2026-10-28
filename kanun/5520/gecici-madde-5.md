@@ -1,4 +1,4 @@
-GEÇİCİ MADDE 5 – (Ek: 16/6/2009-5904/7 md.) (1)
+GEÇİCİ MADDE 5 – (Ek: 16/6/2009-5904/7 md.)[67]
 (1) Küçük ve Orta Büyüklükteki İşletmelerin bu madde kapsamında 31/12/2009 tarihine kadar yapılan birleşmelerinde;
 a) Birleşilen kurum tarafından münfesih kurumun birleşme tarihindeki sabit kıymetlerinin rayiç bedelle, diğer kıymetlerinin ise 213 sayılı Vergi Usul Kanununun değerleme hükümlerine göre değerlemek suretiyle bir bütün halinde devralınması ve bilançosuna kaydedilmesi,
 b) Birleşmeden doğan kazançların tamamının birleşme tarihi itibarıyla birleşilen şirketin sermayesine eklenmesi,
@@ -11,9 +11,6 @@ a) Küçük ve Orta Büyüklükteki İşletme (KOBİ): 29/6/1956 tarihli ve 6762
 b) Birleşme: Tam mükellef iki veya daha fazla KOBİ’nin 18 inci madde uyarınca birleşerek yeni bir anonim şirket oluşturmalarını ya da tam mükellef bir veya birkaç KOBİ’nin tam mükellef olan ve anonim şirket statüsündeki diğer bir KOBİ’ye devrolunmasını,
 ifade eder.
 (4) Birleşilen kurumun; indirimli kurumlar vergisi uygulamasının sona erdiği yılı izleyen üçüncü yılın sonuna kadar, bu Kanunun 18 inci ve 19 uncu maddelerine göre birleşme, devir, bölünme ve hisse değişimi işlemlerine tabi tutulması (31/12/2009 tarihine kadar KOBİ’lerin kendi aralarında yapacakları hariç) ile tasfiye edilmesi veya sermaye azaltımında bulunması halinde, birleşmeden dolayı istisna edilen ya da indirimli oran uygulaması nedeniyle zamanında tahakkuk ettirilmeyen vergiler, gecikme faizi ile birlikte birleşilen kurumdan tahsil edilir.
-––––––––––––––––
-(1) Bu madde kapsamında yapılacak birleşmelerde uygulanacak indirimli kurumlar vergisi oranı ile ilgili olarak; 5/9/2009 tarihli ve 27340 sayılı Resmi Gazete’de yayımlanan 13/8/2009 tarihli ve 2009/15386 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
-9912-2
 (5) Bu madde uyarınca birleşen kurumların birleşme tarihi itibarıyla öz sermaye tutarını geçmeyen zararları, 9 uncu maddenin birinci fıkrasının (a) bendinde belirtilen şartlarla kurumlar vergisi matrahının tespitinde indirim konusu yapılabilir.
 (6) Münfesih kurumdan devralınan amortismana tabi iktisadi kıymetler için, faydalı ömürleri dikkate alınarak münfesih kurumdaki kayıtlı değerleri üzerinden kalan süre için amortisman ayrılabilir.
 (7) Birleşilen kurum tarafından devralınan varlıkların, devir bedelinden düşük bir bedelle satılması durumunda oluşan zararlar, birleşilen kurumun kurumlar vergisi matrahının tespitinde indirim konusu yapılamaz.

@@ -5,7 +5,6 @@ c) Eşyanın gönderen veya gönderilen tarafından işleme tabi tutulması, yü
 d) Eşyanın; özellikle kırılma, paslanma, bozulma, kuruma, sızma, olağan fire yoluyla kolayca zarar görmesine yol açan doğal niteliği.
 e) Taşınacak paketlerin gönderen tarafından yetersiz etiketlenmesi.
 f) Canlı hayvan taşıması.
-11168
 g) 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu ile diğer kanun ve düzenlemelerde yer alan hükümlerin taşıyıcının sorumluluktan kurtulmasını haklı gösterdiği hâller.
 (2) Herhangi bir zararın hâl ve şartlara göre birinci fıkrada öngörülen bir sebebe bağlanmasının muhtemel bulunduğu durumlarda, o zararın bu sebepten ileri geldiği varsayılır. Birinci fıkranın (a) bendinde öngörülen olağanüstü zıya veya hasar hâlinde bu karine geçerli olmaz.
 (3) Zıya, hasar veya gecikme, gönderenin eşyanın taşınmasına ilişkin özel talimatlarına taşıyıcının uymamasından ileri gelmişse, taşıyıcı birinci fıkranın (a) bendine dayanarak sorumluluktan kurtulamaz.

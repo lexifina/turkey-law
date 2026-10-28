@@ -1,2 +1,2 @@
 Amaç
-MADDE 1 - Bu Kanunun amacı, "Avrupa Birliğini Kuran Antlaşma" uyarınca tek para sistemine dahil olan Avrupa Birliğine üye devletlerin ulusal paralarına veya ECU'ya gönderme yapan hukukî araçların, EURO'nun kullanıma girmesi nedeniyle ortaya çıkabilecek sonuçlar bakımından tabi olacağı esas ve usulleri belirlemektir.
+Madde 1 – Bu Kanunun amacı, "Avrupa Birliğini Kuran Antlaşma" uyarınca tek para sistemine dahil olan Avrupa Birliğine üye devletlerin ulusal paralarına veya ECU'ya gönderme yapan hukuki araçların, EURO'nun kullanıma girmesi nedeniyle ortaya çıkabilecek sonuçlar bakımından tabi olacağı esas ve usulleri belirlemektir.

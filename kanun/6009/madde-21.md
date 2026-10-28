@@ -1,5 +1,2 @@
-işlemlerinin daire dışında memur eliyle yerine getirildiği her bir işlem için)
-MADDE 21-14/1/1970 tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanununun 61 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
-“Değerleme farkları
-MADDE 61- Türk parasının yabancı paralar karşısındaki değerinin ve uluslararası piyasalarda altın fiyatlarının değişmesi nedeniyle Bankanın aktifindeki ve pasifindeki dövizlerin, efektiflerin ve yabancı para cinsinden diğer varlık ve yükümlülükler ile altınların değerlemesi sonucu oluşan değerleme farkları ayrı bir hesapta izlenir.
-Türk parasının yabancı paralar karşısındaki değerinin ve uluslararası piyasalarda altın fiyatlarının değişmesi nedeniyle Bankanın aktifindeki ve pasifindeki dövizlerin, efektiflerin ve yabancı para cinsinden diğer varlık ve yükümlülükler ile altınların değerlemeye tabi tutulması sonucu Banka lehine oluşan gerçekleşmemiş değerleme farkları, değerlemenin yapıldığı dönem kazancına dahil edilmez ve kurumlar vergisi matrahının tespitinde gelir olarak dikkate alınmaz. Banka aleyhine oluşan gerçekleşmemiş değerleme farkları ise değerlemenin yapıldığı dönem kazancından düşülmez ve kurumlar vergisi matrahının tespitinde gider olarak dikkate alınmaz.
+MADDE 18 ila 20- (2/7/1964 tarihli ve 492 sayılı Harçlar Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 21- (14/1/1970 tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanunu ile ilgili olup yerine işlenmiştir.)

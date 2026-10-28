@@ -1,3 +1,5 @@
-Eğitim ve Öğretim Yüksek Kurulu
-MADDE 10 — Eğitim ve Öğretim Yüksek Kurulu, Harp Okulu Komutanının başkanlığında; dekan, enstitü müdürü, kurmay başkanı, öğrenci alay komutanı ve bölüm başkanlarından oluşur. Harp Okulu Komutanının bulunmadığı hallerde en kıdemli üye Kurula başkanlık eder. Eğitim ve Öğretim Yüksek Kurulu, her eğitim ve öğretim yılı başında ve sonunda olmak üzere, yılda en az iki defa toplanır. Harp Okulu Komutanı, gerekli gördüğü hallerde de Eğitim ve Öğretim Yüksek Kurulunu toplantıya çağırabilir.
-Eğitim ve Öğretim Yüksek Kurulu ilgili kuvvet komutanlığınca belirlenen temel esaslar doğrultusunda; harp okulunun eğitim ve öğretimi ile ilgili uygulama ve geliştirmeye yönelik usul ve esasları tespit eden, bilimsel araştırma ve yayın faaliyetleri hakkında kararlar alan, harp okullarının bütününü ilgilendiren kanun, yönetmelik ve yönerge ihtiyaçları ile mevcut mevzuatın uygulanmasından doğan hususları inceleyip kuvvet komutanlıklarına görüş bildiren, yıllık eğitim-öğretim programının uygunluğu hususunu ve eğitim-öğretim programlarında ortaya çıkabilecek sorunları görüşüp karara bağlayan en yüksek eğitim ve öğretim organıdır.
+Harp okulu komutanı[10]
+Madde 10 – (Değişik: 15/8/2017-KHK-694/94 md.; Aynen kabul: 1/2/2018-7078/90 md.)
+Harp okulu komutanı; Rektöre bağlı olarak, dekan sorumluluğunda yürütülen eğitim-öğretim faaliyetleri ile bunlara ilişkin idari işler hariç olmak üzere, harp okullarında yürütülen askeri eğitim ve diğer tüm faaliyetlerin yönetim, gözetim ve denetiminden sorumlu asker kişidir.
+Harp okulunun bütçe teklifini Yönetim Kuruluna sunar.
+Harp okulu komutanının ataması, 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu hükümlerine göre yapılır.

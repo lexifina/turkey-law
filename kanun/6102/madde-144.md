@@ -2,6 +2,6 @@ MADDE 144- (1) Birleşme sözleşmesinin imzalandığı tarih ile bilanço gün�
 (2) Aşağıdaki hükümler saklı olmak kaydı ile, ara bilançoya yıllık bilançoya ilişkin hüküm ve ilkeler uygulanır. Ara bilanço için;
 a) Fizikî envanter çıkarılması gerekli değildir;
 b) Son bilançoda kabul edilen değerlemeler, sadece ticari defterdeki hareketler ölçüsünde değiştirilir; amortismanlar, değer düzeltmeleri ve karşılıklar ile ticari defterlerden anlaşılmayan işletme için önemli değer değişiklikleri de dikkate alınır.
-4. Birleşme sözleşmesi ve birleşme raporu (1)
+4. Birleşme sözleşmesi ve birleşme raporu[26]
 a) Birleşme sözleşmesi
 aa) Birleşme sözleşmesinin yapılması

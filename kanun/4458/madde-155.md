@@ -6,8 +6,4 @@ d) (Ek: 18/6/2009-5911/31 md.) Bir serbest bölgeye doğrudan Türkiye Gümrük 
 Eşyanın gümrük idarelerine sunulması ve gerekli gümrük işlemine tabi tutulması şarttır.
 Ancak, (a) bendinde belirtilen gümrük rejimi hükümlerinin böyle bir zorunluluğu aramadığı hallerde, eşyanın gümrüğe sunulması gerekmez.
 3. İhracat vergilerine veya ihracatla ilgili diğer hükümlere tabi olan eşyanın gümrük idarelerine bildirilmesi gerekir.
-–––––––––––––––
-(1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 68 inci maddesiyle; bu maddenin (a) bendinde yer alan “ve kambiyo mevzuatının” ibaresi yürürlükten kaldırılmıştır.
-(2) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu maddenin birinci fıkrasında yer alan “denetimine” ibaresi “gözetimine” ve ikinci fıkrasında yer alan “muayenesine tabi tutulur” ibaresi “idaresi tarafından kontrol edilir” şeklinde değiştirilmiş ve metne işlenmiştir.
-7717
 4. İlgilinin talebi üzerine, gümrük idareleri serbest bölgeye konulmuş eşyanın gümrük statüsünü onaylayan bir belge verebilirler.

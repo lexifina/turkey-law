@@ -3,17 +3,15 @@ Madde 8 –
 a. Yükseköğretim Denetleme Kurulu, Yükseköğretim Kurulu adına üniversiteleri, bağlı birimlerini, öğretim elemanlarını ve bunların faaliyetlerini gözetim ve denetim altında bulunduran, Yükseköğretim Kuruluna bağlı bir kuruluştur.
 b. Kuruluş ve İşleyişi:
 Yükseköğretim Denetleme Kurulu:
-(1) Yükseköğretim Kurulu tarafından önerilecek beş profesör üyeden,
+(1) (Değişik: 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-7070/68 md.) Yükseköğretim Kurulu tarafından profesörler ve bakanlık merkez teşkilatlarında en az on yıl müfettiş veya denetçi olarak çalışanlar arasından önerilecek onbeş üyeden,
 (2) Yargıtay, Danıştay ve Sayıştay tarafından gösterilecek üçer aday arasından Yükseköğretim Kurulu tarafından seçilip önerilecek birer üyeden,
-(3) Genelkurmay Başkanlığı ve Milli Eğitim Bakanlığınca seçilecek birer üyeden,
+(3) Milli Savunma Bakanlığı ve Milli Eğitim Bakanlığınca seçilecek birer üyeden,[9]
 oluşur.
 Bu suretle tespit edilen Yükseköğretim Denetleme Kurulu üyelerinin atanmaları, cari usullere göre yapılır.
-_____________________
-(1) Anayasa Mahkemesi’nin 22/12/2011 tarihli ve E.:2010/20, K.:2011/166 sayılı Kararıyla; bu bentte yer alan “veya denenmek üzere başka bir yükseköğretim kurumuna atamak” ibaresi iptal edilmiştir.
-5354
 Yükseköğretim Denetleme Kurul Başkanı, bu kurul üyeleri arasından Yükseköğretim Kurulu Başkanı tarafından atanır.
-Genelkurmay Başkanlığınca seçilen üyenin görev süresi iki, diğerlerinin ise altı yıldır. Genelkurmay Başkanlığınca seçilen üye, diğer özlük hakları saklı kalmak kaydı ile maaşsız izinli sayılır. Diğer üyelerin kurumları ile ilişikleri kesilir, Kurul üyelerinin yaş haddi öğretim üyelerinde olduğu gibidir.
-Genelkurmay Başkanlığınca seçilenin dışındaki üyelerin üçte biri her iki yılda bir yenilenir. Süreleri sona eren üyelerin yeniden seçilmeleri mümkündür. Herhangi bir nedenle üyeliğin normal süreden önce sona ermesi halinde, eski üyenin kalan süresini tamamlamak üzere aynı statüde yenisi seçilir.
-Kurul üyelerinin ücretleri, Yükseköğretim Kurulu üyelerine ödenen ücreti geçmeyecek şekilde Bakanlar Kurulunca tespit edilir. Emekli olarak seçilenlerin emekli maaşlarının ödenmesine devam edilir.
-Yükseköğretim Denetleme Kurulu üyeleri, Bakanlar Kurulu ve Yükseköğretim Kurulu tarafından verilen istisnai geçici görevler dışında hiç bir kamu kuruluşu veya özel kuruluşta ücretli ve ücretsiz çalışamazlar.Üyelerden geçici görevlendirme dışında herhangi bir nedenle bir yıl içinde, yıllık izin hariç, toplam üç ay hizmete devam etmeyenler kuruldan ayrılmış sayılır.
-(Ek: 17/8/1983 - 2880/4 md.) Yükseköğretim Denetleme Kurulu üyelerinden görev süreleri sona ereceklerin yerine seçimler Eylül ayında yapılır ve atanan üyeler seçimi izleyen Ocak ayı başında göreve başlarlar.
+(Değişik dördüncü fıkra : 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-7070/68 md.) Üyelerin görev süresi üç yıldır. Görev süreleri boyunca üyelerin kurumlarıyla ilişikleri kesilir. (Değişik cümle:30/7/2026-7592/1 md.) Üyelerin Kurulda geçirdikleri süreler, tabi oldukları özel kanun hükümlerine göre fiilen mesleklerinde geçirilmiş sayılır ve terfi, birinci sınıfa ayrılma ve birinci sınıf olma sürelerinin hesabında dikkate alınır. (Ek cümle:30/7/2026-7592/1 md.) Üyelerin yaş haddinde, üye seçilmeden önceki kadronun yaş haddi esas alınır.
+(Mülga birinci cümle : 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-7070/68 md.) (…) Süreleri sona eren üyelerin yeniden seçilmeleri mümkündür. Herhangi bir nedenle üyeliğin normal süreden önce sona ermesi halinde, eski üyenin kalan süresini tamamlamak üzere aynı statüde yenisi seçilir.
+Kurul üyelerinin ücretleri, Yükseköğretim Kurulu üyelerine ödenen ücreti geçmeyecek şekilde Cumhurbaşkanınca tespit edilir. Emekli olarak seçilenlerin emekli maaşlarının ödenmesine devam edilir.[10]
+Yükseköğretim Denetleme Kurulu üyeleri, Cumhurbaşkanı ve Yükseköğretim Kurulu tarafından verilen istisnai geçici görevler dışında hiç bir kamu kuruluşu veya özel kuruluşta ücretli ve ücretsiz çalışamazlar. Üyelerden geçici görevlendirme dışında herhangi bir nedenle bir yıl içinde, yıllık izin hariç, toplam üç ay hizmete devam etmeyenler kuruldan ayrılmış sayılır.10
+(Ek fıkra: 17/8/1983 - 2880/4 md.) (Mülga:15/4/2020-7243/1 md.)
+(Ek fıkra: 9/5/2018-7141/2 md.) Kamu kurum ve kuruluşları, Yükseköğretim Kurulu Başkanlığının talebi üzerine, merkez teşkilatlarına ait kadrolarında bulunan müfettiş, denetçi ve alanında uzman personeli, yürütülen işlere yardımcı olmak üzere Yükseköğretim Denetleme Kurulunda iki yıla kadar görevlendirebilir. Görev süresi dolan personel aynı usulle yeniden görevlendirilebilir. Bu şekilde görevlendirilen personel, kurumlarından aylıklı izinli sayılır ve görevlendirmede geçen süreler fiilen kendi mesleklerinde geçirilmiş olarak kabul edilir.

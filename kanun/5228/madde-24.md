@@ -1,1 +1,0 @@
-MADDE 24 - 4760 sayılı Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.25.00.00 G.T.İ.P. numaralı mal G.T.İ.P. numarası ile (A) cetvelinden çıkarılmış ve parantez içindeki ibaresi kaldırılarak ekli (1) sayılı cetvelde gösterilen şekilde 4760 sayılı Kanuna ekli (I) sayılı listenin (B) cetveline eklenmiştir.

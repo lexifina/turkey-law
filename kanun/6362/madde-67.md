@@ -13,7 +13,6 @@ h) Piyasa oluşturma, işletme ve yönetilmesi,
 konularına ilişkin usul ve esaslar, ilgili borsa tarafından hazırlanan ve Kurulca onaylanan yönetmeliklerle belirlenir.
 (2) İlgili türev ürünlerin işlem gördüğü borsalar hariç olmak üzere;
 a) Kambiyo ve kıymetli madenler ile kıymetli taşların işlem gördüğü borsalarda işlem yapma yetkisi verilmesine ilişkin esaslar ile yetki verilenlerin yükümlülüklerinin belirlendiği yönetmelik için Hazine Müsteşarlığının,
-11880
 b) Enerji ürünlerinin işlem gördüğü borsalarda işlem yapma yetkisi verilmesine ilişkin esaslar ile yetki verilenlerin yükümlülüklerinin belirlendiği yönetmelik için Enerji ve Tabii Kaynaklar Bakanlığı ile Enerji Piyasası Düzenleme Kurumunun,
 görüşleri alınır.
 (3) Borsalar, bu Kanunla ve diğer mevzuatla kendilerine verilen yetki ve görevlerle ilgili olarak düzenlemeler yapmaya ve bunları uygulamaya, bu düzenlemelere tabi kurum ve kuruluşlar nezdinde bunlara uygun hareket edilip edilmediğini ve kendilerine gönderilen bilgilerin doğru olup olmadığını denetlemeye görevli ve yetkilidir.

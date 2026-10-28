@@ -6,7 +6,6 @@ c) Bakanlık: Tarım ve Köyişleri Bakanlığını,
 ç) Basitleştirilmiş işlem: GDO ve ürünlerinden kaynaklanabilecek herhangi bir riskin olmadığı; insan, hayvan ve bitki sağlığı ile çevre ve biyolojik çeşitliliğe herhangi bir zararının bulunmadığı yönünde mevcut bilgiye ve daha önce yapılmış olan risk değerlendirmesine dayanan basitleştirilmiş karar alma sürecini,
 d) Biyogüvenlik: İnsan, hayvan ve bitki sağlığı ile çevre ve biyolojik çeşitliliği korumak için GDO ve ürünleri ile ilgili faaliyetlerin güvenli bir şekilde yapılmasını,
 e) Biyogüvenlik bilgi değişim mekanizması: GDO ve ürünleri ile ilgili bilimsel, teknik ve uygulamaya ilişkin bilgi ve belgelerin ulusal ve uluslararası seviyede alışverişinin kolaylaştırılması ile kamuoyunun bilgilendirilmesi ve karar sürecine katılımı amacıyla oluşturulacak bilgi alışverişi sistemini,
-10532
 f) Biyogüvenlik sistemi: Biyogüvenliğin sağlanması için yürütülen her türlü faaliyet ile idari, hukuki ve kurumsal yapılanmanın tamamını,
 g) Biyolojik çeşitlilik: Ekosistem de dâhil olmak üzere, türler arası ve tür içi farklılıkları,
 ğ) Bulaşan: Gıda veya yeme kasten ilave edilmeyen ancak, gıdanın birincil üretim aşaması dâhil üretimi, imalatı, işlenmesi, hazırlanması, işleme tabi tutulması, ambalajlanması, paketlenmesi, nakliyesi veya muhafazası ya da çevresel bulaşma sonucu gıdada bulunan, hayvan tüyü, böcek parçası gibi yabancı maddeler hariç olmak üzere her tür maddeyi,
@@ -22,7 +21,6 @@ o) Kapalı alanda kullanım: İnsan, hayvan ve bitki sağlığı ile çevre ve b
 ö) Karar: GDO veya ürünlerine ilişkin yapılan bir başvuru hakkında bilimsel esaslara göre yapılan risk değerlendirmesi ve sosyo-ekonomik değerlendirme sonuçlarına göre Biyogüvenlik Kurulu tarafından verilen kararı,
 p) Komite: Bilimsel değerlendirmeleri yapmak üzere Kurul tarafından oluşturulan komiteleri,
 r) Kurul: Biyogüvenlik Kurulunu,
-10533
 s) Modern biyoteknoloji: Geleneksel ıslah ve seleksiyonda kullanılan teknikler dışında, doğal fizyolojik üreme engelini aşarak, rekombinant deoksiribonükleik asidin (rDNA) ve nükleik asidin hücrelere ya da organallere doğrudan aktarılmasını sağlayan in vitro nükleik asit tekniklerinin ya da taksonomik olarak sınıflandırılmış familyanın dışında, farklı tür ve sınıflar arasında hücre füzyonu tekniklerinin uygulanmasını,
 ş) Muamele: İnsan, hayvan ve bitki sağlığı ile çevre ve biyolojik çeşitliliğin korunması için alınacak tedbirler göz önünde bulundurularak ambalajlama, paketleme, etiketleme, nakil ve depolama gibi GDO üzerinde gerçekleştirilen herhangi bir işlemi,
 t) Piyasaya sürme: Bu Kanun kapsamındaki her türlü ürünün bedelli veya bedelsiz olarak piyasaya arzını,

@@ -5,7 +5,6 @@ MADDE 12 – (1) 12/9/1330 tarihli Askeri Tayinat ve Yem Kanunu Muvakkati,
 (4) 23/3/1931 tarihli ve 1776 sayılı Kuvvetli Tayın Kanunu,
 (5) 21/7/1931 tarihli ve 1861 sayılı Jandarma Eratı Kanununun 14 üncü maddesi,
 (6) 14/5/1932 tarihli ve 1960 sayılı 14 Eylül 1330 tarihli Tayınat ve Yem Kanununa Müzeyyel (Demirbaş Erzak ve Yem) Kanunu,
-10128
 (7) 27/11/1935 tarihli ve 2852 sayılı Deniz Mensuplarına Mahsus Yemek Bedeli Hakkında Kanun,
 (8) 10/6/1938 tarihli ve 3433 sayılı Askeri Hastabakıcı Hemşireler Hakkında Kanunun 3 üncü maddesinin ikinci cümlesi,
 (9) 19/7/1943 tarihli ve 4480 sayılı Denizaltı Gemileriyle Avcıbotlarında Bulunanlara Verilecek Hazır Gıda Hakkında Kanun,

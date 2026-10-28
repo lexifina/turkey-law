@@ -4,7 +4,6 @@ a) Kasten öldürme.
 b) Kasten yaralama.
 c) İşkence, eziyet veya köleleştirme.
 d) Kişi hürriyetinden yoksun kılma.
-8986
 e) Bilimsel deneylere tabi kılma.
 f) Cinsel saldırıda bulunma, çocukların cinsel istismarı.
 g) Zorla hamile bırakma.

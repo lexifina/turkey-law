@@ -4,4 +4,3 @@ Madde 20 – Okul öncesi eğitiminin amaç ve görevleri, milli eğitimin genel
 2. Onları ilk öğretime hazırlamak;
 3. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak;
 4. Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamaktır.
-5105

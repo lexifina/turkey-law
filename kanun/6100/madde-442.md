@@ -4,6 +4,3 @@ MADDE 442- (1) Hakem veya hakem kurulu, tarafların her birinden yargılama gide
 (3) Hakem veya hakem kurulu, kararını verdikten sonra taraflara, yatırılmış olan avansların harcama yerlerini ve miktarlarını gösterir bir belge verir ve varsa kalan avansı ödeyene iade eder.
 (4) Taraflar aksini kararlaştırmadıkça yargılama giderleri haksız çıkan tarafa yüklenir. Davada her iki taraf da kısmen haklı çıkarsa, yargılama giderleri haklılık durumuna göre taraflar arasında paylaştırılır.
 (5) Hakem veya hakem kurulunun yargılamayı sona erdiren veya taraflar arasındaki sulhü tespit eden kararında da yargılama giderleri gösterilir.
-–––––––––––––––––
-(1) Bu fıkrada yer alan tarife ile ilgili olarak 2/10/2012 tarihli ve 28429 sayılı Resmi Gazete’ye bakınız.
-10964

@@ -1,1 +1,1 @@
-MADDE 23 — 9.1.1985 tarihli ve 3146 sayılı Kanunun 39 uncu maddesinin son fıkrasının ikinci cümlesindeki "Bu hesaptan" ibaresi "Bütçeden" olarak değiştirilmiş ve bu cümlenin sonuna "Bu ödemede 657 sayılı Kanunun aylıklara ilişkin hükümleri uygulanır ve bu ödemelerden damga vergisi hariç herhangi bir vergi ve kesinti yapılmaz." cümlesi eklenmiştir.
+Madde 23- (9.1.1985 tarihli ve 3146 sayılı Kanun ile ilgili olup yerine işlenmiştir.)

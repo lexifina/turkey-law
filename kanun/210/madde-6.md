@@ -1,7 +1,6 @@
 Kaldırılan hükümler:
 Madde 6 – Aşağıda yazılı kanunlar ve kanun hükümleri yürürlükten kaldırılmıştır:
 1. 28/5/1934 tarihli ve 2459 sayılı Tayyere Resmi hakkındaki Kanunun 5 inci maddesi,
-3726
 2. 22/6/1938 tarihli ve 3478 sayılı kanunun 25 inci maddesinin kira kontratları, noter evrakı ve ferağ ve intikal ilmühaberleri ile ilgili fıkraları,
 3. 11/4/1938 tarihli ve 3356 sayılı kanun,
 4. 2/4/1958 tarihli ve 7109 sayılı kanun,

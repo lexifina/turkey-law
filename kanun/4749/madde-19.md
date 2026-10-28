@@ -1,3 +1,2 @@
 Yürütme
-Madde 19 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-8294-6
+Madde 19 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

@@ -1,4 +1,4 @@
-Yönetim ve temsil (1)
+Yönetim ve temsil:[3]
 Madde 3 – (Değişik: 23/7/2008 – 5791/2 md.)
 Uyuşmazlık Mahkemesinin yönetimi ve temsili Başkana aittir.
-Başkanlığın boş veya Başkanın özürlü veya izinli olması hâllerinde Başkana ait görev ve yetkiler, Anayasa Mahkemesince kendi asıl ve yedek üyeleri arasından seçilip görevlendirilen Başkanvekili tarafından yerine getirilir ve kullanılır.
+Başkanlığın boş veya Başkanın özürlü veya izinli olması hâllerinde Başkana ait görev ve yetkiler, Anayasa Mahkemesince kendi (…)[4][5] üyeleri arasından seçilip görevlendirilen Başkanvekili tarafından yerine getirilir ve kullanılır.

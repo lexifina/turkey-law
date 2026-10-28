@@ -1,11 +1,8 @@
 DÖRDÜNCÜ BÖLÜM
-Yükseköğretim Kurumları (1)
+Yükseköğretim Kurumları[14]
 Yükseköğretim Kurumlarının görevleri:
 Madde 12 – Bu kanundaki amaç ve ana ilkelere uygun olarak yükseköğretim kurumlarının görevleri;
-a.Çağdaş uygarlık ve eğitim - öğretim esaslarına dayanan bir düzen içinde, toplumun ihtiyaçları ve kalkınma planları ilke ve hedeflerine uygun ve ortaöğretime dayalı çeşitli düzeylerde eğitim - öğretim, bilimsel araştırma, yayım ve danışmanlık yapmak,
-——————————
-(1) Vakıfların yükseköğretim kurumları kurabilmelerine, bu kurumların işleyişine, görev, yetki ve sorumluluklarına dair esaslarla ilgili olarak ek 2 - 15 inci maddelere bakınız.
-5356
+a. Çağdaş uygarlık ve eğitim - öğretim esaslarına dayanan bir düzen içinde, toplumun ihtiyaçları ve kalkınma planları ilke ve hedeflerine uygun ve ortaöğretime dayalı çeşitli düzeylerde eğitim - öğretim, bilimsel araştırma, yayım ve danışmanlık yapmak,
 b. Kendi ihtisas gücü ve maddi kaynaklarını rasyonel, verimli ve ekonomik şekilde kullanarak, milli eğitim politikası ve kalkınma planları ilke ve hedefleri ile Yükseköğretim Kurulu tarafından yapılan plan ve programlar doğrultusunda, ülkenin ihtiyacı olan dallarda ve sayıda insangücü yetiştirmek,
 c. Türk toplumunun yaşam düzeyini yükseltici ve kamu oyunu aydınlatıcı bilim verilerini söz, yazı ve diğer araçlarla yaymak,
 d. Örgün, yaygın, sürekli ve açık eğitim yoluyla toplumun özellikle sanayileşme ve tarımda modernleşme alanlarında eğitilmesini sağlamak,

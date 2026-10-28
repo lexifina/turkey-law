@@ -1,4 +1,5 @@
 Denetim
-MADDE 28 - Astsubay meslek yüksek okullarının eğitim, öğretim, idarî ve diğer faaliyetlerinin denetimi; Genelkurmay Başkanlığı, ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığınca yapılır.
-Astsubay meslek yüksek okullarının öğretim faaliyetlerinin bilimsel yönden denetlenmesi; yönetmelikte gösterilecek esaslara göre, ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı tarafından oluşturulacak bilimsel denetleme kurulu tarafından yapılır.
-Sağlık astsubay meslek yüksek okulunun bilimsel yönden denetlenmesi; doğrudan Gülhane Askerî Tıp Akademisi Komutanlığı tarafından 17.11.1983 tarihli ve 2955 sayılı Gülhane Askerî Tıp Akademisi Kanunu esaslarına göre yapılır.
+Madde 28 – Astsubay meslek yüksek okullarının eğitim, öğretim, idarî ve diğer faaliyetlerinin denetimi; Milli Savunma Bakanlığı tarafından yapılır.[9]
+(Değişik ikinci fıkra: 15/8/2017-KHK-694/127 md.; Aynen kabul: 1/2/2018-7078/123 md.) Astsubay meslek yüksek okullarının öğretim faaliyetlerinin bilimsel yönden denetlenmesi; yönetmelikte gösterilen esaslara göre, Rektörlük tarafından oluşturulan bilimsel denetleme heyeti tarafından yapılır.
+(Mülga üçüncü fıkra : 25/7/2016-KHK-669/99 md.; Aynen Kabul: 9/11/2016-6756/99 md.)
+(Ek fıkra: 15/8/2017-KHK-694/127 md.; Aynen kabul: 1/2/2018-7078/123 md.) Eğitim, öğretim ve diğer faaliyetlerin bu Kanunda belirtilen amaç ve ilkelere uygunluğunu denetlemek amacıyla, Bakan tarafından da denetleme heyeti görevlendirilebilir.

@@ -1,0 +1,2 @@
+İl özel idaresine tanınan muafiyetler
+Madde 8- İl özel idaresinin kamu hizmetine ayrılan veya kamunun yararlanmasına açık, gelir getirmeyen taşınmaz malları ile bunların inşa ve kullanımları katma değer vergisi ile özel tüketim vergisi hariç her türlü vergi, resim, harç, katkı ve katılma paylarından muaftır.[7]

@@ -5,4 +5,3 @@ Görüşmeler sırasında başkan veya üyelerden birinin talebi üzerine yapıl
 Üyeler oylarını bizzat kullanır. Gizli oy kullanmaya fizikî bakımdan engelli üyeler, tayin edecekleri kişi eliyle oy kullanabilirler.
 Oylama gizli, işaretle veya ad okunarak yapılır. Oy verme kabul, ret veya çekimser şeklinde olur.
 Kararlar, meclis başkanı ve kâtip üyeler tarafından imzalanır ve bir sonraki toplantıda üyelere dağıtılır.
-9478

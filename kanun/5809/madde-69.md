@@ -1,7 +1,6 @@
 Yürütme
 MADDE 69 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-10413
-T E L S İ Z Ü C R E T L E R İ | 
+TELSİZ ÜCRETLERİ[23] | 
 1. TELSİZ RUHSATNAME ÜCRETLERİ | 
 a. Telsiz verici-alıcı cihazları (karada kullanılan, ruhsatnamede kayıtlı her cihaz için) | 
 1) Mobil telsiz (Araç/portatif/el) | 20.00 TL
@@ -21,14 +20,13 @@ b) Mobil telsizi (Araç/portatif/el) | 10.00 TL
 e. Radyolink sistemleri | 
 1) Sistemde bulunan her cihaz başına | 100.00 TL
 f. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında monteli olarak kullanılanlar hariç) | 
-1) Uydu (uzay) istasyonu transponder adedi başına | 10,000.00 TL
+1) (…)23 | 
 2) Sabit uydu ana yer istasyonu | 1,000.00 TL
-3) Sabit uydu yer terminalleri | 50.00 TL
-4) Mobil uydu yer terminalleri | 40.00 TL
-5) Mobil uydu abone terminalleri (alıcı/verici) | 25.00 TL
-6) Data uydu alıcı | 10.00 TL
+3) (…)23 | 
+4) (…)23 | 
+5) (…)23 | 
+6) (…)23 | 
 7) Uydu mobil (cellular) telsiz telefon abone cihazları (cihaz başına) | 15.00 TL
-10414
 2. TELSİZ KULLANMA ÜCRETLERİ ( HER YIL İÇİN) | 
 a. Kara telsiz sistemleri | 
 1) LF, MF ve HF telsiz sistemleri (ruhsatnamede kayıtlı her cihazda bulunan kanal adedi başına) | 100.00 TL
@@ -41,10 +39,10 @@ a) Frekans tahsisi yapılmış her kanal için ayrı ayrı olmak üzere, sistemd
 b) Ruhsatnamede kayıtlı her tekrarlayıcı cihaz başına | 20.00 TL
 b. Karasal mobil (cellular) telsiz telefon sistemleri | 
 1) Her sabit telsiz (baz) istasyonundan (sisteme tahsis edilen band genişliğine göre her yıl alınmak üzere) kanal adedi (istasyonda bulunan TRx) başına | 
-a) 200 kHz'e kadar (dahil) | 40.00 TL
+a) 200 kHz’e kadar (dahil) | 40.00 TL
 b) 201 kHz-1.25 MHz arası (dahil) | 125.00 TL
 c) 1.25-5 MHz arası (dahil) | 500.00 TL
-d) 5 MHz'den yukarısı | 1,200.00 TL
+d) 5 MHz’den yukarısı | 1,200.00 TL
 2) (Değişik: 27/1/2014-2014/5884 K.) Abonenin sistemdeki her bir farklı numarası başına (Bir numaranın birden çok SIM karta atanarak kullanılması duırumunda, abonenin şebekeye aynı anda bağlanabilen SIM kart sayısı başına), (Kapalı erişim modunda ve azami 100 mW çıkış gücündeki femto ve benzeri şekilde çalışan abone erişim cihazlarına ilişkin aboneliklerden alınmaz) | 10.72 TL
 c. Bir noktadan çok noktaya erişim sistemleri (her yıl için) sisteme tahsis edilen kanal frekansının band genişliğine göre | 
 1) Her sabit telsiz (baz) istasyonundan (sisteme tahsis edilen band genişliğine göre her yıl alınmak üzere) | 
@@ -56,7 +54,6 @@ e) 56 MHz-140 MHz (dahil) | 640.00 TL
 f) 140 MHz-250 MHz (dahil) | 1,280.00 TL
 g) 250 MHz ve üzeri | 2,560.00 TL
 2) Sistemdeki her abone başına | 10.00 TL
-10415
 d. Ortak kullanımlı (trunking, community repeater ve benzeri) telsiz sistemleri | 
 1) Merkez istasyonu veya tekrarlayıcılar kanal adedi başına | 40.00 TL
 2) Kullanıcı telsiz cihazlarında (cihaz adedi başına) | 
@@ -70,13 +67,13 @@ e. Radyolink sistemleri, (her yıl için) sisteme tahsis edilen kanal frekansın
 5) 56 MHz-140 MHz (dahil) | 192.00 TL
 6) 140 MHz-250 MHz (dahil) | 640.00 TL
 7) 250 MHz ve üzeri | 1,280.00 TL
-f. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında monteli olarak kullanılanlar hariç) | 
-1) Uydu (uzay) istasyonu transponder adedi başına | 10,000.00TL
+f. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında monteli olarak kullanılanlar hariç)24 | 
+1) (…)[24] | 
 2) Sabit uydu ana yer istasyonu | 1,000.00 TL
-3) Sabit uydu yer terminalleri | 50.00 TL
-4) Mobil uydu yer terminalleri | 40.00 TL
-5) Mobil uydu abone terminalleri (alıcı/verici) | 25.00 TL
-6) Data uydu alıcı | 10.00 TL
+3) (…)24 | 
+4) (…)24 | 
+5) (…)24 | 
+6) (…)24 | 
 7) Uydu mobil (cellular) telsiz telefon abone cihazları (cihaz başına) | 15.00 TL
 3. GEÇİCİ SÜRE İLE VERİLEN TELSİZ KURMA VE KULLANMA İZİN ÜCRETLERİ | 
 a. İzin ücreti (6’şar aylık her bir izin için) | 
@@ -85,9 +82,8 @@ b) Geçici Organizasyonlarda/faaliyetlerde Kullanmak Maksatlı Geçici İzin Üc
 1) Yayın Yardımcı Sistemleri ( Kablosuz Kamera, Video Link, Ses Link, SNG, vb gibi.) | 500.00 TL
 2) Diğer Telsiz Sistemleri | 250.00 TL
 b. İzin verilen telsiz sisteminin bu tarifedeki ruhsatname ve kullanma ücreti ayrıca alınır. Ruhsatname ücreti tam alınır. Kullanma ücreti kıst olarak alınır. Ay kesirleri tam aya iblağ edilir. | 
-10416
 4. STANDARTLARA UYGUNLUK MUAYENESİ VE TEST ÜCRETLERİ | 
-a) Yurt dışından getirilen numuneler ve Türkiye'de imal edilen prototip cihazlar ile imalat ve ithalattan numune alınarak teste tabi tutulan cihazlardan, test sonucu ne olursa olsun (cihaz başına) | 
+a) Yurt dışından getirilen numuneler ve Türkiye’de imal edilen prototip cihazlar ile imalat ve ithalattan numune alınarak teste tabi tutulan cihazlardan, test sonucu ne olursa olsun (cihaz başına) | 
 1) Telsiz verici-alıcı cihazları | 100.00 TL
 2) Telsiz verici cihazları | 50.00 TL
 3) Telsiz alıcı cihazları | 50.00 TL
@@ -99,4 +95,3 @@ b) Bizzat kullanılmak maksadıyla imal ve ithal edilen cihazlardan, test sonucu
 a. Güvenlik Sertifikası | 25.00 TL
 b. Güvenlik sertifikasına yönelik talep halinde yapılan ölçüm (ölçüm başına) | 500.00 TL
 c. Ölçüm yetki belgesi (iki yıl süreli) | 1,500.00 TL
-10416-1

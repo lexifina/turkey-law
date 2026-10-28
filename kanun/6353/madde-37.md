@@ -1,3 +1,0 @@
-MADDE 37 – 5510 sayılı Kanunun 41 inci maddesinin birinci fıkrasına aşağıdaki bent eklenmiş ve dördüncü fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
-“j) Sigortalı olmaksızın, 8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanuna göre yurt dışına gönderilen ve öğrenimini başarıyla tamamlayarak yurda dönenlerden yükümlü bulunduğu mecburi hizmet süresini tamamlamış olanların, yurt dışında resmî öğrenci olarak geçirmiş oldukları öğrenim sürelerinin 18 yaşının tamamlanmasından sonraki döneme ait olan kısmı,”
-“a) Birinci fıkranın (a), (b), (d), (e), (f), (g), (h) ve (j) bentleri gereği borçlananlar, borçlandığı tarihteki 4 üncü maddenin birinci fıkrasının ilgili bendine göre,”

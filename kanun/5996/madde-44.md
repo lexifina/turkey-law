@@ -1,6 +1,5 @@
 İstisnaî uygulamalar
 MADDE 44- (1) Birincil ürünlerin, çiftlikte kesilmiş kümes hayvanlarının ve tavşangillerin taze etlerinin, av hayvanları veya av hayvanlarının etlerinin, üretici veya avcı tarafından Bakanlıkça belirlenen küçük miktarlarının doğrudan son tüketiciye ya da son tüketiciye doğrudan satışını yapan yerel perakendecilere arzı ile ilgili olarak Bakanlıkça istisnaî uygulamalar getirilebilir.
-10598
 (2) Bakanlık, hijyen kurallarını da dikkate alarak, gıdanın üretimi, işlenmesi veya dağıtımına ilişkin, geleneksel yöntemlerin kullanımına izin verebilir; coğrafî kısıtları bulunan bölgelerdeki gıda işletmelerinin ihtiyaçlarının çözümüne yönelik istisnaî uygulamalar getirebilir.
 (3) Bakanlık, tesisler ile ilgili inşaatın tasarım ve donanımına ilişkin istisnaî uygulamalar yapabilir.
 (4) Bakanlık, kurbanlık hayvanlar ve köylerdeki kişisel ihtiyaçlar için kesimlere ve kesim yerlerine ilişkin istisnaî uygulamalar getirebilir.

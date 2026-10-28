@@ -7,9 +7,6 @@ d) Sendika kurucularının ad ve soyadları, meslek veya görevleri ve adresleri
 e) Sendika veya konfederasyona üyelik koşulları, üyelikten çıkma ve çıkarılmanın usul ve esasları.
 f) Konfederasyon, sendika ve sendika şubesi genel kurul delegelerinin belirlenmesi usulü.
 g) (Değişik: 4/4/2012-6289/5 md.) Genel kurulun görev ve yetkileri, oy kullanma ve karar alma usul ve yeter sayıları ile yönetim, denetleme ve disiplin kurullarının oluşumu, bu kurulların görevleri ve toplantı usulü.
-–––––––––––––––––––––––
-(1) 4/4/2012 tarihli ve 6289 sayılı Kanunun 4 üncü maddesiyle, bu maddenin ikinci fıkrasında yer alan “en az iki yıldan beri” ibaresi madde metninden çıkarılmış, yedinci fıkrasına “durdurulması için” ibaresinden sonra gelmek üzere “ilgili valilik bir ay içinde” ibaresi eklenmiş ve metne işlenmiştir.
-8000
 h) Sendika veya konfederasyonun genel kurul dışındaki zorunlu organlarına üyelerin seçilme usulü, asil ve yedek üye sayısı, görev ve yetkileri.
 ı) Sendika veya konfederasyonların yöneticilerinde aranılacak şartlar.
 j) Sendika şubelerinin nasıl kurulacağı, görev ve yetkileri, genel kurulların toplantılarına ve kararlarına ilişkin usul ve esaslar ile sendika genel kurulunda şubelerin temsil şekli.

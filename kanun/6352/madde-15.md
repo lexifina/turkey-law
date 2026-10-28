@@ -1,1 +1,0 @@
-MADDE 15 – 2004 sayılı Kanunun 72 nci maddesinin dördüncü fıkrasında yer alan “yüzde kırktan” ibaresi “yüzde yirmiden” ve beşinci fıkrasında yer alan “yüzde kırkından” ibaresi “yüzde yirmisinden” olarak değiştirilmiştir.

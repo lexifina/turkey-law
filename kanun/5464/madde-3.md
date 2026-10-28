@@ -8,7 +8,6 @@ e) Kredi kartı: Nakit kullanımı gerekmeksizin mal ve hizmet alımı veya naki
 f) Kartlı sistem kuruluşu: Banka kartı veya kredi kartı sistemi kuran ve bu sisteme göre kart çıkarma veya üye işyeri anlaşması yapma yetkisi veren kuruluşları,
 g) Kart çıkaran kuruluş: Banka kartı veya kredi kartı düzenleme yetkisini haiz bankalar ile diğer kuruluşları,
 h) Üye işyeri anlaşması yapan kuruluş: Banka kartı veya kredi kartı kabulünü sağlamak amacıyla işyerleriyle anlaşma yapan bankalar ya da kuruluşları,
-9704
 i) Üye işyeri: Üye işyeri anlaşması yapan kuruluşlar ile yaptığı sözleşme çerçevesinde kart hamiline mal ve hizmet satmayı veya nakit temin etmeyi kabul eden gerçek veya tüzel kişiyi,
 j) Kart hamili: Banka kartı veya kredi kartı hizmetlerinden yararlanan gerçek veya tüzel kişiyi,
 k) Harcama belgesi: Banka kartı veya kredi kartı ile yapılan işlemler ile ilgili olarak üye işyeri tarafından düzenlenen, kart hamilinin işlemden doğan borcu ile diğer bilgileri gösteren ve kart hamilinin kimliğinin bir kod numarası, şifre veya kimliği belirleyici başka bir yöntemle belirlendiği haller dışında kart hamili tarafından imzalanan belgeyi,

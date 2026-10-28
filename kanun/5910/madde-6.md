@@ -12,4 +12,3 @@ e) TİM’in koordinasyonu sağlamaya yönelik taleplerini değerlendirerek sonu
 f) İnsan Kaynakları Yönetmeliği çerçevesinde kadro tespit çalışmalarında bulunmak.
 g) Genel sekreter ve yardımcılarını atamak.
 (5) Birlik, yönetim kurulu başkanı veya yetkilendireceği başkan yardımcısı tarafından temsil edilir.
-10468

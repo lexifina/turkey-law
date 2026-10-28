@@ -1,5 +1,7 @@
-Disiplin cezaları
-MADDE 11 – (1) Subay, astsubay, uzman jandarma ve uzman erbaşlar ile sözleşmeli erbaş ve erler hakkında verilebilecek disiplin cezaları ağırlık derecesine göre aşağıda belirtilmiştir:
+DÖRDÜNCÜ BÖLÜM
+Subay, Astsubay (…)[4] ve Uzman Erbaşlar ile Sözleşmeli Erbaş ve Erler Hakkında Uygulanacak Cezalar ve Cezalandırmayı Gerektiren Disiplinsizlikler(4)
+Disiplin cezaları(4)
+MADDE 11 – (1) Subay, astsubay (…)(4) ve uzman erbaşlar ile sözleşmeli erbaş ve erler hakkında verilebilecek disiplin cezaları ağırlık derecesine göre aşağıda belirtilmiştir:(4)
 a) Uyarma
 b) Kınama
 c) Hizmete kısmi süreli devam

@@ -5,7 +5,6 @@ MADDE 9- (1) Hayvan sahipleri veya bakımından sorumlu kişiler, hayvan refahı
 (2) Hayvanların kesimi ve hastalık kontrolü amacıyla itlafı, hayvanlarda heyecan, acı ve ıstırap oluşturmadan, uygun araçlar kullanılarak yerine getirilir.
 (3) Hayvanlara ötenazi yapmak yasaktır. Ancak,
 a) Hayvanlara acı ve ıstırap çektiren veya iyileşme durumu bulunmayan hastalık durumlarında,
-10569
 b) Akut bulaşıcı bir hayvan hastalığının önlenmesi ya da eradikasyonu amacıyla veya insan sağlığı için risk oluşturan durumlarda,
 c) Davranışları insan ve hayvanların hayatı ve sağlığı için tehlike teşkil eden ve olumsuz davranışları kontrol edilemeyen durumlarda,
 veteriner hekim tarafından ötenazi yapılmasına karar verilebilir. Ötenazi işlemi veteriner hekim tarafından veya veteriner hekim gözetiminde yapılır.

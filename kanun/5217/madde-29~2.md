@@ -1,1 +1,0 @@
-MADDE 29 — Bu Kanun gereğince bütçeye gelir kaydedilecek tutarların tahsiline ilişkin usul ve esaslarla, ilgili kurum bütçelerine konulacak ödeneklerin kullanımı ve muhasebeleştirilmesine ilişkin usul ve esasları gerektiğinde ilgili bakanlarla birlikte belirlemeye ve diğer her türlü işlemi yapmaya Maliye Bakanı yetkilidir.

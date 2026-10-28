@@ -15,4 +15,3 @@ i) Fon Kurulu tarafından atanması öngörülenler dışındaki Fon personelini
 j) Fon Başkanı adına imzaya yetkili personelin görev ve yetki alanını belirlemek.
 k) Fonun yönetim ve işleyişine ilişkin diğer görevleri yerine getirmek.
 Başkan, Fon Kuruluna ilişkin olmayan görev ve yetkilerinden bir bölümünü, sınırlarını açıkça belirlemek ve yazılı olmak kaydıyla, alt kademelere devredebilir.
-9585

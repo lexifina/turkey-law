@@ -12,5 +12,4 @@ zorunludur. Değişken sermayeli yatırım ortaklıklarına ilişkin hükümler 
 (3) Yatırım ortaklıklarının kuruluşuna ilişkin şartlar, yatırım ortaklığına dönüşümde de aranır.
 (4) Yatırım ortaklıkları, esas sözleşmelerinde hüküm bulunmak kaydıyla ve Kurulun onayını almak şartıyla bir portföy yönetim şirketinden hizmet alabilir.
 (5) Gayrimenkul yatırım ortaklıklarının kuruluşlarında ve sermaye artırımlarında, Kurulca portföye alınması uygun görülen varlıklar ayni sermaye olarak konulabilir. Bu varlıkların değerlemesine ilişkin usul ve esaslar Kurulca belirlenir. Gayrimenkul yatırım ortaklıkları ayni sermaye karşılığı ihraç edecekleri payları Kurulca belirlenen esaslar çerçevesinde halka arz edebilirler.
-11869
 (6) Gayrimenkul yatırım ortaklıklarının, azami oranı Kurulca belirlenecek miktarda varlıklarının toptan satışında 6102 sayılı Kanunun 408 inci maddesinin ikinci fıkrasının (f) bendi ile bu Kanunun 23 üncü maddesi hükümleri uygulanmaz.

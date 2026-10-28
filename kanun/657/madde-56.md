@@ -1,4 +1,4 @@
-Adaylık devresi içinde göreve son verme: (1)
-Madde 56 – (Değişik: 12/5/1982 - 2670/21 md.)
-Adaylık süresi içinde temel ve hazırlayıcı eğitim ve staj devrelerinin her birinde başarısız olanlarla adaylık süresi içinde hal ve hareketlerinde memuriyetle bağdaşmıyacak durumları, göreve devamsızlıkları tespit edilenlerin disiplin amirlerinin teklifi ve atamaya yetkili amirin onayı ile ilişkileri kesilir.
-İlişkileri kesilenler ilgili kurumlarca derhal Devlet Personel Başkanlığına bildirilir.
+Adaylık devresi içinde göreve son verme:
+Madde 56 – (Değişik: 23/1/2026 - 7573/1 md.)
+Adaylık süresi içinde; temel ve hazırlayıcı eğitim ve staj devrelerinin herhangi birinde başarısız olanlar, birden fazla uyarma ve/veya kınama cezası almış olanlar ile aylıktan kesme ya da kademe ilerlemesinin durdurulması cezası almış olanların disiplin amirlerinin teklifi ve atamaya yetkili amirin onayı ile ilişikleri kesilir. İlişikleri kesilenler ilgili kurumlarca derhal Kamu Personel Bilgi Sisteminin bulunduğu kuruma bildirilir.
+Bu madde hükümlerine göre ilişikleri kesilenler (sağlık nedenleri hariç) üç yıl süre ile Devlet memurluğuna alınmazlar.

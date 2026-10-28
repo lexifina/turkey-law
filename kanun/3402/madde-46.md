@@ -3,4 +3,3 @@ Madde 46 – Kadastrosu yapılacak veya daha önce tapulama veya kadastrosu tama
 Hazine adına tescil edilmiş taşınmaz mallardan iskan suretiyle veya toprak tevzii suretiyle verilen yerler (işlemleri tamamlanmamış olsa dahi) başka bir şart aranmaksızın, hak sahipleri adına tespit ve tescil olunur. Bu şekilde hak sahipleri adına tespit ve tescil işlemleri gerçekleşinceye kadarki süre içinde evvelce tahakkuk ettirilenler de dahil olmak üzere ecrimisil alınmaz.
 Bu Kanunun yürürlüğe girdiği tarihte, Hazinenin mülkiyetinden çıkmış bulunan veya amme hizmetine tahsis edilen taşınmaz mallar hakkında bu madde uygulanmaz.
 İlgililerin, daha önce kadastrosu yapılan yerlerde bu maddeye dayanan talep ve dava hakkı, bu Kanunun yürürlüğe girmesi tarihinden itibaren 2 yıl geçmekle düşer.
-6986

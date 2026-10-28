@@ -1,11 +1,9 @@
-Yönetim Kurulu
-MADDE 8- (1) Yönetim Kurulu, Kurumun yürütme organıdır. Yönetim Kurulu, bir asıl ve bir yedek üyesi Çalışma ve Sosyal Güvenlik Bakanlığı, bir asıl ve bir yedek üyesi Millî Eğitim Bakanlığı, bir asıl ve bir yedek üyesi Yükseköğretim Kurulu, bir asıl ve bir yedek üyesi kamu kurumu niteliğindeki meslek kuruluşları, bir asıl ve bir yedek üyesi işçi sendikaları konfederasyonları ve bir asıl ve bir yedek üyesi de işveren sendikaları konfederasyonları temsilcileri arasından toplam altı asıl ve altı yedek üye olmak üzere Genel Kurul tarafından seçilir.
-(2) Yönetim Kurulu üyelerinin görev süresi üç yıl olup görev süresi dolan üyeler yeniden seçilebilir. Yönetim Kurulu, üyeleri arasından salt çoğunlukla bir başkan ve bir başkan vekili seçer.
+MADDE 8- (1) (Mülga:2/7/2018-KHK-703/78 md.)
+(2) (Mülga:2/7/2018-KHK-703/78 md.)
 (3) Yönetim Kurulu üyesi seçilebilmek için, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) bendinin (1), (4), (6) ve (7) numaralı alt bentlerinde belirtilen şartları taşımak ve Kurumun faaliyet alanına giren konularda yeterli bilgiye ve en az on yıllık meslekî tecrübeye sahip olmak şarttır.
 (4) Yönetim Kurulu üyelerinin görev süreleri dolmadan herhangi bir nedenle görevlerine son verilemez. Ancak, kanunlarla kendilerine verilen görevleriyle ilgili olarak işlediği suçlardan dolayı haklarındaki mahkûmiyet kararı kesinleşenler ve altı aydan fazla süre ile hastalık, kaza veya başka bir nedenle görevini yapamaz durumda olan veya görev süresinin kalan kısmında görevine devam edemeyeceği, altı aylık süre beklenmeksizin tam teşekküllü bir hastaneden alınacak heyet raporu ile tevsik edilenlerin Yönetim Kurulu üyelikleri herhangi bir işleme gerek kalmadan sona erer.
-9951
-(5) Geçerli mazereti olmaksızın bir takvim yılında toplam üç toplantıya katılmayan veya bir toplantıya katıldığı ve karşı oy kullanmadığı halde Yönetim Kurulu kararlarını süresi içinde imzalamayan veya karşı oy gerekçesini süresi içinde yazmayan Yönetim Kurulu üyeleri, üyelikten çekilmiş sayılır. Bu durum Yönetim Kurulu kararı ile tespit edilir.
-(6) Yönetim Kurulu üyeliklerinde bir boşalma olması halinde boşalan üyeliğin yedek üyesi boşalan üyeliği doldurur ve yerine geldiği üyenin kalan görev süresini tamamlar.
-(7) Yönetim Kurulu, Başkanın belirleyeceği tarihlerde haftada en az bir kez, Başkanın çağrısı veya Yönetim Kurulu üyelerinin üçte birinin yazılı istemi üzerine ise her zaman toplanabilir. Başkanın bulunmadığı hallerde toplantılara başkan vekili başkanlık eder.
-(8) Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların salt çoğunluğu ile karar alır. Oyların eşit olması halinde Başkanın oyu yönünde karar verilmiş sayılır.
-(9) Yönetim Kurulu üyeleri, Yönetim Kurulunun ibrası hariç olmak üzere, Genel Kurul toplantılarında oy kullanabilirler.
+(5) (Mülga:2/7/2018-KHK-703/78 md.)
+(6) (Mülga:2/7/2018-KHK-703/78 md.)
+(7) (Mülga:2/7/2018-KHK-703/78 md.)
+(8) (Mülga:2/7/2018-KHK-703/78 md.)
+(9) (Mülga:2/7/2018-KHK-703/78 md.)

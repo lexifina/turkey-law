@@ -5,7 +5,6 @@ a) Konunun, varsa iddia ve savunmanın özeti,
 b) Kararın ve varsa karşı oyun gerekçesi,
 c) Karara karşı başvurulabilecek kanun yolları, mercileri ve süresi,
 gösterilir.
-10699
 (3) Kararların gerekçesi, karar tarihinden itibaren en geç onbeş gün içinde yazılır.
 (4) Kurul tarafından;
 a) Gerekli görülen kararlar Resmî Gazetede,

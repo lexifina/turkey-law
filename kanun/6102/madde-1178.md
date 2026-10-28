@@ -11,6 +11,5 @@ c) Boşaltma limanında geçerli kanun ve düzenlemeler uyarınca eşyanın kend
 kadar taşıyanın hâkimiyetinde sayılır.
 (4) Eşya, navlun sözleşmesinde belirlenen boşaltma limanında açıkça kararlaştırılmış olan süre veya açıkça kararlaştırılmış bir süre yoksa, olayın özelliklerine göre tedbirli bir taşıyandan eşyanın tesliminin makul olarak istenebileceği süre içinde teslim edilmediği takdirde teslimde gecikme olduğu varsayılır.
 (5) Eşyanın zayi olmasına dayanarak tazminat isteminde bulunabilecek kişi, dördüncü fıkra uyarınca teslim süresinin dolmasından itibaren aralıksız altmış gün içinde teslim olunmayan eşyayı zayi olmuş sayabilir.
-11228
 II- Sorumluluktan kurtulma hâlleri
 1. Taşıyana yüklenemeyecek sebep

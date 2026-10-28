@@ -1,4 +1,4 @@
-İntihara yönlendirme(1)
+İntihara yönlendirme[36]
 Madde 84- (1) Başkasını intihara azmettiren, teşvik eden, başkasının intihar kararını kuvvetlendiren ya da başkasının intiharına herhangi bir şekilde yardım eden kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.
 (2) İntiharın gerçekleşmesi durumunda, kişi dört yıldan on yıla kadar hapis cezası ile cezalandırılır.
 (3) Başkalarını intihara alenen teşvik eden kişi, üç yıldan sekiz yıla kadar hapis cezası ile cezalandırılır. (Mülga ikinci cümle: 29/6/2005 – 5377/10 md.)

@@ -1,12 +1,11 @@
 Süreli fesih
 Madde 17 - Belirsiz süreli iş sözleşmelerinin feshinden önce durumun diğer tarafa bildirilmesi gerekir.
-8429
 İş sözleşmeleri;
 a) İşi altı aydan az sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak iki hafta sonra,
 b) İşi altı aydan birbuçuk yıla kadar sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak dört hafta sonra,
 c) İşi birbuçuk yıldan üç yıla kadar sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak altı hafta sonra,
 d) İşi üç yıldan fazla sürmüş işçi için, bildirim yapılmasından başlayarak sekiz hafta sonra,
-Feshedilmiş sayılır.
+feshedilmiş sayılır.
 Bu süreler asgari olup sözleşmeler ile artırılabilir.
 Bildirim şartına uymayan taraf, bildirim süresine ilişkin ücret tutarında tazminat ödemek zorundadır.
 İşveren bildirim süresine ait ücreti peşin vermek suretiyle iş sözleşmesini feshedebilir.

@@ -1,2 +1,1 @@
-MADDE 45-15/10/2008 tarihli ve 5804 sayılı 2009 Yılında İstanbul Şehrinde Yapılacak Beşinci Dünya Su Forumunun Organizasyonu İle Katma Değer Vergisi Kanununa Bir Geçici Madde Eklenmesine Dair Kanunun 2 nci maddesinin birinci fıkrasının üçüncü cümlesi aşağıdaki şekilde değiştirilmiştir.
-“Forum Sekretaryasının tüzel kişiliği en geç 31/12/2011 tarihinde sona erer ve bu süre içinde tasfiye işlemleri tamamlanır.”
+MADDE 45- (15/10/2008 tarihli ve 5804 sayılı 2009 Yılında İstanbul Şehrinde Yapılacak Beşinci Dünya Su Forumunun Organizasyonu İle Katma Değer Vergisi Kanun ile ilgili olup yerine işlenmiştir.)

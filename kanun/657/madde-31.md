@@ -1,6 +1,3 @@
 Gizli bilgileri açıklama yasağı:
 Madde 31 – (Değişik: 12/5/1982 - 2670/11 md.)
 Devlet memurlarının kamu hizmetleri ile ilgili gizli bilgileri görevlerinden ayrılmış bile olsalar, yetkili bakanın yazılı izni olmadıkça açıklamaları yasaktır.
-__________
-(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
-4186

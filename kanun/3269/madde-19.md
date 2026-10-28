@@ -1,0 +1,3 @@
+Yönetmelik
+Madde 19 – (Değişik:12/6/2024-7517/36 md.) (Değişik:2/7/2026-7588/12 md.)
+Personelde aranacak nitelikler, müracaat şekli ve zamanı, müracaatın kabul edilmesi, sözleşmenin yapılması ve feshedilmesi sebepleri, verilecek sicilin şekil ve usulleri, görevde başarısız olma, intibak edememe ve kendilerinden istifade edilememe hallerinde yapılacak işlemler, sözleşmenin uzatılmasında uygulanan esaslar, uzman onbaşıların uzman çavuş olabilmeleri için gerekli şartlar, astsubay sınıfına geçirilecekler için uygulanan esaslar, astlık üstlük münasebetleri ile bu hususlardaki işlem şekli ve ilgili diğer hususlar Millî Savunma Bakanlığı ve İçişleri Bakanlığınca müştereken hazırlanan yönetmelikle düzenlenir.

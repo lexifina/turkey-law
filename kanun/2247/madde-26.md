@@ -1,2 +1,4 @@
-Madde 26 – Hukuk ve Ceza Bölümlerinde ve Genel Kurulda, üye tam sayısı hazır bulunmadıkça görüşmelere başlanamaz ve karar verilemez. Eksik üyenin yeri o üyenin geldiği yargı merciinin yedek üyesi ile, bu olmadığı takdirde başka bir yedek üye ile doldurulur. Mahkeme, her toplantı dönemi başında, yıllık çalışma planını yapar.
-Bölümlerde ve Genel Kurulda incelemeler dosya üzerinde yapılır ve bu kanunda belli edilenler dışında çoğunlukla karar verilir.
+Uyuşmazlık Mahkemesi Görüşmeleri ve Kararları
+Toplanma ve karar verme koşulları ve incelemelerin dosya üzerinde yapılması:[17][18]
+Madde 26 – Uyuşmazlık Mahkemesinde, üye tam sayısı hazır bulunmadıkça görüşmelere başlanamaz ve karar verilemez. Eksik üyenin yeri o üyenin geldiği yargı merciinin yedek üyesi ile, bu olmadığı takdirde başka bir yedek üye ile doldurulur. Mahkeme, her toplantı dönemi başında, yıllık çalışma planını yapar.
+Uyuşmazlık Mahkemesinde incelemeler dosya üzerinde yapılır ve bu kanunda belli edilenler dışında çoğunlukla karar verilir.

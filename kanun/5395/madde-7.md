@@ -1,5 +1,5 @@
 Koruyucu ve destekleyici tedbir kararı alınması
-MADDE 7 — (1) Çocuklar hakkında koruyucu ve destekleyici tedbir kararı; çocuğun anası, babası, vasisi, bakım ve gözetiminden sorumlu kimse, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu ve Cumhuriyet savcısının istemi üzerine veya re'sen çocuk hâkimi tarafından alınabilir.
+Madde 7- (1) Çocuklar hakkında koruyucu ve destekleyici tedbir kararı; çocuğun anası, babası, vasisi, bakım ve gözetiminden sorumlu kimse, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu ve Cumhuriyet savcısının istemi üzerine veya re'sen çocuk hâkimi tarafından alınabilir.
 (2) Tedbir kararı verilmeden önce çocuk hakkında sosyal inceleme yaptırılabilir.
 (3) Tedbirin türü kararda gösterilir. Bir veya birden fazla tedbire karar verilebilir.
 (4) Hâkim, hakkında koruyucu ve destekleyici tedbire karar verdiği çocuğun denetim altına alınmasına da karar verebilir.

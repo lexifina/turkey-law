@@ -4,4 +4,3 @@ Madde 13 – Uzman Jandarmalar hakkında her yıl yönetmelikte belirtilen esasl
 (Değişik üçüncü fıkra: 5/2/2009-5837/34 md.) Rütbe bekleme süresi içinde asgari iki yıllık sicili bulunan ve bu sicillerin ortalaması sicil tam notunun % 60 ve daha yukarısı olanlar, bir üst rütbeye terfi ettirilirler. Ancak, yükselme sırasına girmiş bulunan uzman jandarmalardan görev esnasında yaralanmaları nedeniyle uzun süreli tedaviye tabi tutulanların rütbe terfi işlemleri, sicil notu ortalamasına göre yapılır.
 Normal bekleme süresi sonunda bu rütbeye ait yıllık sicillerinin ortalaması sicil tam notunun % 60'dan aşağı olanlar o rütbede bir yıl daha bekletilirler. Müteakip yıl sonundaki yıllık sicil notları ortalaması sicil tam notunun % 60 ve yukarısı olanlar bir üst rütbeye terfi ettirilirler.
 En fazla bekleme süresi sonunda terfi edemeyenler ile bir rütbede en fazla iki defa kademe ilerlemesi yapamayan Uzman Jandarmaların yetersizlikten ilişkileri kesilir.
-7015

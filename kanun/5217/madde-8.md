@@ -1,1 +1,1 @@
-Madde 8. — Hazinece tedavüle çıkarılacak madenî paraların itibarî değerleri tedavüle çıktığı yılda bütçeye gelir kaydedilir. Tedavülden geri çekilecek paraların itibarî değerleri ile bu Kanun gereğince çıkarılacak paraların basılması için yapılacak harcamalar Hazine Müsteşarlığı bütçesine konulacak ödenekten karşılanır.
+Madde 8- (13.4.1994 tarihli ve 3984 sayılı Kanun ile ilgili olup yerine işlenmiştir.)

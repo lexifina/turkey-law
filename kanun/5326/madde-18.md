@@ -1,5 +1,5 @@
 Mülkiyetin kamuya geçirilmesi
-MADDE 18- (1) Kabahatin konusunu oluşturan veya işlenmesi suretiyle elde edilen eşyanın mülkiyetinin kamuya geçirilmesine, ancak kanunda açık hüküm bulunan hallerde karar verilebilir.
+Madde 18- (1) Kabahatin konusunu oluşturan veya işlenmesi suretiyle elde edilen eşyanın mülkiyetinin kamuya geçirilmesine, ancak kanunda açık hüküm bulunan hallerde karar verilebilir.
 (2) Mülkiyetin kamuya geçirilmesine ilişkin karar, eşyanın;
 a) Kullanılmaz hale getirilmesi,
 b) Niteliğinin değiştirilmesi,

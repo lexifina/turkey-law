@@ -2,9 +2,6 @@
 MADDE 2 – (1) Aydın ilinde, Aydın Belediyesinin mahalleleri merkez olmak üzere, Aydın Merkez ilçe sınırları içerisindeki köyler ile belediyelerden oluşan Efeler adıyla ilçe ve aynı adla belediye kurulmuştur.
 (2) Balıkesir ilinde, ekli (1) sayılı listede belirtilen Balıkesir Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köyler ve belediyelerden oluşan Karesi adıyla ilçe ve aynı adla belediye kurulmuştur.
 (3) Balıkesir ilinde, ekli (2) sayılı listede belirtilen Balıkesir Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köyler ve belediyeden oluşan Altıeylül adıyla ilçe ve aynı adla belediye kurulmuştur.
-––––––––––––––––
-(1) 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle, bu Kanunun başlığında yer alan “ON ÜÇ” ibaresi “ON DÖRT” olarak, “YİRMİ ALTI” ibaresi “YİRMİ YEDİ” olarak değiştirilmiş ve 1 inci maddesinin birinci fıkrasında yer alan “Muğla,” ibaresinden sonra gelmek üzere “Ordu,” ibaresi eklenmiştir.
-11742
 (4) Denizli ilinde, ekli (3) sayılı listede belirtilen Denizli Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köyler ve belediyelerden oluşan Merkezefendi ilçesi ve aynı adla belediye kurulmuştur.
 (5) Denizli ilinde, ekli (4) sayılı listede belirtilen köyler ve belediyeler ile aynı listede yer alan Denizli Belediyesinin mahalleleri Akköy ilçesi sınırlarına dâhil edilerek Akköy Belediyesine katılmıştır. Akköy ilçesinin merkezi aynı listede belirtilen Denizli Belediyesinin mahalleleri olarak, ilçenin ismi ise Pamukkale olarak değiştirilmiştir.
 (6) Hatay ilinde, ekli (5) sayılı listede belirtilen Antakya Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köyler ve belediyelerden oluşan Antakya ilçesi ve aynı adla belediye kurulmuştur.
@@ -19,14 +16,13 @@ MADDE 2 – (1) Aydın ilinde, Aydın Belediyesinin mahalleleri merkez olmak üz
 (15) Manisa ilinde, ekli (12) sayılı listede belirtilen Manisa Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köyler ve belediyelerden oluşan Yunusemre ilçesi ve aynı adla belediye kurulmuştur.
 (16) Manisa ilinde, ekli (13) sayılı listede yer alan köyler ve belediye Köprübaşı ilçesine bağlanmıştır.
 (17) Kahramanmaraş ilinde, ekli (14) sayılı listede belirtilen Kahramanmaraş Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köyler ve belediyeden oluşan Dulkadiroğlu ilçesi ve aynı adla belediye kurulmuştur.
-11743
 (18) Kahramanmaraş ilinde, ekli (15) sayılı listede belirtilen Kahramanmaraş Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köyler ve belediyelerden oluşan Onikişubat ilçesi ve aynı adla belediye kurulmuştur.
 (19) Kahramanmaraş ilinde, Pazarcık ilçesine bağlı Kelebişler, Bayramgazi ve Cennetpınarı köyleri Türkoğlu ilçesine bağlanmıştır.
 (20) Mardin ilinde, Kızıltepe ilçesine bağlı Gökçe Belediyesi Merkez ilçeye bağlanmıştır.
 (21) Mardin ilinde, Mardin Belediyesinin mahalleleri merkez olmak üzere Mardin Merkez ilçe sınırları içerisindeki köyler ile belediyelerden oluşan Artuklu ilçesi ve aynı adla belediye kurulmuştur.
 (22) Muğla ilinde, Muğla Belediyesinin mahalleleri merkez olmak üzere, Muğla Merkez ilçe sınırları içerisindeki köyler ile belediyelerden oluşan Menteşe ilçesi ve aynı adla belediye kurulmuştur.
 (23) Muğla ilinde, Kemer Belediyesi merkez olmak üzere, ekli (16) sayılı listede belirtilen köyler ve belediyelerden oluşan Seydikemer ilçesi ve aynı adla belediye kurulmuştur.
-(24) (Ek: 14/3/2013-6447/1 md.) Ordu ilinde, Ordu Belediyesinin mahalleleri merkez olmak üzere, Ordu Merkez ilçe sınırları içerisindeki köyler ile belediyelerden oluşan Altınordu ilçesi ve aynı adla belediye kurulmuştur. (1)
+(24) (Ek: 14/3/2013-6447/1 md.) Ordu ilinde, Ordu Belediyesinin mahalleleri merkez olmak üzere, Ordu Merkez ilçe sınırları içerisindeki köyler ile belediyelerden oluşan Altınordu ilçesi ve aynı adla belediye kurulmuştur.[2]
 (25) Tekirdağ ilinde, Tekirdağ Belediyesinin mahalleleri merkez olmak üzere, Tekirdağ Merkez ilçe sınırları içerisindeki köyler ile belediyelerden oluşan Süleymanpaşa ilçesi ve aynı adla belediye kurulmuştur.
 (26) Tekirdağ ilinde, Kapaklı Belediyesi merkez olmak üzere ekli (17) sayılı listede yer alan köyler ve belediyeden oluşan Kapaklı ilçesi ve aynı adla belediye kurulmuştur.
 (27) Tekirdağ ilinde, Marmaracık Belediyesi merkez olmak üzere ekli (18) sayılı listede belirtilen Çorlu Belediyesinin mahalleleri ile köyler ve belediyelerden oluşan Ergene ilçesi ve aynı adla belediye kurulmuştur.
@@ -36,9 +32,6 @@ MADDE 2 – (1) Aydın ilinde, Aydın Belediyesinin mahalleleri merkez olmak üz
 (31) Şanlıurfa ilinde, Karaköprü Belediyesi merkez olmak üzere ekli (21) sayılı listede belirtilen Şanlıurfa Belediyesinin mahallesi ile aynı listede yer alan köylerden oluşan Karaköprü ilçesi ve aynı adla belediye kurulmuştur.
 (32) Van ilinde, ekli (22) sayılı listede belirtilen Van Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köylerden oluşan Tuşba ilçesi ve aynı adla belediye kurulmuştur.
 (33) Van ilinde, ekli (23) sayılı listede belirtilen Van Belediyesinin mahalleleri merkez olmak üzere, aynı listede yer alan köyler ve belediyelerden oluşan İpekyolu ilçesi ve aynı adla belediye kurulmuştur.
-––––––––––––––––
-(1) 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle, 2 nci maddenin yirmiüçüncü fıkrasından sonra gelmek üzere bu fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
-11744
 (34) Van ilinde, ekli (24) sayılı listede belirtilen Van Merkez ilçeye bağlı köyler ile mahalleler Edremit ilçe sınırına dâhil edilerek Edremit Belediyesine katılmıştır.
 (35) Van ili Merkez ilçesinde, Şabaniye Mahallesinin, İpekyolu Bulvarından başlayan Şabaniye Caddesinin, Doğu ve Hacıbekir caddelerinin birleşme noktasına kadar olan kuzey kesimi, Cevdetpaşa Mahallesi ile birleştirilmiştir.
 (36) Van ili Merkez ilçesinde, Hacıbekir Mahallesinin Doğu Caddesinin girişinden Mezbaha Deresi Gülüstan Sokak bitiş noktasına kadar olan kısmı Şabaniye Mahallesi ile birleştirilmiştir.

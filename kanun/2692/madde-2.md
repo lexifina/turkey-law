@@ -1,8 +1,5 @@
 Kuruluş ve Bağlılık
-Madde 2 – Bu Kanunda belirtilen görev ve hizmetleri yapmak üzere silahlı bir güvenlik kuvveti olan Sahil Güvenlik Komutanlığı kurulmuştur.
-Bu Komutanlık, Türk Silahlı Kuvvetleri kadro ve kuruluşu içerisinde olup, barışta görev ve hizmet yönünden İçişleri Bakanlığına bağlıdır.
-Sahil Güvenlik Komutanlığı
-a) Olağanüstü durumlarda Genelkurmay Başkanının isteği üzerine, bir kısmı ya da tümü ile Deniz Kuvvetleri Komutanlığı harekat komutasına veya emrine,
-b) Savaş halinde tümü ile doğrudan doğruya Deniz Kuvvetleri Komutanlığı emrine,
-Girer.
-Bu hallerde Sahil Güvenlik Komutanlığına verilen görevlerin yerine getirilmesi sorumluluğu da bir kısmı ya da tümü ile Deniz Kuvvetleri Komutanlığına geçer.
+Madde 2 – (Değişik: 25/7/2016-KHK-668/23 md.; Değiştirilerek kabul: 8/11/2016-6755/23 md.)
+Bu Kanunda belirtilen görev ve hizmetleri yapmak üzere silahlı bir genel kolluk kuvveti olan Sahil Güvenlik Komutanlığı kurulmuştur.
+Bu Komutanlık İçişleri Bakanlığına bağlıdır.
+Seferberlik ve savaş hallerinde, Sahil Güvenlik Komutanlığının Cumhurbaşkanı kararıyla belirlenecek bölümleri Deniz Kuvvetleri Komutanlığı emrine girer, kalan bölümü normal görevlerine devam eder.2

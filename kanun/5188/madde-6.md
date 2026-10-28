@@ -1,4 +1,3 @@
 Ek önlemler
-Madde 6- Mülkî idare amirleri havalimanı, liman, gümrük, gar ve istasyon gibi yerler ile spor müsabakalarının, sahne gösterilerinin ve benzeri etkinliklerin yapıldığı yerlerdeki özel güvenlik tedbirlerini denetlemeye ve kamu güvenliğinin gerektirdiği hallerde ek önlemler aldırmaya yetkilidir.
+Madde 6- (Değişik birinci fıkra: 2/1/2017 - KHK-680/67 md.; Aynen kabul: 1/2/2018-7072/65 md.) Mülki idare amirleri; kamu güvenliğinin gerektirdiği hallerde özel güvenlik izni verilen yerlerde alınan özel güvenlik tedbirlerini denetlemeye ve yetersiz bulduğu takdirde ek önlemler aldırmaya yetkilidir.
 Kamu güvenliğinin sağlanması yönünden 5442 sayılı İl İdaresi Kanunu ile vali ve kaymakamlara verilen yetkiler saklıdır. Bu yetkilerin kullanılması durumunda özel güvenlik birimi ve özel güvenlik personeli mülkî idare amirinin ve genel kolluk amirinin emirlerini yerine getirmek zorundadır.
-8844-1

@@ -1,10 +1,2 @@
 Ana hizmet birimleri
-MADDE 50 – Genel Müdürlüğün ana hizmet birimleri şunlardır:
-7) Vakıf Hizmetleri Daire Başkanlığı.
-b) Hayır Hizmetleri Daire Başkanlığı.
-c) Sanat Eserleri ve Yapı İşleri Daire Başkanlığı.
-d) Yatırım ve Emlak Daire Başkanlığı.
-e) Sağlık Hizmetleri Daire Başkanlığı.
-f) Kültür ve Tescil Daire Başkanlığı.
-g) Dış İlişkiler Daire Başkanlığı.
-10251
+MADDE 50 – (Mülga: 2/7/2018/KHK/703/102 md.)

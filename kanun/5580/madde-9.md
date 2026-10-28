@@ -1,7 +1,6 @@
 Özlük hakları ve sorumluluklar
 MADDE 9 – Kurumlarda çalışan yönetici, öğretmen, uzman öğretici ve usta öğreticiler ile kurucu veya kurucu temsilcisi arasında yapılacak iş sözleşmesi, en az bir takvim yılı süreli olmak üzere yönetmelikle belirtilen esaslara göre yazılı olarak yapılır. Mazeretleri nedeniyle kurumdan ayrılan öğretmen ve öğreticilerin yerine alınacak olanlar ile devredilen kurumların yönetici, öğretmen ve öğreticileri ile bir yıldan daha az bir süre için de iş sözleşmesi yapılabilir.
 (Mülga ikinci fıkra: 1/3/2014-6528/14 md.)
-10020
 Sosyal yardım kapsamındaki ek ödemeler, bütçe kanunlarıyla resmî okul öğretmen ve personeline sağlanan haklara denk olarak okul öğretmenlerine ve personeline de ödenir. Sosyal yardım kapsamındaki ek ödemelerden gelir vergisi kesilmez.
 Kurumlardaki ek ders ücreti miktarı, resmî okullar için tespit edilen miktardan az olamaz. Ancak, 8 inci madde uyarınca resmî okul ve kurumlardan ücretli olarak görevlendirilenlere verilecek ek ders ücreti miktarı, resmî okullar için tespit edilen ek ders ücretinin iki katını geçemez.
 Kurumlarda görev yapan yönetici, öğretmen, uzman öğretici ve usta öğreticiler, bu Kanun hükümleri saklı kalmak üzere;

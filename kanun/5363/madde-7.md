@@ -1,5 +1,5 @@
 Havuzun kaynakları
-MADDE 7 —Havuzun gelirleri şunlardır:
+Madde 7- Havuzun gelirleri şunlardır:
 a) Sigorta şirketlerinin devrettiği primler.
 b) Devlet tarafından sağlanan prim desteği.
 c) Toplanan kaynakların yatırım gelirleri.

@@ -3,4 +3,3 @@ Madde 22- (1) Hükümlülere, kuruma alındıklarında uygulanacak iyileştirme 
 (2) Hükümlülerin ceza infaz kurumlarına alınmalarında, başka kuruma nakillerinde ve hastaneye yatırılmalarında, istekleri üzerine ailelerine veya gösterdikleri kişilere; hükümlü yabancı ise, yazılı olarak karşı çıkmaması hâlinde, uyruğu olduğu devletin diplomatik temsilcilik veya konsolosluğuna durum bildirilir.
 (3) Askerlik çağına giren, hâlen silâh altında bulunan kişilerin ceza infaz kurumlarına alınmalarında, başka kuruma nakillerinde veya kurumda iken askerlik çağına girmeleri veya salıverilmeleri hâlinde durum, kayıtlı bulundukları askerlik şubesine bildirilir.
 (4) Hükümlülerin ölümü hâlinde de yukarıdaki hükümler uygulanır ve ayrıca durum ailelerine derhâl bildirilir.
-9224

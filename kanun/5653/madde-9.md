@@ -1,3 +1,2 @@
 Yürütme
 MADDE 9 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-10100

@@ -11,5 +11,3 @@ karar verilir.
 (6) Birinci fıkra kapsamına giren suçlardan dolayı verilmiş mahkûmiyet hükmünün infazının tamamlanmış olması hâlinde bu mahkûmiyet hükmüne bağlı yasaklanmış hakların 25/5/2005 tarihli ve 5352 sayılı Adlî Sicil Kanununun 13/A maddesindeki şartlar aranmaksızın geri verilmesine karar verilir.
 (7) Bu madde hükümlerine göre verilen kamu davasının açılmasının, kovuşturmanın veya cezanın infazının ertelenmesi kararları adlî sicilde bunlara mahsus bir sisteme kaydedilir. Bu kayıtlar, ancak bir soruşturma veya kovuşturmayla bağlantılı olarak Cumhuriyet savcısı, hâkim veya mahkeme tarafından istenmesi hâlinde, bu maddede belirtilen amaç için kullanılabilir.
 (8) Bu madde hükümlerine göre kamu davasının açılmasının, kovuşturmanın veya cezanın infazının ertelenmesi kararlarının verildiği hâllerde, bu suçlar 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun erteleme ve tekerrüre ilişkin hükümlerinin uygulanmasında göz önünde bulundurulmaz.
-––––––––––––––––
-(1) Bu maddede yer alan kadrolarla ilgili olarak 5/7/2012 tarihli ve 28344 sayılı Resmi Gazete’ye bakınız.

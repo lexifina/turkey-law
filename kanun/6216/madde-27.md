@@ -5,7 +5,6 @@ MADDE 27- (1) Mahkemede, yargısal ve idari çalışmalara yardımcı olmak üze
 (4) Mülakat adayın;
 a) Bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü,
 b) Liyakati, temsil kabiliyeti, davranış ve tepkilerinin mesleğe uygunluğu,
-11470
 c) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
 ç) Genel yetenek ve genel kültürü,
 d) Bilimsel ve teknolojik gelişmelere açıklığı,

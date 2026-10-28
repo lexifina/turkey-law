@@ -14,4 +14,3 @@ h) 6 ncı maddenin ikinci fıkrasına aykırı hareket edenlere, yirmibin Türk 
 ı) 8 inci maddeye aykırı hareket edenlere, onbeşbin Türk Lirası idarî para cezası verilir. Aykırılık etiket bilgilerinden kaynaklanıyorsa, etiket bilgileri düzeltilinceye kadar ürüne el konulur ve yukarıdaki para cezası uygulanıp ürün piyasadan toplattırılır. Toplatma masrafları müteşebbisten tahsil edilir.
 j) 9 uncu maddenin birinci fıkrası ile 10 uncu maddeye aykırı hareket edenlere, otuzbin Türk Lirası idarî para cezası verilir.
 k) Bu Kanuna göre denetimleri engelleyen kişi ve kuruluşlara, onbin Türk Lirası idarî para cezası verilir.
-9090

@@ -18,6 +18,5 @@ e) Cezaları ertelenmiş, seçenek yaptırımlardan birisine çevrilmiş, genel 
 mahkum olmamak.
 f) Güvenlik soruşturması olumlu sonuçlanmış olmak.
 g) Yapılacak olan sınavlarda başarılı olmak.
-7967
-Türk Silahlı Kuvvetlerinde istihdam edilenler ile yedek subay olarak askerlik hizmetini yapanlar veya yapmakta olanların bu görevlerinde aldıkları sicilin, sicil tam notunun % 85 veya daha üstünde olması şarttır. Halen bu görevlerde bulunanlar ile askerlik hizmetini yapmakta iken müracaat edenlerin ayrıca, sıralı üstlerinden sözleşmeli subay olmaya layık olduklarına dair yönetmelikte belirtilen olumlu nitelik belgesi almaları zorunludur.
+Türk Silahlı Kuvvetlerinde istihdam edilenler ile yedek subay ve yedek astsubay olarak askerlik hizmetini yapanlar veya yapmakta olanların bu görevlerinde aldıkları sicilin, sicil tam notunun % 85 veya daha üstünde olması şarttır. Halen bu görevlerde bulunanlar ile askerlik hizmetini yapmakta iken müracaat edenlerin ayrıca, sıralı üstlerinden sözleşmeli subay olmaya layık olduklarına dair yönetmelikte belirtilen olumlu nitelik belgesi almaları zorunludur.[2]
 Askeri hakim sınıfına, sözleşmeli subay statüsünde personel alınmaz.

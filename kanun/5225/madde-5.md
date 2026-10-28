@@ -1,5 +1,5 @@
 Teşvik unsurları
-MADDE 5. — Bu Kanun kapsamındaki kültür yatırımı ve girişimleri için uygulanacak teşvik unsurları şunlardır:
+Madde 5- Bu Kanun kapsamındaki kültür yatırımı ve girişimleri için uygulanacak teşvik unsurları şunlardır:
 a) Taşınmaz mal tahsisi; Bakanlık, bu Kanun kapsamında kültür yatırımı ve girişimleri için taşınmaz mal tahsis etmeye yetkilidir. Bakanlıkça tahsisi uygun görülen taşınmaz mallardan;
 1. Hazine adına tescilli olanlar Bakanlığın talebi üzerine Maliye Bakanlığının uygun görüşü ile en geç üç ay içerisinde,
 2. Mülkiyeti 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun eki (II) sayılı cetvelde yer alan kamu idareleri ile mahalli idarelere ait olanlar, Bakanlığın talebi üzerine ilgili idarenin uygun görüşü ile en geç üç ay içinde bedelsiz olarak Hazine adına tapuya tescil edilerek,
@@ -19,4 +19,4 @@ Bu bendin uygulanması ile enerji giderlerinin iadesine ilişkin süreler, iaden
 e) Yabancı uzman personel ve sanatçı çalıştırabilme; belgeli yatırım veya girişimlerde, Bakanlık ve İçişleri Bakanlığının görüşü alınarak Çalışma ve Sosyal Güvenlik Bakanlığınca verilen izinle yabancı uzman personel ve sanatçı çalıştırılabilir.
 Ancak bu şekilde çalıştırılan yabancı personelin sayısı toplam personelin % 10’unu aşamaz. Bu oran Bakanlıkça % 20’ye kadar artırılabilir. Bu personel, en erken işletmenin faaliyete geçmesinin üç ay öncesinden itibaren çalışmaya başlayabilir.
 f) Hafta sonu ve resmi tatillerde faaliyette bulunabilme; belgeli girişimler ile belge kapsamındaki diğer birimler belgede belirlenen çalışma süresi içinde hafta sonu ve resmi tatillerde de faaliyetlerine devam edebilirler.
-Bu maddenin (b), (c ) ve (d) bentlerinin uygulanmasında yöresel gelişim farklılıkları, proje türleri ile faaliyetin yapıldığı yerin tescilli taşınmaz kültür varlığı olması dikkate alınarak, bu bentlerde belirtilen oranları yarısına kadar indirmeye veya kanunî oranlarına çıkarmaya Bakanlar Kurulu yetkilidir.
+Bu maddenin (b), (c ) ve (d) bentlerinin uygulanmasında yöresel gelişim farklılıkları, proje türleri ile faaliyetin yapıldığı yerin tescilli taşınmaz kültür varlığı olması dikkate alınarak, bu bentlerde belirtilen oranları yarısına kadar indirmeye veya kanunî oranlarına çıkarmaya Cumhurbaşkanı yetkilidir.[1]

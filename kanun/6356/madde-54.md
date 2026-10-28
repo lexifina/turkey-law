@@ -1,8 +1,8 @@
 ONUNCU BÖLÜM
 Yüksek Hakem Kurulunun Kuruluşu ve Çalışma Esasları
 Kuruluşu
-MADDE 54 – (1) Yüksek Hakem Kurulu, Yargıtayın bu Kanundan doğan uyuşmazlıklara bakmakla görevli dairelerinin başkanlarından en kıdemli olanının başkanlığında;
-a) Bakanlar Kurulunca, bakanlıklar bünyesi dışında, işçi veya işveren kuruluşları ile hiçbir şekilde bağlantısı bulunmayan ve siyasi parti organlarında görevli olmayan, ekonomi, işletme, sosyal politika veya iş hukuku konularında bilgi ve tecrübe sahibi olanlar arasından seçilecek bir üye,
+MADDE 54 – (1) Yüksek Hakem Kurulu, Yargıtayın bu Kanundan doğan uyuşmazlıklara bakmakla görevli dairelerinin başkanları arasından başkanlık süresi en fazla olanın başkanlığında;[8]
+a) Cumhurbaşkanınca, bakanlıklar bünyesi dışında, işçi veya işveren kuruluşları ile hiçbir şekilde bağlantısı bulunmayan ve siyasi parti organlarında görevli olmayan, ekonomi, işletme, sosyal politika veya iş hukuku konularında bilgi ve tecrübe sahibi olanlar arasından seçilecek bir üye,[9]
 b) Üniversitelerin iş ve sosyal güvenlik hukuku anabilim dalı öğretim üyeleri arasından Yükseköğretim Kurulunca seçilecek bir üye,
 c) Bakanlık Çalışma Genel Müdürü,
 ç) İşçi sendikaları konfederasyonlarından kendisine mensup işçi sayısı en yüksek olan konfederasyonca seçilecek iki üye,

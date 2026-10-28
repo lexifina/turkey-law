@@ -1,1 +1,0 @@
-MADDE 52 – 2577 sayılı Kanunun 4 üncü maddesinin (1) numaralı fıkrasında yer alan “bulunmayan yerlerde” ibaresinden sonra gelmek üzere “büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına bakılmaksızın” ibaresi eklenmiştir.

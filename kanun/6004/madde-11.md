@@ -1,10 +1,3 @@
-Mali hizmetler uzmanları ile merkez memurlarının yurtdışı teşkilatında görevlendirilmeleri
-MADDE 11- (1) Mali hizmetler uzmanları ile merkez memurlarından genel idare hizmetleri ve teknik hizmetler sınıfına mensup olanlar, askerlik hizmeti dahil merkez teşkilatındaki kesintisiz ve fiili hizmet süreleri her defasında yedi yıldan az olmamak şartıyla ve sicil ve disiplin ile ilgili hususlar dikkate alınmak üzere, en fazla iki kez yurtdışı sürekli görevlere atanabilir. Bunun için memurun;
-a) İlk kez yurtdışı sürekli göreve atanabilmek için, usul ve esasları yönetmelikle belirlenen yeterlik sınavını geçmesi ve Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında yeterlik sınavının yapıldığı tarih itibarıyla son iki yıl içerisinde en az (C) düzeyinde başarılı olması ve lisans diplomasına sahip bulunması,
-b) İkinci kez yurtdışı sürekli göreve atanabilmek için Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında son iki yıl içerisinde en az (B) düzeyinde başarılı olması ve yüksek lisans diplomasına sahip bulunması,
-c) Merkez teşkilatındaki görevleri sırasında ve varsa daha önceki yurtdışı görevinde sergilediği başarıya ilişkin olarak Bakanlık Komisyonu tarafından her bir yurtdışı sürekli görevlendirme öncesinde yapılan değerlendirmenin olumlu olması,
-gerekir.
-(2) Birinci fıkrada sayılan şartları taşımak, memurun yurtdışı sürekli görevlere atanmasında Bakanlık Komisyonunca her defasında kullanılacak takdir yetkisini ortadan kaldırmaz. Her yıl kaç memurun yurtdışına sürekli görevle atanacağı Bakanlık Komisyonunun teklifi ve Bakan onayı ile belirlenir. Gerek görülmesi halinde, ikinci kez yurtdışı sürekli göreve atanacakların belirlenmesinde de sınav yöntemine başvurulabilir.
-(3) Bu madde hükümleri çerçevesinde yapılan birinci yurtdışı sürekli görevlendirmenin süresi üç yıldan, ikinci sürekli görevlendirmenin süresi ise dört yıldan fazla olamaz.
-(4) Yurtdışı sürekli göreve atanan mali hizmetler uzmanları ataşe, merkez memurları ise ataşe yardımcısı unvanını taşır.
-10640
+Mali hizmetler uzmanları ile merkez memurlarının yurt dışı teşkilatında görevlendirilmeleri
+MADDE 11- (Başlığı ile birlikte yeniden düzenleme: 17/1/2019-7161/50 md.)
+(1) Dışişleri Bakanlığı mali hizmetler uzmanları ile merkez memurlarının yurt dışında sürekli görevlere atanabilmelerine ilişkin hususlar yönetmelikle düzenlenir.

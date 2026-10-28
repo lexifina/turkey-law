@@ -1,6 +1,5 @@
 IV - Kararlar:
 Madde 32 – Anagayrimenkul kat malikleri kurulu tarafından, sözleşme, yönetim planı ve kanun hükümleri uyarınca verilecek kararlara göre yönetilir.
-4143
 Bütün kat malikleriyle külli ve cüzi halefleri, yönetici ve denetçiler, kat malikleri kurulunun kararlarına uymakla yükümlüdürler.
 Anagayrimenkulün kullanılmasından veya yönetiminden dolayı kat malikleri arasında veya bunlarla yönetici ve denetçiler arasında veya denetçilerle yöneticiler arasında çıkan anlaşmazlıklar, kat malikleri kurulunca çözülür ve karara bağlanır.
 Kat malikleri kurulu kararları (1) den başlayıp sırayla giden sayfa numaraları taşıyan her sayfası noter mühüriyle tasdikli bir deftere yazılarak, toplantıda bulunan bütün kat maliklerince imzalanır; karara aykırı oy verenler bu aykırılığın sebebini belirterek imza koyarlar.

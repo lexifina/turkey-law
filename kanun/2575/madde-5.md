@@ -1,4 +1,4 @@
-Karar organları (3)
+Karar organları[4]
 Madde 5 – Danıştayın karar organları şunlardır:
 a) Daireler,
 b) Danıştay Genel Kurulu,

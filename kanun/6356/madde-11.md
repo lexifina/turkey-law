@@ -4,7 +4,6 @@ a) Organların seçimi
 b) Tüzük değişikliği
 c) Yapılacak ilk genel kurula sunulması ve geçmişe etkili olmaması kaydıyla ilgili makamlar veya mahkemelerce kanuna aykırı görülerek düzeltilmesi istenen konular hakkında yönetim kuruluna yetki verilmesi
 ç) Yönetim kurulu ve denetleme kurulu raporları ile yeminli mali müşavir raporlarının görüşülmesi
-11699
 d) Yönetim kurulu ve denetleme kurulunun ibrası
 e) Bütçenin kabulü
 f) Yönetim kurulu, denetleme kurulu ve disiplin kurulu üyelerine verilecek ücret, tazminat, ödenek ve yolluklar ile sosyal hakların belirlenmesi

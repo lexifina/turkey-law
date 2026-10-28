@@ -1,1 +1,1 @@
-MADDE 77 – 9/6/2004 tarihli ve 5187 sayılı Basın Kanununun 26 ncı maddesinin birinci fıkrasına “ceza davalarının” ibaresinden sonra gelmek üzere “bir muhakeme şartı olarak,” ibaresi eklenmiş, fıkrada yer alan “iki ay” ibaresi “dört ay”, “dört ay” ibaresi “altı ay” ve maddenin altıncı fıkrasında yer alan “iki ayı” ibaresi “dört ayı” şeklinde değiştirilmiştir.
+MADDE 77 – 78 - (9/6/2004 tarihli ve 5187 sayılı Basın Kanunu ile ilgili olup yerine işlenmiştir.)

@@ -1,12 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
 MİRASIN PAYLAŞILMASI
 BİRİNCİ AYIRIM
-PAYLAŞIMDAN ÖNCE MİRAS
-ORTAKLIĞI
+PAYLAŞIMDAN ÖNCE MİRAS ORTAKLIĞI
 A. Mirasın geçmesinin sonucu
 I. Miras ortaklığı
 Madde 640- Birden çok mirasçı bulunması hâlinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklık meydana gelir.
 Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.
-8149
 Mirasçılardan birinin istemi üzerine sulh mahkemesi, miras ortaklığına paylaşmaya kadar bir temsilci atayabilir.
 Mirasçılardan her biri, terekedeki hakların korunmasını isteyebilir. Sağlanan korumadan mirasçıların hepsi yararlanır.
 Bir mirasçı ödemeden aciz hâlinde ise, mirasın açılması üzerine diğer mirasçılar, haklarının korunması için gerekli önlemlerin gecikmeksizin alınmasını sulh mahkemesinden isteyebilirler.

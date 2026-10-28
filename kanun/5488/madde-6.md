@@ -7,7 +7,6 @@ c) Tarımsal işletmelerin altyapılarının geliştirilmesi.
 d) Tarımsal girdi ve ürün piyasalarının geliştirilmesi ve üretim-pazar entegrasyonunun sağlanması.
 e) Tarımsal üretimin tarım-sanayi entegrasyonunu sağlayacak şekilde yönlendirilmesi.
 f) Tarım sektörünün kredi ve finansman ihtiyacının karşılanmasına ilişkin düzenlemeler yapılması.
-9727
 g) Destekleme ve yönlendirme tedbirlerinin alınması.
 ğ) Doğal afetler ve hayvan hastalıklarına karşı risk yönetimi mekanizmalarının geliştirilmesi.
 h) Kırsal hayatın sosyo-ekonomik açıdan geliştirilmesi.

@@ -5,4 +5,3 @@ GEÇİCİ MADDE 7 – (1) Bu Kanunun yayımı tarihinde görev yapmakta olan Kur
 (4) Bu maddenin yürürlüğe girdiği tarih itibarıyla bu Kanunla mülga 2499 sayılı Kanun ve ilgili mevzuat hükümlerine göre Kurulda sözleşmeli olarak istihdam edilmekte olan personelin mali ve sosyal hakları ile istihdamına ilişkin diğer hususlar hakkında bu Kanunun yayımı tarihinden önce yürürlükte bulunan mevzuat hükümlerinin uygulanmasına devam olunur.
 (5) Kurul merkezinin İstanbul’a taşınmasına ilişkin iş ve işlemler tamamlanıncaya kadar Kurulun merkezi Ankara’dır.
 (6) 121 inci maddenin dördüncü ve altıncı fıkra hükümleri bu maddenin yayımı tarihinden önce Kuruldan ayrılmış olan Kurul Başkan ve üyeleri ile Kurul meslek personeli hakkında uygulanmaz.
-11923

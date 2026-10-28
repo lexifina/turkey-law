@@ -1,5 +1,5 @@
 Yasaklanmış hakların geri verilmesi
-MADDE 13/A – (Ek: 6/12/2006-5560/38 md.)
+Madde 13/A – (Ek: 6/12/2006-5560/38 md.)
 (1) 5237 sayılı Türk Ceza Kanunu dışındaki kanunların belli bir suçtan dolayı veya belli bir cezaya mahkûmiyete bağladığı hak yoksunluklarının giderilebilmesi için, yasaklanmış hakların geri verilmesi yoluna gidilebilir. Bunun için; Türk Ceza Kanununun 53 üncü maddesinin beşinci ve altıncı fıkraları saklı kalmak kaydıyla,
 a) Mahkûm olunan cezanın infazının tamamlandığı tarihten itibaren üç yıllık bir sürenin geçmiş olması,
 b) Kişinin bu süre zarfında yeni bir suç işlememiş olması ve hayatını iyi halli olarak sürdürdüğü hususunda mahkemede bir kanaat oluşması,

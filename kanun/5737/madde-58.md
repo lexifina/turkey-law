@@ -1,6 +1,2 @@
 Danışma ve denetim birimleri
-MADDE 58 – Genel Müdürlüğün danışma ve denetim birimleri şunlardır:
-7) Hukuk Müşavirliği.
-b) Rehberlik ve Teftiş Başkanlığı.
-c) Strateji Geliştirme Daire Başkanlığı.
-d) Basın ve Halkla İlişkiler Müşavirliği.
+MADDE 58 – (Mülga: 2/7/2018/KHK/703/102 md.)

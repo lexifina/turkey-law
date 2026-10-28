@@ -1,2 +1,1 @@
-Geçici Madde 6 – (Ek: 19/6/2010-6000/40 md.)
-Bu Kanunla kadro ve görev unvanları kaldırılan daire başkanları, yürüttükleri görev dikkate alınmak kaydıyla bu Kanunla ihdas edilen daire başkanlıklarına atanır.
+Geçici Madde 6 – (Ek: 19/6/2010-6000/40 md.; Mülga : 2/7/2018-KHK-703/81 md.)

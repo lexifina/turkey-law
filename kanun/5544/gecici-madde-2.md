@@ -1,1 +1,1 @@
-GEÇİCİ MADDE 2- (1) Bu Kanunun yürürlüğe girmesinden önce 3308 sayılı Mesleki Eğitim Kanunu gereğince edinilmiş belgeler, sahiplerinin üç yıl içinde müracaatları halinde bu Kanun kapsamında belirlenecek denk belge ve sertifikalar ile değiştirilir.
+GEÇİCİ MADDE 2- (Mülga: 2/7/2018-KHK-703/78 md.)

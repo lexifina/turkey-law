@@ -10,5 +10,4 @@ MADDE 9 – (1) Posta hizmeti verilebilmesi veya bunun için gerekli altyapını
 (7) Yetki belgesi, hizmet sağlayıcısının faaliyetlerinin mevzuata aykırı olması durumunda Kurum tarafından belirlenen usul ve esaslara göre iptal edilebilir.
 (8) Kurum, millî güvenlik, kamu düzeni ve genel sağlık gereklerinden kaynaklanan sebeplerin tespiti hâlinde, şirketlerin posta sektöründe faaliyete geçmelerini veya posta hizmeti sağlamalarını engelleyebilir.
 (9) Posta sektöründe hizmetin belirlenen ilke ve kurallar dâhilinde verilememesinden kaynaklanan zarar ve hasarın kimin tarafından ve ne şekilde karşılanacağı hususu yetki belgesinde ve görev sözleşmesinde belirtilir.
-12079
 (10) Hizmet sağlayıcılarınca bu Kanun kapsamında Kurumdan alınan yetki belgesi, 26/9/2011 tarihli ve 655 sayılı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanunu, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanunu ile 6102 sayılı Kanun ve ilgili diğer mevzuat kapsamında alınması gereken yetki belgelerinin alınması zorunluluğunu ortadan kaldırmaz.

@@ -1,6 +1,6 @@
 Fakülte Yönetim Kurulu:
 Madde 18 –
-a. Kuruluş ve işleyişi: Fakülte yönetim kurulu, dekanın başkanlığında fakülte kurulunun üç yıl için seçeceği üç profesör, iki doçent ve bir yardımcı doçentten oluşur.
+a. Kuruluş ve işleyişi: Fakülte yönetim kurulu, dekanın başkanlığında fakülte kurulunun üç yıl için seçeceği üç profesör, iki doçent ve bir doktor öğretim üyesinden oluşur.[18]
 Fakülte yönetim kurulu dekanın çağırısı üzerine toplanır.
 Yönetim kurulu gerekli gördüğü hallerde geçici çalışma grupları, eğitim - öğretim koordinatörlükleri kurabilir ve bunların görevlerini düzenler.
 b. Görevleri: Fakülte yönetim kurulu, idari faaliyetlerde dekana yardımcı bir organ olup aşağıdaki görevleri yapar:

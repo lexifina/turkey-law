@@ -1,2 +1,1 @@
-MADDE 16 – 4/6/1985 tarihli ve 3213 sayılı Maden Kanununa aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 20 – 2840 sayılı Kanuna ekli listedeki linyit ruhsatları ile daha sonra bu sahalarla birleştirilmek suretiyle 2840 sayılı Kanun kapsamına dahil olan linyit sahaları, 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanuna göre Özelleştirme İdaresi Başkanlığı tarafından özelleştirilir.”
+MADDE 16 – (4/6/1985 tarihli ve 3213 sayılı Maden Kanunu ile ilgili olup yerine işlenmiştir.)

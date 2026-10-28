@@ -1,6 +1,6 @@
 Görevleri
 Madde 7 – İl Mesleki Eğitim Kurulunun görevleri şunlardır:
-a) Muhtelif sektör ve branşdaki çıraklık ve mesleki eğitim ihtiyacını il seviyesinde tespit etmek ve Bakanlığa sunmak.
+a) Muhtelif sektör ve branştaki çıraklık ve mesleki eğitim ihtiyacını il seviyesinde tespit etmek ve Bakanlığa sunmak.
 b) Bakanlıkça gönderilen çıraklık ve mesleki eğitim çerçeve programlarının il ihtiyaçlarına göre düzenlenmesi için Bakanlığa görüş bildirmek.
 c) Çıraklık ve mesleki eğitim uygulamalarında ortaya çıkan uyuşmazlıkların çözümüne yardımcı olmak.
 d) Bu Kanun hükümlerinin il seviyesinde eksiksiz yerine getirilmesi için gerekli tedbirleri almak.

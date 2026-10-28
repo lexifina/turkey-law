@@ -2,9 +2,6 @@ C) İzin verme, tescil ve ilan:
 Madde 3 – Ana sözleşme, Ticaret Bakanlığına verilir. Bakanlığın kuruluşa izin vermesi halinde, kooperatif merkezinin bulunduğu yer ticaret siciline tescil ve ilan olunur. Tescil ve ilan olunacak hususlar şunlardır:
 1. Ana sözleşme tarihi,
 2. Kooperatifin amacı, konusu ve varsa süresi,
-——————————
-(1) 13/12/1983 tarih ve 183 sayılı Kanun Hükmünde Kararnamenin 50 nci maddesi hükmü gereğince anılan maddede sayılan kooperatiflerle ilgili olarak Ticaret Bakanlığına ve Bakanına verilmiş olan görev ve yetkiler Tarım Orman ve Köyişleri Bakanlığına ve Bakanına devrolunmuştur.
-4572
 3. Kooperatifin unvanı ve merkezi,
 4. Kooperatifin sermayesi ve bunun nakdi kısmına karşılık olarak ödenen en az miktar ve her ortaklık payının değeri,
 5. Ortaklık payı belgelerinin ada yazılı olduğu,

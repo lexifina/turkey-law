@@ -1,9 +1,9 @@
-Enerji Piyasası Düzenleme Kurumu, Enerji Piyasası Düzenleme Kurulu
-ve Çeşitli Hükümler (1)
+Enerji Piyasası Düzenleme Kurumu, Enerji Piyasası
+Düzenleme Kurulu ve Çeşitli Hükümler[4]
 BİRİNCİ BÖLÜM
-Enerji Piyasası Düzenleme Kurumu ile Enerji Piyasası Düzenleme Kurulunun
-Görevleri ve Yetkileri (1)
-Enerji Piyasası Düzenleme Kurumu (2)
+Enerji Piyasası Düzenleme Kurumu ile Enerji Piyasası
+Düzenleme Kurulunun Görevleri ve Yetkileri4
+Enerji Piyasası Düzenleme Kurumu[5]
 Madde 4 – Kamu tüzel kişiliğini haiz, idari ve mali özerkliğe sahip ve bu Kanun ile kendisine verilen görevleri yerine getirmek üzere Enerji Piyasası Düzenleme Kurumu kurulmuştur.
 Kurum, tüzel kişilerin yetkili oldukları faaliyetleri ve bu faaliyetlerden kaynaklanan hak ve yükümlülüklerini tanımlayan Kurul onaylı lisansların verilmesinden, işletme hakkı devri kapsamındaki mevcut sözleşmelerin bu Kanun hükümlerine göre düzenlenmesinden, piyasa performansının izlenmesinden, performans standartlarının ve dağıtım ve müşteri hizmetleri yönetmeliklerinin oluşturulmasından, tadilinden ve uygulattırılmasından, denetlenmesinden, bu Kanunda yer alan fiyatlandırma esaslarını tespit etmekten, piyasa ihtiyaçlarını dikkate alarak serbest olmayan tüketicilere yapılan elektrik satışında uygulanacak fiyatlandırma esaslarını tespit etmekten ve bu fiyatlarda enflasyon nedeniyle ihtiyaç duyulacak ayarlamalara ilişkin formülleri uygulamaktan ve bunların denetlenmesinden ve piyasada bu Kanuna uygun şekilde davranılmasını sağlamaktan sorumludur.
 Kurum, Kurul kararıyla bu Kanun hükümleri uyarınca çıkaracağı yönetmelikleri, piyasada faaliyet gösteren tüzel kişilerin ve ilgili kurum ve kuruluşların görüşlerini alarak hazırlar.

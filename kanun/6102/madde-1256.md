@@ -7,7 +7,6 @@ MADDE 1256- (1) Taşıyan, yolcunun gemi kazası yüzünden ölmesi veya yaralan
 (5) Bu maddenin uygulanmasında;
 a) “Gemi kazası”, geminin enkaz hâline gelmesini, alabora olmasını, karaya oturmasını, çatmayı, gemideki infilâkı, yangını ve arızayı ifade eder;
 b) “Taşıyanın kusuru”, taşıyanın adamlarının görevlerini yerine getirdikleri sırada işledikleri kusuru da kapsar;
-11247
 c) “Gemideki arıza”, yolcuların gemiyi terkinde, tahliyesinde, gemiye binmeleri ve inmelerinde; geminin yürütülmesinde, dümen tutulmasında, güvenli seyrüseferinde, yanaşmasında, demirlemesinde, rıhtıma ve demirleme yerine varmasında veya buradan ayrılmasında; gemiye su yürümesi hâlinde, zararın kontrolünde; can kurtarma araçlarının suya indirilmesinde kullanılan gemi kısımlarının veya teçhizatının hiç veya gereği gibi çalışmaması ya da denizde güvenlik kurallarına uygun olmaması anlamına gelir;
 d) “Zarar”, cezalandırıcı veya caydırıcı nitelikteki tazminatı kapsamaz.
 (6) Bu Bölümün uygulanmasında, “bagajın zıyaı veya hasarı”, gemide taşınmış veya taşınmış olması gereken bagajın, iş hukuku uyuşmazlıklarından kaynaklanan gecikmeler hariç, geminin varmasından itibaren uygun bir süre içinde yolcuya geri verilmemesinden doğan malvarlığı zararını da içerir.

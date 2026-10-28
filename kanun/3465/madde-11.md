@@ -1,2 +1,2 @@
 Yönetmelik
-Madde 11 – Bu Kanunun uygulanması ile ilgili hususlar, Bakanlıkça hazırlanıp Bakanlar Kurulu kararı ile yürürlüğe konulacak yönetmelikte düzenlenir.
+Madde 11 – Bu Kanunun uygulanması ile ilgili hususlar, Cumhurbaşkanınca yürürlüğe konulacak yönetmelikte düzenlenir.[4]

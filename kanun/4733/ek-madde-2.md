@@ -1,2 +1,1 @@
-Ek Madde 2 – (Ek: 3/4/2008-5752/4 md.)
-İlgili mevzuatta Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumuna yapılmış olan atıflar Tütün ve Alkol Piyasası Düzenleme Kurumuna; Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kuruluna yapılmış olan atıflar Tütün ve Alkol Piyasası Düzenleme Kuruluna yapılmış sayılır.
+Ek Madde 2- (Ek: 3/4/2008-5752/4 md.; Mülga: 20/11/2017-KHK-696/82 md.; Aynen kabul: 1/2/2018-7079/77 md.)

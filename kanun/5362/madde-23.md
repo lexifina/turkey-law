@@ -7,4 +7,3 @@ d) Birlik kayıt ücreti ve katılma paylarının üye odalardan zamanında tahs
 e) Birliğe bağlı odaların hesap ve işlemlerini Bakanlığın isteği üzerine incelemek.
 f) Genel kurulu olağanüstü toplantıya çağırmak.
 Denetim kurulu üyeleri, yukarıda sayılan görev ve yetkilerinden (d) ve (f) bentlerinde belirtilenleri salt çoğunlukla yerine getirirler.
-9417

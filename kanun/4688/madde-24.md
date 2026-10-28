@@ -1,6 +1,5 @@
 BEŞİNCİ KISIM
-Sendika ve Konfederasyonların
-Gelirleri, Giderleri ve Denetimi
+Sendika ve Konfederasyonların Gelirleri, Giderleri ve Denetimi
 BİRİNCİ BÖLÜM
 Gelir ve Giderler
 Gelirler
@@ -9,9 +8,6 @@ a) Üyelerinin ödeyecekleri üyelik ödentilerinden,
 b) Bu Kanuna göre yapabilecekleri faaliyetlerden elde edilecek gelirlerden,
 c) Bağış ve yardımlardan,
 d) Mal varlığından elde edilen gelirlerden,
-Oluşur.
-––––––––––––––––
-(1) Bu madde başlığı “İşyeri sendika temsilcileri” iken, 4/4/2012 tarihli ve 6289 sayılı Kanunun 16 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
-8008
-Sendika ve konfederasyonlar, kendilerinin veya Türkiye Cumhuriyeti Devletinin üyesi bulunduğu uluslararası kuruluşlar hariç, dış kaynaklardan Bakanlar Kurulunun izni olmadıkça yardım ve bağış kabul edemezler.
+oluşur.
+(İptal ikinci fıkra: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.)
 Sendika ve konfederasyonlar tüm nakdî gelirlerini bankalara yatırmak zorundadırlar. Zorunlu giderler için kasalarında tutacakları azamî nakit mevcudu tüzüklerinde gösterilir.

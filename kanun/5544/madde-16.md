@@ -1,5 +1,2 @@
-İdarî ve Malî İşler Dairesi Başkanlığı
-MADDE 16- (1) İdarî ve Malî İşler Dairesi Başkanlığının görevleri şunlardır:
-a) Kurumun danışma, personel, bilgi işlem, muhasebe, dokümantasyon ve benzeri faaliyetlerini yürütmek.
-b) Başkan tarafından verilen görevler ile mevzuatta öngörülen benzeri görevleri yapmak.
-(2) Daire başkanlıkları Başkana bağlı olarak çalışır.
+İnsan Kaynakları ve Destek Hizmetleri Dairesi Başkanlığı[3]
+MADDE 16- (Mülga: 2/7/2018-KHK-703/78 md.)

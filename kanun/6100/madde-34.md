@@ -9,6 +9,5 @@ b) Aralarında evlilik bağı kalksa bile eşinin davasında.
 c) Kendisi veya eşinin altsoy veya üstsoyunun davasında.
 ç) Kendisi ile arasında evlatlık bağı bulunanın davasında.
 d) Üçüncü derece de dâhil olmak üzere kan veya kendisini oluşturan evlilik bağı kalksa dahi kayın hısımlığı bulunanların davasında.
-10879
 e) Nişanlısının davasında.
 f) İki taraftan birinin vekili, vasisi, kayyımı veya yasal danışmanı sıfatıyla hareket ettiği davada.

@@ -1,2 +1,2 @@
 Bilimsel denetleme kurulu
-MADDE 11 - Astsubay meslek yüksek okullarının öğretim faaliyetlerinin bilimsel yönden denetlenmesini sağlamak üzere ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından bilimsel denetleme kurulu oluşturulur.
+Madde 11 – (Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)

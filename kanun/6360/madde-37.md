@@ -1,7 +1,6 @@
 Yürütme
 MADDE 37 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-11761
-1) SAYILI LİSTE
+(1) SAYILI LİSTE
 BALIKESİR İLİ KARESİ İLÇESİNE BAĞLANAN MAHALLELER
 Balıkesir Belediyesine bağlı; |  | 
 1 | Kuvayi Milliye |  | 
@@ -31,7 +30,6 @@ Balıkesir Belediyesine bağlı; |  |
 25 | Mirzabey |  | 
 26 | Kızpınar |  | 
 27 | Adnan Menderes |  | 
-11762
 BALIKESİR İLİ KARESİ İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
 S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 1 | Şamlı Belediyesi | Merkez | Şamlı
@@ -76,7 +74,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 40 | Naipli | Merkez | Merkez
 41 | Bakacak | Merkez | Merkez
 42 | Yeniköy | Merkez | Yeniköy
-11763
 (2) SAYILI LİSTE
 BALIKESİR İLİ ALTIEYLÜL İLÇESİNE BAĞLANAN MAHALLELER
 Balıkesir Belediyesine bağlı;
@@ -115,7 +112,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 18 | Kürse | Merkez | Yeniköy
 19 | Gökçeören | Merkez | Yeniköy
 20 | Köseler | Merkez | Merkez
-11764
 21 | Ayşebacı | Merkez | Merkez
 22 | Küçük Bostancı | Merkez | Merkez
 23 | Büyük Bostancı | Merkez | Merkez
@@ -158,7 +154,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 60 | Akçaköy | Merkez | Merkez
 61 | Yeşiller | Merkez | Konakpınar
 62 | Ayvacık | Merkez | Konakpınar
-11765
 63 | Çakıllık | Merkez | Konakpınar
 64 | Dedeburnu | Merkez | Konakpınar
 65 | Kozderegüvem | Merkez | Konakpınar
@@ -200,7 +195,6 @@ Denizli Belediyesine bağlı;
 17 | Göveçlik
 18 | Gültepe
 19 | Gümüşçay
-11766
 20 | Hacıeyüplü
 21 | Hallaçlar
 22 | Hisar
@@ -226,16 +220,15 @@ Denizli Belediyesine bağlı;
 42 | Zafer
 DENİZLİ İLİ MERKEZEFENDİ İLÇESİNE BAĞLANAN
 BELEDİYELER VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Aşağışamlı Belediyesi | Merkez | Merkez | 
-2 | Başkarcı Belediyesi | Merkez | Merkez | 
-3 | Altındere | Merkez | Merkez | 
-4 | Çeltikçi | Merkez | Merkez | 
-5 | Kumkısık | Merkez | Merkez | 
-6 | Salihağa | Merkez | Merkez | 
-7 | Üzerlik | Merkez | Merkez | 
-8 | Yeşilyayla | Merkez | Merkez | 
-11767
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Aşağışamlı Belediyesi | Merkez | Merkez
+2 | Başkarcı Belediyesi | Merkez | Merkez
+3 | Altındere | Merkez | Merkez
+4 | Çeltikçi | Merkez | Merkez
+5 | Kumkısık | Merkez | Merkez
+6 | Salihağa | Merkez | Merkez
+7 | Üzerlik | Merkez | Merkez
+8 | Yeşilyayla | Merkez | Merkez
 (4) SAYILI LİSTE
 DENİZLİ İLİ AKKÖY (PAMUKKALE) İLÇESİNE BAĞLANAN MAHALLELER
 Denizli Belediyesine bağlı;
@@ -276,27 +269,26 @@ Denizli Belediyesine bağlı;
 35 | Yunus Emre
 36 | Zeytinköy
 37 | Zümrüt
-11768
 DENİZLİ İLİ AKKÖY (PAMUKKALE) İLÇESİNE BAĞLANAN
 BELEDİYELER VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Irlıganlı Belediyesi | Merkez | Merkez | 
-2 | Gözler Belediyesi | Merkez | Merkez | 
-3 | Karahayıt Belediyesi | Merkez | Merkez | 
-4 | Pamukkale Belediyesi | Merkez | Merkez | 
-5 | Pınarkent Belediyesi | Merkez | Merkez | 
-6 | Uzunpınar Belediyesi | Merkez | Merkez | 
-7 | Akdere | Merkez | Merkez | 
-8 | Develi | Merkez | Merkez | 
-9 | Eldenizli | Merkez | Merkez | 
-10 | Eymir | Merkez | Merkez | 
-11 | Güzelpınar | Merkez | Merkez | 
-12 | Haytabey | Merkez | Merkez | 
-13 | Karataş | Merkez | Merkez | 
-14 | Kocadere | Merkez | Merkez | 
-15 | Kurtluca | Merkez | Merkez | 
-16 | Küçükdere | Merkez | Merkez | 
-17 | Yeniköy | Merkez | Merkez | 
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Irlıganlı Belediyesi | Merkez | Merkez
+2 | Gözler Belediyesi | Merkez | Merkez
+3 | Karahayıt Belediyesi | Merkez | Merkez
+4 | Pamukkale Belediyesi | Merkez | Merkez
+5 | Pınarkent Belediyesi | Merkez | Merkez
+6 | Uzunpınar Belediyesi | Merkez | Merkez
+7 | Akdere | Merkez | Merkez
+8 | Develi | Merkez | Merkez
+9 | Eldenizli | Merkez | Merkez
+10 | Eymir | Merkez | Merkez
+11 | Güzelpınar | Merkez | Merkez
+12 | Haytabey | Merkez | Merkez
+13 | Karataş | Merkez | Merkez
+14 | Kocadere | Merkez | Merkez
+15 | Kurtluca | Merkez | Merkez
+16 | Küçükdere | Merkez | Merkez
+17 | Yeniköy | Merkez | Merkez
 (5) SAYILI LİSTE
 HATAY İLİ ANTAKYA İLÇESİNE BAĞLANAN MAHALLELER
 Antakya Belediyesine bağlı;
@@ -314,10 +306,10 @@ Antakya Belediyesine bağlı;
 12 | Dutdibi
 13 | Emek
 14 | Esenlik
-11769
 15 | Esentepe
 16 | Fevzi Çakmak
-17 18 | Gazi Gazipaşa
+17 | Gazi
+18 | Gazipaşa
 19 | Güllübahçe
 20 | Hacı Ömer Alpagot
 21 | Haraparası
@@ -341,7 +333,6 @@ Antakya Belediyesine bağlı;
 39 | Ürgenpaşa
 40 | Yenicamii
 41 | Zenginler
-11770
 HATAY İLİ ANTAKYA İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
 S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 1 | Ekinci Belediyesi | Merkez | Hıdırbey
@@ -383,7 +374,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 37 | Gülderen | Merkez | Serinyol
 38 | Maraşboğazı | Merkez | Serinyol
 39 | Oğlakören | Merkez | Serinyol
-11771
 40 | Paşaköy | Merkez | Serinyol
 41 | Tahtaköprü | Merkez | Serinyol
 42 | Uzunalıç | Merkez | Serinyol
@@ -422,7 +412,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 12 | Balıklıdere | Merkez | Harbiye
 13 | Bostancık | Merkez | Harbiye
 14 | Çardaklı | Merkez | Harbiye
-11772
 15 | Değirmenyolu | Merkez | Harbiye
 16 | Döver | Merkez | Harbiye
 17 | Samankaya | Merkez | Harbiye
@@ -444,52 +433,50 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 33 | Karşıyaka | Merkez | Şenköy
 (7) SAYILI LİSTE
 HATAY İLİ YAYLADAĞI İLÇESİNE BAĞLANAN BELEDİYE VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Şenköy Belediyesi | Merkez | Şenköy | 
-2 | Bozlu | Merkez | Şenköy | 
-3 | Çatbaşı | Merkez | Şenköy | 
-4 | Çayır | Merkez | Şenköy | 
-5 | Dağdüzü | Merkez | Şenköy | 
-6 | Yukarıokçular | Merkez | Şenköy | 
-7 | Turfanda | Merkez | Şenköy | 
-8 | Yoncakaya | Merkez | Şenköy | 
-11773
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Şenköy Belediyesi | Merkez | Şenköy
+2 | Bozlu | Merkez | Şenköy
+3 | Çatbaşı | Merkez | Şenköy
+4 | Çayır | Merkez | Şenköy
+5 | Dağdüzü | Merkez | Şenköy
+6 | Yukarıokçular | Merkez | Şenköy
+7 | Turfanda | Merkez | Şenköy
+8 | Yoncakaya | Merkez | Şenköy
 (8) SAYILI LİSTE
 HATAY İLİ ARSUZ İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Karaağaç Belediyesi | İskenderun | Merkez | 
-2 | Nardüzü Belediyesi | İskenderun | Merkez | 
-3 | Akçalı Belediyesi | İskenderun | Uluçınar | 
-4 | Gökmeydan Belediyesi | İskenderun | Uluçınar | 
-5 | Gözcüler Belediyesi | İskenderun | Uluçınar | 
-6 | Madenli Belediyesi | İskenderun | Uluçınar | 
-7 | Üçgüllük Belediyesi | İskenderun | Uluçınar | 
-8 | Arpaderesi | İskenderun | Merkez | 
-9 | Harlısu | İskenderun | Merkez | 
-10 | Helvalı | İskenderun | Merkez | 
-11 | Karahüseyinli | İskenderun | Merkez | 
-12 | Kışla | İskenderun | Merkez | 
-13 | Kozaklı | İskenderun | Merkez | 
-14 | Nergizlik | İskenderun | Merkez | 
-15 | Pirinçlik | İskenderun | Merkez | 
-16 | Arpagedik | İskenderun | Uluçınar | 
-17 | Avcılarsuyu | İskenderun | Uluçınar | 
-18 | Beyköy | İskenderun | Uluçınar | 
-19 | Derekuyu | İskenderun | Uluçınar | 
-20 | Gülcihan | İskenderun | Uluçınar | 
-21 | Hacıahmetli | İskenderun | Uluçınar | 
-22 | Haymaseki | İskenderun | Uluçınar | 
-23 | Höyük | İskenderun | Uluçınar | 
-24 | Kale | İskenderun | Uluçınar | 
-25 | Karagöz | İskenderun | Uluçınar | 
-26 | Aşağı Kepirce | İskenderun | Uluçınar | 
-27 | Konacık | İskenderun | Uluçınar | 
-28 | Kurtbağı | İskenderun | Uluçınar | 
-29 | Tatarlı | İskenderun | Uluçınar | 
-30 | Yukarı Kepirce | İskenderun | Uluçınar | 
-31 | Tülek | İskenderun | Uluçınar | 
-32 | Işıklı | İskenderun | Uluçınar | 
-11774
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Karaağaç Belediyesi | İskenderun | Merkez
+2 | Nardüzü Belediyesi | İskenderun | Merkez
+3 | Akçalı Belediyesi | İskenderun | Uluçınar
+4 | Gökmeydan Belediyesi | İskenderun | Uluçınar
+5 | Gözcüler Belediyesi | İskenderun | Uluçınar
+6 | Madenli Belediyesi | İskenderun | Uluçınar
+7 | Üçgüllük Belediyesi | İskenderun | Uluçınar
+8 | Arpaderesi | İskenderun | Merkez
+9 | Harlısu | İskenderun | Merkez
+10 | Helvalı | İskenderun | Merkez
+11 | Karahüseyinli | İskenderun | Merkez
+12 | Kışla | İskenderun | Merkez
+13 | Kozaklı | İskenderun | Merkez
+14 | Nergizlik | İskenderun | Merkez
+15 | Pirinçlik | İskenderun | Merkez
+16 | Arpagedik | İskenderun | Uluçınar
+17 | Avcılarsuyu | İskenderun | Uluçınar
+18 | Beyköy | İskenderun | Uluçınar
+19 | Derekuyu | İskenderun | Uluçınar
+20 | Gülcihan | İskenderun | Uluçınar
+21 | Hacıahmetli | İskenderun | Uluçınar
+22 | Haymaseki | İskenderun | Uluçınar
+23 | Höyük | İskenderun | Uluçınar
+24 | Kale | İskenderun | Uluçınar
+25 | Karagöz | İskenderun | Uluçınar
+26 | Aşağı Kepirce | İskenderun | Uluçınar
+27 | Konacık | İskenderun | Uluçınar
+28 | Kurtbağı | İskenderun | Uluçınar
+29 | Tatarlı | İskenderun | Uluçınar
+30 | Yukarı Kepirce | İskenderun | Uluçınar
+31 | Tülek | İskenderun | Uluçınar
+32 | Işıklı | İskenderun | Uluçınar
 (9) SAYILI LİSTE
 MALATYA İLİ YEŞİLYURT İLÇESİNE BAĞLANAN MAHALLELER
 Malatya Belediyesine bağlı;
@@ -529,7 +516,6 @@ Malatya Belediyesine bağlı;
 34 | Yeni
 35 | Yeşilkaynak
 36 | Zaviye
-11775
 MALATYA İLİ YEŞİLYURT İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
 S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 1 | Dilek Belediyesi | Merkez | Merkez
@@ -571,7 +557,6 @@ Malatya Belediyesine bağlı;
 15 | Fırat
 16 | Göztepe
 17 | Hacıabdi
-11776
 18 | Halfettin
 19 | Hamidiye
 20 | Hasanvarol
@@ -615,7 +600,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 8 | Çamurlu | Merkez | Merkez
 9 | Fırıncı | Merkez | Merkez
 10 | Göller | Merkez | Merkez
-11777
 11 | Hacıhaliloğluçiftliği | Merkez | Merkez
 12 | Karagöz | Merkez | Merkez
 13 | Karakaşçiftliği | Merkez | Merkez
@@ -659,7 +643,6 @@ Manisa Belediyesine bağlı;
 15 | Ege
 16 | Gediz
 17 | Göktaşlı
-11778
 18 | İbrahimçelebi
 19 | İshakçelebi
 20 | Kazım Karabekir
@@ -701,7 +684,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 21 | Sancaklıçeşmebaşı | Merkez | Karaoğlanlı
 22 | Sancaklıkayadibi | Merkez | Karaoğlanlı
 23 | Sancaklıuzunçınar | Merkez | Karaoğlanlı
-11779
 24 | Sarıalan | Merkez | Merkez
 25 | Tekeliler | Merkez | Merkez
 26 | Tepecik | Merkez | Merkez
@@ -738,7 +720,6 @@ Manisa Belediyesine bağlı;
 22 | Topçuasım
 23 | Uncubozköy
 24 | Yeni Mahalle
-11780
 MANİSA İLİ YUNUSEMRE İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
 S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 1 | Muradiye Belediyesi | Merkez | Muradiye
@@ -778,7 +759,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 35 | Kocakoru | Merkez | Üçpınar
 36 | Koruköy | Merkez | Osmancalı
 37 | Kozaklar | Merkez | Osmancalı
-11781
 38 | Küçükbelen | Merkez | Osmancalı
 39 | Küçüksümbüller | Merkez | Osmancalı
 40 | Maldan | Merkez | Osmancalı
@@ -818,13 +798,13 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 6 | Tokmaklı | Demirci | Borlu
 7 | Karyağdı | Demirci | Borlu
 8 | Gökveliler | Demirci | Borlu
-11782
 9 | Armağan | Demirci | Borlu
 10 | Çayköy | Demirci | Borlu
 11 | Yumuklar | Demirci | Borlu
 12 | Yenice | Demirci | Merkez
 (14) SAYILI LİSTE
-KAHRAMANMARAŞ İLİ DULKADİROĞLU İLÇESİNE BAĞLANAN MAHALLELER
+KAHRAMANMARAŞ İLİ DULKADİROĞLU İLÇESİNE
+BAĞLANAN MAHALLELER
 Kahramanmaraş Belediyesine bağlı;
 1 | Aksu
 2 | Aslan Bey
@@ -861,7 +841,6 @@ Kahramanmaraş Belediyesine bağlı;
 33 | Sümer
 34 | Sütçü İmam
 35 | Şeyh Adil
-11783
 36 | Şeyh Şamil
 37 | Yahya Kemal
 38 | Yavuz Selim
@@ -872,66 +851,65 @@ Kahramanmaraş Belediyesine bağlı;
 43 | Turan
 KAHRAMANMARAŞ İLİ DULKADİROĞLU İLÇESİNE BAĞLANAN
 BELEDİYE VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Baydemirli Belediyesi | Merkez | Ağabeyli | 
-2 | Abbaslar | Merkez | Merkez | 
-3 | Ağabeyli | Merkez | Ağabeyli | 
-4 | Akyar | Merkez | Merkez | 
-5 | Alibeyuşağı | Merkez | Merkez | 
-6 | Ayaklıcaoluk | Merkez | Merkez | 
-7 | Bahçeli | Merkez | Ağabeyli | 
-8 | Başdevrişli | Merkez | Ağabeyli | 
-9 | Beşenli | Merkez | Merkez | 
-10 | Boyalı | Merkez | Ağabeyli | 
-11 | Budaklı | Merkez | Ağabeyli | 
-12 | Bulanık | Merkez | Merkez | 
-13 | Çatmayayla | Merkez | Ağabeyli | 
-14 | Çiğli | Merkez | Merkez | 
-15 | Çobanlı | Merkez | Ağabeyli | 
-16 | Çokyaşar | Merkez | Merkez | 
-17 | Dereköy | Merkez | Merkez | 
-18 | Dereli | Merkez | Merkez | 
-19 | Ekberoğlu | Merkez | Merkez | 
-20 | Elmalar | Merkez | Merkez | 
-21 | Gaffarlı | Merkez | Merkez | 
-22 | Göllü | Merkez | Merkez | 
-23 | Güzelyurt | Merkez | Merkez | 
-24 | Hacıeyüplü | Merkez | Ağabeyli | 
-25 | Halkaçayırı | Merkez | Merkez | 
-26 | Kabasakal | Merkez | Ağabeyli | 
-27 | Kapıçam | Merkez | Merkez | 
-28 | Karamanlı | Merkez | Ağabeyli | 
-29 | Kartal | Merkez | Merkez | 
-11784
-30 | Kazanlıpınar | Merkez | Merkez | 
-31 | Kemallı | Merkez | Ağabeyli | 
-32 | Kılağlı | Merkez | Ağabeyli | 
-33 | Kocalar | Merkez | Merkez | 
-34 | Kozludere | Merkez | Merkez | 
-35 | Kuzucak | Merkez | Merkez | 
-36 | Küçüknacar | Merkez | Merkez | 
-37 | Küpelikız | Merkez | Merkez | 
-38 | Navruzlu | Merkez | Merkez | 
-39 | Osmanbey | Merkez | Merkez | 
-40 | Öksüzlü | Merkez | Merkez | 
-41 | Peynirdere | Merkez | Merkez | 
-42 | Sarıkaya | Merkez | Merkez | 
-43 | Sivricehüyük | Merkez | Merkez | 
-44 | Şerefoğlu | Merkez | Merkez | 
-45 | Tevekkelli | Merkez | Merkez | 
-46 | Ulutaş | Merkez | Merkez | 
-47 | Yenipınar | Merkez | Ağabeyli | 
-48 | Yeniyurt | Merkez | Merkez | 
-49 | Yusufhacılı | Merkez | Merkez | 
-50 | Söğütlü | Pazarcık | Narlı | 
-51 | Doğanlıkarahasan | Pazarcık | Narlı | 
-52 | Seyrantepe | Pazarcık | Narlı | 
-53 | Çınarlı | Pazarcık | Narlı | 
-54 | Denizli | Pazarcık | Narlı | 
-55 | Eskinarlı | Pazarcık | Narlı | 
-56 | Maksutuşağı | Pazarcık | Narlı | 
-57 | Arslanbey | Pazarcık | Narlı | 
-58 | Demirciler | Pazarcık | Narlı | 
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Baydemirli Belediyesi | Merkez | Ağabeyli
+2 | Abbaslar | Merkez | Merkez
+3 | Ağabeyli | Merkez | Ağabeyli
+4 | Akyar | Merkez | Merkez
+5 | Alibeyuşağı | Merkez | Merkez
+6 | Ayaklıcaoluk | Merkez | Merkez
+7 | Bahçeli | Merkez | Ağabeyli
+8 | Başdevrişli | Merkez | Ağabeyli
+9 | Beşenli | Merkez | Merkez
+10 | Boyalı | Merkez | Ağabeyli
+11 | Budaklı | Merkez | Ağabeyli
+12 | Bulanık | Merkez | Merkez
+13 | Çatmayayla | Merkez | Ağabeyli
+14 | Çiğli | Merkez | Merkez
+15 | Çobanlı | Merkez | Ağabeyli
+16 | Çokyaşar | Merkez | Merkez
+17 | Dereköy | Merkez | Merkez
+18 | Dereli | Merkez | Merkez
+19 | Ekberoğlu | Merkez | Merkez
+20 | Elmalar | Merkez | Merkez
+21 | Gaffarlı | Merkez | Merkez
+22 | Göllü | Merkez | Merkez
+23 | Güzelyurt | Merkez | Merkez
+24 | Hacıeyüplü | Merkez | Ağabeyli
+25 | Halkaçayırı | Merkez | Merkez
+26 | Kabasakal | Merkez | Ağabeyli
+27 | Kapıçam | Merkez | Merkez
+28 | Karamanlı | Merkez | Ağabeyli
+29 | Kartal | Merkez | Merkez
+30 | Kazanlıpınar | Merkez | Merkez
+31 | Kemallı | Merkez | Ağabeyli
+32 | Kılağlı | Merkez | Ağabeyli
+33 | Kocalar | Merkez | Merkez
+34 | Kozludere | Merkez | Merkez
+35 | Kuzucak | Merkez | Merkez
+36 | Küçüknacar | Merkez | Merkez
+37 | Küpelikız | Merkez | Merkez
+38 | Navruzlu | Merkez | Merkez
+39 | Osmanbey | Merkez | Merkez
+40 | Öksüzlü | Merkez | Merkez
+41 | Peynirdere | Merkez | Merkez
+42 | Sarıkaya | Merkez | Merkez
+43 | Sivricehüyük | Merkez | Merkez
+44 | Şerefoğlu | Merkez | Merkez
+45 | Tevekkelli | Merkez | Merkez
+46 | Ulutaş | Merkez | Merkez
+47 | Yenipınar | Merkez | Ağabeyli
+48 | Yeniyurt | Merkez | Merkez
+49 | Yusufhacılı | Merkez | Merkez
+50 | Söğütlü | Pazarcık | Narlı
+51 | Doğanlıkarahasan | Pazarcık | Narlı
+52 | Seyrantepe | Pazarcık | Narlı
+53 | Çınarlı | Pazarcık | Narlı
+54 | Denizli | Pazarcık | Narlı
+55 | Eskinarlı | Pazarcık | Narlı
+56 | Maksutuşağı | Pazarcık | Narlı
+57 | Arslanbey | Pazarcık | Narlı
+58 | Demirciler | Pazarcık | Narlı
 (15) SAYILI LİSTE
 KAHRAMANMARAŞ İLİ ONİKİŞUBAT İLÇESİNE BAĞLANAN MAHALLELER
 Kahramanmaraş Belediyesine bağlı;
@@ -944,7 +922,6 @@ Kahramanmaraş Belediyesine bağlı;
 7 | Bin Evler
 8 | Cumhuriyet
 9 | Çamlık
-11785
 10 | Dumlupınar
 11 | Ertuğrul Gazi
 12 | Fatih
@@ -983,8 +960,8 @@ Kahramanmaraş Belediyesine bağlı;
 45 | Yürükselim
 46 | Şehit Evliya
 47 | Saçaklızade
-11786
-KAHRAMANMARAŞ İLİ ONİKİŞUBAT İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
+KAHRAMANMARAŞ İLİ ONİKİŞUBAT İLÇESİNE BAĞLANAN
+BELEDİYELER VE KÖYLER
 S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 1 | Karadere Belediyesi | Merkez | Merkez
 2 | Kale Belediyesi | Merkez | Merkez
@@ -1026,7 +1003,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 38 | Hacımustafa | Merkez | Merkez
 39 | Hacınınoğlu | Merkez | Süleymanlı
 40 | Hartlap | Merkez | Merkez
-11787
 41 | İsmailli | Merkez | Merkez
 42 | Kalekaya | Merkez | Merkez
 43 | Kapukaya | Merkez | Süleymanlı
@@ -1068,98 +1044,95 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 79 | Yeniyapan | Merkez | Yenicekale
 80 | Yolyanı | Merkez | Yenicekale
 81 | Zeytindere | Merkez | Merkez
-11788
 (16) SAYILI LİSTE
 MUĞLA İLİ SEYDİKEMER İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Kadıköy Belediyesi | Fethiye | Kemer | 
-2 | Eşen Belediyesi | Fethiye | Eşen | 
-3 | Karadere Belediyesi | Fethiye | Eşen | 
-4 | Kumluova Belediyesi | Fethiye | Eşen | 
-5 | Seki Belediyesi | Fethiye | Seki | 
-6 | Arsaköy | Fethiye | Kemer | 
-7 | Bağlıağaç | Fethiye | Kemer | 
-8 | Atlıdere | Fethiye | Kemer | 
-9 | Bayırköy | Fethiye | Kemer | 
-10 | Çamurköy | Fethiye | Kemer | 
-11 | Çatak | Fethiye | Kemer | 
-12 | Çayan | Fethiye | Kemer | 
-13 | Çobanlar | Fethiye | Kemer | 
-14 | Çökek | Fethiye | Kemer | 
-15 | Dereköy | Fethiye | Kemer | 
-16 | Döğer | Fethiye | Kemer | 
-17 | Girmeler | Fethiye | Kemer | 
-18 | Güneşli | Fethiye | Kemer | 
-19 | Hacıosmanlar | Fethiye | Kemer | 
-20 | Kayacık | Fethiye | Kemer | 
-21 | Kayadibi | Fethiye | Kemer | 
-22 | Kıncılar | Fethiye | Kemer | 
-23 | Korubükü | Fethiye | Kemer | 
-24 | Ortaköy | Fethiye | Kemer | 
-25 | Ören | Fethiye | Kemer | 
-26 | Paşalı | Fethiye | Kemer | 
-27 | Sahil Ceylan | Fethiye | Kemer | 
-28 | Sarıyer | Fethiye | Kemer | 
-29 | Seydiler | Fethiye | Kemer | 
-30 | Söğütlüdere | Fethiye | Kemer | 
-31 | Uğurlu | Fethiye | Kemer | 
-32 | Yakaköy | Fethiye | Kemer | 
-33 | Zorlar | Fethiye | Kemer | 
-34 | Alaçat | Fethiye | Eşen | 
-35 | Arifler | Fethiye | Eşen | 
-36 | Boğaziçi | Fethiye | Eşen | 
-37 | Çaltıözü | Fethiye | Eşen | 
-11789
-38 | Çaykenarı | Fethiye | Eşen | 
-39 | Çukurincir | Fethiye | Eşen | 
-40 | Demirler | Fethiye | Eşen | 
-41 | Dodurga | Fethiye | Eşen | 
-42 | Gölbent | Fethiye | Eşen | 
-43 | İzzetinköy | Fethiye | Eşen | 
-44 | Kabaağaç | Fethiye | Eşen | 
-45 | Karaköy | Fethiye | Eşen | 
-46 | Minare | Fethiye | Eşen | 
-47 | Yakabağ | Fethiye | Eşen | 
-48 | Bekçiler | Fethiye | Seki | 
-49 | Boğalar | Fethiye | Seki | 
-50 | Ceylan | Fethiye | Seki | 
-51 | Çaltılar | Fethiye | Seki | 
-52 | Çobanisa | Fethiye | Seki | 
-53 | Doğanlar | Fethiye | Seki | 
-54 | Kayabaşı | Fethiye | Seki | 
-55 | Kınık | Fethiye | Seki | 
-56 | Temel | Fethiye | Seki | 
-57 | Yaylapatlangıç | Fethiye | Merkez | 
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Kadıköy Belediyesi | Fethiye | Kemer
+2 | Eşen Belediyesi | Fethiye | Eşen
+3 | Karadere Belediyesi | Fethiye | Eşen
+4 | Kumluova Belediyesi | Fethiye | Eşen
+5 | Seki Belediyesi | Fethiye | Seki
+6 | Arsaköy | Fethiye | Kemer
+7 | Bağlıağaç | Fethiye | Kemer
+8 | Atlıdere | Fethiye | Kemer
+9 | Bayırköy | Fethiye | Kemer
+10 | Çamurköy | Fethiye | Kemer
+11 | Çatak | Fethiye | Kemer
+12 | Çayan | Fethiye | Kemer
+13 | Çobanlar | Fethiye | Kemer
+14 | Çökek | Fethiye | Kemer
+15 | Dereköy | Fethiye | Kemer
+16 | Döğer | Fethiye | Kemer
+17 | Girmeler | Fethiye | Kemer
+18 | Güneşli | Fethiye | Kemer
+19 | Hacıosmanlar | Fethiye | Kemer
+20 | Kayacık | Fethiye | Kemer
+21 | Kayadibi | Fethiye | Kemer
+22 | Kıncılar | Fethiye | Kemer
+23 | Korubükü | Fethiye | Kemer
+24 | Ortaköy | Fethiye | Kemer
+25 | Ören | Fethiye | Kemer
+26 | Paşalı | Fethiye | Kemer
+27 | Sahil Ceylan | Fethiye | Kemer
+28 | Sarıyer | Fethiye | Kemer
+29 | Seydiler | Fethiye | Kemer
+30 | Söğütlüdere | Fethiye | Kemer
+31 | Uğurlu | Fethiye | Kemer
+32 | Yakaköy | Fethiye | Kemer
+33 | Zorlar | Fethiye | Kemer
+34 | Alaçat | Fethiye | Eşen
+35 | Arifler | Fethiye | Eşen
+36 | Boğaziçi | Fethiye | Eşen
+37 | Çaltıözü | Fethiye | Eşen
+38 | Çaykenarı | Fethiye | Eşen
+39 | Çukurincir | Fethiye | Eşen
+40 | Demirler | Fethiye | Eşen
+41 | Dodurga | Fethiye | Eşen
+42 | Gölbent | Fethiye | Eşen
+43 | İzzetinköy | Fethiye | Eşen
+44 | Kabaağaç | Fethiye | Eşen
+45 | Karaköy | Fethiye | Eşen
+46 | Minare | Fethiye | Eşen
+47 | Yakabağ | Fethiye | Eşen
+48 | Bekçiler | Fethiye | Seki
+49 | Boğalar | Fethiye | Seki
+50 | Ceylan | Fethiye | Seki
+51 | Çaltılar | Fethiye | Seki
+52 | Çobanisa | Fethiye | Seki
+53 | Doğanlar | Fethiye | Seki
+54 | Kayabaşı | Fethiye | Seki
+55 | Kınık | Fethiye | Seki
+56 | Temel | Fethiye | Seki
+57 | Yaylapatlangıç | Fethiye | Merkez
 (17) SAYILI LİSTE
 TEKİRDAĞ İLİ KAPAKLI İLÇESİNE BAĞLANAN BELEDİYE VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Karaağaç Belediyesi | Çerkezköy | Merkez | 
-2 | Bahçeağıl | Çerkezköy | Merkez | 
-3 | Yanıkağıl | Çerkezköy | Merkez | 
-4 | Karlı | Çerkezköy | Merkez | 
-5 | Pınarca | Çerkezköy | Merkez | 
-6 | Uzunhacı | Çerkezköy | Merkez | 
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Karaağaç Belediyesi | Çerkezköy | Merkez
+2 | Bahçeağıl | Çerkezköy | Merkez
+3 | Yanıkağıl | Çerkezköy | Merkez
+4 | Karlı | Çerkezköy | Merkez
+5 | Pınarca | Çerkezköy | Merkez
+6 | Uzunhacı | Çerkezköy | Merkez
 (18) SAYILI LİSTE
 TEKİRDAĞ İLİ ERGENE İLÇESİNE BAĞLANAN MAHALLELER
 Çorlu Belediyesine bağlı;
 1 | Sağlık
 2 | Yeşiltepe
-11790
 TEKİRDAĞ İLİ ERGENE İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Ulaş Belediyesi | Çorlu | Merkez | 
-2 | Misinli Belediyesi | Çorlu | Merkez | 
-3 | Velimeşe Belediyesi | Çorlu | Merkez | 
-4 | Paşaköy | Çorlu | Merkez | 
-5 | Pınarbaşı | Çorlu | Merkez | 
-6 | Ahimehmet | Çorlu | Merkez | 
-7 | İğneler | Çorlu | Merkez | 
-8 | Vakıflar | Çorlu | Merkez | 
-9 | Esenler | Çorlu | Merkez | 
-10 | Kırkgöz | Çorlu | Merkez | 
-11 | Bakırca | Çorlu | Merkez | 
-12 | Karamehmet | Çorlu | Merkez | 
-13 | Yulaflı | Çorlu | Merkez | 
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Ulaş Belediyesi | Çorlu | Merkez
+2 | Misinli Belediyesi | Çorlu | Merkez
+3 | Velimeşe Belediyesi | Çorlu | Merkez
+4 | Paşaköy | Çorlu | Merkez
+5 | Pınarbaşı | Çorlu | Merkez
+6 | Ahimehmet | Çorlu | Merkez
+7 | İğneler | Çorlu | Merkez
+8 | Vakıflar | Çorlu | Merkez
+9 | Esenler | Çorlu | Merkez
+10 | Kırkgöz | Çorlu | Merkez
+11 | Bakırca | Çorlu | Merkez
+12 | Karamehmet | Çorlu | Merkez
+13 | Yulaflı | Çorlu | Merkez
 (19) SAYILI LİSTE
 ŞANLIURFA İLİ EYYÜBİYE İLÇESİNE BAĞLANAN MAHALLELER
 Şanlıurfa Belediyesine bağlı;
@@ -1184,7 +1157,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK |
 19 | Türkmeydanı
 20 | Pınarbaşı
 21 | Bıçakçılı
-11791
 22 | Kurtuluş
 23 | Ulucami
 24 | Yeni
@@ -1201,125 +1173,122 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK |
 35 | Yenice
 36 | Batıkent
 ŞANLIURFA İLİ EYYÜBİYE İLÇESİNE BAĞLANAN BELEDİYE VE KÖYLER
-S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK | 
-1 | Uğurlu Belediyesi | Merkez | Yardımcı | 
-2 | Abdurrahmandede | Merkez | Merkez | 
-3 | Akçamescit | Merkez | Merkez | 
-4 | Bildim | Merkez | Merkez | 
-5 | Büyükhan | Merkez | Merkez | 
-6 | Çamurlu | Merkez | Merkez | 
-7 | Hancığaz | Merkez | Merkez | 
-8 | İkizce | Merkez | Merkez | 
-9 | Kadıkendi | Merkez | Merkez | 
-10 | Küçükhan | Merkez | Merkez | 
-11 | Köprülük | Merkez | Merkez | 
-12 | Şahinler | Merkez | Merkez | 
-13 | Yardımcı | Merkez | Yardımcı | 
-14 | Açmalı | Merkez | Yardımcı | 
-15 | Akdilek | Merkez | Yardımcı | 
-16 | Akmağara | Merkez | Yardımcı | 
-17 | Akören | Merkez | Yardımcı | 
-18 | Altın | Merkez | Yardımcı | 
-19 | Altıntepe | Merkez | Yardımcı | 
-20 | Ambartepe | Merkez | Yardımcı | 
-21 | Apalı | Merkez | Yardımcı | 
-22 | Aşağıkoçlu | Merkez | Yardımcı | 
-23 | Aşağıyazıcı | Merkez | Yardımcı | 
-11792
-24 | Ayrancı | Merkez | Yardımcı | 
-25 | Bağış | Merkez | Yardımcı | 
-26 | Bakırtaş | Merkez | Yardımcı | 
-27 | Bakışlar | Merkez | Yardımcı | 
-28 | Banarlı | Merkez | Yardımcı | 
-29 | Başgöze | Merkez | Yardımcı | 
-30 | Başören | Merkez | Yardımcı | 
-31 | Bayraklı | Merkez | Yardımcı | 
-32 | Beşat | Merkez | Yardımcı | 
-33 | Bulduk | Merkez | Yardımcı | 
-34 | Büyükçaylı | Merkez | Yardımcı | 
-35 | Büyükdüzlük | Merkez | Yardımcı | 
-36 | Büyükotluca | Merkez | Yardımcı | 
-37 | Dilimli | Merkez | Yardımcı | 
-38 | Dolutepe | Merkez | Yardımcı | 
-39 | Duruca | Merkez | Yardımcı | 
-40 | Gelincik | Merkez | Yardımcı | 
-41 | Görenler | Merkez | Yardımcı | 
-42 | Gözeller | Merkez | Yardımcı | 
-43 | Gümüşören | Merkez | Yardımcı | 
-44 | Günbalı | Merkez | Yardımcı | 
-45 | Güneş | Merkez | Yardımcı | 
-46 | Güngören | Merkez | Yardımcı | 
-47 | Hacılar | Merkez | Yardımcı | 
-48 | Hamzababa | Merkez | Yardımcı | 
-49 | Horoz | Merkez | Yardımcı | 
-50 | Kap | Merkez | Yardımcı | 
-51 | Karaali | Merkez | Yardımcı | 
-52 | Karahisar | Merkez | Yardımcı | 
-53 | Karaman | Merkez | Yardımcı | 
-54 | Küçükdüzlük | Merkez | Yardımcı | 
-55 | Keçikıran | Merkez | Yardımcı | 
-56 | Keserdede | Merkez | Yardımcı | 
-57 | Keskin | Merkez | Yardımcı | 
-58 | Kınalı | Merkez | Yardımcı | 
-59 | Kırçiçeği | Merkez | Yardımcı | 
-60 | Kurucuk | Merkez | Yardımcı | 
-61 | Kubacık | Merkez | Yardımcı | 
-62 | Külünçe | Merkez | Yardımcı | 
-63 | Küpeli | Merkez | Yardımcı | 
-64 | Mihraplı | Merkez | Yardımcı | 
-65 | Mutlukaya | Merkez | Yardımcı | 
-11793
-66 | Nadire | Merkez | Yardımcı | 
-67 | Olgunlar | Merkez | Yardımcı | 
-68 | Ovabeyli | Merkez | Yardımcı | 
-69 | Ozanlar | Merkez | Yardımcı | 
-70 | Örenli | Merkez | Yardımcı | 
-71 | Özlü | Merkez | Yardımcı | 
-72 | Sağlık | Merkez | Yardımcı | 
-73 | Seksenören | Merkez | Yardımcı | 
-74 | Selman | Merkez | Yardımcı | 
-75 | Sultantepe | Merkez | Yardımcı | 
-76 | Tarlabaşı | Merkez | Yardımcı | 
-77 | Taşlıca | Merkez | Yardımcı | 
-78 | Turluk | Merkez | Yardımcı | 
-79 | Tuzluca | Merkez | Yardımcı | 
-80 | Ulucanlar | Merkez | Yardımcı | 
-81 | Ulu | Merkez | Yardımcı | 
-82 | Umuroba | Merkez | Yardımcı | 
-83 | Üzerlik | Merkez | Yardımcı | 
-84 | Vergili | Merkez | Yardımcı | 
-85 | Yağmurlu | Merkez | Yardımcı | 
-86 | Yamaçaltı | Merkez | Yardımcı | 
-87 | Yaşar | Merkez | Yardımcı | 
-88 | Yediyol | Merkez | Yardımcı | 
-89 | Yukarı Koçlu | Merkez | Yardımcı | 
-90 | Yukarıyazıcı | Merkez | Yardımcı | 
-91 | Yolbaşı | Merkez | Yardımcı | 
-92 | Yusuf | Merkez | Yardımcı | 
-93 | Zeynep | Merkez | Yardımcı | 
-94 | Payamlı | Merkez | Payamlı | 
-95 | Altınbaşak | Merkez | Payamlı | 
-96 | Aşağıhemedan | Merkez | Payamlı | 
-97 | Atlıkonak | Merkez | Payamlı | 
-98 | Çalışkanlar | Merkez | Payamlı | 
-99 | Dernek | Merkez | Payamlı | 
-100 | Göldere | Merkez | Payamlı | 
-101 | Güzelkuyu | Merkez | Payamlı | 
-102 | Kaplan | Merkez | Payamlı | 
-103 | Keberli | Merkez | Payamlı | 
-104 | Kırkmağara | Merkez | Payamlı | 
-105 | Kızılkuyu | Merkez | Payamlı | 
-106 | Koçören | Merkez | Payamlı | 
-107 | Olukyanı | Merkez | Payamlı | 
-108 | Ortahemedan | Merkez | Payamlı | 
-11794
-109 | Tekyamaç | Merkez | Payamlı | 
-110 | Ulak | Merkez | Payamlı | 
-111 | Yanıkçöğür | Merkez | Payamlı | 
-112 | Yaykılıç | Merkez | Payamlı | 
-113 | Yukarıçaykuyu | Merkez | Payamlı | 
-114 | Yukarıhemedan | Merkez | Payamlı | 
-115 | Yolbilir | Merkez | Payamlı | 
+S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
+1 | Uğurlu Belediyesi | Merkez | Yardımcı
+2 | Abdurrahmandede | Merkez | Merkez
+3 | Akçamescit | Merkez | Merkez
+4 | Bildim | Merkez | Merkez
+5 | Büyükhan | Merkez | Merkez
+6 | Çamurlu | Merkez | Merkez
+7 | Hancığaz | Merkez | Merkez
+8 | İkizce | Merkez | Merkez
+9 | Kadıkendi | Merkez | Merkez
+10 | Küçükhan | Merkez | Merkez
+11 | Köprülük | Merkez | Merkez
+12 | Şahinler | Merkez | Merkez
+13 | Yardımcı | Merkez | Yardımcı
+14 | Açmalı | Merkez | Yardımcı
+15 | Akdilek | Merkez | Yardımcı
+16 | Akmağara | Merkez | Yardımcı
+17 | Akören | Merkez | Yardımcı
+18 | Altın | Merkez | Yardımcı
+19 | Altıntepe | Merkez | Yardımcı
+20 | Ambartepe | Merkez | Yardımcı
+21 | Apalı | Merkez | Yardımcı
+22 | Aşağıkoçlu | Merkez | Yardımcı
+23 | Aşağıyazıcı | Merkez | Yardımcı
+24 | Ayrancı | Merkez | Yardımcı
+25 | Bağış | Merkez | Yardımcı
+26 | Bakırtaş | Merkez | Yardımcı
+27 | Bakışlar | Merkez | Yardımcı
+28 | Banarlı | Merkez | Yardımcı
+29 | Başgöze | Merkez | Yardımcı
+30 | Başören | Merkez | Yardımcı
+31 | Bayraklı | Merkez | Yardımcı
+32 | Beşat | Merkez | Yardımcı
+33 | Bulduk | Merkez | Yardımcı
+34 | Büyükçaylı | Merkez | Yardımcı
+35 | Büyükdüzlük | Merkez | Yardımcı
+36 | Büyükotluca | Merkez | Yardımcı
+37 | Dilimli | Merkez | Yardımcı
+38 | Dolutepe | Merkez | Yardımcı
+39 | Duruca | Merkez | Yardımcı
+40 | Gelincik | Merkez | Yardımcı
+41 | Görenler | Merkez | Yardımcı
+42 | Gözeller | Merkez | Yardımcı
+43 | Gümüşören | Merkez | Yardımcı
+44 | Günbalı | Merkez | Yardımcı
+45 | Güneş | Merkez | Yardımcı
+46 | Güngören | Merkez | Yardımcı
+47 | Hacılar | Merkez | Yardımcı
+48 | Hamzababa | Merkez | Yardımcı
+49 | Horoz | Merkez | Yardımcı
+50 | Kap | Merkez | Yardımcı
+51 | Karaali | Merkez | Yardımcı
+52 | Karahisar | Merkez | Yardımcı
+53 | Karaman | Merkez | Yardımcı
+54 | Küçükdüzlük | Merkez | Yardımcı
+55 | Keçikıran | Merkez | Yardımcı
+56 | Keserdede | Merkez | Yardımcı
+57 | Keskin | Merkez | Yardımcı
+58 | Kınalı | Merkez | Yardımcı
+59 | Kırçiçeği | Merkez | Yardımcı
+60 | Kurucuk | Merkez | Yardımcı
+61 | Kubacık | Merkez | Yardımcı
+62 | Külünçe | Merkez | Yardımcı
+63 | Küpeli | Merkez | Yardımcı
+64 | Mihraplı | Merkez | Yardımcı
+65 | Mutlukaya | Merkez | Yardımcı
+66 | Nadire | Merkez | Yardımcı
+67 | Olgunlar | Merkez | Yardımcı
+68 | Ovabeyli | Merkez | Yardımcı
+69 | Ozanlar | Merkez | Yardımcı
+70 | Örenli | Merkez | Yardımcı
+71 | Özlü | Merkez | Yardımcı
+72 | Sağlık | Merkez | Yardımcı
+73 | Seksenören | Merkez | Yardımcı
+74 | Selman | Merkez | Yardımcı
+75 | Sultantepe | Merkez | Yardımcı
+76 | Tarlabaşı | Merkez | Yardımcı
+77 | Taşlıca | Merkez | Yardımcı
+78 | Turluk | Merkez | Yardımcı
+79 | Tuzluca | Merkez | Yardımcı
+80 | Ulucanlar | Merkez | Yardımcı
+81 | Ulu | Merkez | Yardımcı
+82 | Umuroba | Merkez | Yardımcı
+83 | Üzerlik | Merkez | Yardımcı
+84 | Vergili | Merkez | Yardımcı
+85 | Yağmurlu | Merkez | Yardımcı
+86 | Yamaçaltı | Merkez | Yardımcı
+87 | Yaşar | Merkez | Yardımcı
+88 | Yediyol | Merkez | Yardımcı
+89 | Yukarı Koçlu | Merkez | Yardımcı
+90 | Yukarıyazıcı | Merkez | Yardımcı
+91 | Yolbaşı | Merkez | Yardımcı
+92 | Yusuf | Merkez | Yardımcı
+93 | Zeynep | Merkez | Yardımcı
+94 | Payamlı | Merkez | Payamlı
+95 | Altınbaşak | Merkez | Payamlı
+96 | Aşağıhemedan | Merkez | Payamlı
+97 | Atlıkonak | Merkez | Payamlı
+98 | Çalışkanlar | Merkez | Payamlı
+99 | Dernek | Merkez | Payamlı
+100 | Göldere | Merkez | Payamlı
+101 | Güzelkuyu | Merkez | Payamlı
+102 | Kaplan | Merkez | Payamlı
+103 | Keberli | Merkez | Payamlı
+104 | Kırkmağara | Merkez | Payamlı
+105 | Kızılkuyu | Merkez | Payamlı
+106 | Koçören | Merkez | Payamlı
+107 | Olukyanı | Merkez | Payamlı
+108 | Ortahemedan | Merkez | Payamlı
+109 | Tekyamaç | Merkez | Payamlı
+110 | Ulak | Merkez | Payamlı
+111 | Yanıkçöğür | Merkez | Payamlı
+112 | Yaykılıç | Merkez | Payamlı
+113 | Yukarıçaykuyu | Merkez | Payamlı
+114 | Yukarıhemedan | Merkez | Payamlı
+115 | Yolbilir | Merkez | Payamlı
 (20) SAYILI LİSTE
 ŞANLIURFA İLİ HALİLİYE İLÇESİNE BAĞLANAN MAHALLELER
 Şanlıurfa Belediyesine bağlı;
@@ -1355,7 +1324,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK |
 30 | Sırrın
 31 | Akpınar
 32 | Karşıyaka
-11795
 ŞANLIURFA İLİ HALİLİYE İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
 S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 1 | Kısas Belediyesi | Merkez | Çamlıdere
@@ -1397,7 +1365,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 37 | Koçak | Merkez | Kabahaydar
 38 | Konaç | Merkez | Kabahaydar
 39 | Körkuyu | Merkez | Kabahaydar
-11796
 40 | Mil | Merkez | Kabahaydar
 41 | Ortaören | Merkez | Kabahaydar
 42 | Payamlı | Merkez | Kabahaydar
@@ -1441,7 +1408,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 80 | Denizci | Merkez | Çamlıdere
 81 | Derinkuyu | Merkez | Çamlıdere
 82 | Dikme | Merkez | Çamlıdere
-11797
 83 | Diktaş | Merkez | Çamlıdere
 84 | Emirler | Merkez | Çamlıdere
 85 | Ernebi | Merkez | Çamlıdere
@@ -1485,7 +1451,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 123 | Sendebelen | Merkez | Çamlıdere
 124 | Şenocak | Merkez | Çamlıdere
 125 | Tepedibi | Merkez | Çamlıdere
-11798
 126 | Terzi | Merkez | Çamlıdere
 127 | Topraklı | Merkez | Çamlıdere
 128 | Uluhan | Merkez | Çamlıdere
@@ -1523,7 +1488,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 18 | Özgedik | Merkez | Payamlı
 19 | Ağılcık | Merkez | Payamlı
 20 | Akıncı | Merkez | Payamlı
-11799
 21 | Sarım | Merkez | Payamlı
 22 | Karataş | Merkez | Payamlı
 23 | Geçit | Merkez | Payamlı
@@ -1566,7 +1530,6 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 60 | Hüyüklü | Merkez | Akziyaret
 61 | İlhan | Merkez | Akziyaret
 62 | İsaören | Merkez | Akziyaret
-11800
 63 | Kasımkuyu | Merkez | Akziyaret
 64 | Kırkpınar | Merkez | Akziyaret
 65 | Korukezen | Merkez | Akziyaret
@@ -1602,7 +1565,6 @@ Van Belediyesine bağlı;
 6 | İstasyon
 7 | Akköprü
 8 | Şemsibey
-11801
 VAN İLİ TUŞBA İLÇESİNE BAĞLANAN KÖYLER
 S.NO. | BİRİMİN ADI | İLCESİ | BAĞLI OLDUĞU BUCAK
 1 | Adıgüzel | Merkez | Timar
@@ -1645,7 +1607,6 @@ S.NO. | BİRİMİN ADI | İLCESİ | BAĞLI OLDUĞU BUCAK
 38 | Kozluca | Merkez | Erçek
 39 | Kumluca | Merkez | Timar
 40 | Meydancık | Merkez | Timar
-11802
 41 | Mollakasım | Merkez | Timar
 42 | Ocaklı | Merkez | Timar
 43 | Otluca | Merkez | Timar
@@ -1686,7 +1647,6 @@ Van Belediyesine bağlı;
 16 | Hacıbekir
 17 | Esenler
 18 | Bahçıvan
-11803
 VAN İLİ İPEKYOLU İLÇESİNE BAĞLANAN BELEDİYELER VE KÖYLER
 S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 1 | Bostaniçi Belediyesi | Merkez | Merkez
@@ -1728,14 +1688,13 @@ Van Belediyesine bağlı;
 2 | Süphan
 3 | Şabaniye
 4 | Hacıbekir (Mezbaha Deresi Güneyi)
-11804
 VAN İLİ EDREMİT İLÇESİNE BAĞLANAN KÖYLER
 S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 1 | Akın | Merkez | Merkez
 2 | Kavurma | Merkez | Merkez
 3 | Kurubaş | Merkez | Merkez
 4 | Taşkonak | Merkez | Merkez
-(25) SAYILI LİSTE (1)
+(25) SAYILI LİSTE[11]
 1 | Altıeylül Belediyesi
 2 | Antakya Belediyesi
 3 | Arsuz Belediyesi
@@ -1764,10 +1723,7 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 26 | Yeşilyurt Belediyesi
 27 | Yunusemre Belediyesi
 28 | Altınordu Belediyesi (1)
-–––––––––––––––––
-(1) 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle bu listeye “Altınordu Belediyesi” ibaresi eklenmiştir.
-11805
-(26) SAYILI LİSTE (1)
+(26) SAYILI LİSTE[12]
 KURUMU : İÇİŞLERİ BAKANLIĞI
 TEŞKİLATI : TAŞRA
 İHDASI UYGUN GÖRÜLEN KADROLARIN
@@ -1798,9 +1754,6 @@ TH | Tekniker | 8 | 87 |  | 87
 TH | Teknisyen | 9 | 145 |  | 145
 YH | Hizmetli | 8 | 145 |  | 145
 YH | Hizmetli | 10 | 52 |  | 52
-–––––––––––––––––
-(1) 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle, bu listede yer alan Gençlik ve Spor Bakanlığına ait kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenin ilgili bölümlerinden çıkarılmıştır.
-11806
 YH | Hizmetli | 11 | 52 |  | 52
 YH | Kaloriferci | 8 | 58 |  | 58
 YH | Kaloriferci | 10 | 26 |  | 26
@@ -1823,7 +1776,7 @@ YH | Kaloriferci | 10 | 26 |  | 26
 KURUMU : MİLLİ EĞİTİM BAKANLIĞI
 TEŞKİLATI : TAŞRA
 İHDASI UYGUN GÖRÜLEN KADROLARIN
-Sınıfı | Unvanı | Derecesi | Serbest Kadro Adedi | Tutulsn Kadro Adedi | Toplam
+Sınıfı | Unvanı | Derecesi | Serbest Kadro Adedi | Tutulan Kadro Adedi | Toplam
 GİH | İlçe Milli Eğitim Müdürü | 1 | 26 |  | 26
 GİH | Şube Müdürü | 1 | 78 |  | 78
 GİH | Şef | 4 | 78 |  | 78
@@ -1831,7 +1784,6 @@ GİH | Memur | 8 | 156 |  | 156
 GİH | Şoför | 10 | 26 |  | 26
 YH | Hizmetli | 10 | 52 |  | 52
  | TOPLAM |  | 416 |  | 416
-11807
 KURUMU : SAĞLIK BAKANLIĞI
 TEŞKİLATI : TAŞRA
 İHDASI UYGUN GÖRÜLEN KADROLARIN
@@ -1857,7 +1809,6 @@ GİH | Memur | 12 | 52 |  | 52
 GİH | Şoför | 12 | 26 |  | 26
 YH | Hizmetli | 12 | 26 |  | 26
  | TOPLAM |  | 234 |  | 234
-11808
 KURUMU : AİLE VE SOSYAL POLİTİKALAR BAKANLIĞI
 TEŞKİLATI : TAŞRA
 İHDASI UYGUN GÖRÜLEN KADROLARIN
@@ -1871,7 +1822,6 @@ SH | Sosyal Çalışmacı | 6 | 52 |  | 52
 SH | Psikolog | 7 | 26 |  | 26
 SH | Çocuk Gelişimcisi | 7 | 26 |  | 26
  | TOPLAM |  | 286 |  | 286
-11809
 KURUMU : DİYANET İŞLERİ BAŞKANLIĞI
 TEŞKİLATI : TAŞRA
 İHDASI UYGUN GÖRÜLEN KADROLARIN
@@ -1896,7 +1846,6 @@ TEŞKİLATI : TAŞRA
 Sınıfı | Unvanı | Derecesi | Serbest Kadro Adedi | Tutulan Kadro Adedi | Toplam
 EHS | İlçe Emniyet Müdürü | 1 | 26 |  | 26
  | TOPLAM |  | 26 |  | 26
-11810
 (27) SAYILI LİSTE
 S.NO. | İL | İLÇE | BELEDİYE
 1 | Adıyaman | Besni | Sarıyaprak
@@ -1939,7 +1888,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 38 | Afyonkarahisar | Sandıklı | Kızık
 39 | Afyonkarahisar | Sandıklı | Kusura
 40 | Afyonkarahisar | Sandıklı | Menteş
-11811
 41 | Afyonkarahisar | Sandıklı | Örenkaya
 42 | Afyonkarahisar | Sandıklı | Sorkun
 43 | Afyonkarahisar | Sandıklı | Yavaşlar
@@ -1983,7 +1931,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 81 | Aksaray | Ortaköy | Ozancık
 82 | Aksaray | Ortaköy | Sarıkaraman
 83 | Aksaray | Sarıyahşi | Boğazköy
-11812
 84 | Amasya | Göynücek | Damlaçimen
 85 | Amasya | Göynücek | Gediksaray
 86 | Amasya | Merkez | Aydınca
@@ -2026,7 +1973,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 123 | Bitlis | Mutki | Koyunlu
 124 | Bolu | Mengen | Pazarköy
 125 | Burdur | Ağlasun | Mamak
-11813
 126 | Burdur | Ağlasun | Yeşilbaşköy
 127 | Burdur | Bucak | Çamlık
 128 | Burdur | Bucak | Gündoğdu
@@ -2069,7 +2015,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 165 | Çankırı | Şabanözü | Gümerdiğin
 166 | Çankırı | Şabanözü | Gürpınar
 167 | Çankırı | Yapraklı | İkizören
-11814
 168 | Çankırı | Yapraklı | Yukarıöz
 169 | Çankırı | Yapraklı | Yüklü
 170 | Çorum | Alaca | Alacahöyük
@@ -2112,7 +2057,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 207 | Erzincan | Merkez | Çağlayan
 208 | Erzincan | Merkez | Dörtler
 209 | Erzincan | Merkez | Mollaköy
-11815
 210 | Erzincan | Merkez | Uluköy
 211 | Erzincan | Merkez | Yalnızbağ
 212 | Erzincan | Merkez | Yaylabaşı
@@ -2155,7 +2099,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 249 | Isparta | Sütçüler | Kesme
 250 | Isparta | Şarkikaraağaç | Göksöğüt
 251 | Isparta | Yalvaç | Bağkonak
-11816
 252 | Isparta | Yalvaç | Çetince
 253 | Isparta | Yalvaç | Dedeçam
 254 | Isparta | Yalvaç | Kozluçay
@@ -2199,7 +2142,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 292 | Kırşehir | Akpınar | Köşker
 293 | Kırşehir | Boztepe | Karacaören
 294 | Kırşehir | Çiçekdağı | Boğazevci
-11817
 295 | Kırşehir | Kaman | Başköy
 296 | Kırşehir | Kaman | Çağırkan
 297 | Kırşehir | Kaman | Demirli
@@ -2243,7 +2185,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 335 | Kütahya | Pazarlar | Sofular
 336 | Kütahya | Simav | Bahtıllı
 337 | Kütahya | Simav | Beyce
-11818
 338 | Kütahya | Simav | Çaysimav
 339 | Kütahya | Simav | Demirci
 340 | Kütahya | Simav | Gümüşsu
@@ -2287,7 +2228,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 378 | Nevşehir | Kozaklı | Kanlıca
 379 | Nevşehir | Kozaklı | Karahasanlı
 380 | Nevşehir | Kozaklı | Karasenir
-11819
 381 | Nevşehir | Ürgüp | Başdere
 382 | Nevşehir | Ürgüp | Mustafapaşa
 383 | Niğde | Altunhisar | Çömlekçi
@@ -2331,7 +2271,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 421 | Ordu | İkizce | Kaynartaş
 422 | Ordu | Korgan | Çamlı
 423 | Ordu | Mesudiye | Topçam
-11820
 424 | Ordu | Mesudiye | Üçyol
 425 | Ordu | Mesudiye | Yeşilce
 426 | Ordu | Perşembe | Kırlı
@@ -2375,7 +2314,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 464 | Tokat | Almus | Görümlü
 465 | Tokat | Almus | Ormandibi
 466 | Tokat | Artova | Çelikli
-11821
 467 | Tokat | Erbaa | Akça
 468 | Tokat | Erbaa | Değirmenli
 469 | Tokat | Erbaa | Koçak
@@ -2420,7 +2358,6 @@ S.NO. | İL | İLÇE | BELEDİYE
 508 | Uşak | Merkez | Güre
 509 | Uşak | Merkez | İlyaslı
 510 | Uşak | Sivaslı | Ağaçbeyli
-11822
 511 | Uşak | Sivaslı | Yayalar
 512 | Uşak | Ulubey | Avgan
 513 | Uşak | Ulubey | Hasköy
@@ -2464,11 +2401,9 @@ S.NO. | İL | İLÇE | BELEDİYE
 551 | Yozgat | Yerköy | Saray
 552 | Yozgat | Yerköy | Sekili
 553 | Zonguldak | Alaplı | Gümeli
-11823
 554 | Zonguldak | Devrek | Eğerci
 555 | Zonguldak | Devrek | Özbağı
 556 | Zonguldak | Ereğli | Çaylıoğlu
 557 | Zonguldak | Ereğli | Gökçeler
 558 | Zonguldak | Gökçebey | Hacımusa
 559 | Zonguldak | Merkez | Sivriler
-11824

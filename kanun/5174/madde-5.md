@@ -19,7 +19,6 @@ b) Gemi acenteleri,
 c) Gemi alım satım, navlun komisyoncuları, forvarderler,
 d) Stivedor ve puantaj firmaları,
 e) Gemi klas müesseseleri, deniz sigorta müesseseleri ve acenteleri ile deniz ekspertiz kuruluşları ve sürveyörleri,
-8773
 f) Deniz malzemesi, kumanyacılar ve deniz sanayi malzemesi alım satımı yapan firmalar, gemi akaryakıt ikmal ve sağlama işiyle uğraşan firmalar,
 g) Marina ve liman işletme firmaları,
 h) Balıkçılıkla ilgili gemi işleten firmalar,

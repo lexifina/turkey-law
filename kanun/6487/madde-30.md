@@ -1,1 +1,1 @@
-MADDE 30 – 4760 sayılı Kanuna ekli (I) sayılı listenin (B) cetveli, ekli (1) sayılı cetvelde gösterildiği şekilde değiştirilmiştir.
+MADDE 30 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanunu ile ilgili olup yerine işlenmiştir.

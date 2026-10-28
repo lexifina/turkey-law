@@ -1,3 +1,2 @@
 Enstitü Müdürü
-MADDE 13 — Enstitü Müdürü; harp okullarındaki lisans üstü eğitim ve öğretimin yürütülmesinden Harp Okulu Komutanına karşı sorumlu öğretim üyesi asker kişidir.
-Öğretim üyesi asker enstitü müdürünün atanması; 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu hükümlerine göre yapılır.
+Madde 13 – (Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)

@@ -1,2 +1,3 @@
-Konsey Başkanı
-MADDE 4 — Konsey Başkanı, Başbakandır. Başbakanın toplantılara katılamaması halinde görevlendireceği Başbakan Yardımcısı toplantılara başkanlık eder.
+Konseyin çalışma usul ve esasları
+Madde 4 – (Değişik: 2/7/2018 – KHK/703/109 md.) (İptal: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.) (Başlığı ile Birlikte Yeniden Düzenleme:18/6/2025-7551/11 md.)
+Konseyin çalışma usul ve esasları Cumhurbaşkanınca belirlenir.

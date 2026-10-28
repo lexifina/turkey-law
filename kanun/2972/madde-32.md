@@ -1,7 +1,7 @@
 Seçim çevresi, oy verme ve seçim sistemi:
 Madde 32 – Mahalle muhtarlığı ve ihtiyar heyeti için, mahalle; köy muhtarlığı ve ihtiyar meclisi için köy; seçim çevresidir.
-Her seçim çevresinde usule uygun olarak konmuş sandıklarda o çevre seçimi için oy kullanılır.
-Muhtar seçimi için bir ad yazılı oy pusulası, ihtiyar meclisi ve ihtiyar heyeti seçimi için de bu kurulların asıl üye sayısı kadar ad yazılı oy pusulası Yüksek Seçim Kurulunca hazırlanan özel zarfa konularak oy sandığına atılır.
+(Mülga: 13/3/2018 - 7102/24 md.)
+(Değişik üçüncü fıkra: 12/11/2012-6360/30 md.) Muhtar ile ihtiyar meclisi veya heyeti üyelerinin seçiminde; muhtar ile bu Kanunun 30 uncu maddesinin (a) ve (b) bentlerinde gösterilen ihtiyar meclisi veya heyeti üye sayısı kadar ismin birlikte yazılı olduğu oy pusulası kullanılır. (Mülga son cümle: 13/3/2018 - 7102/24 md.)
 Muhtar, ihtiyar heyeti ve ihtiyar meclisi seçimleri ekseriyet sistemine göre yapılır.
 (Ek : 2/3/1984 - 2986/4.) Bu seçimler için kullanılacak oy pusulaları, basılabilir, teksir edilebilir ve her türlü araçla çoğaltılabilir.
 Boşalan muhtarlık, ihtiyar meclisi ve heyeti üyeliği için seçim yapılması:

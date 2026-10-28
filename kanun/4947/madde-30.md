@@ -1,4 +1,4 @@
-MADDE 11 ilâ 29 - (3146 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
 ÜÇÜNCÜ KISIM
-Yakın ve Orta-Doğu Çalışma Eğitim Merkezi Teşkilât Kanunu ile İlgili Değişiklikler
-MADDE 30 — 27.2.1960 tarihli ve 7460 sayılı Yakın ve Orta-Doğu Çalışma Eğitim Merkezi Teşkilât Kanununun adı "Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi Teşkilât Kanunu" ve bu Kanunda geçen "İcra Vekilleri Heyeti" ibaresi "Bakanlar Kurulu", "Çalışma Vekaleti" ibaresi "Çalışma ve Sosyal Güvenlik Bakanlığı", "Çalışma Vekili" ibaresi "Çalışma ve Sosyal Güvenlik Bakanı", "Yakın ve Orta-Doğu Çalışma Eğitim Merkezi" ibaresi "Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi", "Eğitim Merkezi" ibaresi "Eğitim ve Araştırma Merkezi", "Öğretmenler Kurulu" ibaresi "Danışma Kurulu", "Eğitim Merkezi Müdürü" ibaresi "Eğitim ve Araştırma Merkezi Başkanı" ve "Eğitim Merkezi Müdür Muavini" ibaresi "Eğitim ve Araştırma Merkezi Başkan Yardımcısı" olarak değiştirilmiştir.
+Yakın ve Orta-Doğu Çalışma Eğitim Merkezi
+Teşkilât Kanunu ile İlgili Değişiklikler
+Madde 30-36 - (27.2.1960 tarihli ve 7460 sayılı Yakın ve Orta-Doğu Çalışma Eğitim Merkezi Teşkilât Kanun ile ilgili olup yerine işlenmiştir.)

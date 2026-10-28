@@ -1,4 +1,4 @@
-Tanımlar ve kısaltmalar (1)
+Tanımlar ve kısaltmalar[1]
 Madde 2- Bu Kanunun uygulanmasında;
 1) Bakanlık: Enerji ve Tabiî Kaynaklar Bakanlığını,
 2) Kurum: Enerji Piyasası Düzenleme Kurumunu,
@@ -8,9 +8,6 @@ Madde 2- Bu Kanunun uygulanmasında;
 6) Akaryakıt istasyonu: Dağıtıcı veya bunlarla tek elden satış sözleşmesi yapmış bayilerce ilgili mevzuata uygun (teknik, kalite ve güvenlik) olarak kurulup, bir veya farklı alt başlıktan birer akaryakıt dağıtıcısının tescilli markası altında faaliyette bulunan ve esas itibarıyla araçların akaryakıt, madeni yağ, otogaz LPG, temizlik ve ihtiyarî olarak bakım ile kullanıcıların tüplü LPG hariç diğer asgarî ihtiyaçlarını karşılayacak imkânları sunan yerleri,
 7) Akaryakıtla harmanlanan ürünler: Metil tersiyer bütil eter (MTBE), Etanol vb. (yerli tarım ürünlerinden denatüre olarak üretilenler ile biodizel hariç ) akaryakıt ile eşdeğer vergiye tâbi olan ve olacak ürünleri,
 8) Asfalt : Zemin kaplamasında kullanılan ürünü,
-_____________________
-(1) 25/1/2007 tarihli ve 5576 sayılı Kanunun 1 inci maddesiyle bu maddede yer alan bent numaraları yeniden teselsül ettirilmiştir.
-8642
 9) Bayi: Bayilik faaliyeti için gerekli donanıma sahip gerçek ve tüzel kişileri,
 10) Bayilik: Karşılıklı yükümlülüklerin ekinde fizibilite olan bir sözleşmeye bağlanarak akaryakıt dağıtım şirketleri tarafından gerçek ve tüzel kişilere akaryakıtın kullanıcılara ikmali yetkisi verilmesi işlemini,
 11) Dağıtıcı: Akaryakıt dağıtım yetkisi olan ve lisansına işlenmesi halinde depolama, taşıma, ihrakiye ve madeni yağ üretimi işlemleri yapabilen sermaye şirketini,
@@ -29,7 +26,6 @@ _____________________
 24) Kötüniyet: Piyasa faaliyetinin yapılmasında, petrolün kaybına, karışmasına, bozulmasına veya amaç dışı kullanımına sebebiyet veren bir eylem veya ihmali,
 25) Kullanıcı: Petrol kullanımı yapan gerçek ve tüzel kişileri,
 26) Kullanım: Petrolün sadece kişisel ve işletme ihtiyaçları için tüketimini,
-8642-1
 27) Lisans: Bu Kanuna göre gerçek ve tüzel kişilere piyasada faaliyet gösterebilmeleri için Kurul tarafından izin verildiğini gösterir belgeyi,
 28) Lisanslı depocu: Lisanslı depolama faaliyeti yapan sermaye şirketini,
 29) Lisanslı depolama: Piyasa faaliyetinde bulunanların stok ve işletme ihtiyaçlarını gidermek üzere başkasının mülkiyetindeki petrolün depolanması işlemini,
@@ -39,16 +35,15 @@ _____________________
 33) Petrol: Bu maddenin (5), (14) ve (44) numaralı bentlerinde tanımlananları,
 34) Piyasa faaliyeti: Petrolün; ithalini, ihracını, rafinajını, işlenmesini, depolanmasını, iletimini, ihrakiye teslimini, taşınmasını, dağıtımını, bayiliğini,
 35) Rafinaj: Ham petrolden başlayarak yeni ürünler elde edilmesine ilişkin işlemleri,
-8643
 36) Rafinerici: Lisansı gereği rafinaj faaliyeti yapma hakkı verilmiş, petrol ticareti yapan sermaye şirketini,
 37) Serbest kullanıcı: Kalorifer yakıtı, fuel-oil ve motorinde yıllık 5 000 tondan aşağı olmayacak şekilde Kurum tarafından ürün bazında belirlenen tüketim miktarından fazla yıllık petrol tüketimi olan lisanslı kullanıcıyı,
 38) Solvent: Kimya ve sanayi tesislerinde tüketilen ve/veya yeni kimya ve sanayi mamulleri üretiminde kullanılan petrol ürünlerini,
 39) (Değişik: 9/7/2008-5784/27 md.) Taşıma: Ham petrol ve akaryakıtların, kabotaj kapsamında denizyolu ve demiryolu taşıma araçlarıyla yapılan nakil faaliyetlerini,
 40) Taşıyıcı: Taşıma faaliyeti yapan gerçek ve tüzel kişileri,
-41) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, engelli hale gelmesine veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,(1)
+41) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, engelli hale gelmesine veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,[2]
 42) (Ek: 25/1/2007-5576/1 md.) Teknik düzenleme: Petrolün ve madenî yağın, ilgili idarî hükümler de dahil olmak üzere, standartları, ölçüleri, özellikleri, işleme ve üretim yöntemleri, bunlarla ilgili terminoloji, sembol, ambalajlama, işaretleme, etiketleme ve uygunluk değerlendirmesi işlemleri hususlarından biri veya birkaçını belirten ve uyulması zorunlu olan her türlü düzenlemeyi,
 43) Transit taşıma: Başka bir ülkeden gelen petrolün başka bir ülkeye Türkiye üzerinden kara ve deniz yolu ile taşınmasını,
 44) Ulusal marker: Akaryakıta rafineri çıkışında veya gümrük girişinde eklenecek katkıyı,
 45) Üretim: Petrolün çıkarılmasını, ön işlenmesi ile saha dahilinde veya civarında bulunan depolara, iletim hattına veya rafineriye boru hattı ile taşınmasını veya depolanmasını,
 46) Ürün: Fiziksel veya kimyasal işlem, rafinaj veya diğer yöntemlerle ham petrol ve/veya ürünlerinden elde edilen ürün veya ara ürün herhangi bir hidrokarbonu,
-İfade eder.
+ifade eder.

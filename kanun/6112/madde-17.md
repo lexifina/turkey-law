@@ -3,4 +3,3 @@ MADDE 17 – (1) Üst Kurul, toplum için büyük önem arz eden ulusal ve ulusl
 (2) Önemli olayları yayınlayacak televizyon yayıncıları, önemli olaylar listesinde yer alan olayların ülke geneline şifresiz ve ücretsiz olarak yayınlanmasını sağlar.
 (3) Televizyon yayıncıları, ayrıca Avrupa Sınır Ötesi Televizyon Sözleşmesine taraf başka bir ülkenin listesinde yer alan önemli olaylarla ilgili münhasır haklarını, söz konusu ülke vatandaşlarının önemli bir kesimi tarafından izlenmesini engelleyecek şekilde kullanamaz.
 (4) Kamunun önemli olaylara erişimi ile ilgili usul ve esaslar Üst Kurulca çıkarılacak yönetmelikle düzenlenir.
-11390

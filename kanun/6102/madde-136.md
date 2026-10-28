@@ -4,6 +4,5 @@ b) Yeni bir şirket içinde bir araya gelmeleri, teknik terimle “yeni kuruluş
 yoluyla birleşebilirler.
 (2) 136 ilâ 158 inci maddelerin uygulamasında, kabul eden şirket “devralan”, katılan şirket “devrolunan” diye adlandırılır.
 (3) Birleşme, devrolunan şirketin malvarlığı karşılığında, bir değişim oranına göre devralan şirketin paylarının, devrolunan şirketin ortaklarınca kendiliğinden iktisap edilmesiyle gerçekleşir. Birleşme sözleşmesi 141 inci maddenin ikinci fıkrası anlamında ayrılma akçesini de öngörebilir.
-11007
 (4) Birleşmeyle, devralan şirket devrolunan şirketin malvarlığını bir bütün hâlinde devralır. Birleşmeyle devrolunan şirket sona erer ve ticaret sicilinden silinir.
 b) Geçerli birleşmeler

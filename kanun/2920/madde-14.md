@@ -1,4 +1,4 @@
-Araştırma ve inceleme raporu (3)
+Araştırma ve inceleme raporu[6]
 Madde 14 – (Değişik: 23/1/2008-5728/429 md.)
 Araştırma ve İnceleme Kurulu; tespit ettiği hususları, vardığı sonucu, tekrarlara engel olunması bakımından alınmasını uygun bulduğu önlemleri, önerileri ile birlikte ayrıntılı ve gerekçeli bir rapor hâlinde Ulaştırma Bakanlığına verir.
 Raporda yer alan hususlara kısmen veya tamamen katılmayan üyeler, kişisel görüşlerini ek bir raporda belirtebilirler.

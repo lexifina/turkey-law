@@ -1,2 +1,2 @@
 Düzenleme görev ve yetkisi
-MADDE 12- (1) Başkanlık, Kanunla yerine getirmekle yükümlü olduğu hizmetleri, yönetmelik, tebliğ, genelge ve diğer idari metinleri düzenlemekle görevli ve yetkilidir.
+MADDE 12- (Mülga: 2/7/2018/KHK/703/103 md.)

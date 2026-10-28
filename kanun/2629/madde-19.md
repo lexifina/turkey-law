@@ -1,0 +1,1 @@
+Madde 19 – Bu Kanun kapsamına girenlerden 3/11/1980 tarih ve 2330 sayılı Kanun hükümlerine göre görev yaparken bu Kanunun 13 üncü maddesindeki faaliyetlerinden dolayı şehit olanlar veya engelli hâle gelenler 14 üncü maddeye göre şehitlik ve engellilik tazminatı alırlar, ayrıca 2330 sayılı Kanundan yararlanamazlar.[21]

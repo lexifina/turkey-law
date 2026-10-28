@@ -1,2 +1,2 @@
-Tescil ve terkin
-Madde 6 – Hak kazananlara verilen veya geri alınan madalya ve nişanların Başbakanlık Personel Genel Müdürlüğünce kayıtları tutulur ve bu genel müdürlükçe tescil veya terkinleri yapılır.
+Tescil ve terkin[8]
+Madde 6 – Hak kazananlara verilen veya geri alınan madalya ve nişanların Cumhurbaşkanlığınca kayıtları tutulur ve (…)8 tescil veya terkinleri yapılır.

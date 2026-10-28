@@ -3,4 +3,3 @@ Madde 99- Aynı ilde kurulu odaların yönetim kurulları, alacakları meslekî 
 Oda ve borsa yönetim kurulları, aynı ildeki diğer oda ve borsaların verdikleri kararlara itiraz edebilirler. İtiraz eden oda veya borsanın başvurusu üzerine en yaşlı meclis başkanının daveti ve başkanlığı altında, yönetim kurulları birlikte toplanarak ihtilafı çözerler. Anlaşmazlık halinde Birlik, hakem olur.
 Ayrıca, ilde kurulu oda ve borsa yönetim kurulları, meslekî konularda görüş oluşturmak amacıyla dört ayda bir müştereken toplanır.
 Toplanma ve müzakere usulü Birlikçe hazırlanacak yönetmelikle düzenlenir.
-8812-1

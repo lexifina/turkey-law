@@ -7,10 +7,9 @@ d) Bölgede olağanüstü hal hizmetlerinin yürütülmesi ile görevli personel
 e) Bölge sınırları içerisindeki tüm haberleşme araç ve gereçlerinden yararlanmak ve gerektiğinde bu amaçla geçici olarak bunlara elkoymak,
 f) Tehlike arz eden binaları yıkmak; sağlığı tehdit ettiği tespit olunan taşınır ve taşınmaz mallar ile sağlığa zararlı gıda maddelerini ve mahsullerini imha etmek,
 g) Belli gıda maddeleri ile hayvan ve hayvan yemi ve hayvan ürünlerinin bölge dışına çıkarılmasını veya bölgeye sokulmalarını kontrol etmek, sınırlamak veya gerektiğinde yasaklamak,
-6178
 h) Gerekli görülen zaruri ihtiyaç maddelerinin dağıtımını düzenlemek,
 i) Halkın beslenmesi, ısınması, temizliği ve aydınlanması için gerekli gıda madde ve eşyalarla her türlü yakıtın, sağlığın korunmasında, tedavide ve tıpta kullanılan ilaç, kimyevi madde, alet ve diğer şeylerin, inşaat, sanayi, ulaşım ve tarımda kullanılan eşya ve maddelerin, kamu için gerekli diğer mal, eşya, araç, gereç ve her türlü maddelerin imali, satımı, dağıtımı, depolanması ve ticareti konularında gerekli tedbirleri almak, bu yerlere gerektiğinde elkoymak, kontrol etmek ve bu malları satıştan kaçınan, saklayan, kaçıran, fazla fiyatla satan, imalatını durduran veya yavaşlatanlar hakkında fiilin işleniş şekli veya niteliği de nazara alınarak işyeri bulunduğu mahal için hayati önem taşımadığı takdirde işyerini kapatmak,
 j) Kara, deniz ve hava trafik düzenine ilişkin tedbirleri almak, ulaştırma araçlarının bölgeye giriş ve çıkışlarını kayıtlamak veya yasaklamak.
 İKİNCİ BÖLÜM
 Ağır Ekonomik Bunalım Hallerinde Yükümlülükler ve Alınacak Tedbirler
-Ağır ekonomik bunalım hallerinde yükümlülükler ve alınacak tedbirler:
+Ağır ekonomik bunalım hallerinde yükümlülükler ve alınacak tedbirler:[4]

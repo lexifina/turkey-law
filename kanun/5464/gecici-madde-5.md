@@ -7,7 +7,6 @@ b) 12 aylık vade için 1,08,
 c) 24 aylık vade için 1,18,
 d) 36 aylık vade için 1,26,
 ile çarpılarak hesaplanacak tutarın ay sayısına bölünmesi suretiyle hesaplanır. Vadeli ödemelerde ilk taksit peşin olarak ödenir.
-9718-1
 Kredi kartı borçlusunun bu maddenin birinci fıkrasına uygun olarak alacaklıya müracaat etmesi ve yapılan ödeme planı doğrultusunda taksit tutarlarını ödemesi şartıyla, halihazırda yapılmış işlemler baki kalmak kaydıyla icra işlemleri durur, İcra ve İflas Kanununda belirtilen süreler işlemez.
 Kredi kartı borçlusu bu ödeme planına karşı ancak, plan doğrultusunda ödeme yapmak ve ödemelere devam etmek koşulu ile itiraz yoluna başvurabilir.
 Bu madde kapsamında yeniden yapılandırılan borçlarda, borçlunun yapılandırma öncesi dönemde borca vaki itirazları ortadan kalkar. Ödeme planı uyarınca son taksitin de vadesinde ödenmesi üzerine icra takibi sona erer.

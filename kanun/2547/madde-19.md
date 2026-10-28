@@ -6,7 +6,6 @@ b. Enstitü müdürü, üç yıl için ilgili fakülte dekanının önerisi üze
 Müdürün, enstitüde görevli aylıklı öğretim elemanları arasından üç yıl için atayacağı en çok iki yardımcısı bulunur.
 Müdüre vekalet etme veya müdürlüğün boşalması hallerinde yapılacak işlem, dekanlarda olduğu gibidir.
 Enstitü müdürü, bu kanun ile dekanlara verilmiş olan görevleri enstitü bakımından yerine getirir.
-5360
 c. Enstitü kurulu, müdürün başkanlığında, müdür yardımcıları ve enstitüyü oluşturan ana bilim dalı başkanlarından oluşur.
 d. Enstitü yönetim kurulu, müdürün başkanlığında, müdür yardımcıları, müdürce gösterilecek altı aday arasından enstitü kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşur.
 e. Enstitü kurulu ve enstitü yönetim kurulu, bu kanunla fakülte kurulu ve fakülte yönetim kuruluna verilmiş görevleri enstitü bakımından yerine getirirler.

@@ -5,8 +5,5 @@ Madde 86- (1) Kapalı ve açık ceza infaz kurumlarına ziyaret veya görüşe g
 (4) Ceza infaz kurumlarına giren avukatlarca savunmaya ilişkin olduğu yazılı olarak beyan edilen belge ve dosyalar incelemeye tâbi tutulmaz.
 (5) Konusu suç teşkil etmemekle birlikte ceza infaz kurumlarına sokulması yasak olan her türlü eşya, çıkışta sahibine verilmek üzere idare tarafından muhafaza altına alınır.
 (6) Hükümlüler, odalarından çıkış ve dönüşlerinde ayrı yerlerde ve farklı memurlarca üst ve eşya aramasına tâbi tutulurlar.
-––––––––––––––––
-(1) Bu madde başlığı “Heyetlerin ceza infaz kurumlarını ziyaretleri” iken, 8/8/2011 tarihli ve 650 sayılı KHK’nin 28 inci maddesiyle metne işlendiği şekilde değiştirilmiş olup, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin başlığı ve birinci fıkrası iptal edilmiş ve 27/6/2013 tarihli ve 6494 sayılı Kanunun 26 ncı maddesiyle bu maddenin başlığı metne işlendiği şekilde yeniden düzenlenmiştir.
-9246
 (7) Aramalarda insan onuruna saygı esastır.
 (8) Ziyaret ve görüşlerde kurallara uymayan heyet ve kişilerin ziyaret ve görüşmeleri sürdürmelerine derhâl son verilir. Suç oluşturan davranışlar, ilgili idarî ve adlî makamlara bildirilir. Görüşme hakkına sahip özel kişilerin kurum güvenliğinin korunması amacıyla alınan tedbirlere aykırı davranışları ve istekleri nedeniyle görüşme hakları, kurumun en üst amirince bir aydan bir yıla kadar kısıtlanabilir. Mevzuatın avukatlar bakımından getirdiği hükümler saklıdır.

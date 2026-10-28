@@ -7,13 +7,9 @@ a) Eşyanın montajı, kurulması ve diğer eşya ile birleştirilmesi dahil olm
 b) Eşyanın işlenmesi,
 c) Eşyanın yenilenmesi ve düzenli hale getirilmesi dahil olmak üzere tamir edilmesi,
 d) İşleme sırasında tamamen veya kısmen tüketilseler dahi, işlem görmüş ürünler içinde bulunmayan ancak, bu ürünlerin üretilmesini sağlayan veya kolaylaştıran önceden belirlenmiş bazı eşyanın kullanılması,
-Anlamına gelir.
+anlamına gelir.
 4. "İşlem görmüş ürün" deyimi, işleme faaliyetleri sonucunda elde edilen tüm ürünler anlamına gelir.
 5. "Asıl işlem görmüş ürün" deyimi, dahilde işleme rejimi kapsamında elde edilmesi amaçlanan ürün anlamına gelir.
 6. "ikincil işlem görmüş ürün" deyimi, işleme faaliyetleri sonucunda elde edilen asıl işlem görmüş ürün dışındaki ürünler anlamına gelir.
 7. "Eşdeğer eşya" deyimi, işlem görmüş ürünlerin imali için ithal eşyasının yerine kullanılan serbest dolaşımda bulunan eşya anlamına gelir.
-–––––––––––––––
-(1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 66 ncı maddesiyle; bu maddenin başına “Tarım politikası kapsamı eşya dâhil,” ibaresi eklenmiş ve metne işlenmiştir.
-(2) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu maddede yer alan “ihraç eşyasının” ibaresi “serbest dolaşımda bulunan eşyanın” şeklinde değiştirilmiş ve metne işlenmiştir.
-7708-1
 8. "Verimlilik oranı" deyimi, belirli miktardaki ithal eşyasının işlenmesi sonucunda elde edilen işlem görmüş ürünlerin miktarı veya yüzde oranı anlamına gelir.

@@ -1,7 +1,6 @@
 Portföy saklama hizmeti ve bundan doğan sorumluluk
 MADDE 56 – (1) Kolektif yatırım kuruluşlarının portföylerindeki varlıklar bu kuruluşlar adına açılmış ayrı bir saklama hesabında saklanmak üzere portföy saklama hizmetini yürüten kuruluşa teslim edilir. Portföy saklama hizmeti;
 a) Yatırım fonları hesabına katılma paylarının ihraç ve itfa edilmesi işlemlerinin mevzuat ve fon iç tüzüğü hükümlerine uygunluğunun,
-11872
 b) Değişken sermayeli yatırım ortaklıklarının paylarının ihraç ve itfa edilmesi işlemlerinin mevzuat ve esas sözleşme hükümlerine uygunluğunun,
 c) Yatırım fonu veya değişken sermayeli yatırım ortaklığı birim katılma payı veya birim pay değerinin mevzuat ile fon iç tüzüğü veya esas sözleşme hükümleri çerçevesinde belirlenen değerleme esaslarına göre hesaplanmasının,
 ç) Mevzuat ile fon iç tüzüğü veya esas sözleşme hükümlerine aykırı olmamak şartıyla, portföy yönetim şirketi, değişken sermayeli yatırım ortaklığı ve yatırım ortaklığı talimatlarının yerine getirilmesinin,
@@ -16,5 +15,4 @@ sağlanmasını içerir.
 (6) Portföy saklama hizmetini yürüten kuruluş ile portföy yönetim şirketi aynı tüzel kişi olamaz. Portföy saklama hizmetini yürüten kuruluş ve portföy yönetim şirketi görevlerini yerine getirirken birbirlerinden bağımsız ve sadece katılma payı sahiplerinin menfaatleri doğrultusunda hareket etmekle yükümlüdürler.
 (7) Portföy saklama hizmetini yürüten kuruluş ve fon portföyüne varlık alım satımına aracılık hizmeti veren yatırım kuruluşunun yöneticileri ile bu kuruluşları temsil ve ilzama yetkili kişiler, portföy yönetim şirketinde ortak, yönetici ya da temsilci olamazlar. Portföy yönetim şirketinin ortakları, yöneticileri ile bu şirketleri temsil ve ilzama yetkili kişiler de saklama hizmetini yürüten kuruluşta yönetici ya da temsilci olamazlar.
 (8) Kurul, fon portföylerinde yer alan varlıkların nitelikleri, ihraççı, ihracın yönelik olduğu yatırımcılar, portföy yönetim şirketlerinin ve yatırım ortaklıklarının sermaye yapıları ve ihracın niteliklerine göre saklama hizmeti için farklı esaslar belirleyebilir veya saklama zorunluluğundan muafiyet getirebilir.
-11873
 (9) Portföy saklama hizmetini yürütecek kuruluşların niteliklerine ve bu faaliyetin yürütülmesine ilişkin usul ve esaslar Kurul tarafından belirlenir.

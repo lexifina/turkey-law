@@ -1,6 +1,6 @@
-Aynın İhtilaflı Bulanması Tescil ve Tapuda Kayıtlı Olmayan Taşınmaz
-Malın Kamulaştırma Bedelinin Mahkemece Tespiti ve
-Zilyedin Hakları (1)
+ÜÇÜNCÜ KISIM
+Aynın İhtilaflı Bulanması Tescil ve Tapuda Kayıtlı Olmayan Taşınmaz Malın
+Kamulaştırma Bedelinin Mahkemece Tespiti ve Zilyedin Hakları[20]
 BİRİNCİ BÖLÜM
 Elkoyma
 Acele işlerde elkoyma ve tescil

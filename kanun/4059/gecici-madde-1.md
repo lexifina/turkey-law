@@ -1,3 +1,3 @@
 ALTINCI KISIM
 Geçici Hükümler
-Geçici Madde 1 – Bu Kanuna ekli listelerde yer alan kadrolar ihdas edilerek 14.12.1983 tarih ve 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellere Hazine Müsteşarlığı ve Dış Ticaret Müsteşarlığı bölümü olarak eklenmiştir.
+Geçici Madde 1 – (Mülga: 2/7/2018-KHK-703/16 md.)

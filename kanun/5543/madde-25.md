@@ -10,4 +10,3 @@ d) Kamulaştırma bedelleri ile tezyidi bedel davaları sonucunda alınan parala
 e) Geri ödeme tahsilatlarından sağlanan gelirler,
 f) Diğer hibe, yardım ve gelirler,
 genel bütçeye gelir kaydedilir.
-9939

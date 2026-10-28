@@ -1,6 +1,5 @@
 Yıllık ücretli izin hakkı ve izin süreleri
 Madde 53 - İşyerinde işe başladığı günden itibaren, deneme süresi de içinde olmak üzere, en az bir yıl çalışmış olan işçilere yıllık ücretli izin verilir.
-8442
 Yıllık ücretli izin hakkından vazgeçilemez.
 Niteliklerinden ötürü bir yıldan az süren mevsimlik veya kampanya işlerinde çalışanlara bu Kanunun yıllık ücretli izinlere ilişkin hükümleri uygulanmaz.
 İşçilere verilecek yıllık ücretli izin süresi, hizmet süresi;

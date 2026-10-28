@@ -15,4 +15,3 @@ l) Teslimde ödemeli taşımalarda teslimde ödeme kaydı ve ödenecek tutar.
 m) Eşyanın gümrük ve diğer resmî işlemlerine ilişkin talimatlar.
 n) Varsa taşımanın üstü açık ya da örtülmemiş bir araçta veya güvertede yapılabileceğine ilişkin sözleşme.
 (2) Taşıma senedine tarafların uygun gördüğü diğer kayıtlar da konulabilir.
-11162

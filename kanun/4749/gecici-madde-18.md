@@ -1,6 +1,2 @@
 Geçici Madde 18 – (Ek: 16/7/2008-5787/18 md.)
 22/5/2007 tarihli ve 5664 sayılı Konut Edindirme Yardımı Hak Sahiplerine Ödeme Yapılmasına Dair Kanunun 4 üncü maddesinin üçüncü fıkrası uyarınca hak sahiplerine yapılacak ödemelere ilişkin olarak; Emlak Konut Gayrimenkul Yatırım Ortaklığının yükümlülüğü için Müsteşarlık tarafından Emlak Konut Gayrimenkul Yatırım Ortaklığı Anonim Şirketine ikrazen Devlet İç Borçlanma Senetleri ihraç edilebilir. Emlak Konut Gayrimenkul Yatırım Ortaklığının yükümlülüğünü aşan kısmı için ise Müsteşarlık tarafından Emlak Konut Gayrimenkul Yatırım Ortaklığı Anonim Şirketine özel tertip Devlet İç Borçlanma Senedi ihraç edilebilir. Bu kapsamda ihraç edilecek özel tertip Devlet İç Borçlanma Senetleri için bu Kanunun 6 ncı maddesinin ikinci fıkrası hükümleri uygulanmaz.
-–––––––––––––
-(1) Bu fıkranın “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile iptal edilmiştir.
-(2) Bu maddenin birinci fıkrasının “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile iptal edilmiştir.
-8294-4

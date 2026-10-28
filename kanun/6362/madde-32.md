@@ -9,6 +9,5 @@ b) Sermaye piyasası araçlarının alım veya satımının kamuyu aydınlatma b
 c) Kamuyu aydınlatma belgelerinde yer alan yanlış, yanıltıcı veya eksik bilgilere ilişkin düzeltmenin, yatırım kararının verilmesinden veya bu belgeye dayanarak işlem yapılmasından önce ilan edilmiş olması,
 ç) Kamuya açıklanan belgede yer alan bilgiler yanlış, yanıltıcı veya eksik olmasaydı dahi yatırımcıların zarara uğrayacak olmaları,
 hâlinde reddedilir.
-11861
 (6) Kamuyu aydınlatma belgelerinden doğan tazminat talebi, dördüncü fıkradaki zararın meydana geldiği tarihten itibaren altı ay içinde zamanaşımına uğrar.
 (7) Kamuyu aydınlatma belgelerinden doğan sorumluluğu hafifleten ya da kaldıran anlaşmalar, hüküm veya ifadeler geçersizdir.

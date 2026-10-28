@@ -6,5 +6,5 @@ c) Ödenmiş sermayesinin Türkiye'ye tahsis edilen kısmının 7 nci maddede be
 d) Müdürler kurulu üyelerinin, kurumsal yönetim hükümlerinde belirtilen şartları ve plânlanan faaliyetleri gerçekleştirebilecek meslekî tecrübeyi haiz olmaları,
 e) İzin kapsamındaki faaliyet konularına ait iş plânlarını, ilk üç yıl için bütçe plânını ve yapısal örgütlenmesini gösteren bir faaliyet programını ibraz etmesi,
 f) Dahil olduğu grubun ortaklık yapısının şeffaf ve açık olması,
-Şarttır.
+şarttır.
 Merkezinin bulunduğu ülkedeki yerel düzenlemelere aykırılıkları nedeniyle faaliyeti yasaklanan konularda faaliyet izni verilmez.

@@ -6,7 +6,6 @@ a) Uyarma; mesleğin icrasında ve davranışlarında daha dikkatli davranması 
 3) Üyesi olduğu odanın, borsanın veya Birliğin itibarını zedeleyici sözler sarf etmek.
 4) Müşteri veya iş sahipleri ile olan ilişkilerinde terbiye ve nezakete aykırı davranışta bulunmak.
 b) Kınama; meslekî tutum ve davranışlarında kusurlu sayıldığının ilgili üyeye bir yazıyla bildirilmesidir. Kınama cezasını gerektiren fiil ve haller şunlardır:
-8809
 1) Üyesi olduğu odanın, borsanın veya Birliğin itibarını zedeleyici asılsız yayında bulunmak.
 2) Müşterisine veya iş sahiplerine karşı taahhütlerini yerine getirmemek.
 3) İş ilişkisinde bulunduğu kimseler hakkında haksız ithamda bulunmak.

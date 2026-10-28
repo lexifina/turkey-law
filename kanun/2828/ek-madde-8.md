@@ -1,0 +1,2 @@
+Ek Madde 8 – (Ek: 1/7/2005-5378/30 md.)[37]
+İşitme ve konuşma engellilerine gerek görüldüğü hâllerde tercümanlık yapmak üzere illerde işaret dili bilen personel görevlendirilir. Personelin işaret lisanı öğrenmeleri için gerekli kursların düzenlenmesi sağlanır. Bu personelin görev ve yetkileri, çalışma koşulları ile ilgili usûl ve esaslar Aile ve Sosyal Politikalar Bakanlığınca hazırlanacak yönetmelikle belirlenir.

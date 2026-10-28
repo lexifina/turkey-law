@@ -6,4 +6,4 @@ c) 46 ncı, 47 nci, 48 inci, 49 uncu, 50 nci, 51 inci, 52 nci, 53 üncü,
 54 üncü, 55 inci ve 57 nci maddeleri ile 62 nci maddesinin (3) üncü fıkrası ve Geçici 1 inci maddesi 1/6/2000 tarihinde,
 d) 24 üncü maddesi, Türkiye Cumhuriyeti Emekli Sandığı iştirakçileri ile ilgili personel kanunlarında gerekli değişikliklerin yapılmasını takip eden yılbaşında,
 e) Diğer hükümleri Kanunun yayımı tarihinde,
-Yürürlüğe girer.
+yürürlüğe girer.

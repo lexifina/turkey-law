@@ -1,9 +1,9 @@
 Salıverme sonrası görevler
-MADDE 15 — (1) Şube müdürlüğünün salıverme sonrası görevleri şunlardır:
+Madde 15 - (1) Müdürlüğün salıverme sonrası görevleri şunlardır:[19]
 a) 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 107 nci maddesinin;
 1) Yedinci fıkrasında düzenlenen denetim süresinde hükümlünün kamu kuruluşunda veya bir başkasının gözetiminde ücretle çalıştırılması,
 2) Sekizinci fıkrasında düzenlenen çocuk hükümlülerin, gerektiğinde barınma imkânı da bulunan bir eğitim kurumuna yerleştirilmesi,
-3) Dokuzuncu fıkrasında düzenlenen uzman bir kişinin görevlendirilmesi ve hükümlünün davranışlarının izlenerek hâkime rapor verilmesi,
+3) Dokuzuncu fıkrasında düzenlenen uzman bir kişinin görevlendirilmesi ve hükümlünün davranışlarının izlenerek infaz hâkimine rapor verilmesi,[20]
 4) Onikinci fıkrasında düzenlenen denetim süresinde hükümlünün yükümlülüklere uyması veya hapis cezasını gerektiren kasıtlı bir suç işlememesi,
 5) Ondördüncü fıkrasında düzenlenen denetim süresini iyi hâlle geçirmesi,
 Biçimindeki yükümlülüklerin denetimi kapsamında kendisine verilen görevleri, gerektiğinde kolluk ve ilgili diğer makamlarla işbirliği yaparak yerine getirmek.

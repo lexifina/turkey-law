@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 5 — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 5 – Bu Kanun yayımı tarihinde yürürlüğe girer.

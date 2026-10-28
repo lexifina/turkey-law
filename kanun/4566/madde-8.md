@@ -1,12 +1,10 @@
 ÜÇÜNCÜ BÖLÜM
 Organlar ve Görevler
 Organlar
-MADDE 8 — Harp okullarının eğitim-öğretim ve yönetim işleri;
-a) Harp Okulu Komutanı,
-b) Eğitim ve Öğretim Yüksek Kurulu,
+Madde 8 – (Değişik: 15/8/2017-KHK-694/92 md.; Aynen kabul: 1/2/2018-7078/88 md.)
+Harp okullarının eğitim-öğretim faaliyetleri ile idari hizmetleri;
+a) Harp okulu kurulları,
+b) Harp okulu komutanı,
 c) Dekan,
-d) Enstitü Müdürü,
-e) Bilimsel Denetleme Kurulu,
-f) Öğrenci Alay Komutanı,
-g) Yüksek Disiplin Kurulu,
-Tarafından yürütülür.
+d) Öğrenci alay komutanı,
+tarafından yürütülür.

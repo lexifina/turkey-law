@@ -11,4 +11,3 @@ c) Dava giderlerinin avukat veya dava vekilleri veya onlar adına hareket edenle
 d) Kamulaştırma bedelinin tamamının veya bir kısmının nakden veya başka bir şekilde, avukat veya dava vekili veya onlar adına hareket edenler tarafından mal sahibine önceden ödenmesi.
 e) Kamulaştırma bedelinin tamamının veya bir kısmının avukat veya dava vekili veya onlar adına hareket edenlere ait olacağının kararlaştırılması.
 f)Yukarıda yazılı bentlerde yasaklanan fiillerin avukat veya dava vekillerince bizzat veya aracı ile mal sahibine teklif edilmesi veya bunlara yardımcı olunması.
-6217

@@ -9,7 +9,6 @@ a) Hizmet akdi ile bir veya birden fazla işveren tarafından çalıştırılanl
 b) Köy ve mahalle muhtarları ile hizmet akdine bağlı olmaksızın kendi adına ve hesabına bağımsız çalışanlardan ise;
 1) Ticarî kazanç veya serbest meslek kazancı nedeniyle gerçek veya basit usûlde gelir vergisi mükellefi olanlar,
 2) Gelir vergisinden muaf olup, esnaf ve sanatkâr siciline kayıtlı olanlar,
-9786
 3) Anonim şirketlerin yönetim kurulu üyesi olan ortakları, sermayesi paylara bölünmüş komandit şirketlerin komandite ortakları, diğer şirket ve donatma iştiraklerinin ise tüm ortakları,
 4) Tarımsal faaliyette bulunanlar,
 c) Kamu idarelerinde;
@@ -28,12 +27,12 @@ hakkında da uygulanır. (Ek cümle: 11/10/2011-KHK-665/29 md.) Bu fıkranın (g
 Birinci fıkranın (b) bendi gereği sigortalı sayılanlara ilişkin hükümler; 10/7/1953 tarihli ve 6132 sayılı At Yarışları Hakkında Kanuna tabi jokey ve antrenörler hakkında da uygulanır.
 Birinci fıkranın (c) bendi gereği sigortalı sayılanlara ilişkin hükümler;
 a) Kuruluş ve personel kanunları veya diğer kanunlar gereğince seçimle veya atama yoluyla kamu idarelerinde göreve gelenlerden; bu görevleri sebebiyle kendilerine ilgili kanunlarında Devlet memurları gibi emeklilik hakkı tanınmış olanlardan hizmet akdi ile çalışmayanlar,
-b) Başbakan, bakanlar, Türkiye Büyük Millet Meclisi üyeleri, belediye başkanları, il encümeninin seçimle gelen üyeleri,
+b) Başbakan, Cumhurbaşkanı yardımcıları, bakanlar, Türkiye Büyük Millet Meclisi üyeleri, belediye başkanları, il encümeninin seçimle gelen üyeleri,[5]
 c) Birinci fıkranın (c) bendi kapsamında iken, bu kapsamdaki kişilerin kurduğu sendikalar ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına seçilenlerden aylıksız izne ayrılanlar,
-d) Harp okulları ile fakülte ve yüksek okullarda, Türk Silâhlı Kuvvetleri hesabına okuyan veya kendi hesabına okumakta iken askerî öğrenci olanlar ile astsubay meslek yüksek okulları ve astsubay naspedilmek üzere temel askerlik eğitimine tâbi tutulan adaylar,
-9787
-e) Polis Akademisi ile fakülte ve yüksek okullarda, Emniyet Genel Müdürlüğü hesabına okuyan veya kendi hesabına okumakta iken Emniyet Genel Müdürlüğü hesabına okumaya devam eden öğrenciler ile polis nasbedilmek üzere Polis Meslek Eğitim Merkezlerinde polislik eğitimine tabi tutulan adaylar, (1)
+d) Harp okulları ile fakülte ve yüksek okullarda, Milli Savunma Bakanlığı hesabına okuyan veya kendi hesabına okumakta iken askerî öğrenci olanlar ile astsubay meslek yüksek okulları ve astsubay naspedilmek üzere temel askerlik eğitimine tâbi tutulan adaylar,[6]
+e) Polis Akademisi ile fakülte ve yüksek okullarda, Emniyet Genel Müdürlüğü hesabına okuyan veya kendi hesabına okumakta iken Emniyet Genel Müdürlüğü hesabına okumaya devam eden öğrenciler ile polis nasbedilmek üzere Polis Meslek Eğitim Merkezlerinde polislik eğitimine tabi tutulan adaylar,[7]
+f) (Ek: 2/1/2017 - KHK - 680/73 md.; Aynen kabul: 1/2/2018-7072/71 md.) Jandarma ve Sahil Güvenlik Akademisi ile fakülte ve yüksekokullarda Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı nam ve hesabına okuyan veya kendi hesabına okumakta iken Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı nam ve hesabına okumaya devam edenler ile subay ve astsubay naspedilmek üzere temel askerlik eğitimine tabi tutulan adaylar,
 hakkında da uygulanır.
-Dördüncü fıkranın (d) ve (e) bentlerinde belirtilen okulları tamamlamadan ayrılanlar ile bu okulları tamamlamalarına rağmen görevlerine başlamadan ayrılanların, bu okullarda geçen eğitim süreleri sigortalılıklarından sayılmaz.
+Dördüncü fıkranın (d), (e) ve (f) bentlerinde belirtilen okulları tamamlamadan ayrılanlar ile bu okulları tamamlamalarına rağmen görevlerine başlamadan ayrılanların, bu okullarda geçen eğitim süreleri sigortalılıklarından sayılmaz.[8]
 Bu Kanunun kısa vadeli sigorta kollarına ilişkin hükümleri bu maddenin birinci fıkrasının (c) bendi kapsamında sigortalı sayılanlara bu kapsamda oldukları sürece uygulanmaz.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurum tarafından çıkarılacak yönetmelikle düzenlenir.

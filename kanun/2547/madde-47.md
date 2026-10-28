@@ -4,3 +4,4 @@ a. (Değişik: 17/8/1983 - 2880/28 md.) Yükseköğretim kurumları, Yükseköğ
 b. Yükseköğretim kurumları, özel ve kamu kuruluşları ile işbirliği yaparak mezunlarına iş bulmakta yardımcı olurlar.
 c. Üniversiteler rehberlik ve psikolojik danışma merkezleri kurar, öğrencilerin kişisel ve ailevi sorunlarını çözümlemeye çalışır.
 d. Kamu kuruluşları adına, Üniversitelerde okuyacak öğrencilere bu kuruluşlarca verilecek bursların bilim dallarına dağılımı ve sayısı, insangücü ihtiyacı ve öğretim elemanı yetiştirilmesi bakımından, devlet kalkınma planları ilke ve hedeflerine göre Yükseköğretim Kurulu tarafından belirtilir. Burslu öğrencilerin harçları ile laboratuvar, sınav ve diploma masrafları burs kapsamına girer.
+Ders kitapları ve eğitim-öğretim araçlarının basılıp çoğaltılması:[46]

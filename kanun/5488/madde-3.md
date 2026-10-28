@@ -11,7 +11,6 @@ g) Entegre idare ve kontrol sistemi: Arazi parsel tanımlama, çiftçi kayıt, h
 ğ) Özel sektör: Tarımsal alanda faaliyet gösteren kamu kurum ve kuruluşları dışındaki gerçek ve tüzel kişileri,
 h) Sözleşmeli üretim: Üretici ve yetiştiriciler ile diğer gerçek ve tüzel kişilerin karşılıklı menfaat esaslarına dayalı yazılı akitlerle yürütülen tarımsal üretim şeklini,
 ı) Tarım: Doğal kaynakları uygun girdilerle birlikte kullanarak yapılan her türlü üretim, yetiştirme, işleme ve pazarlama faaliyetlerini,
-9726
 i) Tarımsal işletme: Üretim faktörlerini kullanarak; bitkisel ve/veya hayvansal ve/veya su ürünlerinin üretimi için tarımsal faaliyet yapan veya söz konusu tarımsal faaliyete ilave olarak işleme, depolama, muhafaza ve pazarlamaya yönelik faaliyetlerde bulunan işletmeyi,
 j) Tarımsal üretim: Toprak, su ve biyolojik kaynaklar ile birlikte tarımsal girdiler kullanılarak yapılan bitkisel, hayvansal, su ürünleri, mikroorganizma ve enerji üretimini,
 k) Ürün: Bitkisel, hayvansal ve su ürünleri alanında elde edilen her türlü işlenmemiş ham ürünler ile bunların birinci derece işlenmesi ile elde edilmiş ürünleri,

@@ -4,9 +4,6 @@ a) Organların seçimi.
 b) Tüzük değişikliği.
 c) Yönetim ve denetleme kurulu raporlarının görüşülmesi ve aklanması.
 d) Yönetim kurulunca hazırlanan çalışma programı ve bütçenin görüşülerek karara bağlanması.
-–––––––––––––––
-(1) 4/4/2012 tarihli ve 6289 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “tüzük hükümleri gereğince” ibaresinden sonra gelmek üzere “altmış günü geçmemek kaydıyla” ibaresi eklenmiş ve metne işlenmiştir.
-8002
 e) Sendika ve konfederasyonların tüzüklerinde belirtilen konularda yönetim kuruluna yetki verilmesi.
 f) Taşınmaz malların satın alınması veya mevcut taşınmaz malların satılması konusunda yönetim kuruluna yetki verilmesi.
 g) Sendika ve konfederasyon yönetim kurulu üyelerine verilecek her türlü ücret ve diğer görevlilerin huzur hakkı ve yolluklarının belirlenmesi.

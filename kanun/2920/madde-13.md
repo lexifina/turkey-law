@@ -1,4 +1,4 @@
-Araştırma ve İnceleme Kurulu (2)
+Araştırma ve İnceleme Kurulu[5]
 Madde 13 – (Değişik: 23/1/2008-5728/428 md.)
 Ulaştırma Bakanlığı, havacılık alanında uzmanlığı kabul edilmiş kişilerden seçilecek bir kurulu, kazanın sebeplerini araştırması için görevlendirir. Bu Kurul, yukarıdaki maddede belirtilen amaç dairesinde her türlü araştırma ve incelemeyi yapar, soruşturma işlemlerini yürütmekle görevli Cumhuriyet savcısı ile işbirliği yaparak, delillerin toplanmasına yardımcı olur.
 Kurul, yaptığı araştırma ve inceleme faaliyeti sırasında ilgili kişileri dinleyebilir; açıklama yapmaktan kaçınan kişilerin Cumhuriyet savcısına başvurarak ifadesinin alınmasını sağlayabilir; bu ifade alma sırasında hazır bulunarak, açıklığa kavuşturulması istenen hususlarla ilgili olarak ifadesi alınan kişiye sorular sorulmasını isteyebilir.

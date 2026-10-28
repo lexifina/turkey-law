@@ -1,7 +1,6 @@
 MADDE 625- (1) Müdürler, kanunların ve şirket sözleşmesinin genel kurula görev ve yetki vermediği bütün konularda görevli ve yetkilidir. Müdürler, aşağıdaki görevlerini ve yetkilerini devredemez ve bunlardan vazgeçemezler:
 a) Şirketin üst düzeyde yönetilmesi ve yönetimi ve gerekli talimatların verilmesi.
 b) Kanun ve şirket sözleşmesi çerçevesinde şirket yönetim örgütünün belirlenmesi.
-11120
 c) Şirketin yönetimi için gerekli olduğu takdirde, muhasebenin, finansal denetimin ve finansal planlamanın oluşturulması.
 d) Şirket yönetiminin bazı bölümleri kendilerine devredilmiş bulunan kişilerin, kanunlara, şirket sözleşmesine, iç tüzüklere ve talimatlara uygun hareket edip etmediklerinin gözetimi.
 e) Küçük limited şirketler hariç, risklerin erken teşhisi ve yönetimi komitesinin kurulması.

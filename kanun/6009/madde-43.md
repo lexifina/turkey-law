@@ -1,4 +1,1 @@
-MADDE 43-13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 4 üncü maddesinin birinci fıkrasının (b) bendinin sonuna aşağıdaki cümle eklenmiş, (l) bendi aşağıdaki şekilde değiştirilmiş ve 5 inci maddesinin birinci fıkrasının (i) bendinin sonuna aşağıdaki paragraf eklenmiştir.
-“(Bunlardan sağlık hizmeti sunanların teşhis ve tedaviye yönelik olarak birbirlerine yapacakları mal ve hizmet satışları bu muafiyeti ortadan kaldırmaz.)”
-“l) Yabancı ülkeler veya uluslararası finans kuruluşları ile yapılan malî ve teknik işbirliği anlaşmaları çerçevesinde yalnızca kredi teminatı sağlamak üzere kurulmuş olup bu faaliyetlerinden elde ettikleri kazançları teminat sorumluluk fonlarına ekleyen ve sahip oldukları fonları ortaklarına dağıtmaksızın, kredi sağlayan banka ve kuruluşlara yatıran kurumlar.”
-“Bu bent hükümleri, 29/6/2004 tarihli ve 5200 sayılı Tarımsal Üretici Birlikleri Kanununa göre kurulan Birliklerin üyeleri ile yaptıkları muameleler hakkında da uygulanır.”
+MADDE 43- (13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)

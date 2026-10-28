@@ -9,6 +9,5 @@ onaylanmalıdır.
 (4) Bir limited şirket tarafından devralınan anonim ve sermayesi paylara bölünmüş komandit şirkette, devralma ile ek yükümlülük ve kişisel edim yükümlülükleri de öngörülüyorsa veya bunlar mevcut olup da genişletiliyorsa, bütün ortakların oybirliğine gerek vardır.
 (5) Birleşme sözleşmesi bir ayrılma akçesini öngörüyorsa bunun, devreden şirket şahıs şirketiyse oy hakkını haiz ortaklarının, sermaye şirketiyse şirkette mevcut oy haklarının yüzde doksanının olumlu oylarıyla onaylanması şarttır.
 (6) Birleşme sözleşmesinde devrolunan şirketin işletme konusunda değişiklik öngörülmüşse, birleşme sözleşmesinin ayrıca, şirket sözleşmesinin değiştirilmesi için gerekli nisapla onaylanmış olması zorunludur.
-11012
 6. Kesinleşmeye ilişkin hükümler
 a) Ticaret siciline tescil

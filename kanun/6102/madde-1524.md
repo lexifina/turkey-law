@@ -7,4 +7,3 @@ MADDE 1524- (Değişik: 26/6/2012-6335/34 md.)
 (4) İnternet sitesinin bu maddenin amaçlarına özgülenmiş kısmında yayımlanan içeriğin başına tarih ve parantez içinde “yönlendirilmiş mesaj” ibaresi konulur. Bu ibare ancak bu Kanuna ve bu fıkrada anılan yönetmeliğe uyulmak suretiyle değiştirilebilir. Özgülenen kısımda yer alan bir mesajın, yönlendirildiği karinedir. Sitenin, bir numara altında tescili ve ilgili diğer hususlar Gümrük ve Ticaret Bakanlığı tarafından bir yönetmelikle düzenlenir.
 (5) Bu Kanun ve ilgili diğer kanunlarda veya idari düzenlemelerde daha uzun bir süre öngörülmedikçe, şirketin internet sitesine konulan bir içerik, üzerinde bulunan tarihten itibaren en az altı ay süreyle internet sitesinde kalır, aksi hâlde konulmamış sayılır.
 (6) İnternet sitesiyle ilgili olarak bu Kanunun ilgili maddelerinde ve bu maddede öngörülen düzenlemeler denetime tabi olmayan sermaye şirketleri hakkında uygulanmaz.
-11303

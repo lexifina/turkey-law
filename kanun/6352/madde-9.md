@@ -1,5 +1,0 @@
-MADDE 9 – 2004 sayılı Kanunun 58 inci maddesinin birinci fıkrası ile ikinci fıkrasının (1) ve (2) numaralı bentleri aşağıdaki şekilde değiştirilmiştir.
-“Takip talebi icra dairesine yazılı veya sözlü olarak ya da elektronik ortamda yapılır.”
-“1. Alacaklının ve varsa kanuni temsilcisinin ve vekilinin adı, soyadı; alacaklı veya vekili adına ödemenin yapılacağı banka adı ile hesap bilgileri; varsa Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası; şöhret ve yerleşim yeri; alacaklı yabancı memlekette oturuyorsa Türkiye’de göstereceği yerleşim yeri (Yerleşim yeri gösteremezse icra dairesinin bulunduğu yer yerleşim yeri sayılır.);
-2. Borçlunun ve varsa kanuni temsilcisinin adı, soyadı, alacaklı tarafından biliniyorsa Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası, şöhret ve yerleşim yeri;
-Bir terekeye karşı yapılan taleplerde kendilerine tebligat yapılacak mirasçıların adı, soyadı, biliniyorsa Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası, şöhret ve yerleşim yerleri;”

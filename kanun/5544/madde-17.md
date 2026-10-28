@@ -1,2 +1,2 @@
 Temsil yetkisi
-MADDE 17- (1) Kurum, Yönetim Kurulu Başkanı, yokluğunda başkan vekili tarafından temsil edilir.
+MADDE 17- (Mülga: 2/7/2018-KHK-703/78 md.)

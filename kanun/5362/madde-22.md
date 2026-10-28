@@ -6,7 +6,6 @@ c) Yeni dönem çalışma programı ile bütçeyi, bilanço ve gelir ve gider ta
 d) Odaların çalışmalarının mevzuat ve oda ana sözleşmesi esasları içinde yürütülmesini sağlamak üzere gerekli görülecek zamanlarda, işlemlerini incelemek ve alınması gerekli tedbirler hakkında bildirimde bulunmak.
 e) Odalar hakkında lüzumlu bilgilerin Bakanlık e-esnaf ve sanatkâr veri tabanında düzenli olarak tutulmasını sağlamak ve resmî dairelerin bu husustaki isteklerini yerine getirmek.
 f) Odaların gelişmesini sağlamak, ihtiyaç ve güçlüklerini gidermek için gerekli tedbirleri almak, bu konuda resmî ve özel merciler nezdinde teşebbüslerde bulunmak, genel meslekî menfaatlerini ilgilendiren konularda adli ve idari yargı mercileri önünde birlik başkanı marifetiyle birliği temsil etmek.
-9416
 g) Odalarda ve odalar arasında çıkan olumsuzluk ve anlaşmazlıklarla ilgili olarak düzenlenen raporları incelemek ve konuyu çözüme kavuşturmak.
 h) Odaların, kuruluş amacını gerçekleştirmeye yönelik gayrimenkul ve her türlü taşıt alım ve satımı ile ödünç para alınması; şirket, vakıf ve kooperatif kurma ve kurulu bulunanlara katılma yönündeki taleplerini incelemek ve karar vermek.
 ı) Resmî ve özel merciler tarafından istenecek temsilciyi atamak ve görevlendirmek.

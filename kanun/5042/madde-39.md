@@ -6,7 +6,6 @@ a) Çeşidin, belirtilen botanik sınıfa ait olduğunun teyit edilmesi.
 b) Çeşidin farklı, yeknesak ve durulmuş olduğunun tespit edilmesi.
 c) Çeşidin (a) ve (b) bentlerindeki şartlara uyması halinde, çeşit özellik belgesinin hazırlanması.
 İncelemenin uygulama şartları, Bakanlıkça belirlenir ve inceleme Bakanlığın gözetimi altında yapılır. Teknik inceleme için gerekli olan yetiştirme testleri veya diğer testler, UPOV Sözleşmesine taraf ülkelerden birisinde o ülkenin yetkili kuruluşu tarafından yapılmış ise test sonuçlarının Bakanlığa verilmesi kaydıyla, teknik inceleme bu testlerin sonuçlarına dayandırılabilir. Ancak bu testler, Türkiye ile aynı tarımsal iklim şartlarına sahip ülkelerde yapılmış olmalıdır.
-8708
 İncelemenin bu test sonuçlarına dayandırılamaması durumunda:
 a) Bakanlık, teknik incelemeyi ana hizmet birimlerine veya bağlı ve ilgili kuruluşlarına veya başka kuruluşlara yaptırabilir. Teknik incelemenin başka kuruluşlara yaptırılması halinde, 46 ncı madde hükümlerine göre belirlenecek ücret ödenir.
 b) Bakanlık, teknik incelemeyi başvuru sahibine de yaptırabilir. Başvuru sahibi, Bakanlığın talebi üzerine, kendisi tarafından yapılacak veya yaptırılacak yetiştirme veya diğer testlerin sonuçlarını Bakanlığa verir. Teknik inceleme bu testlerin sonuçlarına dayandırılabilir.

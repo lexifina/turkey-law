@@ -10,4 +10,3 @@ f) Komisyon: Türkiye Büyük Millet Meclisi Dilekçe Komisyonu ile İnsan Hakla
 g) Kurum: Kamu Denetçiliği Kurumunu,
 ifade eder.
 (2) Komisyonun Başkanı, Başkanvekili, Sözcüsü ve Kâtibi; Dilekçe Komisyonunun Başkanı, Başkanvekili, Sözcüsü ve Kâtibidir.
-11626

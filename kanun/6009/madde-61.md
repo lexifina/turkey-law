@@ -1,2 +1,1 @@
-MADDE 61-2/3/1984 tarihli ve 2985 sayılı Toplu Konut Kanununa aşağıdaki ek madde eklenmiştir.
-“EK MADDE 16- Kanunlar ile verilmiş yetkiler çerçevesinde Başkanlığa devri talep edilen taşınmazların kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde kalması halinde, Başkanlığın devir talebi önceliklidir. Bu yerlerde Başkanlık mülkiyetinde bulunan taşınmazlar ile devri talep edilen taşınmazlara ilişkin olarak Başkanlık, kanunlardan kaynaklanan tüm yetkilerini münhasıran kullanır.”
+MADDE 61- (2/3/1984 tarihli ve 2985 sayılı Toplu Konut Kanunu ile ilgili olup yerine işlenmiştir.)

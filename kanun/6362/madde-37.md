@@ -12,4 +12,3 @@ f) Sermaye piyasası araçlarının halka arzında yüklenimde bulunmaksızın s
 g) Çok taraflı alım satım sistemlerinin ve borsa dışı diğer teşkilatlanmış pazar yerlerinin işletilmesi
 ğ) Sermaye piyasası araçlarının müşteri namına saklanması ve yönetimi ile portföy saklanması
 h) Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması
-11863

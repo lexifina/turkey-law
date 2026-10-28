@@ -5,6 +5,6 @@ c) 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun malvarlığının
 d) Fikrî mülkiyet hukukuna dair mevzuatta,
 e) Borsa, sergi, panayır ve pazarlar ile antrepo ve ticarete özgü diğer yerlere ilişkin özel hükümlerde,
 f) Bankalara, diğer kredi kuruluşlarına, finansal kurumlara ve ödünç para verme işlerine ilişkin düzenlemelerde,
-öngörülen hususlardan doğan hukuk davaları ve çekişmesiz yargı işleri ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılır. Ancak, herhangi bir ticari işletmeyi ilgilendirmeyen havale, vedia ve fikir ve sanat eserlerine ilişkin haklardan doğan davalar bundan istisnadır.
-(2) Ticari davalarda da deliller ile bunların sunulması 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu hükümlerine tabidir.
-2. Ticari davalar ve çekişmesiz yargı işlerinin görüleceği mahkemeler (3)
+öngörülen hususlardan doğan hukuk davaları ve çekişmesiz yargı işleri ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılır. Ancak, herhangi bir ticari işletmeyi ilgilendirmeyen havale, vedia ve fikir ve sanat eserlerine ilişkin haklardan doğan davalar bundan istisnadır.[3]
+(2) (Değişik: 28/2/2018-7101/61 md.) Ticari davalarda da deliller ile bunların sunulması 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanunu hükümlerine tabidir; miktar veya değeri bir milyon Türk lirasını geçmeyen ticari davalarda basit yargılama usulü uygulanır. (Ek cümle: 28/3/2023-7445/30 md.) Bu fıkrada belirtilen parasal sınır, 6100 sayılı Kanunun ek 1 inci maddesinin birinci fıkrasına göre artırılır.[4][5]
+2. Ticari davalar ve çekişmesiz yargı işlerinin görüleceği mahkemeler[6]

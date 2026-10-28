@@ -1,5 +1,4 @@
 ÜÇÜNCÜ BÖLÜM
 Teşkilât
 Merkez teşkilâtı
-MADDE 47 – Genel Müdürlüğün merkez teşkilatı; ana hizmet, danışma ve denetim birimleri ile denetim birimleri ile yardımcı hizmet birimlerinden oluşur.
-Genel Müdürlüğün merkez teşkilâtı ekli (I) sayılı cetvelde gösterilmiştir.
+MADDE 47 – (Mülga: 2/7/2018/KHK/703/102 md.)

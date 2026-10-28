@@ -1,1 +1,1 @@
-GEÇİCİ MADDE 2 – Bu Kanunun ilgili maddelerinde düzenlenmesi öngörülen yönetmelikler en geç altı ay içinde Resmi Gazetede yayımlanarak yürürlüğe konulur. Bu yönetmelikler çıkarılıncaya kadar mevcut düzenlemelerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+GEÇİCİ MADDE 2 – (Mülga: 2/7/2018/KHK/703/102 md.)

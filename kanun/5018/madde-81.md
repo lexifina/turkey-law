@@ -8,4 +8,4 @@ c) Bu Kanun kapsamındaki kamu idarelerine ilişkin olarak, 4.1.1961 tarihli ve 
 d) 28.3.2002 tarihli ve 4749 sayılı Kanunun 14 üncü maddesinin üçüncü fıkrası,
 e) 26.11.1999 tarihli ve 4481 sayılı Kanunun 15 inci maddesi,
 f) Diğer kanunların bu Kanuna aykırı hükümleri,
-Yürürlükten kaldırılmıştır.
+yürürlükten kaldırılmıştır.

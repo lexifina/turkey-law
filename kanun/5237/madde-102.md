@@ -4,7 +4,6 @@ Cinsel saldırı
 Madde 102- (Değişik: 18/6/2014-6545/58 md.)
 (1) Cinsel davranışlarla bir kimsenin vücut dokunulmazlığını ihlâl eden kişi, mağdurun şikâyeti üzerine, beş yıldan on yıla kadar hapis cezası ile cezalandırılır. Cinsel davranışın sarkıntılık düzeyinde kalması hâlinde iki yıldan beş yıla kadar hapis cezası verilir.
 (2) Fiilin vücuda organ veya sair bir cisim sokulması suretiyle gerçekleştirilmesi durumunda, on iki yıldan az olmamak üzere hapis cezasına hükmolunur. Bu fiilin eşe karşı işlenmesi hâlinde, soruşturma ve kovuşturmanın yapılması mağdurun şikâyetine bağlıdır.
-8994
 (3) Suçun;
 a) Beden veya ruh bakımından kendisini savunamayacak durumda bulunan kişiye karşı,
 b) Kamu görevinin, vesayet veya hizmet ilişkisinin sağladığı nüfuz kötüye kullanılmak suretiyle,

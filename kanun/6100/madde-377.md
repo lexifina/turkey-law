@@ -1,5 +1,5 @@
 Süre
-MADDE 377- (1) Yargılamanın iadesi süresi;
+MADDE 377- (1) Yargılamanın iadesi süresi; [65]
 a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olduğunun öğrenildiği,
 b) 375 inci maddenin birinci fıkrasının (b) ve (c) bentlerinde öngörülen hâllerde, kararın davalıya veya gerçek vekil veya temsilciye tebliğ edildiği; alacaklı veya davalı yerine geçenlerin karardan usulen haberdar olduğu,
 c) Yeni belgenin elde edildiği veya hilenin farkına varıldığı,
@@ -8,4 +8,3 @@ d) Karara esas alınan ilamın bozularak kesin hüküm şeklinde tamamen ortadan
 e) 375 inci maddenin birinci fıkrasının (i) bendinde yazılı sebepten dolayı, Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararının tebliğ edildiği,
 tarihten itibaren üç ay ve her hâlde iade talebine konu olan hükmün kesinleşmesinden itibaren on yıldır.
 (2) 375 inci maddenin birinci fıkrasının (ı) bendinde yazılan sebepten dolayı yargılamanın yenilenmesi süresi ilama ilişkin zamanaşımı süresi kadardır.
-10946

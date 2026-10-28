@@ -1,4 +1,2 @@
 Yardımcı hizmet birimleri
-MADDE 63 – Genel Müdürlüğün yardımcı hizmet birimleri şunlardır:
-7) İnsan Kaynakları Daire Başkanlığı.
-b) Destek Hizmetleri Daire Başkanlığı.
+MADDE 63 – (Mülga: 2/7/2018/KHK/703/102 md.)

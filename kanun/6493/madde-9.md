@@ -20,4 +20,3 @@ d) Finansal istikrarı tehdit edebilecek bir sistemik riskin ortaya çıkmasın�
 tedbirlerini uygular.
 (3) Banka, ikinci fıkra kapsamında uygulayacağı tedbirleri gerekçeleri ile birlikte ilgili sistem işleticisine bildirir.
 (4) Banka, ikinci fıkranın (ç) ve (d) bentlerinde yer alan tedbirleri alması durumunda bu hususu Resmî Gazete’de yayımlar.
-12122

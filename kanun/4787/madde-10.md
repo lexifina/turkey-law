@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 10. — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 10- Bu Kanun yayımı tarihinde yürürlüğe girer.

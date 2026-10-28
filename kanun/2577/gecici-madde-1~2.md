@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanunun 2577 sayılı İdari Yargılama Usulü Kanunun 28 inci maddesinin 1 ve 4 üncü fıkralarında değişiklik yapan hükümleri, Kanunun yürürlüğe girdiği tarihten sonra verilecek kararlar hakkında uygulanır.

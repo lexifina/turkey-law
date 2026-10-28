@@ -1,4 +1,3 @@
 ALTINCI KISIM
 İlgili Kanunlarda Yapılan Değişiklikler
-MADDE 25 - 506 sayılı Sosyal Sigortalar Kanununun değişik 2 nci maddesinin ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
-Ceza infaz kurumları ile tutukevleri bünyesinde oluşturulan tesis, atölye ve benzeri ünitelerde çalıştırılan hükümlü ve tutuklular hakkında yalnız iş kazası ile meslek hastalıkları, analık ve hastalık sigorta kolları uygulanır. Ancak bunlar istekleri halinde malûllük, yaşlılık ve ölüm sigorta kolları bakımından bu Kanunun 85 inci maddesinde öngörülen şartları taşımaları kaydıyla isteğe bağlı sigortalı olabilirler. Bu şekilde çalıştırılanların işvereni Ceza İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu, işveren vekilleri ceza infaz kurumları ile tutukevleri iş yurtlarının sorumlu müdür ve amirleridir.
+Madde 25-54 - (17.7.1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanun ile ilgili olup yerine işlenmiştir.)

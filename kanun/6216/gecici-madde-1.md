@@ -5,6 +5,5 @@ GEÇİCİ MADDE 1- (1) Anayasa Mahkemesi Başkanlığında; Genel Sekreter Yard�
 (4) Bu Kanunun yürürlüğe girdiği tarihte görevde bulunan Başkan ve Başkanvekili, seçildikleri tarihte geçerli olan süreyi tamamlar.
 (5) Bu Kanunda öngörülen İçtüzük ve yönetmelik Başkanlıkça en geç altı ay içerisinde hazırlanarak yürürlüğe konulur. İçtüzük ve yönetmelik yürürlüğe girinceye kadar, mevcut İçtüzük ve yönetmeliğin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 (6) Mevzuatta 10/11/1983 tarihli ve 2949 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanuna yapılmış olan atıflar, bu Kanuna aykırı hükümleri hariç, bu Kanuna yapılmış sayılır.
-11487
 (7) Bu Kanunun yürürlüğe girdiği tarihten önce gerçekleştirilen tedavi giderleri hakkında bu Kanunla yürürlükten kaldırılan 2949 sayılı Kanunun 14 üncü maddesi hükümleri esas alınır.
 (8) Mahkeme, 23/9/2012 tarihinden sonra kesinleşen nihai işlem ve kararlar aleyhine yapılacak bireysel başvuruları inceler.

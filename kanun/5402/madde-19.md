@@ -1,7 +1,7 @@
 ALTINCI BÖLÜM
 Danışma Kurulu
-Danışma Kurulunun oluşumu
-MADDE 19 — (1) Denetimli serbestlik, yardım ve koruma hizmetlerine ilişkin olarak danışma organı niteliğinde görev yapmak üzere Bakanlıkta, Bakanlık Müsteşarının başkanlığında Denetimli Serbestlik ve Yardım Merkezleri ile Koruma Kurulları Danışma Kurulu kurulur.
+Danışma Kurulunun oluşumu[26]
+Madde 19 - (1) Denetimli serbestlik, yardım ve koruma hizmetlerine ilişkin olarak danışma organı niteliğinde görev yapmak üzere Bakanlıkta, Bakanlık Müsteşarının başkanlığında Denetimli Serbestlik Hizmetleri Danışma Kurulu kurulur.
 (2) Danışma Kurulu aşağıdaki üyelerden oluşur:
 a) Ceza ve Tevkifevleri Genel Müdürü.
 b) Bakanlık Kanunlar Genel Müdürü.
@@ -19,7 +19,7 @@ m) Başbakanlık Özürlüler İdaresi Başkanı.
 n) Jandarma Genel Komutanlığı ve Emniyet Genel Müdürlüğünün asayişten sorumlu genel müdür yardımcısı veya daire başkanı.
 o) Türkiye Odalar ve Borsalar Birliğinden bir temsilci.
 p) Türkiye Esnaf ve Sanatkârlar Konfederasyonundan bir temsilci.
-r) Denetimli Serbestlik ve Yardım Hizmetlerinden Sorumlu Daire Başkanı.
+r) Denetimli Serbestlik Daire Başkanı.
 (3) Danışma Kurulu her takvim yılında en az bir defa toplanır. Başkan, gerekli gördüğü hâllerde Danışma Kurulunu toplantıya çağırabilir.
 (4) Danışma Kurulunun başkan vekili Bakanlık müsteşar yardımcısıdır. Bakanlık Müsteşarının bulunmadığı zamanlarda Danışma Kuruluna, Bakanlık müsteşar yardımcısı başkanlık eder.
 (5) Danışma Kurulunun yazı işleri hizmetleri Genel Müdürlükçe yürütülür.

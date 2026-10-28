@@ -1,8 +1,8 @@
 Yürütme
-Madde 16 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-8526-1
+Madde 16 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 (1) SAYILI CETVEL
-SÖZLEŞMELİ PERSONEL POZİSYON UNVANLARI VE BU POZİSYONLARDA İSTİHDAM EDİLECEKLERDE ARANACAK NİTELİKLER
+SÖZLEŞMELİ PERSONEL POZİSYON UNVANLARI VE BU POZİSYONLARDA
+İSTİHDAM EDİLECEKLERDE ARANACAK NİTELİKLER
 UNVANI | NİTELİĞİ
 Uzman Tabip | Tıpta Uzmanlık Tüzüğüne göre uzman olanlar
 Tabip | Tıp fakültesi mezunu
@@ -24,15 +24,15 @@ Hemşire (S.M.L.) | Sağlık meslek lisesi mezunu
 Ebe (4 yıllık Y.O.) | 4 yıllık yüksek okulların ebelik bölümü mezunu
 Ebe (2 yıllık Y.O.) | 2 yıllık yüksek okulların ebelik bölümü mezunu
 Ebe (S.M.L.) | Sağlık meslek lisesi mezunu
-Sağlık Memuru (4 yıllık Y.O.) | 4 yıllık yüksek okulların ilgili bölümü mezunu
-Sağlık Memuru (2 yıllık Y.O.) | 2 yıllık yüksek okulların ilgili bölümü mezunu
+Sağlık Memuru | (4 yıllık Y.O.) 4 yıllık yüksek okulların ilgili bölümü mezunu
+Sağlık Memuru | (2 yıllık Y.O.) 2 yıllık yüksek okulların ilgili bölümü mezunu
 Sağlık Memuru (S.M.L.) | Sağlık meslek lisesi mezunu
 (2) SAYILI CETVEL
-SÖZLEŞMELİ PERSONELİN AYLIK BRÜT ÜCRETLERİNE İLİŞKİN TABAN VE TAVAN ORANLARI
+SÖZLEŞMELİ PERSONELİN AYLIK BRÜT ÜCRETLERİNE İLİŞKİN
+TABAN VE TAVAN ORANLARI
 POZİSYON UNVANI VEYA NİTELİĞİ | TABAN ORANI | TAVAN ORANI
 Uzman Tabip | 1,5 | 2,5
-Tabip - Diş Tabibi | 1,2 | 2,2
+Tabip – Diş Tabibi | 1,2 | 2,2
 4 yıl ve üzeri fakülte mezunu | 0,9 | 1,9
 2-3 yıllık yüksek okul mezunu | 0,8 | 1,7
 Lise ve dengi okul mezunu | 0,7 | 1,5
-8526-2

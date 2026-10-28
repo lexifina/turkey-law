@@ -1,0 +1,2 @@
+Geçici Madde 3- (Ek : 3/10/2016-KHK-676/65 md.; Aynen kabul: 1/2/2018-7070/51 md.)
+Bu maddenin yürürlüğe girdiği tarihten önce, milli güvenliğe tehdit oluşturduğu tespit edilen FETÖ/PDY terör örgütüne aidiyeti, iltisakı veya bunlarla irtibatı nedeniyle sözleşmeleri feshedilen uzman erbaşlar hakkında 22/7/2016 tarihli ve 667 sayılı Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin 4 üncü maddesinin ikinci ve üçüncü fıkraları uygulanır.

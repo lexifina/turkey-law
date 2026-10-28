@@ -4,4 +4,3 @@ Görevlerine son verilen organların yerine, bu Kanundaki usul ve esaslara göre
 Esnaf ve sanatkârlar meslek kuruluşları, millî güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, valilik tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını kırksekiz saat içinde açıklar. Aksi halde bu idari karar kendiliğinden yürürlükten kalkar.
 İKİNCİ BÖLÜM
 Toplantılar, Temsil ve İlzam,
-Huzur Hakkı ve Aylık Ücretler,

@@ -4,4 +4,3 @@ b) Toplantıda hazır bulunsun veya bulunmasın, olumsuz oy kullanmış olsun ya
 c) Yönetim kurulu,
 d) Kararların yerine getirilmesi, kişisel sorumluluğuna sebep olacaksa yönetim kurulu üyelerinden her biri,
 iptal davası açabilir.
-11079

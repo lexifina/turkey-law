@@ -5,6 +5,3 @@ B) Bir hizmet aktine dayanarak gemide çalışan kaptan, zabit ve tayfalarla di�
 C) Gemiyi sevk ve idare eden kimseye veya zorunlu sebeplerle görevi başında bulunmaması halinde ona vekalet eden kimseye “kaptan” denir.
 Ç) Kaptan veya işveren adına ve hesabına harekete yetkili olan kimseye “işveren vekili” denir.
 İşveren vekilinin bu sıfatla gemiadamlarına karşı muamele ve taahhütlerinden doğrudan doğruya işveren sorumludur.
-——————————
-(1) 193 sayılı “Gelir Vergisi Kanununun” 17/10/1980 tarih ve 2320 sayılı Kanunla değişik 25 inci maddesi gereğince bu Kanuna göre ödenen kıdem tazminatlarının hizmet erbabının 24 aylığını aşmayan miktarları (hizmet ifa etmeksizin ödenen ücretler) tazminat sayılmaz.
-4374

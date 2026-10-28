@@ -8,7 +8,8 @@ d) Evlenme, boşanma, soybağının kurulması veya reddi, ölüm, vatandaşlı�
 e) Dini.
 f) Medenî hali.
 g) Yerleşim yeri adresi.
-9736
 ğ) Fotoğrafı.
-(a), (g) ve (ğ) bentlerinde belirtilen kayıtlar sadece elektronik ortamda tutulur.
+h) (Ek: 14/1/2016-6661/9 md.) Biyometrik verisi.
+ı) (Ek: 19/10/2017-7039/3 md.)Velayete ve vesayete ilişkin bilgileri.
+(Değişik son cümle: 19/10/2017-7039/3 md.) (a), (g), (ğ), (h) ve (ı) bentlerinde belirtilen kayıtlar sadece elektronik ortamda tutulur.
 (2) Türkiye'de aile kütüğü bulunmayan ve yabancı ülkelerde oturan vatandaşlar Bakanlığın göstereceği bir nüfus müdürlüğünde açılacak aile kütüğüne kaydedilir.

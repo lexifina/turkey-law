@@ -1,2 +1,1 @@
-MADDE 9 – (1) 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununa aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 79 – Eskişehir 2013 Türk Dünyası Kültür Başkenti Hakkında Kanuna göre kurulan Ajansa yapılan her türlü nakdî ve aynî bağış ve yardımlar ile sponsorluk harcamalarının tamamı; gelir vergisi beyannamesinde bildirilecek gelirlerden, kurumlar vergisi beyannamesi üzerinde ayrıca gösterilmek şartıyla kurum kazancından indirilir.”
+MADDE 9 – (1) 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanunu ile ilgili olup yerine işlenmiştir.

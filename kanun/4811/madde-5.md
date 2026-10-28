@@ -1,8 +1,7 @@
 İKİNCİ BÖLÜM
-İnceleme ve Tarhiyat Safhasında
-Bulunan İşlemler
+İnceleme ve Tarhiyat Safhasında Bulunan İşlemler
 İnceleme ve tarhiyat safhasında bulunan vergiler
-MADDE 5. - 1. Bu Kanunun kapsadığı dönemlere ilişkin olarak Kanunun yürürlüğe girdiği tarihten önce başlanıldığı halde, bu tarihe kadar tamamlanamamış olan vergi incelemeleri ile takdir, tarh ve tahakkuk işlemlerine bu Kanunun matrah artırımına ilişkin hükümleri saklı kalmak kaydıyla devam edilir.
+Madde 5- 1. Bu Kanunun kapsadığı dönemlere ilişkin olarak Kanunun yürürlüğe girdiği tarihten önce başlanıldığı halde, bu tarihe kadar tamamlanamamış olan vergi incelemeleri ile takdir, tarh ve tahakkuk işlemlerine bu Kanunun matrah artırımına ilişkin hükümleri saklı kalmak kaydıyla devam edilir.
 2. Bu işlemlerin tamamlanmasından sonra tarh edilen vergilerin % 50'si ile bu tutara gecikme faizi yerine bu Kanunun yürürlüğe girdiği tarihe kadar Devlet İstatistik Enstitüsünün her ay için belirlediği toptan eşya fiyat endeksinin aylık oranı esas alınarak hesaplanacak tutarın, ihbarnamenin tebliğ tarihinden itibaren otuz gün içerisinde yazılı başvuruda bulunularak, ihbarnamenin tebliğini izleyen aydan başlamak üzere oniki ayda ve altı eşit taksitte ödenmesi şartıyla, vergi aslının %50’sinin, bu vergilere uygulanan gecikme faizinin ve vergi cezalarının tamamının tahsilinden, vergi aslına bağlı olmayan cezaların kesilmesinden vazgeçilir.
 3. İştirak, teşvik ve yardım fiilleri nedeniyle kesilecek vergi ziyaı cezalarında, cezaya muhatap olanların, cezanın % 20'sini (2) numaralı fıkrada öngörülen süre ve şekilde ödemeleri halinde cezanın kalan % 80'inin tahsilinden vazgeçilir.
 4. Mükelleflerin bu madde hükümlerinden yararlanabilmeleri için (2) numaralı fıkrada belirtilen süre ve şekilde ödeme yapmaları ve dava açmamaları şarttır.

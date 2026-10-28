@@ -1,2 +1,2 @@
-K) Tüzük
-MADDE 994- (1) Gemi sicilinin kuruluşu ve nasıl tutulacağı, müdür ve memurlarının sahip olmaları gereken nitelikleri, hukuki ilişkilerin nasıl belgelenecekleri ve tescil olunacakları, kayıtların düzeltilmesi, değiştirilmesi ve silinmesine ilişkin tamamlayıcı hükümler tüzük ile belirlenir.
+K) Yönetmelik[101]
+MADDE 994- (1) Gemi sicilinin kuruluşu ve nasıl tutulacağı, müdür ve memurlarının sahip olmaları gereken nitelikleri, hukuki ilişkilerin nasıl belgelenecekleri ve tescil olunacakları, kayıtların düzeltilmesi, değiştirilmesi ve silinmesine ilişkin tamamlayıcı hükümler Cumhurbaşkanınca çıkarılan yönetmelik ile belirlenir.

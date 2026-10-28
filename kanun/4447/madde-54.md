@@ -1,4 +1,4 @@
-İdari para cezaları ile idari işlemlere karşı itirazlar (2)
+İdari para cezaları ile idari işlemlere karşı itirazlar
 Madde 54 – (Değişik birinci fıkra: 23/1/2008 – 5728/478 md.) Kurumca dayanağı belirtilmek suretiyle;
 a) İşsizlik sigortasına ilişkin yükümlülükleri nedeniyle sigortalıların ücretlerinden indirim veya kesinti yapan işverenlere her bir sigortalı için beşyüz Türk Lirası,
 b) 48 inci maddede öngörülen işten ayrılma bildirgesini Kuruma vermeyen işverenlere her bir fiil için ayrı ayrı bin Türk Lirası,

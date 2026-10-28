@@ -1,5 +1,5 @@
 Arşiv bilgilerinin istenmesi
-MADDE 10. — (1) Arşiv bilgileri;
+Madde 10- (1) Arşiv bilgileri;
 a) Kullanılış amacı belirtilmek suretiyle, kişinin kendisi veya vekâletnamede açıkça belirtilmiş olmak koşuluyla vekili,
 b) Bir soruşturma veya kovuşturma kapsamında Cumhuriyet başsavcılıkları, hâkim veya mahkemeler,
 c) Yetkili seçim kurulları,

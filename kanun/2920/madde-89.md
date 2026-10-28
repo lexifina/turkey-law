@@ -6,7 +6,6 @@ c) Uçuşa elverişlilik belgesini taşımaları,
 d) Mürettebata ait belgeleri bulundurmaları,
 e) Telsiz tesisatı ruhsatnamesini taşımaları,
 f) Sigorta poliçesini bulundurmaları,
-g) Kanun ve tüzükler gereğince tayin olunan sair belgelerin bulundurulması,
-6121
+g) Kanun ve yönetmelikler gereğince tayin olunan sair belgelerin bulundurulması,[16]
 Ve yetkili makamlar tarafından yapılacak kontrollerde gösterilmesi zorunludur.
 Türkiye'nin taraf olduğu anlaşmaların hükümleri saklıdır.

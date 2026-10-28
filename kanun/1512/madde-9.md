@@ -6,4 +6,3 @@ c) O noter odasında üye olan bir noter tarafından staj isteminde bulunan kims
 d) Tebligata salih ikametgah adresi,
 Bu belgelerin birer örneği oda başkanı tarafından onaylanarak, Türkiye Noterler Birliğine gönderilir. Diğer örnek veya asılları odadaki dosyasında saklanır.
 Staj isteminde bulunan tarafından verilen beyannamenin gerçeğe aykırılığı ortaya çıktığı takdirde, bu kimse hakkında resmi mercilere yalan beyanda bulunmak suçundan dolayı ceza kovuşturması yapılır.
-4856

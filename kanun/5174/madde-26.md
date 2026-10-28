@@ -21,5 +21,4 @@ r) Türkiye Ticaret Sicili Gazetesi suretleri.
 s) Türk veya yabancı bayraklı gemilere verilecek genel ve uluslararası sektörel hizmetler.
 t) Ticaret sicili hizmetleri.
 u) Ticarî ve sınaî mahiyette diğer her türlü belge ve bilgiler ile hizmetler.
-8783
 Deniz ticaret odasınca Türk ve yabancı bayraklı gemilerden hizmet veya onay karşılığı alınacak ücretlerin, hizmet veya onaydan itibaren en geç onbeş gün içinde ödenmesi gerekir.

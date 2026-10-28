@@ -1,4 +1,4 @@
-MADDE 31 — 1) 21.12.1959 tarihli ve 7397 sayılı Kanunun 30 uncu maddesinin dördüncü ve beşinci fıkraları,
+Madde 31- 1) 21.12.1959 tarihli ve 7397 sayılı Kanunun 30 uncu maddesinin dördüncü ve beşinci fıkraları,
 2) 13.10.1988 tarihli ve 3480 sayılı Kanunun 3 üncü ve 4 üncü maddeleri,
 3) 13.12.1983 tarihli ve 181 sayılı Kanun Hükmünde Kararnamenin geçici 9 uncu maddesi,
 4) 11.2.1950 tarihli ve 5539 sayılı Kanunun 20 nci maddesi,
@@ -9,4 +9,4 @@ MADDE 31 — 1) 21.12.1959 tarihli ve 7397 sayılı Kanunun 30 uncu maddesinin d
 9) 10.7.1953 tarihli ve 6136 sayılı Kanunun ek 8 inci maddesinin üçüncü fıkrası,
 10) 6.6.2002 tarihli ve 4760 sayılı Kanunun 17 nci maddesinin (2) numaralı fıkrasının (b), (c) ve (d) bentleri ile (3) numaralı fıkrası,
 11) 9.1.1985 tarihli ve 3146 sayılı Kanunun 39 uncu maddesinin altıncı fıkrası ile son fıkrasının birinci cümlesi,
-Yürürlükten kaldırılmıştır.
+yürürlükten kaldırılmıştır.

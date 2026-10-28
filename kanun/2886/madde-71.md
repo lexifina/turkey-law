@@ -1,19 +1,16 @@
 ÜÇÜNCÜ KISIM
 İhale Usullerine Tabi Olmayan İşler
-İhtiyaçların kamu kuruluşlarından karşılanması :
+İhtiyaçların kamu kuruluşlarından karşılanması:[20]
 Madde 71 – Aşağıda belirtilen durumlarda ihale işleri Maliye Bakanlığının uygun görüşü alınarak kıymet takdiri suretiyle yapılır.
 1. Bu Kanun kapsamına giren idarelerin kendi aralarında yaptıkları ihale işleri,
 2. (1) numaralı fıkrada belirtilen idarelerin her türlü ihtiyaçlarının;
 a) Bu idarelere bağlı sabit veya döner sermayeli müesseseler ve özel bütçeli idarelerin kurdukları birliklerden,
 b) Kamu iktisadi teşebbüsleri ile sermayesinin yarısından fazlası tek başına veya birlikte Devlete, kamu iktisadi teşebbüslerine veya mahalli idarelere ait kuruluşlardan,
 c) Türk Silahlı Kuvvetlerini güçlendirmek amacıyla kurulmuş olan vakıflar ile sermayesinin yarısından fazlası bu vakıflara ait olan kuruluş, şirket ve müesseselerden,
-d) Özel kanun ile kurulan tüzelkişiliğe sahip ve ortaklarının veya kanunların öngördüğü durumlarda ortak olmayanların ürünlerini alan, işleyen, değerlendiren iyileştiren, satan, üretim ihtiyaçlarına yarayan araç ve gereçleri sağlayan ortaklıklar ve bunlara ait birliklerden,
-e) Özel kanunlarla kurulmuş ve kendilerine kamu görevi verilmiş tüzelkişiliğe sahip kuruluşlardan,
+d) Özel kanun veya Cumhurbaşkanlığı kararnameleri ile kurulan tüzelkişiliğe sahip ve ortaklarının veya kanunların öngördüğü durumlarda ortak olmayanların ürünlerini alan, işleyen, değerlendiren iyileştiren, satan, üretim ihtiyaçlarına yarayan araç ve gereçleri sağlayan ortaklıklar ve bunlara ait birliklerden,20
+e) Özel kanunlar veya Cumhurbaşkanlığı kararnameleriyle kurulmuş ve kendilerine kamu görevi verilmiş tüzelkişiliğe sahip kuruluşlardan,20
 Temini ile ilgili ihale işleri.
 (2) numaralı fıkranın uygulanmasında, ihale konusu mal ve hizmetlerle, taşıma işlerinin bizzat o kuruluşlar tarafından üretilmesi ve yapılması zorunludur. Ancak, bu fıkrada yazılı olup kuruluş amaçları temel gıda ve günlük tüketim maddelerini alıp satmak olan kuruluşlar bakımından, sözü edilen günlük gıda ve tüketim maddeleri; sanayi kuruluşları bakımından da, imal edilecek mamullerin bünyesine giren hammade, yarı mamul, devre elemanları, aksesuar, yardımcı özel teçhizat ve bir bütün halinde kurulacak tesislerde kullanılan ve kuruluşun imalat sahasına girmeyen makine, teçhizat için bizzat üretim ve yapım şartı aranmaz.
 Bu usulle yapılan mal ve hizmet alımları ile yapım ve taşıma işlerinin kıymet takdirleri satış fiyatları Devletçe veya görevli mercilerce tespit olunanlar için bu fiyatlar esas alınmak suretiyle, fiyatları bu şekilde tespit olunmayanlar için ise 9 uncu maddedeki usule göre alıcı kuruluşlarca yapılır.
 Satış fiyatları Devletçe veya görevli mercilerce tespit olunan mallar, dağıtımı yapan kuruluşlarda bulunmadığı belgelenmek şartıyla bu fiyatlarla en yakın piyasadan da satın alınabilir.
-İdarelere zorunluluk yükleyen özel hükümler saklıdır. (1)
-——————————
-(1) Bu madde hükmünün 1995 Mali yılında uygulanmayacağı,(ihtiyaçların Kamu Kuruluşlarından karşılanmasına ilişkin esas ve usullerin Maliye Bakanlığınca belirleneceği.) 23/12/1994 tarih ve 4061 sayılı "1995 Mali Yılı Bütçe Kanunu"nun 72/j-(5) maddesi ile hüküm altına alınmıştır. (R.G. 28/12/1994 - 22155 Mük.)Daha sonra bu hükmün, Anayasa Mahkemesinin 13.6.1995 tarih ve E.1995/2, K.1995/1 sayılı Kararıyla, iptal kararının Resmi Gazetede yayımlanacağı güne kadar yürürlüğünün durdurulmasına karar verilmiştir. (R.G. 17/6/1995-22316)
-5986
+İdarelere zorunluluk yükleyen özel hükümler saklıdır.

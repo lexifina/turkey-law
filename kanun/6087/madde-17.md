@@ -1,6 +1,6 @@
 Kurul müfettişlerinin görev ve yetkileri
 MADDE 17 – (1) Kurul müfettişlerinin görev ve yetkileri şunlardır:
-a) Hâkim ve savcıların görevlerini kanun, tüzük, yönetmelik ve genelgelere (hâkimler için idarî nitelikteki genelgelere) uygun olarak yapıp yapmadıklarını denetlemek.
+a) Hâkim ve savcıların görevlerini kanun ve diğer mevzuata (hâkimler için idarî nitelikteki genelgelere) uygun olarak yapıp yapmadıklarını denetlemek.[29]
 b) Hâkim ve savcıların görevlerinden dolayı veya görevleri sırasında suç işleyip işlemediklerini, hâl ve eylemlerinin sıfat ve görevleri icaplarına uyup uymadığını araştırma ve gerektiğinde haklarında inceleme ve soruşturma yapmak.
 (2) Kurul müfettişleri bu görevlerini yerine getirirken;
 a) Yapacakları araştırma, inceleme ve soruşturmalarda, lüzum gördükleri kimseleri yeminle dinleyebilir, gerektiğinde istinabe yoluna başvurabilir, sübut delilleri ile gereken bilgileri kamu kurum, kurul ve kuruluşlarından doğrudan toplayabilir.

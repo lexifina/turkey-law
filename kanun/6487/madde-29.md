@@ -1,1 +1,1 @@
-MADDE 29 – 4760 sayılı Kanunun geçici 6 ncı maddesinde yer alan “31/12/2013” ibaresi “31/12/2023” şeklinde değiştirilmiştir.
+MADDE 29 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanunu ile ilgili olup yerine işlenmiştir.

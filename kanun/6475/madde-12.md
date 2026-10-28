@@ -7,6 +7,5 @@ c) Yetki belgesine konu her hizmet için ayrı hesap ve kayıt tutmak
 d) Can ve mal güvenliğini tehdit eden veya tehlike arz eden her türlü faaliyetin oluşumunun engellenmesi için gerekli tedbirleri almak ve alınan tedbirleri Kuruma bildirmek
 e) Bu Kanun hükümleri uyarınca posta sektöründe verimli, istikrarlı ve ekonomik bir sistem oluşturmak suretiyle posta gönderilerinin kabulü, toplanması, işlenmesi, sevki ve dağıtımını rekabet ortamına uygun olarak sağlamak
 f) Çevreye zarar vermemek için gerekli tedbirleri almak
-12080
 g) Millî güvenlik ile kamu düzeni gereklerine ve acil durum ihtiyaçlarına öncelik vermek
 ğ) Mevzuatın ve Kurul kararlarının gereklerini yerine getirmek

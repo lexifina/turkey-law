@@ -1,8 +1,5 @@
 Geçici Madde 2 – (Ek: 13/2/2011-6111/67 md.)
 Bu maddenin yayımı tarihinden itibaren 3 aylık süre içerisinde talepte bulunan ve sosyal güvenlik mevzuatına tabi olarak çalışmayan, sosyal güvenlik kurumlarından ya da yabancı bir ülke sosyal güvenlik kurumundan her ne ad altında olursa olsun herhangi bir gelir veya aylık almayan ve silikozis hastalığı nedeniyle meslekte kazanma gücünü en az % 15 kaybettiğine Sosyal Güvenlik Kurumu Sağlık Kurulunca meslek hastalıkları tespit hükümleri çerçevesinde karar verilen kişilere, bu maddede belirtilen şartları sağlamaları halinde aşağıda belirtilen esaslara göre Sosyal Güvenlik Kurumunca aylık bağlanır.
-––––––––––––
-(1) 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle, bu fıkrada yer alan “Kurum” ibaresi “Aile ve Sosyal Politikalar Bakanlığı” şeklinde değiştirilmiştir.
-5131
 Meslekte kazanma gücünü;
 a) % 15 ila % 34 arasında kaybedenlere 7000,
 b) % 35 ila % 54 arasında kaybedenlere 8000,

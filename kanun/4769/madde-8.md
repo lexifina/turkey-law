@@ -11,14 +11,12 @@ f) Adalet Bakanlığı Personel Genel Müdürü, Eğitim Daire Başkanı ve Tür
 g) Eğitimden sorumlu Diyanet İşleri Başkan Yardımcısı.
 Seçimle gelen üyelerin görev süreleri dört yıldır. Süresi dolan üyeler tekrar seçilebilir.
 Eğitim Kurulu her üç ayda en az bir defa toplanır. Başkan gerekli gördüğü hallerde Kurulu toplantıya çağırabilir.
-8334
 Adalet Bakanının bulunmadığı zamanlarda Eğitim Kuruluna Adalet Bakanlığı Müsteşarı başkanlık eder.
-Eğitim Kurulunun sekreterlik görevi Ceza ve Tevkifevleri Genel Müdürlüğünce yerine getirilir.
 Eğitim Kurulunun sekreterlik görevi Ceza ve Tevkifevleri Genel Müdürlüğünce yerine getirilir.
 2. Eğitim Kurulunun görevleri şunlardır:
 a) Eğitim ve öğretim hizmetlerine ilişkin temel ilkeleri belirlemek ve kararlar almak,
 b) Eğitim merkezi müdürlüklerince hazırlanan yıllık eğitim ve çalışma programlarını incelemek ve onaylamak,
 c) Eğitim merkezlerinin görevleri ile ilgili olarak Ceza ve Tevkifevleri Genel Müdürlüğünce hazırlanan yönetmelik ve genelgeleri incelemek,
-d) Kanun, tüzük ve yönetmeliklerce verilen diğer görevleri yapmak.
+d) Kanun ve mevzuatla verilen diğer görevleri yapmak.[3]
 6245 sayılı Harcırah Kanunu hükümleri saklı kalmak kaydıyla Eğitim Kurulu üyelerine ayda iki toplantıyı geçmemek üzere her toplantı için (1000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak miktarda huzur ücreti ve huzur hakkı ödenir.
 Eğitim Kurulunun toplantı, çalışma esas ve usulleri ile diğer konular yönetmelikle düzenlenir.

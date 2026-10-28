@@ -1,5 +1,4 @@
 MADDE 519- (1) Yıllık kârın yüzde beşi, ödenmiş sermayenin yüzde yirmisine ulaşıncaya kadar genel kanuni yedek akçeye ayrılır.
-11096
 (2) Birinci fıkradaki sınıra ulaşıldıktan sonra da;
 a) Yeni payların çıkarılması dolayısıyla sağlanan primin, çıkarılma giderleri, itfa karşılıkları ve hayır amaçlı ödemeler için kullanılmamış bulunan kısmı,
 b) Iskat sebebiyle iptal edilen pay senetlerinin bedeli için ödenmiş olan tutardan, bunların yerine verilecek yeni senetlerin çıkarılma giderlerinin düşülmesinden sonra kalan kısmı,

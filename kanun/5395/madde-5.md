@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 Koruyucu ve Destekleyici Tedbirler
 Koruyucu ve destekleyici tedbirler
-MADDE 5 — (1) Koruyucu ve destekleyici tedbirler, çocuğun öncelikle kendi aile ortamında korunmasını sağlamaya yönelik danışmanlık, eğitim, bakım, sağlık ve barınma konularında alınacak tedbirlerdir. Bunlardan;
+Madde 5- (1) Koruyucu ve destekleyici tedbirler, çocuğun öncelikle kendi aile ortamında korunmasını sağlamaya yönelik danışmanlık, eğitim, bakım, sağlık ve barınma konularında alınacak tedbirlerdir. Bunlardan;
 a) Danışmanlık tedbiri, çocuğun bakımından sorumlu olan kimselere çocuk yetiştirme konusunda; çocuklara da eğitim ve gelişimleri ile ilgili sorunlarının çözümünde yol göstermeye,
 b) Eğitim tedbiri, çocuğun bir eğitim kurumuna gündüzlü veya yatılı olarak devamına; iş ve meslek edinmesi amacıyla bir meslek veya sanat edinme kursuna gitmesine veya meslek sahibi bir ustanın yanına yahut kamuya ya da özel sektöre ait işyerlerine yerleştirilmesine,
 c) Bakım tedbiri, çocuğun bakımından sorumlu olan kimsenin herhangi bir nedenle görevini yerine getirememesi hâlinde, çocuğun resmî veya özel bakım yurdu ya da koruyucu aile hizmetlerinden yararlandırılması veya bu kurumlara yerleştirilmesine,

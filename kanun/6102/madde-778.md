@@ -9,7 +9,6 @@ f) Suretler hakkındaki 746 ve 747,
 g) Değiştirmeye dair 748,
 h) Zamanaşımına dair 749 ilâ 751,
 ı) İptale dair 757 ilâ 765,
-11147
 i) Tatil günleri, sürelerin hesabı, atıfet sürelerine ilişkin yasak, poliçeye dair işlemlerin yapılması gereken yer ve imza hakkındaki 752 ilâ 756,
 j) Kanunlar ihtilâfına dair 766 ilâ 775 inci,
 maddeler hükümleri bonolar hakkında da geçerlidir.

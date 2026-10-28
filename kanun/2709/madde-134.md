@@ -1,0 +1,4 @@
+G. Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
+Madde 134 – Atatürkçü düşünceyi, Atatürk ilke ve inkılaplarını, Türk kültürünü, Türk tarihini ve Türk dilini bilimsel yoldan araştırmak, tanıtmak ve yaymak ve yayınlar yapmak amacıyla; Atatürk'ün manevi himayelerinde, Cumhurbaşkanının gözetim ve desteğinde, Cumhurbaşkanının görevlendireceği bakana bağlı; Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve Atatürk Kültür Merkezinden oluşan, kamu tüzel kişiliğine sahip "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu" kurulur. [74]
+Türk Dil Kurumu ile Türk Tarih Kurumu için Atatürk'ün vasiyetnamesinde belirtilen mali menfaatler saklı olup kendilerine tahsis edilir.
+Atatürk Kültür, Dil ve Tarih Yüksek Kurumunun; kuruluşu, organları, çalışma usulleri ve özlük işleri ile kuruluşuna dahil kurumlar üzerindeki yetkileri kanunla düzenlenir.

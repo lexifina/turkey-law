@@ -1,1 +1,1 @@
-Madde 1 – Bu Kanun madenlerin aranması, işletilmesi, üzerinde hak sahibi olunması ve terk edilmesi ile ilgili esas ve usulleri düzenler.
+Madde 1 – Bu Kanun madenlerin milli menfaatlere uygun olarak aranması, işletilmesi, üzerinde hak sahibi olunması ve terk edilmesi ile ilgili esas ve usulleri düzenler.[1]

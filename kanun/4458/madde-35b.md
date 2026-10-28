@@ -8,9 +8,6 @@ a) Dördüncü fıkrada belirtilen kişiler adına hareket eden kişi,
 b) Eşyayı yetkili gümrük idaresine sunabilen veya eşyanın sunulmasını sağlayan kişi,
 c) Dördüncü fıkra ile (a) ve (b) bentlerinde belirtilen kişilerin temsilcisi,
 tarafından, yönetmelik ile belirlenen şartlar uyarınca verilebilir.
-––––––––––––
-(1) Bu bölüm başlığı “Eşyanın Türkiye Gümrük Bölgesine Girmesi” iken, 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-7693
 6. Dördüncü ve beşinci fıkralarda belirtilen kişilerin talep etmeleri halinde, özet beyanın verilmesinden sonra bir veya daha fazla bilginin değiştirilmesine gümrük idarelerince izin verilir. Ancak;
 a) Özet beyanı veren kişiye eşyanın muayene edileceğinin bildirilmesinden,
 b) Söz konusu bilgilerin yanlış olduğunun tespit edilmesinden,

@@ -10,5 +10,5 @@ g) Bölünmenin işçiler üzerindeki etkileri ile içeriğini; varsa sosyal pla
 h) Bölünmenin, bölünmeye katılan şirketlerin alacaklıları üzerindeki etkilerini,
 hukuki ve ekonomik yönleri ile açıklar ve gerekçelerini gösterir.
 (3) Yeni kuruluşun varlığı hâlinde, bölünme planına yeni şirketin sözleşmesi de eklenir.
-(4) Tüm ortakların onaylaması hâlinde küçük ve orta ölçekli şirketler bölünme raporunun düzenlenmesinden vazgeçebilirler. (1)
+(4) Tüm ortakların onaylaması hâlinde küçük ve orta ölçekli şirketler bölünme raporunun düzenlenmesinden vazgeçebilirler.[31]
 bb) Bölünme sözleşmesinin veya bölünme planının ve bölünme raporunun denetlenmesi

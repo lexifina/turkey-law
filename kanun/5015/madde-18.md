@@ -3,7 +3,6 @@ Madde 18- (Değişik birinci fıkra: 28/3/2013-6455/43 md.) Yurt içinde pazarla
 (Değişik ikinci fıkra: 28/3/2013-6455/43 md.) Ulusal marker eklemekle yükümlü lisans sahipleri, her yıl kasım ayı içinde takip eden yıla ait pazarlama projeksiyonlarını Kuruma bildirir ve bu projeksiyona göre Kurumca temin edilecek ulusal marker, Kurumca belirlenecek usul ve esaslara göre akaryakıta eklenmek üzere ilgili lisans sahiplerine teslim edilir.
 Kurum, ulusal marker ve idarî ve teknolojik yöntemler ile bir denetim sistemini kurar. Valilikler, görevli elemanların başvurusu halinde denetim amaçlı alınacak numunelerin kullanıcı ve bayilerden alınmasını ve emniyetini sağlamakla yükümlüdür.
 (Değişik dördüncü fıkra: 28/3/2013-6455/43 md.) Numunelerde yapılacak testlerde ulusal markerin gerektiği şart ve seviyede bulunmadığı laboratuvar analizi ile tespit edildiğinde, 19 uncu madde hükümleri uygulanır.
-8654
 İKİNCİ KISIM
 Çeşitli Hükümler
 BİRİNCİ BÖLÜM

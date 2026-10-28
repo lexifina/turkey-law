@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 11 — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 11 – Bu Kanun yayımı tarihinde yürürlüğe girer.

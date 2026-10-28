@@ -5,7 +5,6 @@ b) Davacı ile davalının adı, soyadı ve adresleri; davalı yurt dışında i
 c) Davalının Türkiye Cumhuriyeti kimlik numarası.
 ç) Varsa, tarafların kanuni temsilcilerinin ve davacı vekilinin adı, soyadı ve adresleri.
 d) Davalının savunmasının dayanağı olan bütün vakıaların sıra numarası altında açık özetleri.
-10897
 e) Savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceği.
 f) Dayanılan hukuki sebepler.
 g) Açık bir şekilde talep sonucu.

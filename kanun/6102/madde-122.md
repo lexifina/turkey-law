@@ -1,7 +1,6 @@
 II - Denkleştirme istemi
 MADDE 122- (1) Sözleşme ilişkisinin sona ermesinden sonra;
 a) Müvekkil, acentenin bulduğu yeni müşteriler sayesinde, sözleşme ilişkisinin sona ermesinden sonra da önemli menfaatler elde ediyorsa,
-11003
 b) Acente, sözleşme ilişkisinin sona ermesinin sonucu olarak, onun tarafından işletmeye kazandırılmış müşterilerle yapılmış veya kısa bir süre içinde yapılacak olan işler dolayısıyla sözleşme ilişkisi devam etmiş olsaydı elde edeceği ücret isteme hakkını kaybediyorsa ve
 c) Somut olayın özellik ve şartları değerlendirildiğinde, ödenmesi hakkaniyete uygun düşüyorsa,
 acente müvekkilden uygun bir tazminat isteyebilir.

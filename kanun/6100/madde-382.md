@@ -7,7 +7,6 @@ b) İlgililerin, ileri sürülebileceği herhangi bir hakkının bulunmadığı 
 c) Hâkimin resen harekete geçtiği hâller.
 (2) Aşağıdaki işler çekişmesiz yargı işlerinden sayılır:
 a) Kişiler hukukundaki çekişmesiz yargı işleri:
-10947
 1) Ergin kılınma.
 2) Ad ve soyadın değiştirilmesi.
 3) Ölüm karinesi sebebiyle (ilgili yerin mülkî amirinin emriyle) nüfus kütüğüne ölü kaydı düşülen kişinin sağ olduğunun tespiti.
@@ -33,7 +32,6 @@ b) Aile hukukundaki çekişmesiz yargı işleri:
 17) 14/1/1998 tarihli ve 4320 sayılı Ailenin Korunmasına Dair Kanuna göre aile mahkemesi hâkimi tarafından karar verilecek tedbirler.
 18) Çocuk hâkimi tarafından, çocuğun anası, babası, vasisi, bakım ve gözetiminden sorumlu kimse, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu ve Cumhuriyet savcısının istemi üzerine veya resen çocuklar hakkında koruyucu ve destekleyici tedbir kararı alınması.
 19) Vesayet işleri.
-10948
 c) Miras hukukundaki çekişmesiz yargı işleri:
 1) Sulh hâkimi tarafından resmî vasiyetname düzenlenmesi; el yazısı ile vasiyetnamenin sulh hâkimi tarafından saklanması; sözlü vasiyetname tutanağının sulh veya asliye mahkemesine tevdiî.
 2) Vasiyeti yerine getirme görevlisine görevinin bildirilmesi.
@@ -65,7 +63,6 @@ e) Ticaret hukukundaki çekişmesiz yargı işleri:
 4) Komanditer ortağın talebiyle şirket hesaplarını incelemek için eksper tayini.
 5) Anonim şirkette ayni sermaye konulması, tescilden itibaren iki yıl içinde sermayenin onda birini aşan tutarda işletme devralınması ve sermaye azaltılmasında bilirkişi raporu alınması ve mahkemenin izni.
 6) Kıymetli evrakın iptali.
-10949
 7) Eşya taşımada eşyanın hasar ve eksiğinin tespit edilmesi; teslim edilememesi hâlinde Borçlar Kanunu hükümlerine göre satılmasına karar verilmesi; gönderilen eşyanın mahkeme marifetiyle muayenesi.
 8) Gemi ipoteğinde, malikin bulunamadığı hâllerde kayyım tayini.
 9) Deniz raporu tanzimi.

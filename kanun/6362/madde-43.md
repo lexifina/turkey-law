@@ -10,6 +10,5 @@ d) Esas sözleşmelerinin bu Kanun ve ilgili düzenlemelerde yer alan hükümler
 e) Kurucularının bu Kanunda ve ilgili düzenlemelerde belirtilen şartları haiz olması,
 f) Ortaklık yapısının şeffaf ve açık olması,
 gerekir.
-11865
 (2) Bankalar dışındaki diğer yatırım kuruluşları için de birinci fıkradaki şartlar aranır. Kurul bu kuruluşlar için ilave şartlar öngörebilir.
 (3) Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurulca belirlenir.

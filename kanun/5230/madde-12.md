@@ -1,1 +1,1 @@
-MADDE 12 — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 12- Bu Kanun yayımı tarihinde yürürlüğe girer.

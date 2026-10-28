@@ -1,3 +1,3 @@
-F. Evlâtlık işlemlerinde aracılık
-Madde 320- Küçüklerin evlât edinilmesine ilişkin aracılık faaliyetleri, ancak Bakanlar Kurulunca yetki verilen kurum ve kuruluşlarca yapılır.
-Aracılık faaliyetlerinin yürütülmesine ilişkin hususlar tüzükle düzenlenir.
+F. Evlâtlık işlemlerinde aracılık[24]
+Madde 320- Küçüklerin evlât edinilmesine ilişkin aracılık faaliyetleri, ancak Cumhurbaşkanınca yetki verilen kurum ve kuruluşlarca yapılır.
+Aracılık faaliyetlerinin yürütülmesine ilişkin hususlar Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.

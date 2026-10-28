@@ -10,4 +10,4 @@ g) Fuhuş (madde 227).
 h) (Mülga : 26/6/2009 – 5918/1 md.)
 i) Deniz, demiryolu veya havayolu ulaşım araçlarının kaçırılması veya alıkonulması (madde 223, fıkra 2, 3) ya da bu araçlara karşı işlenen zarar verme (madde 152) suçları.
 (2) (Ek ikinci fıkra: 29/6/2005 – 5377/3 md.) İkinci Kitap, Dördüncü Kısım altındaki Üçüncü, Dördüncü, Beşinci, Altıncı ve Yedinci Bölümlerde yer alanlar hariç; birinci fıkra kapsamına giren suçlardan dolayı Türkiye'de yargılama yapılması, Adalet Bakanının talebine bağlıdır
-(3) Birinci fıkranın (a) ve (b) bentlerinde yazılı suçlar dolayısıyla yabancı bir ülkede mahkûmiyet veya beraat kararı verilmiş olsa bile, Adalet Bakanının talebi üzerine Türkiye'de yargılama yapılır.(1)
+(3) Birinci fıkranın (a) ve (b) bentlerinde yazılı suçlar dolayısıyla yabancı bir ülkede mahkûmiyet veya beraat kararı verilmiş olsa bile, Adalet Bakanının talebi üzerine Türkiye'de yargılama yapılır.[3]

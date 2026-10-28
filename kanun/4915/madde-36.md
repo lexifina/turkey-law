@@ -1,3 +1,2 @@
 Yürütme
 Madde 36 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-8518

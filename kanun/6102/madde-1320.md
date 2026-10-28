@@ -4,7 +4,6 @@ A) Gemi alacaklısı hakkı veren alacaklar
 MADDE 1320- (1) Geminin malikine, kiracısına, yöneticisine veya işletenine karşı doğmuş olan aşağıdaki alacaklar sahiplerine “gemi alacaklısı hakkı” verir:
 a) Ülkelerine getirilme giderleri ve onlar adına ödenmesi gereken sosyal sigorta katılma payları da içinde olmak üzere, gemi adamlarına, gemide çalıştırılmakta olmaları dolayısıyla ödenecek ücretlere ve diğer tutarlara ilişkin istem hakları.
 b) Geminin işletilmesi ile doğrudan doğruya ilgili olarak karada veya suda meydana gelen can kaybı veya diğer bedensel zararlardan doğan alacaklar.
-11261
 c) Kurtarma ücreti.
 d) Liman, kanal, diğer su yolları, karantina ve kılavuzluk için ödenecek resimler.
 e) Gemide taşınan eşya, konteynerler ve yolcuların eşyalarına gelecek olan zıya veya hasar dışında, geminin işletilmesinin sebep olduğu maddi zıya veya hasardan doğan ve haksız fiile dayanan alacaklar.

@@ -1,9 +1,6 @@
 Sigorta şirketleri ve reasürans şirketlerinin teşkilâtı
 MADDE 4 – (1) Sigorta şirketleri ve reasürans şirketlerinin yönetim kurulları genel müdür dâhil beş kişiden, denetçiler ise iki kişiden az olamaz. Genel müdür, yönetim kurulunun doğal üyesidir.
 (2) Yönetim kurulu üyelerinin malî güç dışında sigorta şirketi ve reasürans şirketi kurucularında aranan şartları taşıması; çoğunluğunun en az dört yıllık yüksek öğrenim görmüş olması ve sigortacılık, iktisat, işletme, muhasebe, hukuk, maliye, matematik, istatistik, aktüerya veya mühendislik alanlarında en az üç yıl deneyimi olan kişilerden seçilmesi şarttır.
-––––––––––––––––
-(1) 13/6/2012 tarihli ve 6327 sayılı Kanunun 48 inci maddesiyle, bu alt bentte yer alan “suçtan kaynaklanan malvarlığı değerlerini aklama,” ibaresinden sonra gelmek üzere “terörün finansmanı,” ibaresi eklenmiş ve metne işlenmiştir.
-10150
 (3) Genel müdür ve yardımcılarının, malî güç dışında sigorta şirketi ve reasürans şirketi kurucularında aranan şartları taşıması, en az dört yıllık yüksek öğrenim görmüş olması ve genel müdürlüğe atanacakların en az on yıl, sigortacılık veya sigortacılık tekniği ile ilgili konulardan sorumlu genel müdür yardımcılıklarına atanacakların yedi yıldan az olmamak üzere sigortacılık, iktisat, işletme, muhasebe, hukuk, maliye, matematik, istatistik, aktüerya veya mühendislik alanlarının en az birinde; diğer genel müdür yardımcılıklarına atanacakların da sorumlu olacakları alanda en az yedi yıl deneyim sahibi olması şarttır. Genel müdür yardımcılıklarından en az birinin sigortacılık veya sigortacılık tekniği ile ilgili konulardan sorumlu olması zorunludur.
 (4) Murahhas üyelerin genel müdürde aranan şartları taşıması zorunludur.
 (5) Başka unvanlarla istihdam edilseler dahi, yetki ve görevleri itibarıyla genel müdür yardımcısına denk veya daha üst konumlarda görev yapan diğer yöneticiler de genel müdür ve genel müdür yardımcılarına ilişkin hükümlere tâbidir.

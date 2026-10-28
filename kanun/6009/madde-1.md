@@ -1,2 +1,1 @@
-MADDE 1-13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 28 inci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
-“90 sayılı Kanun Hükmünde Kararnameye göre ikraz işleriyle uğraşanlarla ikinci fıkrada belirtilen muamele ve hizmetlerden herhangi birini esas iştigal konusu olarak yapanlar bu Kanunun uygulanmasında banker sayılırlar. Bir şahsın münhasıran altın alım ve satımı ile uğraşması banker sayılmasını gerektirmez.”
+MADDE 1 - 2 -(13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanunu ile ilgili olup yerine işlenmiştir.)

@@ -3,7 +3,6 @@ MADDE 3- (1) Bu Kanunun uygulanmasında;
 1) Ahşap ambalaj malzemesi: Ambalaj destek malzemesi dâhil bir malın korunması ya da taşınmasında kullanılan, kâğıt ürünleri hariç ahşap veya ahşap ürünlerini,
 2) Alıkoyma: Canlı hayvan ve ürünler ile ilgili bir karar verilinceye kadar, kontrol görevlisinin vereceği talimatlar doğrultusunda ürünlerin işletmecisi tarafından depolanması ve sahibi tarafından hayvanların muhafazası dâhil, hareketinin veya bunlara dokunulmasının kısıtlanması veya engellenmesini,
 3) Bakanlık: Tarım ve Köyişleri Bakanlığını,
-10560
 4) Balıkçılık ürünleri: Canlı çift kabuklu yumuşakçalar, canlı denizkestaneleri, canlı gömlekliler ve canlı deniz karından bacaklıları ve bütün deniz memelileri, sürüngenler ve kurbağalar dışında kalan, doğadan veya yetiştiricilik yoluyla elde edilen, bütün deniz ve tatlı su hayvanlarının yenilebilir tüm biçimlerini, kısımlarını ve ürünlerini,
 5) Birincil üretim: Kesimine kadar çiftlik hayvanlarının üretilmesi, sağımı, bitkisel ürünlerin hasadı da dâhil olmak üzere birincil ürünlerin üretilmesi, yetiştirilmesi, avlanma, balıkçılık ve yabanî ürünlerin toplanmasını,
 6) Birincil ürünler: Topraktan ve hayvan yetiştiriciliğinden elde edilen ürünler ile avlanma ve balıkçılık yoluyla elde edilen ürünler dâhil birincil üretim ürünlerini,
@@ -16,7 +15,6 @@ MADDE 3- (1) Bu Kanunun uygulanmasında;
 13) Çıkış: Malların Türkiye Gümrük Bölgesinden çıkışı ile ihracatı ve geçici ihracatı,
 14) Çiftlik hayvanı: Et, süt, yumurta da dâhil olmak üzere gıda, deri, kürk, yün, tüy veya diğer ürünlerin temini için veya işgücü amacıyla insanlar tarafından yetiştirilen ve beslenen hayvanları,
 15) Damızlık: Irkına, tipine ve verimine özgü özellikleri gösteren vasıflı ve belgeli hayvanları,
-10561
 16) Denetim: Yem, gıda, hayvan refahı ve ıslahı, bitki ve hayvan sağlığı ile ilgili faaliyetlerin bu Kanun hükümlerine uygunluğunun tespiti amacıyla Bakanlık tarafından yapılan veya yaptırılan tüm işlemleri,
 17) Doğrulama: İnceleme yapılarak ve objektif bulgular dikkate alınarak belirlenen şartların karşılanıp karşılanmadığının tespiti için yapılan kontrolü,
 18) Don: At ve diğer memelilerde vücudu örten kıllara hâkim olan veya bu kıllardan çoğunluğa yakın kısmının müşterek olarak gösterdiği rengi,
@@ -32,7 +30,6 @@ MADDE 3- (1) Bu Kanunun uygulanmasında;
 28) Giriş: Malların Türkiye Gümrük Bölgesine ve serbest bölgelere girişi, ithalatı ve transit rejimine tâbi tutulmasını,
 29) Gözetim: Herhangi bir gıda veya yem işletmesinin, işletmecisinin veya bunların faaliyetlerinin dikkatli bir şekilde gözlemlenmesini,
 30) Gözetim bölgesi: Hastalık çevresinde, koruma bölgesini de içine alacak biçimde, koruma bölgesi dışında hastalığın yayılmasını önlemek için gerekli ön tedbirlerin uygulandığı ve hastalığın etkileyebileceği tüm türlerin sağlık durumunun dikkatlice izlendiği bölgeyi,
-10562
 31) Hayvan: Suda yaşayan hayvanlar, sürüngenler ve amfibik hayvanlar dâhil omurgalı ve omurgasız canlıları,
 32) Hayvan sahibi: Hayvanların mülkiyet hakkını üzerinde bulunduran gerçek veya tüzel kişiyi,
 33) Hayvansal ürün: İnsan tüketimine sunulan hayvansal gıda, hayvansal yan ürün ve üreme ürünleri dâhil tüm hayvansal ürünleri,
@@ -47,7 +44,6 @@ MADDE 3- (1) Bu Kanunun uygulanmasında;
 42) Kontrol görevlisi: Bakanlık tarafından resmî kontrol yetkisi verilen kişiyi,
 43) Kordon: Hayvan hastalığı görülen alanın gözetim altında tutulması, giriş ve çıkışların kontrol altına alınmasını,
 44) Koruma bölgesi: Hayvan hastalığının ve zararlı organizmanın yayılmasını önlemek amacıyla hastalık görülen alanın çevresinde oluşturulan ve gerektiğinde insan hareketlerinin kısıtlanması dâhil, canlı hayvan, bitki, hayvansal ve bitkisel ürünlerin hareketlerinin kısıtlandığı bölgeyi,
-10563
 45) Korunmuş bölgeler: Bu Kanun kapsamında yer alan, bir veya birden fazla bölgede yerleşik olan, bir veya birden fazla zararlı organizmanın o bölge için endemik olmadığı, çevre koşulları söz konusu zararlı organizmanın yerleşmesine uygun olmasına rağmen, o bölgede yerleşmemesi için korunan veya bu bölgelerde bulunmalarına rağmen eradikasyona tâbi tutulan ve bu koşulların sağlandığı Bakanlıkça belirlenen usul ve esaslara göre uygun sörvey sonuçları ile kanıtlanarak tanınan, düzenli ve sistematik olarak izlenen, söz konusu organizmanın o bölgede ortaya çıkması durumunda bildirimi zorunlu olan ve özel önlem alınan bölgeleri,
 46) Numune alma: Ürünün, ortamdan alınanlar da dâhil üretim, işleme ve dağıtım aşamalarına ve hayvan ve bitki sağlığına ilişkin her tür maddenin mevzuata uygunluğunun doğrulanması amacıyla alınmasını,
 47) Onay: Bu Kanun kapsamında onayı zorunlu olan faaliyetler ve ürünler için Bakanlıkça verilen izin veya ruhsatı,
@@ -60,7 +56,6 @@ MADDE 3- (1) Bu Kanunun uygulanmasında;
 54) Risk: Sağlık üzerinde olumsuz etki yaratma ihtimali bulunan tehlike ile şiddeti arasındaki fonksiyonel ilişkiyi,
 55) Risk analizi: Risk değerlendirmesi, risk yönetimi ve risk iletişimi olarak birbirleriyle bağlantılı üç bileşenden oluşan süreci,
 56) Risk değerlendirmesi: Bilimsel olarak tehlikenin tanımlanması, tehlikenin niteliklerinin belirlenmesi, tehlikeye maruz kalmanın değerlendirilmesi ve risk unsurlarının belirlenmesini kapsayan süreci,
-10564
 57) Risk iletişimi: Risk analizi sürecinde risk değerlendiricileri, risk yöneticileri ve diğer ilgili tarafların, tehlike, risk, riskle ilgili faktörler ve riskin algılanmasına ilişkin bilgi ve görüşler ile risk değerlendirmesi bulguları ve risk yönetimi kararlarının açıklamalarını da kapsayan bilgi ve düşüncelerin paylaşımını,
 58) Risk yönetimi: Risk değerlendirmesi ve yasal faktörler göz önünde tutularak ilgili taraflarla istişare ile uygun olabilecek kontrol önlemlerine ilişkin alternatiflerin değerlendirilmesi, tercih edilmesi ve uygulanması sürecini,
 59) Sağlık işareti: Sağlık işareti aranan ürünlerde resmî kontrollerin yapıldığını belirten işareti,
@@ -74,7 +69,6 @@ MADDE 3- (1) Bu Kanunun uygulanmasında;
 67) Tehlike: Sağlık bakımından olumsuz etki yaratma potansiyeli bulunan, gıda ve yemdeki biyolojik, kimyasal veya fiziksel etmenler ile gıda ve yemin durumu,
 68) Tetkik: Faaliyetlerin ve ilgili sonuçların, planlanan düzenlemelere ve bu düzenlemelerin amaçlara ulaşmak için uygun olup olmadıklarını ve bu düzenlemelerin etkin bir şekilde uygulamaya konulup konulmadıklarını belirlemek için yapılan sistematik ve tarafsız incelemeyi,
 69) Tıbbî olmayan veteriner sağlık ürünleri: Hayvana uygulanmak ya da hayvan için kullanılmak amacıyla tüm üretim aşamalarından geçerek kullanıma hazır hâle getirilmiş ilaç niteliğinde olmayan ürünleri,
-10565
 70) Transit: Serbest dolaşımda bulunmayan canlı hayvan ve ürünlerin Türkiye Gümrük Bölgesi üzerinden geçerek yabancı bir ülkeden yabancı bir ülkeye, yabancı bir ülkeden Türkiye’ye, Türkiye’den yabancı bir ülkeye, bir iç gümrükten diğer bir iç gümrüğe sevkini,
 71) Üreme ürünleri: Hayvanların üremesinde kullanılan sperma, ovum, embriyo ve kuluçkalık yumurtayı,
 72) Üretim, işleme ve dağıtımın aşamaları: İthalat ve birincil üretim dahil, ürünün üretim, işleme, depolama, nakliye, nihai tüketiciye satışı veya arzını içeren herhangi bir aşamayı,
@@ -91,5 +85,4 @@ MADDE 3- (1) Bu Kanunun uygulanmasında;
 83) Ziraî mücadele alet ve makineleri: Bitki koruma ürünlerinin uygulanmasında kullanılacak her türlü alet, araç-gereç, makine, cihaz, ekipman ile bunların aksam, parça ve teferruatını,
 84) Zootekni: Hayvanların yetiştirilmesi, ıslahı, bakımı ve beslenmesi, üreme ve çoğalması ve belgelendirme ile ilgili uygulamaları,
 ifade eder.
-10566
 İKİNCİ KISIM

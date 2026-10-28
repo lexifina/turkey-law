@@ -10,5 +10,4 @@ d) Bilimsel değerlendirmeler yapmak, Kurula bilgi vermek ve rapor hazırlamak.
 (4) Komitelerin hazırladıkları bilimsel değerlendirme raporları hizmete özel olup, bu raporlar Kurul haricinde hiçbir gerçek ve tüzel kişiye, kuruma ve kuruluşa verilemez. Komite üyeleri hukuka aykırı eylemleri dışında hazırladıkları bilimsel değerlendirme raporlarından dolayı sorumlu tutulamaz.
 (5) Komiteler görevlerini yaparken bağımsızdır. Hiçbir organ, makam, merci ve kişi komitelere emir ve talimat veremez.
 (6) Komitelerde görev alan üyelere yılda on iki toplantı gününü geçmemek üzere katıldıkları her toplantı günü için uhdesinde kamu görevi bulunanlara (3.000), kamu görevi bulunmayanlara ise (5.000) gösterge rakamının memur aylık kat sayısı ile çarpımı sonucu bulunacak tutarda huzur hakkı ödenir. Bilimsel komitede görev alan üyelere harcırah ödenmesini gerektiren hallerde 6245 sayılı Harcırah Kanunu hükümlerine göre en yüksek Devlet memuruna ödenen harcırah esas alınır.
-10541
 (7) Davet edildiği halde, bir başvuru ile ilgili en fazla iki toplantıya mazeretsiz katılmayan üyenin komite üyeliği düşer. Kurul tarafından yeni bir üye belirlenir.

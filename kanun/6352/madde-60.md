@@ -1,2 +1,0 @@
-MADDE 60 – 2577 sayılı Kanunun 33 üncü maddesine aşağıdaki fıkra eklenmiştir.
-“4. Özel kanunlardaki hükümler saklı kalmak kaydıyla, hâkim ve savcıların mali ve sosyal haklarına ve sicillerine ilişkin konularla, müfettiş hal kâğıtlarına karşı açacakları ve idare mahkemelerinin görevine giren davalarda yetkili mahkeme, hâkim veya savcının görev yaptığı yerin idari yargı yetkisi yönünden bağlı olduğu bölge idare mahkemesine en yakın bölge idare mahkemesinin bulunduğu yer idare mahkemesidir.”

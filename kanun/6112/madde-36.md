@@ -11,7 +11,6 @@ e) Yıllık faaliyet raporlarını hazırlamak, amaç ve hedeflere, performans �
 f) Üst Kurulun faaliyet gösterdiği alanda strateji, politikalar ve ilgili mevzuat ile Üst Kurul ve personelin performans ölçütleri hakkında çalışma ve değerlendirme yapmak.
 g) Üst Kurulun diğer kuruluşlarla ilişkilerini yürütmek ve Üst Kurulu temsil etmek.
 ğ) Üst Kurul tarafından atanması öngörülenler dışındaki Üst Kurul personelini atamak.
-11400
 h) Başkan adına imzaya yetkili personelin görev ve yetki alanını belirlemek.
 ı) İdarî konulardaki diğer görevleri yerine getirmek.
 (4) Başkan, Üst Kurula ilişkin olmayan görev ve yetkilerinden bir bölümünü, sınırlarını açıkça belirlemek ve yazılı olmak kaydıyla, alt kademelere devredebilir.

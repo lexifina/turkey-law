@@ -3,7 +3,6 @@ MADDE 460- (1) Halka açık olmayan bir anonim şirkette, ilk veya değiştirilm
 (3) Çıkarılacak yeni payların taahhüdü, ödenmesi gereken en az nakdî tutar, ayni sermaye konulması ve diğer konular hakkında 459 uncu madde hükümleri kıyas yoluyla uygulanır.
 (4) Yönetim kurulunun, imtiyazlı veya itibarî değerinin üzerinde pay çıkarabilmesi ve pay sahiplerinin yeni pay alma haklarını sınırlandırabilmesi için esas sözleşmeyle yetkilendirilmiş olması şarttır.
 (5) Yönetim kurulu kararları aleyhine, pay sahipleri ve yönetim kurulu üyeleri, 445 inci maddede öngörülen sebeplerin varlığı hâlinde kararın ilanı tarihinden itibaren bir ay içinde iptal davası açabilirler. Bu davaya 448 ilâ 451 inci maddeler kıyas yoluyla uygulanır.
-11083
 (6) Sermaye artırımının yukarıdaki hükümlere uygun olarak gerçekleştirilmesinden sonra, çıkarılmış sermayeyi gösteren esas sözleşmenin sermaye maddesinin yeni şekli, yönetim kurulunca tescil ettirilir.
 (7) Sermaye Piyasası Kanununun halka açık anonim şirketlere ilişkin hükümleri saklıdır.
 3. Rüçhan hakkı

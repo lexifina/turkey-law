@@ -1,2 +1,1 @@
-MADDE 12 – 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 7 nci maddesinin birinci fıkrasının (b) bendinin (2) numaralı alt bendi aşağıdaki şekilde değiştirilmiştir.
-“2) Bu kurslarda okuyan öğrenciler için yurt ve pansiyonlar açmak ve yönetmek; Kur’an kursu, yurt ve pansiyonların iaşe ve ibate ihtiyaçları ile diğer harcamalarına ilişkin bütçelerini, mali yıl itibarıyla düzenlemek; yurt ve pansiyonların her türlü alım-satım işlemlerini yürütmek.”
+MADDE 12 – 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.

@@ -1,5 +1,5 @@
 Matrah artırımına ilişkin ortak hükümler
-MADDE 10. - 1. Bu Kanunun 7, 8 ve 9 uncu maddelerine göre;
+Madde 10- 1. Bu Kanunun 7, 8 ve 9 uncu maddelerine göre;
 a) Hesaplanan gelir, kurumlar ve katma değer vergilerinin; Şubat, Nisan, Haziran, Ağustos, Ekim, Aralık 2003 ayları ile Şubat, Nisan, Haziran 2004 ayları sonuna kadar dokuz eşit taksitte ödenmesi şarttır. Bu vergilerin Kanunda belirtilen şekilde ödenmemesi halinde, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre gecikme zammıyla birlikte takip ve tahsiline devam olunur.
 b) Hesaplanarak ödenen vergiler, gelir veya kurumlar vergisi matrahlarının tespitinde gider olarak kabul edilmez, indirim, mahsup ve iade konusu yapılmaz.
 c) Artırılan matrahlar nedeniyle geçici vergi hesaplanmaz ve tahsil olunmaz.

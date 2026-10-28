@@ -1,34 +1,29 @@
-Başkanlığın hizmet birimleri, görevleri ve yetkileri: (1)
-Madde 7 – (Değişik: 26/4/1976 - 1982/1 md.; İptal: Anayasa Mahkemesinin 18/12/1979 tarihli ve E. 1979/25, K. 1979/46 sayılı kararı ile;Yeniden düzenleme: 1/7/2010-6002/6 md.)
+Başkanlığın hizmet birimleri, görevleri ve yetkileri:[12]
+Madde 7 – (Değişik: 26/4/1976 - 1982/1 md.; İptal: Anayasa Mahkemesinin 18/12/1979 tarihli ve E. 1979/25, K. 1979/46 sayılı kararı ile; Yeniden düzenleme: 1/7/2010-6002/6 md.)
 Başkanlığın hizmet birimleri, görevleri ve yetkileri şunlardır:
 a) Din Hizmetleri Genel Müdürlüğü
 1) Cami ve mescitleri ibadete açmak, yönetmek, ibadet ve irşat hizmetlerini yürütmek.
 2) Cami ve mescit dışındaki yerlerde panel, konferans, seminer, sempozyum ve benzeri dinî programlar ile ilmî toplantılar düzenlemek.
-–––––––––––––
-(1) 1/7/2010 tarihli ve 6002 sayılı Kanunun 6 ncı maddesiyle, bu madde başlığı “Olgunlaştırma Müdürlüğünün görevleri:” iken metne işlendiği şekilde yeniden düzenlenmiştir.
-4122-3
-3) Ceza infaz kurumu ve tutukevleri, çocuk ıslahevi, huzurevi, sağlık kuruluşları ve benzeri yerlerde bulunan vatandaşlara irşat hizmetleri götürmek.
-4) Radyo ve televizyon kurumları ile diğer yayın kuruluşları vasıtasıyla toplumu din konusunda aydınlatmak.
+3) (Değişik: 29/5/2025-7549/3 md.) Öğrenci yurtları, eğitim kurumları, gençlik merkezleri ve kampları, ceza infaz kurumları, sağlık kuruluşları, sosyal hizmet kurumları ve benzeri yerlerde işbirliği esasına göre manevi danışmanlık ve din hizmeti sunmak.
+4) (Değişik: 29/5/2025-7549/3 md.) Yazılı, görsel, işitsel ve dijital medya vasıtasıyla toplumu din konusunda aydınlatmak.
 5) Dinî gün ve gecelerde programlar düzenlemek.
-6) İlgili birim, kurum ve kuruluşlarla işbirliği yaparak namaz vakitleri ile dinî gün ve geceleri tespit ve ilan etmek, bunun için gerekli çalışmaları yürütmek.
+6) (Değişik: 29/5/2025-7549/3 md.) Göçmen, engelli, bağımlı, afetzede gibi desteğe muhtaç kesimlere yönelik manevi danışmanlık hizmetleri yürütmek.
 7) Aile, kadın, gençlik ve toplumun diğer kesimlerine yönelik dinî konularda aydınlatma ve rehberlik yapmak.
-8) Kurban ibadetinin usulüne uygun şekilde yerine getirilmesi için gerekli çalışmaları yapmak.
-9) İhtiyaç duyulan yerlere okuma salonları açmak ve bunlarla ilgili işleri yürütmek.
+8) (Değişik: 29/5/2025-7549/3 md.) Kurban ibadetinin usulüne uygun şekilde yerine getirilmesi amacıyla gerekli tedbirleri almak, vekâletle kurban organizasyonu gerçekleştiren kurum ve kuruluşların bu kapsamdaki hizmet ve faaliyetlerini denetlemek.
+9) (Değişik: 29/5/2025-7549/3 md.) İhtiyaç duyulan yerlerde okuma salonu, aile ve dinî rehberlik merkezi, gençlik çalışmaları merkezi ve benzeri yerler açmak ve bunlarla ilgili işleri yürütmek.
 10) İslam dinine mensup farklı dinî yorum çevreleri, dinî-sosyal teşekküller ve geleneksel dinî-kültürel oluşumlarla ilgili çalışmalar yapmak.
-b) Eğitim Hizmetleri Genel Müdürlüğü
-1) Kur’an-ı Kerim okumak, anlamını öğrenmek, hafızlık yapmak, din eğitimi almak isteyenler için kurslar düzenlemek ve Kur’an kursları açmak.
-2) (Değişik: 24/5/2013 - 6487/12 md.) Bu kurslarda okuyan öğrenciler için yurt ve pansiyonlar açmak ve yönetmek; Kur’an kursu, yurt ve pansiyonların iaşe ve ibate ihtiyaçları ile diğer harcamalarına ilişkin bütçelerini, mali yıl itibarıyla düzenlemek; yurt ve pansiyonların her türlü alım-satım işlemlerini yürütmek.
-3) Kur’an-ı Kerimin usulüne uygun olarak okunması konusunda çalışmalar yapmak.
-4) İlgili birim, kurum ve kuruluşlarla işbirliği yaparak eğitim programları geliştirmek, planlamak ve uygulamak, bu amaçla eğitim merkezleri açmak ve bu merkezlerle ilgili iş ve hizmetleri yürütmek.
-5) En az lisans düzeyinde dinî yüksek öğrenim görmüş olan personelin, Başkanlığın görev alanı ile ilgili konularda hizmet içinde bilgisini artırması ve uzmanlaşması amacıyla dinî yüksek ihtisas merkezleri açmak ve bu merkezlerle ilgili iş ve işlemleri yürütmek.
+b) (Değişik:16/3/2022-7383/1 md.) Eğitim Hizmetleri Genel Müdürlüğü
+1) Kur’an-ı Kerim’in usulüne uygun olarak okunmasına, anlaşılmasına, İslami ilimlerin öğrenilmesine yönelik çalışmalar yapmak, bu alanlarda bilgi ve becerilerini geliştirmek ve hafızlık yapmak isteyenler için Kur’an kursları ile Kur’an eğitim merkezleri açmak, din eğitimi almak isteyenler için kurslar düzenlemek, bu kurs ve merkezlerle ilgili iş ve işlemleri yürütmek.
+2) İlgili birim, kurum ve kuruluşlarla iş birliği yaparak kurs ve Kur’an eğitim merkezlerinde uygulanacak eğitim programları ve materyalleri geliştirmek; alan araştırmaları, ölçme ve değerlendirme çalışmaları yapmak.
+3) Açılan kurs ve merkezlerde okuyan öğrenciler için yurt ve pansiyonlar açmak ve bunları yönetmek.
+4) Bu kurs ve merkezler ile yurt ve pansiyonların iaşe ve ibate ihtiyaçları ile diğer harcamalarına ilişkin bütçelerini, mali yıl itibarıyla düzenlemek; yurt ve pansiyonların her türlü alım-satım işlemlerini yürütmek.
 c) Hac ve Umre Hizmetleri Genel Müdürlüğü
 1) Hac ve umre ibadetlerinin usulüne uygun, sağlık ve güvenlik içinde, hizmet talep edenlerin hakları korunacak şekilde yerine getirilmesi amacıyla yurt içinde ve yurt dışında gerekli tedbirleri almak, ilgili ülke, kurum ve kuruluşlarla işbirliği yapmak, bu konulardaki hizmet ve faaliyetleri düzenlemek, yürütmek ve denetlemek.
 2) Hacda kurban ibadetinin usulüne uygun şekilde yerine getirilmesi için gerekli çalışmaları yapmak.
 3) İlgili birim, kurum ve kuruluşlarla işbirliği yaparak hac ve umreye gideceklerle görevlilerin eğitimini sağlamak.
 4) Görev alanına giren konularda hizmet satın almak.
 ç) Dinî Yayınlar Genel Müdürlüğü
-1) Toplumu din konusunda aydınlatmak amacıyla gerçek ve elektronik ortamda basılı, sesli ve görüntülü eserler hazırlamak, hazırlatmak, bunları inceleyerek yayımlamak, süreli yayınlar yapmak ve gerektiğinde ücretsiz yayın dağıtmak, dini bakımdan daha teferruatlı incelenmesi gereken eserleri Din İşleri Yüksek Kurulunun olumlu görüşünü aldıktan sonra yayımlamak.
-4122-4
+1) (Değişik: 29/5/2025-7549/3 md.) Toplumu din konusunda aydınlatmak amacıyla gerçek ve elektronik ortamda basılı, sesli, görüntülü eserler ile Türk İslam sanatlarını geliştirmeye, tanıtmaya yönelik eserler hazırlamak, hazırlatmak, bunları inceleyerek yayımlamak, süreli yayınlar yapmak ve gerektiğinde ücretsiz yayın dağıtmak, dinî bakımdan daha teferruatlı incelenmesi gereken eserleri Din İşleri Yüksek Kurulunun olumlu görüşünü aldıktan sonra yayımlamak, kütüphane açmak.
 2) Başkanlığın görev alanı ile ilgili konularda radyo ve televizyon yayını yapmak, radyo ve televizyonlarda yayınlanmak üzere programlar hazırlamak ve hazırlatmak, bu konularda Türkiye Radyo ve Televizyon Kurumu ve diğer yayın kuruluşları ile işbirliği yapmak ve gerektiğinde bu amaçla hizmet satın almak.
 3) Yurt dışında yaşayan vatandaş, soydaş ve İslam dinine mensup topluluklara yönelik değişik dil ve lehçelerde yayınlar hazırlamak, hazırlatmak ve gerektiğinde bunları ücretsiz dağıtmak.
 d) Dış İlişkiler Genel Müdürlüğü
@@ -49,25 +44,23 @@ e) İnsan Kaynakları Genel Müdürlüğü
 f) Yönetim Hizmetleri Genel Müdürlüğü
 1) Başkanlığın merkez ve taşra teşkilatını ilgilendiren yapım, bakım, onarım, satın alma, kiralama, genel evrak, arşiv, sağlık, güvenlik, temizlik, aydınlatma, taşıma ve benzeri iş ve işlemleri yürütmek.
 2) Kurum için gerekli her türlü teknik, donanım ve altyapı hizmetlerini planlamak, geliştirmek, kurmak, işletmek, yenilemek, bu altyapıların güvenliğini ve sürekliliğini sağlamak üzere gerekli önlemleri almak.
-4122-5
 3) Başkanlık hizmetleri için arsa, bina ve tesisler ile ilgili ihtiyaçları tespit etmek ve programlamak.
 4) Başkanlığın hizmetleri için ihtiyaç duyulan arsa ve binaların tahsis, kamulaştırma ve kiralama işlemlerini yürütmek.
 5) Başkanlık hizmet binaları, eğitim merkezi, Kur’an kursu, sosyal tesis ve benzeri yatırım tekliflerini hazırlamak ve yatırım ödeneklerini planlamak.
 6) Cami, Kur’an kursu, hizmet binası ve diğer dini tesislerin estetik, fonksiyonel ve güvenli şekilde inşası için çalışmalar yaparak teknik yönden kontrolünü sağlamak, tip projeler hazırlamak, hazırlatmak ve kontrol etmek.
 7) Mazbut ve mülhak vakıflarda bulunan cami ve mescitlerdeki teberrükat eşyasının tespiti, korunması, değerlendirilmesi, yerlerinin değiştirilmesi, satışı ve satıştan elde edilen paranın benzeri hizmetlere tahsisi, cetvellerin yapılması, muhasebesi, denetlenmesi ve sair hususları Vakıflar Genel Müdürlüğü, diğer cami ve mescitlerdeki teberrükat eşyasını ise ilgili birim, kurum ve kuruluşlarla işbirliği ile düzenlemek.
 8) Başkanlığın sosyal ve kültürel faaliyetlerini yürütmek, diyanet evi ve benzeri sosyal tesislerin kurulması ve işletilmesini sağlamak.
-9) Taşınmaz mal kayıtlarını tutmak.
+9) (Mülga: 2/7/2018 - KHK/703/141 md.)[13]
 10) Başkanlık bütçesinden kamu yararı gözetilerek dernek, vakıf, birlik, kurum, kuruluş, sandık ve benzeri teşekküllere yapılacak yardımlar ile ilgili işlemleri yürütmek.
-11) Başkanlıkça düzenlenen yardım kampanyalarını organize etmek.
+11) (Değişik: 29/5/2025-7549/3 md.) Başkanlıkça düzenlenen yardım kampanyalarını organize etmek, cami, mescit ve eklentilerinde gerçekleştirilecek yardım kampanyalarının uygulama usul ve esaslarını belirlemek.
 12) Ayni ve nakdi bağışların kabulünü ve bağışların özel bir hesapta toplanmasını sağlayarak münhasıran dini hizmetler için sarf edilmesini temin etmek, Başkanlık onayı ile kabul edilecek şartlı bağışlarda şarta riayeti sağlamak.
-13) Mülkiyeti Hazineye ait taşınmazlar üzerinde bulunan ve Diyanet İşleri Başkanlığı tarafından yönetilen cami ve mescitlerin müştemilatındaki yerlerin kiralanması hususunda Maliye Bakanlığı ile işbirliği içinde gerekli düzenlemeleri yapmak.
+13) (Değişik: 29/5/2025-7549/3 md.) Başkanlık tarafından yönetilen cami, mescit ve Kur’an kurslarının müştemilatındaki yerlerin kiralanması, işletilmesi veya işlettirilmesi ile ilgili iş ve işlemleri yürütmek.
 14) Din görevlilerinin giyecekleri görev kıyafetlerinin tasarımını yapmak veya yaptırmak ve bu kıyafetlerin satın alma ve dağıtım işlemlerini yürütmek.
 15) Başkanlığın sivil savunma ve seferberlik hizmetlerini planlamak ve yürütmek.
 g) Rehberlik ve Teftiş Başkanlığı
 1) Müfettiş sıfat ve niteliklerini taşıyan bir başkanın yönetimi altında Başkanlığın bütün işlerini Başkan adına müfettiş ve müfettiş yardımcıları marifeti ile eğitici ve rehberlik edici bir anlayışla teftiş etmek, hizmeti ve personeli denetlemek, inceleme ve soruşturma yapmak.
 2) Müfettişler tarafından düzenlenen raporları değerlendirmek, raporlar hakkında istatistiki bilgiler ile birlikte uygulamadaki sorunlara ve yapılması gereken hususlara ilişkin öneriler sunmak.
 3) Denetim yöntem ve teknikleri geliştirmek, denetim standart ve ilkeleri oluşturmak, denetimin etkinliğini ve verimliliğini artırıcı tedbirleri almak, bu konuda görüş ve öneriler sunmak, gerektiğinde taşrada çalışma grupları oluşturmak ve denetim rehberleri hazırlamak.
-4122-6
 ğ) Strateji Geliştirme Başkanlığı
 1) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 22/12/2005 tarihli ve 5436 sayılı Kanunun 15 inci maddesi ve diğer mevzuatla strateji geliştirme ve mali hizmetler birimlerine verilen görevleri yapmak.
 h) Hukuk Müşavirliği
@@ -75,7 +68,7 @@ h) Hukuk Müşavirliği
 2) Başkanlığın menfaatlerini koruyucu, anlaşmazlıkları önleyici hukuki tedbirlerin zamanında alınmasına rehberlik etmek, anlaşma ve sözleşmelerin bu esaslara uygun olarak yapılmasına yardımcı olmak.
 3) 8/1/1943 tarihli ve 4353 sayılı Kanun hükümlerine göre adli ve idari davalarda gerekli bilgileri hazırlamak ve taraf olduğu, Hazineyi ilgilendirmeyen idari davalarda Başkanlığı temsil etmek.
 4) Başkanlığın amaçlarını daha iyi gerçekleştirmesini; mevzuata, plan ve programa uygun olarak çalışmasını temin etmek amacıyla gerekli hukuki teklifleri hazırlamak ve Başkana sunmak.
-5) Başbakanlık, bakanlıklar ve Başkanlık birimlerinden gönderilen kanun, tüzük, yönetmelik ve diğer mevzuat taslaklarını hukuki açıdan inceleyerek görüş bildirmek.
+5) Cumhurbaşkanlığı, bakanlıklar ve Başkanlık birimlerinden gönderilen (…)14 mevzuat taslaklarını hukuki açıdan inceleyerek görüş bildirmek.[14]
 ı) Özel Kalem Müdürlüğü
 1) Başkanın resmî ve özel yazışmalarını, her türlü protokol ve törenlerini düzenlemek ve yürütmek.
 i) Basın ve Halkla İlişkiler Müşavirliği
@@ -83,8 +76,5 @@ i) Basın ve Halkla İlişkiler Müşavirliği
 2) Başkanlığın kamuoyuna duyurulmasını uygun gördüğü haber, bildiri, demeç, mesaj, görüş ve kararları iç ve dış basına, haber ajanslarına, radyo ve televizyon kuruluşlarına süresi içinde ulaştırmak, Başkanlığın basın kuruluşları ile ilişkilerini ve basın toplantılarını düzenlemek.
 3) Başkanlığın halkla ilişkilerle ilgili faaliyetlerini planlamak, yürütmek ve Başkanlığa gönderilen her türlü ihbar, şikayet, öneri ve istekleri değerlendirerek gereği için ilgili birimlere göndermek.
 4) 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanununa göre yapılacak bilgi edinme başvurularını etkin, süratli ve doğru bir şekilde sonuçlandırmak üzere gerekli tedbirleri almak.
-Başkanlığın görev alanına giren konularda Başkana danışmanlık yapmak üzere merkez teşkilatında kırk Başkanlık müşaviri atanabilir. (Ek cümle: 23/8/2011-KHK-653/8 md.) Ayrıca, yurt içinde ve yurt dışında inceleme ve araştırmalar yapmak ve Başkan tarafından verilen diğer görevleri yürütmek üzere, kırk Başkanlık müftüsü atanabilir. (1)
-–––––––––––––––––
-(1) 4/7/2012 tarihli ve 6353 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “onbeş” ibaresi “kırk” şeklinde değiştirilmiştir.
-4122-7
+Başkanlığın görev alanına giren konularda Başkana danışmanlık yapmak üzere merkez teşkilatında kırk Başkanlık müşaviri atanabilir. (Ek cümle: 23/8/2011-KHK-653/8 md.) Ayrıca, yurt içinde ve yurt dışında inceleme ve araştırmalar yapmak ve Başkan tarafından verilen diğer görevleri yürütmek üzere, kırk Başkanlık müftüsü atanabilir.[15]
 Başkanlık; görev alanına giren ve ihtiyaç duyulan konularda çalışmalarda bulunmak, araştırma ve uygulama projeleri geliştirmek ve bunları uygulamak üzere bakanlık, kamu kurum ve kuruluşları, sivil toplum kuruluşları, yurt içinden ve yurt dışından konu ile ilgili uzmanların katılımı ile sürekli ve geçici şûra, kurul ve çalışma grupları oluşturabilir, danışma ve ihtisas komisyonları kurabilir. Ayrıca, Başkanlık teşkilatında, gerektiğinde sürekli veya geçici özel ihtisas komisyonları ile inceleme, araştırma ve çalışma grupları oluşturulabilir. Başkanlık hizmet birimlerinin çalışma usul ve esasları yönetmelikle düzenlenir.

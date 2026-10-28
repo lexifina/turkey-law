@@ -1,8 +1,5 @@
 İnsan ticareti
 Madde 80- (1) (Değişik: 6/12/2006 – 5560/3 md.) Zorla çalıştırmak, hizmet ettirmek, fuhuş yaptırmak veya esarete tâbi kılmak ya da vücut organlarının verilmesini sağlamak maksadıyla tehdit, baskı, cebir veya şiddet uygulamak, nüfuzu kötüye kullanmak, kandırmak veya kişiler üzerindeki denetim olanaklarından veya çaresizliklerinden yararlanarak rızalarını elde etmek suretiyle kişileri ülkeye sokan, ülke dışına çıkaran, tedarik eden, kaçıran, bir yerden başka bir yere götüren veya sevk eden ya da barındıran kimseye sekiz yıldan oniki yıla kadar hapis ve onbin güne kadar adlî para cezası verilir.
 (2) Birinci fıkrada belirtilen amaçlarla girişilen ve suçu oluşturan fiiller var olduğu takdirde, mağdurun rızası geçersizdir.
-–––––––––––––––
-(1) 22/7/2010 tarihli ve 6008 sayılı Kanunun 6 ncı maddesiyle bu maddeye birinci fıkrasından sonra gelmek üzere yeni bir fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
-8987
 (3) Onsekiz yaşını doldurmamış olanların birinci fıkrada belirtilen maksatlarla tedarik edilmeleri, kaçırılmaları, bir yerden diğer bir yere götürülmeleri veya sevk edilmeleri veya barındırılmaları hallerinde suça ait araç fiillerden hiçbirine başvurulmuş olmasa da faile birinci fıkrada belirtilen cezalar verilir.
 (4) Bu suçlardan dolayı tüzel kişiler hakkında da güvenlik tedbirine hükmolunur.

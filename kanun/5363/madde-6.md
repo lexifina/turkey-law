@@ -1,5 +1,5 @@
 Kurulun görev ve sorumlulukları
-MADDE 6 —Kurulun görevleri şunlardır:
+Madde 6- Kurulun görevleri şunlardır:
 a) Havuzun işleyişine ilişkin uygulama esaslarını belirlemek.
 b) Bu Kanun kapsamında tarım sigortaları için verilecek, Devlet prim desteği toplam tutarını aşmamak kaydıyla ürün, risk ve bölge bazında prim desteği oranını belirlemek üzere çalışmalar yapmak ve Bakanlığa sunmak.
 c) Uygulamada karşılaşılan sorunları tespit etmek, bunların çözümüne yönelik çalışmalar yapmak, yaptırmak.

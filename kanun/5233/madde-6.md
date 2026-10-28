@@ -1,6 +1,6 @@
 Başvurunun süresi, şekli, incelenmesi ve sonuçlandırılması
 Madde 6- (Değişik: 28/12/2005 - 5442/3 md.)
-Zarar gören veya mirasçılarının veya yetkili temsilcilerinin zarar konusu olayın öğrenilmesinden itibaren altmış gün içinde, her hâlde olayın meydana gelmesinden itibaren bir yıl içinde zararın gerçekleştiği veya zarar konusu olayın meydana geldiği il valiliğine başvurmaları hâlinde gerekli işlemlere başlanır. Bu sürelerden sonra yapılacak başvurular kabul edilmez. Bu Kanun kapsamındaki yaralanma ve engelli hâle gelme durumlarında, yaralının hastaneye kabulünden hastaneden çıkışına kadar geçen süre, başvuru süresinin hesaplanmasında dikkate alınmaz. (1)
+Zarar gören (…)[3] veya yetkili temsilcilerinin zarar konusu olayın öğrenilmesinden itibaren altmış gün içinde, her hâlde olayın meydana gelmesinden itibaren bir yıl içinde zararın gerçekleştiği veya zarar konusu olayın meydana geldiği il valiliğine başvurmaları hâlinde gerekli işlemlere başlanır. Bu sürelerden sonra yapılacak başvurular kabul edilmez. Bu Kanun kapsamındaki yaralanma ve engelli hâle gelme durumlarında, yaralının hastaneye kabulünden hastaneden çıkışına kadar geçen süre, başvuru süresinin hesaplanmasında dikkate alınmaz.[4]
 İlgili valilik dışında diğer valilikler, kaymakamlıklar, Türkiye Cumhuriyeti dış temsilcilikleri, diğer bakanlıklar ile kamu kurum ve kuruluşlarına yapılan başvurular ilgili valiliğe gönderilir.
 Komisyon, zarar görenlerce yapılacak her başvuru ile ilgili çalışmalarını, başvuru tarihinden itibaren altı ay içinde tamamlamak zorundadır. Zorunlu hâllerde, bu süre vali tarafından üç ay daha uzatılabilir.
 Komisyon, ilgili kamu kurum ve kuruluşlarından başvuru konusu ile ilgili her türlü bilgi ve yardımı isteyebileceği gibi, kamu kurum ve kuruluşlarında çalışanları bilirkişi olarak da görevlendirebilir. Komisyon, gerekli gördüğü uzmanları çalıştırabilir veya bunlardan görüş alabilir.
@@ -11,6 +11,3 @@ Zararların tespiti amacıyla memuriyet mahalli dışında keşfe katılan komis
 Komisyon üyeleri bilirkişi olarak görevlendirilemez.
 Komisyonun giderleri Bakanlık ve/veya il özel idaresi bütçesinden karşılanır.
 Dava açma süresi içinde yapılan başvuru, nihaî işlem sonucunun ilgiliye tebliğine kadar genel hükümlere göre dava açma sürelerini durdurur.
-–––––––––––––––––
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlanmalarda” ibaresi “engelli hâle gelme durumlarında” şeklinde değiştirilmiştir.
-8929

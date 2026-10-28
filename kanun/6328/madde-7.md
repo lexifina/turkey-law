@@ -12,4 +12,3 @@ g) Genel Sekreteri ve diğer personeli atamak.
 (2) Denetçilerin görevleri şunlardır:
 a) Bu Kanunda verilen görevlerin yapılmasında Başdenetçiye yardımcı olmak.
 b) Başdenetçi tarafından verilen görevleri yapmak.
-11627

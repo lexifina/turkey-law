@@ -3,4 +3,3 @@ MADDE 31 – (1) Başdenetçi ve denetçilerin görevleri sebebiyle bir suç iş
 (2) Başdenetçi ve denetçiler hakkındaki soruşturma Yargıtay Cumhuriyet Başsavcısı tarafından yapılır. Açılacak kamu davası, Yargıtayın ilgili ceza dairesinde görülür. Temyiz mercii, Yargıtay Ceza Genel Kuruludur.
 (3) Bu maddede hüküm bulunmayan hususlarda 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanır.
 (4) Ağır ceza mahkemesinin görev alanına giren suçlara ilişkin suçüstü hâli genel hükümlere tabidir.
-11635

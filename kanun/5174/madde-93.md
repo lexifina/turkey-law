@@ -1,7 +1,7 @@
 Para cezaları
 Madde 93- Oda ve borsa üyelerinden;
 a) Mevzuata uygun olarak kayıt ve tescil muamelelerini yaptırmayanlara veya tescil ve ilânı gereken değişiklikleri bildirmeyenlere yıllık aidatlarının iki katı,
-b) Yetkili organlarca ve Sigorta Acenteleri İcra Komitesi ile Sigorta Eksperleri İcra Komitesince alınan kararlara riayet etmeyenlere yıllık aidatlarının beş katı,(1)
+b) Yetkili organlarca ve Sigorta Acenteleri İcra Komitesi ile Sigorta Eksperleri İcra Komitesince alınan kararlara riayet etmeyenlere yıllık aidatlarının beş katı,[20]
 c) İmalatta, mal ve hizmet arzında sağlık kurallarına uymayanlara, ölçü ve tartı aletlerini hileli bir şekilde kullananlara ve hileli, karışık veya standartlara aykırı ve kalitesiz mal imal edip, satanlara yıllık aidatlarının on katı,
 Tutarında idarî para cezası verilir.
 Bu eylem ve davranışlara ilişkin idarî para cezaları, disiplin kurulunun teklifi ve meclisin kararıyla verilir. Bu maddede belirtilen idarî para cezaları aynı fiilin bir yıl içinde her tekrarı için iki kat olarak uygulanır.

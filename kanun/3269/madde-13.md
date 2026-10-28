@@ -1,0 +1,3 @@
+Kıyafet ve zati tabanca[14]
+Madde 13 – Uzman erbaşların kıyafetleri, kıyafet yönetmeliğinde gösterilir.[15]
+(Ek fıkra : 27/7/1993 – KHK – 489/6 md.; Aynen kabul: 10/2/2004-5085/8 md.) Uzman erbaşlar ilk sözleşmelerini müteakip bedeli karşılığında zatî tabanca edinebilirler ve görevli olmadıkları zamanlarda da resmî veya sivil elbise ile zatî tabancalarını göze görünmeyecek bir şekilde taşıyabilirler. En az on yıl görev yapıp Türk Silâhlı Kuvvetlerinden ayrılanlara, istifa veya istifa etmiş sayılmak suretiyle Türk Silâhlı Kuvvetlerinden ayrılan subay ve astsubaylar gibi; emeklilik durumunda ise, emekli subay ve astsubaylar gibi silah taşıma ruhsatı verilir.

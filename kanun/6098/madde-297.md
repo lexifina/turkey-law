@@ -3,4 +3,3 @@ MADDE 297- Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bi
 Bağışlayan bir yıllık süre dolmadan ölürse, geri alma hakkı mirasçılarına geçer ve mirasçıları bu sürenin sona ermesine kadar bu hakkı kullanabilirler.
 Bağışlayan, sağlığında geri alma sebebini öğrenememişse, mirasçıları, ölümünden başlayarak bir yıl içinde bağışlamayı geri alma hakkını kullanabilirler.
 Bağışlanan, bağışlayanı kasten ve hukuka aykırı olarak öldürür veya onun geri alma hakkını kullanmasını engellerse, mirasçıları bağışlamayı geri alabilirler.
-10808

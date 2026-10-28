@@ -1,3 +1,2 @@
 Sınırsız sorumluluk
 Madde 126 – Zararın, taşıyıcının veya adamlarının zarar vermek kastı ile veya zararın doğması ihtimali olduğunu bilerek dikkatsizce yaptıkları bir hareket veya ihmal sonucunda meydana geldiği ispat edildiği takdirde; bu Kanunda öngörülen sorumluluk sınırları uygulanmaz. Ancak, taşıyıcının işçileri veya temsilcileri gibi yardımcı kişilerinin meydana getirdiği sınırsız sorumluluk talebine mevzu olan zarar hakkında Borçlar Kanununun 55 inci madde hükümleri saklıdır.
-6128

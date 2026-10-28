@@ -4,7 +4,7 @@ BİRİNCİ BÖLÜM
 Yargılama Giderleri
 Yargılama giderlerinin kapsamı
 MADDE 323- (1) Yargılama giderleri şunlardır:
-a) Celse, karar ve ilam harçları.
+a) Başvurma, karar ve ilam harçları.[38]
 b) Dava nedeniyle yapılan tebliğ ve posta giderleri.
 c) Dosya ve sair evrak giderleri.
 ç) Geçici hukuki koruma tedbirleri ve protesto, ihbar, ihtarname ve vekâletname düzenlenmesine ilişkin giderler.

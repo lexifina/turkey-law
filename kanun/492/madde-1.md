@@ -4,7 +4,7 @@ Madde 1 – Bu kanuna göre alınacak harçlar aşağıda gösterilmiştir:
 3. (Değişik: 21/1/1982 - 2588/1 md.) Vergi Yargısı Harçları,
 4. Tapu ve Kadastro harçları,
 5. Konsolosluk harçları,
-6. Pasaport, ikamet tezkeresi vize ve Dışişleri Bakanlığı tasdik harçları,
+6. Pasaport, ikamet tezkeresi, çalışma izni, çalışma izni muafiyeti, vize ve Dışişleri Bakanlığı tasdik harçları,[3]
 7. Gemi ve liman harçları,
-8. İmtiyazname,ruhsatname ve diploma harçları,
+8. İmtiyazname, ruhsatname ve diploma harçları,
 9. Trafik harçları.

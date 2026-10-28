@@ -8,4 +8,3 @@ Enstitü kurulu; müdürün başkanlığında, müdür yardımcıları ve enstit
 Enstitü yönetim kurulu; müdürün başkanlığında, müdür yardımcıları, enstitü sekreteri ve müdürce gösterilecek altı aday arasından, enstitü kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşur.
 Enstitü kurulu ve enstitü yönetim kurulu bu Kanunla fakülte öğretim kurulu ve fakülte yönetim kuruluna verilmiş görevleri bilimsel açıdan enstitü için yerine getirirler.
 Bu enstitülerin adları, bölümleri, öğrenci seçimi ile enstitülerde yapılacak lisans üstü eğitim-öğretimin şekli, süresi, programları, 2547 sayılı Yüksek Öğretim Kanununun yüksek öğretim kurumları ile ilgili hükümlerine ve buna dayalı olarak verilen diplomalar, çıkarılacak yönetmelikle belirlenir.
-7949

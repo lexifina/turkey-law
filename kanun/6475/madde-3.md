@@ -1,10 +1,9 @@
 Tanımlar
 MADDE 3 – (1) Bu Kanunun uygulanmasında;
-a) Adres bilgi kayıt sistemi: 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanunu ve ilgili mevzuatı saklı kalmak kaydıyla, gerçek kişilerin rızası alınarak gerçek ve tüzel kişiler ile kamu kurum ve kuruluşlarına ait fiziki ve elektronik adreslerin, reklam ve tanıtım amacıyla PTT hizmetlerinden yararlananlara ücret karşılığı kullandırılmasına yönelik olarak oluşturulan PTT’ye ait veri tabanını,
+a) Adres bilgi kayıt sistemi: 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanunu ve ilgili mevzuatı saklı kalmak kaydıyla, (…)[2] kişilerin rızası alınarak gerçek ve tüzel kişiler ile kamu kurum ve kuruluşlarına ait fiziki ve elektronik adreslerin, reklam ve tanıtım amacıyla PTT hizmetlerinden yararlananlara ücret karşılığı kullandırılmasına yönelik olarak oluşturulan PTT’ye ait veri tabanını,
 b) Bakan: Ulaştırma, Denizcilik ve Haberleşme Bakanını,
 c) Bakanlık: Ulaştırma, Denizcilik ve Haberleşme Bakanlığını,
 ç) Basılmış kâğıt: Herhangi bir kâğıt, karton veya başka bir madde üzerine el, makine veya fotoğraf gibi baskı tekniği kullanılarak hazırlanan her türlü gazete, dergi, kitap, süreli veya süresiz birbirinin aynı olan yayın, broşür, katalog, fotoğraf, fotoğraf kapsayan albüm, gravür, plan, harita gibi yazı, resim veya şekil taşıyan adresli veya adressiz, kişisel haberleşme niteliği bulunmayan gönderiyi,
-12074
 d) Değer konulmuş veya sigortalı gönderi: Kaybı, çalınması veya hasara uğraması hâlinde gönderici tarafından kabulde beyan edilen değere kadar tazminat istenebilen gönderiyi,
 e) Değerli kâğıt: PTT’ce kullanılan ve bir değer ifade eden her türlü pul ve filatelik malzemeyi,
 f) Etkin piyasa gücü: Hizmet sağlayıcısının, ilgili pazarda, tek başına ya da diğer hizmet sağlayıcılarla birlikte, rakiplerinden ve kullanıcılarından fark edilir bir şekilde bağımsız olarak hareket edebilmesine imkân sağlayan ekonomik gücü,
@@ -23,7 +22,6 @@ o) Kullanıcı: Hizmet sağlayıcıları tarafından verilen hizmetlerden gönde
 p) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
 r) Net satış: Hizmet sağlayıcısının belirli bir dönemde posta hizmetlerinden elde ettiği gelirlerden, yapılan indirimler ve iadeler düşüldükten sonra mali müşavir veya vergi dairesi onaylı gelir tablosundaki satışlar başlığında ayrıntılı olarak belirtilen, hesap ayrıştırması yapılamadığı durumda gelir tablosundaki net satışlar başlığı altında belirtilen tutarı,
 s) Özel hizmet: Müşteri talepleri doğrultusunda ek olarak verilen hizmetleri,
-12075
 ş) Parasal posta hizmeti: Yurt dışı ve yurt içi havale, posta çeki, yapılacak anlaşmalar kapsamında vergi dâhil her türlü tahsilat ve ödeme, bilet ve her türlü ticari ürünün fiziki ve elektronik ortamda satışı, döviz alım ve satım işlemleri yapmayı ve Hazine bonosu, tahvil, hisse senedi ve değerli kâğıtların alım satımlarına, sigortacılık işlemlerine ve her türlü şans oyunlarına aracılık etmeyi,
 t) Posta çeki işlemleri: PTT iş yerlerinde veya elektronik ileti şeklinde çek hesabı açtıran kişilerce bir miktar paranın hesabına borç kaydı suretiyle kendisine veya üçüncü bir kişiye ödenmesi ya da üçüncü kişinin hesabına alacak kaydedilmesi hususunda PTT tarafından belirlenen yöntemlerle gerçekleştirilen işlemleri,
 u) Posta gönderisi: Göndericinin bizzat kendisi veya talimatıyla, üzerinde belirtilen yer ve adrese, gönderi türüne ve özel hizmetine göre teslim edilen haberleşme gönderileri ile kitap, katalog, gazete ve süreli yayınları, görme engellilere özgü yazıları, ticari değeri olsun veya olmasın eşya içeren en fazla beş kilogram ağırlığa veya elli desimetreküp hacme sahip posta maddesi ile posta kolisi veya kargosunu,
@@ -39,4 +37,3 @@ dd) Temel ücret: Kurul tarafından belirlenen yurt içi en düşük ağırlıkt
 ee) Yetki belgesi: Posta hizmetlerinin tamamının veya bir kısmının sunulması veya yürütülmesi için gerekli olan altyapının sağlanması ve işletilmesine yetki tanıyan, posta hizmetlerine özel, belirli hak ve yükümlülükleri içeren ve Kurul tarafından belirlenen bedel karşılığında verilen belgeyi,
 ff) Yönetim Kurulu: PTT Yönetim Kurulunu,
 ifade eder.
-12076

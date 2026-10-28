@@ -1,8 +1,7 @@
 Yayın İşleri Müdürlüğü ve görevleri:
 Madde 50 – Yargıtay Yayın İşleri Müdürlüğü, Yargıtay kuruluşu içerisinde Birinci Başkanlığa bağlı olmak üzere yükseköğrenim yapmış bir müdürün yönetiminde yeteri kadar müdür yardımcısı ve memurlardan oluşur.
 Yayın İşleri Müdürlüğünün Görevleri Şunlardır:
-a)Tasnif Kurulunca tasnif edilen Yargıtay İçtihadı Birleştirme Genel Kurul ve daire kararlarını kanun, tüzük, yönetmelik ve diğer mevzuat maddelerine göre kartlara geçirmek ve fihristlerini yapmak,
-5598
+a) Tasnif Kurulunca tasnif edilen Yargıtay İçtihadı Birleştirme Genel Kurul ve daire kararlarını kanun (…)[16] ve diğer mevzuat maddelerine göre kartlara geçirmek ve fihristlerini yapmak,
 b) Kararları ve özetlerini fihristleriyle, resmi külliyat olarak teselsül eden ciltler halinde yayınlamak,
 c) Yayın Kurulunca Türkçe‘ye çevrilmesi saptanan yabancı dillerde yazılmış kitaplarla kararların çeviri ve yayın işlerini yürütmek,
 d) Yayın Kurulunca saptanan kitapları satın almak,

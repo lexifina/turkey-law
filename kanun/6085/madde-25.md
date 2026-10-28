@@ -4,7 +4,7 @@ MADDE 25 – (1) Genel Kurul Sayıştay Başkanının başkanlığında başkan 
 a) Genel uygunluk bildirimlerini görüşür.
 b) İçtihadın birleştirilmesi kararı alır.
 c) Bu Kanun gereğince hazırlanacak yönetmelikler hakkında görüş bildirir.
-ç) Sayıştaya ilişkin kanun tasarısı ve teklifleri hakkında görüş bildirir.
+ç) Sayıştaya ilişkin kanun teklifleri hakkında görüş bildirir.[6]
 d) Sayıştay Başkanı tarafından incelenmesi istenilen diğer konular hakkında görüş bildirir veya karar verir.
 e) Bu Kanunla verilen diğer görevleri yapar.
 (3) Başsavcı oy hakkı olmamak üzere Genel Kurul toplantılarına katılır ve görüşünü açıklar.

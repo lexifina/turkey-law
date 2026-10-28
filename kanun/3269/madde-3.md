@@ -5,4 +5,3 @@ a) Uzman Çavuş: En az lise veya dengi okul mezunu çavuşlar veya en az ilkö�
 b) Uzman Onbaşı: En az ilköğretim okulu veya dengi okul mezunu olup, muvazzaflık hizmetini müteakip, Türk Silâhlı Kuvvetlerinin devamlılık arz eden teknik ve kritik uzmanlık görev yerlerinde istihdam edilenleri,
 c) Uzman Erbaş: Bu Kanun hükümlerine göre istihdam edilen uzman çavuş ve uzman onbaşıları,
 İfade eder.
-6836

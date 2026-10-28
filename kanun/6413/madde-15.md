@@ -13,7 +13,6 @@ h) Askeri nezaket kurallarına uymamak: Nizamlarla belirlenmiş olan askeri gör
 ı) Hizmet haricinde yalan söylemek: Amir veya üstü tarafından denetim ve gözetim sorumluluğu kapsamında sorulan sorulara kasten doğru yanıt vermemektir.
 i) Selamlama yapmamak: Selamlama ile ilgili olarak nizamlarla belirlenmiş kurallara riayet etmemektir.
 j) Zamana riayet etmemek: Belirli zamanda yapılması gereken faaliyetlerde özürsüz olarak geç kalmaktır.
-11940
 k) Mesai dışında aşırı alkol kullanımı: Mesai dışında sivil veya üniformalı olarak aşırı alkol alarak kişisel veya kurumsal imaj kaybı oluşturacak olumsuz davranışlarda bulunmaktır.
 l) Görev dönüşü tekmil vermemek: Verilmiş bir emrin icrası veya sonuçları hakkında emri verene bilgi vererek müteakip emirlerini almamaktır.
 m) Kişisel ve çevre temizliğine dikkat etmemek: Askeri hizmet esnasında belirlenmiş olan kişisel veya çevre temizliği ile ilgili kurallara riayet etmemektir.

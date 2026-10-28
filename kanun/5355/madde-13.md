@@ -6,6 +6,5 @@ c) Öngörülmeyen giderler ödeneğinin harcama yerlerini belirlemek.
 d) Bütçede fonksiyonel sınıflandırmanın ikinci düzeyleri arasında aktarma yapmak.
 e) Kanunlarda öngörülen cezaları vermek.
 f) İkibin Yeni Türk Lirasına kadar olan davaların sulhen halline karar vermek.
-9401
 g) Taşınmaz mal alımına, satımına, kiralanmasına ve takasına ilişkin meclis kararlarını uygulamak.
 Birlik encümeninin toplantıları, kararları ile çalışma esas ve usûlleri hakkında bu Kanunda hüküm bulunmayan hallerde, Belediye Kanununun belediye encümenine ilişkin hükümleri uygulanır.

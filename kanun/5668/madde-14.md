@@ -1,8 +1,5 @@
 Yürütme
 MADDE 14 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-––––––––––
-(1) 25/6/2009 tarihli ve 5917 sayılı Kanunun 48 inci maddesiyle; bu maddenin 1/1/2010 tarihinde yürürlüğe girmesi hüküm altına alınmıştır.
-10129
 GÜNLÜK YEMEK BEDELİ ÖLÇÜT TABLOSU
 Besin Grubu | Besin Türü | Miktarı g. | Kalori | Protein | Yağ | Karbonhidrat
 1 | Et, yumurta ve baklagiller | Et | Sığır eti (kemikli) | 300 | 720 | 56,10 | 54,60 | 0,00
@@ -23,4 +20,3 @@ Tereyağı | 20 | 150 | 0,00 | 0,02 | 14,12
 Tatlı | Toz şeker | 35 | 133 | 0,00 | 0,00 | 34,83
 Bal | 25 | 79 | 0,08 | 0,00 | 19,60
 Enerji ve Besin öğeleri |  | 3986 | 209,75 | 120,37 | 645,42
-10130

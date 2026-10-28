@@ -1,0 +1,2 @@
+Madde 17 – Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Danıştay Başkanlığına ait bölümüne, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.[51]
+5- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:

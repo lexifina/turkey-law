@@ -4,4 +4,3 @@ Merkez birliği, aynı ürün veya ürün grubunda faaliyet gösteren en az yedi
 Merkez birliklerinin kuruluşu, tarımsal üretici birliklerinin kuruluşundaki esaslara tabidir.
 Merkez birliğinin genel kurulu, üye birliklerinin genel kurullarınca seçilecek birer temsilciden oluşur.
 Merkez birliklerinin yönetim ve denetim kurullarının üye sayısı, görevleri ve sorumlulukları tüzüklerinde belirlenir.
-8883

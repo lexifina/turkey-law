@@ -7,5 +7,4 @@ d) 18 inci madde hükümleri çerçevesinde, Fona yatırılacak tutarlardan,
 e) Bu Kanun hükümlerine aykırılık dolayısıyla hükmolunacak adlî para cezalarının yüzde ellisi ile verilecek idarî para cezalarının yüzde doksanından,
 f) Fon mevcudunun gelirleri ile sair gelirlerden,
 g) 20 nci madde uyarınca Fona gelir kaydedilecek değerlerden,
-Oluşur.
-9591
+oluşur.

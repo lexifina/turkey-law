@@ -9,4 +9,3 @@ c) Önceki kimlik bilgileri ile ilgili kendisinden talep edilen bilgiler hakkın
 ç) Koruma kararında belirtilen tedbirlere aykırı bir davranış içine girmesi,
 d) Koruma sebeplerinin ortadan kalkması.
 (5) Bu madde hükümlerine göre alınan kararlar, hakkında tedbir uygulanan tanığa gecikmeksizin bildirilir.
-10228

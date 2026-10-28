@@ -1,2 +1,0 @@
-MADDE 19-492 sayılı Kanunun 123 üncü maddesine aşağıdaki fıkra eklenmiştir.
-“Bu maddede veya diğer kanunlarda yer alan harçtan muafiyete ilişkin hükümler, bu Kanunun (1) sayılı Tarifesinin “(A) Mahkeme Harçları” bölümünün (V) numaralı fıkrasındaki “keşif harcı” ve (1) sayılı Tarifesinin “B) İcra ve iflas harçları” bölümünün (III) numaralı fıkrasındaki “haciz, teslim ve satış harcı” bakımından uygulanmaz.”

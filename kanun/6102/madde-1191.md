@@ -4,5 +4,4 @@ MADDE 1191- (1) Taşımanın gerçekleştirilmesi, kısmen veya tamamen bir fiil
 (4) Taşıyanın ve fiilî taşıyanın, aynı zarardan sorumlu oldukları takdirde ve ölçüde sorumlulukları müteselsildir.
 (5) Taşıyan, fiilî taşıyan ve bunların adamları tarafından ödenecek tazminatın toplamı, bu Kanunda öngörülen sorumluluk sınırlarını aşamaz.
 (6) Bu madde hükümleri, taşıyan ile fiilî taşıyan arasındaki rücu ilişkisini etkilemez.
-11232
 2. Sorumsuzluk şartı

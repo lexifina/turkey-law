@@ -1,2 +1,2 @@
-Birinci Başkanlık Kurulu: (1)
-Madde 10 – Birinci Başkanlık Kurulu; Yargıtay Birinci Başkanının başkanlığında altısı daire başkanı, altısı Yargıtay üyesi olmak üzere on iki asıl ve dördü daire başkanı ve dördü Yargıtay üyesi olmak üzere sekiz yedek üyeden oluşur.
+Birinci Başkanlık Kurulu:[3][4]
+Madde 10 – Birinci Başkanlık Kurulu; Yargıtay Birinci Başkanının başkanlığında dördü daire başkanı, dördü Yargıtay üyesi olmak üzere sekiz asıl ve ikisi daire başkanı ve ikisi Yargıtay üyesi olmak üzere dört yedek üyeden oluşur.

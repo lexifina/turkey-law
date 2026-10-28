@@ -13,7 +13,6 @@ taşınmasına izin verir.
 a) Transit rejimi beyanı kapsamında,
 b) TIR karnesi kapsamında,
 c) Transit belgesi olarak kullanılan ATA karnesi kapsamında,
-7704
 d) Kuvvetlerin Statüsüne Dair Kuzey Atlantik Anlaşmasına Taraf Devletler Arasındaki Sözleşme ile öngörülen form 302 kapsamında,
 e) Posta kolileri dâhil olmak üzere posta yoluyla,
 f) Yönetmelik ile belirlenecek hallerde, demiryolu ile taşımada CIM Taşıma Belgesi, büyük konteynerler ile taşımada TR Transfer Notu, havayolu ve denizyolu ile taşımada eşya manifestosu kapsamında,

@@ -6,7 +6,6 @@ MADDE 42- (1) Usulüne göre yürürlüğe konulmuş milletlerarası andlaşmala
 a) 3 Mart 1340 tarihli ve 430 sayılı Tevhidi Tedrisat Kanununun,
 b) 25 Teşrinisani 1341 tarihli ve 671 sayılı Şapka İktisası Hakkında Kanunun,
 c) 30 Teşrinisani 1341 tarihli ve 677 sayılı Tekke ve Zaviyelerle Türbelerin Seddine ve Türbedarlıklar ile Birtakım Unvanların Men ve İlgasına Dair Kanunun,
-11475
 ç) 17 Şubat 1926 tarihli ve 743 sayılı Türk Kanunu Medenisiyle kabul edilen, evlenme aktinin evlendirme memuru önünde yapılacağına dair medeni nikâh esası ile aynı Kanunun 110 uncu maddesi hükmünün,
 d) 20 Mayıs 1928 tarihli ve 1288 sayılı Beynelmilel Erkamın Kabulü Hakkında Kanunun,
 e) 1 Teşrinisani 1928 tarihli ve 1353 sayılı Türk Harflerinin Kabul ve Tatbiki Hakkında Kanunun,

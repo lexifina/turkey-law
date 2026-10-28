@@ -14,7 +14,6 @@ Esnaf vakfı: 2762 sayılı Vakıflar Kanununun yürürlüğünden önce kurulmu
 Yeni vakıf: Mülga 743 sayılı Türk Kanunu Medenisi ile 4721 sayılı Türk Medenî Kanunu hükümlerine göre kurulan vakıfları,
 Şube: Vakıf faaliyetlerinin yürütülebilmesi için yeni vakfa bağlı olarak açılan, tüzel kişiliği olmayan ve bünyesinde organları bulunan alt birimi,
 Temsilcilik: Vakıf faaliyetlerinin yürütülebilmesi için yeni vakfa bağlı olarak açılan, tüzel kişiliği ve bünyesinde organları bulunmayan alt birimi,
-10242
 Vakıf yönetimi: Mülhak, cemaat ve esnaf vakıfları ile yeni vakıflarda; vakfiye, 1936 Beyannamesi, vakıf senedi, 4721 sayılı Türk Medenî Kanunu ve bu Kanuna göre vakfı yönetmeye ve temsile yetkili organı,
 Vakıf yöneticisi: Mülhak, cemaat ve esnaf vakıfları ile yeni vakıflarda; vakfiye, 1936 Beyannamesi, vakıf senedi, 4721 sayılı Türk Medenî Kanunu ve bu Kanuna göre vakfı yönetmeye ve temsile yetkili kişi veya yetkili organlarda görev alan kişileri,
 Hayrat: Mazbut, mülhak, cemaat ve esnaf vakıfları ile yeni vakıfların, doğrudan toplumun istifadesine bedelsiz olarak sundukları mal veya hizmetleri,

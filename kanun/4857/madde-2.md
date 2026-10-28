@@ -5,10 +5,9 @@ Madde 2 - Bir iş sözleşmesine dayanarak çalışan gerçek kişiye işçi, i�
 (Ek fıkra: 23/7/2010-6009/48 md.; Mülga dördüncü fıkra: 20/6/2012-6331/37 md.)
 İşveren adına hareket eden ve işin, işyerinin ve işletmenin yönetiminde görev alan kimselere işveren vekili denir. İşveren vekilinin bu sıfatla işçilere karşı işlem ve yükümlülüklerinden doğrudan işveren sorumludur.
 Bu Kanunda işveren için öngörülen her çeşit sorumluluk ve zorunluluklar işveren vekilleri hakkında da uygulanır. İşveren vekilliği sıfatı, işçilere tanınan hak ve yükümlülükleri ortadan kaldırmaz.
-8424
 Bir işverenden, işyerinde yürüttüğü mal veya hizmet üretimine ilişkin yardımcı işlerinde veya asıl işin bir bölümünde işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işlerde iş alan ve bu iş için görevlendirdiği işçilerini sadece bu işyerinde aldığı işte çalıştıran diğer işveren ile iş aldığı işveren arasında kurulan ilişkiye asıl işveren-alt işveren ilişkisi denir. Bu ilişkide asıl işveren, alt işverenin işçilerine karşı o işyeri ile ilgili olarak bu Kanundan, iş sözleşmesinden veya alt işverenin taraf olduğu toplu iş sözleşmesinden doğan yükümlülüklerinden alt işveren ile birlikte sorumludur.
 Asıl işverenin işçilerinin alt işveren tarafından işe alınarak çalıştırılmaya devam ettirilmesi suretiyle hakları kısıtlanamaz veya daha önce o işyerinde çalıştırılan kimse ile alt işveren ilişkisi kurulamaz. Aksi halde ve genel olarak asıl işveren alt işveren ilişkisinin muvazaalı işleme dayandığı kabul edilerek alt işverenin işçileri başlangıçtan itibaren asıl işverenin işçisi sayılarak işlem görürler. İşletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işler dışında asıl iş bölünerek alt işverenlere verilemez.
-(Ek fıkra: 1/7/2006-5538/18 md.) Kanuna veya kanunun verdiği yetkiye dayanılarak kurulan kamu kurum ve kuruluşları ile bunların doğrudan veya dolaylı olarak sermayesinin en az yüzde ellisine sahip oldukları ortaklıklarda, 4734 sayılı Kamu İhale Kanunu veya diğer kanun hükümleri çerçevesinde, hizmet alımı amacıyla yapılan sözleşmeler gereğince, yüklenici aracılığıyla çalıştırılanlar, bu şekilde çalışmış olmalarına dayanarak;
+(Ek fıkra: 1/7/2006-5538/18 md.) Kanuna veya Cumhurbaşkanlığı kararnamesine dayanılarak kurulan kamu kurum ve kuruluşları ile bunların doğrudan veya dolaylı olarak sermayesinin en az yüzde ellisine sahip oldukları ortaklıklarda, 4734 sayılı Kamu İhale Kanunu veya diğer kanun hükümleri çerçevesinde, hizmet alımı amacıyla yapılan sözleşmeler gereğince, yüklenici aracılığıyla çalıştırılanlar, bu şekilde çalışmış olmalarına dayanarak;[1]
 a) Bu kurum, kuruluş ve ortaklıklara ait kadro veya pozisyonlara atanmaya,
 b) Bu kurum, kuruluş ve ortaklıklara ait işyerlerinin kadro veya pozisyonlarında çalışanlar için toplu iş sözleşmesi, personel kanunları veya ilgili diğer mevzuat hükümlerine göre belirlenen her türlü malî haklar ile sosyal yardımlardan yararlanmaya,
 hak kazanamazlar.
@@ -16,4 +15,3 @@ hak kazanamazlar.
 a) İşe alınacak kişilerin belirlenmesi ve işten çıkarma yetkisinin kamu kurum, kuruluşları ve ortaklıklarına bırakılması,
 b) Hizmet alım sözleşmeleri çerçevesinde ya da geçici işçi olarak aynı iş yerinde daha önce çalışmış olanların çalıştırılmasına devam olunması,
 yönünde hükümler konulamaz.
-8424-1

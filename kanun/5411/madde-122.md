@@ -8,6 +8,6 @@ c) Yurt içi ve yurt dışı muadil kurumların katıldığı uluslararası mal�
 d) Kanunlarla verilen diğer görevleri yapmak.
 Fon, Fon Kurulu kararıyla bu Kanunun uygulanmasına ilişkin yönetmelikler ve tebliğler çıkarmaya yetkilidir.
 Fon, sigorta kapsamındaki mevduat ve katılım fonu üzerinden prim hesaplanmasına esas teşkil edecek gerekli bilgilerin gönderilmesini ve bu primlerin belirlediği esaslara göre yatırılıp yatırılmadığının denetlenmesini Kurumdan istemeye yetkilidir. Kurum, makul bir süre içerisinde, Fon tarafından istenen bilgileri temin etmek ve/veya denetimi yapmakla yükümlüdür.
-Fon, her türlü faaliyetinde, kuruluş kanununda verilen yetkiler saklı kalmak kaydıyla, kalkınma plânı, programlar ve hükûmet programında yer alan ilke, strateji ve politikalara uyar.
+Fon, her türlü faaliyetinde, kuruluş kanununda verilen yetkiler saklı kalmak kaydıyla, kalkınma plânı ve programlarda yer alan ilke, strateji ve politikalara uyar.[52]
 Fonun hazırlayacağı düzenleme taslakları en az yedi gün süreyle Fonun internet sayfası başta olmak üzere uygun vasıtalarla kamuoyunun bilgisine sunulur.
-Kamu kurum ve kuruluşları, Kanun ile belirlenmiş görev alanlarında Fona gerekli yardımı sağlamakla yükümlüdür.
+Kamu kurum ve kuruluşları, Kanun ve Cumhurbaşkanlığı Kararnameleriyle belirlenmiş görev alanlarında Fona gerekli yardımı sağlamakla yükümlüdür.[53]

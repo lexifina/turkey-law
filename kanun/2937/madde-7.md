@@ -1,2 +1,2 @@
-Sorumluluk
-Madde 7 – MİT Müsteşarı 4 üncü maddede belirtilen görevlerin yerine getirilmesinden Başbakana karşı sorumlu olup, Başbakanın dışında herhangi bir kişi veya makama karşı sorumlu tutulamaz.
+Sorumluluk[12][13]
+Madde 7 – Teşkilat Başkanı 4 üncü maddede belirtilen görevlerin yerine getirilmesinden Cumhurbaşkanına karşı sorumlu olup, Cumhurbaşkanının dışında herhangi bir kişi veya makama karşı sorumlu tutulamaz.

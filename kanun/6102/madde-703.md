@@ -1,7 +1,6 @@
 MADDE 703- (1) Bir poliçe;
 a) Görüldüğünde,
 b) Görüldükten belirli bir süre sonra,
-11133
 c) Düzenlenme gününden belirli bir süre sonra,
 d) Belirli bir günde,
 ödenmek üzere düzenlenebilir.

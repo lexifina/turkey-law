@@ -1,23 +1,17 @@
-Diyanet işleri uzmanları ve müfettişler: (2)
-Madde 11 – (Değişik : 26/4/1976 - 1982/1 md; İptal: Anayasa Mahkemesinin 18/12/1979 tarihli ve E. 1979/25, K. 1979/46 sayılı kararı ile; Yeniden düzenleme: 1/7/2010-6002/10 md.)
+Diyanet işleri uzmanları ve müfettişler:[21]
+Madde 11 – (Değişik: 26/4/1976 - 1982/1 md; İptal: Anayasa Mahkemesinin 18/12/1979 tarihli ve E. 1979/25, K. 1979/46 sayılı kararı ile; Yeniden düzenleme: 1/7/2010-6002/10 md.)
 Başkanlık, merkez teşkilatında, bu Kanunda sayılan görevlerin yerine getirilmesinde Diyanet işleri uzmanı ve Diyanet işleri uzman yardımcısı istihdam eder. Diyanet işleri uzman yardımcısı olarak atanabilmek için 657 sayılı Kanunun 48 inci maddesinde belirtilen şartlara ek olarak aşağıdaki şartlar aranır:
 a) En az lisans düzeyinde dinî yüksek öğrenim görmüş olmak.
-b) Sınavın yapılacağı yılın ocak ayının ilk günü itibariyle otuz yaşını, yüksek lisans veya doktora yapmış olanlar için otuz beş yaşını doldurmamış olmak.
-–––––––––––––
-(1) 1/7/2010 tarihli ve 6002 sayılı Kanunun 9 uncu maddesiyle, bu madde başlığı “Hukuk Müşavirliği:” iken metne işlendiği şekilde değiştirilmiştir.
-(2) 1/7/2010 tarihli ve 6002 sayılı Kanunun 10 uncu maddesiyle, bu madde başlığı “Personel Dairesi:” iken metne işlendiği şekilde yeniden düzenlenmiştir.
-(3) 23/8/2011 tarihli ve 653 sayılı KHK’nın 9 uncu maddesiyle, bu maddeye “daire başkanı,” ibaresinden sonra gelmek üzere “Başkanlık müftüsü,” ibaresi eklenmiştir.
-4123
+b) (Değişik: 2/7/2018 – KHK/703/141 md.) (İptal: Anayasa Mahkemesinin 7/12/2023 tarihli ve E.: 2018/117, K.: 2023/212 sayılı kararı ile.)
 c) Yapılacak yarışma sınavında başarılı olmak.
 Diyanet işleri uzman yardımcılığı yarışma sınavında iki defa başarısız olanlar bir daha bu sınava katılamazlar. Diyanet işleri uzman yardımcısı kadrolarının yüzde onundan az olmamak üzere, yüzde yirmisine kadar dinî yüksek öğrenim dışındaki dallardan uzman yardımcısı atanabilir.
-Diyanet işleri uzman yardımcılığına atananlar; en az üç yıl çalışmak, yönetmelikte belirtilen yabancı dillerden en az birinden Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından en az (C) düzeyinde belgeye veya buna denk kabul edilen ve uluslararası geçerliliği bulunan bir belgeye sahip olmak ve olumlu sicil almak kaydıyla, hazırlayacakları tezin kabulünden sonra açılacak mesleki yeterlik sınavına girmeye hak kazanırlar. Mesleki yeterlik sınavında başarılı olanlar Diyanet işleri uzmanı unvanını kazanırlar. Bunlar Başkanlığın hizmet alanlarına göre ihtisasa yönlendirilir ve ihtiyaca göre merkez birimlerinde görevlendirilir.
+Diyanet işleri uzman yardımcılığına atananlar; en az üç yıl çalışmak, yönetmelikte belirtilen yabancı dillerden en az birinden (…)[22][23] Yabancı Dil Bilgisi Seviye Tespit Sınavından en az (C) düzeyinde belgeye veya buna denk kabul edilen ve uluslararası geçerliliği bulunan bir belgeye sahip olmak (…)22 kaydıyla, hazırlayacakları tezin kabulünden sonra açılacak mesleki yeterlik sınavına girmeye hak kazanırlar. Mesleki yeterlik sınavında başarılı olanlar Diyanet işleri uzmanı unvanını kazanırlar. Bunlar Başkanlığın hizmet alanlarına göre ihtisasa yönlendirilir ve ihtiyaca göre merkez birimlerinde görevlendirilir.
 Diyanet işleri uzmanlığı mesleki yeterlik sınavında iki defa başarısız olanlar ile sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınava girmeyenler, Diyanet işleri uzman yardımcısı unvanını kaybederler ve durumlarına uygun başka kadrolara atanırlar.
 Diyanet işleri uzman yardımcılığı yarışma ve yeterlik sınavlarının şekil ve uygulama esasları ile Diyanet işleri uzman ve uzman yardımcılarının çalışma usul ve esaslarına ilişkin diğer hususlar yönetmelikle düzenlenir.
 Başkanlık, rehberlik ve teftiş hizmetlerini yürütmek üzere müfettiş ve müfettiş yardımcısı istihdam eder. Müfettiş yardımcılığına atanabilmek için 657 sayılı Kanunun 48 inci maddesinde belirtilen şartlara ek olarak aşağıdaki şartlar aranır:
 a) En az lisans düzeyinde dinî yüksek öğrenim görmüş olmak.
-b) Sınavın yapılacağı yılın ocak ayının ilk günü itibariyle otuz yaşını, yüksek lisans veya doktora yapmış olanlar için otuz beş yaşını doldurmamış olmak.
+b) (Değişik: 2/7/2018 – KHK/703/141 md.) (İptal: Anayasa Mahkemesinin 7/12/2023 tarihli ve E.: 2018/117, K.: 2023/212 sayılı kararı ile.)
 c) Yapılacak yarışma sınavında başarılı olmak.
 Müfettiş yardımcılığı yarışma sınavında iki defa başarısız olanlar bir daha bu sınava katılamazlar. Müfettiş yardımcısı kadrolarının yüzde onundan az olmamak üzere, yüzde yirmisine kadar hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakültesi mezunlarından müfettiş yardımcısı atanabilir.
-Müfettiş yardımcılığına atananlar, en az üç yıl fiilen çalışmak ve olumlu sicil almak kaydıyla, mesleki yeterlik sınavına girmeye hak kazanırlar. Mesleki yeterlik sınavında başarılı olanlar müfettiş unvanını kazanırlar. Mesleki yeterlik sınavında iki defa başarısız olanlar ile sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınava girmeyenler, müfettiş yardımcısı unvanını kaybederler ve durumlarına uygun başka kadrolara atanırlar.
+Müfettiş yardımcılığına atananlar, en az üç yıl fiilen çalışmak (…)[24][25] kaydıyla, mesleki yeterlik sınavına girmeye hak kazanırlar. Mesleki yeterlik sınavında başarılı olanlar müfettiş unvanını kazanırlar. Mesleki yeterlik sınavında iki defa başarısız olanlar ile sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınava girmeyenler, müfettiş yardımcısı unvanını kaybederler ve durumlarına uygun başka kadrolara atanırlar.
 Müfettiş ve müfettiş yardımcılığı yarışma ve yeterlik sınavlarının şekil ve uygulama esasları ile müfettiş ve müfettiş yardımcılarının çalışma usul ve esaslarına ilişkin diğer hususlar yönetmelikle düzenlenir.
-4124

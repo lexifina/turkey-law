@@ -1,8 +1,5 @@
-MADDE 189- (1) Yönetim organı tür değiştirme planını genel kurula sunar. Tür değiştirme kararı aşağıdaki nisaplarla alınır:
+MADDE 189- (1) Yönetim organı tür değiştirme planı ile yeni türün şirket sözleşmesini genel kurula sunar. Tür değiştirme kararı aşağıdaki nisaplarla alınır:[36]
 a) Kanunun 421 inci maddesinin beşinci fıkrasının (b) bendi hükmü saklı olmak şartıyla anonim ve sermayesi paylara bölünmüş komandit şirketlerde, esas veya çıkarılmış sermayenin üçte ikisini karşılaması şartıyla, genel kurulda mevcut oyların üçte ikisiyle; limited şirkete dönüştürme hâlinde, ek ödeme veya kişisel edim yükümlülüğü doğacaksa tüm ortakların onayıyla;
-–––––––––––––
-(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle, bu fıkrada yer alan “küçük” ibaresi “küçük ve orta”şeklinde değiştirilmiştir.
-11021
 b) Bir sermaye şirketinin bir kooperatife dönüşmesi hâlinde tüm ortakların onayıyla;
 c) Limited şirketlerde, sermayenin en az dörtte üçüne sahip bulunmaları şartıyla, ortakların dörtte üçünün kararıyla;
 d) Kooperatiflerde;

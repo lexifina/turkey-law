@@ -7,8 +7,6 @@ b) Toplantı, konser, spor müsabakası, sahne gösterileri ve benzeri etkinlikl
 c) (Değişik: 23/1/2008 – 5728/544 md.) Ceza Muhakemesi Kanununun 90 ıncı maddesine göre yakalama.
 d) (Değişik: 23/1/2008 – 5728/544 md.) Görev alanında, haklarında yakalama emri veya mahkûmiyet kararı bulunan kişileri yakalama ve arama.
 e) Yangın, deprem gibi tabiî afet durumlarında ve imdat istenmesi halinde görev alanındaki işyeri ve konutlara girme.
-8844-2
-8845
 f) Hava meydanı, liman, gar, istasyon ve terminal gibi toplu ulaşım tesislerinde kimlik sorma, duyarlı kapıdan geçirme, bu kişilerin üstlerini dedektörle arama, eşyaları X-ray cihazından veya benzeri güvenlik sistemlerinden geçirme.
 g) Genel kolluk kuvvetlerine derhal bildirmek şartıyla, aramalar sırasında suç teşkil eden veya delil olabilecek ya da suç teşkil etmemekle birlikte tehlike doğurabilecek eşyayı emanete alma.
 h) Terk edilmiş ve bulunmuş eşyayı emanete alma.

@@ -1,7 +1,6 @@
 Kurulun petrol piyasası ile ilgili görevleri
 Madde 5/B- (Ek: 4/12/2003-5015/25 md.)
 Enerji Piyasası Düzenleme Kurulu petrol piyasası ile ilgili olarak aşağıda belirtilen görevleri de yerine getirir :
-7846-1
 a) Petrol Piyasası Kanunu hükümlerini uygulamak, Piyasa faaliyetlerine ilişkin her türlü düzenlemeleri yapmak ve yürütülmesini sağlamak.
 b) Petrol faaliyetlerine ilişkin plân, politika ve uygulamalarla ilgili Kurum görüş ve önerilerini belirlemek.
 c) Petrol piyasa faaliyetleriyle ilgili denetleme, ön araştırma ve soruşturma işlemlerini yürütmek, yetkisi dahilindeki ceza ve yaptırımları uygulamak ve dava açmak da dahil olmak üzere her türlü adlî ve idarî makama başvuru kararlarını almak.

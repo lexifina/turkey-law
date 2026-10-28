@@ -12,6 +12,3 @@ b. Görev, yetki ve sorumlulukları:
 (4) Fakültenin birimleri ve her düzeydeki personeli üzerinde genel gözetim ve denetim görevini yapmak,
 (5) Bu kanun ile kendisine verilen diğer görevleri yapmaktır.
 Fakültenin ve bağlı birimlerinin öğretim kapasitesinin rasyonel bir şekilde kullanılmasında ve geliştirilmesinde gerektiği zaman güvenlik önlemlerinin alınmasında, öğrencilere gerekli sosyal hizmetlerin sağlanmasında, eğitim - öğretim, bilimsel araştırma ve yayını faaliyetlerinin düzenli bir şekilde yürütülmesinde, bütün faaliyetlerin gözetim ve denetiminin yapılmasında, takip ve kontrol edilmesinde ve sonuçlarının alınmasında rektöre karşı birinci derecede sorumludur.
-________________________
-(1) 1/3/2006 tarihli ve 5467 sayılı Kanunun 3 üncü maddesiyle; bu bentte yer alan "sunmak" ibaresinden önce gelmek üzere ",vakıf üniversitelerinde ise mütevelli heyetine" ibaresi eklenmiş ve metne işlenmiştir.
-5359

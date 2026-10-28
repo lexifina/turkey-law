@@ -5,9 +5,9 @@ Gümrük Vergilerinden Muafiyet ve İstisna
 Madde 167 – Aşağıda sayılan hallerde, serbest dolaşıma sokulacak eşya gümrük vergilerinden muaftır:
 1. Cumhurbaşkanının zat ve ikametgahı için gelen eşya,
 2. Mütekabiliyet esasına göre ithal edilen diplomatik eşya,
-3. (Değişik : 18/6/2009-5911/37 md.) Genelkurmay Başkanlığı, Milli Savunma Bakanlığı, kuvvet komutanlıkları, Milli İstihbarat Teşkilatı Müsteşarlığı, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğünün münhasıran asli görevleri ve Müsteşarlığın kaçakçılıkla mücadele görevi ile ilgili olarak ithal edecekleri her türlü araç, gereç, silah, teçhizat, makine, cihaz ve sistemleri ve bunların araştırma, geliştirme, eğitim, üretim, modernizasyon ve yazılımı ile yapım, bakım ve onarımlarında kullanılacak yedek parçalar, akaryakıt ve yağlar, hammadde, malzeme ile bedelsiz olarak dış kaynaklardan alınan yardım malzemesi,
-4. (Değişik : 18/6/2009-5911/37 md.) Değeri 150 EURO’yu geçmeyen eşya,
-5. (Değişik : 18/6/2009-5911/37 md.) Gerçek kişiler tarafından serbest dolaşıma sokulacak şahsi eşyadan;
+3. (Değişik: 18/6/2009-5911/37 md.) Genelkurmay Başkanlığı, Milli Savunma Bakanlığı, kuvvet komutanlıkları, Milli İstihbarat Teşkilatı Müsteşarlığı, Savunma Sanayii Başkanlığı, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğünün münhasıran asli görevleri ile Makine ve Kimya Endüstrisi Anonim Şirketinin faaliyet alanı ve Müsteşarlığın kaçakçılıkla mücadele görevi ile ilgili olarak ithal edecekleri her türlü araç, gereç, silah, teçhizat, makine, cihaz ve sistemleri ve bunların araştırma, geliştirme, eğitim, üretim, modernizasyon ve yazılımı ile yapım, bakım ve onarımlarında kullanılacak yedek parçalar, akaryakıt ve yağlar, hammadde, malzeme ile bedelsiz olarak dış kaynaklardan alınan yardım malzemesi,[92][93]
+4. (Değişik: 18/6/2009-5911/37 md.) Değeri 150 EURO’yu geçmeyen eşya,
+5. (Değişik: 18/6/2009-5911/37 md.) Gerçek kişiler tarafından serbest dolaşıma sokulacak şahsi eşyadan;
 a) Yerleşim yerlerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait, alındığı tarihte üç yaşından büyük ol+mayan kullanılmış motorlu veya motorsuz özel nakil vasıtaları,
 b) Yerleşim yerlerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait her türlü kullanılmış ev eşyası,
 c) Yerleşim yeri Türkiye’de olan bir Türk ile evlenerek veya evlenmek üzere Türkiye’ye gelen kişilere ait çeyiz eşyası,
@@ -16,14 +16,11 @@ e) Türkiye’ye öğrenim görmek amacıyla gelen öğrencilere ilişkin eğiti
 f) Türkiye Gümrük Bölgesinden geçici olarak çıkan gerçek kişilerin geri getirdiği kullanılmış ev eşyası,
 g) Yerleşim yeri Türkiye dışında olan gerçek kişilerin Türkiye’de satın aldıkları veya kiraladıkları konutlarında kullanılmak üzere geçici veya kesin olarak getirdikleri ev eşyası,
 h) Yolcuların kendi kullanımlarına mahsus ticari mahiyette olmayan kişisel eşya,
-6. (Değişik : 18/6/2009-5911/37 md.) Gerçek kişilerce serbest dolaşıma sokulacak diğer eşyadan;
+6. (Değişik: 18/6/2009-5911/37 md.) Gerçek kişilerce serbest dolaşıma sokulacak diğer eşyadan;
 a) Değeri 430 EURO’yu geçmemek üzere yolcuların beraberindeki hediyelik eşya,
 b) Şeref nişanları veya ödülleri,
 c) Uluslararası ilişkiler çerçevesinde alınan hediyeler,
-–––––––––––
-(1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu maddede yer alan “denetimlere” ibaresi “kontrollere” şeklinde değiştirilmiş ve metne işlenmiştir.
-7718-4
-7. (Değişik : 18/6/2009-5911/37 md.) Bakanlar Kurulunca belirlenecek kişi, kurum ve kuruluşlar tarafından ticari gaye güdülmemek ve amacı doğrultusunda kullanılmak üzere ithal edilen eşyadan;
+7. (Değişik: 18/6/2009-5911/37 md.) Cumhurbaşkanınca belirlenecek kişi, kurum ve kuruluşlar tarafından ticari gaye güdülmemek ve amacı doğrultusunda kullanılmak üzere ithal edilen eşyadan;[94]
 a) Eğitim, bilim ve kültürel amaçlı eşya ile bilimsel alet ve cihazlar,
 b) Tıbbi teşhis, tedavi ve araştırma yapılmasına mahsus alet ve cihazlar,
 c) Bilimsel araştırma amacına yönelik hayvanlar ile biyolojik veya kimyasal maddeler,
@@ -53,10 +50,7 @@ c) Ticari değeri olmayan çeşitli belge ve eşya,
 a) Savaş kurbanları anıtları ile mezarlıkların yapımı, bakımı ve süslenmesi amacına yönelik eşya,
 b) Tabutlar, cenaze kül kapları ve süsleme niteliği olan cenaze levazımatı,
 12. Diğer eşya;
-a) Malül ve engellilerin kullanımına mahsus eşya,(1)
-__________________
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu alt bentte yer alan “sakatların” ibaresi “engellilerin” şeklinde değiştirilmiştir.
-7719
-b) (Değişik : 18/6/2009-5911/37 md.) Tabiî afetler, tehlikeli ve salgın hastalıklar, büyük yangınlar, radyasyon ve hava kirliliği gibi önemli nitelikteki kimyasal ve teknolojik olaylar ile büyük nüfus hareketleri gibi kriz hallerinden zarar görenlere gönderilen eşya,
+a) Malül ve engellilerin kullanımına mahsus eşya,[95]
+b) (Değişik: 18/6/2009-5911/37 md.) Tabiî afetler, tehlikeli ve salgın hastalıklar, büyük yangınlar, radyasyon ve hava kirliliği gibi önemli nitelikteki kimyasal ve teknolojik olaylar ile büyük nüfus hareketleri gibi kriz hallerinden zarar görenlere gönderilen eşya,
 c) Türkiye'de düzenlenen uluslararası spor müsabakalarında kullanılmak üzere getirilen eczacılık ürünleri,
-(Değişik ikinci fıkra: 18/6/2009-5911/37 md.) Birinci fıkranın (3) ila (12) numaralı bentlerinde yer alan eşyayı geliş süreleri dâhil tanımlamaya, bunların cins, nevi ve miktarlarını belirlemeye, muafiyet ve istisna uygulanacak tutarları sıfıra kadar indirmeye veya iki katına kadar çıkartmaya ve bu muafiyet ve istisnayı farklı eşya itibarıyla birlikte veya ayrı ayrı uygulamaya ve ticari mahiyette bulunmayan vergiye tabi eşyadan alınacak gümrük vergilerini göstermek üzere ilgili kanunlarda belirtilen hadleri geçmemek şartıyla tek ve maktu bir tarife uygulamaya Bakanlar Kurulu yetkilidir.
+(Değişik ikinci fıkra: 18/6/2009-5911/37 md.) Birinci fıkranın (3) ila (12) numaralı bentlerinde yer alan eşyayı geliş süreleri dâhil tanımlamaya, bunların cins, nevi ve miktarlarını belirlemeye, muafiyet ve istisna uygulanacak tutarları sıfıra kadar indirmeye veya iki katına kadar çıkartmaya ve bu muafiyet ve istisnayı farklı eşya itibarıyla birlikte veya ayrı ayrı uygulamaya ve ticari mahiyette bulunmayan vergiye tabi eşyadan alınacak gümrük vergilerini göstermek üzere ilgili kanunlarda belirtilen hadleri geçmemek şartıyla tek ve maktu bir tarife uygulamaya Cumhurbaşkanı yetkilidir.[96]

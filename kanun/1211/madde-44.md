@@ -1,4 +1,4 @@
-Madde 44-(Mülga:13/2/2011-6111/160 md.)
-––––––––––––––––
-(1) Bu bölüm başlığı; “Bilgi isteme ve Risklerin Toplanması” iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 160 ıncı maddesi ile metne işlendiği şekilde değiştirilmiştir.
-4653
+Gerçek ve tüzel kişilerden bilgi isteme yetkisi:
+Madde 44- (Mülga:13/2/2011-6111/160 md.; Yeniden düzenleme: 28/11/2017-7061/33 md.)
+Banka, gerçek ve tüzel kişilerin döviz pozisyonunu etkileyen işlemlerini izlemek amacıyla belirleyeceği gerçek ve tüzel kişilerden her türlü bilgi ve belgeyi istemeye yetkilidir. İstenilecek bilgi ve belgelerin kapsamı, toplanma ve izlenme yöntemi, doğruluğunun denetimi, paylaşımı, destek hizmeti temini de dâhil olmak üzere usul ve esaslar Bankaca belirlenir.
+Bu maddenin uygulanmasında destek hizmeti kuruluşu çalışanları hakkında da bu Kanunun 35 inci maddesi ve 68 inci maddesinin (II) numaralı fıkrasının (a) bendi hükümleri tatbik olunur.

@@ -1,5 +1,5 @@
 Adlî sicile kaydedilecek bilgiler
-MADDE 4. — (1) Türk mahkemeleri tarafından vatandaş veya yabancı hakkında verilmiş ve kesinleşmiş mahkûmiyet hükümleri adlî sicile kaydedilir. Bu bağlamda;
+Madde 4- (1) Türk mahkemeleri tarafından vatandaş veya yabancı hakkında verilmiş ve kesinleşmiş mahkûmiyet hükümleri adlî sicile kaydedilir. Bu bağlamda;
 a) Hapis cezaları ile ilgili olarak;
 1. Hapis cezasına mahkûmiyet kararı,
 2. Koşullu salıverilme kararı,
@@ -17,7 +17,7 @@ c) Adlî para cezası ile ilgili olarak;
 4. Adlî para cezasının tazyik hapsinden sonra kalan kısmının ödenmek suretiyle infaz edildiği hususu,
 d) Kısa süreli hapis cezasına seçenek yaptırıma mahkûmiyet halinde;
 1. Kısa süreli hapis cezasına seçenek yaptırım olarak, adlî para cezasına mahkûmiyet veya güvenlik tedbiri uygulanması hükmü,
-2. (Değişik: 26/2/2008-5352/ 7 md.) Kısa süreli hapis cezasına seçenek yaptırım olarak hükmedilen güvenlik tedbirinin gereklerinin yerine getirilmemesi dolayısıyla hapis cezasının infazına ilişkin karar,
+2. (Değişik: 26/2/2008-5739/7 md.) Kısa süreli hapis cezasına seçenek yaptırım olarak hükmedilen güvenlik tedbirinin gereklerinin yerine getirilmemesi dolayısıyla hapis cezasının infazına ilişkin karar,
 3. Kısa süreli hapis cezasına seçenek yaptırım olarak hükmedilen güvenlik tedbirinin değiştirilmesine ilişkin karar,
 e) Belli hakları kullanmaktan yoksun bırakılma ile ilgili olarak;
 1. Kasten işlenen bir suç nedeniyle hapis cezasına mahkûmiyetin kanunî sonucu olarak yoksun kalınan haklara cezanın ertelenmesi dolayısıyla getirilen istisnaya ilişkin karar,
@@ -27,6 +27,7 @@ g) Ceza mahkûmiyetini bütün sonuçlarıyla ortadan kaldıran şikayetten vazg
 h) Ceza zamanaşımının dolduğunun tespitine ilişkin karar,
 i) Genel veya özel affa ilişkin kanun; özel affa ilişkin Cumhurbaşkanlığı kararı,
 j) Askerî Ceza Kanununa göre verilmiş mahkûmiyet kararlarındaki ferî cezalar,
+k) (Ek: 24/11/2016-6763/39 md.) Akıl hastalığı nedeniyle hükmedilen güvenlik tedbirlerine ilişkin kararlar,
 Adlî sicile kaydedilir.
 (2) Kanun yararına bozma veya yargılamanın yenilenmesi sonucunda verilen mahkûmiyet hükmü ya da eski hükümde değişiklik yapan tüm hüküm ve kararlar açısından da birinci fıkra hükümleri uygulanır.
 (3) Kanun gereği olarak gerçek kimliği saklı tutulan kişilerin adlî sicil ve arşiv kayıtlarına ilişkin usul ve esaslar yönetmelikle düzenlenir.

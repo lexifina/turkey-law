@@ -6,4 +6,3 @@ Bölüm başkanlıkları, öğretim üyeleri ve ikinci sınıf emniyet müdürle
 Bölüm başkanları, bölümlerinin her düzeydeki eğitim-öğretim ve araştırmaları ile bölüme ait her türlü faaliyetin düzenli ve verimli bir şekilde yürütülmesini sağlamakla görevlidir.
 Anabilim dalı içinde yer alan dersleri veren öğretim elemanları, dekanın başkanlığında toplanarak kendi aralarından iki yıl için bir başkan seçerler.
 Anabilim dalı başkanları, o bilim dalına ait her düzeydeki eğitim-öğretim ve araştırma faaliyetlerinin düzenli ve verimli bir şekilde yürütülmesini sağlamakla yükümlüdür.
-7943

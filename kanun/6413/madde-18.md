@@ -11,5 +11,4 @@ g) Maiyetinden hediye kabul etmek: Maiyetinde çalışan personel tarafından ve
 ğ) Hizmetteyken siyasi içerikli konuşmak: Mesai içerisinde veya hizmete ilişkin durumlarda siyasi içerikli konuşmalar yapmaktır.
 h) Yasaklanmış faaliyetlere katılmak: Yetkili makamlarca yasaklanmış olan toplantı, gösteri, yürüyüş ve benzeri faaliyetlere iştirak etmektir.
 ı) İzinsiz olarak garnizonu terk etmek: İzinli olmadığı hâlde görev yaptığı garnizon hudutlarını terk etmektir.
-11942
 i) Ulaşım güvenliğini ihlal etmek: İzin, istirahat, hava değişimi, terhis ve benzeri nedenlerle görev yerine gidiş ve dönüşlerde terörle mücadele kapsamında emredilen yol güzergâhının dışına çıkmak, belirlenen günler dışında seyahat etmek veya yapılan planlamaya aykırı seyahat etmektir.

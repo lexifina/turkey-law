@@ -1,2 +1,1 @@
-MADDE 55 - 24.5.1983 tarihli ve 2829 sayılı Sosyal Güvenlik Kurumlarına Tabi Olarak Geçen Hizmetlerin Birleştirilmesi Hakkında Kanunun 5 inci maddesinin ikinci fıkrasının (a) bendinin (2) numaralı alt bendi aşağıdaki şekilde değiştirilmiştir.
-2. Malûllük veya ölüm, 60 yaşın doldurulması, T.C. Emekli Sandığına tabi görevlerden kurumlarınca re’sen veya yaş haddinden emekliye sevk edilme nedenleriyle görevleri ile ilgileri kesilenlerin görevlerinden ayrıldıkları tarihten itibaren altı ay içinde, kendileri veya hak sahipleri tarafından, aldıkları kuruma o kurumun kendi mevzuatına göre hesaplanan tutarını
+Madde 55 - (24.5.1983 tarihli ve 2829 sayılı Sosyal Güvenlik Kurumlarına Tabi Olarak Geçen Hizmetlerin Birleştirilmesi Hakkında Kanun ile ilgili olup yerine işlenmiştir.)

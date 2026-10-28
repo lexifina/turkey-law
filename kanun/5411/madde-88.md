@@ -7,4 +7,3 @@ d) Kurumun performansını ve malî durumunu gösteren raporları onaylamak.
 e) Başkanın önerisi üzerine, başkan yardımcıları ve daire başkanlarını atamak.
 f) Taşınmaz alımı, satımı, kiralanması konularındaki önerileri görüşüp karara bağlamak.
 g) Kanunlarla verilen diğer görevleri yapmak.
-9568

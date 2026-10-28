@@ -1,10 +1,1 @@
-BİRİNCİ BÖLÜM
-Konu, Tanımlar, Vergiyi Doğuran Olay, Mükellef
-Verginin konusu
-MADDE 1 - 1. Bu Kanuna ekli;
-a) (I) sayılı listedeki malların ithalatçıları veya rafineriler dahil imal edenler tarafından teslimi,
-b) (II) sayılı listedeki inallardan kayıt ve tescile tâbi olanların ilk iktisabı,
-c) (II) sayılı listedeki mallardan kayıt ve tescile tâbi olmayanlar ile (III) ve (IV) sayılı listelerdeki malların ithalatı veya imal ya da inşa edenler tarafından teslimi,
-d) (I), (III) ve (IV) sayılı listelerdeki mallar ile (II) sayılı listedeki mallardan kayıt ve tescile tâbi olmayanların özel tüketim vergisi uygulanmadan önce müzayede yoluyla satışı,
-Bir defaya mahsus olmak üzere özel tüketim vergisine tâbidir.
-2. Kanuna ekli listelerde yer alan mallar, Türk Gümrük Tarife Cetvelinde tanımlanan eşyalardır.
+Madde 1 – Çiftçiyi Topraklandırma Kanununun kabul edildiği 11 Haziran tarihini takip eden pazar günü her yıl Toprak Bayramı olarak kutlanır.

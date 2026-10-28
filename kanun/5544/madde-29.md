@@ -1,2 +1,2 @@
 Denetim
-MADDE 29- (1) Kurum, denetim bakımından 832 sayılı Sayıştay Kanununa tâbidir.
+MADDE 29- (Mülga: 2/7/2018-KHK-703/78 md.)

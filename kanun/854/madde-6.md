@@ -8,7 +8,7 @@ Madde 6 – Bu kanuna göre yapılacak yazılı akitlerde aşağıdaki hususlar�
 6. Gemiadamının hizmete başlıyacağı tarih ve yer,
 7. Hizmet aktinin belli bir süre için yapılmış olup olmadığı, belli bir süre için yapılmış ise süresi veya sefer üzerine ise hangi sefer olduğu,
 8. Kararlaştırılan ücret esası ile miktarı,
-9. Ücretin ödeme zamanı ve yeri ile zorunlu tutulan işverenler için gemiadamının ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakının ödeneceği banka özel hesap numarası, (1)
+9. Ücretin ödeme zamanı ve yeri ile zorunlu tutulan işverenler için gemiadamının ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakının ödeneceği banka özel hesap numarası,[3]
 10. Avans şartları,
 11. Diğer iş şartları,
 12. Tirimciler ve ateşçiler ile yapılacak hizmet akitlerinde 25/5/1959 gün ve 7292 sayılı kanunla onanan sözleşmenin özeti.

@@ -1,4 +1,4 @@
-Madde 165 /D – (Ek : 18/6/2009-5911/36 md.)
+Madde 165 /D – (Ek: 18/6/2009-5911/36 md.)
 1. Özet beyanın şekli ve içeriği, öncelikle güvenlik ve emniyet amacı ile uluslararası standartlar ve ticari uygulamalardan yararlanılarak risk analizi ve gümrük kontrollerinin etkin yapılabilmesi için gerekli bilgileri kapsayacak şekilde yönetmelik ile belirlenir.
 2. Özet beyan veri işleme tekniği kullanılarak hazırlanır. Gerekli ayrıntıları içermesi halinde ticari bilgiler ile liman veya taşıma bilgileri kullanılabilir.
 3. Müsteşarlık, istisnai durumlarda yazılı olarak düzenlenen özet beyanları, veri işleme tekniği kullanılarak hazırlanan özet beyanlar ile aynı düzeyde risk yönetimi uygulanmasına imkân verilmesi kaydıyla kabul edebilir.
@@ -12,4 +12,3 @@ a) Özet beyanı veren kişiye eşyanın muayene edileceğinin bildirilmesinden,
 b) Söz konusu bilgilerin yanlış olduğunun tespit edilmesinden,
 c) Eşyanın Türkiye Gümrük Bölgesi dışına çıkarılmak üzere ilgilisine teslim edilmesinden,
 sonra özet beyanda değişiklik yapılmasına izin verilmez.
-7718-3

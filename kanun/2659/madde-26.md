@@ -1,10 +1,6 @@
 DÖRDÜNCÜ BÖLÜM
 Atamalar
-Atama esasları:
-Madde 26– (Değişik birinci fıkra: 19/2/2003-4810/22 md.) Adlî Tıp Kurumu Başkanı, başkan yardımcıları, adlî tıp ihtisas kurulları başkan ve üyeleri, Adalet Bakanının inhası üzerine uzman elemanlar veya üniversitelerin ilgili fakülte öğretim üyeleri veya yardımcıları arasından müşterek kararnameyle atanırlar.
-(Değişik: 19/2/2003-4810/22 md.) Adlî Tıp Kurumu 1. Hukuk Müşaviri, hukuk müşavirleri, adlî tıp ihtisas dairesi başkanları, adlî tıp grup başkanları, adlî tıp şube müdürleri, şube müdürleri, adlî tıp uzmanları, uzmanlar, trafik uzmanları, sosyal hizmet uzmanları, raportörler, mühendisler, kimyagerler, fizikçiler, programcılar, psikologlar, pedagoglar, antropologlar, astronomlar, asistanlar, eczacılar, biyologlar, diş hekimleri, balistik, adlî belge inceleme ve silah muayene uzmanları, Adlî Tıp Kurumu Başkanının teklifi üzerine Adalet Bakanlığınca atanırlar.
-(Değişik: 19/2/2003-4810/22 md.) Birinci ve ikinci fıkra dışında kalan personelin atamaları Adlî Tıp Kurumu Başkanınca yapılır.
-(Değişik: 19/2/2003-4810/22 md.) Birinci ve ikinci fıkrada belirtilenlerden, Adlî Tıp Kurumu Başkanı dışındaki görevlere üniversitelerin ilgili fakültelerinin öğretim üyeleri ve yardımcıları, asıl görevleri ile ilişkileri kesilmemek şartıyla görevlendirilebilirler. Adlî Tıp Kurumu Başkanı, başkan yardımcıları ve adlî tıp ihtisas kurulları başkanları ile adlî tıp ihtisas kurulları üyeleri, adlî tıp grup başkanları ve adlî tıp ihtisas daireleri başkanlarının görev süreleri dört yıldır. Görev süreleri sona erenler, aynı usule göre yeniden atanabilir veya görevlendirilebilirler. Yeni atanan veya görevlendirilenler göreve başlayıncaya kadar süresi dolanların görevi devam eder.
-Atanacak olan üniversite personelinin görevlendirilmelerinde önce bağlı bulundukları kurumun yetkili kurullarının izni alınır.
-(Ek: 26/3/1987-3334/4 md. ; Mülga son fıkra: 11/10/2011-KHK-666/1 md.)
-5528
+Atama ve görev süresi:
+Madde 26– (Mülga: 2/7/2018 – KHK-703/61 md.) (Başlığı ile Birlikte Yeniden Düzenleme:16/7/2026-7589/7 md.)
+Adli tıp ihtisas kurulu başkan ve üyeliklerine atanmak için en az tıpta veya diş hekimliğinde uzmanlık belgesi ya da alanında doktora derecesi almış olmak şarttır.
+Adli tıp ihtisas kurulu başkan ve üyeleri ile adli tıp grup başkanları ve adli tıp ihtisas dairesi başkanlarının görev süresi dört yıldır. Yeni atanan veya görevlendirilenler göreve başlayıncaya kadar süresi dolanların görevi devam eder.

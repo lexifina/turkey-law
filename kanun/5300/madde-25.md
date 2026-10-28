@@ -1,6 +1,5 @@
 Zarar görenlerin müracaat hakkı
 Madde 25- Zarar, sigorta kapsamında ödenemezse ve lisanslı depo işleticisinin bu Kanunda öngörülen yükümlülüklerinin herhangi bir nedenle yerine getirilmemesinden dolayı ortaya çıkmışsa; aşağıda gösterilen usûle göre gerekli müracaatlar yapılır ve zarar tazmin edilir:
-9279
 a) Zarar görenler, noter aracılığıyla veya taahhütlü mektupla ya da lisanslı depo işleticisiyle mudî tarafından imzalı durumu gösterir bir tutanakla, zararın tazmini için lisanslı depo işletmesine başvurur.
 b) Başvurunun tebliğinden itibaren yedi iş günü içinde zararın tazmin edilmemesi ya da sulh yoluyla çözülmemesi halinde, durum belgeleriyle birlikte zarar gören tarafından Bakanlığa ve borsaya intikal ettirilir.
 c) Borsa, kendisine başvuruyu takiben en geç yedi iş gününde bir ön inceleme ile tarafların sulh imkânını araştırır ve sonucundan Bakanlığı haberdar eder.

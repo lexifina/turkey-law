@@ -1,6 +1,5 @@
 Yürütme
 Madde 105- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-8817
 (1) SAYILI LİSTE
 Kurumu : Sanayi ve Ticaret Bakanlığı
 Teşkilâtı : Taşra
@@ -27,4 +26,3 @@ GİH | Borsa Komiseri | 6 | 3 |  | 3
 GİH | Borsa Komiseri | 7 | 4 |  | 4
 GİH | Borsa Komiseri | 8 | 2 |  | 2
  |  | Toplam | 92 |  | 92
-8818/8830-2

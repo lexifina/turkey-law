@@ -4,6 +4,6 @@ Bilgi veya belgenin niteliği gereği kopyasının verilmesinin mümkün olmadı
 a) Yazılı veya basılı belgeler için, söz konusu belgenin aslını incelemesi ve not alabilmesini,
 b) Ses kaydı şeklindeki bilgi veya belgelerde bunları dinleyebilmesini,
 c) Görüntü kaydı şeklindeki bilgi veya belgelerde bunları izleyebilmesini,
-Sağlarlar.
+sağlarlar.
 Bilgi veya belgenin yukarıda belirtilenlerden farklı bir şekilde elde edilmesi mümkün ise, belgeye zarar vermemek koşuluyla bu olanak sağlanır.
 Başvurunun yapıldığı kurum ve kuruluş, erişimine olanak sağladığı bilgi veya belgeler için başvuru sahibinden erişimin gerektirdiği maliyet tutarı kadar bir ücreti bütçeye gelir kaydedilmek üzere tahsil edebilir.

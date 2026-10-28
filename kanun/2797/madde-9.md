@@ -1,7 +1,6 @@
 Başkanlar Kurulları:
 Madde 9 – Yargıtayda;
 1. Birinci Başkan ile birinci başkanvekillerinden ve daire başkanlarından oluşan Başkanlar Kurulu.
-5581
 2. Birinci Başkan ile hukuk dairelerinden seçilen Birinci Başkanvekili ve hukuk daireleri başkanlarından oluşan Hukuk Daireleri Başkanları Kurulu,
 3. Birinci Başkan ile ceza dairelerinden seçilen Birinci Başkanvekili ve ceza daireleri başkanlarından oluşan Ceza Daireleri Başkanlar Kurulu,
 Bulunur.

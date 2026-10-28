@@ -6,5 +6,4 @@ Madde 206- Haklı bir sebep varsa hâkim, eşlerden birinin istemi üzerine, mev
 4. Diğer eşin, istemde bulunan eşe malvarlığı, geliri, borçları veya ortaklık malları hakkında bilgi vermekten kaçınması,
 5. Diğer eşin sürekli olarak ayırt etme gücünden yoksun olması.
 Eşlerden biri ayırt etme gücünden sürekli olarak yoksun ise, onun yasal temsilcisi de bu sebebe dayanarak mal ayrılığına karar verilmesini isteyebilir.
-8079
 2. Yetki

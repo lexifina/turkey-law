@@ -4,4 +4,3 @@ a) Komisyon: Zarar tespit komisyonunu,
 b) Bakanlık: İçişleri Bakanlığını,
 c) Bakan: İçişleri Bakanını,
 İfade eder.
-8928

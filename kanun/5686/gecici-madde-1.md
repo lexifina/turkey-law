@@ -12,5 +12,4 @@ h) Elektrik Üretim A.Ş. tarafından işletilen kaynak, alanı MTA tarafından 
 idare tarafından alan bazında intibak ettirilir. Elektrik Üretim A.Ş. veya Özelleştirme İdaresi Başkanlığı tarafından bu sahanın üçüncü kişilere ihale edilmesi halinde, ihale bedelinin %50’si MTA’ya öz kaynak olarak aktarılır. İntibaklarda sözleşme ve işletme şartları ile üçüncü kişilerin müktesep hakları sicile işlenir.
 (2) İşletme imtiyazlı ruhsatlarda ise hak sahibinin geçmişte kullandığı süre dikkate alınarak toplam süre doksandokuz yılı geçemez.
 (3) İntibakı yapılan ruhsatlar MİGEM’e bildirilir.
-10145
 (4) Bu Kanunun yürürlüğe girdiği tarih itibariyle 927 sayılı Kanuna göre süresi içinde temdit talebinde bulunulmuş ruhsatlar ile 5177 sayılı Kanunun geçici 4 üncü maddesine göre ruhsat almak üzere yapılan yeni müracaatlar, il özel idarelerince müracaat tarihinde yürürlükte olan 5177 sayılı Kanunun geçici 4 üncü maddesi ve 927 sayılı Kanuna göre sonuçlandırılarak uygun görülenler ruhsatlandırılarak bu Kanuna intibakı yapılır.

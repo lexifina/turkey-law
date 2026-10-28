@@ -1,0 +1,2 @@
+Hizmetiçi eğitim:6
+Madde 5 – Üniversiteler, alt düzeydeki eğitim kurumlarının öğretmenlerine ve yöneticilerine ve imkanları dahilinde diğer kamu kurum ve kuruluşlarının personeline hizmetiçi eğitimi ile ilgili kursları açmak ve düzenlemekle yükümlüdürler. Buna ait esaslar, Cumhurbaşkanınca yürürlüğe konacak bir yönetmelikle belirlenir.

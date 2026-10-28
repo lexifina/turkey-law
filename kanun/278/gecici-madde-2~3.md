@@ -1,0 +1,1 @@
+Geçici Madde 2 – Bilim Kurulu’nun ilk oluşumundan sonraki ikinci yıl sonunda, bir defaya mahsus olmak üzere, ad çekme usulü ile ayrılacak 6 üye yerine, Kurulun geri kalan üyeleri tarafından 4 ncü maddede öngörülen şart ve niteliklere sahip kişiler arasından yeni 6 üye seçilir.

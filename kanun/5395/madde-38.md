@@ -1,5 +1,5 @@
 Denetim görevlisinin görevleri
-MADDE 38 — (1) Denetim görevlisinin görevleri şunlardır:
+Madde 38- (1) Denetim görevlisinin görevleri şunlardır:
 a) Kararla ulaşılmak istenen amacın gerçekleşmesi için çocuğun eğitim, aile, kurum, iş ve sosyal çevreye uyumunu sağlamak üzere onu desteklemek, yardımcı olmak, gerektiğinde önerilerde bulunmak.
 b) Çocuğa eğitim, iş, destek alabileceği kurumlar, hakları ve haklarını kullanma konularında rehberlik etmek.
 c) İhtiyaç duyacağı hizmetlerden yararlanmasında çocuğa yardımcı olmak.

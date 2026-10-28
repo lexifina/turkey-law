@@ -1,4 +1,4 @@
 Dekan yardımcıları
-MADDE 12 — Dekan yardımcıları en fazla iki olup, dekana çalışmalarında yardımcı olmakla sorumlu asker kişilerdir.
-Dekan yardımcıları, dekanın kendilerine vereceği görevi yerine getirirler. Dekanın bulunmadığı hallerde rütbe ve kıdemce daha büyük olan dekan yardımcısı dekana vekâlet eder.
-Dekan yardımcılarının atanması; 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu hükümlerine göre yapılır.
+Madde 12 – (Değişik: 15/8/2017-KHK-694/96 md.; Aynen kabul: 1/2/2018-7078/92 md.)
+Dekan yardımcıları en fazla iki olup, dekana çalışmalarında yardımcı olmakla sorumlu kişilerdir. Görevi başında olmadığı zaman yardımcılarından birisi dekana vekâlet eder.
+Dekan yardımcıları Bakan tarafından üç yıllığına atanır. Süresi biten dekan yardımcısı yeniden atanabilir.

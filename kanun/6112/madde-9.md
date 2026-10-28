@@ -8,7 +8,7 @@ MADDE 9 – (1) Ticarî iletişim, yayın hizmetinin diğer unsurlarından görs
 (5) Ticarî iletişim, medya hizmet sağlayıcının editoryal bağımsızlığını ve program içeriğini etkileyecek şekilde kullanılamaz.
 (6) Ticarî iletişim, 8 inci maddede belirlenen esas ve ilkeler saklı kalmak kaydıyla;
 a) Adalet, hakkaniyet ve dürüstlük ilkelerine uygun olmak,
-b) Cinsiyet, ırk, renk veya etnik köken, tabiiyet, din, felsefî inanç veya siyasî düşünce, özürlülük, yaş ve herhangi bir ayrımcılığı içermemek veya teşvik etmemek,
+b) Cinsiyet, ırk, renk veya etnik köken, tabiiyet, din, felsefî inanç veya siyasî düşünce, engellilik, yaş ve herhangi bir ayrımcılığı içermemek veya teşvik etmemek,[8]
 c) Yanıltıcı olmamak ve tüketicinin çıkarlarına zarar vermemek,
 ç) Çocukların fiziksel, zihinsel veya ahlakî gelişimine zarar vermemek, deneyimsizliklerini veya saflıklarını istismar ederek, çocukları bir ürün veya hizmeti satın almaya veya kiralamaya doğrudan yönlendirmemek; çocukları reklamı yapılmakta olan ürün veya hizmetleri satın almak için ebeveynlerini veya başkalarını ikna etmeye doğrudan teşvik etmemek; çocukların ebeveynlerine, öğretmenlerine veya diğer kişilere duyduğu güveni istismar etmemek veya sebepsiz olarak çocukları tehlikeli durumlarda göstermemek,
 d) Kadınların istismarına yönelik olmamak,

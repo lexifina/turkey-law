@@ -1,6 +1,5 @@
 III - Sınırlama hakkını kaldıran kusur
 MADDE 1343- (1) 1976 tarihli Sözleşmenin 4 üncü maddesinin ve 1992 tarihli Sorumluluk Sözleşmesinin V inci maddesinin ikinci paragrafının uygulanmasında, aşağıdaki kişilerin kusuru dikkate alınır:
-11267
 a) Gerçek kişilerde, her bir gerçek kişinin kusuru.
 b) Tüzel kişilerde, Türk Medenî Kanununun 50 nci maddesi uyarınca eylem ve işleriyle tüzel kişiyi borç altına sokan organların kusuru ve organı oluşturan kişilerin kusurları.
 c) Adi şirketlerde şirket ortaklarının kusuru.

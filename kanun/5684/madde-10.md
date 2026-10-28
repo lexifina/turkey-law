@@ -4,4 +4,3 @@ MADDE 10 – (1) Bir sigorta şirketinin kendi talebi ile tasfiye edilmesi, bir 
 (3) Birleşme, devir ve portföy devirleri, Türkiye çapında dağıtımı yapılan ve tiraj bakımından ilk on sırada yer alan günlük gazetelerden ikisinde, birer hafta arayla en az ikişer defa yayımlanmak suretiyle duyurulur. Sigorta sözleşmeleri devredilen portföyde yer almak kaydıyla portföyünü devreden veya bir şirkete devrolunan ya da birleşen şirketlerle sigorta sözleşmesi akdetmiş olan kişiler; birleşme, devir ya da portföy devrini öğrendikleri tarihten itibaren, devir, birleşme ya da portföy devri nedeniyle, üç ay içinde sözleşmelerini feshedebilir.
 (4) Sigorta şirketinin iflası halinde sigortalılar, iflas masasına üçüncü sırada iştirak eder.
 (5) Müsteşarlık, lüzumu halinde iflas masasındaki yetkililerin değiştirilmesini talep edebilir.
-10153

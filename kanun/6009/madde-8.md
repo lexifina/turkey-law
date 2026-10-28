@@ -1,2 +1,0 @@
-MADDE 8-213 sayılı Kanunun 114 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-“Şu kadar ki, vergi dairesince matrah takdiri için takdir komisyonuna başvurulması, zamanaşımını durdurur. Duran zamanaşımı mezkûr komisyon kararının vergi dairesine tevdiini takip eden günden itibaren kaldığı yerden işlemeye devam eder. Ancak işlemeyen süre her hâl ve takdirde bir yıldan fazla olamaz.”

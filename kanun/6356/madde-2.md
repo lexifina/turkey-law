@@ -9,7 +9,6 @@ e) İşveren vekili: İşveren adına işletmenin bütününü yönetenleri,
 f) Konfederasyon: Değişik işkollarında en az beş sendikanın bir araya gelerek oluşturdukları tüzel kişiliğe sahip kuruluşu,
 g) Kuruluş: Sendika ve konfederasyonları,
 ğ) Sendika: İşçilerin veya işverenlerin çalışma ilişkilerinde, ortak ekonomik ve sosyal hak ve çıkarlarını korumak ve geliştirmek için en az yedi işçi veya işverenin bir araya gelerek bir işkolunda faaliyette bulunmak üzere oluşturdukları tüzel kişiliğe sahip kuruluşları,
-11696
 h) Toplu iş sözleşmesi: İş sözleşmesinin yapılması, içeriği ve sona ermesine ilişkin hususları düzenlemek üzere işçi sendikası ile işveren sendikası veya sendika üyesi olmayan işveren arasında yapılan sözleşmeyi,
 ı) Üst kuruluş: Konfederasyonları,
 i) Yönetici: Kuruluşun ve şubesinin yönetim kurulu üyelerini,

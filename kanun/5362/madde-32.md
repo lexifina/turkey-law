@@ -8,4 +8,3 @@ e) Federasyonca düzenlenecek sosyal faaliyet gelirleri.
 f) Federasyon tarafından düzenlenecek meslekî kurslar, sergi ve fuarlardan sağlanacak gelirler.
 g) Konfederasyonca belirlenen tarife ücretleri karşılığında düzenlenecek ve onanacak belge ve hizmet karşılıkları.
 h) Faiz ve diğer gelirler.
-9421

@@ -5,7 +5,6 @@ MADDE 5 – (1) Kimyasal silah geliştiren, üreten, bir başka şekilde elde ed
 (4) Bu Kanuna ekli (1) sayılı cetvelde yer alan kimyasal maddeler aşağıda belirtilen haller hariç olmak üzere üretilemez, iktisap edilemez, elde bulundurulamaz veya kullanılamaz:
 a) Kimyasal maddelerin bilimsel araştırmayla ilgili farmasötik veya koruyucu amaçlarla kullanılması.
 b) Kimyasal maddelerin türlerinin ve miktarlarının, yasaklanmamış amaçlar için kullanımını doğrulayacak tür ve miktarlarla kesin olarak sınırlandırılmış olması.
-10003
 c) Herhangi bir zamanda yasaklanmamış amaçlar için ülke çapında kullanılmasına izin verilen kimyasal maddelerin toplam miktarı bir tonu aşmamak üzere, ilgili mercii tarafından verilen izin belgesinde gösterilen üst sınır içinde olması.
 ç) Herhangi bir yılda ülke çapında üretilen, devir yoluyla iktisap edilen veya bu Kanunla yasaklanmamış amaçlar için kullanılan toplam kimyasal madde miktarı bir tona eşit veya daha az olmak üzere, ilgili mercii tarafından verilen izin belgesinde gösterilen üst sınır içinde olması.
 Bu fıkraya aykırı hareket edenler hakkında üç yıldan altı yıla kadar hapis ve sekizbin güne kadar adlî para cezası verilir.

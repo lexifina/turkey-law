@@ -1,2 +1,2 @@
 Yürütme
-MADDE 6 — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 6 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

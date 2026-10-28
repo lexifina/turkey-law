@@ -5,12 +5,12 @@ I - Yetkiler
 MADDE 616- (1) Genel kurulun devredilemez yetkileri şunlardır:
 a) Şirket sözleşmesinin değiştirilmesi.
 b) Müdürlerin atanmaları ve görevden alınmaları.
-c) Topluluk denetçisi ile (…) (1) denetçilerin atanmaları ve görevden alınmaları. (1)
+c) Topluluk denetçisi ile (…)[91] denetçilerin atanmaları ve görevden alınmaları.
 d) Topluluk yılsonu finansal tabloları ile yıllık faaliyet raporunun onaylanması.
 e) Yılsonu finansal tablolarının ve yıllık faaliyet raporunun onaylanması, kâr payı hakkında karar verilmesi, kazanç paylarının belirlenmesi.
 f) Müdürlerin ücretlerinin belirlenmesi ve ibraları.
 g) Esas sermaye paylarının devirlerinin onaylanması.
-h) Bir ortağın şirketten çıkarılması için mahkemeden istemde bulunulması.
+h) Bir ortağın şirketten çıkarılması için mahkemeden istemde bulunulması.[92]
 ı) Müdürün, şirketin kendi paylarını iktisabı konusunda yetkilendirilmesi veya böyle bir iktisabın onaylanması.
 i) Şirketin feshi.
 j) Genel kurulun kanun veya şirket sözleşmesi ile yetkilendirildiği ya da müdürlerin genel kurula sunduğu konularda karar verilmesi.

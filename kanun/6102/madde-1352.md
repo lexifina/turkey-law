@@ -4,7 +4,6 @@ b) Geminin işletilmesi ile doğrudan doğruya ilgili olarak karada veya suda me
 c) Kurtarma faaliyeti veya her türlü kurtarma sözleşmesi, çevre zararı tehdidi oluşturan bir gemi veya gemideki eşya ile ilgili kurtarma faaliyeti için ödenecek özel tazminat.
 d) Çevreye, kıyı şeridine veya bunlara ilişkin menfaatlere gemi ile verilen zarar ya da zarar verme tehdidi; bu zararı önlemek, sınırlandırmak veya ortadan kaldırmak için alınan önlemler; bu zarar karşılığı ödenecek tazminat; çevrenin eski duruma getirilmesi için fiilen alınan veya alınacak olan makul önlemlerin giderleri; bu zarar ile bağlantılı olarak üçüncü kişilerin uğradığı veya uğrayabileceği kayıplar ve bu bentte belirtilenlere benzer nitelikteki zararlar, giderler veya kayıplar.
 e) Geminin içinde bulunan veya bulunmuş olan şeyler de dâhil olmak üzere, batmış, enkaz hâline gelmiş, karaya oturmuş veya terkedilmiş olan bir geminin yüzdürülmesi, kaldırılması, çıkartılması, yok edilmesi veya zararsız hâle getirilmesi için yapılan giderler ve harcamalar ile terk edilmiş bir geminin korunması ve gemi adamlarının iaşesi ile ilgili giderler ve harcamalar.
-11269
 f) Bir çarter parti düzenlenmiş olup olmadığına bakılmaksızın, geminin kullanılması veya kiralanması amacıyla yapılmış her türlü sözleşme.
 g) Bir çarter parti düzenlenmiş olup olmadığına bakılmaksızın, gemide eşya veya yolcu taşınması amacıyla yapılmış her türlü sözleşme.
 h) Gemide taşınan, bagaj dâhil, eşyaya gelen veya bu eşyaya ilişkin zıya veya hasar.

@@ -11,7 +11,6 @@ g) Şube veya bölge şubelerinin nasıl kurulacağı, birleştirileceği veya k
 ğ) Üyelerce ödenecek aidat ve sendika yöneticilerinin ücretleri ile ilgili usul ve esaslar
 h) Demirbaşların satış ve terkininde uygulanacak usul ve esaslar
 ı) İç denetim usulleri
-11698
 i) Tüzüğün değiştirilme usulleri
 j) Sona erme hâlinde mallarının tasfiye şekli
 k) Organlarının oluşumuna kadar kuruluşun işlerini yürütmeye ve kuruluşu temsile yetkili geçici yönetim kurulu üyelerinin ad ve soyadları ile yerleşim yerleri

@@ -1,10 +1,6 @@
 Meclisin görev ve yetkileri
 Madde 18- Belediye meclisinin görev ve yetkileri şunlardır:
 a) Stratejik plân ile yatırım ve çalışma programlarını, belediye faaliyetlerinin ve personelinin performans ölçütlerini görüşmek ve kabul etmek.
-–––––––––––––
-(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 121 inci maddesiyle; bu fıkranın birinci cümlesinde yer alan “arsa” ibaresi “taşınmaz” olarak değiştirilmiştir.
-(2) 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere; "katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiş ve metne işlenmiştir.
-9476
 b) Bütçe ve kesinhesabı kabul etmek, bütçede kurumsal kodlama yapılan birimler ile fonksiyonel sınıflandırmanın birinci düzeyleri arasında aktarma yapmak.
 c) Belediyenin imar plânlarını görüşmek ve onaylamak, büyükşehir ve il belediyelerinde il çevre düzeni plânını kabul etmek. (Ek cümle: 1/7/2006-5538/29 md.) Belediye sınırları il sınırı olan Büyükşehir Belediyelerinde il çevre düzeni planı ilgili Büyükşehir Belediyeleri tarafından yapılır veya yaptırılır ve doğrudan Belediye Meclisi tarafından onaylanır.
 d) Borçlanmaya karar vermek.
@@ -19,9 +15,8 @@ l) Norm kadro çerçevesinde belediyenin ve bağlı kuruluşlarının kadroları
 m) Belediye tarafından çıkarılacak yönetmelikleri kabul etmek.
 n) Meydan, cadde, sokak, park, tesis ve benzerlerine ad vermek; mahalle kurulması, kaldırılması, birleştirilmesi, adlarıyla sınırlarının tespiti ve değiştirilmesine karar vermek; beldeyi tanıtıcı amblem, flama ve benzerlerini kabul etmek.
 o) Diğer mahallî idarelerle birlik kurulmasına, kurulmuş birliklere katılmaya veya ayrılmaya karar vermek.
-p) Yurt içindeki ve İçişleri Bakanlığının izniyle yurt dışındaki belediyeler ve mahallî idare birlikleriyle karşılıklı iş birliği yapılmasına; kardeş kent ilişkileri kurulmasına; ekonomik ve sosyal ilişkileri geliştirmek amacıyla kültür, sanat ve spor gibi alanlarda faaliyet ve projeler gerçekleştirilmesine; bu çerçevede arsa, bina ve benzeri tesisleri yapma, yaptırma, kiralama veya tahsis etmeye karar vermek.
+p) Yurt içindeki ve Çevre ve Şehircilik Bakanlığının izniyle yurt dışındaki belediyeler ve mahallî idare birlikleriyle karşılıklı iş birliği yapılmasına; kardeş kent ilişkileri kurulmasına; ekonomik ve sosyal ilişkileri geliştirmek amacıyla kültür, sanat ve spor gibi alanlarda faaliyet ve projeler gerçekleştirilmesine; bu çerçevede arsa, bina ve benzeri tesisleri yapma, yaptırma, kiralama veya tahsis etmeye karar vermek.[21]
 r) Fahrî hemşehrilik payesi ve beratı vermek.
 s) Belediye başkanıyla encümen arasındaki anlaşmazlıkları karara bağlamak.
 t) Mücavir alanlara belediye hizmetlerinin götürülmesine karar vermek.
 u) İmar plânlarına uygun şekilde hazırlanmış belediye imar programlarını görüşerek kabul etmek.
-9476-1

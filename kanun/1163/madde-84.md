@@ -9,6 +9,5 @@ Madde 84 – Bir kooperatif bütün aktif ve pasifleriyle diğer bir kooperatif 
 7. Kooperatifin dağılmasının tescili Ticaret Sicili memurluğundan istenir. Borçları ödendikten veya teminata bağlandıktan sonra kooperatifin kaydı sildirilir.
 8. Kooperatifin dağılmasının tescili ile ortakları da bütün hak ve borçları ile birlikte devralan kooperatife katılmış olurlar.
 9. Mameleki ayrı idare edildiği sürece dağılan kooperatifin ortakları yalnız onun borçları için ve o zamana kadar sorumluluklarının bağlı olduğu esaslar dairesinde takip olunabilirler.
-4588
 10. Aynı süre esnasında, dağılan kooperatifin ortaklarının sorumlulukları veya ek ödeme yükümlülükleri birleşme neticesinde hafiflemeye uğradığı ölçüde, bu hafifleme dağılan kooperatifin alacaklılarına karşı ileri sürülemez.
 11. Birleşme neticesinde dağılan kooperatifin ortakları için şahsi sorumluluk veya ek ödeme yükümlülüğü doğduğu veya ağırlaştığı taktirde birleşme kararı, ancak bütün ortakların 3/4 ünün çoğunluğu ile verilebilir. Sorumluluğa ve ek ödeme yükümlülüğüne mütedair hükümler birleşme kararına katılmamış olan ve bundan başka kararın ilanı tarihinden başlamak üzere üç ay içinde kooperatiften çıkacağını bildiren ortaklara uygulanmaz.

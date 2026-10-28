@@ -1,6 +1,5 @@
 Yürütme
 MADDE 151 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-11924
 (1) SAYILI LİSTE
 SERMAYE PİYASASI KURULU
 KADRO LİSTESİ
@@ -50,7 +49,6 @@ GİH | Şef | 3 | 24
 GİH | Şef | 4 | 4
 GİH | Şef | 5 | 5
 GİH | Şef Yardımcısı | 3 | 19
-11925
 GİH | Şef Yardımcısı | 4 | 1
 GİH | Şef Yardımcısı | 5 | 4
 GİH | Şef Yardımcısı | 6 | 3
@@ -99,7 +97,6 @@ TH | Mühendis | 3 | 3
 TH | Mühendis | 5 | 2
 TH | Mühendis | 6 | 4
 TH | Tekniker | 3 | 2
-11926
 TH | Tekniker | 5 | 3
 TH | Teknisyen | 3 | 2
 TH | Teknisyen | 5 | 1
@@ -131,9 +128,9 @@ HAZİNEYE DEVREDİLECEK TAŞINMAZ LİSTESİ
 İstanbul | Sarıyer | İstinye | 50 | 380 | 38
 İstanbul | Sarıyer | İstinye | 50 | 380 | 17
 İstanbul | Sarıyer | İstinye | 50 | 380 | 18
-11927
 (4) SAYILI LİSTE
-HAZİNEYE DEVREDİLEREK BORSA İSTANBUL ANONİM ŞİRKETİNİN KULLANIMINA
+HAZİNEYE DEVREDİLEREK BORSA İSTANBUL
+ANONİM ŞİRKETİNİN KULLANIMINA
 BIRAKILACAK TAŞINMAZ LİSTESİ
 İLİ | İLÇESİ | MAHALLESİ | PAFTA | ADA | PARSEL
 İstanbul | Sarıyer | Mirgün | 48 | 154 | 119
@@ -142,4 +139,3 @@ BIRAKILACAK TAŞINMAZ LİSTESİ
 SINIF | UNVAN | DERECE | ADET
 GİH | Kurul Başkanlık Müşaviri | 1 | 7
  | TOPLAM | 7
-11928

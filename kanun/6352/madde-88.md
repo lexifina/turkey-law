@@ -1,4 +1,0 @@
-MADDE 88 – 5237 sayılı Kanunun 254 üncü maddesinin birinci, ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
-“(1) Rüşvet alan kişinin, durum resmi makamlarca öğrenilmeden önce, rüşvet konusu şeyi soruşturmaya yetkili makamlara aynen teslim etmesi halinde, hakkında rüşvet suçundan dolayı cezaya hükmolunmaz. Rüşvet alma konusunda başkasıyla anlaşan kamu görevlisinin durum resmi makamlarca öğrenilmeden önce durumu yetkili makamlara haber vermesi halinde de hakkında bu suçtan dolayı cezaya hükmolunmaz.
-(2) Rüşvet veren veya bu konuda kamu görevlisiyle anlaşmaya varan kişinin, durum resmi makamlarca öğrenilmeden önce, pişmanlık duyarak durumdan yetkili makamları haberdar etmesi halinde, hakkında rüşvet suçundan dolayı cezaya hükmolunmaz.
-(3) Rüşvet suçuna iştirak eden diğer kişilerin, durum resmi makamlarca öğrenilmeden önce, pişmanlık duyarak durumdan yetkili makamları haberdar etmesi halinde, hakkında bu suçtan dolayı cezaya hükmolunmaz.”

@@ -1,5 +1,4 @@
 MADDE 1456- (1) Sınırlı ayni hak ile takyit edilmiş bir mal üzerindeki, malike ait menfaat sigortalandığı takdirde, kanunda aksi öngörülmemişse, sınırlı ayni hak sahibinin hakkı sigorta tazminatı üzerinde de devam eder.
-11289
 (2) Sigortacıya, mal üzerinde sınırlı ayni hak bulunduğu bildirildiği takdirde, ayni hak sahiplerinin izni bulunmadıkça, sigortacı sigorta tazminatını sigortalıya ödeyemez. Ayni hakkın sicille alenileştiği veya sigortacının bunu bildiği durumlarda bildirime gerek yoktur. Sigortalı menfaate konu malın tamiri veya eski hâline getirilmesi amacıyla ve teminat gösterilmesi şartıyla, tazminat sigortalıya ödenebilir.
 (3) İkinci fıkra hükmüne aykırı hareket eden sigortacı, sınırlı ayni hak sahipleri ödemeye sonradan yazılı onay verdikleri takdirde, bunlara karşı sorumluluktan kurtulur.
 (4) Sigortacı, sigorta ettirenin prim ödeme borcunda temerrüde düştüğünü ve prim farkı istemi dolayısıyla sigorta ettirene ihtarda bulunduğunu, ayni hakkını kendisine bildirmiş olan ve kendisi tarafından bilinen ayni hak sahiplerine de bildirir.

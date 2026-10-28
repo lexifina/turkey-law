@@ -10,4 +10,3 @@ MADDE 14 – (1) Genel kurulda yönetim kurulu, denetleme kurulu ve disiplin kur
 (9) Kullanılan oylar ve diğer belgeler tutanağın bir nüshası ile birlikte üç ay süreyle saklanmak üzere yetkili seçim kurulu başkanlığına verilir. Seçim sonuçları anılan başkanlık tarafından derhâl ilan edilir ve ilgili kuruluş veya şubesine bildirilir.
 (10) Seçimler sırasında sandık kurulu başkanı ve üyelerine karşı işlenen suçlar, kamu görevlilerine karşı işlenmiş sayılır.
 (11) Seçimde görev alan seçim kurulu ve seçim sandık kurulu üyelerine 26/4/1961 tarihli ve 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunda belirtilen esaslara göre ilgili kuruluşça ücret ödenir.
-11701

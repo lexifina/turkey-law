@@ -1,10 +1,6 @@
-İşsizlik ödeneği ödenmesinde hak düşürücü nedenler (1)
+İşsizlik ödeneği ödenmesinde hak düşürücü nedenler
 Madde 52 – İşsizlik ödeneği almakta iken;
 a) Kurumca teklif edilen mesleklerine uygun ve son çalıştıkları işin ücret ve çalışma koşullarına yakın ve ikamet edilen yerin belediye mücavir alanı sınırları içinde bir işi haklı bir nedene dayanmaksızın reddeden,
-––––––––––––
-(1) Bu maddenin yürürlüğe gireceği tarih için 63 üncü maddenin (c) fıkrasına bakınız.
-(2) 13/2/2011 tarihli ve 6111 sayılı Kanunun 71 inci maddesiyle, bu fıkrada yer alan “, hizmet akitlerinin sona ermesinden önceki son üç yıl içinde en az 600 gün sigortalı olarak çalışıp işsizlik sigortası primi ödemiş ve işten ayrılmadan önceki son 120 gün içinde prim ödeyerek sürekli çalışmış” ibaresi “ve bu Kanunda yer alan prim ödeme koşullarını sağlamış” şeklinde değiştirilmiş ve metne işlenmiştir.
-7650
 b) (Değişik: 25/6/2003 – 4904/29 md.) İşsizlik ödeneği aldığı sürede gelir getirici bir işte çalıştığı veya herhangi bir sosyal güvenlik kuruluşundan yaşlılık aylığı aldığı tespit edilen,
 c) Kurum tarafından önerilen meslek geliştirme, edindirme ve yetiştirme eğitimini haklı bir neden göstermeden reddeden veya kabul etmesine karşın devam etmeyen,
 d) Haklı bir nedene dayanmaksızın Kurum tarafından yapılan çağrıları zamanında cevaplamayan, istenilen bilgi ve belgeleri öngörülen süre içinde vermeyen,

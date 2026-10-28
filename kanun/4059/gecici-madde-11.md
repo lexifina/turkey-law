@@ -1,1 +1,1 @@
-Geçici Madde 11 – 534 ve 535 sayılı Kanun Hükmünde Kararnamelerin iptal tarihinden, bu Kanunun yürürlüğe girdiği tarihe kadar Hazine Müsteşarlığı, Dış Ticaret Müsteşarlığı ile Hazine ve Dış Ticaret Müsteşarlığı olarak evvelce yürürlükte olan mevzuat hükümlerine göre yapılan işlemler geçerli olup, bu işlemleri yapanlar yetkili ve görevli sayılırlar.
+Geçici Madde 11 – (Mülga: 2/7/2018-KHK-703/16 md.)

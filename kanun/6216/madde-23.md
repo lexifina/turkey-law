@@ -12,7 +12,6 @@ d) Mahkeme kararlarının uygulanmasının takip edilmesi ve bu konuda Genel Kur
 e) Bütçenin harcanması ve bu konuda Başkana bilgi verilmesi,
 f) Mahkemenin kurumsal, bilimsel, idari, mali ve teknik işlerinin yürütülmesi,
 g) Protokol işlerinin düzenlenmesi,
-11468
 ğ) Personelin sevk ve idaresinin sağlanması,
 h) Kanun, İçtüzük ve yönetmelik hükümleri çerçevesinde Başkan tarafından verilen diğer işlerin yapılması,
 konularında görevli ve yetkilidir.

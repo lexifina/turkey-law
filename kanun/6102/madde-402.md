@@ -6,9 +6,6 @@ MADDE 402- (1) Denetçi, yapılan denetimin türü, kapsamı, niteliği ve sonu�
 a) Defter tutma düzeninin, finansal tabloların ve topluluk finansal tablolarının, kanun ile esas sözleşmenin finansal raporlamaya ilişkin hükümlerine uygun olup olmadığı,
 b) Yönetim kurulunun denetçi tarafından denetim kapsamında istenen açıklamaları yapıp yapmadığı ve belgeleri verip vermediği,
 açıkça ifade edilir.
-––––––––––––––
-(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “ve denetleme konusu çerçevesinde işlem denetçisi” ibaresi madde metninden çıkarılmıştır.
-11067
 (5) Ayrıca, finansal tablolar ile bunların dayanağı olan defterlerin;
 a) Öngörülen hesap planına uygun tutulup tutulmadığı,
 b) Türkiye Muhasebe Standartları çerçevesinde, şirketin malvarlığı, finansal ve kârlılık durumunun resmini gerçeğe uygun olarak ve dürüst bir şekilde yansıtıp yansıtmadığı,

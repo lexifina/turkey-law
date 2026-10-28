@@ -4,10 +4,7 @@ Aşağıda belirtilen hallerde ihtiyaçların ilân yapılmaksızın ve teminat 
 a) İhtiyacın sadece gerçek veya tüzel tek kişi tarafından karşılanabileceğinin tespit edilmesi.
 b) Sadece gerçek veya tüzel tek kişinin ihtiyaç ile ilgili özel bir hakka sahip olması.
 c) Mevcut mal, ekipman, teknoloji veya hizmetlerle uyumun ve standardizasyonun sağlanması için zorunlu olan mal ve hizmetlerin, asıl sözleşmeye dayalı olarak düzenlenecek ve toplam süreleri üç yılı geçmeyecek sözleşmelerle ilk alım yapılan gerçek veya tüzel kişiden alınması.
-–––––––––––––––––––––
-(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2015 tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve 29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1 No.’lu Kamu İhale Tebliğine bakınız.
-8238-1
-d) Büyükşehir belediyesi sınırları dahilinde bulunan idarelerin onbeş milyar, diğer idarelerin beşmilyar Türk Lirasını aşmayan ihtiyaçları ile temsil ağırlama faaliyetleri kapsamında yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar. (1)
+d) Büyükşehir belediyesi sınırları dahilinde bulunan idarelerin onbeş milyar, diğer idarelerin beşmilyar Türk Lirasını aşmayan ihtiyaçları ile temsil ağırlama faaliyetleri kapsamında yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar.[32]
 e) İdarelerin ihtiyacına uygun taşınmaz mal alımı veya kiralanması.
 f) (Değişik: 20/11/2008-5812/8 md.) Özelliğinden ve belli süre içinde kullanılma zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil durumlarda kullanılacak olan ilaç, aşı, serum, anti-serum, kan ve kan ürünleri ile ortez, protez gibi uygulama esnasında hastaya göre belirlenebilen ve hastaya özgü tıbbî sarf malzemeleri, test ve tetkik sarf malzemeleri alımları.
 g) Milletlerarası tahkim yoluyla çözülmesi öngörülen uyuşmazlıklarla ilgili davalarda, Kanun kapsamındaki idareleri temsil ve savunmak üzere Türk veya yabancı uyruklu avukatlardan ya da avukatlık ortaklıklarından yapılacak hizmet alımları.

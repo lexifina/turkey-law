@@ -1,5 +1,2 @@
 Vakıf Hizmetleri Daire Başkanlığı
-MADDE 51 – Vakıf Hizmetleri Daire Başkanlığının görevleri şunlardır:
-7) Mülhak, cemaat, esnaf ve yeni vakıflarla ilgili iş ve işlemleri yürütmek.
-b) İdarî para cezası ile ilgili işlemleri yürütmek.
-c) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
+MADDE 51 – (Mülga: 2/7/2018/KHK/703/102 md.)

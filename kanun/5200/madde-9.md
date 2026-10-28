@@ -4,4 +4,3 @@ Denetim kurulunun görev ve yetkileri şunlardır:
 a) Birlik bilanço ve defterlerini incelemek.
 b) Yönetim kurulunun faaliyetleri ile ilgili yapılan denetim raporunu genel kurulun onayına sunmak.
 c) Gerektiğinde genel kurulu olağanüstü toplantıya çağırmak.
-8882

@@ -10,4 +10,3 @@ c) Kayıtlarda her türlü muhasebe hilesi yapanlar,
 ç) Yanlış veya yanıltıcı bağımsız denetim ve değerleme raporu düzenleyenler ile düzenlenmesini sağlayan ihraççıların sorumlu yönetim kurulu üyeleri veya sorumlu yöneticileri,
 5237 sayılı Kanunun ilgili hükümlerine göre cezalandırılır. Ancak, özel belgede sahtecilik suçundan dolayı cezaya hükmedebilmek için, sahte belgenin kullanılmış olması şartı aranmaz.
 (3) Yatırım kuruluşları ile bu Kanunun Üçüncü Kısmının Dördüncü Bölümünde yer alan kurumlar, 5237 sayılı Kanunun 244 üncü maddesinde tanımlanan sistemi engelleme, bozma, verileri yok etme veya değiştirme suçu açısından banka veya kredi kurumu sayılır.
-11903

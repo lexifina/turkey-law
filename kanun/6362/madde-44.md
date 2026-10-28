@@ -11,4 +11,3 @@ e) Gerekli mali güç ve işin gerektirdiği dürüstlük ve itibara sahip bulun
 (3) Aracı kurumların dönüşüm işlemleri ile esas sözleşme değişikliklerinde Kurulun uygun görüşünün, pay devirlerinde Kurul izninin alınması zorunludur ve bunlara ilişkin usul ve esaslar Kurulca belirlenir. Bu fıkra uyarınca yapılan düzenlemelere aykırı olarak gerçekleştirilen devirler pay defterine kaydolunmaz ve bu hükme aykırı olarak pay defterine yapılan kayıtlar hükümsüzdür.
 (4) Aracı kurumların bu Kanun kapsamındaki faaliyetlerini yürütmek için dışarıdan destek hizmeti alımına ilişkin usul ve esaslar Kurulca belirlenir.
 (5) Bankalar dışındaki diğer yatırım kuruluşlarının kurucularında aranacak şartlar Kurulca belirlenir.
-11866

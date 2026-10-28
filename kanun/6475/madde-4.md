@@ -18,7 +18,6 @@ j) Posta sektörü ile ilgili denetleme, inceleme ve soruşturma işlemlerini y�
 k) Evrensel posta hizmetinin belirlenen ulusal veya uluslararası standartlara uygun olarak yürütülmesine ilişkin faaliyetleri izlemek, denetlemek ve gerekli tedbirleri almak
 l) Posta sektöründe rekabeti tesis etmeye ve korumaya, rekabeti engelleyici, bozucu veya kısıtlayıcı uygulamaların giderilmesine yönelik düzenlemeleri yapmak
 m) Posta sektöründe ortaya çıkan rekabet ihlallerini denetlemek, yaptırım uygulamak, mevzuatta öngörülen hâllerde posta sektöründe rekabet ihlallerine ilişkin konularda gerektiğinde Rekabet Kurumundan görüş almak
-12077
 n) Posta sektöründe kullanıcı menfaatlerinin korunmasına yönelik gerekli her türlü düzenlemeleri yapmak
 o) Yetki belgesi sahiplerinin sahip olması gereken mali ve mesleki yeterlik şartları ile bu hizmet için kurulması gereken asgari altyapıyı belirlemek
 ö) Bu Kanun ile verilen görev ve yetkilere ilişkin yönetmelik, tebliğ ve diğer hukuki düzenlemeleri yapmak ve gerekli görülen kararları almak

@@ -1,2 +1,1 @@
-MADDE 10 – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununa aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 62 – Bu maddenin yürürlüğe girdiği tarihten sonraki ilk yükseköğretime giriş ve yerleştirme işlemlerine münhasır olmak üzere, bu Kanunun 45 inci maddesinin birinci fıkrasının (b), (d) ve (f) bentleri uyarınca adayların merkezi sınavlardan almış olduğu puanlara ilave edilecek ortaöğretim başarı puanları Yükseköğretim Kurulunca belirlenmiş olan usul ve esaslara göre hesaplanır.”
+MADDE 10 – 11 - (4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu ile ilgili olup yerine işlenmiştir.)

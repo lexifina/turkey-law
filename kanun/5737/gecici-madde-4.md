@@ -1,1 +1,1 @@
-GEÇİCİ MADDE 4 – Genel Müdürlüğün taşra teşkilâtı, bu Kanunun esaslarına göre yeniden düzenleninceye kadar görev ve hizmetleri mevcut taşra teşkilâtı tarafından yürütülmeye devam olunur.
+GEÇİCİ MADDE 4 – (Mülga: 2/7/2018/KHK/703/102 md.)

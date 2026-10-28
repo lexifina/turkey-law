@@ -5,7 +5,6 @@ Madde 168 — A) Bu Kanunun geçici maddelerindeki düzenlemeler hariç olmak ü
 B) İkrazatçılık hariç ödünç para verme işlerine ve finansal kiralama faaliyetlerine ilişkin olarak 9.12.1994 tarihli ve 4059 sayılı Hazine Müsteşarlığı ile Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanunda yer alan görev ve yetkilere ilişkin hükümler yürürlükten kaldırılmıştır.
 C) (10.6.1985 tarihli ve 3226 sayılı Finansal Kiralama Kanunu ile ilgili olup yerine işlenmiştir.)
 D) (30.9.1983 tarihli ve 90 sayılı Ödünç Para Verme İşleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
-9608
 E) (30.9.1983 tarihli ve 90 sayılı Ödünç Para Verme İşleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
 F) (14.1.1970 tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanunu ile ilgili olup yerine işlenmiştir.)
 G) (15.7.1950 tarihli ve 5682 sayılı Pasaport Kanunu Kanunu ile ilgili olup yerine işlenmiştir.)

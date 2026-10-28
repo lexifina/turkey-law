@@ -1,4 +1,3 @@
 Kışkırtma yasağı
 Madde 27 – Halka karşı, doğrudan doğruya veya ses yükselten veya ileten herhangi bir alet veya araç ile söz söyleyerek veya seslenerek veya basılmış veya çoğaltılmış veya elle yazılmış veya çizilmiş kağıtları duvarlara veya diğer yerlere yapıştırarak veya dağıtarak veya benzeri araç ve yollarla halkı Kanuna aykırı toplantı veya yürüyüşe özendirmek veya kışkırtmak yasaktır.
 Bu hareketler güvenlik kuvvetlerince derhal menedilir.
-6028

@@ -1,4 +1,4 @@
 ÜÇÜNCÜ BÖLÜM
 Genel Haklar
 I – Uygulama isteme hakkı:
-Madde 6 – Subaylar, astsubaylar ve askeri öğrenciler, bu kanuna ve bu kanuna dayanılarak çıkan tüzük ve yönetmeliklerin kendileri hakkında aynen uygulanmasını istemek hakkına sahiptirler.
+Madde 6 – Subaylar ve astsubaylar bu kanuna, Cumhurbaşkanlığı kararnamesi ve bunlara dayanılarak çıkarılan yönetmeliklerin kendileri hakkında aynen uygulanmasını istemek hakkına sahiptirler.[6][7]

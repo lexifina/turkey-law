@@ -3,9 +3,6 @@ MADDE 8 – (1) a) 2/2/1981 tarihli ve 2380 sayılı Belediyelere ve İl Özel �
 b) 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 23 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri ile ikinci fıkrası,
 c) 15/7/1963 tarihli ve 277 sayılı 5237 sayılı Belediye Gelirleri Kanunu ile Diğer Kanunlarla, Belediyelere Verilen Payların Belediye Vergi ve Resimleri Hükmünde Olduğuna Dair Kanun,
 ç) 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun 17 nci maddesinin birinci fıkrası,
-––––––––––––
-(1) 28/1/2010 tarihli ve 5951 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “sosyal güvenlik kuruluşlarına olan borçlarına” ibaresinden sonra gelmek üzere “ve 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun geçici 3 üncü, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun geçici 5 inci maddeleri kapsamında uzlaşma sağlanmış borçları ile bu maddeler kapsamındaki kuruluşlara olan ve 31/12/2006 tarihi itibarıyla tahakkuk etmiş ve uzlaşma sağlanmamış olan borçlarına” ibaresi eklenmiş ve metne işlenmiştir.
-10374
 d) 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 39 uncu maddesinin altıncı fıkrasında yer alan "Tahsil edilen vergiden, 2.2.1981 tarihli ve 2380 sayılı Kanun ile 10.7.2004 tarihli ve 5216 sayılı Kanuna göre mahalli idarelere pay verilmez" cümlesi,
 yürürlükten kaldırılmıştır.
 (2) Diğer mevzuatta, 277 sayılı 5237 sayılı Belediye Gelirleri Kanunu ile Diğer Kanunlarla, Belediyelere Verilen Payların Belediye Vergi ve Resimleri Hükmünde Olduğuna Dair Kanun ve 2380 sayılı Belediyelere ve İl Özel İdarelerine Genel Bütçe Vergi Gelirlerinden Pay Verilmesi Hakkında Kanuna yapılan atıflar bu Kanuna yapılmış sayılır.

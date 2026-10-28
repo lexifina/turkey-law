@@ -1,5 +1,5 @@
 İdarî yaptırım kararı
-MADDE 25- (1) İdarî yaptırım kararına ilişkin tutanakta;
+Madde 25- (1) İdarî yaptırım kararına ilişkin tutanakta;
 a) Hakkında idarî yaptırım kararı verilen kişinin kimlik ve adresi,
 b) İdarî yaptırım kararı verilmesini gerektiren kabahat fiili,
 c) Bu fiilin işlendiğini ispata yarayacak bütün deliller,

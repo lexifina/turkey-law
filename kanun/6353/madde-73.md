@@ -1,2 +1,0 @@
-MADDE 73 – 2330 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (a) bendine “tahkiki” ibaresinden sonra gelmek üzere “veya trafik ve yol güvenliğini sağlamak” ibaresi eklenmiş, (c) bendi aşağıdaki şekilde ve (d) bendinde yer alan “Ceza” ibaresi “Tutuklu ve hükümlülerin sevk ve nakilleri ile ceza” ibaresi şeklinde değiştirilmiştir.
-“c) Güven ve asayişi ihlal eden eylemler ile kaçakçılığa ilişkin eylemlerin önlenmesine yönelik görev yapan mülki idare amirlerini;”

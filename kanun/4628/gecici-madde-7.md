@@ -1,2 +1,1 @@
-Geçici Madde 7 – Bu Kanunun yürürlüğe girmesinden sonra doğrudan iletim sistemine bağlı olan tüketiciler ile Kanunun yürürlüğe girmesinden itibaren yirmidört ay sonra geçerli olmak üzere, bir önceki yıla ait toplam elektrik enerjisi tüketimleri dokuz milyon kilovatsaatten fazla olan tüketiciler serbest tüketici olarak kabul edilir.
-Bu Kanunun yürürlüğe girmesinden önce iletim sistemine doğrudan bağlı olan tüketicilerle yapılan ve Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi tarafından devralınan sözleşmeler, bu tüketiciler tedarikçilerini seçene kadar yürürlükte kalır.
+Geçici Madde 7 – (Mülga: 14/3/2013-6446/30 md.)

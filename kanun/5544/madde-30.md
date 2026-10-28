@@ -1,2 +1,2 @@
 Yönetmelikler
-MADDE 30- (1) Bu Kanunda öngörülen yönetmelikler altı ay içerisinde yürürlüğe konulur.
+MADDE 30- (Mülga: 2/7/2018-KHK-703/78 md.)

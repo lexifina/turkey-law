@@ -1,4 +1,4 @@
-İKİNCİ BÖLÜM (1)
+İKİNCİ BÖLÜM[35]
 Özet Beyan ve Eşyanın Türkiye Gümrük Bölgesine Girmesi
 Madde 35 /A – (Ek: 18/6/2009-5911/7 md.)
 1. Türkiye Gümrük Bölgesinin kara suları veya hava sahasından gümrük bölgesi içinde durmaksızın geçen taşıt araçları ile taşınan eşya hariç olmak üzere, Türkiye Gümrük Bölgesine getirilen eşya için özet beyan verilir.

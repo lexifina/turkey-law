@@ -1,3 +1,3 @@
 Süreli yayın sahibi
-MADDE 6. — Gerçek ve tüzel kişiler ile kamu kurum ve kuruluşları süreli yayın sahibi olabilirler.
+Madde 6- Gerçek ve tüzel kişiler ile kamu kurum ve kuruluşları süreli yayın sahibi olabilirler.
 Süreli yayın sahibinin onsekiz yaşından küçük veya kısıtlı olması halinde kanunî temsilcisi, tüzel kişi olması halinde ise tüzel kişi temsilcisi hakkında da 5 inci maddenin ikinci fıkrasında belirtilen şartlar aranır.

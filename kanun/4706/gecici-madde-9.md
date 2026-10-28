@@ -8,4 +8,3 @@ DHMİ Genel Müdürlüğü tarafından fiilen kullanılan taşınmazlardan 21/7/
 Bu madde kapsamında yapılacak devir ve tescil işlemleri ile diğer işlemler vergi, resim ve harçtan müstesnadır.
 Bu madde gereğince tapuda DHMİ Genel Müdürlüğü adına tescil ve tahsis edilecek taşınmazların bu maddenin yürürlüğe girdiği tarihe kadar kullanımları nedeniyle, bu Genel Müdürlük adına tahakkuk ettirilmiş ecrimisil bedellerinden henüz tahsil edilmemiş olanlar, hangi safhada olursa olsun terkin edilir. Tahsil edilmiş ecrimisil bedelleri iade edilmez.
 Bu taşınmazlardan DHMİ Genel Müdürlüğü tarafından üçüncü kişilere kiraya verilenler hakkında, bu maddenin yürürlüğe girdiği tarihe kadar kullanımları nedeniyle, kiracılar adına tahakkuk ettirilmiş ecrimisil bedellerinden henüz tahsil edilmemiş olanlar ise, kira bedellerinin bu Genel Müdürlük tarafından tahsil edilmiş olması kaydıyla, hangi safhada olursa olsun terkin edilir. Tahsil edilmiş ecrimisil bedelleri iade edilmez.
-8040-8

@@ -1,2 +1,0 @@
-MADDE 44 – 6/1/1982 tarihli ve 2575 sayılı Danıştay Kanununun 8 inci maddesinin (1) numaralı fıkrasının (d) bendine “Türkiye Büyük Millet Meclisi Genel Sekreterliği,” ibaresi ile (e) bendine “ile düzenleyici ve denetleyici kurumların başkanlıkları,” ibaresi eklenmiş, fıkranın (g) bendi aşağıdaki şekilde ve (3) numaralı fıkrasında yer alan “yirmi yıl” ibaresi “onbeş yıl” şeklinde değiştirilmiştir.
-“g) Kamu kurum ve kuruluşlarının başhukuk müşavirliği, birinci hukuk müşavirliği, hukuk hizmetleri başkanlığı ve hukuk işleri müdürlüğü,”

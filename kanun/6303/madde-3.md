@@ -3,7 +3,7 @@ MADDE 3 – (1) Ajansın gelirleri şunlardır:
 a) Eskişehir İl Özel İdaresi, Eskişehir Büyükşehir Belediyesi ile Odunpazarı ve Tepebaşı Belediyelerinin 2012 ve 2013 bütçelerine bu amaçla konulacak ödenek.
 b) Eskişehir Ticaret Odası ve Eskişehir Sanayi Odası tarafından 2012 ve 2013 yıllarında aktarılacak tutarlar.
 c) Genel bütçeden yapılacak yardımlar.
-ç) Eskişehir Osmangazi Üniversitesi ile Anadolu Üniversitesi döner sermaye işletmelerinin gelirlerinden 2012 ve 2013 yıllarında aktarılacak tutarlar.
+ç) Eskişehir Osmangazi Üniversitesi ile Anadolu Üniversitesi döner sermaye işletmelerinin gelirlerinden 2012, 2013 ve 2014 yıllarında aktarılacak tutarlar.[1]
 d) Her türlü naklen yayın, reklam ve sponsorluk gelirleri.
 e) Gerçek ve tüzel kişilerden alınacak nakdi ve ayni bağış ve yardımlar.
 f) Gelirlerin nemalandırılmasından elde edilecek gelirler.

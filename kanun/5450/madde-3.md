@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 3 — Bu Kanunda yer alan;
+Madde 3 - Bu Kanunda yer alan;
 a) Bakanlık : Millî Eğitim Bakanlığını,
 b) Kurum : Eleman yetiştirmek üzere okul, eğitim merkezi ve kurs açmış kamu kurum ve kuruluşlarını,
 c) Okul : Kurumların eleman yetiştirmek üzere açtıkları Anadolu Meteoroloji Meslek Lisesi, Anadolu Tapu ve Kadastro Meslek Lisesi ile sağlık, tarım ve adalet meslek liselerini,

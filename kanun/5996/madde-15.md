@@ -3,7 +3,6 @@ Zararlı organizmaların kontrolü ve yükümlülükler
 MADDE 15- (1) Bitki ve bitkisel ürünlerde zarar yapan organizmaların yurt içine girişi veya yurt içinde yayılmasını engellemek için aşağıdaki esaslar uygulanır:
 a) Bakanlık, bitki ve bitkisel ürünler ile zararlı organizma taşıma ihtimali bulunan diğer maddeler ile ilgili inceleme, teşhis, gerekli kontrol ve koruma tedbirlerini almakla yükümlüdür.
 b) Bakanlık, herhangi bir bölgede zararlı organizma şüphesi veya zararlı organizmanın salgın hâlinde ortaya çıkması durumunda, zararlı organizmaların yayılmasının önlenmesi için, ekim ve dikimin yasaklanması veya sınırlanması, bitki, bitkisel ürün ve diğer maddelerin naklinin ve satışının yasaklanması ile imhası dâhil her türlü tedbiri almaya, uygulamaya veya uygulatmaya yetkilidir.
-10574
 c) Bakanlık, zararlı organizmalarla ilgili olarak ulusal ve bölgesel düzeyde yıllık kontrol ve mücadele programı ile acil eylem planı hazırlanması ve uygulanmasını sağlar. Karantinaya tâbi zararlı organizmalar listesi Bakanlıkça belirlenir.
 ç) Bakanlık yabancı bir ülkede herhangi bir zararlı organizma görülmesi ve ülkemiz için risk teşkil etmesi durumunda, zararlı organizmanın türüne göre bu ülkenin tamamından veya belirli bir bölgesinden, bulaşmaya neden olabilecek bitki ve bitkisel ürünlerin ülkeye girişine ve transit geçişine, tamamen veya kısmen sınırlama veya yasak getirebilir. Sınırlama ve yasak kapsamı daraltılabilir veya genişletilebilir.
 (2) Zararlı organizmalara karşı yapılacak mücadelenin esasları Bakanlıkça belirlenir. Mücadelenin Bakanlıkça belirlenen esaslara göre yapılması zorunludur.
@@ -17,6 +16,5 @@ c) Bakanlık, zararlı organizmalarla ilgili olarak ulusal ve bölgesel düzeyde
 (10) Ticarî olarak fidan, fide, çelik, tohum, yumru, soğan gibi üretimde kullanılacak her türlü bitki yetiştiriciliğini yapanlar Bakanlıktan onay almak ve yetiştirme süresince Bakanlıkça belirlenen esaslara uymak zorundadır.
 (11) Bakanlıkça mücadelesi istenen zararlı organizmaların tespit edildiği yerlerde, ilgililerin Bakanlıkça talep edilen önlemleri almaları ve mücadeleyi yapmaları zorunludur.
 (12) Zararlı organizma ile mücadeleyi, ticarî amaçla yapmak isteyen gerçek ve tüzel kişiler Bakanlıktan onay almak zorundadır.
-10575
 (13) Belediyeler ve il özel idareleri zararlı organizmalara karşı yapılacak mücadele ve kontrollerde Bakanlığa yardımcı olmak zorundadır.
 (14) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.

@@ -11,6 +11,6 @@ b) İşveren veya işveren vekilinin gemiadamına karşı, kanuna, hizmet akitle
 c) İşveren veya işveren vekilinin gemiadamına karşı denizcilik kural ve teamüllerine veya ahlak ve adaba aykırı hareket etmesi,
 III - İşveren, işveren vekili veya gemiadamı tarafından:
 a) Geminin herhangi bir sebeple 30 günden fazla bir süre seferden kaldırılması,
-b) Gemiadamının herhangi bir sebeple sürekli olarak gemide çalışmasına engel bir hastalığa yakalanması veya engelli hâle gelmesi, (1)
+b) Gemiadamının herhangi bir sebeple sürekli olarak gemide çalışmasına engel bir hastalığa yakalanması veya engelli hâle gelmesi,[6]
 Hallerinde feshedilebilir.
 IV - Geminin kayba uğraması, terk edilmesi veya harp ganimeti ilan edilmesi veyahut Türk Bayrağından ayrılması hallerinde ise hizmet akti kendiliğinden bozulur.

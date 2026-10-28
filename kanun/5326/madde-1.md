@@ -3,7 +3,7 @@ Genel Hükümler
 BİRİNCİ BÖLÜM
 Amaç ve Kapsam, Tanım, Kanunîlik İlkesi ve Kanunun Uygulama Alanı
 Amaç ve kapsam
-MADDE 1- (1) Bu Kanunda; toplum düzenini, genel ahlâkı, genel sağlığı, çevreyi ve ekonomik düzeni korumak amacıyla;
+Madde 1- (1) Bu Kanunda; toplum düzenini, genel ahlâkı, genel sağlığı, çevreyi ve ekonomik düzeni korumak amacıyla;
 a) Kabahatlere ilişkin genel ilkeler,
 b) Kabahatler karşılığında uygulanabilecek olan idarî yaptırımların türleri ve sonuçları,
 c) Kabahatler dolayısıyla karar alma süreci,

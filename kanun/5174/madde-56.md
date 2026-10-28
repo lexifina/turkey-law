@@ -1,7 +1,6 @@
 Birliğin görevleri
 Madde 56- Birliğin görevleri şunlardır:
 a) Odaları ve borsaları güçlendirecek ve aralarında işbirliği ile uyumlu çalışma, gelişme imkânları sağlayacak karar ve tedbirleri almak ve gerekli teşkilâtı kurmak; sektör meclisi adı altında istişarî nitelikte üst kurullar oluşturmak; oda ve borsaların kanunî amaç ve görevlerini yerine getirmelerini sağlamak üzere, fikrî yardımda bulunmak; gerektiğinde oda ve borsaların çalışma ve işlemlerinin mevzuat esasları içinde yürütülmesini sağlamak amacıyla ilgili oda veya borsanın talebi üzerine gerekli incelemeleri yapmak ve önerilerde bulunmak.
-8795
 b) Oda ve borsa faaliyetlerinin ve sunulan hizmetlerin standardizasyonunu, muhasebe kayıtlarının ortak usullerde tutulmasını ve üyelere ilişkin bilgilerin Birlik merkezinde toplanmasını sağlamaya yönelik olarak gerekli elektronik alt yapıyı kurdurmak ve ticarî sırların korunmasını gözeterek işletimini sağlamak; oda ve borsalardan üyelik kayıtları ile aidatlara ilişkin bilgi ve belge talep etmek, bu taleplerin yerine getirilmesini sağlamak ve gerekli denetimleri yapmak.
 c) Bu Kanunda Birlikçe çıkarılacağı belirtilen yönetmelikleri düzenlemek, oda ve borsaların iç yönergelerini onaylamak.
 d) Ülkenin iktisadî durumu hakkında raporlar hazırlamak, oda ve borsalarca bu konuda hazırlanan raporları incelemek ve değerlendirmek, Ekonomik ve Sosyal Konseyde ve benzeri kurum, kurul, komisyon ve kuruluşlarda ticaret ve sanayi kesimini temsil etmek.
@@ -12,7 +11,6 @@ h) Ülkemizdeki ve yabancı ülkelerdeki Türk veya Türk-yabancı ticaret, sana
 ı) Tüketicinin korunması ve sağlıklı bir rekabet ortamının oluşturulması için gerekli önlemleri almak, mevzuat uyarınca Bakanlık ve bakanlıklar tarafından bu ve benzeri konularda verilecek diğer görevleri yapmak ve gerekli teşkilâtı kurmak.
 j)Talepleri halinde oda ve borsaların üyeleri arasındaki ihtilafları hakem olarak çözmek üzere yüksek tahkim heyeti kurmak.
 k) Özel sektörün ekonomik politikalarını belirlemek; dünya ekonomisi ile entegrasyonu teminen gerekli dış ekonomik ilişkilerin tesisinde ilgili kamu kurum ve kuruluşlarına gerekli hallerde görüş vermek ve bu ilişkilerin yürütülmesinde yardımcı olmak.
-8796
 l) Sermaye piyasası, yatırımların teşviki ve yönlendirilmesi, ithalat -ihracat rejimi kararları, ithalatta haksız rekabetin önlenmesi ve vergi ile ilgili konularda resmî mercilere görüş bildirmek, önerilerde bulunmak, gerektiğinde bu konularla ilgili toplantılara katılmak; küçük ve orta ölçekli işletmeleri pazarlama, finansman, araştırma-geliştirme çalışmalarında teşvik etmek.
 m) Bakanlığın gözetimi ve denetiminde Türk Ticaret Kanununun 37 nci maddesinde belirtilen Türkiye Ticaret Sicili Gazetesini çıkarmak.
 n) Yeni oda ve borsa kurulması, mevcut oda ve borsaların çalışma alanlarının genişletilmesi ya da daraltılması, mevcut oda ve borsaların dağılması ile kayıt ücretleri, aidatlar ve alınacak ücretlere ilişkin konularda bu Kanunla verilen görevleri yapmak.
@@ -25,5 +23,4 @@ u) Ticaret ve sanayi kesimi ve faaliyetleri konusundaki bürokratik engellerin k
 v) Bakanlık tarafından mevzuat çerçevesinde verilecek görevleri yapmak, ülke ekonomisinin geliştirilmesi ve yönlendirilmesi amacıyla resmî mercilere görüş bildirmek ve öneride bulunmak.
 y) Uluslararası anlaşmalar gereği, elektronik ortam dahil TIR ve ATA karneleri, menşe şahadetnameleri, dolaşım belge ve sertifikalarının basımı, dağıtımı ve uygulamalarına ilişkin hizmetler ile EAN -UCC çizgi kod sistemine ilişkin çalışmaları yürütmek.
 z) Sanayinin ihtiyaç duyduğu nitelikli iş gücünün yetişmesini sağlamak amacıyla üniversiteler, yüksekokullar, meslekî ve teknik eğitim kurumları kurmak, kurulmuş bulunanlara iştirak etmek, işbirliği yapmak; ilgili kuruluşlarla işbirliği halinde görev tanımları yapmak, bu görev tanımlarına uygun öğretim programları hazırlanması ve uygulanmasını teşvik etmek; odalarca sürdürülen çıraklık ve meslekî eğitim hizmetlerinin uyumlu yürütülmesini teminen uygulamalara rehberlik etmek; oda ve borsaların yönetici ve personeline yönelik hizmet içi eğitim programları hazırlamak, uygulamak, bu amaçlarla gerektiğinde bir meslekî eğitim merkezi kurulmasını sağlamak.
-8797
 Birlik, bu Kanunda belirtilen kuruluş amaçları ve görev alanı çerçevesinde kendisine tevdii halinde, mevzuatla bakanlıklara veya kamu kurum ve kuruluşlarına verilen görevleri de yerine getirir.

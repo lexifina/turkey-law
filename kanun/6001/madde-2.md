@@ -9,7 +9,6 @@ e) Erişme kontrolü: Transit trafiğe tahsis edilen karayollarında, yaya, hayv
 f) Genel Müdür: Karayolları Genel Müdürünü,
 g) Genel Müdürlük: Karayolları Genel Müdürlüğünü,
 ğ) Hizmet tesisleri: Karayolları sınır çizgisi içinde kalan otel, motel, lokanta, akaryakıt istasyonu, servis istasyonu ve diğer tesisleri,
-10608
 h) İl yolları: Belediyeler veya diğer kurumların sorumluluğunda bulunan yollar dışında kalan, illeri birbirine, Devlet yollarına, limanlara, tersanelere, demiryolu istasyonlarına, hava alanlarına ve kamu ihtiyacının gerektirdiği diğer yerlere bağlayan ve bir il sınırı içinde başlayıp biten karayollarını,
 ı) İşletici şirket: İlgili mevzuat hükümleri uyarınca işletme hakkı verilen veya devredilen Türkiye’de kurulmuş sermaye şirketlerini,
 i) Karayolu: Trafik akışına imkân sağlamak üzere kamunun yararlanmasına açık olan arazi şeritleri, köprüler, tüneller, her türlü sanat yapıları, koruma yapıları ve diğer alanları,

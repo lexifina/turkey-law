@@ -11,7 +11,3 @@ h) Sosyal ve kültürel organizasyonlardan sağlanan gelirler.
 ı) Esnaf ve Sanatkârların Meslek Eğitimini Geliştirme ve Destekleme Fonu gelirleri.
 j) Bağış ve yardımlar.
 k) Faiz ve diğer gelirler.
-ÜÇÜNCÜ KISIM
-Ortak Hükümler
-BİRİNCİ BÖLÜM
-Genel Kurul Toplantıları,

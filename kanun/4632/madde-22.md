@@ -1,8 +1,8 @@
 YEDİNCİ BÖLÜM
 Ceza Hükümleri
-İdarî yaptırımlar (1)
+İdarî yaptırımlar[8]
 Madde 22 – (Değişik: 23/1/2008 – 5728/486 md.)
-Konularına göre Müsteşarlık veya Kurul kararıyla ve gerekçesi belirtilmek suretiyle bu Kanuna tâbi gerçek ve tüzel kişilere, bu Kanunun;
+Konularına göre Kurum veya Sermaye Piyasası Kurulu kararıyla ve gerekçesi belirtilmek suretiyle bu Kanuna tâbi gerçek ve tüzel kişilere, bu Kanunun;
 a) 4 üncü maddesi hükümlerine aykırı emeklilik sözleşmesi düzenlenmesi halinde üçbin Türk Lirası,
 b) 5 inci maddesinde öngörülen aktarma yükümlülüğüne aykırılık halinde ikibin Türk Lirası,
 c) (Değişik: 13/6/2012-6327/28 md.) 5 inci maddesinde öngörülen paylaştırma ve yatırıma yönlendirme yükümlülüğüne aykırılık halinde ikibin Türk Lirası,
@@ -16,15 +16,12 @@ j) (Değişik: 13/6/2012-6327/28 md.) 11 inci maddesinin birinci ve üçüncü f
 k) 11 inci maddesinin ikinci fıkrası hükümlerine aykırı olarak aracılık faaliyetinde bulunulması veya aracılık hizmeti sağlanması hallerinde altıbin Türk Lirası,
 l) 12 nci maddesinin birinci fıkrası hükümlerine aykırı olarak belirtilen nitelikleri haiz olmayan kişilerin çalıştırılması halinde onbeşbin Türk Lirası,
 m) 12 nci maddesinin ikinci fıkrasında öngörülen bildirim yükümlülüğünün yerine getirilmemesi halinde üçbin Türk Lirası,
-–––––––––––––
-(1) Bu madde başlığı “İdarî suç ve cezalar” iken, 23/1/2008 tarihli ve 5728 sayılı Kanunun 486 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
-7886
 n) 12 nci maddesinin üçüncü fıkrası hükümlerine aykırı olarak belirtilen kişilerin yasaklanan görevlerde çalıştırılması halinde onbeşbin Türk Lirası,
 o) 13 üncü maddesinin birinci fıkrası hükümlerine aykırı olarak anasözleşme değişikliklerinin tescil edilmesi halinde onbeşbin Türk Lirası,
 p) 13 üncü maddesinin üçüncü fıkrası hükümlerine aykırı olarak malvarlıklarının devri veya bir başka şirketle birleşilmesi halinde onbeşbin Türk Lirası,
 r) 21 inci maddesinde öngörülen bağımsız dış denetim yükümlülüğünün yerine getirilmemesi halinde onbeşbin Türk Lirası,
-s) Bakanlık, Müsteşarlık ve Kurul tarafından alınan kararlara, çıkarılan yönetmelik ve tebliğler ile yapılan diğer düzenlemelere uyulmaması halinde, yukarıdaki fıkralarda, sigortacılık mevzuatı ve sermaye piyasası mevzuatında öngörülmüş bir cezanın olmadığı hallerde ikibin Türk Lirası,
+s) Bakanlık, Kurum ve Sermaye Piyasası Kurulu tarafından alınan kararlara, çıkarılan yönetmelik ve tebliğler ile yapılan diğer düzenlemelere uyulmaması halinde, yukarıdaki fıkralarda, sigortacılık mevzuatı ve sermaye piyasası mevzuatında öngörülmüş bir cezanın olmadığı hallerde ikibin Türk Lirası,
 idarî para cezası verilir.
 Yukarıda belirtilen idarî para cezalarının uygulanmasından önce ilgili kuruluş veya kişilerin savunmaları alınır. Savunma istendiğine ilişkin yazının tebliğ tarihinden itibaren bir ay içinde savunma verilmemesi halinde savunma hakkından feragat edildiği kabul edilir.
 İdarî para cezalarının verilmesini gerektiren fiillerin tekrarı halinde, verilen para cezası iki katı, izleyen tekrarlarda üç katı artırılarak uygulanır. Bu cezaların verildiği tarihten itibaren iki yıl içinde idarî para cezasının verilmesini gerektiren aynı fiil işlenmediği takdirde önceki cezalar tekrarda esas alınmaz.
-Bu Kanunun 23 üncü maddesinin birinci fıkrasında öngörülen suçu işleyenler hakkında kanunî kovuşturmaya geçilmekle birlikte, gecikmesinde sakınca bulunan hallerde Müsteşarlığın talebi üzerine valiliklerce bunların işyerleri geçici olarak kapatılır; ilan ve reklamları durdurulur ya da toplatılır.
+Bu Kanunun 23 üncü maddesinin birinci fıkrasında öngörülen suçu işleyenler hakkında kanunî kovuşturmaya geçilmekle birlikte, gecikmesinde sakınca bulunan hallerde Kurumun talebi üzerine valiliklerce bunların işyerleri geçici olarak kapatılır; ilan ve reklamları durdurulur ya da toplatılır.

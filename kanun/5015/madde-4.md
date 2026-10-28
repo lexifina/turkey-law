@@ -14,8 +14,5 @@ h) Esas faaliyetlerine ilişkin tip sözleşme örneklerini ve bunlarda yapılac
 ı) Piyasa faaliyetlerinde, Kurulun belirleyeceği teknik düzenlemelere uygun akaryakıt sağlamak,
 j) İletim ve depolamada kapasite kısıtları dışında kendilerinden yapılan talepleri ayrım gözetmeksizin karşılamak,
 k) Eşit durumdaki alıcılara (kategorilere), eşit hak ve yükümlülük tanımak, farklı şartlar sürmemek,
-l) (Ek: 28/3/2013-6455/37 md.) Kaçak akaryakıt veya sahte ulusal marker elde etmeye, satmaya ya da herhangi bir piyasa faaliyetine konu etmeye yarayacak şekilde lisansa esas teşkil eden belgelerde belirlenenlere aykırı sabit ya da seyyar tank, düzenek veya ekipmanı bulundurmamak, (1)
-İle yükümlüdür.
-––––––––––––
-(1) Bu bentte yer alan fiil veya ihlaller ile ilgili olarak 1/1/2015 tarihinden itibaren uygulanacak para cezaları için; 12/12/2014 tarihli ve 29203 sayılı Resmi Gazete’de yayımlanan Enerji Piyasası Düzenleme Kurumunun 5015 sayılı Petrol Piyasası Kanununun 19 uncu Maddesi Uyarınca 2015 Yılında Uygulanacak Para Cezaları Hakkında Tebliğ ile bu Kanunun sonundaki tabloya bakınız.
-8646
+l) (Ek: 28/3/2013-6455/37 md.) Kaçak akaryakıt veya sahte ulusal marker elde etmeye, satmaya ya da herhangi bir piyasa faaliyetine konu etmeye yarayacak şekilde lisansa esas teşkil eden belgelerde belirlenenlere aykırı sabit ya da seyyar tank, düzenek veya ekipmanı bulundurmamak,
+ile yükümlüdür.

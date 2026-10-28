@@ -1,2 +1,1 @@
-MADDE 16 – 2464 sayılı Kanunun 96 ncı maddesinin (A) fıkrası aşağıdaki şekilde değiştirilmiştir.
-“A) Bakanlar Kurulu, bu Kanunda en az ve en çok miktarları gösterilen vergi ve harçların tarifelerini belediye grupları itibarıyla tayin ve tespit eder.”
+MADDE 16 – 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanunu ile ilgili olup yerine işlenmiştir.

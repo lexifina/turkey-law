@@ -8,4 +8,3 @@ Alıcının genel hükümlere göre tazminat isteme hakkı saklıdır.
 Satıcı, alıcıya aynı malın ayıpsız bir benzerini hemen vererek ve uğradığı zararın tamamını gidererek seçimlik haklarını kullanmasını önleyebilir.
 Alıcının, sözleşmeden dönme hakkını kullanması hâlinde, durum bunu haklı göstermiyorsa hâkim, satılanın onarılmasına veya satış bedelinin indirilmesine karar verebilir.
 Satılanın değerindeki eksiklik satış bedeline çok yakın ise alıcı, ancak sözleşmeden dönme veya satılanın ayıpsız bir benzeriyle değiştirilmesini isteme haklarından birini kullanabilir.
-10795

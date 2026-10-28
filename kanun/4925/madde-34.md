@@ -9,6 +9,3 @@ f) Taşıma hizmetlerinin denetimi ve belge taleplerinin incelenmesi ile ilgili 
 g) Ücretsiz ve tarife altı uygulama esasları,
 h) Kanunun uygulanmasıyla ilgili diğer esas ve usulleri,
 Düzenleyen yönetmelikler Bakanlıkça hazırlanarak Resmî Gazetede yayımlanır.
-––––––––––––
-(1) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle; bu bentte yer alan “otobüs” ibaresinden sonra gelmek üzere “minibüs, kamyonet, traktör,” ibaresi ve “sahiplerine” ibaresinden sonra gelmek üzere “ve karayolu yatırım projelerine,” ibaresi eklenmiş ve metne işlenmiştir.
-8539-8555

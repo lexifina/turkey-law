@@ -6,11 +6,6 @@ b) Dolaylı ayrımcılık: Görünüşte ayrımcı olmayan her türlü eylem, i�
 c) Engelli: Fiziksel, zihinsel, ruhsal ve duyusal yetilerinde çeşitli düzeyde kayıplarından dolayı topluma diğer bireyler ile birlikte eşit koşullarda tam ve etkin katılımını kısıtlayan tutum ve çevre koşullarından etkilenen bireyi,
 d) Engelliliğe dayalı ayrımcılık: Siyasi, ekonomik, sosyal, kültürel, medeni veya başka herhangi bir alanda insan hak ve temel özgürlüklerinin tam ve diğerleri ile eşit koşullar altında kullanılması veya bunlardan yararlanılması önünde engelliliğe dayalı olarak gerçekleştirilen her türlü ayrım, dışlama veya kısıtlamayı,
 e) Engellilik durumu: Bireyin engelliliğini ve engellilikten kaynaklanan özel gereksinimlerini, uluslararası yöntemleri temel alarak belirleyen derecelendirmeler, sınıflandırmalar ve tanılamaları,
-–––––––––––––––––
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle;
-a) Bu Kanunun Adında yer alan “Özürlüler ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması” ibaresi “Engelliler”,
-b) 2 nci maddesinde yer alan “özürlüleri” ve “özürlülere” ibareleri sırasıyla “engellileri” ve “engellilere”,
-9464
 f) Erişilebilirlik: Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve iletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir olmasını,
 g) Erişilebilirlik standartları: Türk Standardları Enstitüsünün erişilebilirlikle ilgili yayımladığı standartları,
 h) Habilitasyon: Engellinin bireysel ve toplumsal ihtiyaçlarını karşılayabilmesini ve yaşamını bağımsız bir şekilde sürdürebilmesini sağlamayı amaçlayan fiziksel, sosyal, zihinsel ve mesleki beceriler kazandırmaya yönelik hizmetleri,

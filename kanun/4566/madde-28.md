@@ -1,3 +1,3 @@
 Yabancı uyruklu öğretim elemanları
-MADDE 28 — Harp okullarında görevlendirilecek yabancı uyruklu öğretim elemanları; harp okulu komutanlığının ihtiyaç göstermesi, kuvvet komutanlıklarının teklifi, Genelkurmay Başkanlığının tasvibi ile İçişleri ve Maliye Bakanlıklarından alınacak olumlu görüş üzerine, Millî Savunma Bakanlığının onayı ile sözleşmeli olarak çalıştırılırlar. Bu şekilde sözleşmeli olarak çalıştırılacak yabancı öğretim elamanlarına ödenecek ücret, 11.10.1983 tarihli ve 2914 sayılı Yüksek Öğretim Personel Kanununun 16 ncı maddesi uyarınca, Bakanlar Kurulunca belirlenecek esaslar dahilinde Millî
-Savunma Bakanlığınca tespit edilir.
+Madde 28 – (Değişik : 15/8/2017-KHK-694/102 md.; Aynen kabul: 1/2/2018-7078/98 md.)
+Harp okullarında görevlendirilecek yabancı uyruklu öğretim elemanları; harp okulu dekanlığının talebi ve Rektörlüğün ihtiyaç göstermesi üzerine, Bakan onayı ile sözleşmeli olarak çalıştırılırlar. Sözleşmeli olarak çalıştırılacak yabancı öğretim elemanlarına ödenecek ücret, 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanununun 16 ncı maddesi uyarınca Cumhurbaşkanınca belirlenen esaslar dâhilinde Bakanlıkça tespit edilir.[16]

@@ -6,6 +6,3 @@ Madde 56 – 1. Davaya bakmakta olan dava dairesi başkan ve üyelerinin çekinm
 3. İdari Dava Daireleri Kurulu ile Vergi Dava Daireleri Kurulu başkan ve üyelerinden bir kısmının davaya bakmaktan çekinmesi veya reddi halinde noksan üyelikler diğer dava dairelerinden tamamlanır.
 4. İdari ve Vergi Dava Daireleri Kurullarının toplanmasına engel olacak sayıda ret istemlerinde bulunulamaz ve çekinilemez.
 5. Danıştay Tetkik hakimleri ve savcıları sebeplerini bildirerek çekinebilecekleri gibi taraflarca da reddedilebilirler. Bunlar hakkındaki çekinme veya ret istemleri davaya bakmakla görevli daire tarafından incelenerek karara bağlanır.
-——————————
-(1) Bu madde başlığı “Yargılamanın yenilenmesine ve kararın düzeltilmesine ilişkin özel hükümler:” iken, 18/6/2014 tarihli ve 6545 sayılı Kanunun 26 ncı maddesiyle metne işlendiği şekilde, aynı maddenin beşinci fıkrasında yer alan “53, 54 ve bu” ibaresi “Bu madde ile 53 üncü” şeklinde değiştirilmiş; üçüncü ve dördüncü fıkralarında yer alan “ve kararın düzeltilmesi” ibareleri ile beşinci fıkrasında yer alan “ve kararın düzeltilmesinde” ibaresi madde metninden çıkarılmıştır.
-5484

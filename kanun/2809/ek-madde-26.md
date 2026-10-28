@@ -1,0 +1,9 @@
+Kahramanmaraş Sütçü İmam Üniversitesi:[86]
+Ek Madde 26 – (Ek: 3/7/1992-3837/25 md.)
+Kahramanmaraş’ta Kahramanmaraş Sütçü İmam Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite; a) Rektörlüğe bağlı olarak yeni kurulan Fen-Edebiyat Fakültesi, İktisadi ve İdari Bilimler Fakültesi, Orman Fakültesi ile Gaziantep Üniversitesi’ne bağlı Kahramanmaraş Ziraat Fakültesinin adı ve bağlantısı değiştirilerek rektörlüğe bağlanan Ziraat Fakültesinden;
+b) Gaziantep Üniversitesine bağlı Kahramanmaraş Meslek Yüksekokulunun adı ve bağlantısı değiştirilerek rektörlüğe bağlanan Kahramanmaraş Meslek Yüksekokulundan;
+c) (Mülga:30/7/2026-7592/16 md.)
+ç) (Ek:30/7/2026-7592/16 md.) Kahramanmaraş İstiklal Üniversitesine bağlı iken bağlantısı değiştirilerek Rektörlüğe bağlanan İslami İlimler Fakültesi, Sağlık Bilimleri Fakültesi ve İnsan ve Toplum Bilimleri Fakültesi ile Rektörlüğe bağlı İlahiyat Fakültesi, Sağlık Bilimleri Fakültesi ve İnsan ve Toplum Bilimleri Fakültesinin birleştirilmesiyle oluşturulan İlahiyat Fakültesi, Sağlık Bilimleri Fakültesi ve İnsan ve Toplum Bilimleri Fakültesi ile Kahramanmaraş İstiklal Üniversitesine bağlı iken bağlantıları değiştirilerek Rektörlüğe bağlanan Turizm Fakültesi ile İletişim Fakültesinden;
+d) (Ek:30/7/2026-7592/16 md.) Kahramanmaraş İstiklal Üniversitesine bağlı Elbistan Sağlık Hizmetleri Meslek Yüksekokulu ile Elbistan Meslek Yüksekokulunun adı ve bağlantısı değiştirilerek ve birleştirilerek oluşturulan ve Rektörlüğe bağlanan Elbistan Meslek Yüksekokulu ile Kahramanmaraş İstiklal Üniversitesine bağlı iken bağlantısı değiştirilerek Rektörlüğe bağlanan Türkoğlu Meslek Yüksekokulu ile Rektörlüğe bağlı Sağlık Hizmetleri Meslek Yüksekokulu, Sosyal Bilimler Meslek Yüksekokulu ile Teknik Bilimler Meslek Yüksekokulunun birleştirilmesiyle oluşturulan Onikişubat Meslek Yüksekokulundan;
+e) (Ek:30/7/2026-7592/16 md.) Rektörlüğe bağlı olarak yeni kurulan Lisansüstü Eğitim Enstitüsünden;
+Oluşur.

@@ -5,8 +5,4 @@ Genel sekreterin atanması, terfi, cezalandırılması ve görevine son verilmes
 Genel sekreter, personelin birinci tezkiye amiri olup personelin atanma, terfi, cezalandırma ve işten uzaklaştırma işlemleri teklifi üzerine yönetim kurulunca yapılır.
 Birlik genel sekreterleri birliğe üye odaların genel sekreterleri ile temmuz ve aralık aylarında, birlik başkanının gözetiminde yılda en az iki defa eğitim ve değerlendirme toplantısı yaparlar.
 Genel sekreter ve genel sekreter yardımcısı olarak atanacakların 657 sayılı Devlet Memurları Kanununun 48 inci maddesindeki genel şartları taşımaları gerekli olup; bu şartları taşımayanlar, genel sekreter ve genel sekreter yardımcısı olarak atanamaz. Bu şartları taşımadıkları sonradan anlaşılanların ise görevlerine son verilir.
-9433
 Birlik ve federasyon genel sekreter ve yardımcılarının en az iki yıllık yüksek okul mezunu olmaları, oda genel sekreter ve yardımcılarının en az lise ve dengi okul mezunu olması, Konfederasyon genel sekreteri ve yardımcılarının ise, üniversitelerin işletme, iktisat, hukuk, siyasal bilgiler, iktisadi ve idari bilimler fakülteleri mezunu veya muadili bir alanda yüksek tahsil yapmış olması şarttır. Genel sekreterlerin iktisadi ve idari sahada tatbiki bilgi ve tecrübe sahibi olmaları ile yabancı dil bilmeleri tercih sebebidir.
-ÜÇÜNCÜ BÖLÜM
-Denetim, Kullanılacak Defterler,
-Aidatlar ve Belge Ücretleri,

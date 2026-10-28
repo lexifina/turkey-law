@@ -4,4 +4,3 @@ Bu koşullarda hizmete istekli çıkmadığı takdirde, mahallin en büyük mül
 Hizmet sırasında hasara veya kayba uğrayacak araç ve gereçler için verilecek tazminat, görevi veren mülki makamlarca otuz gün içinde kurulacak bir kurul tarafından mahalli rayice göre saptanarak, en geç doksan gün içinde ödenir. Bu kurul; mahallin en büyük mal memuru veya görevlendireceği yetkili ile il trafik komisyonu ve ticaret odasını temsilen birer yetkiliden oluşur.
 Ödenecek miktarı yeterli bulmayan araç ve gereç sahiplerinin yargı yoluna başvurma hakları saklıdır.
 Bu maksatla gerektiğinde ilgili kamu kuruluşlarından bilirkişi yardımı istenebilir.
-7774

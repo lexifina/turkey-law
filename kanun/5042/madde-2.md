@@ -14,5 +14,4 @@ j) Bülten : Bitki Çeşitleri Bültenini,
 k) Kütük : Islahçı hakkı başvurusu ve hakkın tescili ile ilgili hususların kayıtlı olduğu sicilleri,
 l) Katalog: İlgili mevzuat çerçevesinde ticareti yapılan çeşitlerin yayımlandığı listeyi,
 m) UPOV Sözleşmesi : Yeni Bitki Çeşitlerini Koruma Uluslararası Birliği Sözleşmesini,
-İfade eder.
-8696
+ifade eder.

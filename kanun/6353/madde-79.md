@@ -1,1 +1,2 @@
-MADDE 79 – 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 30 uncu maddesinin birinci fıkrasında yer alan “eski hükümlü işçiyi” ibaresinden sonra gelmek üzere “veya 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanunu veya 16/6/1927 tarihli ve 1076 sayılı Yedek Subaylar ve Yedek Askeri Memurlar Kanunu kapsamına giren ve askerlik hizmetini yaparken 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun 21 inci maddesinde sayılan terör olaylarının sebep ve tesiri sonucu malul sayılmayacak şekilde yaralananları” ibaresi eklenmiştir.
+MADDE 75 ilâ 78 - (12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 79 – (22/5/2003 tarihli ve 4857 sayılı İş Kanunu ile ilgili olup yerine işlenmiştir.)

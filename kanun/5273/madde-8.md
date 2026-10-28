@@ -1,2 +1,1 @@
-MADDE 8 — 2.3.1984 tarihli ve 2985 sayılı Toplu Konut Kanununun 412 sayılı Kanun Hükmünde Kararname ile ilave edilen ek 1 inci maddesinin (ı) bendi aşağıdakişekilde değiştirilmiş ve bu maddeden sonra gelen ek maddeler ek 2, ek 3, ek 4, ek 5, ek 6, ek 7 ve ek 8 inci maddeler olarak teselsül ettirilmiştir.
-ı)Ferdi veya toplu konut kredisi vermek, köy mimarisinin geliştirilmesine, gecekondu alanlarının dönüşümüne, tarihi doku ve yöresel mimarinin korunup yenilenmesine yönelik uygulamalar yapmak ve bu konulardaki projeleri kredilendirmek ve gerektiğinde tüm bu kredilerde faiz sübvansiyonu yapmak,
+Madde 8-9- (2.3.1984 tarihli ve 2985 sayılı Toplu Konut Kanunu ile ilgili olup yerine işlenmiştir.)

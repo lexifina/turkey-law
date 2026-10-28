@@ -1,5 +1,8 @@
 İnfaz sırasında verilecek kararların mercii ve usulü
-Madde 101- (1) Cezanın infazı sırasında, 98 ilâ 100 üncü maddeler gereğince mahkemeden alınması gereken kararlar duruşma yapılmaksızın verilir. Karar verilmeden önce Cumhuriyet savcısı ve hükümlünün görüşlerini yazılı olarak bildirmeleri istenebilir.
-(2) 99 uncu madde gereğince cezaların toplanması gerektiğinde, bu hususta hüküm vermek yetkisi, en fazla cezaya hükmetmiş bulunan mahkemeye, bu durumda birden çok mahkeme yetkili ise son hükmü vermiş olan mahkemeye; hükümlerden biri doğrudan doğruya bölge adliye mahkemesi tarafından verilmiş ise, bölge adliye mahkemesine, Yargıtay tarafından verilmiş ise Yargıtaya aittir.
-(3) Bölge adliye mahkemesi veya Yargıtaydan başka mahkemeler tarafından verilmiş olan bu kararlara karşı itiraz yoluna gidilebilir.
-9249
+Madde 101- (1) Cezanın infazı sırasında, 98 ilâ 100 üncü maddeler gereğince mahkemeden veya infaz hâkimliğinden alınması gereken kararlar duruşma yapılmaksızın verilir. Karar verilmeden önce Cumhuriyet savcısı ve hükümlünün görüşlerini yazılı olarak bildirmeleri istenebilir.[42]
+(2) (Değişik:14/4/2020-7242/44 md.) 99 uncu madde gereğince cezaların toplanması gerektiğinde bu hususta hüküm verme yetkisi, en fazla cezaya hükmetmiş bulunan mahkemenin bulunduğu yer infaz hâkimliğine, bu durumda birden çok infaz hâkimliği yetkili ise son hükmü vermiş olan mahkemenin bulunduğu yer infaz hâkimliğine aittir. En fazla cezanın;
+a) Yargıtay tarafından ilk derece mahkemesi sıfatıyla verilmesi hâlinde Ankara infaz hâkimliğince,
+b) Bölge adliye mahkemesi tarafından ilk derece mahkemesi sıfatıyla verilmesi hâlinde bölge adliye mahkemesinin bulunduğu il infaz hâkimliğince,
+c) Bölge adliye mahkemesi tarafından duruşma açmak suretiyle verilmesi hâlinde ise hükmü kaldırılan ilk derece mahkemesinin bulunduğu yer infaz hâkimliğince,
+bu hususta karar verilir.
+(3) (Değişik:20/7/2017-7035/24 md.) Bu madde uyarınca verilen kararlara karşı itiraz yoluna gidilebilir.

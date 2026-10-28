@@ -1,3 +1,3 @@
-MADDE 17-1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununa ekli (2) sayılı tablonun “III- İşçiler, çiftçiler ve göçmenlerle ilgili kağıtlar” başlıklı bölümüne aşağıdaki fıkra eklenmiş, “IV- Ticari ve medeni işlerle ilgili kağıtlar” başlıklı bölümünün (30) numaralı fıkrasında yer alan “4077 sayılı Tüketicinin Korunması Hakkında Kanunun 10 uncu maddesi çerçevesinde tüketici finansman şirketlerince kullandırılacak tüketici kredilerinin” ibaresi
-“Finansman şirketlerince kullandırılacak kredilerin” şeklinde, (33) numaralı fıkrasında yer alan “Ekici ile alıcı arasında düzenlenen tütün alım satımı mukavelenameleri ile” ibaresi “Ekici ve alıcı arasında düzenlenen tütün alım satımı mukavelenameleri ile 5488 sayılı Tarım Kanunu çerçevesinde, üretici ve alıcı arasında düzenlenen tarımsal üretim sözleşmeleri ve” şeklinde değiştirilmiştir.
-“10. Tarımsal destekleme programları kapsamında hibe desteği sağlanması uygun görülen yatırım projelerine ilişkin olarak proje sahipleri ile Tarım ve Köyişleri Bakanlığı arasında düzenlenen kâğıtlar.”
+MADDE 3 ila 6 - (31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 7 ila 16 - (4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu ile ilgili olup yerine işlenmiştir.)
+MADDE 17- (1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)

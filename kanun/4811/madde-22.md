@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 22. - Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 22- Bu Kanun yayımı tarihinde yürürlüğe girer.

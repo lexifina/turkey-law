@@ -6,6 +6,3 @@ Bütçeye ayrıntılı harcama programları ile finansman programları eklenir.
 Bütçe yılı Devlet malî yılı ile aynıdır.
 Bütçe dışı harcama yapılamaz.
 Belediye başkanı ve harcama yetkisi verilen diğer görevliler, bütçe ödeneklerinin verimli, tutumlu ve yerinde harcanmasından sorumludur.
-–––––––––––––––––
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlülere” ibaresi “engellilere” şeklinde değiştirilmiştir.
-9492

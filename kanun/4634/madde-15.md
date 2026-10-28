@@ -1,10 +1,4 @@
 Yürütme
-MADDE 15 — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 15 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 (1) SAYILI LİSTE
-HİZMET BİRİMLERİNDE İSTİHDAM EDİLECEK PERSONELE İLİŞKİN CETVEL
-Unvan | Adet
-Genel Sekreter | 1
-Genel Sekreter Yardımcısı | 1
-Uzman | 20
-Uzman Yardımcısı | 10
-İdarî Personel | 25
+(Mülga: 20/11/2017-KHK-696/74 md.; Aynen kabul: 1/2/2018-7079/69 md.)

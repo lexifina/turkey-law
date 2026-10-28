@@ -1,1 +1,1 @@
-MADDE 20 – 2918 sayılı Kanunun ek 13 üncü maddesinin birinci fıkrasında yer alan “48 inci maddede gösterilen “alkollü araç kullanmak” suçunu birinci ve ikinci defasında işlemek,” ibaresi madde metninden çıkarılmıştır.
+MADDE 20 – 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanunu ile ilgili olup yerine işlenmiştir.

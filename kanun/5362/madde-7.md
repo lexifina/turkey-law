@@ -4,4 +4,3 @@ a) Türkiye Cumhuriyeti vatandaşı olmak veya yabancı devlet tabiiyetinde bulu
 b) Medeni hakları kullanma ehliyetine sahip olmak.
 c) Vergi mükellefi olmak ya da vergiden muaf olmak.
 d) Türkiye Odalar ve Borsalar Birliği bünyesindeki odalara kayıtlı olmamak.
-9410

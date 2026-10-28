@@ -9,7 +9,6 @@ d) (c) bendi hükmü çerçevesinde el konulan materyal ve araçlar üzerinde ke
 e) Hakka tecavüzün devamını önleyici tedbirlerin alınması; (c) bendi hükümleri çerçevesinde el konulan materyal ve araçların şekillerinin değiştirilmesi veya hakka tecavüzün önlenmesi için imhası.
 f) Hakka tecavüz eden kişi aleyhine verilen mahkeme kararının, masrafları tecavüz eden tarafından karşılanmak üzere, ilgililere tebliğ edilmesi ve kamuya ilân yoluyla duyurulması.
 Hak sahibi tarafından açılacak hukuk davalarında yetkili mahkeme, davacının ikametgâhının olduğu veya suçun işlendiği veya tecavüz fiilinin etkilerinin görüldüğü yerdeki mahkemedir.
-8715
 Davacının Türkiye'de ikamet etmemesi halinde, yetkili mahkeme Ankara'daki mahkemelerdir.
 Üçüncü kişiler tarafından başvuru sahibi veya hak sahibi aleyhine açılacak davalarda yetkili mahkeme, davalının ikametgâhının bulunduğu yerdeki mahkemedir. Başvuru veya hak sahibinin Türkiye'de ikamet etmemesi halinde bu maddenin üçüncü fıkrası hükümleri uygulanır.
 Birden fazla mahkemenin yetkili olduğu durumda, yetkili mahkeme, ilk davanın açıldığı mahkemedir.

@@ -5,4 +5,3 @@ b) Sistem işleticisinin 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu
 c) Sistem işleticisinin faaliyete başladıktan sonra bir yıl içinde altı aydan uzun süreyle faaliyette bulunmamış olması durumunda altı aylık sürenin dolduğu,
 tarihte kendiliğinden sona erer.
 (2) Birinci fıkrada düzenlenen durumların bu Kanunun 23 üncü maddesinin üçüncü fıkrası uyarınca sistem işleticisi tarafından Bankaya bildirilmesini veya bu durumların tespitini takiben Banka, faaliyet izninin sona erdiğini Resmî Gazete’de yayımlar.
-12121

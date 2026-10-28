@@ -1,3 +1,1 @@
-MADDE 102 – 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 43/A maddesinden sonra gelmek üzere aşağıdaki 43/B maddesi eklenmiştir.
-“Tüzel kişilerin bildirim yükümlülüğü
-MADDE 43/B – (1) 5411 sayılı Kanunun 3 üncü maddesinde tanımlanan; bankalara, finansal kuruluşlara veya paranın sayım ve incelemesini yaparak bankalara destek hizmeti veren kuruluşlar ile mevzuat çerçevesinde dövize ilişkin işlemler yapmasına izin verilen şirketlere, her ne amaçla olursa olsun ibraz edilen paranın sahte olduğunun anlaşılması halinde, 5237 sayılı Kanunun 278 inci maddesinde düzenlenen bildirim yükümlülüğü yerine getirilmediği takdirde, bu maddede sayılan tüzel kişilere Cumhuriyet savcısı tarafından bin Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası verilir.”
+MADDE 102 – (30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu ile ilgili olup yerine işlenmiştir.)

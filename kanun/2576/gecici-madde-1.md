@@ -6,7 +6,6 @@ c) Başbakanlık Yüksek Denetleme Kurulu üyeleri ve uzmanları,
 d) Genel ve katma bütçeli daireler genel müdürleri, genel müdür yardımcıları ve daire başkanları,
 e) Başbakanlık ve bakanlık başmüşavirleri, müşavirleri, hukuk müşavirleri, bölge ve il muhakemat müdürleri, müşavir avukatları, hazine avukatları ve kamu iktisadi teşebbüsleri hukuk müşavirleri,
 f) Sayıştay raportörleri, uzman denetçileri, başdenetçileri, denetçileri, savcı ve savcı yardımcıları,
-5461
 İle daha önce bu görevlerde bulunmuş olmak şartıyla halen bir kamu görevi yapmakta olanlar atanabilirler.
 3. Bu Kanunun yürürlüğe girdiği tarihten itibaren beş yıllık süre içinde, idari yargı hakim adaylığından atanacakların yanı sıra; vergi mahkemeleri başkan ve üyeliklerine hukuk veya hukuk bilgisine programlarında yer veren siyasal bilimler idari bilimler, iktisat ve maliye alanında yükseköğrenimlerini yapmış olmak şartıyla;
 a) Danıştay tetkik hakimleri ve Danıştay savcıları,

@@ -1,7 +1,1 @@
-Geçici Madde 3 – (Ek : 24/3/1988 - 3418/17 md.) Halen spor veya lüks otomobil olarak kabul edilen taşıtlarla ilgili uygulamaya 1.7.1988 tarihine kadar aynı şekilde devam olunur.
-–––––––––––––––––
-(1) "Motorlu taşıtlar vergisi taşıt pulu esasına göre tahsil edilen taşıtlar hariç olmak üzere noterler” ibaresi, 22/7/1998 tarihli ve 4369 sayılı Kanunun 81 inci maddesiyle “Noterler” şeklinde değiştirilmiş olup, sözkonusu değişiklik 1/1/1999 tarihinden itibaren yürürlüğe girmiştir.
-(2) 6/5/2009 tarihli ve 5897 sayılı Kanunun 2 nci maddesiyle; 13 üncü maddenin (c) bendinde yer alan “, belediye veya liman” ibaresi, (d) bendinin; birinci paragrafında yer alan “, liman ve deniz işletme bölge müdürlükleri, belediyeler veya liman başkanlıkları” ve “denize veya” ibareleri ile ikinci paragrafında yer alan “denize veya” ibaresi, 14 üncü maddesinde yer alan “, (III)” ibaresi madde metninden çıkarılmıştır.
-(3) Bu fıkrada yeralan “Taşıtlarla ilgili fenni muayene komisyonları,” ibaresi, “Taşıtlarla ilgili fenni muayene komisyonları, fenni muayene yapma yetkisi verilen gerçek ve tüzel kişiler",olarak 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle 31/7/2004 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir.
-(4) 4/6/2008 tarihli ve 5766 sayılı Kanunun 9 uncu maddesiyle; bu paragrafta yer alan "Vergisi ödenmemiş" ibaresinden sonra gelmek üzere "veya 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci madde hükmüne göre taksitlendirilmemiş" ibaresi eklenmiş ve metne işlenmiştir.
-3718-2 /3720
+Geçici Madde 3- (Ek: 24/3/1988-3418/17 md.) Halen spor veya lüks otomobil olarak kabul edilen taşıtlarla ilgili uygulamaya 1.7.1988 tarihine kadar aynı şekilde devam olunur.

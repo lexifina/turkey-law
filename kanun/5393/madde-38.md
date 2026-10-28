@@ -13,9 +13,6 @@ j) Belediye personelini atamak.
 k) Belediye ve bağlı kuruluşları ile işletmelerini denetlemek.
 l) Şartsız bağışları kabul etmek.
 m) Belde halkının huzur, esenlik, sağlık ve mutluluğu için gereken önlemleri almak.
-n) Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak, engellilere yönelik hizmetleri yürütmek ve engelliler merkezini oluşturmak. (1)
-–––––––––––––––––
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlülere” ve “özürlüler” ibareleri sırasıyla “engellilere” ve “engelliler” şeklinde değiştirilmiştir.
-9483
+n) Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak, engellilere yönelik hizmetleri yürütmek ve engelliler merkezini oluşturmak.[23]
 o) Temsil ve ağırlama giderleri için ayrılan ödeneği kullanmak.
 p) Kanunlarla belediyeye verilen ve belediye meclisi veya belediye encümeni kararını gerektirmeyen görevleri yapmak ve yetkileri kullanmak.

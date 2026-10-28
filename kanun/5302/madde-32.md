@@ -1,0 +1,2 @@
+Yetki devri
+Madde 32- Vali, görev ve yetkilerinden bir kısmını uygun gördüğü takdirde, vali yardımcılarına, yöneticilik sıfatı bulunan il özel idaresi görevlileri ile ilçelerde kaymakamlara devredebilir.[15]

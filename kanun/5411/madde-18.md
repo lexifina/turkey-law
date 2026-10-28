@@ -7,4 +7,3 @@ Nitelikli paya sahip olan ortakların kurucularda aranan nitelikleri taşıması
 Bir bankanın sermayesinin yüzde on veya daha fazlasına sahip olan tüzel kişilerin paylarının doğrudan veya dolaylı olarak birinci fıkrada belirtilen oranlar veya esaslar dahilinde el değiştirmesi, devralacak ortağın kurucularda aranan nitelikleri taşıması şartıyla Kurulun iznine tâbidir.
 Kurulun izni olmadan payların devredilmesi hâlinde, bu paylara ait temettü hariç ortaklık hakları Fon tarafından kullanılır.
 Hisseleri borsada işlem gören bankaların hisselerinin borsadan alınması ve bir bankanın hisselerinin 2004 sayılı İcra ve İflas Kanunu hükümlerine göre icra dairesinden satın alınması durumunda gerçekleştirilecek işlemlere ve bu maddenin uygulanmasına dair usûl ve esaslar Kurulca belirlenir.
-9545

@@ -1,2 +1,2 @@
 Kamu görevlisi
-MADDE 44 — (1) Bu Kanun kapsamına giren görevlerle bağlantılı olarak kamu görevlileri hakkında 2.12.1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanmaz.
+Madde 44- (1) Bu Kanun kapsamına giren görevlerle bağlantılı olarak kamu görevlileri hakkında 2.12.1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanmaz.

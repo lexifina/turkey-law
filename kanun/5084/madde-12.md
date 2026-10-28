@@ -1,2 +1,2 @@
 Yürütme
-MADDE 12 — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 12- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

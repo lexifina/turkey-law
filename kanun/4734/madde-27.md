@@ -20,7 +20,6 @@ p) Bütün tekliflerin reddedilmesi ve ihalenin iptal edilmesinde idarenin serbe
 r) İhale konusu işin başlama ve bitirme tarihi, yapılma yeri, teslim şartları ve gecikme halinde alınacak cezalar.
 s) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği, verilecekse şartları ve miktarı ile sözleşme konusu işler için eğer ödenecekse fiyat farkının ne şekilde ödeneceği.
 t) (Değişik: 30/7/2003-4964/18 md.) Süre uzatımı verilebilecek haller ve şartları ile sözleşme kapsamında yaptırılabilecek iş artışları ile iş eksilişi durumunda karşılıklı yükümlülükler.
-8241
 u) Vergi, resim ve harçlar ile sözleşme ile ilgili diğer giderlerin kimin tarafından ödeneceği.
 v) Yapım işlerinde iş ve işyerinin sigortalanması ile yapı denetimi ve sorumluluğuna ilişkin şartlar.
 y) Denetim, muayene ve kabul işlemlerine ilişkin şartlar.

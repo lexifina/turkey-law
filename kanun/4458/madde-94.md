@@ -3,4 +3,4 @@ a) Genel Antrepolar, eşyanın konulması için herkes tarafından kullanılabil
 b) Özel Antrepolar, yalnız antrepo işleticisine ait eşyanın konulması amacıyla kurulan;
 Gümrük antrepolarıdır.
 2. Parlayıcı ve patlayıcı veya bir arada bulundukları eşya için tehlikeli olan veya korunmaları özel düzenek ve yapılara gerek gösteren eşya, ancak bu niteliklerine uygun genel veya özel antrepolara konulabilir. Bu tür eşya bir liste halinde yönetmelikle belirlenir.
-3. Serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler de (…)(1) antrepo sayılır.(1)
+3. Serbest dolaşımda olmayan eşyanın sergilendiği fuar ve sergiler de (…)[60] antrepo sayılır.

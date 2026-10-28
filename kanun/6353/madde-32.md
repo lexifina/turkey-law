@@ -1,2 +1,1 @@
-MADDE 32 – 25/5/2005 tarihli ve 5352 sayılı Adli Sicil Kanununun 13 üncü maddesine aşağıdaki fıkra eklenmiştir.
-“(2) Kamu kurum ve kuruluşları, mevzuatın adli sicil ve arşiv kaydı alınmasını öngördüğü hallerde, Adalet Bakanlığının belirleyeceği usul ve esaslar çerçevesinde ilgili kişiler hakkında adli sicil ve arşiv kayıtlarında sorgulama yapabilirler. Gerçek kişiler de kendileriyle ilgili adli sicil ve arşiv kayıtlarını, Adalet Bakanlığının belirleyeceği usul ve esaslar çerçevesinde ve güvenli kimlik doğrulama araçlarını kullanarak sorgulayabilir, sonucu fiziki veya elektronik ortamda merciine verebilirler.”
+MADDE 32 – 33 - (25/5/2005 tarihli ve 5352 sayılı Adli Sicil Kanun ile ilgili olup yerine işlenmiştir.)

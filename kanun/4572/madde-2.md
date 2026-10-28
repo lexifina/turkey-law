@@ -5,5 +5,4 @@ b) Ortak: Kooperatifler açısından üretici ortaklarını, birlikler açısın
 c) Kooperatif: Tarım satış kooperatiflerini,
 d) Birlik: Tarım satış kooperatifleri birliklerini,
 e) (Mülga: 28/3/2013-6455/30 md.)
-İfade eder.
-7810
+ifade eder.

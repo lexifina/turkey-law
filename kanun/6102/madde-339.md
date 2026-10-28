@@ -1,4 +1,4 @@
-MADDE 339- (1) Esas sözleşmenin yazılı şekilde yapılması ve bütün kurucuların imzalarının noterce onaylanması şarttır.
+MADDE 339- (1) Esas sözleşmenin yazılı şekilde yapılması ve bütün kurucuların imzalarının noterce onaylanması veya esas sözleşmenin ticaret sicili müdürü yahut yardımcısı huzurunda imzalanması şarttır.[46]
 (2) Esas sözleşmeye aşağıdaki hususlar yazılır:
 a) Şirketin ticaret unvanı ve merkezinin bulunacağı yer.
 b) Esaslı noktaları belirtilmiş ve tanımlanmış bir şekilde şirketin işletme konusu.

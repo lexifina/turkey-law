@@ -5,7 +5,6 @@ a) Dürüstlük kuralına aykırı reklamlar ve satış yöntemleri ile diğer h
 2. Kendisi, ticari işletmesi, işletme işaretleri, malları, iş ürünleri, faaliyetleri, fiyatları, stokları, satış kampanyalarının biçimi ve iş ilişkileri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunmak veya aynı yollarla üçüncü kişiyi rekabette öne geçirmek,
 3. Paye, diploma veya ödül almadığı hâlde bunlara sahipmişçesine hareket ederek müstesna yeteneğe malik bulunduğu zannını uyandırmaya çalışmak veya buna elverişli doğru olmayan meslek adları ve sembolleri kullanmak,
 4. Başkasının malları, iş ürünleri, faaliyetleri veya işleri ile karıştırılmaya yol açan önlemler almak,
-10987
 5. Kendisini, mallarını, iş ürünlerini, faaliyetlerini, fiyatlarını, gerçeğe aykırı, yanıltıcı, rakibini gereksiz yere kötüleyici veya gereksiz yere onun tanınmışlığından yararlanacak şekilde; başkaları, malları, iş ürünleri veya fiyatlarıyla karşılaştırmak ya da üçüncü kişiyi benzer yollardan öne geçirmek,
 6. Seçilmiş bazı malları, iş ürünlerini veya faaliyetleri birden çok kere tedarik fiyatının altında satışa sunmak, bu sunumları reklamlarında özellikle vurgulamak ve bu şekilde müşterilerini, kendisinin veya rakiplerinin yeteneği hakkında yanıltmak; şu kadar ki, satış fiyatının, aynı çeşit malların, iş ürünlerinin veya faaliyetlerinin benzer hacimde alımında uygulanan tedarik fiyatının altında olması hâlinde yanıltmanın varlığı karine olarak kabul olunur; davalı, gerçek tedarik fiyatını ispatladığı takdirde bu fiyat değerlendirmeye esas olur,
 7. Müşteriyi ek edimlerle sunumun gerçek değeri hakkında yanıltmak,
@@ -23,7 +22,6 @@ c) Başkalarının iş ürünlerinden yetkisiz yararlanma; özellikle;
 1. Kendisine emanet edilmiş teklif, hesap veya plan gibi bir iş ürününden yetkisiz yararlanmak,
 2. Üçüncü kişilere ait teklif, hesap veya plan gibi bir iş ürününden, bunların kendisine yetkisiz olarak tevdi edilmiş veya sağlanmış olduğunun bilinmesi gerektiği hâlde, yararlanmak,
 3. Kendisinin uygun bir katkısı olmaksızın başkasına ait pazarlanmaya hazır çalışma ürünlerini teknik çoğaltma yöntemleriyle devralıp onlardan yararlanmak.
-10988
 d) Üretim ve iş sırlarını hukuka aykırı olarak ifşa etmek; özellikle, gizlice ve izinsiz olarak ele geçirdiği veya başkaca hukuka aykırı bir şekilde öğrendiği bilgileri ve üretenin iş sırlarını değerlendiren veya başkalarına bildiren dürüstlüğe aykırı davranmış olur.
 e) İş şartlarına uymamak; özellikle kanun veya sözleşmeyle, rakiplere de yüklenmiş olan veya bir meslek dalında veya çevrede olağan olan iş şartlarına uymayanlar dürüstlüğe aykırı davranmış olur.
 f) Dürüstlük kuralına aykırı işlem şartları kullanmak. Özellikle yanıltıcı bir şekilde diğer taraf aleyhine;

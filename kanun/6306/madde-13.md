@@ -1,2 +1,1 @@
-MADDE 13 – 2/3/1984 tarihli ve 2985 sayılı Toplu Konut Kanununun 2 nci maddesinin birinci fıkrasına (f) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut (g) bendi (h) bendi olarak teselsül ettirilmiştir.
-“g) Ek 1 inci maddenin birinci fıkrasının (m) bendi kapsamında; talep edilen proje ve uygulamaların İdarece yapılması veya yaptırılması için imzalanan protokollerle belirlenen inşaat bedelinin yüzde üçünden az, yüzde onundan fazla olmamak üzere, ilgili kurum ve kuruluşlardan alınacak olan idare hizmet payı tutarlarından,”
+MADDE 13- (2/3/1984 tarihli ve 2985 sayılı Toplu Konut Kanunu ile ilgili olup yerine işlenmiştir.)

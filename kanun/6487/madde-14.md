@@ -1,1 +1,1 @@
-MADDE 14 – 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun 20 nci maddesinin (3) numaralı fıkrasında yer alan “Belediye Meclislerince takdir edilecek miktardır.” ibaresi, “bu Kanunun 96 ncı maddesine göre tespit edilen miktardır.” şeklinde değiştirilmiştir.
+MADDE 14 – 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanunu ile ilgili olup yerine işlenmiştir.

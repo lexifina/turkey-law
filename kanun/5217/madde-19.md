@@ -1,1 +1,1 @@
-MADDE 19 — 9.6.1958 tarihli ve 7126 sayılı Kanunun 36 ncı maddesi aşağıdaki şekilde değiştirilmiş ve 38 inci maddesinde geçen "ve/veya özel olarak kaydedilen tutarlardan" ibaresi madde metninden çıkarılmıştır.
+Madde 19- (9.6.1958 tarihli ve 7126 sayılı Kanun ile ilgili olup yerine işlenmiştir.)

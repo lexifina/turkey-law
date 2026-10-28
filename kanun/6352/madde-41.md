@@ -1,1 +1,1 @@
-MADDE 41 – 15/7/1950 tarihli ve 5683 sayılı Yabancıların Türkiye’de İkamet ve Seyahatleri Hakkında Kanunun 25 inci maddesinin birinci fıkrasında yer alan “bir aydan iki seneye kadar hapis cezasiyle” ibaresi “mülki amir tarafından beşyüz Türk Lirasından üçbin Türk Lirasına kadar idarî para cezasıyla” şeklinde değiştirilmiştir.
+MADDE 41 – 42 - (15/7/1950 tarihli ve 5683 sayılı Yabancıların Türkiye’de İkamet ve Seyahatleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)

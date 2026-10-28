@@ -1,5 +1,5 @@
 Oda, borsa ve Birlik organları seçimlerine katılma nitelikleri
-Madde 83- Oda veya borsaya kayıtlı, onsekiz yaşını bitirmiş gerçek kişilerle, tüzel kişilerin tescilli ana sözleşmelerinde temsil ve bağlayıcı işlemler yapma yetkisi verilen gerçek kişi temsilcileri, bu Kanun hükümlerine göre oda, borsa ve Birlik organlarının seçimlerinde oy kullanabilirler.
+Madde 83- Seçim tarihi itibarıyla en az iki yıldır oda veya borsaya kayıtlı, onsekiz yaşını bitirmiş gerçek kişilerle, tüzel kişilerin tescilli ana sözleşmelerinde temsil ve bağlayıcı işlemler yapma yetkisi verilen gerçek kişi temsilcileri, bu Kanun hükümlerine göre oda, borsa ve Birlik organlarının seçimlerinde oy kullanabilirler.[18]
 Oda, borsa ve Birlik organlarına seçilebilmek için;
 a) Yeni kurulan oda ve borsalar hariç en az iki yıldır oda ve borsaya kayıtlı olmak,
 b) Seçim tarihinde yirmibeş yaşını doldurmuş olmak,
@@ -10,7 +10,6 @@ f) Ticarî ve sınaî kazanç dolayısıyla gelir veya kurumlar vergisi mükelle
 g) Okur-yazar olmak,
 Şartlarını haiz olanlar aday olabilir.
 Yerli ve yabancı tüzel kişilerin tescilli ana sözleşmelerinde temsil ve bağlayıcı işlemler yapma yetkisi verilen ve yukarıdaki özellikleri taşıyan gerçek kişi temsilcileri, bu Kanun hükümlerine göre oda, borsa ve Birlik organlarına seçilebilirler.
-8807
 (Değişik dördüncü fıkra: 28/3/2013-6455/48 md.) Seçilme yeterliliği bulunmadığı sonradan anlaşılanlar ile seçilme yeterliliğini kaybedenlerin oda, borsa ve Birlik organlarındaki görevleri sona erer.
 Organların seçimlerine katılma niteliklerine ilişkin diğer hususlar Birlikçe hazırlanacak yönetmelikle düzenlenir.
 (Değişik altıncı fıkra: 28/3/2013-6455/48 md.) Oda ve borsalarda seçilme hakkının kullanılabilmesi için; ticaret şirketlerinde gerçek kişi temsilcinin şirketin ortağı ve/veya yöneticisi, gerçek kişiler ve ticaret şirketleri dışındaki tüzel kişilere ait ticari işletmelerde ise işletmenin sahibi veya temsilcisi olması ve şirketi ya da işletmeyi temsil ile bağlayıcı işlem yapmaya yetkili bulunması, bu durumun seçimden en az altı ay öncesini kapsaması şarttır. Bu fıkra kapsamında belirtilen şartlar şubeleri temsile yetkili kılınanlar için de aranır.

@@ -3,6 +3,5 @@ Temerrüt tarihindeki ana para borcu kart çıkaran kuruluş tarafından kart ha
 Kredi kartı borçlusunun bu maddenin birinci fıkrasına uygun olarak alacaklıya müracaat etmesi ve yapılan ödeme plânı doğrultusunda taksit tutarlarını ödemesi şartıyla, halihazırda yapılmış işlemler baki kalmak kaydıyla icra işlemleri durur, İcra ve İflas Kanununda belirtilen süreler işlemez.
 Kredi kartı borçlusu bu ödeme plânına karşı ancak, plân doğrultusunda ödeme yapmak ve ödemelere devam etmek koşulu ile itiraz yoluna başvurabilir.
 İşbu geçici madde kapsamında yeniden yapılandırılan borçlarda, borçlunun yapılandırma öncesi dönemde borca vaki itirazları ortadan kalkar. Ödeme plânı uyarınca son taksitin de vadesinde ödenmesi üzerine icra takibi sona erer.
-9718
 Taksitlerden herhangi birinin vadesinde ödenmemesi halinde bu madde ile sağlanan haklar ortadan kalkar ve bu Kanunun 26 ncı maddesinde belirtilen gecikme faizi üzerinden mevcut icra takip işlemlerine devam edilir.
 İşbu geçici madde Kanunun yürürlüğe giriş tarihinden önce yapılmış ödemeleri geri isteme hakkı vermez.

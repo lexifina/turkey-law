@@ -7,4 +7,3 @@ c) Bulunduğu kurumun başka bir kısmına nakletmek.
 d) Meslek eğitiminin bütünlüğünü ve sürekliliğini bozmayacak şekilde çalıştığı işyerini veya atölyeyi değiştirmek.
 e) Belli yerlere girmesini yasaklamak.
 f) Bazı eşyaları bulundurmasını veya kullanmasını yasaklamak.
-9232

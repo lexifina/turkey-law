@@ -4,7 +4,6 @@ a) Duyularından veya organlarından birinin işlevinin sürekli zayıflamasına
 b) Konuşmasında sürekli zorluğa,
 c) Yüzünde sabit ize,
 d) Yaşamını tehlikeye sokan bir duruma,
-8992
 e) Gebe bir kadına karşı işlenip de çocuğunun vaktinden önce doğmasına,
 Neden olmuşsa, yukarıdaki maddeye göre belirlenen ceza, yarı oranında artırılır.
 (2) İşkence fiilleri, mağdurun;

@@ -1,2 +1,2 @@
 Bedelsiz yatırım yeri tahsisi
-MADDE 5 — (Mülga: 18/2/2009-5838/32 md.)
+Madde 5 - (Mülga: 18/2/2009-5838/32 md.)

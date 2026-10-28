@@ -1,2 +1,1 @@
-MADDE 3 — 28.3.2002 tarihli ve 4749 sayılı Kanunun 14 üncü maddesinin onbeşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-Müsteşarlıkça yabancı ülkelere, bu ülkelerdeki kurum ve kuruluşlar ile uluslararası kuruluşlara sağlanan danışmanlık hizmetlerinden elde edilecek gelirlerle, yasal hakları Müsteşarlığa ait olup da yabancı ülkelere, bu ülkelerdeki kurum ve kuruluşlarla uluslararası kuruluşlara ücreti karşılığında kullandırılan ve/veya satılan yazılım ve benzeri varlıklardan elde edilecek gelirler bütçeye gelir kaydedilir.
+Madde 3- (28.3.2002 tarihli ve 4749 sayılı Kanun ile ilgili olup yerine işlenmiştir.)

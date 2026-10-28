@@ -7,5 +7,4 @@ Yürürlükteki işletme ruhsatları ve işletme imtiyaz sahipleri projelerini s
 Süresi içinde tadilat yapmayan, vecibelerini yerine getirmeyen ruhsatlar feshedilir.
 Yanıltıcı, eksik, yanlış beyanda bulunanlar hakkında 10 uncu madde hükümleri uygulanır.
 Bu madde gereği feshedilen ruhsatlarla ilgili alanlar, başka ruhsat yok ise otomatik olarak aramalara açılır.
-6742-2
-O ruhsat sahasında değişik kişilere ait başka ruhsat alanları varsa ruhsat sahipleri de aralarında anlaşamazlarsa (...) (1) en büyük hibeyi yapan, o madenin kendi ruhsatı içinde kalan kısmının, ruhsat şümulüne alınmasına hak kazanır. Teklif ruhsat sahiplerinin anında ilgili dairede karşılıklı beyanı ve açık artırma şeklinde yapılır.
+O ruhsat sahasında değişik kişilere ait başka ruhsat alanları varsa ruhsat sahipleri de aralarında anlaşamazlarsa (...)[93] en büyük hibeyi yapan, o madenin kendi ruhsatı içinde kalan kısmının, ruhsat şümulüne alınmasına hak kazanır. Teklif ruhsat sahiplerinin anında ilgili dairede karşılıklı beyanı ve açık artırma şeklinde yapılır.

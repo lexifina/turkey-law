@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 14 — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 14 – Bu Kanun yayımı tarihinde yürürlüğe girer.

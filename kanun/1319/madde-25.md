@@ -1,3 +1,2 @@
 Köylerde yapılacak beyan:
-Madde 25 – (Mülga : 7/3/2002-4746/7 md.)
-4697
+Madde 25 – (Mülga: 7/3/2002-4746/7 md.)

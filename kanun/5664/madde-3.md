@@ -2,7 +2,6 @@ Hak sahiplerinin belirlenmesi
 MADDE 3 – (1) Mülga 3320 sayılı Kanunun 4 üncü maddesi uyarınca konut edindirme yardımı hesaplarını tahakkuk ettirmek ve Türkiye Emlak Bankası Anonim Şirketine devretmekle yükümlü olup, ilgili mevzuatı uyarınca bu Kanuna ekli (1) sayılı cetveli daha önce gönderen kurumlar dışındaki tüm kurum ve kuruluşlar;
 a) Konut edindirme yardımı Türkiye Emlak Bankası Anonim Şirketine aktarılmış olan hak sahiplerinin isimleri ve yardım tutarlarının yer aldığı listeleri,
 b) Konut edindirme yardım tutarı tahsil edilmiş, ancak Türkiye Emlak Bankası Anonim Şirketine aktarılmamış olan hak sahiplerinin isimleri ile yardım tutarlarının yer aldığı listeleri,
-10114
 her hak sahibi için bu Kanuna ekli (1) sayılı cetvele uygun şekilde ve elektronik ortamda kayıtlı olarak 6 ay içinde Bankaya teslim eder. Bakanlar Kurulu bu süreyi bir defaya mahsus olmak üzere 3 aya kadar uzatmaya yetkilidir.
 (2) Bu süre içinde hak sahiplerine ilişkin listelerin bildirilmemesi, mükerrer veya yanlış bildirilmesi halinde hak sahiplerine karşı sorumluluk ilgili kurum veya kuruluşlara aittir.
 (3) Kurumlar bu maddenin birinci fıkrasının (a) bendinde belirtilen listelerdeki tutarlarla bu tutarların ilgili bankaya yatırıldığına ilişkin dekontların mutabakatını yapmak ve dekontları gerektiğinde ibraz etmek üzere muhafaza etmekle yükümlüdür.

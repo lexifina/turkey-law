@@ -7,7 +7,6 @@ d) Taksirli suçlar hariç olmak üzere affa uğramış olsalar bile mülga 765 
 e) Gerekli malî güç ve itibara sahip bulunması,
 f) İşin gerektirdiği dürüstlük ve yeterliliğe sahip olması,
 g) Tüzel kişi olması hâlinde, risk grubu ile birlikte ortaklık yapısının şeffaf ve açık olması,
-Şarttır.
-9542
+şarttır.
 Bankaların tüzel kişi kurucu ortaklarının doğrudan veya dolaylı olarak nitelikli paya sahip gerçek kişi ortaklarının bu maddenin birinci fıkrasının (a), (b), (c), (d), (e) ve (f) bentlerinde yer alan şartları taşıması gerekir.
 Türkiye'nin taraf olduğu uluslararası anlaşmalarla kurulmuş çok taraflı kredi kuruluşları ve finansal kuruluşlar hakkında bu maddenin birinci fıkrasının (b) ve (c) bentleri uygulanmaz.

@@ -5,7 +5,6 @@ MADDE 153- Aşağıdaki durumlarda zamanaşımı işlemeye başlamaz, başlamı�
 3. Evlilik devam ettiği sürece, eşlerin diğerinden olan alacakları için.
 4. Hizmet ilişkisi süresince, ev hizmetlilerinin onları çalıştıranlardan olan alacakları için.
 5. Borçlu, alacak üzerinde intifa hakkına sahip olduğu sürece.
-10782
 6. Alacağı, Türk mahkemelerinde ileri sürme imkânının bulunmadığı sürece.
 7. Alacaklı ve borçlu sıfatının aynı kişide birleşmesinde, birleşmenin ileride geçmişe etkili olarak ortadan kalkması durumunda, bu durumun ortaya çıkmasına kadar geçecek sürece.
 Zamanaşımını durduran sebeplerin ortadan kalktığı günün bitiminde zamanaşımı işlemeye başlar veya durmadan önce başlamış olan işlemesini sürdürür.

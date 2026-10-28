@@ -6,4 +6,3 @@ Genel Kurul, delegelerin tamsayısının salt çoğunluğu ile toplanır. İlk t
 Genel Kurul toplantıları ilanda belirtilen gün, yer ve saatte yapılır. Delegeler Merkez Yönetim Kurulunca düzenlenen listedeki adları karşısına imza koyarak toplantı yerine girerler. Toplantı Merkez Yönetim Kurulu Başkanı veya görevlendireceği bir Kurul üyesi tarafından açıldıktan sonra toplantıyı yönetmek üzere bir Divan Başkanı, bir Başkanvekili ve iki katip üye seçilir.
 Genel Kurul toplantılarında önceden bildirilen gündemdeki konular görüşülür. Ancak Birlik Genel Kurulu delegelerinin beşte ikisinin imzası ile teklif edilen konular da gündeme ilave edilir. Toplantıda hazır bulunan delegelerin beşte birinin imzası ile de gündeme yeni madde ilavesi teklif edilebilir.
 Genel Kurul toplantılarında hazır bulunanların salt çoğunluğu ile karar verilir. Toplantıyı Divan Başkanı yönetir, katipler toplantı tutanağını düzenler ve Başkanla birlikte imzalar.
-6762

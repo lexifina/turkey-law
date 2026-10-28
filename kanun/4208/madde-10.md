@@ -7,5 +7,4 @@ d) Kontrollü teslimat uygulamaya yeterli zamanın bulunması,
 e) Türkiye'de hazırlanarak yurtdışına götürülecek veya transit geçecek her türlü kaçak mal veya fonlar için ayrıca;
 1. Kontrollü teslimat yönteminin boşluksuz işleyeceği ve failler hakkında kovuşturma ve soruşturma açılacağının talep eden Devlet tarafından garanti edilmesi,
 2. Kontrollü teslimat uygulamasının sona erdiği, Türk vatandaşlarının yakalandığı ülke devleti tarafından Türk vatandaşları ile kontrollü teslimata konu mal veya fonlar ile bunların naklinde kullanılan araçlar ile karaparanın iadesi hususunun taahhüt edilmiş olması,
-Zorunludur.
-7537
+zorunludur.

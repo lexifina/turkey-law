@@ -13,5 +13,5 @@ j) Birleşmenin, birleşmeye katılan şirketlerin alacaklıları üzerindeki et
 k) Gerekiyorsa, ilgili makamlardan alınan onaylar,
 hukuki ve ekonomik yönden açıklanır ve gerekçeleri belirtilir.
 (3) Yeni kuruluş yoluyla birleşmede birleşme raporuna yeni şirketin sözleşmesinin de eklenmesi şarttır.
-(4) Tüm ortakların onaylaması hâlinde, küçük ve orta ölçekli şirketler birleşme raporunun düzenlenmesinden vazgeçebilirler. (1)
+(4) Tüm ortakların onaylaması hâlinde, küçük ve orta ölçekli şirketler birleşme raporunun düzenlenmesinden vazgeçebilirler.[27]
 c) Birleşme sözleşmesinin ve birleşme raporunun denetlenmesi

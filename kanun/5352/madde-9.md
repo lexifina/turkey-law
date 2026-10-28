@@ -1,5 +1,5 @@
 Adlî sicil bilgilerinin silinmesi
-MADDE 9. — (1) Adlî sicildeki bilgiler;
+Madde 9- (1) Adlî sicildeki bilgiler;
 a) Cezanın veya güvenlik tedbirinin infazının tamamlanması,
 b) Ceza mahkûmiyetini bütün sonuçlarıyla ortadan kaldıran şikayetten vazgeçme veya etkin pişmanlık,
 c) Ceza zamanaşımının dolması,

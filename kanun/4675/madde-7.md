@@ -1,4 +1,1 @@
-MADDE 7 — Ceza Muhakemeleri Usulü Kanununun 116 ncı maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-Yukarıda belirtilen disiplin cezaları ve tedbirlere dair kararlar, ilgili kurul veya memurlar tarafından alınır ve infaz hâkiminin onayına sunulur. Kararlar infaz hâkiminin onayından sonra uygulanır. Acil hallerde bu kararlar, ilgili kurul veya memurlar tarafından alınarak uygulamaya konulur ve derhal infaz hâkiminin onayına sunulur.
-GEÇİCİMADDE 1 — Bu Kanunun yürürlüğe girdiği tarihten itibaren iş ve kadro durumu dikkate alınarak, 2 nci madde hükümlerine göre Adalet Bakanlığınca kurulacak infaz hâkimliklerine Hâkimler ve Savcılar Yüksek Kurulunca atama yapılır. Bu atamalar yapılıncaya kadar Hâkimler ve Savcılar Yüksek Kurulunca yetki ile görevlendirme yapılır.
-Bu Kanunun yürürlüğe girdiği tarihten sonra yapılan işlem veya faaliyetlere karşı ilgili infaz hâkimliğine şikâyet yoluyla başvurulabilir.
+Madde 7 – (Ceza Muhakemeleri Usulü Kanununun 116 ncı maddesi ile ilgili olup yerine işlenmiştir.)

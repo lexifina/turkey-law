@@ -1,2 +1,1 @@
-MADDE 52- 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 21/1/2010 tarihli ve 5947 sayılı Kanunla değişik 58 inci maddesinin (g) fıkrasına ikinci paragraf olarak aşağıdaki paragraf eklenmiştir.
-“Bu madde uyarınca 2914 sayılı Kanuna tabi personele yapılan ödemeler, (c) ve (f) fıkraları kapsamında bulunanlar haricindeki personel açısından, 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesinin üçüncü fıkrasının uygulanmasında dikkate alınmaz.”
+MADDE 52- (4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu ile ilgili olup yerine işlenmiştir.)

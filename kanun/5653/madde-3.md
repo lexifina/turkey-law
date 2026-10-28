@@ -13,4 +13,3 @@ g) Türk dilinin, kültürünün ve sanatının tanıtımına ilişkin yarışma
 ğ) Kültür Merkezlerinin kurulmadığı yerlerde bu Kanunun amaçlarının gerçekleşmesi için yurt dışında faaliyet gösteren diğer kamu kurum ve kuruluşları ile birlikte çalışmalar yürütmek.
 (2) Vakıf tarafından yurt dışında Kültür Merkezi açılan şehirlerde diğer kamu kurum ve kuruluşları aynı amaçla başka birimler oluşturamaz.
 (3) Vakfın yurt dışındaki ilişkileri bakımından 8/6/1984 tarihli ve 227 sayılı Vakıflar Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin ek 3 üncü maddesi uyarınca Dışişleri Bakanlığının uygun görüşü yeterli sayılır, İçişleri Bakanlığının izni aranmaz.
-10096-1

@@ -1,2 +1,0 @@
-MADDE 35-4706 sayılı Kanunun geçici 4 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-“Bu madde kapsamında Hazine adına tescil edilen taşınmazlar, büyükşehirlerde öncelikle büyükşehir belediyelerine, büyükşehir belediyelerinin talebinin olmaması halinde ilgili belediyelere, diğer yerlerde ilgili belediyelere bedelsiz olarak devredilir. Bu taşınmazların yapı sahiplerine satışı ve genel hükümlere göre değerlendirilmesi bu Kanunun 5 inci maddesine göre yapılır.”

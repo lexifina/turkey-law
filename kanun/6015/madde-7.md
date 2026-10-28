@@ -13,5 +13,4 @@ b) Uygun devlet desteği olmadığına,
 c) Desteği veren tarafından bazı düzenlemeler yapılması halinde uygun devlet desteği haline geleceğine veya devlet desteği olma özelliğini yitireceğine,
 ç) Şarta bağlı olarak uygulanmasına,
 karar verebilir.
-10667
 (6) Bu kararlardan birinin alınması üzerine inceleme sona erdirilir ve karar, desteği verene bildirilir. Desteği veren, Kurul kararı doğrultusunda işlem yapmakla yükümlüdür.

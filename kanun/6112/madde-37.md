@@ -10,7 +10,6 @@ f) Türkiye Cumhuriyeti topraklarında yerleşik olmayan, ancak Türkiye Cumhuri
 g) Yayın hizmetlerinin izlenmesi ve denetlenmesi için gerekli izleme ve kayıt sistemlerini, gerekli hâllerde yayıncı kuruluş stüdyolarına da cihaz yerleştirerek kurmak.
 ğ) Medya hizmet sağlayıcılarının yayın hizmetlerinde yer verecekleri koruyucu sembol sistemi ile ilgili usul ve esasları belirlemek.
 h) Medya hizmet sağlayıcılarının sunduğu yayın hizmetlerinde ve platform, multipleks, altyapı işletmecileri ile verici tesis ve işletim şirketinin sunduğu hizmetlerde bu Kanuna ve ilgili diğer mevzuata aykırılık tespit edilmesi veya yayın lisansı şartlarına uyulmaması hâlinde gerekli müeyyideleri uygulamak.
-11401
 ı) Yayın hizmetlerine ilişkin kamuoyu araştırmaları yapmak veya yaptırmak ve bu araştırmaların sonuçlarını ilgili taraflar ve kamuoyuyla paylaşmak.
 i) Yayın hizmetlerinin izlenme ve dinlenme oranı ölçümlerinin yapılmasına ve denetlenmesine ilişkin usul ve esaslar ile bu usul ve esaslara uymayan şirket ve kuruluşlara uygulanacak müeyyideleri belirlemek.
 j) 5809 sayılı Elektronik Haberleşme Kanunu ve ilgili mevzuat hükümleri saklı kalmak kaydıyla ve bireysel amaçlı iletişim yöntemleri hariç, teknolojik gelişmelere bağlı olarak ortaya çıkan yeni yayın iletim yöntemleri de dâhil olmak üzere yayın hizmetleri ile ilgili düzenlemeler yapmak ve deneme yayını izni vermek.
@@ -19,7 +18,7 @@ l) Yayın hizmetleri alanında hazırlanan mevzuat taslakları hakkında görü�
 m) Görev alanına giren konularla ilgili ikincil düzenlemeleri yapmak.
 n) Dışişleri Bakanlığının ve Bilgi Teknolojileri ve İletişim Kurumunun görev ve yetkileri saklı kalmak kaydıyla, yayın hizmetleri ile ilgili uluslararası hukuk tüzel kişiliğine sahip kuruluşlar nezdinde ülkemizi temsil etmek; medya hizmet sağlayıcılarının üye olmadığı uluslararası hukuk tüzel kişiliğine sahip olmayan uluslararası kuruluşlarda temsil görevini yerine getirmek ve bu bent gereğince düzenlenen ve uluslararası andlaşma niteliği bulunmayan belgeleri ilgili bakanlık ve kurumların görüşlerini de alarak usulüne göre imzalamak.
 o) Üst Kurulun stratejik planını hazırlamak, performans ölçütlerini, amaç ve hedeflerini, hizmet kalite standartlarını belirlemek, insan kaynakları ve çalışma politikalarını oluşturmak.
-ö) Özürlülerin ve yaşlıların yayın hizmetlerine ve yeni teknolojilere erişimini kolaylaştırmak amacıyla gerekli tedbirlerin alınmasını teşvik etmek.
+ö) Engellilerin ve yaşlıların yayın hizmetlerine ve yeni teknolojilere erişimini kolaylaştırmak amacıyla gerekli tedbirlerin alınmasını teşvik etmek.[20]
 p) Taşınmaz alımı, satımı, kiralanması ve tahsisi konularını karara bağlamak.
 r) Medya okuryazarlığının toplumun tüm kesimlerini içerecek şekilde yaygınlaştırılması amacıyla, başta Millî Eğitim Bakanlığı olmak üzere diğer kamu kurumları ile işbirliği yapmak.
 s) Medya hizmet sağlayıcılardan görevleri kapsamında her türlü bilgi, belge ve kayıtları almak, medya hizmet sağlayıcıları yerinde denetlemek ve lisans şartlarına uymayan cihazları mühürleyerek kapatmak.
@@ -27,6 +26,6 @@ s) Medya hizmet sağlayıcılardan görevleri kapsamında her türlü bilgi, bel
 t) Türkiye Radyo-Televizyon Kurumu Genel Müdürlüğü ve Yönetim Kurulu üyeliği için adayları belirlemek.
 u) Kurul üyeleri ile Kurum personelinin uyacakları meslekî ve etik ilkeleri belirlemek.
 ü) Üst Kurulun ana stratejisi ile amaç ve hedeflerine uygun olarak hazırlanan bütçesini görüşmek ve karara bağlamak.
-11402
 v) Seferberlik ve savaş ilânı hallerinde görev ve yükümlülükleri yerine getirmek için ihtiyaç duyulan hususları, Milli Savunma Bakanlığı ile koordineli olarak çıkarılacak bir yönetmelikle belirleyerek yayıncı kuruluşlara bildirmek ve bunları denetlemek.
-y) Mevzuatla verilen diğer görevleri yapmak.
+y) (Ek: 17/4/2017-KHK-690/62 md.; Aynen kabul: 1/2/2018-7077/52 md.) Yayın hizmetlerinde ailenin ve çocukların korunması ilkesini gözeterek, ailenin bütünlüğü ve sürekliliği ile çocuk ve gençlerin fiziksel, zihinsel ve ahlaki gelişimlerini destekleyecek nitelikteki aile ve çocuk dostu yapım ve dizileri, Üst Kurulca bir önceki yılda uygulanan idari para cezalarının yüzde yirmisini aşmamak kaydıyla, Aile ve Sosyal Politikalar Bakanlığı ile birlikte belirlenecek usul ve esaslara göre teşvik etmek.[21]
+z) Mevzuatla verilen diğer görevleri yapmak.

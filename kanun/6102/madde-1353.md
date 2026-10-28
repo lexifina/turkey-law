@@ -3,7 +3,6 @@ MADDE 1353- (1) Deniz alacaklarının teminat altına alınması için, geminin 
 (3) Deniz alacaklarından başka alacaklar için gemi hakkında ihtiyati haciz kararı verilemez.
 (4) Alacağın, 1352 nci maddede sayılan bir deniz alacağı olması, ihtiyati haciz sebebidir.
 (5) Vadesi gelmemiş deniz alacaklarında, İcra ve İflas Kanununun 257 nci maddesinin ikinci fıkrasında öngörülen şartlar gerçekleştiği takdirde geminin ihtiyati haczi istenebilir.
-11270
 3. Yetkili mahkeme
 a) İhtiyati haciz kararı bakımından
 aa) Dava açılmadan önce

@@ -1,1 +1,1 @@
-MADDE 3 — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 3 — Bu Kanun yayımı tarihinde yürürlüğe girer.

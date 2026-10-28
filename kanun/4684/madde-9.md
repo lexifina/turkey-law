@@ -1,1 +1,0 @@
-MADDE 9 — 6.6.1985 tarihli ve 3218 sayılı Serbest Bölgeler Kanununun 7 nci maddesi başlığı ile birlikte aşağıdaki şekilde, 13 üncü maddesindeki "fona" ibaresi "hesaba" olarak değiştirilmiş ve 12 nci maddesindeki "; 1050 sayılı Muhasebei Umumiye Kanunu; 832 sayılı Sayıştay Kanunu; 2886 sayılı Devlet İhale Kanunu" ibareleri yürürlükten kaldırılmıştır.

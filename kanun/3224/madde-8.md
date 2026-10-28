@@ -3,9 +3,6 @@ Madde 8 – Genel Kurul iki yılda bir defa Nisan ayında olağan; Yönetim Kuru
 Oda Genel Kurulu toplantıya Oda Yönetim Kurulu tarafından çağırılır.
 Oda Yönetim Kurulu, üyelerin beşte birinin yazılı isteği üzerine Genel Kurulu toplantıya çağırmazsa olağanüstü toplantı isteyen üyelerden birinin yazılı başvurusu üzerine Oda Genel Kurulu toplantıya Birlik Merkez Yönetim Kurulunca çağrılır.
 Toplantıların günü, yeri, saati ve gündemi toplantı tarihinden en az yirmi gün önce mahalli bir gazeteyle ilan edilir ve ayrıca taahhütlü bir mektupla üyelere
-––––––––––––––––
-(1) Sözkonusu Karar Resmi Gazete’de yayımlandığı 17/3/2012 tarihinden başlayarak bir yıl sonra yürürlüğe girmiştir.
-6757
 bildirilir. Bu ilan ve mektupta çoğunluk sağlanamaması nedeniyle toplantı yapılamazsa yapılacak ikinci toplantının günü, yeri, saati ve gündemi de belirtilir.
 Oda Genel Kurulu üye tamsayısının salt çoğunluğu ile toplanır. İlk toplantıda yeterli çoğunluk sağlanamazsa ikinci toplantıda çoğunluk aranmaz. Ancak, ikinci toplantıya katılan üye sayısı; Yönetim, Disiplin ve Denetleme Kurulları asıl üyelerinin toplamının iki katından aşağı olamaz.
 Oda Genel Kurul toplantıları ilanda belirtilen gün, yer ve saatte yapılır. Üyeler Oda Yönetim Kurulunca düzenlenen listedeki adları karşısına imza koyarak toplantı yerine girerler. Toplantı Oda Yönetim Kurulu Başkanı veya görevlendireceği bir Kurul üyesi tarafından açıldıktan sonra toplantıyı yönetmek üzere bir Divan Başkanı, bir Başkanvekili ve iki katip üye seçilir.

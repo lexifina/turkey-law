@@ -1,7 +1,6 @@
 Tutanak
 MADDE 154- (1) Hâkim, tahkikat ve yargılama işlemlerinin icrasıyla, iki tarafın ve diğer ilgililerin sözlü açıklamalarını, gerekirse özet olarak zabıt kâtibi aracılığıyla tutanağa kaydettirir.
 (2) Taraflar veya diğer ilgililer sözlü açıklamalarını hâkimin izniyle doğrudan da tutanağa yazdırabilir.
-10902
 (3) Aşağıdaki hususlar mutlak olarak tutanağa yazılır:
 a) Mahkemenin adı, duruşmanın açıldığı yer, gün ve saat.
 b) Hâkim, zabıt kâtibi, hazır bulunan taraflar ve varsa vekilleri, kanuni temsilcileri, fer’î müdahil ve tercümanın ad ve soyadları.

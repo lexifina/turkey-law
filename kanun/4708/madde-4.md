@@ -1,4 +1,4 @@
-Yapı denetim komisyonları ve görevleri(1)
+Yapı denetim komisyonları ve görevleri[3]
 Madde 4 –(Değişik: 8/8/2011-KHK-648/ 26 md.)
 Bu Kanunun uygulanması ile ilgili Bakanlık iş ve işlemlerinin yürütülmesini sağlamak üzere, Bakanlık merkezinde Merkez Yapı Denetim Komisyonu ve illerde İl Yapı Denetim Komisyonları kurulur. İl Yapı Denetim Komisyonları, yapı denetim kuruluşlarına izin belgesi verilmesi hariç Kanunda belirtilen diğer görevleri yapar.
 Merkez Yapı Denetim Komisyonu, konu ile ilgili Bakanlık personeli arasından, biri başkan olmak üzere Bakanlıkça görevlendirilecek toplam yedi üyeden oluşur ve Bakanlıkça uygun görülen birimin bünyesinde faaliyetlerini yürütür. Bakanlık; gerek görülen konular hakkında çalışmada bulunmak üzere, ilgili kamu kurum ve kuruluşları ile meslek ve sivil toplum kuruluşlarının temsilcilerini Bakanlıkça hazırlanan yönetmelikte belirtilen usul ve esaslar çerçevesinde Komisyonda görevlendirebilir.

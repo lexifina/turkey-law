@@ -2,7 +2,6 @@ Aylık tablosu
 MADDE 69- (1) Kıstas aylığı oluşturan her bir ödeme unsurunun;
 a) Anayasa Mahkemesi Başkanına % 100’ü,
 b) Anayasa Mahkemesi başkanvekillerine % 90’ı,
-11484
 c) Anayasa Mahkemesi üyelerine % 86’sı,
 ç) Birinci sınıf raportörlere % 79’u,
 d) Birinci sınıfa ayrılmış raportörlere % 65’i,
@@ -30,7 +29,6 @@ oranında aylık ödeme yapılır. Bu madde kapsamındaki ödeme unsurları aras
 (5) Birinci fıkrada unvanları belirtilenlerden Anayasa Mahkemesi Başkanı, başkanvekilleri, üyeleri ile raportörlere aynı maddeye göre ödenmekte olan brüt aylıklarının % 10’u oranında yargı ödeneği verilir.
 (6) Yükseköğretim kurumlarından veya Sayıştaydan gelen raportörlere, aynı derece, kademe ve kıdemdeki hâkim ve savcı raportörlere ödenen aylık ve ödenekler esas alınarak ödeme yapılır.
 (7) Bu maddeye göre ödeme yapılanlara; 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararname kapsamında yapılan ödemeler (yabancı dil tazminatı hariç) ile temsil, makam ve yüksek hâkimlik tazminatları ödenmez ve 657 sayılı Kanunun 152 nci maddesi uyarınca ödeme yapılmaz.
-11485
 (8) Anayasa Mahkemesi Başkan ve üyelerinin ek göstergeleri sırasıyla (9.000) ve (8.000), yüksek hâkimlik tazminat göstergeleri ise (17.000)’dir.
 (9) Başkan, başkanvekilleri ve üyelere (40.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak tutarda, raportörlere ise (10.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak tutarda aylık ek ödenek verilir. Bu ödeneğe hak kazanılmasında ve ödenmesinde 2802 sayılı Kanunun aylıklara ilişkin hükmü uygulanır ve bu ödenek, damga vergisi hariç, herhangi bir vergi ve kesintiye tabi tutulmaz.
 (10) Bu maddeye göre ödeme yapılanların aylıklarının ödenme zamanı, hangi hâllerde geri alınacağı, sosyal hak ve yardımları ile yardımcılıktan ve açıktan atanmada aylık ve ödeneğe hak kazanmada, bu Kanunda hüküm bulunmayan hâllerde, ilgisine göre 2802 sayılı Kanun ile 657 sayılı Kanun hükümleri uygulanır.

@@ -1,1 +1,1 @@
-MADDE 6 - 12.4.2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununun 14 üncü maddesinin birinci fıkrasının birinci cümlesine "tutarı" kelimesinden soma gelmek üzere "ve genel idare giderleri" ibaresi eklenmiştir.
+Madde 6- (12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanunu ile ilgili olup yerine işlenmiştir.)

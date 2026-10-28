@@ -14,4 +14,3 @@ h) 67, 68 ve 69 uncu maddelerinde yer alan, sicil işlemlerinin nasıl yürütü
 j) 71, 72 ve 73 üncü maddelerinde yer alan pratik eğitimin verileceği iş yerleri ve bunların denetimine ilişkin hükümlerinin usul ve esasları ve 3308 sayılı Meslekî Eğitim Kanununun uygulanmasında henüz kapsam içine alınmamış il ve meslek dallarında yapılacak uygulama ve verilecek belgeler ile Meslek Eğitimi Fonunun yönetimi ve fon kaynaklarının kullanımı Konfederasyon tarafından,
 Üç ay içerisinde çıkarılacak yönetmeliklerle düzenlenir. Konfederasyon tarafından hazırlanması öngörülen yönetmelikler Bakanlık onayı ile yürürlüğe konulur.
 Bu Kanunun 4, 16, 26 ve 34 üncü maddelerinde öngörülen örnek ana sözleşmeler Bakanlıkça altı ay içinde hazırlanır.
-9441

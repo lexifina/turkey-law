@@ -1,4 +1,4 @@
-Tütün ürünlerinin yasaklanması (2)
+Tütün ürünlerinin yasaklanması[2]
 Madde 2 – (Değişik: 3/1/2008-5727/3 md.)
 (1) Tütün ürünleri;
 a) Kamu hizmet binalarının kapalı alanlarında,
@@ -12,10 +12,6 @@ a) Yaşlı bakım evlerinde, ruh ve sinir hastalıkları hastanelerinde, cezaevl
 b) Şehirlerarası veya uluslararası güzergâhlarda yolcu taşıyan denizyolu araçlarının güvertelerinde,
 tütün ürünleri tüketilmesine mahsus alanlar oluşturulabilir. Bu alanlara onsekiz yaşını doldurmamış kişiler giremez.
 (3) Otelcilik hizmeti verilen işletmelerde, tütün ürünleri tüketen müşterilerin konaklamasına tahsis edilmiş odalar oluşturulabilir.
-–––––––––––
-(1) Bu Kanunun adı "Tütün Mamullerinin Zararlarının Önlenmesine Dair Kanun” iken, 3/1/2008 tarihli ve 5727 sayılı Kanunun 1 inci maddesiyle 19/5/2008 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir.
-(2) Bu madde başlığı "Tütün ve tütün mamullerinin içilmesi yasaklanan yerler” iken, 3/1/2008 tarihli ve 5727 sayılı Kanunun 3 üncü maddesiyle 19/5/2008 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir.
-7534
 (4) Açık havada yapılan her türlü spor, kültür, sanat ve eğlence faaliyetlerinin yapıldığı yerler ile bunların seyir yerlerinde tütün ürünleri kullanılamaz. Ancak bu tesislerde, tütün ürünlerinin tüketilmesine mahsus alanlar oluşturulabilir.
 (5) Bu Kanunun tütün ürünleri tüketilmesine tahsis edilen kapalı alanlarının koku ve duman geçişini önleyecek şekilde tecrit edilmesi ve havalandırma tertibatı ile donatılması gerekir.
 (6) Bu Kanunun uygulanmasında "tütün ürünü" ibaresi tüttürme, emme, çiğneme ya da buruna çekerek kullanılmak üzere üretilmiş, hammadde olarak tamamen veya kısmen tütün yaprağından imal edilmiş maddeyi ifade eder. (Ek cümle: 24/5/2013-6487/26 md.) Tütün içermeyen ancak tütün mamulünü taklit eder tarzda kullanılan her türlü nargile ve sigara, tütün ürünü kabul edilir.

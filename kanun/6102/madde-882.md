@@ -1,6 +1,5 @@
 VI - Sorumluluk sınırları
 MADDE 882- (1) Gönderinin tamamının zıyaı veya hasarı hâlinde, 880 ve 881 inci maddeler uyarınca ödenecek tazminat, gönderinin net olmayan ağırlığının her bir kilogramı için 8,33 Özel Çekme Hakkını karşılayan tutar ile sınırlıdır.
-11169
 (2) Gönderinin münferit parçalarının zıyaı veya hasarı hâlinde taşıyıcının sorumluluğu;
 a) Gönderinin tamamı değerini kaybetmişse tamamının,
 b) Gönderinin bir kısmı değerini kaybetmişse, değerini kaybeden kısmının,

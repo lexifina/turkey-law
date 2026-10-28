@@ -1,2 +1,0 @@
-MADDE 58 – 635 sayılı Kanun Hükmünde Kararnamenin Dördüncü Bölüm başlığı “Yurtdışı ve Taşra Teşkilatı ile Şûra ve Çalışma Grupları” şeklinde, 22 nci maddesinin başlığı “Yurtdışı ve taşra teşkilatı” şeklinde değiştirilmiş, maddeye aşağıdaki ikinci fıkra eklenmiştir.
-“(2) Bakanlık, 13/12/1983 tarihli ve 189 sayılı Kamu Kurum ve Kuruluşlarının Yurtdışı Teşkilatı Hakkında Kanun Hükmünde Kararname esaslarına uygun olarak yurtdışı teşkilatı kurmaya yetkilidir.”

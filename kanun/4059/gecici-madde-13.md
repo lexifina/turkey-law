@@ -1,2 +1,1 @@
-Geçici Madde 13- (Ek : 11/10/2011 - KHK - 662/68 md.)
-Müsteşarlığın taşra teşkilatında yer alan kambiyo müdürlükleri bu maddenin yayımı tarihinde kapatılmıştır. Bu müdürlüklerde çalışan personel, bu maddenin yayımı tarihinden itibaren en geç bir ay içinde 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanunun 22 nci maddesi hükümleri çerçevesinde diğer kurum ve kuruluşlara nakledilmek üzere Devlet Personel Başkanlığına bildirilir. Bu madde çerçevesinde diğer kurumlara nakledilen personele ait kadrolar, atama işleminin yapıldığı tarihte hiçbir işleme gerek kalmaksızın 190 sayılı Kanun Hükmünde Kararnamenin eki cetvellerin Müsteşarlığa ait bölümlerinden çıkarılmış sayılır.
+Geçici Madde 13- (Ek : 11/10/2011 - KHK - 662/68 md.; Mülga: 2/7/2018-KHK-703/16 md.)

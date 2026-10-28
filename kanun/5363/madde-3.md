@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 3 —Bu Kanunda geçen;
+Madde 3- Bu Kanunda geçen;
 a) Bakanlık: Tarım ve Köyişleri Bakanlığını,
 b) Müsteşarlık: Hazine Müsteşarlığını,
 c) Sigorta şirketleri: 7397 sayılı Sigorta Murakabe Kanunu çerçevesinde kurulmuş olan ve tarım sigortaları alanında ruhsatı bulunan sigorta şirketlerini,

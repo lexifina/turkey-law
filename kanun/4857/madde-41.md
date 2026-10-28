@@ -8,5 +8,5 @@ Fazla çalışma veya fazla sürelerle çalışma yapan işçi isterse, bu çal�
 Fazla saatlerle çalışmak için işçinin onayının alınması gerekir.
 Fazla çalışma süresinin toplamı bir yılda ikiyüzyetmiş saatten fazla olamaz.
 (Ek fıkra: 10/9/2014-6552/4 md.) Bu Kanunun 42 nci ve 43 üncü maddelerinde sayılan hâller dışında yer altında maden işlerinde çalışan işçilere fazla çalışma yaptırılamaz.
-(Ek fıkra: 10/9/2014-6552/4 md.) Yer altında maden işlerinde çalışan işçilere, bu Kanunun 42 nci ve 43 üncü maddelerinde sayılan hâllerde haftalık otuz altı saati aşan her bir saat fazla çalışma için verilecek ücret, normal çalışma ücretinin saat başına düşen miktarının yüzde yüzden az olmamak üzere arttırılması suretiyle ödenir. (1)
+(Ek fıkra: 10/9/2014-6552/4 md.) Yer altında maden işlerinde çalışan işçilere, bu Kanunun 42 nci ve 43 üncü maddelerinde sayılan hâllerde haftalık otuz yedi buçuk saati aşan her bir saat fazla çalışma için verilecek ücret, normal çalışma ücretinin saat başına düşen miktarının yüzde yüzden az olmamak üzere arttırılması suretiyle ödenir.[15]
 Fazla çalışma ve fazla sürelerle çalışmaların ne şekilde uygulanacağı çıkarılacak yönetmelikte gösterilir.

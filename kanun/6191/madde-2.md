@@ -7,4 +7,5 @@ c) Sözleşme: Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı ve Sahil
 d) Sözleşmeli erbaş ve er: Erbaş ve er kadro görev yerlerinde, bu Kanun esaslarına göre istihdam edilenleri,
 e) Sözleşme yılı: Sözleşmenin yürürlüğe girdiği ay ve günü başlangıç olarak kabul eden ve bu tarihten itibaren geçen her bir yıllık süreyi,
 ifade eder.
-11450
+İKİNCİ BÖLÜM
+Kaynak, Yetiştirme, Hizmet Şartları, Yedeklik Dönemi,

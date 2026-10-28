@@ -2,7 +2,6 @@ YEDİNCİ BÖLÜM
 İdari Yaptırımlar ve Dava Hakkı
 İdari yaptırımlar
 MADDE 19 – (1) Kurum; mevzuata ve yetkilendirme şartlarına aykırılık hâlinde hizmet sağlayıcılarına bir önceki takvim yılındaki net satışlarının yüzde 3’üne kadar idari para cezası uygulamaya, millî güvenlik, kamu düzeni veya kamu hizmetinin gereği gibi yürütülmesi ve kanunlarla getirilen hükümlerin uygulanması amacıyla gerekli tedbirleri almaya, üç aydan az olmamak üzere altı aya kadar posta hizmeti faaliyetini durdurmaya veya yetkilendirmeyi iptal etmeye yetkilidir.
-12083
 (2) Kurum, mevzuata ve yetkilendirme şartlarına aykırı davranan hizmet sağlayıcısının faaliyete yeni başlamış olması hâlinde bin liradan bir milyon liraya kadar idari para cezası ile bu Kanunda belirtilen diğer idari yaptırımları uygulamaya yetkilidir.
 (3) Kabulü yasak olan maddeleri postayla gönderenler ile 7 nci madde hükümlerine aykırı hareket edenlere gönderi ücretinin beş yüz katı tutarında idari para cezası uygulanır.
 (4) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 124 üncü ve 132 nci maddeleri kapsamına giren suçların hizmet sağlayıcılarının çalışanlarınca işlenmesi hâlinde verilecek cezalar iki katına kadar artırılır.

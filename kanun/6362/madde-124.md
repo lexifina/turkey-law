@@ -1,6 +1,5 @@
 Başkan
 MADDE 124 – (1) Kurulun en üst yöneticisi olan Başkan, Kurulun genel yönetim ve temsilinden sorumludur.
-11907
 (2) Başkanın görev ve yetkileri şunlardır:
 a) Kurul Karar Organı toplantılarının gündemini, gün ve saatini belirlemek, toplantıları yönetmek
 b) Hizmet birimlerinden gelen önerilere son şeklini vererek Kurul Karar Organına sunmak

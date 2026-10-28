@@ -9,10 +9,6 @@ d) Uygun emniyet ve güvenlik standartlarına sahip bulunmak.
 a) Yetkilendirilmiş yükümlü statüsünün verilmesi,
 b) Basitleştirmelerden faydalanma izninin verilmesi,
 c) Bu statü ve izinlerin hangi gümrük idarelerince verileceğinin belirlenmesi,
-––––––––––––––––––
-(1) Bu ayırımının başlığı “Temsil Hakkı” iken, 18/6/2009 tarihli ve 5911 sayılı Kanunun 2 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-(2) 18/6/2009 tarihli ve 5911 sayılı Kanunun 66 ncı maddesiyle; bu fıkrada yer alan ikinci cümlesinde yer alan “başkasının adına” ibaresinden sonra gelmek üzere “ve hesabına” ibaresi eklenmiş ve metne işlenmiştir.
-7684
 d) Risk yönetimi düzenlemeleri dikkate alınarak, emniyet ve güvenliğe ilişkin gümrük kontrollerinde tanınacak kolaylıkların türü ve kapsamının belirlenmesi,
 e) İlgili kurum ve kuruluşlardan gerektiğinde görüş alınması ve bilgi talebinde bulunulması,
 f) Yetkilendirilmiş yükümlü statüsünün geçici olarak geri alınması veya iptali.

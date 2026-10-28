@@ -4,5 +4,4 @@ a) Yetkili makamın önüne getirildiğinde çıkarılmak kaydıyla, sevk ve nak
 b) Hekimin talimat ve gözetiminde olmak üzere tıbbî nedenlerle,
 c) Diğer kontrol usûllerinin yetersizliği hâlinde hükümlünün kendisine veya başkalarına zarar vermesine veya eşyayı tahrip etmesine engel olmak için kurum en üst amirinin emriyle,
 Kullanılabilir.
-9237
 (2) Çocuk hükümlüler için birinci fıkranın (a) bendi hükmü uygulanmaz.

@@ -1,2 +1,1 @@
-Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.) (1)
-Mülga 31/8/1956 tarihli ve 6830 sayılı İstimlak Kanununun 16 ve 17 nci maddeleri ile 2942 sayılı Kanunun mülga 16 ve 17 nci maddeleri uyarınca mahkemelerce idare adına tescil kararı verilen kamulaştırmalarda tebligatlar ve diğer kamulaştırma işlemleri tamamlanmış sayılır. Bu kamulaştırma işlemleri sebebiyle hiçbir hak ve alacak talebinde bulunulamaz; kamulaştırmaya veya bedeline karşı itiraz davaları açılamaz; açılmış ve devam eden davalar bu madde hükmü uygulanarak sonuçlandırılır.
+Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.; İptal; Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı ile)[34]

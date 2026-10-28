@@ -6,7 +6,6 @@ MADDE 10 – (1) (22/5/1930 tarihli ve 1632 sayılı Kanun ile ilgili olup yerin
 (5) (16/6/1964 tarihli ve 477 sayılı Disiplin Mahkemeleri Kuruluşu, Yargılama Usulü ve Disiplin Suç ve Cezaları Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
 (6) (14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanun ile ilgili olup yerine işlenmiştir.)
 (7) (27/7/1967 tarihli ve 926 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
-11457
 (8) (4/7/1972 tarihli ve 1602 sayılı Askerî Yüksek İdare Mahkemesi Kanunu ile ilgili olup yerine işlenmiştir.)
 (9) (9/7/1982 tarihli ve 2692 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
 (10) (28/5/1988 tarihli ve 3466 sayılı Uzman Jandarma Kanunu ile ilgili olup yerine işlenmiştir.)

@@ -1,5 +1,5 @@
 Merkezî ve ortak sınavlara ilişkin yargılama usulü:
-Madde 20/B- (Ek: 10/9/2014-6552/96 md.)
+Madde 20/B – (Ek: 10/9/2014-6552/96 md.)
 1. Millî Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan merkezî ve ortak sınavlar, bu sınavlara ilişkin iş ve işlemler ile sınav sonuçları hakkında açılan davalara ilişkin yargılama usulünde:
 a) Dava açma süresi on gündür.
 b) Bu Kanunun 11 inci maddesi hükümleri uygulanmaz.
@@ -13,4 +13,4 @@ g) Temyiz dilekçeleri üç gün içinde incelenir ve tebliğe çıkarılır. Bu
 h) Danıştay evrak üzerinde yaptığı inceleme sonunda, maddi vakalar hakkında edinilen bilgiyi yeterli görürse veya temyiz sadece hukuki noktalara ilişkin ise yahut temyiz olunan karardaki maddi yanlışlıkların düzeltilmesi mümkün ise işin esası hakkında karar verir. Aksi hâlde gerekli inceleme ve tahkikatı kendisi yaparak esas hakkında yeniden karar verir. Ancak, ilk inceleme üzerine verilen kararlara karşı yapılan temyizi haklı bulduğu hâllerde kararı bozmakla birlikte dosyayı geri gönderir. Temyiz üzerine verilen kararlar kesindir.
 ı) Temyiz istemi en geç on beş gün içinde karara bağlanır. Karar en geç yedi gün içinde tebliğe çıkarılır.
 2. Millî Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan merkezî ve ortak sınavlar, bu sınavlara ilişkin iş ve işlemler ile sınav sonuçları hakkında açılan davalarda verilen yürütmenin durdurulması ve iptal kararları, söz konusu sınava katılan kişilerin lehine sonuç doğuracak şekilde uygulanır.
-5473
+Askerî hizmete ilişkin idari işlem ve eylemlerden doğan uyuşmazlıklara dair hükümler:

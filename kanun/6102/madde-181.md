@@ -9,7 +9,6 @@ c) Bir komandit şirket;
 1. Bir sermaye şirketine;
 2. Bir kooperatife;
 3. Bir kollektif şirkete;
-11019
 d) Bir kooperatif bir sermaye şirketine,
 dönüşebilir.
 c) Kollektif ve komandit şirketlerin tür değiştirmelerine ilişkin özel düzenleme

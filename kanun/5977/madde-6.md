@@ -4,6 +4,5 @@ MADDE 6 – (1) GDO ve ürünlerinden kaynaklanabilecek herhangi bir riski olmay
 a) Gen kaynağı ile transfer edilen canlı organizmanın taksonomisi ve biyolojisinin biliniyor olması.
 b) GDO’nun insan, hayvan, çevre sağlığı ve biyolojik çeşitliliğe olabilecek etkileri hakkında yeterli bilgi bulunması.
 c) GDO’nun diğer canlı organizmalarla ilişkisi ile ilgili olarak kullanılabilecek daha önce yapılmış risk değerlendirmelerinden elde edilen olumsuz bir etki olmadığına dair bilginin mevcut olması.
-10537
 ç) Transfer edilen genetik materyalin tanımlanması ve transfer edildiği canlı organizma içinde belirlenmesi için detaylı yöntem ve verilerin bulunması.
 (3) Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.

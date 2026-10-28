@@ -1,8 +1,5 @@
 Dava açma süresi:
 Madde 7 – 1. Dava açma süresi, özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştayda ve idare mahkemelerinde altmış ve vergi mahkemelerinde otuz gündür.
-_______________
-(1) 2/7/2012 tarihli ve 6352 sayılı Kanunun 52 nci maddesi ile bu fıkrada yer alan “bulunmayan yerlerde” ibaresinden sonra gelmek üzere “büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına bakılmaksızın” ibaresi eklenmiştir.
-5469
 2. Bu süreler;
 a) İdari uyuşmazlıklarda; yazılı bildirimin yapıldığı,
 b) Vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezalarından doğan uyuşmazlıklarda: Tahakkuku tahsile bağlı olan vergilerde tahsilatın; tebliğ yapılan hallerde veya tebliğ yerine geçen işlemlerde tebliğin; tevkif yoluyla alınan vergilerde istihkak sahiplerine ödemenin; tescile bağlı vergilerde tescilin yapıldığı ve idarenin dava açması gereken konularda ise ilgili merci veya komisyon kararının idareye geldiği;

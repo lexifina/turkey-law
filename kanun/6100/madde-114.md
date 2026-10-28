@@ -11,7 +11,6 @@ c) Mahkemenin görevli olması.
 d) Tarafların, taraf ve dava ehliyetine sahip olmaları; kanuni temsilin söz konusu olduğu hâllerde, temsilcinin gerekli niteliğe sahip bulunması.
 e) Dava takip yetkisine sahip olunması.
 f) Vekil aracılığıyla takip edilen davalarda, vekilin davaya vekâlet ehliyetine sahip olması ve usulüne uygun düzenlenmiş bir vekâletnamesinin bulunması.
-10894
 g) Davacının yatırması gereken gider avansının yatırılmış olması.
 ğ) Teminat gösterilmesine ilişkin kararın gereğinin yerine getirilmesi.
 h) Davacının, dava açmakta hukuki yararının bulunması.

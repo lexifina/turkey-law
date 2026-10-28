@@ -1,5 +1,5 @@
 Kısmi dava
 MADDE 109- (1) Talep konusunun niteliği itibarıyla bölünebilir olduğu durumlarda, sadece bir kısmı da dava yoluyla ileri sürülebilir.
-(2) Talep konusunun miktarı, taraflar arasında tartışmasız veya açıkça belirli ise kısmi dava açılamaz.
+(2) (Mülga: 1/4/2015-6644/4 md.)
 (3) Dava açılırken, talep konusunun kalan kısmından açıkça feragat edilmiş olması hâli dışında, kısmi dava açılması, talep konusunun geri kalan kısmından feragat edildiği anlamına gelmez.
-10893
+(4) (Ek:16/7/2026-7589/20 md.) Alacağın sadece bir kısmının dava edildiği durumlarda talep konusu, aynı davada bir defaya mahsus olmak üzere iddianın genişletilmesi yasağına tabi olmaksızın tahkikatın sona ermesine kadar artırılabilir. Bu durumda zamanaşımı, artırılan kısım bakımından da dava tarihinden itibaren kesilmiş sayılır.

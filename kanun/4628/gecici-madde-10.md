@@ -1,3 +1,1 @@
-Geçici Madde 10 – (Ek: 10/5/2006-5496/6 md. Değişik: 9/7/2008-5784/8 md.)
-Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi, Elektrik Üretim Anonim Şirketi, perakende satış lisansı sahibi dağıtım şirketleri, Elektrik Üretim Anonim Şirketinin yeniden yapılandırılmasıyla oluşan gruplar adına Elektrik Üretim Anonim Şirketi veya kamu üretim şirketleri arasında, süresi beş yılı aşmamak kaydıyla enerji alım-satımına ilişkin geçiş dönemi anlaşmaları imzalanır. Bu süre, Bakanlık görüşü alınarak Kurul kararı ile en fazla iki yıl uzatılabilir. Söz konusu anlaşmalara ilişkin hak ve yükümlülükler, üretim ve dağıtım varlıklarının özelleştirilmesine paralel olarak lisans sahiplerine ait olur. Bu anlaşmalar damga vergisinden müstesnadır.
-7856-1
+Geçici Madde 10 – (Ek: 10/5/2006-5496/6 md.; Mülga: 14/3/2013-6446/30 md.)

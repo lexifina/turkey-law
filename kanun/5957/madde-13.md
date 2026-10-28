@@ -14,5 +14,5 @@ h) Aynı kap veya ambalaj içine değişik kalitede ve/veya üzerinde yazılı o
 i) Toptancı halinde ya da pazar yerindeki işyeri veya satış yeri dışında ya da buralardaki geçiş yollarında mal teşhir edilmesi, satılması, mal veya boş kap bulundurulması,
 j) Toptancı halinde veya pazar yerinde, çevreyi rahatsız edecek şekilde satış yapılması, alıcı veya tüketiciye karşı sözlü veya fiilî kötü muamelede bulunulması,
 k) Toptancı halinde veya pazar yerinde, atık malzemelerin belirlenen şekilde veya alanlarda toplanmaması ya da satış yeri veya işyerinin temiz tutulmaması,
-l) Malların etiketlenmesine, pazar yerine mal getirilmesine, bu yerlerde araç bulundurulmasına, satış yeri numarasını gösterir levhaya, tahsis sahiplerince kullanılacak kimlik kartlarına ve bunlarca giyilecek kıyafetlere ilişkin olarak bu Kanun uyarınca çıkarılan yönetmeliklerdeki usul ve esaslara aykırı hareket edilmesi,
+l) Malların etiketlenmesine, pazar yerine mal getirilmesine, bu yerlerde araç bulundurulmasına, satış yeri numarasını gösterir levhaya, üretici ve pazarcılarca kullanılacak kimlik kartlarına ve bunlarca giyilecek kıyafetlere ilişkin olarak bu Kanun uyarınca çıkarılan yönetmeliklerdeki usul ve esaslara aykırı hareket edilmesi,[17]
 yasaktır.

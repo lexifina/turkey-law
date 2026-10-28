@@ -1,4 +1,4 @@
-Madde 158 – 1. 157 nci madde hükümleri uygulanmaksızın, serbest dolaşımda olmayan eşya ile 152 nci maddenin (b) bendinde belirtilen serbest dolaşımda olan eşya, serbest bölgelerde tüketilemez veya kullanılamazlar. (1)
+Madde 158 – 1. 157 nci madde hükümleri uygulanmaksızın, serbest dolaşımda olmayan eşya ile 152 nci maddenin (b) bendinde belirtilen serbest dolaşımda olan eşya, serbest bölgelerde tüketilemez veya kullanılamazlar.[87]
 (Ek paragraf: 18/6/2009-5911/32 md.) Ancak,
 a) Serbest bölgelerdeki tesislerin yapımında kullanılan,
 b) Serbest bölgelerde bulunan tesislerde makina-teçhizat, demirbaşa kayıtlı eşya veya bunların parçası olarak kullanılan,

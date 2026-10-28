@@ -1,1 +1,1 @@
-MADDE 8 – 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 151 inci maddesinin birinci fıkrasının (3) numaralı bendinde yer alan “giderlerine” ibaresinden sonra gelmek üzere “ayrıca avukatlık veya dava vekilliği sıfatı dışındaki sıfatları dolayısıyla muttali oldukları ahval ve hususlara” ibaresi eklenmiştir.
+MADDE 8 – 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu ile ilgili olup yerine işlenmiştir.

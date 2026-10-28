@@ -1,4 +1,4 @@
-Tanımlar (2)
+Tanımlar[2]
 MADDE 2 – (1) Bu Kanunda geçen;
 a) Aktüer: Sigortacılık tekniği ile buna ilişkin yatırım, finansman ve demografi konularında olasılık ve istatistik teorilerini uygulayarak, yasal düzenlemelere uygun prim, karşılık ve kâr paylarını hesaplayan, tarife ve teknik esasları hazırlayan kişiyi,
 b) Aracı: Sigorta acentesi ve brokeri,
@@ -9,10 +9,6 @@ e) (Ek: 13/6/2012-6327/47 md.) Destek hizmeti kuruluşu: Bu Kanun kapsamındaki 
 f) Hesap: Güvence Hesabını,
 g) İş planı: Sigorta şirketleri ile reasürans şirketlerinin kuruluş amacı ile en az ilk üç yıldaki faaliyetlerine ilişkin tahminlerini ve yükümlülüklerini sürekli olarak yerine getirebileceğini ayrıntılı bir şekilde ortaya koyan planı,
 ğ) Komisyon: Sigorta Tahkim Komisyonunu,
-–––––––––––––––––
-(1) 13/6/2012 tarihli ve 6327 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “Türkiye Sigorta ve Reasürans Şirketleri Birliği” ibaresi “Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği” şeklinde değiştirilmiş ve metne işlenmiştir.
-(2) 13/6/2012 tarihli ve 6327 sayılı Kanunun 47 nci maddesiyle, bu maddenin birinci fıkrasının (d) bendinden sonra gelmek üzere (e) bendi eklenmiş, diğer bentler buna göre teselsül ettirilmiştir.
-10148
 h) (Değişik: 13/6/2012-6327/47 md.) Levha: Türkiye’de faaliyette bulunan sigorta şirketleri, reasürans şirketleri ile 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununa göre kurulan emeklilik şirketleri için Birlik tarafından, sigorta eksperleri ve sigorta acenteleri için ise Türkiye Odalar ve Borsalar Birliği tarafından ayrı ayrı düzenlenecek faal olarak çalışanlara ilişkin kayıtları gösterir levhaları,
 ı) Liste: Sigorta hakemleri listesini,
 i) (Değişik: 13/6/2012-6327/47 md.) Minimum garanti fonu: Sigorta şirketleri ile reasürans şirketleri için gerekli özsermayenin en az üçte birine denk düşen tutarı,

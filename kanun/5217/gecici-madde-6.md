@@ -1,1 +1,1 @@
-GEÇİCİ MADDE 6 — 31.12.2005 tarihine kadar; Devlet Su İşleri Genel Müdürlüğünün mülkiyetinde bulunan taşınmazlardan ihtiyaç fazlası olanların satışı veya kiralanmasından elde edilen gelirler Devlet Su İşleri Genel Müdürlüğü bütçesinin (B) işaretli cetveline gelir kaydedilir.
+Geçici Madde 6- 31.12.2005 tarihine kadar; Devlet Su İşleri Genel Müdürlüğünün mülkiyetinde bulunan taşınmazlardan ihtiyaç fazlası olanların satışı veya kiralanmasından elde edilen gelirler Devlet Su İşleri Genel Müdürlüğü bütçesinin (B) işaretli cetveline gelir kaydedilir.

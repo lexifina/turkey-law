@@ -1,2 +1,1 @@
-MADDE 22 – 2942 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 7 – Mülga 31/8/1956 tarihli ve 6830 sayılı İstimlak Kanununun 16 ve 17 nci maddeleri ile 2942 sayılı Kanunun mülga 16 ve 17 nci maddeleri uyarınca mahkemelerce idare adına tescil kararı verilen kamulaştırmalarda tebligatlar ve diğer kamulaştırma işlemleri tamamlanmış sayılır. Bu kamulaştırma işlemleri sebebiyle hiçbir hak ve alacak talebinde bulunulamaz; kamulaştırmaya veya bedeline karşı itiraz davaları açılamaz; açılmış ve devam eden davalar bu madde hükmü uygulanarak sonuçlandırılır.”
+MADDE 22 – 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanunu ile ilgili olup yerine işlenmiştir.

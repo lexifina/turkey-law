@@ -7,7 +7,6 @@ a) Bu dosyalar için ek yargılama gideri ve harç alınmaz.
 b) Bu dosyaların posta giderleri Maliye Bakanlığı bütçesinden karşılanır.
 c) Vergi Usul Kanunu hükümlerine göre Vergiler Temyiz Komisyonunda tekemmül etmiş dosyalar, İdari Yargılama Usulü Kanunu hükümleri uygulanmaksızın tekemmül etmiş sayılır. Danıştayda savcının düşüncesine ilişkin hükümler saklıdır.
 d) Bu dosyalar için duruşma yapılması ilgili daire veya mahkemenin kararına bağlıdır.
-5464
 e) Bu dosyalar için Vergiler Temyiz Komisyonunca yapılmış duruşma tebliğleri geçersizdir.
 f) Yapılan inceleme sonunda vergi itiraz komisyonu kararı bozulursa, dosya, resen ve nihai olarak karara bağlanır.
 g) Vergiler Temyiz Komisyonunca yürütmenin durdurulmasına ilişkin olarak verilmiş kararlar geçerlidir. Ancak, bu dosyalar öncelikle karara bağlanır.

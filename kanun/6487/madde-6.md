@@ -1,1 +1,1 @@
-MADDE 6 – 4250 sayılı Kanunun 19 uncu ve 28 inci maddeleri yürürlükten kaldırılmış, 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanunun 8 inci maddesinin beşinci fıkrasının (m) bendinde geçen “veya alkollü içkilerin” ibaresi ile aynı fıkranın (n) bendinde geçen “veya alkollü içkileri” ibaresi madde metninden çıkarılmıştır.
+MADDE 6 – 8/6/1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanun ile ilgili olup yerine işlenmiştir.

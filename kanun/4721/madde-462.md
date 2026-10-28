@@ -9,7 +9,6 @@ Madde 462- Aşağıdaki hâllerde vesayet makamının izni gereklidir:
 6. Bir yıl veya daha uzun süreli ürün ve üç yıl veya daha uzun süreli taşınmaz kirası sözleşmeleri yapılması,
 7. Vesayet altındaki kişinin bir sanat veya meslekle uğraşması,
 8. Acele hâllerde vasinin geçici önlemler alma yetkisi saklı kalmak üzere, dava açma, sulh olma, tahkim ve konkordato yapılması,
-8119
 9. Mal rejimi sözleşmeleri, mirasın paylaştırılması ve miras payının devri sözleşmeleri yapılması,
 10. Borç ödemeden aciz beyanı,
 11. Vesayet altındaki kişi hakkında hayat sigortası yapılması,

@@ -1,1 +1,0 @@
-Ek Madde 2 — Yurt dışında çalışan askerlik yükümlülerinin yabancı ülke parası üzerinden yaptıkları ödemeler, Türkiye Cumhuriyet Merkez Bankasında Hazine adına açılacak özel döviz hesabına Euro olarak kaydedilir. Bu tutarlar transfer tarihindeki döviz alış kuru üzerinden Türk Lirasına çevrilerek Maliye Bakanlığı Merkez Saymanlığı hesabına aktarılır ve bütçeye gelir kaydedilir.

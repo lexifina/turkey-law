@@ -1,0 +1,2 @@
+Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihten itibaren iş ve kadro durumu dikkate alınarak, 2 nci madde hükümlerine göre Adalet Bakanlığınca kurulacak infaz hâkimliklerine Hâkimler ve Savcılar Yüksek Kurulunca atama yapılır. Bu atamalar yapılıncaya kadar Hâkimler ve Savcılar Yüksek Kurulunca yetki ile görevlendirme yapılır.
+Bu Kanunun yürürlüğe girdiği tarihten sonra yapılan işlem veya faaliyetlere karşı ilgili infaz hâkimliğine şikâyet yoluyla başvurulabilir.

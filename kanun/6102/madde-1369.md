@@ -1,7 +1,6 @@
 MADDE 1369- (1) Hakkında deniz alacağı ileri sürülen her geminin ihtiyaten haczi;
 a) Deniz alacağı doğduğunda geminin maliki olan kişi, ihtiyati haczin uygulandığı sırada da bu borçtan sorumlu olup geminin maliki ise; veya
 b) Deniz alacağı doğduğunda geminin kiracısı olan kişi, ihtiyati haczin uygulandığı sırada da bu borçtan sorumlu olup geminin maliki ise; veya
-11273
 c) Deniz alacağı gemi rehni, gemi ipoteği veya gemi üzerinde aynı nitelikteki bir ayni yükümlülük ile teminat altına alınmış ise; veya
 d) Uyuşmazlık geminin mülkiyetine veya zilyetliğine ilişkin ise; veya
 e) Alacak, 1320 nci madde uyarınca gemi alacaklısı hakkı veriyorsa,

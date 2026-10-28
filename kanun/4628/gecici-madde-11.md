@@ -1,2 +1,1 @@
-Geçici Madde 11 – (Ek: 10/5/2006-5496/6 md.)
-3096 sayılı Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanun hükümlerine göre Bakanlık ile yap-işlet-devret sözleşmesi yapmış olan fakat işletmeye girmeden sözleşmelerini sonlandırmış veya sonlandıracak şirketlerin, 4628 sayılı Elektrik Piyasası Kanunu kapsamında lisans alarak faaliyetlerini sürdürmelerini teminen sözleşme kapsamında yap-işlet-devret tesislerinin kurulması için lehlerine irtifak hakkı tesis edilmiş Hazine arazileri, üzerindeki muhdesatların değeri dikkate alınmaksızın rayiç bedeli üzerinden Maliye Bakanlığınca şirkete doğrudan satılır.
+Geçici Madde 11 – (Ek: 10/5/2006-5496/6 md.; Mülga: 14/3/2013-6446/30 md.)

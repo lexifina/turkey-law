@@ -1,5 +1,4 @@
-İKİNCİ BÖLÜM
-Kaynak, Yetiştirme, Hizmet Şartları, Yedeklik Dönemi, Görev ve Sözleşme Süreleri
+Görev ve Sözleşme Süreleri
 Kaynak
 MADDE 3 – (1) (Değişik: 10/12/2014-6582/ 2 md.) Sözleşmeli er kaynaklarını;
 a) En az ilköğretim veya yurt dışındaki dengi okul mezunu olup, askerlik hizmetini erbaş ve er olarak tamamlamış ve düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmi beş yaşını bitirmemiş olanlar,
@@ -18,6 +17,6 @@ d) Cezaları ertelenmiş, seçenek yaptırımlardan birisine çevrilmiş, genel 
 3) 22/5/1930 tarihli ve 1632 sayılı Askerî Ceza Kanununun 148 inci maddesinde belirtilen suçlardan,
 birisinden mahkûm olmamak.
 e) Taksirli suçlar hariç olmak üzere bir suçtan bir ay veya daha fazla hapis cezası ile mahkûm olmamak.
-f) Güvenlik soruşturması olumlu sonuçlanmış olmak.
+f) (Değişik: 15/8/2017-KHK-694/164 md.; Aynen kabul: 1/2/2018-7078/159 md.) Güvenlik soruşturması olumlu sonuçlanmış olmak; güvenlik soruşturmasının sonucunun henüz gelmediği hallerde arşiv araştırması olumlu sonuçlanmış olmak.[2]
 g) Yapılacak fiziki kabiliyet testi ve mülakatlarda başarılı olmak.
 (4) Asgari tugay veya eşidi birlik komutanı veya kurum amiri tarafından haklarında “sözleşmeli erbaş ve er olur” belgesi düzenlenen personelin müracaatları öncelikle kabul edilir.

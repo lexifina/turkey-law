@@ -1,4 +1,4 @@
-MADDE 4 - 4.11.1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 10 uncu maddesinin son fıkrası aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkralar eklenmiştir.
+Madde 4 – 4.11.1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 10 uncu maddesinin son fıkrası aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkralar eklenmiştir.
 Merkez bu hizmetleri ücret veya bedel karşılığı yapar. Toplanan ücret veya bedeller Yükseköğretim Kurulu Öğrenci Seçme ve Yerleştirme Merkezinde oluşturulan döner sermaye işletmesinde toplanır.
 Döner sermaye işletmesinin ilk sermayesi bir trilyon liradır. Döner sermayeden elde edilen gelir fazlası her yılın sonunda döner sermaye işletmesinin sermayesine eklenebileceği gibi ertesi yılın döner sermaye gelirine de eklenebilir.
 Döner sermaye işletmesi, 1050 sayılı Muhasebei Umumiye ve 2886 sayılı Devlet İhale Kanunu hükümlerine tabi değildir.

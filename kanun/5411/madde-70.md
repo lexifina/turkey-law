@@ -9,4 +9,3 @@ f) İstekli olan bir veya birkaç banka ile birleşmesi,
 g) Özkaynakların artırılmasını sağlamak amacıyla uygun görülecek yeni hissedarlar bulunması,
 h) Doğan zararın özkaynaktan indirilmesi,
 Tedbirlerinden bir ya da birkaçının veya uygun göreceği diğer tedbirlerin alınmasını ve uygulanmasını ister.
-9561

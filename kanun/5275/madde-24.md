@@ -5,5 +5,5 @@ b) Aklî ve bedensel durumları nedeniyle veya yaşları itibarıyla özel bir i
 c) Tehlike hâli taşıyanlar,
 d) Terör suçluları,
 e) Suç örgütlerine veya çıkar amaçlı suç örgütlerine mensup olan suçlular,
-Gibi gruplara ayrılırlar.
+gibi gruplara ayrılırlar.
 (2) Hükümlüler ayrıca yaşları, hükümlülük süreleri ve suç türleri itibarıyla da gruplandırılırlar.

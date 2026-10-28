@@ -1,6 +1,5 @@
 Yürürlükten kaldırılan kanun ve hükümler:
-Madde 66 – 1750 sayılı Üniversiteler Kanunu tümü ile, aşağıdaki kanunların ve Yük-
-seköğretim Kurumları ile ilgili diğer kanunların bu kanuna aykırı hükümleri yürürlükten kaldırılmıştır.
+Madde 66 – 1750 sayılı Üniversiteler Kanunu tümü ile, aşağıdaki kanunların ve Yükseköğretim Kurumları ile ilgili diğer kanunların bu kanuna aykırı hükümleri yürürlükten kaldırılmıştır.
 4619 sayılı İstanbul Teknik Üniversitesi Hakkında Kanun ile ek ve değişiklikleri,
 6594 sayılı Karadeniz Teknik Üniversitesi adıyla Trabzon'da Bir Üniversite Kurulması Hakkında Kanun ile ek ve değişiklikleri,
 6595 sayılı Ege Üniversitesi adıyla İzmir'de Bir Üniversite Kurulması Hakkında Kanun ile ek ve değişiklikleri,

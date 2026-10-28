@@ -8,4 +8,3 @@ Piyasada faaliyet gösteren tüzel kişilerin ortaklık yapılarında herhangi b
 Piyasada gerçekleştirilecek ve 4054 sayılı Rekabetin Korunması Hakkında Kanunun 7 nci maddesi kapsamına giren birleşme ve devralmalarda Rekabet Kurulunun izin verme yetkisi saklıdır.
 c) Kurul, bir önceki mali yıl için, en geç bir sonraki yılın Nisan ayının sonuna kadar yazılı bir yıllık raporu bilgi için Bakanlığa gönderir. Raporda, konsolide edilmiş gelir tabloları, bilançolar ve yıllık faaliyetleri esas alan kapsamlı mali tablolar yer alır.
 d) (Değişik: 18/4/2001 - 4646/17 md.) Kurum, Başbakanlık Yüksek Denetleme Kurulu tarafından denetlenir.
-7846-4

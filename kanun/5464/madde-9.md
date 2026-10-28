@@ -3,4 +3,3 @@ MADDE 9 – Kart çıkaran kuruluşlar, kredi kartı almak isteyen kişilerin ya
 Kart çıkaran kuruluş tarafından bir gerçek kişinin sahip olduğu tüm kredi kartları için tanınacak toplam kredi kartları limiti, ilk yıl için, ilgilinin aylık ortalama net gelirinin iki katını, ikinci yıl için ise, dört katını aşamaz. Bu fıkra uygulamasında bin Yeni Türk Lirasına kadar limitler hariç olmak üzere, aylık veya yıllık ortalama gelir düzeyi kart hamili tarafından beyan edilen ve ilgili kuruluşlarca teyit edilen gelirler üzerinden tespit edilir.
 Kart hamilinin talebi üzerine üçüncü kişiler adına asıl karta bağlı ve asıl kart limitini aşmamak kaydı ile ek kredi kartı düzenlenebilir.
 Kurul, ikinci fıkrada yer alan sınırlama da dahil olmak üzere, kart çıkaran kuruluşların genel ve bireysel risk sınır ve oranlarını belirlemeye yetkilidir.
-9707

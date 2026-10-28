@@ -5,6 +5,5 @@ GENEL HÜKÜMLER
 A. Koşullar
 I. Taşınmaz rehninin türleri
 Madde 850- Taşınmaz rehni, ancak ipotek, ipotekli borç senedi veya irat senedi şeklinde kurulabilir.
-8183
 II. Güvence altına alınan alacak
 1. Ana para

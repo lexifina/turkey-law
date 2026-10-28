@@ -1,2 +1,1 @@
-Ek Madde 1 – (Ek: 19/6/2010-6000/39 md.) (2)
-Ekli (1) sayılı listede yer alan kadrolar iptal edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (III) sayılı cetvelin Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığına ait bölümünden çıkarılmış ve ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (III) sayılı cetvelin Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığına ait bölümüne eklenmiştir.
+Ek Madde 1 – (Ek: 19/6/2010-6000/39 md. ; Mülga : 2/7/2018-KHK-703/81 md.)

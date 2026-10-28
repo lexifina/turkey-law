@@ -1,4 +1,1 @@
-Geçici Madde 4- (Ek: 23/3/2006-5478/1 md.)
-Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Anonim Şirketi, ülke genelinde ürün arzının devamlılığını sağlamayı ve yerli tütünden yapılan sigaraların harman reçetelerinde kullanılan tütün çeşitlerinin geleceğini güvence altına almayı teminen, 2005 ürün yılı için sözleşme imzalanan üreticiler ile anılan yılda sözleşme yapılan miktarları aşmamak koşuluyla 2006 ve 2007 ürün yılları için tütün üretim ve alım-satım sözleşmesi imzalayabilir.
-Şirketin stoklarında bulunan ihtiyaç fazlası idare stoku tütünler, destekleme stoku tütünlerin satışında uygulanan usûl ve esaslar dahilinde satılabilir.
-Bu Kanunun 6 ncı maddesi kapsamında gerçekleştirilen tütün satışlarında Kurumca yapılan tescil, gelir vergisi uygulaması bakımından ticaret borsalarına tescil hükmündedir.
+Geçici Madde 4- (Ek: 23/3/2006-5478/1 md.; Mülga: 20/11/2017-KHK-696/82 md.; Aynen kabul: 1/2/2018-7079/77 md.)

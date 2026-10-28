@@ -3,7 +3,6 @@ Emredici Hükümler
 A) Genel olarak
 MADDE 1243- (1) Bir navlun sözleşmesinde veya konişmentoda yahut diğer bir denizde taşıma senedinde yer alıp da;
 a) Taşıyanın borç ve sorumluluklarına ilişkin 1141, 1150, 1151 ve 1178 ilâ 1192 nci maddeler,
-11244
 b) Taşıtan ve yükletenin borç ve sorumluluklarına ilişkin 1145 ilâ 1149, 1165 ve 1208 inci maddeler,
 c) Denizde taşıma senetlerine ilişkin 1228 ilâ 1242 nci maddeler,
 hükümlerinden kaynaklanan borç ve sorumluluklar doğrudan veya dolaylı olarak önceden kaldıran veya daraltan bütün kayıt ve şartlar geçersizdir.

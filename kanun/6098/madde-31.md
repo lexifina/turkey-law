@@ -6,4 +6,3 @@ MADDE 31- Özellikle aşağıda sayılan yanılma hâlleri esaslıdır:
 4. Yanılan, sözleşmeyi yaparken belirli nitelikleri olan bir kişiyi dikkate almasına karşın başka bir kişi için iradesini açıklamışsa.
 5. Yanılan, gerçekte üstlenmek istediğinden önemli ölçüde fazla bir edim için veya gerçekte istediğinden önemli ölçüde az bir karşı edim için iradesini açıklamışsa.
 Basit hesap yanlışlıkları sözleşmenin geçerliliğini etkilemez; bunların düzeltilmesi ile yetinilir.
-10762

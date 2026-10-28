@@ -1,2 +1,0 @@
-MADDE 12- 213 sayılı Kanunun mükerrer 355 inci maddesinin dördüncü fıkrasının sonuna aşağıdaki cümle eklenmiş ve beşinci fıkrasında yer alan “15 gün” ibareleri “30 gün”, “1/4” ibaresi “1/10”, “1/2” ibaresi “1/5”, altıncı fıkrasında yer alan “1/2” ibaresi “1/5” şeklinde değiştirilmiştir.
-“Ancak, bu fıkra uyarınca bir takvim yılı içinde kesilecek özel usulsüzlük cezasının toplamı 770.000 TL’yi geçemez.”

@@ -1,2 +1,0 @@
-MADDE 27 – 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
-“t) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının kurduğu veya iştirak ettiği şirketten (ÖSYM’nin yapacağı mal ve hizmet alımlarında Yükseköğretim Kurulunun uygun görüşü alınmak kaydıyla) sınav faaliyetlerinin yürütülmesine yönelik olarak yapılacak mal ve hizmet alımları,”

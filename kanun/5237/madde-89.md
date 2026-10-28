@@ -1,5 +1,5 @@
 Taksirle yaralama
-Madde 89- (1) Taksirle başkasının vücuduna acı veren veya sağlığının ya da algılama yeteneğinin bozulmasına neden olan kişi, üç aydan bir yıla kadar hapis veya adlî para cezası ile cezalandırılır.
+Madde 89- (1) Taksirle başkasının vücuduna acı veren veya sağlığının ya da algılama yeteneğinin bozulmasına neden olan kişi, dört aydan iki yıla kadar hapis veya adlî para cezası ile cezalandırılır.[47]
 (2) Taksirle yaralama fiili, mağdurun;
 a) Duyularından veya organlarından birinin işlevinin sürekli zayıflamasına,
 b) Vücudunda kemik kırılmasına,
@@ -15,10 +15,5 @@ c) Konuşma ya da çocuk yapma yeteneklerinin kaybolmasına,
 d) Yüzünün sürekli değişikliğine,
 e) Gebe bir kadının çocuğunun düşmesine,
 Neden olmuşsa, birinci fıkraya göre belirlenen ceza, bir kat artırılır.
-(4) Fiilin birden fazla kişinin yaralanmasına neden olması halinde, altı aydan üç yıla kadar hapis cezasına hükmolunur.
+(4) Fiilin birden fazla kişinin yaralanmasına neden olması halinde, dokuz aydan beş yıla kadar hapis cezasına hükmolunur.[48]
 (5) (Değişik: 6/12/2006 – 5560/5 md.) Taksirle yaralama suçunun soruşturulması ve kovuşturulması şikâyete bağlıdır. Ancak, birinci fıkra kapsamına giren yaralama hariç, suçun bilinçli taksirle işlenmesi halinde şikâyet aranmaz.
-–––––––––––––––––––
-(1) Bu fıkralarda geçen “ikinci” ibareleri, 29/6/2005 tarihli ve 5377 sayılı Kanunun 11 inci maddesiyle “üçüncü” olarak değiştirilmiş ve metne işlenmiştir.
-(2) Bu fıkrada yer alan “ikinci” ibaresi, 31/3/2005 tarihli ve 5328 sayılı Kanunun 5 inci maddesiyle “üçüncü” şeklinde değiştirilmiş ve metne işlenmiştir.
-(3) Bu madde başlığı “Daha az cezayı gerektiren haller” iken, 31/3/2005 tarihli ve 5328 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiş, sözkonusu maddenin birinci fıkrası metinden çıkarılmış, ikinci fıkra birinci fıkra olarak teselsül ettirilmiştir.
-8990

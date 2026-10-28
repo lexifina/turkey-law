@@ -5,5 +5,4 @@ MADDE 1493- (1) Sigorta ettiren, 1490 ıncı maddenin ikinci ve üçüncü fıkr
 (5) Lehtar atanması ve lehtar değişiklikleri sigortacının iznine bağlı değildir.
 (6) Lehtarın değiştirilemeyeceği durumlarda, sigorta ettiren tarafından ayrılma ve ödünç alma hakları kullanıldığı takdirde, ödenecek tutar üzerinde lehtar hak sahibi olduğu gibi, rizikonun gerçekleşmesinden önce sigortacının iflası sonucu ödenecek miktar üzerinde de, aksi kararlaştırılmadıkça, lehtar hak sahibidir.
 (7) Sigortacıdan edimi istem ve tahsil yetkisi, aksi kararlaştırılmadıkça, lehtara aittir.
-11296
 2. Lehtar atanmasına ilişkin yorum kuralı

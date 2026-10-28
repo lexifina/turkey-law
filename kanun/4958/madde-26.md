@@ -1,2 +1,0 @@
-MADDE 26 - 506 sayılı Sosyal Sigortalar Kanununun 8 inci maddesinin birinci fıkrasında yer alan "işçi çalıştırmaya başlayacağı tarihten önce" ibaresi, " en geç sigortalı çalıştırmaya başladığı tarihte" şeklinde değiştirilmiş ve aynı maddenin dördüncü fıkrasına aşağıdaki cümle eklenmiştir.
-İşyerinin miras yolu ile intikali halinde, yeni işveren iş yeri bildirgesini ölüm tarihinden itibaren en geç üç ay içinde doğrudan Kuruma vermek veya iadeli taahhütlü olarak göndermekle yükümlüdür.

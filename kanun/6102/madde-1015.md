@@ -3,6 +3,5 @@ MADDE 1015- (1) Gemi ipoteğinin kurulması için geminin maliki ile alacaklın�
 (3) Tescilden önce anlaşma Kanunun öngördüğü şekilde yapılmış veya malik tarafından Gemi Sicili Nizamnamesi uyarınca alacaklıya kayda onay verdiği bildirilmiş ya da sicil müdürlüğüne kayıt dilekçesi verilmiş olduğu takdirde, ilgililer tescilden kaçınamazlar.
 (4) Malikin tasarruf ehliyetinin sonradan sınırlanması, sicile bildirilen kayda onayını veya kayıt istemini geçersiz duruma getirmez.
 (5) Yabancı bir ülkede iktisap edilip, henüz Türk Gemi Sicili veya Türk Uluslararası Gemi Siciline tescil edilmemiş olan gemilerde bayrak şahadetnamesine şerh tescil hükmündedir. Geminin tescilinde bu gibi ipotekler resen sicile geçirilir.
-11196
 (6) Hamiline yazılı bir tahvile bağlı alacağı teminat altına almak amacıyla gemi ipoteği kurulması için malikin sicil müdürlüğüne beyanda bulunması ve sicile tescil yeterlidir.
 3. Sicile geçirilecek hususlar

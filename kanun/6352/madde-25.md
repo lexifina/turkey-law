@@ -1,4 +1,0 @@
-MADDE 25 – 2004 sayılı Kanunun 115 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
-“İhalenin yapılması:
-MADDE 115 – Birinci ve ikinci ihale icra memuru tarafından, ilanda belirlenen yer, gün ve saatte, elektronik ortamda verilen en yüksek teklif üzerinden başlatılır. Satışa çıkarılan mal üç defa bağırıldıktan sonra, elektronik ortamda verilen en yüksek teklif de değerlendirilerek, en çok artırana ihale edilir. Şu kadar ki, artırma bedelinin malın tahmin edilen bedelinin yüzde ellisini bulması ve satış isteyenin alacağına rüçhanı olan diğer alacaklar o malla temin edilmişse bu suretle rüçhanı olan alacakların mecmuundan fazla olması ve bundan başka paraya çevirme ve paraların paylaştırılması masraflarını aşması gerekir.
-Birinci ihalede, alıcı çıkmazsa veya bu maddede yazılı miktara ulaşılmazsa satış icra memuru tarafından geri bırakılır.

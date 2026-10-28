@@ -1,5 +1,5 @@
 Noterlerin hastalıkları halinde yapılacak işlem:
-Madde 59 – Hasta noterler Cumhuriyet savcılığı kanalı ile Hükümet tabiplerinden veya Devlet hastanesi doktorlarından alacakları rapor üzerine, hizmet sürelerine göre aşağıdaki esaslar dahilinde izinli sayılırlar:
+Madde 59 – Noterler, hastalıkları nedeniyle alacakları rapor üzerine, hizmet sürelerine göre aşağıdaki esaslar dahilinde izinli sayılırlar:[8]
 1. Beş yıla kadar (Beş yıl dahil) hizmeti olanlara üç aya kadar,
 2. Beş yıldan on yıla kadar (On yıl dahil) hizmeti olanlara altı aya kadar,
 3. On yıldan daha çok hizmeti olanlara bir yıla kadar izin verilir.

@@ -1,12 +1,7 @@
 Atanma usulleri
-MADDE 15 –(Değişik: 15/2/2014-6524/32 md.)
+MADDE 15 – (Değişik: 15/2/2014-6524/32 md.)
 (1) Teftiş Kurulunda görev yapacak olan;
 a) (Değişik: 18/6/2014-6545/95 md.) Teftiş Kurulu Başkanı ve başkan yardımcıları, birinci sınıf hâkim ve savcılar arasından muvafakatleri alınarak Genel Kurul tarafından,
-––––––––––––––––––
-(1) 15/2/2014 tarihli ve 6524 sayılı Kanunun 31 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “iki” ibaresi “üç”, ikinci fıkrasında yer alan “Üçüncü Daire Başkanının” ibaresi “Başkanın”, üçüncü fıkrasında yer alan “Kurula” ibaresi “Başkana” şeklinde değiştirilmiştir.
-(2) 15/2/2014 tarihli ve 6524 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “Kurula” ibaresinin “Başkana” şeklinde değiştirilmesi Anayasa Mahkemesi’nin 10/4/2014 tarihli ve E.: 2014/57, K.: 2014/81 sayılı Kararı ile iptal edilmiş, Kararın Resmi Gazete’de yayımlandığı 14/5/2014 tarihinden başlayarak üç ay sonra yürürlüğe girmesi hüküm altına alınmış olup daha sonra 18/6/2014 tarihli ve 6545 sayılı Kanunun 94 üncü maddesiyle bu bentte yer alan “Başkana” ibaresi “Kurula” şeklinde değiştirilmiştir.
-(3) 15/2/2014 tarihli ve 6524 sayılı Kanunun 31 inci maddesiyle bu bentte yer alan “Kurul” ibaresi “Başkan” şeklinde değiştirilmiş, daha sonra bu düzenleme Anayasa Mahkemesi’nin 10/4/2014 tarihli ve E.: 2014/57, K.: 2014/81 sayılı Kararı ile iptal edilmiş, Kararın Resmi Gazete’de yayımlandığı 14/5/2014 tarihinden başlayarak üç ay sonra yürürlüğe girmesi hüküm altına alınmış olup daha sonra 18/6/2014 tarihli ve 6545 sayılı Kanunun 94 üncü maddesiyle bu bentte yer alan “Başkan” ibaresi “Kurul” şeklinde değiştirilmiştir.
-10692-1
 b) Kurul başmüfettişleri, Teftiş Kurulunda fiilen beş yılını doldurmuş, birinci sınıfa ayrılmış ve birinci sınıfa ayrılma niteliklerini yitirmemiş olan müfettişler arasından, kıdem sırasına göre Genel Kurul tarafından,
 atanır.
 (2) (İptal: Anayasa Mahkemesi’nin 10/4/2014 tarihli ve E.: 2014/57, K.: 2014/81 sayılı Kararı ile.; Değişik: 18/6/2014-6545/95 md.) Kurul müfettişleri, hâkimlik ve savcılık mesleğinde fiilen en az beş yıl görev yapmış ve üstün başarısı ile Kurul müfettişliği hizmetinde yararlı olacağı anlaşılmış bulunanlar arasından muvafakatleri alınarak Genel Kurul tarafından atanır.

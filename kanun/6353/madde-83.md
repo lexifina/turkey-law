@@ -1,3 +1,0 @@
-MADDE 83 – 5510 sayılı Kanunun 69 uncu maddesinin birinci fıkrasının (f) bendi aşağıdaki şekilde değiştirilmiş ve aynı fıkraya aşağıdaki bent eklenmiştir.
-“f) 60 ıncı maddenin birinci fıkrasının (c) bendinin (4) numaralı alt bendinde belirtilen kişiler ile bunların eşleri, (6) ve (8) numaralı alt bentlerinde sayılanlar ile bunların bakmakla yükümlü olduğu kişiler, (5) ve (7) numaralı alt bentlerinde sayılanlar, vazife malulleri ile 4 üncü maddenin dördüncü fıkrasının (d) ve (e) bentlerinde sayılanlar.”
-“g) 3713 sayılı Kanunun 21 inci maddesinde sayılan olaylara maruz kalmaları nedeniyle yaralananların tedavileri sonuçlanıncaya veya maluliyetleri kesinleşinceye kadar sağlanacak sağlık hizmetleri.”

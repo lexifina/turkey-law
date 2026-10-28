@@ -7,5 +7,5 @@ d) Tür değiştirmeden sonra ortakların sahip olacakları paylara dair değiş
 e) Varsa ortaklar ile ilgili olarak tür değiştirmeden kaynaklanan ek ödeme ile diğer kişisel edim yükümlülükleri ve kişisel sorumluluklar,
 f) Ortaklar için yeni tür dolayısıyla doğan yükümlülükler
 hukuki ve ekonomik yönden açıklanır ve gerekçeleri gösterilir.
-(3) Tüm ortakların onaylaması hâlinde küçük ve orta ölçekli şirketler tür değiştirme raporunun düzenlenmesinden vazgeçebilirler. (1)
+(3) Tüm ortakların onaylaması hâlinde küçük ve orta ölçekli şirketler tür değiştirme raporunun düzenlenmesinden vazgeçebilirler.[35]
 6. Tür değiştirme planının ve tür değiştirme raporunun denetlenmesi

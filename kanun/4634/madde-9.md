@@ -1,17 +1,2 @@
 Kurulun görev ve yetkileri ile denetimi
-MADDE 9 — Kurulun görev ve yetkileri şunlardır:
-a) A ve B kotalarının tespiti, iptal ve transferleri hakkında kararlar alır ve uygular.
-b) Kurum harcamaları ve işlemleri, depolama primi, araştırma geliştirme faaliyetleri ile benzeri idarî giderler için kullanılmak üzere, faaliyetteki şirketlerin cari pazarlama yılına ait, yeni kurulan şirketlerin ise ilk pazarlama yılına ait A kotaları karşılığı şeker miktarının ilgili pazarlama yılı başındaki fabrika satış fiyatı üzerinden hesaplanacak tutarının binde beşini aşmamak üzere katılım paylarını belirler, bu konuda karar alır ve uygular. Her bir pazarlama yılı için Kurulca hesaplanarak Eylül ayının ilk haftasında şirketlere bildirilecek olan katkı payı tutarının onikide biri Eylül ayından başlamak ve takip eden takvim yılının Ağustos ayında tamamlanmak üzere, her ay sonunu takip eden yedi iş günü içinde Kurum özel hesabına aktarılır. Katılım paylarını yeniden belirlemeye Bakanlar Kurulu yetkilidir.
-c)Şeker için depolama kesintisinin yapılıp yapılmaması, prim ödenip ödenmemesi hususunda karar alır ve uygular. Yurt içi üretim ve pazar işleyişlerinde bu Kanunun amaçlarına uygun olarak düzenleme yapmaya, depolama kesintisini almaya, depolama prim miktarlarını tayin, sarf ve mahsuba ilişkin kararlar alır.
-d)İç fiyat, arz talep dengesi ve spekülatif etkileri dikkate alarak şeker ticaretinde yapılması istenen düzenlemeler konusundaki görüşlerini Müsteşarlığa bildirir.
-e) Bu Kanunda öngörülen idarî para cezalarını uygular.
-f) Sektörle ilgili araştırma-geliştirme faaliyetlerini yönlendirerek organizasyon sağlar ve gerekli olduğu hallerde kaynak tahsis eder.
-g) Bu Kanunun kendisine verdiği görevleri yerine getirirken, gerekli gördüğü her türlü bilgiyi; kamu kurum ve kuruluşları ile piyasada mal veya hizmet üreten, pazarlayan, satan gerçek ve tüzel kişilerle, bunların her türlü birliklerinden isteyebilir. Kurul tarafından istenen bilgiler tam ve doğru olarak, talep edilen süre dahilinde ilgili kurum ve kuruluşlar tarafından Kurula verilir.
-h)Şirket ve bünyesindeki fabrikalarda, görevleri ile ilgili konularda araştırma ve denetimde bulunabilir. Bu amaçla gerektiğinde ilgili kurum, kuruluş ve kişilerden yararlanabilir.
-ı)Bu Kanunun amaçlarına uygun olarak sektörle ilgili diğer hususlarda kararlar alır ve uygular.
-j) Yurt içinde ve dışında konusu ile ilgili kuruluşlarla işbirliği yapabilir, gerektiğinde bu kuruluşlara üye olabilir.
-(Değişik ikinci fıkra: 23/1/2008-5728/489 md.) Kurulun para, evrak ve her çeşit malları devlet malı hükmündedir. Kurulun başkan ve üyeleri ile diğer personeli görevleriyle bağlantılı olarak işledikleri suçlar ile bunlara karşı işlenen suçlardan dolayı sorumluluk bağlamında Türk Ceza Kanununun uygulamasında kamu görevlisi sayılırlar.
-(Değişik üçüncü fıkra: 23/1/2008-5728/489 md.) Kurul üyelerinin, görevlerini yaptıkları sırada öğrendikleri gizli bilgileri açıklamaları halinde, haklarında Türk Ceza Kanununun 258 inci maddesi hükmü uygulanır ve Kuruldaki görevlerine son verilir. Bu kişiler Kurul üyeliğine tekrar seçilemezler.
-Kurul, ticarî sırlar ve gizli rekabet bilgileri de dahil olmak üzere, ticarî açıdan hassas olan her türlü bilginin açıklanmasını engelleyecek usul ve esasları belirlemek ve uygulamakla görevlidir.
-Kuruma ait gelirler, Türkiye’de yerleşik bankalarda açılacak hesaplarda toplanır. Bu hesaplardan Kurul, bu Kanunun amaçlarına uygun olarak harcama yapmaya yetkilidir.
-Kurumun denetimi Başbakanlık Yüksek Denetleme Kurulu tarafından yapılır.
+Madde 9 – (Mülga: 20/11/2017-KHK-696/74 md.; Aynen kabul: 1/2/2018-7079/69 md.)

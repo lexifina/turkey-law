@@ -1,2 +1,0 @@
-MADDE 93 – 5237 sayılı Kanunun 288 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 288 – (1) Görülmekte olan bir davada veya yapılmakta olan bir soruşturmada, hukuka aykırı bir karar vermesi veya bir işlem tesis etmesi ya da gerçeğe aykırı beyanda bulunması için, yargı görevi yapanı, bilirkişiyi veya tanığı hukuka aykırı olarak etkilemek amacıyla alenen sözlü veya yazılı beyanda bulunan kişi, elli günden az olmamak üzere adli para cezası ile cezalandırılır.”

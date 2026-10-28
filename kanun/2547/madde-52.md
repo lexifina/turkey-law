@@ -1,6 +1,6 @@
-Atamalar: (1)
+Atamalar:
 Madde 52 – Atama esasları:
-a. (Değişik: 17/8/1983 - 2880/29 md.) (…) (1) Genel Sekreter ile daire başkanları, müdürler, hukuk müşavirleri ve uzmanlar, yükseköğretim üst kuruluşlarında ilgili kuruluşların görüşü alınarak Yükseköğretim Üst Kuruluşunun Başkanı; üniversitelerde ise yönetim kurulunun görüşü alınarak rektör tarafından atanır. Fakülte, enstitü ve yüksekokul sekreterinin atanması, ilgili dekan ve müdürün önerisi üzerine rektör tarafından yapılır.
+a. (Değişik: 17/8/1983 - 2880/29 md.) (…)[49] Genel Sekreter ile daire başkanları, müdürler, hukuk müşavirleri ve uzmanlar, yükseköğretim üst kuruluşlarında ilgili kuruluşların görüşü alınarak Yükseköğretim Üst Kuruluşunun Başkanı; üniversitelerde ise yönetim kurulunun görüşü alınarak rektör tarafından atanır. Fakülte, enstitü ve yüksekokul sekreterinin atanması, ilgilidekan ve müdürün önerisi üzerine rektör tarafından yapılır.
 b. Üst kuruluşların ve üniversitelerin genel sekreterlerinin üniversite lisans diplomasına, fakülte sekreterleri ile enstitü ve yüksekokul sekreterlerinin yükseköğretim diplomasına sahip olmaları şarttır.
 c. Memurların atanmaları; fakültelerde ve bağlı kuruluşlarda dekanların, rektörlüğe bağlı kuruluşlarda ilgili müdürlerin, yükseköğretim üst kuruluşlarında ve üniversite merkez örgütünde genel sekreterin önerisi üzerine kadro esas alınmak üzere başkan veya rektör tarafından yapılır.
 d. Yardımcı hizmetler sınıfı personeli, yükseköğretim üst kuruluşlarında, rektörlükte ve rektörlüğe bağlı kuruluşlarda genel sekreterin önerisi üzerine başkan veya rektör, fakültelerde ve fakültelere bağlı kuruluşlarda fakülte sekreterinin önerisi üzerine dekanlar, enstitü ve yüksekokullarda sekreterin önerisi üzerine müdür tarafından atanırlar.

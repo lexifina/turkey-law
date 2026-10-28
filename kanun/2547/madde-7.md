@@ -5,22 +5,21 @@ a) Yükseköğretim kurumlarının bu Kanunda belirlenen amaç, hedef ve ilkeler
 b) Yükseköğretim kurumları arasında bu Kanunda belirlenen amaç, ilke ve hedefler doğrultusunda birleştirici, bütünleştirici, sürekli, ahenkli ve geliştirici işbirliği ve koordinasyonu sağlamak,
 c) Üniversite çalışmalarının en verimli düzeyde sürdürülmesi için büyümenin sınırlarını tespit etmek ve yaz öğretimi, gece öğretimi, ikili öğretim gibi tedbirler almak,
 d) Devlet kalkınma planlarının ilke ve hedefleri doğrultusunda ve yükseköğretim planlaması çerçevesi içinde;
-(1) Yeni üniversite kurulmasına ve gerektiğinde birleştirilmesine ilişkin önerilerini veya görüşlerini Milli Eğitim Bakanlığına sunmak,
-5352-2
+(1) (Mülga: 2/7/2018 – KHK-703/135 md.)
 (2) Bir üniversite içinde fakülte, enstitü ve yüksekokul açılmasına, birleştirilmesi veya kapatılması ile ilgili olarak doğrudan veya üniversitelerden gelecek önerilere dayalı kararlar almak ve gereği için Milli Eğitim Bakanlığına sunmak,
 Yükseköğretim kurumları içinde bölüm, anabilim ve anasanat dalları ile uygulama ve araştırma merkezi açılması, birleştirilmesi veya kapatılması; konservatuvar, meslek yüksekokulu veya destek, hazırlık okul veya birimleri kurulması ile ilgili olarak doğrudan veya üniversitelerden gelecek öneriler üzerine karar vermek,
 Eğitim - öğretimin aksaması sonucunu doğuracak olaylar dolayısıyla öğrenime ara verilmesine veya tekrar başlatılmasına ilişkin olarak üniversitelerden gelecek önerilere göre veya doğrudan karar verip uygulatmak,
-(3) Bakanlıklar tarafından kurulacak yükseköğretim kurumlarının kuruluş, amaç ve esaslarını inceleyerek görüşlerini ilgili makama sunmak,
-e) Yükseköğretim kurumlarında eğitim - öğretim programlarının asgari ders saatlerini ve sürelerini,öğrencilerin yatay ve dikey geçişleriyle ve yüksekokul mezunlarının bir üst düzeyde öğrenim yapmalarına ilişkin esasları Üniversitelerarası Kurulun da görüşlerini alarak tespit etmek,
-f) Üniversitelerin ihtiyaçlarını, eğitim - öğretim programlarını,bilim dallarının niteliklerini, araştırma faaliyetlerini, uygulama alanlarını, bina, araç, gereç ve benzeri imkanlar ve öğrenci sayılarını ve diğer ilgili hususları dikkate alarak; üniversitelerin profesör, doçent ve yardımcı doçent kadrolarını dengeli bir oranda tespit etmek,
-5353
+(3) (Mülga: 2/7/2018 – KHK-703/135 md.)
+(4) (Ek: 18/6/2017-7033/13 md.) Yükseköğretim kurumlarının ihtisaslaşmasına yönelik çalışmalar yapmak ve bu konuda karar vermek.
+e) Yükseköğretim kurumlarında eğitim - öğretim programlarının asgari ders saatlerini ve sürelerini, öğrencilerin yatay ve dikey geçişleriyle ve yüksekokul mezunlarının bir üst düzeyde öğrenim yapmalarına ilişkin esasları Üniversitelerarası Kurulun da görüşlerini alarak tespit etmek,
+f) Üniversitelerin ihtiyaçlarını, eğitim - öğretim programlarını, bilim dallarının niteliklerini, araştırma faaliyetlerini, uygulama alanlarını, bina, araç, gereç ve benzeri imkanlar ve öğrenci sayılarını ve diğer ilgili hususları dikkate alarak; üniversitelerin profesör, doçent ve doktor öğretim üyesi kadrolarını dengeli bir oranda tespit etmek,[7]
 g) Her yıl üniversitelerin verecekleri faaliyet raporlarını inceleyerek değerlendirmek;
 üstün başarı gösterenlerle, yeterli görülmeyenleri tespit etmek ve gerekli önlemleri almak,
 h) Üniversitelerin her eğitim - öğretim programına kabul edeceği öğrenci sayısı önerilerini inceleyerek kapasitelerini tespit etmek; insangücü planlaması, kurumların kapasiteleri ve öğrencilerin ilgi ve yetenekleri doğrultusunda ortaöğretimdeki yönlendirme esaslarını da dikkate alarak öğrencilerin seçilmesi ve kabul edilmesi ile ilgili esasları tespit etmek,
 ı) Yükseköğretim kurumlarında ve bu kurumlara girişte imkan ve fırsat eşitliği sağlayacak önlemleri almak,
 j) Her eğitim - öğretim programında öğrencilerden alınacak harca ait ilgili yükseköğretim kurumlarının önerilerini inceleyerek karara bağlamak,
 k) Yükseköğretim üst kuruluşları ile üniversitelerce hazırlanan bütçeleri tetkik ve onayladıktan sonra Milli Eğitim Bakanlığına sunmak,
-l) Rektörlerin disiplin işlemlerini kovuşturmak ve karara bağlamak, öğretim elemanlarından bu Kanunda öngörülen görevleri yerine getirmekte yetersizliği görülenler ile bu Kanunla belirlenen yükseköğretimin amaç, ana ilkeleri ve öngördüğü düzene aykırı harekette bulunanları rektörün önerisi üzerine veya doğrudan, normal usulüne göre, yükseköğretim kurumları ile ilişkilerini kesmek (…)(1),
+l) Rektörlerin disiplin işlemlerini kovuşturmak ve karara bağlamak, öğretim elemanlarından bu Kanunda öngörülen görevleri yerine getirmekte yetersizliği görülenler ile bu Kanunla belirlenen yükseköğretimin amaç, ana ilkeleri ve öngördüğü düzene aykırı harekette bulunanları rektörün önerisi üzerine veya doğrudan, normal usulüne göre, yükseköğretim kurumları ile ilişkilerini kesmek (…)[8],
 m) Çeşitli bilim ve sanat alanlarında bilimsel milli komiteler ve çalışma grupları kurmak,
 n) Gerektiğinde yeni kurulan veya gelişmekte olan üniversitelere gelişmiş üniversitelerin eğitim - öğretim ve eleman yetiştirme alanlarında yapacağı katkıyı gerçekleştirmek için gelişmiş üniversiteleri görevlendirmek ve bu konudaki uygulama esaslarını tespit etmek,
 o) Vakıflar tarafından kurulacak yükseköğretim kurumlarının bu Kanun hükümlerine göre açılması hususundaki görüş ve önerilerini Milli Eğitim Bakanlığına sunmak, bu kurumlara ilişkin gerekli düzenlemeleri yapmak ve bunları gözetmek, denetlemek,

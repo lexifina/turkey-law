@@ -1,6 +1,5 @@
 İdari para cezaları
 MADDE 23 – (1) Bu Kanuna göre yasaklanan fiiller, daha ağır bir cezayı gerektirmediği takdirde, bu madde hükümlerine göre idari para cezası ile cezalandırılır. Bu Kanuna göre idari para cezalarının veya idari yaptırımların uygulanması, bu Kanunun diğer hükümlerinin uygulanmasına engel oluşturmaz. Bu Kanuna göre verilen ceza ve alınacak tedbirler, diğer kanunlar gereği yapılacak işlemleri engellemez.
-12108
 (2) Bu Kanuna göre;
 a) Tehlikeli fiil nedeniyle önemli ve tamiri mümkün olmayan bir hasar veya zarar verenler beş yüz bin Türk Lirası,
 b) Petrol işlemi esnasında tehlikeli fiil yapanlar üç yüz elli bin Türk Lirası, verilen süre içinde önlem almayanlar geçen her bir gün için elli bin Türk Lirası,

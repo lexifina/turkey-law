@@ -5,7 +5,6 @@ b) Yönetim kurulu faaliyet raporu, denetim kurulu raporu, bilanço ve gelir ve 
 c) Yönetim kurulu ve denetim kurulunu ibra etmek.
 d) Yeni döneme ait çalışma programı ile bu programda yer alan eğitim, teorik ve pratik kurs programlarını ve tahmini bütçeyi incelemek, aynen veya değiştirerek kabul etmek.
 e) İşlem ve eylemleri nedeniyle hukuki ve cezai sorumluluğu tespit edilen organ üyeleri hakkında dava açılmasına, bunların görevde kalıp kalmamasına karar vermek.
-9422
 f) Yönetim kurulunca hazırlanan yönetmelikleri onamak.
 g) Herhangi bir sebeple birlik ve federasyonlarla Konfederasyon yönetim kurulu ve denetim kurulu arasında çıkacak görüş ayrılıklarını çözüme kavuşturmak.
 h) Esnaf ve sanat sahiplerinin meslek ve sanatlarının yürütülmesi için gerekli ve faydalı görülecek tedbir ve teşebbüslerden yönetim kurulu tarafından getirilecek konuları incelemek ve karara bağlamak.

@@ -3,7 +3,6 @@ MADDE 5 – (1) İşverenin yükümlülüklerinin yerine getirilmesinde aşağı
 a) Risklerden kaçınmak.
 b) Kaçınılması mümkün olmayan riskleri analiz etmek.
 c) Risklerle kaynağında mücadele etmek.
-11650
 ç) İşin kişilere uygun hale getirilmesi için işyerlerinin tasarımı ile iş ekipmanı, çalışma şekli ve üretim metotlarının seçiminde özen göstermek, özellikle tekdüze çalışma ve üretim temposunun sağlık ve güvenliğe olumsuz etkilerini önlemek, önlenemiyor ise en aza indirmek.
 d) Teknik gelişmelere uyum sağlamak.
 e) Tehlikeli olanı, tehlikesiz veya daha az tehlikeli olanla değiştirmek.

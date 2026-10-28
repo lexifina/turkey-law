@@ -1,2 +1,1 @@
-213 sayılı Vergi Usul Kanununun 280 inci maddesi hükmü bu madde kapsamında yapılacak değerlemede uygulanmaz.”
-MADDE 22- 23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanuna ekli (2) sayılı cetvele “Gelir İdaresi Başkanı,” ibaresinden sonra gelmek üzere “Gelir İdaresi Başkan Yardımcıları, Gelir İdaresi Daire Başkanları ve Vergi Dairesi Başkanları,” ibaresi eklenmiştir.
+MADDE 22- (23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanun ile ilgili olup yerine işlenmiştir.)

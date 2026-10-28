@@ -1,5 +1,5 @@
-İptal davası
-MADDE 439- (1) Hakem kararına karşı yalnızca iptal davası açılabilir. İptal davası, tahkim yerindeki mahkemede açılır; öncelikle ve ivedilikle görülür.
+İptal davası[70]
+MADDE 439- (1) Hakem kararına karşı yalnızca iptal davası açılabilir. İptal davası, tahkim yeri bölge adliye mahkemesinde açılır; öncelikle ve ivedilikle görülür.
 (2) a) Tahkim sözleşmesinin taraflarından birinin ehliyetsiz ya da tahkim sözleşmesinin geçersiz olduğu,
 b) Hakem veya hakem kurulunun seçiminde, sözleşmede belirlenen veya bu Kısımda öngörülen usule uyulmadığı,
 c) Kararın, tahkim süresi içinde verilmediği,
@@ -12,6 +12,6 @@ g) Hakem veya hakem kurulu kararına konu uyuşmazlığın Türk hukukuna göre 
 tespit edilirse, hakem kararları iptal edilebilir.
 (3) Hakem veya hakem kurulunun, tahkim sözleşmesi dışında kalan bir konuda karar verdiği iddiasıyla açılan iptal davasında, tahkim sözleşmesi kapsamında olan konuların, tahkim sözleşmesi kapsamında olmayan konulardan ayrılması mümkün olduğu takdirde, hakem kararının sadece tahkim sözleşmesi kapsamında olmayan konuları içeren bölümü iptal edilebilir.
 (4) İptal davası, bir ay içinde açılabilir. Bu süre, hakem kararının veya tavzih, düzeltme ya da tamamlama kararının taraflara bildirildiği tarihten itibaren işlemeye başlar. Hakem kararına karşı iptal davası açılması kararın icrasını durdurmaz. Ancak taraflardan birinin talebi üzerine hükmolunan para veya eşyanın değerini karşılayacak bir teminat gösterilmek şartı ile kararın icrası durdurulabilir.
-(5) İptal talebi, davaya bakan mahkeme aksine karar vermedikçe, dosya üzerinden incelenerek karara bağlanır.
+(5) İptal talebi, davaya bakan bölge adliye mahkemesi aksine karar vermedikçe, dosya üzerinden incelenerek karara bağlanır.
 (6) İptal davası hakkında verilen kararlara karşı temyiz yoluna başvurulabilir. Temyiz incelemesi, bu maddede yer alan iptal sebepleriyle sınırlı olarak, öncelikle ve ivedilikle karara bağlanır. Temyiz, kararın icrasını durdurmaz.
-(7) İptal davasının kabulü hâlinde, kabul kararı temyiz edilmezse veya ikinci fıkranın (b), (ç), (d), (e) ve (f) bentlerindeki hâllerin varlığı sebebiyle kabulü hâlinde, taraflar aksini kararlaştırmamışlarsa hakemleri ve tahkim süresini yeniden belirleyebilirler. Taraflar isterlerse eski hakemleri tayin edebilirler.
+(7) İptal davasının kabulü hâlinde, kabul kararı temyiz edilmezse veya ikinci fıkranın (b), (c), (ç), (d), (e) ve (f) bentlerindeki hâllerin varlığı sebebiyle kabulü hâlinde, taraflar aksini kararlaştırmamışlarsa hakemleri ve tahkim süresini yeniden belirleyebilirler. Taraflar isterlerse eski hakemleri tayin edebilirler.

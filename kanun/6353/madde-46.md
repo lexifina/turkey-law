@@ -1,2 +1,0 @@
-MADDE 46 – 17/2/2011 tarihli ve 6114 sayılı Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 3 üncü maddesinin ikinci fıkrasına aşağıdaki bent eklenmiş ve dördüncü fıkrasının ikinci cümlesinde yer alan “Başkanlık” ibaresi “Başkanlık ile Başkanlığın kuracağı veya iştirak edeceği şirketler” şeklinde değiştirilmiştir.
-“j) Faaliyetleri ile ilgili olarak şirket kurmak, kurulmuş şirketlere ortak olmak.”

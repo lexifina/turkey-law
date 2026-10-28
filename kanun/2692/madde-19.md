@@ -1,0 +1,8 @@
+Nakdi tazminat, madalya ve ödüller[16][17]
+Madde 19 – Sahil Güvenlik Komutanlığı personelinin güvenlik ve asayişin sağlanması ile kaçakçılığın önlenmesi, izlenmesi ve suçlular hakkında gerekli işlemlerin yapılması görevleri sırasında, bu görevlerinden dolayı ya da görevleri sona ermiş olsa bile yaptıkları hizmet nedeniyle derhal veya bu yüzden maruz kaldıkları yaralanma veya hastalık sonucu ölmeleri veya engelli hâle gelmeleri halinde haklarında 3/11/1980 tarih ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun Hükümleri uygulanır.
+(Ek fıkra:21/11/2024-7533/17 md.) Sahil Güvenlik Komutanlığı personelinden kendisine tevdi edilen görevleri cesaret, feragat, kahramanlık veya üstün başarı ile yerine getirenlere İçişleri Bakanı tarafından aşağıda isimleri yazılı madalyalar verilebilir:
+a) Sahil Güvenlik Üstün Cesaret ve Feragat Madalyası,
+b) Sahil Güvenlik Şeref Madalyası,
+c) Sahil Güvenlik Üstün Hizmet Madalyası.
+(Değişik fıkra: 6/12/2019-7196/20 md.) (Mülga birinci cümle:21/11/2024-7533/17 md.) Başka devletlerce tevcih edilen madalya ve nişanlar ile bunlara ait rozet ve minyatürler, İçişleri Bakanlığınca tasvip ve tescil edildikten sonra takılabilir. Verilen madalyaların imalatı ve bunların muhafazalarının temin giderleri bir defaya mahsus olmak üzere bütçeden karşılanır.
+(Ek fıkra: 6/12/2019-7196/20 md.) Bu madde gereğince verilen madalya ve ödüllere ilişkin esaslar, teklif ve değerlendirme işlemleri, ödül verme yetkileri, ödül gerekçelerine göre verilecek ödülün cinsi ve miktarı ile diğer usul ve esaslar İçişleri Bakanlığınca çıkarılacak yönetmelikler ile belirlenir.[18]

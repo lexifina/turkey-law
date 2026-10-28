@@ -9,7 +9,6 @@ d) (Değişik : 16/6/2009-5904/8 md.) Müzayede mahallerinde ve gümrük depolar
 e) Boru hattı ile hampetrol, gaz ve bunların ürünlerinin taşınmaları,
 f) Gelir Vergisi Kanununun 70 inci maddesinde belirtilen mal ve hakların kiralanması işlemleri,
 g) Genel ve katma bütçeli idarelere, il özel idarelerine, belediyeler ve köyler ile bunların teşkil ettikleri birliklere, üniversitelere, dernek ve vakıflara, her türlü mesleki kuruluşlara ait veya tabi olan veyahut bunlar tarafından kurulan veya işletilen müesseseler ile döner sermayeli kuruluşların veya bunlara ait veya tabi diğer müesseselerin ticari, sınai, zirai ve mesleki nitelikteki teslim ve hizmetleri,
-6474
 h) Rekabet eşitsizliğini gidermek maksadıyla isteğe bağlı mükellefiyetler suretiyle vergilendirilecek teslim ve hizmetler.
 Ticari, sınai, zirai faaliyet ile serbest meslek faaliyetinin devamlılığı, kapsamı ve niteliği Gelir Vergisi Kanunu hükümlerine göre; Gelir Vergisi Kanununda açıklık bulunmadığı hallerde, Türk Ticaret Kanunu ve diğer ilgili mevzuat hükümlerine göre tayin ve tespit edilir.
 Bu faaliyetlerin kanunların veya resmi makamların gösterdiği gerek üzerine yapılması, bunları yapanların hukuki statü ve kişilikleri, Türk tabiyetinde bulunup bulunmamaları, ikametgah veya işyerlerinin yahut kanuni merkez veya iş merkezlerinin Türkiye'de olup olmaması işlemlerin mahiyetini değiştirmez ve vergilendirmeye mani teşkil etmez.

@@ -1,2 +1,2 @@
-Yönetmelikler
-MADDE 27 – (1) Bu Kanunun 2 nci maddesinin (d) ve (e) bentleri ile 3, 4, 6, 7, 11, 15, 16, 19 ve 20 nci maddelerinde belirtilen hususlara ilişkin usûl ve esaslar Bakanlar Kurulunca, Kanunun yayımı tarihini izleyen altı ay içinde çıkarılacak yönetmeliklerle düzenlenir.
+Yönetmelikler[15]
+MADDE 27 – (1) Bu Kanunun 2 nci maddesinin (d) ve (e) bentleri ile 3, 4, 6, 7, 11, 15, 16, 19 ve 20 nci maddelerinde belirtilen hususlara ilişkin usûl ve esaslar Cumhurbaşkanınca çıkarılan yönetmeliklerle düzenlenir.

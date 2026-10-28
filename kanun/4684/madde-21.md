@@ -1,2 +1,0 @@
-MADDE 21 — 29.7.1970 tarihli ve 1318 sayılı Finansman Kanununun 3 üncü maddesinin (d) bendi aşağıdaki şekilde değiştirilmiştir.
-d) Gelir Vergisi Kanununun 81 inci maddesi hükümlerine uygun olarak şahıs şirketlerinin sermaye şirketine dönüşme veya ferdi işletmelerin sermaye şirketlerine devrolunması ile Kurumlar Vergisi Kanununa göre yapılan birleşme, devir ve bölünme halleri veya Türk Ticaret Kanunu hükümlerine göre nev'i değişikliği nedeniyle yeni şirkete devredilecek taşıtlar,

@@ -14,7 +14,6 @@ h) Bakan: Enerji ve Tabii Kaynaklar Bakanını,
 i) Devlet hissesi: Üretilen petrol üzerinden Devlete verilecek payı,
 j) Doğal gaz: Yerden çıkan veya çıkarılabilen gaz hâlindeki doğal hidrokarbonları,
 k) Geliştirme: Petrollü arazinin değerlendirilmesi için gerektiği kadar kuyu açılmasını, yer üstü tesislerinin, taşıma hatlarının ve yer üstü depolarının kurulmasını,
-12094
 l) Genel Müdür: Petrol İşleri Genel Müdürünü,
 m) Genel Müdürlük: Petrol İşleri Genel Müdürlüğünü,
 n) Ham petrol: Yerden çıkan veya çıkarılabilen sıvı ve katı hâldeki doğal hidrokarbonları,
@@ -33,7 +32,6 @@ z) Petrollü arazi: İşletmeye elverişli miktarda bir petrol varlığının be
 aa) Sermaye mevcutları: 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununda değerleme ölçüleri gösterilen ekonomik işletmelere dâhil kıymetler ile ilgili petrol hakkı sahibinin aynı Kanun hükümleri gereğince sermaye hesabına alıp aktifleştirdiği arama giderleri, sondaj ferî giderleri ve yurt ekonomisi yönünden verimi olmayan kuyuların açılma giderlerini,
 bb) Sermaye mevcutları esası: Petrol hakkı sahibinin, Türkiye’deki petrol işlemi ile ilgili olarak kullanmaya tahsis ettiği sermaye mevcutlarının 213 sayılı Kanuna göre hesaplanmış kıymetini,
 cc) Sondaj ferî giderleri: Ekonomik ömrü bir yıldan fazla olup tesis edilmemiş veya kullanılmamış olan veya tesisinden veya kullanılmasına başlanmasından itibaren bir yıl sonunda kullanılabilecek durumda olan veya hurda hâlinde olan tesisat veya malzeme masrafları hariç olmak üzere kuyu açma, temizleme, derinleştirme, bitirme veya bu işlemlere hazırlık için ve bunlara ilişkin olarak yapılan tüm işçilik, yakıt, tamir, bakım, nakliye, ikmal, kira ve malzeme masraflarını,
-12095
 çç) Tehlikeli fiil: Petrol işleminin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, sakatlanmasına veya sağlığının bozulmasına, çevrenin kirlenmesine, 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki varlıkların veya yerlerin tahribine veya yok olmasına sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,
 dd) Tespit sondajı: Petrollü arazinin boyutunu tespit etmek üzere sınırlı sayıda kuyu açılmasını,
 ee) Türkiye arazisi: Türkiye Cumhuriyetinin topraklarını, iç sularını, kara sularını ve bunların ötesinde sınırları uluslararası hukuka uygun biçimde belirlenmiş kıta sahanlığı ve münhasır ekonomik bölge alanlarını,

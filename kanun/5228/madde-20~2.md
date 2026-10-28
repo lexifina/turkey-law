@@ -1,2 +1,0 @@
-Eğitim ve öğretim işletmelerinde kazanç istisnası
-Madde 20 - Okul öncesi eğitim, ilköğretim, özel eğitim ve orta öğretim özel okullarının işletilmesinden elde edilen kazançlar, ilgili Bakanlığın görüşü alınmak suretiyle Maliye Bakanlığının belirleyeceği usul ve esaslar çerçevesinde beş vergilendirme dönemi gelir vergisinden müstesnadır. İstisna, okulların faaliyete geçtiği vergilendirme döneminden itibaren başlar.

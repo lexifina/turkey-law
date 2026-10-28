@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içerisinde başvurma kaydıyla, başvuru tarihinde ellibeş yaşını bitirmemiş olan avukatlar arasından 2802 sayılı Kanunun 39 uncu maddesindeki esas ve usule göre atama yapılabilir.

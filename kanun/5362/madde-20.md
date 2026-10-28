@@ -3,7 +3,6 @@ Madde 20- Birlik genel kurulunun görev ve yetkileri şunlardır:
 a) Birlik başkanını, yönetim, denetim ve disiplin kurulu asıl ve yedek üyelerini seçmek.
 b) Yönetim kurulu faaliyet raporu, denetim kurulu raporu, bilanço ve gelir ve gider hesaplarını incelemek, kabul veya reddetmek.
 c) Yönetim kurulu ve denetim kurulunu ibra etmek.
-9415
 d) Yeni döneme ait çalışma programı ile bu program içinde yer alacak olan eğitim, teorik ve pratik kurs programlarını ve tahmini bütçeyi incelemek, aynen veya değiştirerek kabul etmek.
 e) İşlem ve eylemleri nedeniyle hukuki ve cezai sorumluluğu tespit edilen organ üyeleri hakkında dava açılmasına, bunların görevde kalıp kalmamasına karar vermek.
 f) Bakanlıkça düzenlenen birlik ana sözleşmesinde değişiklik yapılması hakkında yönetim kurulunca Bakanlıktan alınacak ön izne dayanarak karar vermek.

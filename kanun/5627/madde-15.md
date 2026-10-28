@@ -1,4 +1,0 @@
-MADDE 15 – 4628 sayılı Kanunun 3 üncü maddesinin sonuna aşağıdaki fıkralar eklenmiştir.
-"Yalnızca kendi ihtiyaçlarını karşılamak amacıyla, Bakanlık tarafından yürürlüğe konulacak yönetmelikte tanımlanan değerin üzerinde verimi olan kojenerasyon tesisi kuran gerçek ve tüzel kişilerden lisans alma ve şirket kurma yükümlülüğünden muaf tutulacaklar, ilgili yönetmelikte düzenlenir.
-Yalnızca kendi ihtiyaçlarını karşılamak amacıyla; yenilenebilir enerji kaynaklarına dayalı, kurulu gücü azami ikiyüz kilovatlık üretim tesisi ile mikro kojenerasyon tesisi kuran gerçek ve tüzel kişiler, lisans alma ve şirket kurma yükümlülüğünden muaftır.
-Kurum, mevcut üretim lisanslarında ve lisans başvurularında teminat ister. Teminat alınması ve irat kaydedilmesine ilişkin hususlar ilgili yönetmelikle düzenlenir."

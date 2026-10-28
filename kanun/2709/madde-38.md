@@ -4,10 +4,10 @@ Suç ve ceza zamanaşımı ile ceza mahkumiyetinin sonuçları konusunda da yuka
 Ceza ve ceza yerine geçen güvenlik tedbirleri ancak kanunla konulur.
 Suçluluğu hükmen sabit oluncaya kadar, kimse suçlu sayılamaz.
 Hiç kimse kendisini ve kanunda gösterilen yakınlarını suçlayan bir beyanda bulunmaya veya bu yolda delil göstermeye zorlanamaz.
-(Ek: 3/10/2001-4709/15 md.) Kanuna aykırı olarak elde edilmiş bulgular, delil olarak kabul edilemez.
+(Ek fıkra: 3/10/2001-4709/15 md.) Kanuna aykırı olarak elde edilmiş bulgular, delil olarak kabul edilemez.
 Ceza sorumluluğu şahsidir.
-(Ek: 3/10/2001-4709/15 md.) Hiç kimse, yalnızca sözleşmeden doğan bir yükümlülüğü yerine getirememesinden dolayı özgürlüğünden alıkonulamaz.
-(Ek: 3/10/2001-4709/15 md; Mülga: 7/5/2004-5170/5 md.)
+(Ek fıkra: 3/10/2001-4709/15 md.) Hiç kimse, yalnızca sözleşmeden doğan bir yükümlülüğü yerine getirememesinden dolayı özgürlüğünden alıkonulamaz.
+(Ek fıkra: 3/10/2001-4709/15 md; Mülga fıkra: 7/5/2004-5170/5 md.)
 (Değişik onuncu fıkra: 7/5/2004-5170/5 md.) Ölüm cezası ve genel müsadere cezası verilemez.
 İdare, kişi hürriyetinin kısıtlanması sonucunu doğuran bir müeyyide uygulayamaz. Silahlı Kuvvetlerin iç düzeni bakımından bu hükme kanunla istisnalar getirilebilir.
 (Değişik son fıkra: 7/5/2004-5170/5 md.) Uluslararası Ceza Divanına taraf olmanın gerektirdiği yükümlülükler hariç olmak üzere vatandaş, suç sebebiyle yabancı bir ülkeye verilemez.

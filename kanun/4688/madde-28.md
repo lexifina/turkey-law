@@ -1,8 +1,8 @@
 ALTINCI KISIM
-Toplu Sözleşme (1)
+Toplu Sözleşme[29]
 BİRİNCİ BÖLÜM
 Genel Hükümler
-Toplu sözleşmenin kapsamı (2)
+Toplu sözleşmenin kapsamı[30]
 Madde 28 – (Değişik: 4/4/2012-6289/18 md.)
 Toplu sözleşme; kamu görevlilerinin mali ve sosyal haklarını düzenleyen mevcut mevzuat hükümleri dikkate alınarak kamu görevlilerine uygulanacak katsayı ve göstergeler, aylık ve ücretler, her türlü zam ve tazminatlar, ek ödeme, toplu sözleşme ikramiyesi, fazla çalışma ücreti, harcırah, ikramiye, doğum, ölüm ve aile yardımı ödenekleri, cenaze giderleri, yiyecek ve giyecek yardımları ve diğer mali ve sosyal hakları kapsar.
 Toplu sözleşme ikramiyesi hariç olmak üzere toplu sözleşme hükümlerinin uygulanmasında sendika üyesi olan ve sendika üyesi olmayan kamu görevlileri arasında ayrım yapılamaz.

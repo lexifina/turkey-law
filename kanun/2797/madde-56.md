@@ -5,6 +5,3 @@ Daire başkanları ile üyelerin nöbetlerinin düzenlenmesinde kendilerinden so
 (Değişik dördüncü fıkra: 8/8/2011-KHK-650/13 md.; İptal fıkra: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/20 md.) Adli ara vermeden yararlanmayan Yargıtay üyeleri yılın diğer dönemlerinde yol süresi dâhil adli ara verme süresi kadar izin kullanabilirler.
 Adli aravermeden faydalananlar, kısmen veya tamamen yıllık izin kullanamazlar. O yılın yıllık iznini adli aravermeden önce kısmen veya tamamen kullanmış olanların nöbetçi kalması zorunludur.
 Adli aravermede nöbetçi kalacaklara durum, adli aravermeden en az iki ay önce duyurulur.
-–––––––––––––––––––––
-(1) 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
-5600-1

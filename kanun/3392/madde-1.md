@@ -12,9 +12,6 @@ Madde 1 – 1. Ekli (1) sayılı listede adları yazılı kasaba ve köyleri kap
 12. Ekli (12) sayılı listede adları yazılı köyleri kapsamak ve merkezi Yenipazar Bucak Merkezi olmak ve aynı adla bir belediye kurulmak üzere, Bilecik İlinde Yenipazar adıyla,
 13. Ekli (13) sayılı listede adları yazılı köyleri kapsamak ve merkezi Adaklı Bucak Merkezi olmak üzere Bingöl İlinde Adaklı adıyla,
 14. Ekli (14) sayılı listede adları yazılı köyleri kapsamak ve merkezi Yayladere Bucak Merkezi olmak üzere, Bingöl İlinde Yayladere adıyla,
-——————————
-(1) Bu Kanunun ekindeki listeler aynı tarihli Resmi Gazete'de yayımlanmıştır. Daha sonra 20/4/1989tarih ve 3541 sayılı Kanunun 1.maddesi ile bu maddenin 57 nci bendine bağlı (57) sayılı liste değiştirilmiş olup 28/4/1989 tarih ve 20152 sayılı Resmi Gazete'de yayımlanmıştır.
-6962
 15. Ekli (15) Sayılı listede adları yazılı köyleri kapsamak ve Çukur Bucağının merkezi olan Güroymak Belediyesi merkez olmak üzere, Bitlis İlinde Güroymak adıyla,
 16. Cumayeri ve Gümüşova Belediyelerinin tüzelkişilikleri kaldırılarak, bu iki belde Cumaova adıyla tek bir belediye haline dönüştürülmüş ve ekli (16) sayılı listede adları yazılı köyleri kapsamak ve Cumayeri ile Gümüşova Belediyeleri birlikte Merkez olmak üzere, Bolu İlinde Cumaova adıyla,
 17. Ekli (17) sayılı listede adları yazılı bucak, kasaba ve köyleri kapsamak ve merkezi Gölyaka Bucak Merkezi olmak üzere, Bolu İlinde Gölyaka adıyla,
@@ -36,7 +33,6 @@ Madde 1 – 1. Ekli (1) sayılı listede adları yazılı kasaba ve köyleri kap
 33. Ekli (33) sayılı listede adları yazılı bucak ve köyleri kapsamak ve merkezi Üzümlü Bucak Merkezi olmak üzere, Erzincan İlinde Üzümlü adıyla,
 34. Ekli (34) sayılı listede adları yazılı bucak ve köyleri kapsamak ve Karaçoban Belediyesi Merkez olmak üzere, Erzurum İlinde Karaçoban adıyla,
 35. Ekli (35) sayılı listede adları yazılı köyleri kapsamak ve merkezi Uzundere Bucak Merkezi olmak üzere, Erzurum İlinde Uzundere adıyla,
-6963
 36. Ekli (36) sayılı listede adları yazılı kasaba ve köyleri kapsamak ve merkezi Alpu Bucak Merkezi olmak üzere, Eskişehir İlinde Alpu adıyla,
 37. Ekli (37) sayılı listede adları yazılı kasaba ve köyleri kapsamak ve Beylikahır Bucağının merkezi olan Beylikova Belediyesi Merkez olmak üzere, Eskişehir İlinde Beylikova adıyla,
 38. Ekli (38) sayılı listede adları yazılı köyleri kapsamak ve merkezi İnönü Bucak Merkezi olmak üzere, Eskişehir İlinde İnönü adıyla,
@@ -56,10 +52,9 @@ Madde 1 – 1. Ekli (1) sayılı listede adları yazılı kasaba ve köyleri kap
 52. Ekli (52) sayılı listede adları yazılı mahalleleri kapsamak ve Kağıthane semti ile aynı listede adları yazılı bu mahalleler merkez olmak ve aynı adla bir belediye kurulmak üzere, İstanbul İlinde Kağıthane adıyla,
 53. Ekli (53) sayılı listede adları yazılı mahalle ve köyleri kapsamak ve Buca semti ile aynı listede adları yazılı mahalleler merkez olmak ve aynı adla bir belediye kurulmak üzere, İzmir İlinde Buca adıyla,
 54. Ekli (54) sayılı listede adları yazılı bucak, kasaba ve köyleri kapsamak ve merkezi Cumaovası olmak ve Cumaovası Belediyesi adının Menderes olarak değiştirilmek üzere, İzmir İlinde Menderes adıyla,
-6964
 55. Ekli (55) sayılı listede adları yazılı bucak ve köyleri kapsamak ve İzmir Merkez İlçe Belediyesi hudutları içinde (Buca hariç) kalan mahalleler merkez olmak ve İzmir Merkez İlçe Belediyesinin adı Konak olarak değiştirilmek üzere, İzmir İlinde Konak adıyla,
 56. Ekli (56) sayılı listede adları yazılı köyleri kapsamak ve merkezi Beydağ Bucak Merkezi olmak üzere, İzmir İlinde Beydağ adıyla,
-57. Ekli (57) sayılı listede adları yazılı köyleri kapsamak ve merkezi Çağlıyancerit Belediyesi merkez olmak üzere, Kahramanmaraş İlinde Çağlıyancerit adıyla,
+57. Ekli (57) sayılı listede adları yazılı köyleri kapsamak ve merkezi Çağlayancerit Belediyesi merkez olmak üzere, Kahramanmaraş İlinde Çağlayancerit adıyla,[3]
 58. Ekli (58) sayılı listede adları yazılı köyleri kapsamak ve merkezi Akyaka Bucak merkezi olmak üzere, Kars İlinde Akyaka adıyla,
 59. Ekli (59) sayılı listede adları yazılı köyleri kapsamak ve merkezi İhsangazi Bucak Merkezi olmak üzere, Kastamonu İlinde İhsangazi adıyla,
 60. Ekli (60) sayılı listede adları yazılı köyleri kapsamak ve merkezi Pınarbaşı bucak merkezi olmak ve bu merkezde aynı adla bir belediye kurulmak üzere, Kastamonu İlinde Pınarbaşı adıyla,
@@ -77,7 +72,6 @@ Madde 1 – 1. Ekli (1) sayılı listede adları yazılı kasaba ve köyleri kap
 72. Ekli (72) sayılı listede adları yazılı köyleri kapsamak ve merkezi Aslanapa Bucak Merkezi olmak üzere, Kütahya İlinde Aslanapa adıyla,
 73. Ekli (73) sayılı listede adları yazılı köyleri kapsamak ve merkezi Şaphane Bucak Merkezi olmak üzere Kütahya İlinde Şaphane adıyla,
 74. Ekli (74) sayılı listede adları yazılı köyleri kapsamak ve merkezi Dumlupınar Bucak Merkezi olmak üzere, Kütahya İlinde Dumlupınar adıyla,
-6965
 75. Ekli (75) sayılı listede adları yazılı köyleri kapsamak ve merkezi Hisarcık kasabası olmak üzere, Kütahya İlinde Hisarcık adıyla,
 76. Ekli (76) sayılı listede adları yazılı köyleri kapsamak ve merkezi Eskimalatya Bucak Merkezi olmak ve Eskimalatya Belediyesinin adı Battalgazi Belediyesi olarak değiştirilmek üzere, Malatya İlinde Battalgazi adıyla,
 77. Ekli (77) sayılı listede adları yazılı köyleri kapsamak ve merkezi Ahmetli Bucak Merkezi olmak üzere, Manisa İlinde Ahmetli adıyla,
@@ -101,7 +95,6 @@ Madde 1 – 1. Ekli (1) sayılı listede adları yazılı kasaba ve köyleri kap
 95. Ekli (95) sayılı listede adları yazılı köyleri kapsamak ve Yeşilyurt Belediyesi Merkez olmak üzere, Tokat İlinde Yeşilyurt adıyla,
 96. Ekli (96) sayılı listede adları yazılı köyleri kapsamak ve merkezi Beşikdüzü Bucak Merkezi olmak üzere, Trabzon İlinde Beşikdüzü adıyla,
 97. Ekli (97) sayılı listede adları yazılı köyleri kapsamak ve merkezi Şalpazarı Bucak Merkezi olmak üzere, Trabzon İlinde Şalpazarı adıyla,
-6966
 98. Ekli (98) sayılı listede adları yazılı köyleri kapsamak ve merkezi Altınbaşak Bucak Merkezi olmak üzere, Şanlıurfa İlinde Harran adıyla,
 99. Ekli (99) sayılı listede adları yazılı köyleri kapsamak ve merkezi Çaldıran Bucak Merkezi olmak üzere, Van İlinde Çaldıran adıyla,
 100. Ekli (100) sayılı listede adları yazılı köyleri kapsamak ve merkezi Bahçesaray Bucak Merkezi olmak üzere, Van İlinde Bahçesaray adıyla,

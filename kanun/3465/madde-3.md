@@ -1,4 +1,4 @@
-Tanımlar (2)
+Tanımlar[2]
 Madde 3 – Bu Kanunda geçen deyimlerden;
 a) Bakan; Ulaştırma Bakanını,
 b) Bakanlık; Ulaştırma Bakanlığını,

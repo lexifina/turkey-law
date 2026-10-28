@@ -1,1 +1,0 @@
-EK MADDE 47.- Bu Kanuna göre gelir veya aylık almakta olan kız çocuklarının sosyal güvenlik sözleşmesi akdedilmiş ülkelerdeki sosyal güvenlik kuruluşlarına tabi çalışmaya başlamaları veya bu ülkelerin sosyal güvenlik kuruluşlarından gelir veya aylık almaya başlamaları halinde, bağlanan gelir ve aylıkları kesilir.

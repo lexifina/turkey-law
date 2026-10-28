@@ -1,7 +1,1 @@
-MADDE 36 - 1.7.1964 tarihli ve 488 sayılı Damga Vergisi Kanununa ekli (1) sayılı tablonun "II- Kararlar ve mazbatalar:" başlıklı bölümünün (2) numaralı fıkrasının sonuna aşağıdaki cümle eklenmiş, "III-Ticarî işlemlerde kullanılan kağıtlar:" başlıklı bölümünün (2) numaralı fıkrasına aşağıdaki (ı) bendi eklenmiş, "IV. Makbuzlar ve diğer kağıtlar:" başlıklı bölümünün (1) numaralı fıkrasının (h) bendi ile (2) sayılı tablonun "IV-Ticarî ve medeni işlerle ilgili kağıtlar:" başlıklı bölümünün (16), (26) ve (30) numaralı fıkraları aşağıdaki şekilde değiştirilmiştir.
-(Maliye Bakanlığının veya Sayıştayın vizesine tâbi ihale kararlarının vize edilmemesi durumunda ihale kararının hükmünden yararlanılmamış sayılır.)
-ı) Gümrük idarelerine verilen özet beyan formları (2.800.000 TL.)
-h) Kişiler tarafından resmi dairelere verilen belli parayı içeren makbuz ve ibra senetleri ile resmi daireler nam ve hesabına kişiler adına açılmış veya açılacak hesaplara nakledilmeyi veya emir ve havalelerine tediyeyi temin eden kağıtlar (Binde 7,5)
-16) Anonim, eshamlı komandit ve limited şirketler ile yatırım fonlarının kuruluşlarına, sermaye artırımlarına ve süre uzatımlarına ilişkin olarak düzenlenen kağıtlar.
-26) Kredi kartı üyelik sözleşmeleri.
-30) 4077 sayılı Tüketicinin Korunması Hakkında Kanunun 10 uncu maddesi çerçevesinde tüketici finansman şirketlerince kullandırılacak tüketici kredilerinin temini ve geri ödenmesi amacıyla düzenlenecek kağıtlar ile bu kağıtlar üzerine konulacak şerhler (kredilerin kullanımları hariç).
+Madde 36- (1.7.1964 tarihli ve 488 sayılı Damga Vergisi Kanunu ile ilgili olup yerine işlenmiştir.)

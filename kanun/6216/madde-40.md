@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 İtiraz Yolu
 Anayasaya aykırılığın mahkemelerce ileri sürülmesi
-MADDE 40- (1) Bir davaya bakmakta olan mahkeme, bu davada uygulanacak bir kanun veya kanun hükmünde kararnamenin hükümlerini Anayasaya aykırı görürse veya taraflardan birinin ileri sürdüğü aykırılık iddiasının ciddi olduğu kanısına varırsa;
+MADDE 40- (1) Bir davaya bakmakta olan mahkeme, bu davada uygulanacak bir kanun veya Cumhurbaşkanlığı kararnamesinin hükümlerini Anayasaya aykırı görürse veya taraflardan birinin ileri sürdüğü aykırılık iddiasının ciddi olduğu kanısına varırsa;[18]
 a) İptali istenen kuralların Anayasanın hangi maddelerine aykırı olduklarını açıklayan gerekçeli başvuru kararının aslını,
 b) Başvuru kararına ilişkin tutanağın onaylı örneğini,
 c) Dava dilekçesi, iddianame veya davayı açan belgeler ile dosyanın ilgili bölümlerinin onaylı örneklerini,

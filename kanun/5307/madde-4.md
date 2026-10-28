@@ -11,10 +11,9 @@ d) Faaliyetleri esnasında üçüncü kişilere veya çevreye verilecek zarar ve
 e) 12 nci maddenin birinci fıkrasına göre Kurumca belirlenen usûl ve esaslara uygun bildirimleri yapmak,
 f) 5 inci maddedeki hükümleri yerine getirmek ve Kurumca istendiğinde 12 nci maddenin üçüncü fıkrasına göre gerekli bilgi, belge ve numuneleri vermek, tutanakları imzalamak ve görevlilerin tesislerde inceleme yapmasına müsaade etmek,
 g) Esas faaliyetlerine ilişkin tip sözleşme örneklerini ve bunlarda yapılacak değişiklikleri yürürlüğe koymadan önce Kuruma bildirmek,
-9317
 ğ) Piyasa faaliyetlerinde, teknik düzenlemelere uygun LPG sağlamak,
 h) Dolum tesislerinde ve otogaz istasyonlarında sorumlu müdür bulundurmak,
 ı) Aslî faaliyetlerinde eğitim ve sertifika almış personel çalıştırmak,
 i) Eşit durumdaki alıcılara (kategorilere), eşit hak ve yükümlülük tanımak, farklı şartlar uygulamamak,
-İle yükümlüdür.
+ile yükümlüdür.
 Yurt dışından LPG temin edeceklerin rafinerici veya dağıtıcı lisansına sahip olması gereklidir. (Ek cümle: 26/2/2014-6527/13 md.) 4/12/2003 tarihli ve 5015 sayılı Petrol Piyasası Kanunu kapsamındaki işleme lisansı sahipleri de piyasa faaliyetine konu etmemek ve münhasıran petrokimya üretiminde kullanmak kaydıyla LPG ithal edebilir. Dağıtıcılar LPG’yi rafinerilerden veya ithalat yoluyla yurt dışından temin ederler. LPG ithalatı, Kurumun belirleyeceği teknik düzenlemelere uygunluğu ihtisas gümrüklerindeki laboratuvarlarda belirlendikten sonra ihtisas gümrüklerinden yapılır. Lisans sahibi olmayanlar LPG ticareti yapamaz.

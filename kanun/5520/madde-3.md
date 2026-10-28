@@ -9,6 +9,5 @@ c) Türkiye'de elde edilen serbest meslek kazançları.
 d) Türkiye'de elde edilen menkul sermaye iratları.
 e) Türkiye'de elde edilen diğer kazanç ve iratlar.
 (4) Bu maddede belirtilen kazanç veya iratlar ile gelir unsurlarının Türkiye'de elde edilmesi ve Türkiye'de daimî temsilci bulundurulması konularında, 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun ilgili hükümleri uygulanır.
-(5) Kanunî merkez: Vergiye tâbi kurumların kuruluş kanunlarında, tüzüklerinde, ana statülerinde veya sözleşmelerinde gösterilen merkezdir.
+(5) Kanunî merkez: Vergiye tâbi kurumların kuruluş kanunlarında, Cumhurbaşkanlığı kararnamelerinde, tüzüklerinde, ana statülerinde veya sözleşmelerinde gösterilen merkezdir.[1]
 (6) İş merkezi: İş bakımından işlemlerin fiilen toplandığı ve yönetildiği merkezdir.
-9883

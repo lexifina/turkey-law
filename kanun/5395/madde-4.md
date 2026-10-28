@@ -1,5 +1,5 @@
 Temel ilkeler
-MADDE 4 — (1) Bu Kanunun uygulanmasında, çocuğun haklarının korunması amacıyla;
+Madde 4- (1) Bu Kanunun uygulanmasında, çocuğun haklarının korunması amacıyla;
 a) Çocuğun yaşama, gelişme, korunma ve katılım haklarının güvence altına alınması,
 b) Çocuğun yarar ve esenliğinin gözetilmesi,
 c) Çocuk ve ailesinin herhangi bir nedenle ayrımcılığa tâbi tutulmaması,

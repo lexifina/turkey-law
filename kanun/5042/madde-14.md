@@ -6,7 +6,6 @@ c) Satışa arz etmek.
 d) Satmak veya diğer şekillerde piyasaya sürmek.
 e) İhraç veya ithal etmek.
 f) Depolamak.
-8699
 Koruma altındaki bir çeşide ait çoğaltım materyalinin izinsiz kullanımı sonucunda sağlanan hasat edilmiş materyal ile ilgili olarak; birinci fıkrada belirtilen tüm faaliyetler için hak sahibinin izni gereklidir. Ancak hak sahibi, geçmişte makul bir fırsata sahip olduğu halde söz konusu çoğaltım materyali üzerindeki bu hakkını kullanmamışsa izin gerekmez.
 Koruma altındaki bir çeşide ait çoğaltım materyalinin izinsiz kullanımı sonucunda sağlanan hasat edilmiş materyalden doğrudan elde edilen mamul kaddelere de ikinci fıkra hükümleri uygulanır.
 Hak sahibi, yukarıdaki fıkralarda belirtilen hükümlerdeki yetkilerini şarta bağlayabilir ve bu yetkilerine sınırlandırma getirebilir.

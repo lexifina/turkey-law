@@ -3,8 +3,6 @@ MADDE 36 – (1) Sayıştay denetimi, düzenlilik denetimi ve performans denetim
 (2) Düzenlilik denetimi;
 a) Kamu idarelerinin gelir, gider ve malları ile bunlara ilişkin hesap ve işlemlerinin kanunlara ve diğer hukuki düzenlemelere uygun olup olmadığının tespiti,
 b) Kamu idarelerinin mali rapor ve tablolarının, bunlara dayanak oluşturan ve ihtiyaç duyulan her türlü belgelerin değerlendirilerek, bunların güvenilirliği ve doğruluğu hakkında görüş bildirilmesi,
-_____________
-(1) Bu bentte yer alan “…etkililiği, ekonomikliği, verimliliği ve benzeri gerekçelerle…” ibaresi, Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2012/102 K.: 2012/207 sayılı Kararı ile iptal edilmiştir.
 c) Mali yönetim ve iç kontrol sistemlerinin değerlendirilmesi,
 suretiyle gerçekleştirilir.
 (3) Performans denetimi; hesap verme sorumluluğu çerçevesinde idarelerce belirlenen hedef ve göstergelerle ilgili olarak faaliyet sonuçlarının ölçülmesi suretiyle gerçekleştirilir.

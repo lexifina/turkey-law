@@ -1,9 +1,2 @@
 Destek Hizmetleri Daire Başkanlığı
-MADDE 65 – Destek Hizmetleri Daire Başkanlığının görevleri şunlardır:
-7) Genel Müdürlük için gerekli araç, gereç, kırtasiye ve malzemeleri temin etmek, dağıtımını sağlamak, onarım hizmetlerini yürütmek, kayıtlarını tutmak ve harcamalara ilişkin tahakkuk işlemlerini yapmak.
-b) Genel Müdürlük hizmetleri için ihtiyaç duyulan taşınır ve taşınmazların kiralanması işlemlerini yürütmek.
-c) Genel Müdürlük hizmet binalarının temizlik, aydınlatma, ısıtma, bakım, onarım ve taşıma işlemlerini yürütmek.
-d) Konut tahsisi, sağlık ve sosyal tesislerin kurulması ve yönetilmesi ile ilgili hizmetleri yürütmek.
-e) Genel evrak ve arşiv faaliyetlerini düzenlemek.
-f) Genel Müdürlüğün sivil savunma ve seferberlik hizmetlerini planlamak ve yürütmek.
-g) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
+MADDE 65 – (Mülga: 2/7/2018/KHK/703/102 md.)

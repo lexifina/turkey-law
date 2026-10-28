@@ -5,4 +5,4 @@ a) Türk kara ve hava sahaları ile Türk karasularında,
 b) Açık denizde ve bunun üzerindeki hava sahasında, Türk deniz ve hava araçlarında veya bu araçlarla,
 c) Türk deniz ve hava savaş araçlarında veya bu araçlarla,
 d) Türkiye'nin kıt'a sahanlığında veya münhasır ekonomik bölgesinde tesis edilmiş sabit platformlarda veya bunlara karşı,
-İşlendiğinde Türkiye'de işlenmiş sayılır.
+işlendiğinde Türkiye'de işlenmiş sayılır.

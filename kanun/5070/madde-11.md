@@ -1,5 +1,5 @@
 Nitelikli elektronik sertifikaların iptal edilmesi
-MADDE 11. — Elektronik sertifika hizmet sağlayıcısı;
+Madde 11- Elektronik sertifika hizmet sağlayıcısı;
 a) Nitelikli elektronik sertifika sahibinin talebi,
 b) Sağladığı nitelikli elektronik sertifikaya ilişkin veri tabanında bulunan bilgilerin sahteliğinin veya yanlışlığının ortaya çıkması veya bilgilerin değişmesi,
 c) Nitelikli elektronik sertifika sahibinin fiil ehliyetinin sınırlandığının, iflâsının veya gaipliğinin ya da ölümünün öğrenilmesi,

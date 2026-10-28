@@ -2,6 +2,5 @@ MADDE 1423- (1) Sigortacı ve acentesi, sigorta sözleşmesinin kurulmasından �
 poliçeden bağımsız olarak sözleşme süresince sigorta ilişkisi bakımından önemli sayılabilecek olayları ve gelişmeleri sigortalıya yazılı olarak açıklar.
 (2) Aydınlatma açıklamasının verilmemesi hâlinde, sigorta ettiren, sözleşmenin yapılmasına ondört gün içinde itiraz etmemişse, sözleşme poliçede yazılı şartlarla yapılmış olur. Aydınlatma açıklamasının verildiğinin ispatı sigortacıya aittir.
 (3) Hazine Müsteşarlığı, çeşitli ülkelerin ve özellikle Avrupa Birliğinin düzenlemelerini dikkate alarak, tüketiciyi aydınlatma açıklamasının şeklini ve içeriğini belirler.
-11282
 c) Sigorta poliçesi verme yükümlülüğü
 aa) Genel olarak

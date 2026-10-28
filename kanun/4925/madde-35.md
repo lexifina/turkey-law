@@ -1,4 +1,4 @@
-Yetki devri(1)
+Yetki devri
 Madde 35 – (İptal: Anayasa Mahkemesinin 8/11/2012 tarihli ve E:2012/27, K:2012/173 sayılı Kararı ile.;Değişik: 6/2/2014-6518/61 md.)
 Bakanlık, düzenleme ve kural ihdası ile 27 nci maddede belirtilen hususlar hariç olmak üzere gerektiğinde teknik ve idari kapasite, teşkilat imkânları, hizmetin hızlı, etkin, yaygın olarak üretilmesi ilkelerini gözeterek; bu Kanun gereğince yerine getirmekle yükümlü olduğu görev ve yetkilerinin bir kısmını aşağıda belirtilen usul ve esaslar çerçevesinde yürütmek hususunda kamu kurum ve kuruluşları ile Türkiye Odalar ve Borsalar Birliği, Türkiye Esnaf ve Sanatkârları Konfederasyonu ve bunlara bağlı federasyon, birlik ve odaları yetkilendirebilir.
 a) Yetkilendirme, düzenlenecek bir protokol veya sözleşme ile yapılır. Bu protokol veya sözleşmede yetkilendirmenin konusu, süresi ve mutabakata varılan hususlar açıkça belirtilir.

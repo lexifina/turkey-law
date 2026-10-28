@@ -2,7 +2,6 @@
 Madde 166 — 160 ıncı maddenin üçüncü fıkrası kapsamına giren suçların soruşturma ve kovuşturmalarında aşağıdaki hükümler tatbik olunur:
 a) Soruşturma, iş bölümü ilişkilerine göre, Cumhuriyet başsavcılarınca veya görevlendireceği Cumhuriyet savcılarınca bizzat yürütülür. Bu suçlar, görev sırasında veya görevden dolayı işlenmiş olsalar bile, Cumhuriyet savcılarınca doğrudan soruşturma yapılır.
 b) Bu suçların soruşturma ve kovuşturmalarında, 5271 sayılı Ceza Muhakemesi Kanununun 135 ilâ 138 inci maddeleri de uygulanır.
-9607
 c) Bu suçlarla ilgili soruşturma ve kovuşturmalarda kolluk; soruşturma ve kovuşturma sebebiyle şüpheli, sanık, tanık, bilirkişi ve suçtan zarar görenleri, Cumhuriyet savcısının veya mahkeme naibinin veya istinabe olunan hâkimin emriyle belirtilen gün, saat ve yerde hazır bulundurmaya mecburdur. Bu emir, çağrılanlar hakkında kolluğa ihzar müzekkeresinde olduğu gibi zor kullanma yetkisi verir.
 d) Cumhuriyet başsavcılıkları, bu suçların soruşturmasında gerekli olması hâlinde, geçici olarak yargı çevresi içerisinde veya dışındaki, genel bütçeli dairelere ve katma bütçeli idarelere, bütün kamu kurum ve kuruluşlarına, belediyelere, bankalara ait bina, araç, gereç ve personelden yararlanmak için istemde bulunabilirler. Bu istemler, ilgili kurum ve makamlarca geciktirilmeksizin yerine getirilir. Özürsüz olarak bu istemleri yerine getirmeyen sorumlu kişiler, üç aydan altı aya kadar hapis cezası ile cezalandırılır.
 e) Soruşturmanın gerekli kıldığı hâllerde, suç mahalli veya delillerin bulunduğu yerlere gidilerek soruşturma yapılır.

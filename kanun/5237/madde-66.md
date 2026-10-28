@@ -5,7 +5,7 @@ b) Müebbet hapis cezasını gerektiren suçlarda yirmibeş yıl,
 c) Yirmi yıldan aşağı olmamak üzere hapis cezasını gerektiren suçlarda yirmi yıl,
 d) Beş yıldan fazla ve yirmi yıldan az hapis cezasını gerektiren suçlarda onbeş yıl,
 e) Beş yıldan fazla olmamak üzere hapis veya adlî para cezasını gerektiren suçlarda sekiz yıl,
-Geçmesiyle düşer.
+geçmesiyle düşer.
 (2) Fiili işlediği sırada oniki yaşını doldurmuş olup da onbeş yaşını doldurmamış olanlar hakkında, bu sürelerin yarısının; onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan kişiler hakkında ise, üçte ikisinin geçmesiyle kamu davası düşer.
 (3) Dava zamanaşımı süresinin belirlenmesinde dosyadaki mevcut deliller itibarıyla suçun daha ağır cezayı gerektiren nitelikli halleri de göz önünde bulundurulur.
 (4) Yukarıdaki fıkralarda yer alan sürelerin belirlenmesinde suçun kanunda yer alan cezasının yukarı sınırı göz önünde bulundurulur; seçimlik cezaları gerektiren suçlarda zamanaşımı bakımından hapis cezası esas alınır.

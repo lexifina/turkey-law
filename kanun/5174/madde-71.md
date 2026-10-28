@@ -10,6 +10,5 @@ f) Tahkim hizmetleri.
 g) Fuar düzenleme yetki belgeleri.
 h) Ticarî ve sınaî mahiyette diğer her türlü belge ve bilgi ile hizmetler.
 Türkiye Ticaret Sicili Gazetesinde yayımlanacak ilân ücretleri, Türkiye Ticaret Sicili Gazetesi Komitesinin teklifi ve Bakanlığın onayı ile yürürlüğe girecek bir tarife ile belirlenir.
-8802
-Türkiye Ticaret Sicili Gazetesinin çıkarılmasına ilişkin esasları tespit, yayım işlerini sevk ve idare etmek ve Bakanlık ile Birlik arasındaki çalışmaları koordine etmek üzere; Bakanlık Müsteşarının başkanlığında, ilgili müsteşar yardımcısı, İç Ticaret Genel Müdürü veya görevlendireceği yardımcısı, Birlik Genel Sekreteri, ilgili genel sekreter yardımcısı ve gazete müdüründen oluşan bir Komite kurulur.
+Türkiye Ticaret Sicili Gazetesinin çıkarılmasına ilişkin esasları tespit, yayım işlerini sevk ve idare etmek ve Bakanlık ile Birlik arasındaki çalışmaları koordine etmek üzere; İç Ticaret Genel Müdürü başkanlığında, İç Ticaret Genel Müdürlüğünde görevli en fazla üç genel müdür yardımcısı ile Birlik Genel Sekreteri, ilgili genel sekreter yardımcısı ve gazete müdüründen oluşan bir Komite kurulur.[12]
 Komitenin çalışma usul ve esasları ile Komite üyelerinin gazete gelirlerinden karşılanacak huzur hakları, Komite toplantılarına ilişkin giderler ve bu konu ile ilgili diğer hususlar Birliğin olumlu görüşü alınarak Bakanlıkça çıkarılacak bir yönetmelikle düzenlenir. Huzur haklarının net aylık miktarı brüt asgarî ücret tutarını geçemez.

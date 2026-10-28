@@ -8,6 +8,5 @@ Birinci fıkra hükümleri, yönetim kurulu üyeliklerinde aslen bulunan veya te
 Bir bankanın ortaklıklarının yönetim ve denetim kurullarında bulunan kimselerin aynı zamanda ilgili bankanın mensubu olması, bu ortaklıkların ilgili banka ile işlem yapmasına engel değildir.
 Bankanın dâhil olduğu risk grubunda bulunan gerçek ve tüzel kişilere kredi kullandırılması hâlinde, gerekli kararların yönetim kurulunun üye tam sayısının üçte iki çoğunluğu ile alınması ve bunlara sağlanan kredi koşullarının kredi kullananın lehine diğer kişi ve gruplara kullandırılanlardan ve piyasa koşullarından farklılık arz etmemesi şarttır.
 Bir bankanın yönetim kurulu üyelerine, mensupları ile bunların eşlerine ve velâyet altındaki çocuklarına, aylık net ücretleri toplamının beş katını aşmamak üzere verilecek krediler, üç katını aşmamak üzere çek karnesi veya kredi kartı verilmesi suretiyle kullandırılacak krediler ile bu Kanunun 55 inci maddesinin (a) ve (b) bentlerinde belirtilen menkul kıymetler karşılığı kullandırılan krediler birinci ve dördüncü fıkra hükümlerine tâbi değildir.
-9554
 Banka, bankanın risk grubunda yer alan kişilere açtığı kredileri Kuruma düzenli olarak raporlar.
 Sonradan bu madde hükümlerine aykırı hale gelen kredilerin en geç altı ay içinde tasfiye edilmesi zorunludur.

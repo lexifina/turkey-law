@@ -1,1 +1,1 @@
-GEÇİCİ MADDE 3 – Bu Kanuna göre yeniden düzenleme yapılıncaya kadar değişen veya yeniden kurulan birimlere verilen görevler daha önce bu görevleri yapmakta olan birimler tarafından yapılmaya devam olunur.
+GEÇİCİ MADDE 3 – (Mülga: 2/7/2018/KHK/703/102 md.)

@@ -4,4 +4,3 @@ Kadastro teknisyenleri, bilirkişilerin bilgi ve beyanlarıyla kanaate varamadı
 Kadastro teknisyenleri arasında görüş ayrılığı olduğu veya tarafların dayandıkları kayıt ve belgeler aynı kuvvet ve mahiyette görüldüğü takdirde taşınmaza ait tutanak gerekçesi ile birlikte çözümlenmek üzere kadastro komisyonuna gönderilir.
 Çalışma alanı sınırı içinde veya bitişiğindeki taşınmaz mallar ile dışında toplu olarak bulunan taşınmaz mallardan kadastro tutanağı düzenlenmeyen yerlerin kadastroya tabi olması yolunda iddia vaki olursa, bu Kanun gereğince tahdit ve tespiti yapılarak tutanak düzenlenir ve iddia sebepleri açıklanarak kadastro komisyonuna tevdi edilir.
 Bu çalışmalara, istedikleri takdirde Maliye ve Gümrük Bakanlığı ile Orman Genel Müdürlüğü temsilcileri de gözlemci olarak katılabilirler.
-6974

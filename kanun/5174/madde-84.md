@@ -9,7 +9,6 @@ a) Gruplandırma işlemleri ve meslek komitelerinin seçimi:
 6) İlgili seçmen üyelerce, her meslek grubu için ayrı ayrı verilecek mahsus zarflara oyların konulması ile meslek komitesi seçimleri yapılır.
 b) Meslek grupları, yargı gözetiminde oda ve borsa meclisleri için asıl ve yedek üyeleri meslek komitesi üyeleri ile birlikte seçer.
 c) Meclis, seçimlerin kesinleşmesini takip eden en geç iki gün içinde yargı gözetiminde oda ve borsa yönetim kurulu başkanı ve üyelerini aynı listede seçer.
-8808
 d) Birlik Genel Kurul delegeleri ile disiplin kurulunun asıl ve yedek üyelerinin seçimi, Yönetim Kurulu üyelerinin seçimi ile birlikte, meclis tarafından yapılır.
 Oda ve borsaların meclis, yönetim kurulu, disiplin kurulu ile Birlik Genel Kurulu delegesi seçimlerinde de gruplandırma işlemleri ve meslek komitelerinin seçimlerine ilişkin esas ve usuller uygulanır.
 Oda ve borsa şubelerinin seçim usul ve esasları bu maddede belirtilen hükümlere uygun olarak, Birlikçe hazırlanacak bir yönetmelikle düzenlenir.

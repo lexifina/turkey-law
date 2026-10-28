@@ -10,4 +10,4 @@ e) Bilirkişi veya uzmanın gerçeğe aykırı rapor düzenlediğinin ortaya ç�
 (3) Yargılamanın iadesi isteminde bulunma süresi ilamın tebliği tarihinden itibaren beş yıldır.
 (4) Yargılamanın iadesi isteminde bulunmak ilamın icrasını alıkoymaz. Yargılamanın iadesi dilekçesini inceleyen daire gerekli gördüğü takdirde, kanunen geçerli teminat karşılığında, icranın geciktirilmesine karar verebilir.
 (5) Yargılamanın iadesi istemi, hükmü veren dairece incelenir ve ilk olarak yargılamanın iadesi talebinin kabulüne veya reddine karar verilir. Kabul kararı verilmesi halinde iade edilen hususlarla sınırlı olmak üzere hesap yargılaması yapılır.
-(6) Türkiye Büyük Millet Meclisince kesin hesap kanunu tasarısının karara bağlanmış olması şahıs borçlarına etkili değildir.
+(6) Türkiye Büyük Millet Meclisince kesin hesap kanunu teklifinin karara bağlanmış olması şahıs borçlarına etkili değildir.[13]

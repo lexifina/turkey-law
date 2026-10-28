@@ -11,6 +11,5 @@ e) Strateji Geliştirme Müdürlüğü
 f) Teknik Hizmetler Müdürlüğü
 g) Özel Kalem Müdürlüğü
 ğ) Basın Müşavirliği
-11471
 (2) İhtiyaç hâlinde Başkanın önerisi, Genel Kurulun kararı ile yeni birimler oluşturulabilir.
 (3) Hizmet birimlerinin görev ve sorumlulukları yönetmelikte gösterilir.

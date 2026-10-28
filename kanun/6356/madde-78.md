@@ -7,7 +7,6 @@ c) 17 nci maddeye aykırı olarak üye kaydedenler ile 19 uncu maddeye aykırı 
 d) 28 inci maddenin ikinci ve üçüncü fıkralarına aykırı hareket eden kuruluşların yetkili sorumluları binbeşyüz Türk Lirası, fiilin tekrarı hâlinde ise ayrıca bağış miktarı kadar,
 e) Bu Kanunda kanuni grev veya lokavt için belirtilen şartlar gerçekleşmeksizin alınan bir grev veya lokavt kararının uygulanması hâlinde; grev veya lokavta karar verenler, böyle bir grev veya lokavta karar verilmesine veya uygulanmasına veya bunlara katılmaya veya devama zorlayan veya teşvik edenler ile lokavta katılanlar ve devam edenler fiilleri daha ağır bir cezayı gerektirmediği takdirde beşbin Türk Lirası,
 f) Kanun dışı greve katılanlar ve devam edenler yediyüz Türk Lirası,
-11723
 g) Kanuni bir grev veya lokavt kararının bu Kanunda yazılı usul ve esaslar dışında uygulanması hâlinde, bu kararı uygulayanlar, uygulanmasına veya devamına zorlayanlar veya teşvik edenler beşbin Türk Lirası,
 ğ) Grev veya lokavtın mahkeme kararıyla sürekli veya geçici, tamamen veya kısmen yasaklanmasına rağmen, kararı kaldırmayanlar, uygulamaya devam edenler, devamına teşvik edenler, zorlayanlar, katılan ve katılmaya devam edenler fiilleri daha ağır bir cezayı gerektirmediği takdirde beşbin Türk Lirası,
 h) Greve katıldıkları veya lokavta maruz kaldıkları hâlde, grev veya lokavtın uygulandığı işyerlerinden ayrılmayanlar ile işçileri bu eylemlere zorlayan veya teşvik edenler fiilleri daha ağır bir cezayı gerektirmediği takdirde yediyüz Türk Lirası,

@@ -1,2 +1,1 @@
 GEÇİCİ MADDE 6- (1) 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 9 uncu maddesinin birinci fıkrasının (a) bendindeki geçmiş beş yıllık dönemdeki birikmiş zararın taşınması ile ilgili sınırlama Tasfiye Halinde T. Emlak Bankası Anonim Şirketi yönünden tasfiye öncesi son beş yıla ait zararlar da dâhil olmak üzere tasfiye süresince uygulanmaz.
-11374

@@ -14,4 +14,3 @@ Yıllık ücretin ödenmemesi nedeniyle hak sona ermişse, hak sahibinin ödemen
 Mücbir sebeple ilgili talebin, hakkın sona erdiğine ilişkin ilânın Bültende yayımlanmasından itibaren altı ay içinde yapılması gerekir. Bu talep Bültende ilân edilir. İlgililer otuz gün içinde konu hakkındaki görüşlerini bildirebilirler.
 Hakkın yeniden geçerlilik kazanması, Bakanlığın kararı ile olur ve Bültende yayımlanır. Hakkın yeniden geçerlilik kazanması, hakkın sona ermesi sonucunda bu konuyla ilgili bir kısım haklar kazanmış olan üçüncü kişilerin kazanılmış haklarını etkilemez.
 Hakkın yeniden geçerlilik kazanması halinde, hak sahibi, ödemediği ücretleri ödemekle yükümlüdür.
-8714

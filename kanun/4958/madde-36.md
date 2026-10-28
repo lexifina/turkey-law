@@ -1,3 +1,0 @@
-MADDE 36- 506 sayılı Sosyal Sigortalar Kanununun 77 nci maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
-Şu kadar ki, ölüm, doğum ve evlenme yardımları, yolluklar, kıdem, ihbar ve kasa tazminatları, aynî yardımlar ile Çalışma ve Sosyal Güvenlik Bakanlığınca miktarları yıllar itibariyle belirlenecek yemek, çocuk ve aile zamları, sigorta primlerinin hesabına esas tutulacak kazançların aylık tutarının tespitinde nazara alınmaz. Bunların dışında her ne ad altında ödeme yapılırsa yapılsın tüm ödemeler prime tabi tutulur.
-Her sigortalının prim hesabına esas tutulacak aylık kazanç toplamının bin liraya kadar olan lira kesri nazara alınmaz.

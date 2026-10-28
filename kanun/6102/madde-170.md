@@ -1,2 +1,2 @@
-MADDE 170- (Mülga: 26/6/2012-6335/42 md.)
+MADDE 170- (Mülga: 26/6/2012-6335/43 md.)
 d) İnceleme hakkı

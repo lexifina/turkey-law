@@ -5,4 +5,3 @@ Bağımsız bölümlerden biri bir ayni hakla veya sicile şerh verilen bir şah
 Kayıtlayıcı hakkın sahibi, sicil kaydının silinmesine muvafakat etmemekle beraber hakkının yalnız borçluya ait mülkiyet payına veya hakkın niteliğine göre, bütün ortak mülkiyet paylarına aktarılmasına muvafakat ederse bu hak sicilden silinmeksizin yalnız borçlunun, adi mülkiyet gayrimenkuldeki bütün ortak mülkiyet payları üzerine geçirilmek suretiyle genel kütüğe tescil olunur.
 Anagayrimenkulün arsasiyle birlikte tamamen yok olması veya kamulaştırılması halinde sicil kaydının silinmesi genel hükümlere göre yapılır.
 Anagayrimenkul kamulaştırılırsa, her bağımsız bölümün kamulaştırma bedeli bağlantılı bulunduğu arsa payı ve eklentileri de gözönünde tutularak ayrı ayrı takdir olunur ve o bölümün malikine ödenir.
-4148

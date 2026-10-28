@@ -1,11 +1,10 @@
 Disiplin cezasını gerektiren eylemlerin tekrarı, disiplin cezalarının infazı ve kaldırılması
 Madde 48- (1) (İptal: Anayasa Mahkemesinin 3/10/2013 tarihli ve E.:2013/28, K.:2013/106 sayılı Kararı ile.)
-(2) Bir eylemden dolayı verilen disiplin cezası kesinleştikten sonra bu cezanın kaldırılması için gerekli süre içinde yeniden disiplin cezasını gerektiren bir eylemde bulunan hükümlü hakkında, her defasında bir üst ceza uygulanır.
+(2) Bir eylemden dolayı verilen disiplin cezası kesinleştikten sonra bu cezanın infazı tamamlanıp kaldırılması için dördüncü fıkrada belirtilen süreler geçinceye kadar yeniden disiplin cezasını gerektiren bir eylemde bulunan hükümlü hakkında, her defasında bir üst ceza uygulanır.[17]
 (3) Disiplin cezalarının infazı;
-a) Hücreye koyma cezasının infazına, infaz hâkiminin onayı ile başlanır. Hücreye koyma cezasına ilişkin diğer hükümler saklı kalmak üzere, kesinleşen disiplin cezalarının infazına derhâl başlanır. Birden fazla disiplin cezası verilmiş olması hâlinde, bu cezalar kesinleşme tarihleri sırasına göre ayrı ayrı infaz edilir. Bir cezanın infazı tamamlanmadan diğerinin infazına başlanmaz.
+a) Hücreye koyma ve odaya kapatma cezasının infazına, infaz hâkiminin onayı ile başlanır. Hücreye koyma ve odaya kapatma cezasına ilişkin diğer hükümler saklı kalmak üzere, kesinleşen disiplin cezalarının infazına derhâl başlanır. Birden fazla disiplin cezası verilmiş olması hâlinde, bu cezalar kesinleşme tarihleri sırasına göre ayrı ayrı infaz edilir. Bir cezanın infazı tamamlanmadan diğerinin infazına başlanmaz.[18]
 b) Disiplin cezalarının tamamı infaz edilip kaldırılmadıkça koşullu salıverilme işlemi yapılmaz, ancak bu süre hakederek salıverme tarihini geçemez.
-c) Hücreye koyma cezasına ilişkin disiplin cezalarının infazından önce ve infazı sırasında hükümlü, hekim tarafından muayene edilir. İlgilinin bu cezaya katlanamayacağı anlaşılırsa cezanın infazı sonraya bırakılır veya hekiminin belirleyeceği aralıklarla infaz edilir. Koşullu salıverilme tarihine kadar hükümlünün iyileşemeyeceğinin tam teşekküllü Devlet veya üniversite hastanesi sağlık kurulu raporu ile saptanması hâlinde hücreye koyma cezası infaz edilmez; yerine ziyaretçi kabulünden yoksun bırakma cezası iki katı süreyle uygulanır. Raporlar infaz dosyasına konulur.
-9236
+c) Hücreye koyma cezasına ilişkin disiplin cezalarının infazından önce ve infazı sırasında hükümlü, hekim tarafından muayene edilir. İlgilinin bu cezaya katlanamayacağı anlaşılırsa cezanın infazı sonraya bırakılır veya hekiminin belirleyeceği aralıklarla infaz edilir. Koşullu salıverilme tarihine kadar hükümlünün iyileşemeyeceğinin tam teşekküllü Devlet veya üniversite hastanesi sağlık kurulu raporu ile saptanması hâlinde hücreye koyma cezası infaz edilmez; yerine 44 üncü maddenin ikinci fıkrasının uygulandığı hâllerde iki ay, üçüncü fıkrasının uygulandığı hâllerde dört ay süreyle ziyaretçi kabulünden yoksun bırakma cezası uygulanır. Raporlar infaz dosyasına konulur.18
 (4) İnfaz edildiği tarihten itibaren disiplin cezasının kaldırılmasında ve iyi hâlin kazanılmasında aşağıda belirtilen süreler esas alınır;
 a) Kınama cezası onbeş gün,
 b) Bazı etkinliklere katılmaktan alıkoyma cezası bir ay,
@@ -25,4 +24,4 @@ f) İznin ertelenmesi cezası altmış gün sonunda,
 g) Kapalı ceza infaz kurumuna iade cezası altmış gün sonunda,
 h) Odaya kapatma cezası doksan gün sonunda,
 Kendiliğinden kalkmış sayılır. (a) bendi hariç, bu fıkradaki diğer süreler karar tarihinden, firar hâlinde infaz tarihinden itibaren başlar.
-(6) Disiplin kurulu, kurum kurallarına uyma, iyileştirme programında ilerleme veya verilen ceza ile amaçlanan sonucun gerçekleşmesi durumunda, çocuk hakkında vermiş olduğu cezayı süre koşulu aranmaksızın her zaman kaldırabilir.
+(6) Çocuğun bulunduğu kurumun disiplin kurulu, kurum kurallarına uyma, iyileştirme programında ilerleme veya verilen ceza ile amaçlanan sonucun gerçekleşmesi durumunda, çocuk hakkında verilen disiplin cezasını süre koşulu aranmaksızın her zaman kaldırabilir.[19]

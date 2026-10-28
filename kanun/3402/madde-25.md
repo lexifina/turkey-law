@@ -1,6 +1,5 @@
 Genel olarak görev:
 Madde 25 – Kadastro mahkemesi; taşınmaz mal mülkiyetine ve sınırlı ayni haklara, tapuya tescil veya şerh edilecek veyahut beyanlar hanesinde gösterilecek sair haklara, sınır ve ölçü uyuşmazlıklarına, kadastroya ve tapu sicilini ilgilendiren benzeri davalara ve özel kanunlarca kendisine verilen işlere bakar; Kadastroya veya kadastro ile ilgili verasete ait uyuşmazlıkları çözümleyebileceği gibi, istek üzerine veraset belgesi de verebilir.
-6979
 Kadastro mahkemesi, yalnız kadastro işlerine münhasır olmak üzere;
 A) Velisi veya vasisi bulunmayan küçüklere ve kısıtlılara kayyım tayin eder. Bunların menfaatlerini korumak amacıyla Türk Medeni Kanununun hakimin iznini şart kıldığı hallerde bu izni verir.
 B) Hukuk Usulü Muhakemeleri Kanunun 465 ve bunu takip eden maddeleri gereğince adli yardım taleplerini inceleyerek kabul edebilir.

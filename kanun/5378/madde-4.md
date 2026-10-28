@@ -11,4 +11,3 @@ g) Engeli olan çocuklara yönelik hizmetlerde çocuğun üstün yararının gö
 h) Engeli olan kadın ve kız çocuklarının çok yönlü ayrımcılığa maruz kalmaları önlenerek hak ve özgürlüklerden yararlanmalarının sağlanması esastır.
 i) Engellilere yönelik politika oluşturma, karar alma ve hizmet sunumu süreçlerinde engellilerin, ailelerinin ve engellileri temsil eden sivil toplum kuruluşlarının katılımının sağlanması esastır.
 j) Engellilere yönelik mevzuat düzenlemelerinde Aile ve Sosyal Politikalar Bakanlığının görüşü alınır.
-9464-1

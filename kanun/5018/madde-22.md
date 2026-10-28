@@ -1,3 +1,3 @@
 Merkez dışı birimlere ödenek gönderme
 Madde 22- Kamu idarelerinin merkez teşkilatı harcama yetkilileri, merkez dışı birimlere, ihtiyaçlarında kullanılmak üzere Ödenek Gönderme Belgesi düzenlemek suretiyle ödenek gönderirler.
-Merkezî yönetim kapsamındaki kamu idarelerinde ödenek gönderilmesine ilişkin usul ve esasları belirlemeye Maliye Bakanı yetkilidir.
+Merkezî yönetim kapsamındaki kamu idarelerinde ödenek gönderilmesine ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanı yetkilidir.[37]

@@ -1,6 +1,6 @@
 Yürürlük
 MADDE 37- (1) Bu Kanunun;
-a) 5 inci maddesinin birinci fıkrasının e bendi yayımı tarihinde,
+a) 5 inci maddesinin birinci fıkrasının (e) bendi yayımı tarihinde,
 b) 7 nci maddesi 1/1/2006 tarihinden itibaren elde edilen kazançlara uygulanmak ve 1/1/2006 tarihinden itibaren geçerli olmak üzere yayımı tarihinde,
 c) 12 nci maddesi 1/1/2006 tarihinden sonraya sarkan ödünç işlemlerine de uygulanmak ve 1/1/2006 tarihinden itibaren geçerli olmak üzere yayımı tarihinde,
 ç) 13 ve 35 inci maddeleri 1/1/2007 tarihinde,

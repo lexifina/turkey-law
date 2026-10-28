@@ -1,4 +1,5 @@
-BEŞİNCİBÖLÜM
+BEŞİNCİ BÖLÜM
 Çeşitli ve Son Hükümler
 Yönetmelikler
-MADDE 12 — Kurumun yönetim ve temsili, Kurulun çalışma usul ve esasları ile hizmet birimlerinin çalışma usul ve esasları, depolama kesinti ve primi ile ilgili düzenlemeler ve diğer hususlar, bu Kanunun yayımı tarihinden itibaren dört ay içinde Bakanlık tarafından çıkarılacak yönetmeliklerle belirlenir.
+Madde 12 – (Değişik: 20/11/2017-KHK-696/71 md.; Aynen kabul: 1/2/2018-7079/66 md.)
+Bu Kanunun uygulanmasına ilişkin yönetmelikler Bakanlık tarafından yürürlüğe konulur.

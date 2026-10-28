@@ -7,9 +7,6 @@ d) 10/6/1985 tarihli ve 3230 sayılı Tanıtma Fonu Teşkili ile 11/7/1939 tarih
 e) 7/11/1985 tarihli ve 3238 sayılı Kanunun 12 nci maddesinin ikinci fıkrasının (d) bendi,
 f) 4/4/1988 tarihli ve 320 sayılı Milli Piyango İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 48 inci maddesi,
 g) 30/4/1992 tarihli ve 3796 sayılı İstanbul Kentinde Yapılacak Olimpiyat Oyunları Kanununun 11 inci maddesinin birinci fıkrasının (a), (b) ve (f) bentleri,
-–––––––––––––––
-(1) 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle; bu fıkrada yer alan “saymanlığına” ibaresi “muhasebe birimi hesabına”şeklinde değiştirilmiş ve metne işlenmiştir.
-10027
 ğ) 16/7/2004 tarihli ve 5228 sayılı Bazı Kanunlarda ve 178 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanunun 61 inci maddesinin birinci fıkrasının (8) numaralı bendi,
 yürürlükten kaldırılmıştır.
 (2) Diğer kanun ve kanun hükmünde kararnameler ile bunlara dayanılarak çıkarılan mevzuatın bu Kanuna aykırı hükümleri uygulanmaz.

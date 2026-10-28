@@ -1,13 +1,11 @@
 İKİNCİ KISIM
-Hak Sahipliği, Hakkın Kapsamı ve
-Sınırlandırma
+Hak Sahipliği, Hakkın Kapsamı ve Sınırlandırma
 BİRİNCİ BÖLÜM
 Hak Sahipliği ve Hak Sahibinin Yetkileri
 Hak sahipliği
 Madde 11- Bir çeşidin ıslahçı hakkı, ıslahçıya ve onun hukukî haleflerine aittir.
 Islahçının birden çok olması halinde, taraflar arasında aksine bir anlaşma yoksa, ıslahçılar, müşterek mülkiyet hükümleri çerçevesinde hak sahibidir.
 Her hak sahibi diğerlerinden bağımsız olarak aşağıdaki işlemleri kendi adına yapabilir:
-8698
 a) Kendine düşen pay üzerinde serbestçe tasarrufta bulunabilir.
 b) Diğer hak sahiplerine yazılı bildirimde bulunduktan sonra hak konusu çeşidi kullanabilir.
 c) Hak konusu çeşidin korunması için gerekli önlemleri alabilir.

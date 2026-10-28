@@ -4,4 +4,3 @@ Yedek akçeler, bankaların 6762 sayılı Türk Ticaret Kanunu ve ilgili kanunla
 Özkaynak, ana sermaye ve katkı sermaye toplamı ile bu toplamdan sermayeden indirilecek değerlerin düşülmesi sonucu bulunacak tutarı ifade eder.
 Konsolide özkaynak, konsolide esasa göre uygulanacak kredi sınırları ile standart oranların hesaplanmasında bu maddenin üçüncü fıkrası hükmüne göre hesaplanarak dikkate alınır.
 Bu maddeye ilişkin usûl ve esaslar Kurulca belirlenir.
-9552

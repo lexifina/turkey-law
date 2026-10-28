@@ -4,4 +4,3 @@ MADDE 32 – (1) Sigorta şirketleri ve aracılar, her çeşit broşür, izahnam
 (3) Sigorta şirketleri, iyiniyet kurallarına aykırı olarak sigorta tazminatının ödenmesini geciktiremez.
 (4) Müsteşarlık, sigorta şirketleri, reasürans şirketleri, aracılar ve sigorta eksperlerinin yukarıda sayılan kurallara uymalarını sağlamak üzere gerekli her türlü tedbiri almaya yetkilidir.
 (5) Kişilerin, sigorta şirketini seçme hakkı sınırlandırılamaz. Bir sözleşmenin unsurları içinde, taraflardan birinin bu sözleşmede yer alan herhangi bir hususta sigorta yapmaya zorunlu tutulduğu hallerde, söz konusu sigortanın belli bir şirkete yaptırılmasına ilişkin sözleşmeye konulmuş her türlü şart hükümsüzdür.
-10179

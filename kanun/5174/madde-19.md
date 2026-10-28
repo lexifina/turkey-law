@@ -11,9 +11,6 @@ h) Odanın bir yıl içindeki faaliyeti ve bölgesinin iktisadî ve sınaî duru
 ı) Hazırladığı oda iç yönergesini meclise sunmak.
 j) Ticaret ve sanayiye ait her türlü incelemeyi yapmak, çalışma alanı içindeki ticarî ve sınaî faaliyetlere ait endeks ve istatistikleri tutmak ve meclisçe belirlenen maddelerin piyasa fiyatlarını takip ve kaydetmek ve bunları uygun vasıtalarla ilân etmek.
 k) Oda personelinin disiplin işlerini bu Kanunda ve ilgili mevzuatta öngörülen esas ve usuller çerçevesinde karara bağlamak.
-–––––––––––––––––
-(1) Bu fıkranın yürürlüğü, Anayasa Mahkemesi’nin 10/1/2013 tarihli ve E.: 2012/128, K.: 2013/1 (Yürürlüğü Durdurma) Kararı ile İptal Kararının Resmi Gazete’de yayımlanacağı tarihe kadar durdurulmuş olup, sözkonusu Karar 23/3/2013 tarihli ve 28596 sayılı Resmi Gazete’de yayımlanmıştır.
-8780
 l) Yüksek düzeyde vergi ödeyen, ihracat yapan, teknoloji geliştiren üyelerini ödüllendirmek.
 m) Bütçede karşılığı bulunması kaydıyla sosyal faaliyetleri desteklemek ve özendirmek, bağış ve yardımlarda bulunmak, burs vermek, meclis onayı ile okul ve derslik yapmak.
 n) Hakem veya hakem heyeti seçmek.

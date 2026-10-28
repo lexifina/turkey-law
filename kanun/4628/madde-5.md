@@ -1,13 +1,8 @@
-Enerji Piyasası Düzenleme Kurulu ve Kurul Başkanlığı (3)
-Madde 5 – (Değişik birinci fıkra: 4/12/2003-5015/24 md.) Kurul, biri Başkan, biri İkinci Başkan olmak üzere dokuz üyeden oluşur.
-——————————
-(1) İkinci kısım ve birinci bölüm madde başlıklarında bulunan; “Elektrik Piyasası Düzenleme Kurumu” ibaresi, 18/4/2001 tarihli ve 4646 sayılı Kanunla “Enerji Piyasası Düzenleme Kurumu” olarak değiştirilmiştir.
-(2) Bu madde başlığında bulunan; “Elektrik Piyasası Düzenleme Kurumu” ibaresi, 18/4/2001 tarihli ve 4646 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir. Ayrıca bu madde metninde geçen; “Elektrik Piyasası Düzenleme Kurumu” ibaresi, 18/4/2001 tarihli ve 4646 sayılı Kanunla, “Enerji Piyasası Düzenleme Kurumu” olarak değiştirilmiş ve metne işlenmiştir.
-(3) Bu madde başlığı ve metninde geçen; “Elektrik Piyasası Düzenleme Kurulu” ibaresi, 18/4/2001 tarihli ve 4646 sayılı Kanunla “Enerji Piyasası Düzenleme Kurulu” olarak değiştirilmiş ve metne işlenmiştir.
-7844-1
-Kurul üyeleri; hukuk, siyasal bilgiler, idari bilimler, kamu yönetimi, iktisat, mühendislik, işletme ya da maliye dallarında eğitim veren en az dört yıllık yüksek öğrenim kurumlarından mezun olmuş, kamu kurum ve kuruluşlarında ya da özel sektörde en az on yıl deneyim sahibi ve mesleğinde temayüz etmiş kişiler arasından Bakanlar Kurulunca atanır.
-Bakanlar Kurulu, atamayla birlikte Kurul Başkanını ve İkinci Başkanı görevlendirir.
-Kurul başkan ve üyelerinin görev süresi altı yıldır. Görev süresi sona eren üyeler tekrar seçilebilir.
+Enerji Piyasası Düzenleme Kurulu ve Kurul Başkanlığı[6][7]
+Madde 5 – (Değişik birinci fıkra: 4/12/2003-5015/24 md.) Kurul, biri Başkan, biri İkinci Başkan olmak üzere en az dört yıllık yükseköğrenim görmüş olanlar arasından Cumhurbaşkanı tarafından atanan yedi üyeden oluşur. [8][9][10]
+(Mülga: 2/7/2018 - KHK/703/168 md.)[11]
+Cumhurbaşkanı, atamayla birlikte Kurul Başkanını ve İkinci Başkanı görevlendirir.
+(Mülga: 2/7/2018 - KHK/703/168 md.)11
 Başkanlık veya üyelikler, görev süresi dolmadan herhangi bir sebeple boşaldığı takdirde, boşalan üyeliklere bir ay içinde atama yapılır.
 Bu Kanunun diğer maddeleri ile belirlenen görevlerinin yanısıra, Kurul aşağıdaki görevleri de yerine getirir:
 a) Bu Kanun hükümlerini uygulamak.
@@ -26,9 +21,9 @@ m) Kuruma taşınır ve taşınmaz mal veya hizmet alınması, satılması ve ki
 n) Uluslararası organizasyon ve teşkilatların piyasaya ilişkin mevzuat ve uygulamalarını izleyerek, gerekli gördüğü düzenlemeleri yapmak; yasal düzenleme ihtiyacı duyulması halinde gerekli hazırlıkları yaparak Bakanlığa sunmak.
 o) Kurumun üçüncü kişilerle olan alacak, hak ve borçları hakkında her türlü işleme karar vermek.
 p) Elektrik enerjisi üretiminde çevresel etkiler nedeniyle yenilenebilir enerji kaynaklarının ve yerli enerji kaynaklarının kullanımını özendirmek amacıyla gerekli tedbirleri almak ve bu konuda teşvik uygulamaları için ilgili kurum ve kuruluşlar nezdinde girişimde bulunmak.
+r) (Ek:2/7/2025-7552/18 md.) Emisyon Ticaret Sistemine ilişkin olarak 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanunu ve diğer kanunlarla Kuruma verilen görevleri yerine getirmek ve yetkileri kullanmak.
 Bu Kanunun diğer maddeleri ile belirlenen yetkilerinin yanısıra, Kurul aşağıdaki yetkilere de sahiptir:
 a) Bu Kanun hükümlerinin uygulanması ve bu Kanunla kendisine verilen görevleri yerine getirmek için gerekli olan ve piyasada rekabeti geliştirmeye yönelik olarak gerçek ve tüzel kişilerin uymaları gereken, talimatları ve tebliğleri, şebeke yönetmeliğini, dağıtım yönetmeliğini, müşteri hizmetleri yönetmeliğini ve dengeleme ve uzlaştırma yönetmeliğini onaylamak.
-7845
 b) Lisanslara ilişkin onaylarla, bu Kanunda belirtilen sair onayları vermek.
 c) Dağıtım şirketleri tarafından hazırlanıp Türkiye Elektrik İletim Anonim Şirketi tarafından sonuçlandırılan talep tahminlerini onaylamak, gerektiğinde revize ettirmek.
 d) Kurul onaylı talep tahminlerine dayanarak, Türkiye Elektrik İletim Anonim Şirketi tarafından hazırlanan üretim kapasite projeksiyonu ve iletim yatırım planı ile bu planlarla uyumlu olarak mülkiyeti kamuda olan dağıtım tesislerini işleten dağıtım şirketleri tarafından hazırlanan dağıtım yatırım planlarını onaylamak, gerektiğinde revize edilmesini sağlamak ve onay verdiği yatırım planlarının uygulanmalarını denetlemek.
@@ -48,8 +43,7 @@ r) Mevcut sözleşmelerle ilgili olarak; bu sözleşmelerin tarafları arasında
 s) Mevcut sözleşmelere ilişkin olarak, bu Kanun hükümleri uyarınca rekabetçi piyasaya geçişi kolaylaştıracak hususlarda, taraflarca değerlendirilmek üzere değişiklik önerilerinde bulunmak ve mevcut sözleşmelerin ihtilafların halline ilişkin hükümlerini ihlal etmemek kaydıyla, bu sözleşmelere ilişkin herhangi bir resmi ihtilaf halli sürecinin başlatılmasından önce, ihtilafların halli için arabuluculuk yapmak.
 t) Bu Kanunun kendisine verdiği görevleri yerine getirirken, konusuna ilişkin olarak gerekli gördüğü her türlü bilgi ve belgeyi, tüm kamu ve özel kuruluşlardan ve kişilerden istemek ve/veya yerinde incelemek.
 u) Uygun bulduğu konularda Başkanlığı görevlendirmek veya yetkilendirmek.
-7846
-Kurul Başkanı, aynı zamanda Kurumun da başkanıdır. Başkan, Kurul kararlarının uygulanmasından, yürütülmesinden ve Kurulun temsilinden sorumludur. Bu sorumluluk ; Kurulun işleri ile ilgili olarak kamuya bilgi verilmesi görevini de kapsar. İkinci Başkan, Başkanın yokluğunda Başkanın tüm görevlerini ve yetkilerini üstlenir.
+Kurul Başkanı, aynı zamanda Kurumun da başkanıdır. Başkan, Kurul kararlarının uygulanmasından, yürütülmesinden ve Kurulun temsilinden sorumludur. Bu sorumluluk; Kurulun işleri ile ilgili olarak kamuya bilgi verilmesi görevini de kapsar. İkinci Başkan, Başkanın yokluğunda Başkanın tüm görevlerini ve yetkilerini üstlenir.
 Başkanlık tarafından Kurum personeline verilen yetkiler hariç olmak üzere, Kurumun tüm kararları Kurul tarafından alınır.
 Başkanlığın görev ve yetkileri şunlardır:
 a) Kurul kararlarına istinaden gerekli gördüğü hizmet birimlerini kurmak.
@@ -59,3 +53,4 @@ d) Kurul toplantılarının gündemini, gün ve saatini belirlemek ve toplantıl
 e) Kurul kararlarının gereğinin yerine getirilmesini sağlamak ve bu kararların uygulanmasını izlemek.
 f) Kurulu resmi ve özel kuruluşlar nezdinde temsil etmek.
 g) Kurumun yıllık bütçesi ile gelir gider kesin hesabını ve Kurum yıllık raporunu hazırlamak ve Kurula sunmak ve Kurum bütçesinin uygulanmasını, gelirlerin toplanmasını, harcamaların yapılmasını sağlamak.
+(Ek fıkra: 4/6/2016-6718/7 md.) Kurul, ilgili piyasa kanunlarında tanımlanan önlisans, lisans ve sertifikaların verilmesi, tadili, geçici olarak durdurulması ve iptali ile ön araştırma ve soruşturma işlemlerinin yürütülmesi hususunda ilgili kanunlar tarafından kendisine verilen yetkilerin bir kısmını veya tamamını Başkanlığa ve/veya ilgili hizmet birimine devredebilir.

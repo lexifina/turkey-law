@@ -1,2 +1,1 @@
-MADDE 71 – 26/9/2011 tarihli ve 660 sayılı Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 30 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-“(1) Kurul kararları kesindir. İdari yaptırım kararlarına karşı yetkili idare mahkemesinde dava açılabilir. Kurul kararlarına karşı açılan her türlü dava öncelikli işlerden sayılır.”
+MADDE 71 – (26/9/2011 tarihli ve 660 sayılı Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)

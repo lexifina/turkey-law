@@ -1,6 +1,5 @@
 III - İhbar zorunluluğu
 MADDE 723- (1) Hamil, protesto gününü veya poliçede “gidersiz” kaydı mevcut ise, ibraz gününü izleyen dört iş günü içinde, kabul etmeme veya ödememe hâllerini, kendi cirantasına ve düzenleyene ihbar etmek zorundadır.
-11137
 (2) Her ciranta aldığı ihbarı, bunları aldığı günü izleyen iki iş günü içinde önceki ihbarları yapan kişilerin adlarını ve adreslerini de göstermek suretiyle, kendi cirantasına ihbar eder. Düzenleyene varıncaya kadar bu sıra dâhilinde hareket edilir. Süreler önceki ihbarın alındığı tarihten itibaren işlemeye başlar.
 (3) Poliçede imzası bulunan bir kişiye ikinci fıkra gereğince ihbarda bulunulduğu takdirde, kendisine aval veren kişiye de aynı süre içinde bu ihbarın yapılması gerekir.
 (4) Bir ciranta adresini hiç yazmamış veya okunması mümkün olmayacak surette yazmış ise, ihbarın ondan önceki cirantaya yapılması yeterlidir.

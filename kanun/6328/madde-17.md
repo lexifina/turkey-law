@@ -10,7 +10,6 @@ c) İkinci fıkrada belirtilen şartları taşımayanlar,
 ç) Sebepleri, konusu ve tarafları aynı olanlar ile daha önce sonuçlandırılanlar,
 incelenmez.
 (4) Kuruma başvuruda bulunulabilmesi için, 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununda öngörülen idari başvuru yolları ile özel kanunlarda yer alan zorunlu idari başvuru yollarının tüketilmesi gereklidir. İdari başvuru yolları tüketilmeden yapılan başvurular ilgili kuruma gönderilir. Ancak Kurum, telafisi güç veya imkânsız zararların doğması ihtimali bulunan hâllerde, idari başvuru yolları tüketilmese dahi başvuruları kabul edebilir.
-11631
 (5) Kuruma, illerde valilikler, ilçelerde kaymakamlıklar aracılığıyla da başvurulabilir.
 (6) Başvurulardan herhangi bir ücret alınmaz.
 (7) Kuruma, dördüncü fıkra uyarınca yapılacak başvuruya idare tarafından verilecek cevabın tebliği tarihinden, idare başvuruya altmış gün içinde cevap vermediği takdirde bu sürenin bitmesinden itibaren altı ay içinde başvurulabilir. Başvuru tarihi, dilekçenin Kuruma, valilik veya kaymakamlıklara verildiği, diğer hâllerde başvurunun Kuruma ulaştığı tarihtir.

@@ -10,7 +10,7 @@ a) Kamu idareleri ve kamu tüzelkişileri;
 7. Üniversite, Türkiye Radyo - Televizyon Kurumu, Atatürk Kültür, Dil ve Tarih Yüksek Kurumu yararına kamulaştırmalarda yönetim kurulları,
 8. Aynı ilçe sınırları içinde birden çok köy ve belediye yararına kamulaştırmalarda ilçe idare kurulu,
 9. Bir il sınırları içindeki birden çok ilçeye bağlı köyler ve belediyeler yararına kamulaştırmalarda il idare kurulu,
-10. Ayrı illere bağlı birden çok kamu tüzelkişileri yararına kamulaştırmalarda Bakanlar Kurulu,
-11. Birden çok il sınırları içindeki Devlet yararına kamulaştırmalarda Bakanlar Kurulu.
+10. Ayrı illere bağlı birden çok kamu tüzelkişileri yararına kamulaştırmalarda Cumhurbaşkanı,[4]
+11. Birden çok il sınırları içindeki Devlet yararına kamulaştırmalarda Cumhurbaşkanı.4
 b) Kamu kurumları yararına kamulaştırmalarda yönetim kurulu veya idare meclisi, bunların olmaması halinde yetkili idare organları,
 c) Gerçek kişiler yararına kamulaştırmalarda bu kişilerin, özel hukuk tüzelkişileri yararına kamulaştırmalarda ise; yönetim kurulları veya idare meclislerinin, yoksa yetkili yönetim organlarının başvuruları üzerine gördükleri hizmet bakımından denetimine bağlı oldukları köy, belediye, özel idare veya bakanlık.

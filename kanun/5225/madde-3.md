@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 3. — Bu Kanunda yer alan;
+Madde 3- Bu Kanunda yer alan;
 a) Bakanlık: Kültür ve Turizm Bakanlığını,
 b) Kültür merkezi: Bireyler arasında sosyal ve kültürel iletişim ve etkileşim ortamlarının kurulması ile ulusal kültürün yaşatılması temel amaçlarına dönük olmak üzere; asli unsur olarak güzel sanatlar, sinema, geleneksel ve çağdaş el sanatları gibi her türlü kültürel ve sanatsal faaliyetlerden en az birkaçının üretildiği, sergilendiği, bunların eğitim, öğretim ve bilimsel çalışmalarının yapıldığı bölümler ile sağlık, spor, eğitim ve alışveriş gibi gereksinimlerin karşılandığı birimlerin de bulunduğu yapıları,
 c) Kültür varlığı: 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamında korunması gerekli taşınmaz kültür varlıklarını,
@@ -9,4 +9,4 @@ f) Kültür girişimi: Bu Kanunun amacı doğrultusunda, kültür merkezlerinin 
 g) Kültür yatırımı belgesi: Bu Kanunun amacına uygun yatırım yapanlara Bakanlıkça belli bir dönem için verilen belgeyi,
 h) Kültür girişimi belgesi: Bu Kanunun amacı doğrultusundaki girişimlere Bakanlıkça verilen belgeyi,
 i) Belgeli kültür yatırımı veya girişimi: Bakanlıkça belgelendirilmiş yatırım veya girişimleri,
-İfade eder.
+ifade eder.

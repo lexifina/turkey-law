@@ -3,7 +3,6 @@ MADDE 14 – (1) Kurum, her türlü elektronik haberleşme hizmetinin sunulması
 a) Kullanıcıların makul bir ücret karşılığında elektronik haberleşme hizmetlerinden yararlanmasını sağlayacak uygulamaların teşvik edilmesi.
 b) Tarifelerin, 5369 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (c) bendinde belirtilen ihtiyaç sahibi kesimlere mahsus, kapsamı açık ve sınırları belirlenmiş kolaylıklar sağlanması halleri saklı olmak üzere, benzer konumdaki kullanıcılar arasında haklı olmayan nedenlerle ayrım gözetilmeksizin adil ve şeffaf olması.
 c) Tarifelerin, sunulan elektronik haberleşme hizmetlerine ilişkin maliyetleri mümkün olduğunca yansıtması.
-10391
 ç) Bir hizmetin maliyetinin diğer bir hizmetin ücreti yoluyla desteklenmemesi veya karşılanmaması.
 d) Tarifelerin, rekabetin engellenmesi, bozulması veya kısıtlanmasına neden olacak şekilde belirlenmemesi.
 e) Uluslararası uygulamaların uygun olduğu ölçüde dikkate alınması.

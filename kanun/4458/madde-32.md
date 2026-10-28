@@ -13,9 +13,6 @@ b) Ait oldukları eşyanın faturasında kıymetlerinin ayrı gösterilmesi ve a
 c) İthalat vergilerinden kaçınma amacıyla ambalaj olarak getirilmesi,
 Hallerinde, bunlar ayrı olarak beyan edilir ve girdikleri tarife pozisyonlarına göre vergiye tabi tutulur.
 Ancak, yukarıdaki gibi kendi tarifeleri üzerinden vergiye tabi ambalaj maddelerinin vergi oranı, içindeki eşyanın gümrük vergi oranından düşük veya buna eşit bulunduğu takdirde, ambalaj maddelerinin gümrük vergisi eşyanın tabi bulunduğu vergi oranları üzerinden ve eşya ile birlikte hesaplanır.
-––––––––––––
-(1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu maddede yer alan “doğduğu” ibaresi “başladığı” şeklinde değiştirilmiş ve metne işlenmiştir.
-7692
 6. Ağırlık üzerinden vergiye tabi eşyanın alışıla gelen ambalaj niteliğinde olmayan kutu, kılıf ve mahfazalarının gümrük vergi oranları, içindeki eşyanın vergi oranından daha yüksek bulunduğu takdirde, kendilerine ait tarife pozisyonlarına göre vergiye tabi tutulur.
 Kıymet üzerinden vergiye tabi eşyanın kutu, kılıf ve mahfazaları, başlıbaşına bir ticari eşya niteliğinde olmaması ve kıymetinin eşyanın kıymetine dahil bulunması şartıyla gümrük vergisine tabi tutulmaz.
 7. Ağırlıkları üzerinden gümrük, vergisine tabi eşyanın örnekleme yöntemiyle yapılan gümrük muayenesi sırasında;

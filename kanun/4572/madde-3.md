@@ -1,4 +1,4 @@
-Çalışma konuları ve çalışmalarda uyulacak esaslar (1)
+Çalışma konuları ve çalışmalarda uyulacak esaslar[2]
 Madde 3 – (Değişik: 28/3/2013-6455/20 md.)
 Kooperatif ve birlikler; ortakların ve gerektiğinde diğer üreticilerin ürünlerinin daha iyi şartlarla değerlendirilmesi, mesleki faaliyetleri ile ilgili ihtiyaçlarının karşılanması ve ekonomik menfaatlerinin korunması konularında çalışırlar.
 Kooperatif ve birliklerin çalışma konuları ile ürün alım ve değerlendirme işlemlerine, ürün alım bedelini hesaplama ve ödeme şekline, kredi kullanmalarına, yatırımlarına, gelir-gider farklarının dağıtımına ve giderlerin paylaşımına ilişkin usul ve esaslar örnek anasözleşmede gösterilir. Anasözleşmeyle, ortaklara elde ettiği ürünün tamamını veya belirli bir kısmını teslim etme ya da teslim edilmesi zorunlu asgari ürün miktarı şartı getirilebilir.

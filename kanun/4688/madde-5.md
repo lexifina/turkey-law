@@ -1,5 +1,5 @@
 Hizmet kolları
-Madde 5 – Sendikaların kurulabilecekleri hizmet kolları aşağıda belirtilmiştir :
+Madde 5 – Sendikaların kurulabilecekleri hizmet kolları aşağıda belirtilmiştir:
 1. Büro, bankacılık ve sigortacılık hizmetleri.
 2. Eğitim, öğretim ve bilim hizmetleri.
 3. Sağlık ve sosyal hizmetler.
@@ -12,4 +12,3 @@ Madde 5 – Sendikaların kurulabilecekleri hizmet kolları aşağıda belirtilm
 10. Enerji, sanayi ve madencilik hizmetleri.
 11. Diyanet ve vakıf hizmetleri.
 (Mülga ikinci fıkra: 4/4/2012-6289/31 md.)
-7999

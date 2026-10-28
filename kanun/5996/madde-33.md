@@ -10,4 +10,3 @@ c) Laboratuvarlarda, analiz ve teşhislerle ilgili alet, ekipman, teknik altyap�
 (5) Laboratuvarlar, birinci fıkranın, (c) ve (ç) bentlerinde belirtilen personel değişikliklerini, yeni bölüm ilavesini veya faaliyetine son vermesi durumunu Bakanlığa bildirmek, Bakanlıkça istenen kayıtları tutmak ve istenildiğinde sunmak zorundadır.
 (6) Bakanlık, analiz metotlarını belirlemek, laboratuvarlar arasında metot birlikteliğini sağlamak, itiraz ile ilgili teşhis ve analizleri yapmak ve benzeri faaliyetleri yürütmek üzere ulusal referans laboratuvarları kurar veya belirler.
 (7) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
-10586

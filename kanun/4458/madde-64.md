@@ -1,9 +1,5 @@
-Madde 64 – 1. Gümrük idareleri, beyan sahibinin talebi üzerine ve eşyanın yanlışlıkla beyanname konusu gümrük rejimine tabi tutulmasına veya beyan edildiği rejime tabi tutulmasının özel nedenlerle artık mümkün olmadığına ilişkin kanıtlayıcı belgeleri ibraz etmesi halinde, tescil
-edilmiş bir beyannameyi iptal ederek, gerektiğinde yeni bir rejim beyanında bulunulmasına izin verebilirler.
+Madde 64 – 1. Gümrük idareleri, beyan sahibinin talebi üzerine ve eşyanın yanlışlıkla beyanname konusu gümrük rejimine tabi tutulmasına veya beyan edildiği rejime tabi tutulmasının özel nedenlerle artık mümkün olmadığına ilişkin kanıtlayıcı belgeleri ibraz etmesi halinde, tescil edilmiş bir beyannameyi iptal ederek, gerektiğinde yeni bir rejim beyanında bulunulmasına izin verebilirler.
 Ancak, gümrük idarelerince beyan sahibine eşyanın muayene edileceğinin bildirilmiş olduğu hallerde, muayenenin sonucu alınmadan beyannamenin iptaline ilişkin talep kabul edilmez.
-–––––––––––––––––––
-(1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 13 üncü maddesiyle; ikinci fıkrada yer alan “gümrük idareleri tarafından” ibaresi ile üçüncü fıkrada yer alan “gümrük idaresince” ve “olan” ibareleri madde metninden çıkarılmıştır.
-7699
 2. Hiçbir şekilde kullanılamaz hale gelmiş eşyanın, talep halinde imhasına veya Gümrük Bölgesi dışına çıkarılmasına izin verilir.
 3. Beyannamenin tescilinden sonra eşyanın niteliklerinde meydana gelen değişiklikler veya bozulmalar nedeniyle ithalat vergilerinden indirim yapılmaz.
 Ancak;

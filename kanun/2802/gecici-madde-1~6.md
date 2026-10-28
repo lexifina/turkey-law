@@ -1,0 +1,3 @@
+Geçici Madde 1 – 15/10/2006 tarihinde yapılan idarî yargı hâkim adaylığı yazılı yarışma sınavında, bu Kanunun 9/A maddesinin beşinci fıkrasında belirtilen bir katı fazla kadro içinde kalanlardan mülâkatta başarısız sayılanlar, bu Kanun hükümlerine göre yeniden mülâkata alınırlar. Bu şekilde çağrılanlar bakımından önceden kadro ilânı şartı aranmaz. Bunlar arasından başarılı olanların adaylığa atamaları yapılır.
+Birinci fıkrada belirtilen yazılı yarışma sınavı ve 25/6/2007-6/7/2007 tarihleri arasında yapılan mülâkat sonucuna göre atamaları yapılanların hakları saklıdır. Bu adayların meslek öncesi eğitimleri kaldığı yerden devam eder.
+10) 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:[91]

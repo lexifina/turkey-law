@@ -1,4 +1,4 @@
-Temyiz incelemesi üzerine verilecek kararlar: (1)
+Temyiz incelemesi üzerine verilecek kararlar:[42]
 Madde 49 – (Değişik: 18/6/2014-6545/22 md.)
 1. Temyiz incelemesi sonunda Danıştay;
 a) Kararı hukuka uygun bulursa onar. Kararın sonucu hukuka uygun olmakla birlikte gösterilen gerekçeyi doğru bulmaz veya eksik bulursa, kararı, gerekçesini değiştirerek onar.

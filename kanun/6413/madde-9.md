@@ -4,6 +4,5 @@ a) Disiplinsizlik, daha ağır bir disiplin cezası verilmesi amacıyla kendisin
 b) Disiplinsizliğe bizzat şahit olmuşsa
 c) Disiplinsizlik, resmî saygınlığına ve makamına karşı işlenmişse
 ç) Disiplinsizlik, emri altında bulunan çeşitli kıta, karargâh ve kurumlara bağlı birden fazla kişi tarafından işlenmişse
-11936
 d) Bu Kanuna göre cezalandırılması zorunlu olan bir disiplinsizlik, bilinmesine rağmen kendinden önceki disiplin amirleri tarafından cezasız bırakılmışsa
 (2) Birinci fıkra kapsamındaki yetkilerin üst disiplin amirlerince kullanılmaması durumunda, disiplin cezası verme görev ve yetkisi disiplin amiri tarafından kullanılır.

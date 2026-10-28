@@ -4,5 +4,4 @@ Başkanlık divanı seçimi üç gün içinde tamamlanır.
 Meclise belediye başkanı, katılamaması durumunda meclis birinci başkan vekili, onun da katılamaması durumunda ikinci başkan vekili başkanlık eder. Ancak yıllık faaliyet raporunun görüşüldüğü meclis toplantısı meclis başkan vekilinin başkanlığında yapılır.
 Başkanlık divanında boşalma olması durumunda kalan süreyi tamamlamak üzere yenisi seçilir.
 Meclis başkanı, meclis çalışmalarında düzeni sağlamakla yükümlüdür.
-Meclisin çalışması ve katılıma ilişkin esas ve usûller İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.
-9477
+Meclisin çalışması ve katılıma ilişkin esas ve usûller Çevre ve Şehircilik Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.[22]

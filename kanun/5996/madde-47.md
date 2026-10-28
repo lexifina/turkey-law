@@ -1,6 +1,5 @@
 Yürürlükten kaldırılan hükümler
 MADDE 47- (1) 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun yürürlükten kaldırılmıştır.
-10599
 (2) 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 84 üncü maddesinde ve 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 70 inci maddesinde yer alan “27.05.2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkındaki Kanun” ibareleri madde metninden çıkarılmıştır.
 (3) 8/5/1986 tarihli ve 3285 sayılı Hayvan Sağlığı ve Zabıtası Kanunu yürürlükten kaldırılmıştır.
 (4) 15/5/1957 tarihli ve 6968 sayılı Ziraî Mücadele ve Ziraî Karantina Kanunu yürürlükten kaldırılmıştır.

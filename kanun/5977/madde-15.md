@@ -7,5 +7,4 @@ MADDE 15 – (1) GDO ve ürünlerini bu Kanun hükümlerine aykırı olarak itha
 (6) Bu Kanunun 7 nci maddesinde düzenlenen yükümlülükleri yerine getirmeyen başvuru sahiplerine, fiilleri suç oluşturmadığı takdirde, her bir yükümlülük ihlali dolayısıyla on bin Türk Lirasından otuz bin Türk Lirasına kadar idari para cezası verilir.
 (7) GDO ve ürünlerini bu Kanun hükümlerine aykırı olarak kapalı alanda kullananlara, fiilleri suç oluşturmadığı takdirde, on bin Türk Lirası idari para cezası verilir.
 (8) 9 uncu maddenin sekizinci fıkrası hükmüne uymayanlar hakkında 2/10/1981 tarihli ve 2531 sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları İşler Hakkında Kanunun 4 üncü maddesinde belirtilen cezalar uygulanır.
-10543
 (9) Beşinci fıkra hükmüne göre idari para cezasına karar vermeye davaya bakan mahkeme, altıncı ve yedinci fıkralar hükümlerine göre idari para cezasına karar vermeye Cumhuriyet savcısı yetkilidir. Bu Kanuna göre verilen idari para cezaları tebliğinden itibaren bir ay içerisinde ödenir.

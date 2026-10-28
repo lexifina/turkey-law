@@ -4,4 +4,3 @@ MADDE 19 – (1) Halka açık ortaklıklar, kârlarını genel kurulları taraf�
 (3) Halka açık ortaklıklarda kâr payı, dağıtım tarihi itibarıyla mevcut payların tümüne, bunların ihraç ve iktisap tarihleri dikkate alınmaksızın eşit olarak dağıtılır.
 (4) Halka açık ortaklıkların sermaye artırımlarında, bedelsiz paylar artırım tarihindeki mevcut paylara dağıtılır.
 (5) Halka açık ortaklıklar tarafından bağış yapılabilmesi veya pay sahibi dışındaki kişilere kârdan pay dağıtılabilmesi için esas sözleşmede hüküm bulunması şarttır. Yapılacak bağışın sınırı halka açık ortaklık genel kurulunca belirlenir. Kurul, bağış tutarına üst sınır getirmeye yetkilidir. Ortaklıkların ilgili mali yıl içinde yapmış olduğu bağışlar, dağıtılabilir kâr matrahına eklenir.
-11855

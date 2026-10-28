@@ -1,5 +1,4 @@
 ÜÇÜNCÜ BÖLÜM
 Teşkilat
 Şeker Kurumu
-MADDE 7 — Bu Kanun ve ilgili diğer mevzuatın uygulanmasını sağlamak, uygulamayı denetlemek ve sonuçlandırmak, Kanunda verilen yetkiler çerçevesinde düzenlemeler yapmak ve Kanunla verilen diğer görevleri yerine getirmek ve yetkileri kullanmak üzere, kamu tüzel kişiliğine sahip Şeker Kurumu kurulmuştur. Kurumun merkezi Ankara’dadır. Kurumun organları, Şeker Kurulu ve hizmet birimlerinden oluşur. Kurum, Şeker Kurulu tarafından yönetilir.
-Kurumun ilişkili olduğu Bakanlık, Sanayi ve Ticaret Bakanlığıdır.
+Madde 7 – (Mülga: 20/11/2017-KHK-696/74 md.; Aynen kabul: 1/2/2018-7079/69 md.)

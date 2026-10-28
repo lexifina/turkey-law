@@ -3,7 +3,6 @@ Madde 110 – Yük taşıma sözleşmesinde, taşıyıcı yükletene aşağıdak
 a) Hava yük senedinin numarası ile, düzenlendiği gün ve yer,
 b) Taşıyıcının adı veya ticaret ünvanı ve adresi,
 c) Yükletenin adı, soyadı veya varsa ticaret unvanı ve adresi,
-6125
 d) Gönderilenin adı, soyadı veya varsa ticaret ünvanı ve adresi,
 e) Kalkış, varış ve varsa aktarma yerleri,
 f) Yükün türü, sayısı, miktarı ve ağırlığı,
