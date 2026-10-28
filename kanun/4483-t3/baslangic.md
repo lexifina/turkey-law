@@ -1,0 +1,8 @@
+İZMİR TRAMVAY VE ELEKTRİK TÜRK ANONİM ŞİRKETİ
+İMTİYAZİYLE TESİSATININ SATIN ALINMASINA DAİR
+MUKAVELENİN TASDİKİ VE BU MÜESSESENİN
+İŞLETİLMESİ HAKKINDA KANUN[1]
+Kanun Numarası : 4483
+Kabul Tarihi : 19/7/1943
+Yayımlandığı Resmî Gazete: Tarih: 27/7/1943 Sayı: 5466
+Yayımlandığı Düstur : Tertip: 3 Cilt: 24 Sayfa: 613
