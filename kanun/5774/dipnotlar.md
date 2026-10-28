@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 186 ncı maddesiyle bu fıkrada yer alan “Maliye Bakanlığına” ibaresi “Cumhurbaşkanlığına” şeklinde ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”şeklinde değiştirilmiştir.
+[2] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “Özürlüler ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında”, “özür”, “Özür”, “özürlülük” ve “Özürlülük” ibareleri sırasıyla “Engelliler Hakkında”, “engellilik”, “Engellilik”, “engellilik” ve “Engellilik” şeklinde değiştirilmiştir.
