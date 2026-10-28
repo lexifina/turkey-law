@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 76 ncı maddesiyle, bu fıkrada yer alan “Ticaret Bakanlığınca” ibaresi “Cumhurbaşkanınca” ve “Tarım ve Orman Bakanlığı ile Köy İşleri ve Kooperatifler Bakanlığınca müştereken” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiş ve “Bakanlar Kurulu kararıyla” ibaresi madde metninden çıkarılmıştır.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 76 ncı maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
