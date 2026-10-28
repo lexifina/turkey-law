@@ -1,0 +1,1 @@
+[1] 29/10/2021 tarihli ve 31643 sayılı Resmî Gazete’de yayımlanan 85 sayılı Cumhurbaşkanlığı Kararnamesinin 36 ncı maddesiyle bu fıkrada yer alan “Çevre ve Şehircilik” ibaresi “Çevre, Şehircilik ve İklim Değişikliği” şeklinde değiştirilmiştir.
