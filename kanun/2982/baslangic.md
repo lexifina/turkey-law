@@ -1,0 +1,9 @@
+KONUT İNŞAATINDA VE KALKINMADA ÖNCELİKLİ
+YÖRELERDE YAPILACAK YATIRIMLARDA VERGİ,
+RESİM VE HARÇ İSTİSNA VE MUAFLIKLARI
+TANINMASI HAKKINDA KANUN
+Kanun Numarası : 2982
+Kabul Tarihi : 24/2/1984
+Yayımlandığı Resmî Gazete : Tarih : 1/3/1984 Sayı : 18328
+Yayımlandığı Düstur : Tertip : 5 Cilt : 23 Sayfa : 46
+Amaç:

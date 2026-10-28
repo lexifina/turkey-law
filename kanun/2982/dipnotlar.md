@@ -1,0 +1,4 @@
+[1] 19/6/1987 tarih ve 3393 sayılı Kanunun geçici 2 nci maddesi bu maddenin 31/12/1992 tarihinde yürürlükten kalkacağını hüküm altına almış ise de, 23/12/1992 tarih ve 3858 sayılı Kanunun 7 inci maddesi ile söz konusu geçici 2 nci madde yürürlükten kaldırıldığından madde muhafaza edilmiştir.
+[2] 19/6/1987 tarih ve 3393 sayılı Kanunun geçici 2 nci maddesi ile bu bendin 31/12/1992 tarihinde yürürlükten kalkacağı hüküm altına alınmış ise de; 23/12/1992 tarih ve 3858 sayılı Kanunun 7 nci maddesi ile sözkonusu geçici 2 nci madde yürürlükten kaldırıldığından bent muhafaza edilmiştir.
+[3] Bu madde ile ilgili olarak 22/7/1998 tarih ve 4369 sayılı Kanunun geçici 3 üncü maddesine bakınız.
+[4] Bu maddede yer alan süre; 18/11/1995 tarih ve 4134 sayılı Kanunun 1 inci maddesi ile 31/12/1997 tarihine kadar uzatılmıştır.
