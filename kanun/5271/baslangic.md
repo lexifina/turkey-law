@@ -1,0 +1,6 @@
+CEZA MUHAKEMESİ KANUNU
+Kanun Numarası : 5271
+Kabul Tarihi : 4/12/2004
+Yayımlandığı Resmî Gazete : Tarih : 17/12/2004 Sayı : 25673
+Yayımlandığı Düstur :Tertip : 5 Cilt : 44
+BİRİNCİ KİTAP

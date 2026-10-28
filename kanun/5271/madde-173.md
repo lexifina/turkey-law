@@ -1,0 +1,6 @@
+Madde 173 – (1) Suçtan zarar gören, kovuşturmaya yer olmadığına dair kararın kendisine tebliğ edildiği tarihten itibaren iki hafta içinde, bu kararı veren Cumhuriyet savcısının yargı çevresinde görev yaptığı ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine itiraz edebilir.[69]
+(2) İtiraz dilekçesinde, kamu davasının açılmasını gerektirebilecek olaylar ve deliller belirtilir.
+(3) (Değişik: 18/6/2014-6545/71 md.) Sulh ceza hâkimliği, kararını vermek için soruşturmanın genişletilmesine gerek görür ise bu hususu açıkça belirtmek suretiyle, o yer Cumhuriyet başsavcılığından talepte bulunabilir; kamu davasının açılması için yeterli nedenler bulunmazsa, istemi gerekçeli olarak reddeder; itiraz edeni giderlere mahkûm eder ve dosyayı Cumhuriyet savcısına gönderir. Cumhuriyet savcısı, kararı itiraz edene ve şüpheliye bildirir.
+(4) (Değişik: 25/5/2005 - 5353/26 md.) Sulh ceza hâkimliği istemi yerinde bulursa, Cumhuriyet savcısı iddianame düzenleyerek mahkemeye verir.
+(5) Cumhuriyet savcısının kamu davasının açılmaması hususunda takdir yetkisini kullandığı hâllerde bu madde hükmü uygulanmaz.
+(6) (Değişik: 2/1/2017-KHK-680/11 md.; Aynen kabul: 1/2/2018-7072/10 md.) İtirazın reddedilmesi halinde aynı fiilden dolayı kamu davası açılabilmesi için 172 nci maddenin ikinci fıkrası uygulanır.
