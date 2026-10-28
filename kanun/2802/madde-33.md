@@ -1,0 +1,6 @@
+Madde 33 – (Değişik : 22/12/2005 - 5435/16 md.)
+Birinci sınıf olan hâkim ve savcıların başarılı olup olmadıkları; müfettiş hâl kâğıtları, alternatif uyuşmazlık çözüm yöntemlerine ilişkin uygulamayı da kapsayacak biçimde iş cetvelleri, kanun yolu incelemesinden geçen işleri, kanun yolu değerlendirme formları ile varsa meslekî ve akademik konulardaki faaliyetlerine ilişkin diğer bilgi ve belgeler dikkate alınarak, üç yılda bir Hâkimler ve Savcılar Yüksek Kurulunca değerlendirilmesi suretiyle tespit edilir.[42][43][44]
+Birinci sınıf olan hâkim ve savcıların çalışmalarının değerlendirilmesine dair ilkeler, Kanunda belirtilen esaslar doğrultusunda Hâkimler ve Savcılar Yüksek Kurulunca tespit edilerek Resmî Gazetede yayımlanır.
+BEŞİNCİ BÖLÜM
+Eşitlik ve Yer Değiştirme
+Eşitlik:[45]

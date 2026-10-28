@@ -1,0 +1,3 @@
+Brüt aylık tutarı:
+Madde 105 – (Mülga: 29/6/2006-5536/7 md.)
+Yargı ödeneği ve ek ödeme:[70][71][72]
