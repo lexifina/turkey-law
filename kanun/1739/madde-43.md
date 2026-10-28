@@ -1,0 +1,4 @@
+ÜÇÜNCÜ KISIM
+Öğretmenlik Mesleği
+1 – Öğretmenlik:
+Madde 43 – (Mülga: 3/2/2022-7354/10 md.)

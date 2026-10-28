@@ -1,0 +1,3 @@
+IV – Eğitim hakkı:
+Madde 7 – İlköğretim görmek her Türk vatandaşının hakkıdır.
+İlköğretim kurumlarından sonraki eğitim kurumlarından vatandaşlar ilgi, istidat ve kabiliyetleri ölçüsünde yararlanırlar.
