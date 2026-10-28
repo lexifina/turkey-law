@@ -1,0 +1,7 @@
+Madde 19- Türkiye Büyük Millet Meclisi, merkezî yönetim bütçe kanun teklifinin metnini maddeler, gider ve gelir cetvellerini kamu idareleri itibarıyla görüşür ve (…)32 oylar. Merkezî yönetim bütçe kanunu malî yıl başından önce Resmî Gazetede yayımlanır.
+Kamu yatırım programı, merkezî yönetim bütçe kanununa uygun olarak (…)32 anılan Kanunun yürürlüğe girdiği tarihten itibaren on beş gün içinde Cumhurbaşkanı kararıyla Resmî Gazetede yayımlanır.
+(Değişik üçüncü fıkra: 2/7/2018-KHK-703/213 md.) Merkezî yönetim bütçe kanununun süresinde yürürlüğe konulamaması halinde, geçici bütçe kanunu çıkarılır. Geçici bütçe ödenekleri, bir önceki yıl bütçe başlangıç ödeneklerinin belirli bir oranı esas alınarak belirlenir. Geçici bütçe kanununun da çıkarılamaması durumunda, yeni bütçe kanunu kabul edilinceye kadar bir önceki yılın bütçesi yeniden değerleme oranına göre artırılarak uygulanır. Cari yıl bütçesinin yürürlüğe girmesiyle geçici bütçe veya yeniden değerleme oranına göre artırılarak belirlenen bütçe uygulaması sona erer ve o tarihe kadar yapılan harcamalar ve girişilen yüklenmeler ile tahsil olunan gelirler cari yıl bütçesine dahil edilir.
+Merkezî yönetim kapsamındaki kamu idarelerinin bütçelerindeki ödeneklerin yetersiz kalması halinde veya öngörülmeyen hizmetlerin yerine getirilmesi amacıyla, karşılığı gelir gösterilmek kaydıyla, kanunla ek bütçe yapılabilir.
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Ödeneklerin kullanılması[33]

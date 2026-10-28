@@ -1,0 +1,3 @@
+Madde 23- Merkezî yönetim bütçe kanununda belirtilen hizmet ve amaçları gerçekleştirmek, ödenek yetersizliğini gidermek veya bütçelerde öngörülmeyen hizmetler için, bu Kanuna ekli (I) sayılı cetvelde yer alan idareler ile (II) sayılı cetvelde yer alan idarelerden merkezî yönetim bütçe kanununda gösterilecek olanların bütçelerine aktarılmak üzere, genel bütçe ödeneklerinin yüzde ikisine kadar (…)38 yedek ödenek konulabilir. Bu ödenekten aktarma yapmaya Cumhurbaşkanı yetkilidir.[39]
+Malî yıl içinde yedek ödenekten yapılan aktarmaların tür, tutar ve idareler itibarıyla dağılımı, yılın bitimini takip eden on beş gün içinde Cumhurbaşkanlığı tarafından ilan edilir.
+Örtülü ödenek[40][41]
