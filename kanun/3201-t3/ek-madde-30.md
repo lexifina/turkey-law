@@ -1,0 +1,3 @@
+Ek Madde 30- (Ek: 24/10/2011-KHK-661/18 md.)
+Üçüncü Sınıf Emniyet Müdürü rütbesine terfi etmek için zorunlu ikinci bölge hizmetini en az bir kez yapmış olmak veya halen bu bölge hizmetini ifa ediyor olmak şarttır.
+Bu maddenin birinci fıkrasında belirtilen hükmün, 3713 sayılı Kanun veya 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun kapsamında hayatını kaybeden veya aynı kanunlar kapsamındaki görevler nedeniyle Sosyal Güvenlik Kurumu Sağlık Kurulunun kararı doğrultusunda, yaşamak için gereken hareketleri yapamayacak ve başkasının yardım ve desteğine muhtaç olacak derecede malul olan emniyet teşkilatı mensuplarının eş ve çocukları hakkında ne şekilde uygulanacağı yönetmelikle düzenlenir.

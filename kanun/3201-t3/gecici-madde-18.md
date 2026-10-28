@@ -1,0 +1,3 @@
+Geçici Madde 18 – (Ek: 10/3/1993 - 3870/4 md.)
+55 inci maddedeki rütbe terfi için zorunlu şartları haiz olmak kaydıyla;
+Bu Kanunun yürürlüğe girdiği tarihte Emniyet Müdürü rütbesinde olup, bu rütbede 3 yılını doldurmamış olanlar 4 üncü sınıf Emniyet Müdürlüğüne, 3 yılını doldurmuş olanlar 3 üncü sınıf Emniyet Müdürlüğüne, 6 yılını doldurmuş olanlar 2 nci sınıf Emniyet müdürlüğüne, karşılığı olan meslek derecesi ve görev unvanlarına, Emniyet Müdürü rütbesinde olup derece üstü, 1, 2 ve 3 üncü meslek derecesinde görev yapmış veya halen yapmakta olanlar bulundukları meslek derecelerine, görev unvanlarına ve karşılığı olan rütbelere atanmış sayılırlar.

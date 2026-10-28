@@ -1,0 +1,3 @@
+Geçici Madde 23- (Ek: 24/10/2011-KHK-661/20 md.)
+1/10/2008 tarihinden önce 3713 sayılı Kanun kapsamında vazife malulü olarak emekli olup meslekten ilişikleri kesilen emniyet teşkilatı personeli, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir ay içerisinde yazılı olarak talep etmeleri halinde durumlarına uygun boş kadro bulunmak ve atanmak için gerekli olan diğer şartları taşımak kaydıyla yeniden memuriyete alınarak ayrıldıkları rütbe veya statüye uygun bir göreve atanabilirler.
+Bu madde kapsamında yeniden memuriyete alınanların meslekten ilişiklerinin kesildiği tarih ile göreve başladıkları tarih arasında geçen süre rütbe kıdeminde değerlendirilir ve bu kişiler idarece resen emekliye sevk edilemez.[55]

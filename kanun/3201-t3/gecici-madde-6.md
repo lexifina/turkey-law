@@ -1,0 +1,2 @@
+Geçici Madde 6 – (8/8/1961 - 342/1 md. ile gelen geçici 1 inci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Askerlik hizmetlerini Emniyet Genel Müdürlüğü emrinde üniformalı polis olarak yapacak olan sivil lise mezunları, 3201 sayılı Emniyet Teşkilat Kanununda yazılı vasıf ve şartları haiz olanlar arasından seçilir; ve askerlik eğitimini başarı ile bitirdikleri takdirde polis memurluklarına stajiyer olarak tayin olunurlar.

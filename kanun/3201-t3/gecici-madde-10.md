@@ -1,0 +1,2 @@
+Geçici Madde 10 – (28/12/1972 - 1649/5 md. ile gelen geçici 2 nci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+Geçici 1 inci madde kapsamına girenlerden, bu kanunun yürürlüğe girdiği tarihte, emniyet hizmetleri sınıfında atanacakları kadronun kanunla tespit edilen yaş haddini aşmış olanların da atanmaları yapılır. Bunlar hakkında 5434 sayılı Emekli Sandığı Kanununun 40 ıncı maddesinin birinci fıkrasında belirtilen genel yaş haddi uygulanır.[50]

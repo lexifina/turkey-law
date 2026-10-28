@@ -1,0 +1,2 @@
+Madde 20 – Vilayetlerde bulundurulacak vilayet emniyet müdürlüklerinin ve kaza emniyet amirliklerinin ve bunların şubelerinde bulunacak memurların meslek derecelerini tayin etmek Dahiliye Vekaletine aittir.
+Vilayet kadrosundan muhtelif derecede memur tefrik edilerek Emniyet Umum Müdürlüğü daire ve şubelerinde kullanılabileceği gibi, merkez kadrosundaki muhtelif derecede memurlar dahi aynı surette vilayetlerde kullanılabilir.

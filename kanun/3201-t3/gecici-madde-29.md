@@ -1,0 +1,2 @@
+Geçici Madde 29- (Ek:18/10/2018-7148/3 md.) (Değişik:6/12/2019-7196/10 md.)
+Başpolis memurları ve kıdemli başpolis memurları arasında yapılacak yazılı/sözlü sınavlarda başarılı olanlardan, Polis Akademisi Başkanlığınca düzenlenecek ilk derece amirlik eğitimini başarıyla bitirenler Komiser Yardımcılığı rütbesine atanır. Adaylarda aranacak diğer nitelikler, sınavlara ve ilk derece amirlik eğitimine ilişkin usul ve esaslar Bakanlıkça düzenlenir.

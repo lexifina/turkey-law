@@ -1,0 +1,2 @@
+Geçici Madde 21 – (Ek: 26/4/2005 – 5336/3 md.)
+Bu Kanun uyarınca polis meslek eğitim merkezlerinde eğitimlerini başarı ile tamamlayanların Emniyet Genel Müdürlüğü kadrolarına aday polis memuru olarak atanmaları, 2005 yılı için geçerli olmak ve toplam (2.000) adedi geçmemek üzere, 5277 sayılı 2005 Malî Yılı Bütçe Kanununun 25 inci maddesinin (a) fıkrasındaki (48.000) adet sınırlamasına tâbi olmaksızın gerçekleştirilebilir.
