@@ -1,0 +1,6 @@
+[1] 22/9/1983 tarih ve 2895 sayılı Kanunun 3 üncü maddesi ile bu Kanunda geçen "Harita Genel Müdürlüğü" ibaresi "Harita Genel Komutanlığı" olarak değiştirilmiştir.
+[2] 18/10/2018 tarihli ve 7148 sayılı Kanunun 7 nci maddesiyle bu maddede yer alan “Jandarma Genel Kumandanlığı” ibaresi “, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı” şeklinde değiştirilmiştir.
+[3] 30/12/2015 tarihli ve 6656 sayılı Kanunun 1 inci maddesiyle bu maddenin birinci fıkrasında yer alan “400”, “350” ve “300” ibareleri sırasıyla “1.172”, “1.040” ve “910” şeklinde değiştirilmiştir.
+[4] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu fıkrada yer alan “Birinci ve ikinci” ibaresi “Askeralma Kanununun 5 inci maddesinin üçüncü fıkrası kapsamında askerlik hizmetine devam edenler hariç, birinci ve ikinci” şeklinde değiştirilmiştir.
+[5] 6/12/2019 tarihli ve 7196 sayılı Kanunun 14 üncü maddesiyle, bu fıkraya “öncelikli yörelerde” ibaresinden sonra gelmek üzere “ilgisine göre İçişleri Bakanlığı veya” ibaresi eklenmiştir.
+[6] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu fıkraya “fiilen görülmediği zamanlar için” ibaresinden sonra gelmek üzere “ve Askeralma Kanununun 5 inci maddesinin üçüncü fıkrası kapsamında askerlik hizmetine devam edenlere” ibaresi eklenmiştir.
