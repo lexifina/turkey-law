@@ -1,0 +1,8 @@
+[1] 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle; bu fıkrada yer alan “31.12.2008” ibaresi “31/12/2009” şeklinde değiştirilmiştir.
+[2] 28/3/2007 tarihli ve 5615 sayılı Kanunun 24 üncü maddesiyle bu bentte geçen “otuz” ibaresi, “on” olarak değiştirilmiştir.
+[3] 12/5/2005 tarihli ve 5350 sayılı Kanunun 3 üncü maddesiyle bu madde başlığı “Sigorta primi işveren paylarında teşvik” iken, metne işlendiği şekilde değiştirilmiştir.
+[4] 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle; bu fıkrada yer alan “31.12.2008” ibaresi “31/12/2009” şeklinde, daha sonra bu ibare 28/1/2010 tarihli ve 5951 sayılı Kanunun 10 uncu maddesiyle 1/1/2010 tarihinden geçerli olmak üzere “31/12/2012” şeklinde değiştirilmiştir.
+[5] 28/3/2007 tarihli ve 5615 sayılı Kanunun 24 üncü maddesiyle bu bentte yer alan “otuz” ibaresi, “on” olarak değiştirilmiştir.
+[6] 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “31.12.2008” ibaresi “31/12/2009” şeklinde değiştirilmiştir.
+[7] 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle bu bentte yer alan “31/12/2007” ibaresinden önce gelmek üzere “31/12/2004 tarihine kadar tamamlananlar için 31/12/2009 tarihine kadar,” ibaresi eklenmiştir. Daha sonra bu ibare 28/1/2010 tarihli ve 5951 sayılı Kanunun 10 uncu maddesiyle 1/1/2010 tarihinden geçerli olmak üzere “31/12/2007 tarihine kadar tamamlananlar için münhasıran 4 üncü maddenin uygulaması açısından 31/12/2012” şeklinde değiştirilmiştir.
+[8] 2/7/2018 tarihli ve 700 sayılı KHK’nin 149 uncu maddesiyle, bu maddenin üçüncü fıkrasının (b) bendinde yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde; üçüncü ve altıncı fıkralarında yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
