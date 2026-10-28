@@ -1,0 +1,3 @@
+2. Karar nisabı, raporların kabulü:
+Madde 22 – 21 inci madde gereğince atanan bilirkişi, gereken raporları düzenleyip verdikten sonra yapılacak genel kurul toplantısında, konu görüşülür. Çağrı mektuplarına bilirkişi raporunun bir örneği eklenir.
+Ortak sayısının en az yarısının asaleten ve temsilen toplantıda bulunması şartiyle bilirkişi raporları okunup incelendikten ve gereğinde ayn nevinden sermaye koyan kimselerin ve devralınacak işletmenin veya aynların sahibinin açıklamaları dinlendikten sonra değerlerinin aynen kabul veya reddine, yahut ilgililerin muvafakatiyle değerlendirilmesine çoğunlukla karar verilir.
