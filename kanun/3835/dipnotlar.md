@@ -1,0 +1,6 @@
+[1] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 195 inci maddesiyle bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[2] 31/8/1996 tarihli ve 4184 sayılı Kanunun 2 nci maddesiyle, bu fıkrada geçen "Devlet Bakanının" ibareleri "Bakanın"; "Devlet Bakanlığınca" ibaresi ise "Başbakanın görevlendireceği Bakanlıkca" olarak değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 195 inci maddesiyle bu fıkrada yer alan “Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde ve “birinci fıkrada yazılı bakanlıkların ve kuruluşların o ildeki şube ve kurum başkanlarının” ibaresi “vali tarafından belirlenecek temsilcilerin” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 195 inci maddesiyle bu bentte yer alan “Başbakanlık ve Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[5] 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle, bu maddede geçen "her türlü vergi, resim ve harçtan muaftır." ibaresi, "Katma Değer Vergisi ve Özel Tüketim Vergisi dahil her türlü vergi, resim ve harçtan muaftır." şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 195 inci maddesiyle bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
