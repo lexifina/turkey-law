@@ -1,0 +1,9 @@
+ATATÜRK ORMAN ÇİFTLİĞİ ARAZİSİNDEN 725 DEKARININ
+SATILMASI VE EVVELCE MÜBADELE EDİLMİŞ OLAN
+BİR KISIM ARAZİNİN İLGİLİ ŞAHISLARA
+FERAĞININ İCRASI HAKKINDA
+KANUN
+Kanun Numarası : 7310
+Kabul Tarihi : 29/5/1959
+Yayımlandığı Resmî Gazete: Tarih: 6/6/1959 Sayı: 10224
+Yayımlandığı Düstur : Tertip: 3 Cilt: 40 Sayfa: 1217
