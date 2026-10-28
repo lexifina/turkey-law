@@ -1,0 +1,2 @@
+Madde 14 – Maarif Vekaleti ecnebi memleketlerde tahsilde bulunan talebenin daimi ve muntazam bir surette teftiş ve murakabesi vazifesi ile mükellef olmak üzere azami dört Maarif Müfettişinden ve Askeri Fabrikaları Umum Müdürlüğüne mensup bir müfettişten mürekkep bir teftiş heyeti bulundurur.
+Her müfettişe müteferrik ve müstacel masraflar için Cumhurbaşkanı karariyle üç bin liraya kadar avans vermeğe Maarif Vekaleti selahiyettardır.[2]
