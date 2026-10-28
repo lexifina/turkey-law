@@ -1,0 +1,1 @@
+Madde 5 – Bu Kanuna göre aylığa hak kazanmak üzere düzenlenen belgelerin gerçeğe uymadığı tespit edildiği takdirde, ödenen aylıklar ödeme tarihinden tahsil tarihine kadar kanuni faizi ile hesaplanacak tutarıyla birlikte geri alınır ve belgeleri düzenleyen ve kullananlar hakkında ayrıca genel hükümlere göre ceza kovuşturması yapılır.[4][5]
