@@ -1,0 +1,3 @@
+Geçici Madde 2 – (Ek: 23/6/2009-5912/5 md.)
+Bu Kanunun yürürlük tarihinden önce kurulan toplu yapılara ait yönetim planlarının, bu Kanun hükümlerine uyarlanması amacıyla yapılacak ilk değişiklik için mevcut kat malikleri kurulunun salt çoğunluğu yeterlidir. Mevcut toplu yapı yönetimleri, değiştirilen yönetim planına göre yeni yöneticiler seçilinceye kadar geçici yönetim olarak görevini sürdürür. Toplu yapı yöneticisi seçimi, en geç yönetim planının değiştirilmesini takip eden üç ay içinde yapılır.
+F) Yürürlük tarihi:1012

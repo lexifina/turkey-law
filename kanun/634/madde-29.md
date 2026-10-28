@@ -1,0 +1,5 @@
+C) Kat malikleri kurulunun toplantısı ve kararları:
+I - Toplantı zamanı:
+Madde 29 – Kat malikleri kurulu, yılda bir defadan az olmamak üzere yönetim planında gösterilen zamanlarda, eğer böyle bir zaman gösterilmemişse, her takvim yılının ilk ayı içinde toplanır. (Ek cümle: 14/11/2007-5711/14 md.) Toplu yapılarda ise kurullar, en geç iki yılda bir defadan az olmamak üzere yönetim plânlarında gösterilen zamanlarda, böyle bir zaman gösterilmemişse, ikinci takvim yılının ilk ayı içinde toplanır.
+Önemli bir sebebin çıkması halinde, yöneticinin veya denetçinin veya kat maliklerinden üçte birinin istemi üzerine ve toplantı için istenilen tarihten en az onbeş gün önce bütün kat maliklerine imzalattırılacak bir çağrı veya bir taahhütlü mektupla, toplantı sebebi de bildirilmek şartiyle, kat malikleri kurulu her zaman toplanabilir.
+İlk çağrı yapılırken, birinci toplantıda, yeter sayının sağlanamaması halinde, ikinci toplantının nerede ve hangi tarihte yapılacağı da belirtilir. (Ek cümle: 14/11/2007-5711/14 md.) İlk toplantı ile ikinci toplantı arasında bırakılacak zaman yedi günden az olamaz.

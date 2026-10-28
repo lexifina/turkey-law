@@ -1,0 +1,2 @@
+Geçici Madde 1 – (Ek:14/11/2007-5711/23 md.) (Değişik:9/6/2021-7327/13 md.)
+Bu maddenin yürürlüğe girmesinden önce yapı kullanma izin belgesi düzenlenen tüm yapılarda, Mekânsal Adres Kayıt Sistemine yüklenemeyen yapı kullanma izin belgesi ile yapı aplikasyon projesinin yetkili idare tarafından elektronik ortamda kadastro müdürlüğüne gönderilmesi hâlinde, 10 uncu maddenin altıncı fıkrası hükümleri uyarınca işlem yapılır.
