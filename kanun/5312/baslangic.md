@@ -1,0 +1,7 @@
+DENİZ ÇEVRESİNİN PETROL VE DİĞER ZARARLI MADDELERLE
+KİRLENMESİNDE ACİL DURUMLARDA MÜDAHALE VE ZARARLARIN
+TAZMİNİ ESASLARINA DAİR KANUN
+Kanun Numarası : 5312
+Kabul Tarihi : 3/3/2005
+Yayımlandığı Resmî Gazete : Tarih : 11/3/2005 Sayı : 25752
+Yayımlandığı Düstur : Tertip : 5 Cilt : 44
