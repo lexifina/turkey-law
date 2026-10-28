@@ -1,0 +1,8 @@
+EREĞLİ ŞİRKETİNDEN ALINAN LİMAN, DEMİRYOLU VE
+MADENLERLE KOZLU VE KİLİMLİ DEMİRYOLLARININ
+İŞLETİLMESİ VE HAVZADAKİ DENİZ İŞLERİNİN
+İNHİSAR ALTINA ALINMASI HAKKINDA KANUN
+Kanun Numarası : 3241
+Kabul Tarihi : 11/6/1937
+Yayımlandığı Resmî Gazete : Tarih: 24/6/1937 Sayı: 3639
+Yayımlandığı Düstur : Tertip: 3 Cilt: 18 Sayfa: 478
