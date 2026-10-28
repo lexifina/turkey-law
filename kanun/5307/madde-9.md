@@ -1,0 +1,4 @@
+Dökme LPG kullanıcıları
+Madde 9- Dökme LPG kullanıcıları sözleşme yaptıkları dağıtıcıdan dökme LPG ikmali yapmak ve ilgili mevzuata göre gerekli izinleri almak zorundadır.
+Dökme LPG kullanıcıları dağıtıcının bilgisi dışında dökme LPG sistemine başkalarının müdahale etmesine izin veremez. Kurum bu tesislerin işletilmesinde, geliştireceği ilke ve ölçütler doğrultusunda düzenlemeler yapabilir.
+Kullanıcılar tesis veya konutu için aldığı LPG’yi amacı dışında kullanamaz.
