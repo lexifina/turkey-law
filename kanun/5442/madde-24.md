@@ -1,0 +1,3 @@
+Madde 24 – Vali, yılda dört defadan az olmamak üzere lüzum gördüğü zamanlarda idarede birliğin sağlanması, işlerin gözden geçirilerek düzenleştirilmesi, teşkilatın ahenkli çalışması için gereken tedbirlerin alınmasını görüşmek ve kararlaştırmak amaciyle idare şube başkanlarını heyet halinde toplar. Bu toplantıda alınan kararların yürütülmesi bütün idare şubeleri için mecburidir.
+Bu görüşmelerde istihsalin artırılması, ticaret ve ulaştırma işlerinin kolaylaştırılması ve geliştirilmesi, çiftçinin kalkındırılması, umumi refahın sağlanması gibi konular üzerinde gerekli tedbirler planlaştırılır.
+Bu toplantılara kaymakamlar ve belediye ve ticaret ve ziraat odası başkanlariyle diğer memur ve ilgililer çağrılabilir.
