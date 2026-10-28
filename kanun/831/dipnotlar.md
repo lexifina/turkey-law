@@ -1,0 +1,3 @@
+[1] Bu kanun ile ek ve değişikliklerindeki hükümler gereğince Belediyelere devredilmiş olan ve bir kısmının işletilmesi 27/5/1933 tarih ve 2226 sayılı Kanunla İstanbul Belediyesine bağlı Sular İdaresine verilmiş olan Vakıf Sularla bunların hertürlü hak, yükümlülük ve tesislerinin 20/11/1981 tarih ve 2560 sayılı Kanunla kurulan İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğüne (İSKİ) devredilmesi mezkür kanunun geçici 1. maddesinin (a) bendi ile sağlanmıştır.
+[2] Bu hükmün uygulanmasında ek 1., 2., 6. ve 9 ncu maddelere bakınız.
+[3] Bu maddede sözü edilen yedinci maddenin numarası teselsülü sağlamak için "Ek Madde 7" olarak değiştirilmiştir.
