@@ -1,0 +1,3 @@
+Yalan yere şikâyet[28]
+Madde 84 – 1. Doğru olmadığını bildiği iddialarla şikayete kalkışan üç aya kadar hapsolunur.
+2. (Mülga: 31/1/2013-6413/45 md.)

@@ -1,0 +1,2 @@
+Yüksek disiplin amirlerinin cezaları değiştirme salahiyeti:
+Madde 184 – (Mülga: 31/1/2013-6413/45 md.)
