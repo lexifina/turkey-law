@@ -1,0 +1,4 @@
+[1] Bu maddenin uygulanması ile ilgili olarak, 11/6/2018 tarihli ve 30448 sayılı Resmî Gazete’de yayımlanan Maliye Bakanlığı (Gelir İdaresi Başkanlığı)’nın “7103 Sayılı Vergi Kanunları ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun Geçici 1 inci Maddesinin Uygulanmasına İlişkin Genel Tebliğ” ine bakınız.
+[2] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 212 nci maddesiyle bu maddenin birinci ve ikinci fıkralarında yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[3] 30/5/2019 tarihli ve 7176 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan “10.000 Türk lirasını” ibaresi “15.000 Türk lirasını” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 212 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
