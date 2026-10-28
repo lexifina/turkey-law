@@ -1,0 +1,1 @@
+Madde 20 – Oda intihaplarının hitamını mütaakıp bir hafta zarfında müntahap aza içtima ederek reislerini reyi hafi ile intihap ederler. Reis intihabın netayicini ve aza ile yedek azanın esamisini ve aldıkları reyler adedini derhal Sıhhiye ve Muaveneti İçtimaiye Vekaletine bildirir.
