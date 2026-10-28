@@ -1,0 +1,3 @@
+Madde 4 – Devlet konservatuvarları yüksek devre esas ders öğretmenleri maaşları karşılığı haftada sekiz, yardımcı ders öğretmenleri haftada on, orta devre esas ders öğretmenleri haftada on, yardımcı ders öğretmenleri haftada oniki saat ders okutmakla yükümlüdürler.[4]
+Bunlardan, yüksek devre öğretmenlerine, okullarında veya dengi okullarda ihtisasları içinde altı, orta devre öğretmenlerine dokuz saate kadar ücretle mecburi ek ders, ayrıca muvafakat ettikleri takdirde konservatuvarda veya dengi resmi ve özel okullarda altı saate kadar da ücretle ek ders verilebilir.
+Konservatuvar genel bilgi dersleri oğretmenleri hakkında tayin edildikleri devreye göre birinci ve üçüncü maddeler hükümleri uygulanır.
