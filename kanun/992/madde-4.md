@@ -1,0 +1,1 @@
+Madde 4 – İşbu kanunun neşrinden mukaddem hali faaliyette olan ve ihtisas vesikasını hamil bulunan laboratuvar sahiplerinin vesikaları muteberdir. Ancak bu laboratuvarlar ashabı iki ay zarfında müsaade talebine ve bu kanunla tesbit edilen ahkama ittibaa mecburdurlar.
