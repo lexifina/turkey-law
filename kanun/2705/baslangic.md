@@ -1,0 +1,8 @@
+1312 SAYILI TÜRKİYE ELEKTRİK KURUMU KANUNUNUN BAZI
+MADDELERİNİN DEĞİŞTİRİLMESİ, İKİ MADDESİNİN
+YÜRÜRLÜKTEN KALDIRILMASI, BAZI MADDE, BENT VE
+FIKRA EKLENMESİ HAKKINDA KANUN
+Kanun Numarası : 2705
+Kabul Tarihi : 9/9/1982
+Yayımlandığı Resmî Gazete : Tarih : 11/9/1982 Sayı : 17808
+Yayımlandığı Düstur : Tertip : 5 Cilt : 21
