@@ -1,0 +1,1 @@
+Madde 7 – Sıhhi sebeblerden gayri bir sebepten dolayı okulu ikma etmiyenlerle okuldan çıktıktan sonra mecburi hizmeti yapmayanlara veya inzibati sebeblerden dolayı okuldan veya mecburi hizmet esnasında ordudan çıkarılanlara okulda bulundukları müddetçe vekalet tarafından yapılan masraflar kendilerine veya kefillerine tazmin ettirilir.
