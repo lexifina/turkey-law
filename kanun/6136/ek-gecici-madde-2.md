@@ -1,0 +1,2 @@
+Ek Geçici Madde 2 – (Ek: 23/6/1981 - 2478/10 md.)
+6136 sayılı Kanun kapsamına alınan ve özellikleri İçişleri ve Gençlik ve Spor Bakanlıklarınca müştereken çıkarılacak yönetmelikte belirlenecek sporda kullanılan evvelce ruhsata tabi olmayan ateşli yivli silahları ellerinde bulunduranlar bu kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde müracaat ederek 7 nci madde esaslarına göre ruhsat almaya mecburdurlar.
