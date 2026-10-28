@@ -1,0 +1,3 @@
+[1] 14/1/2016 tarihli ve 6661 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “yedi gün” ibaresi “beş gün”, “yedinci günün” ibaresi “beşinci günün” şeklinde değiştirilmiştir.
+[2] 14/1/2016 tarihli ve 6661 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “Gümrük idareleri” ibaresi “Özel tüketim vergisi, banka ve sigorta muameleleri vergisi, özel iletişim vergisi, şans oyunları vergisi ile gümrük idareleri” şeklinde değiştirilmiştir.
+[3] 14/1/2016 tarihli ve 6661 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “son gününden itibaren üçüncü günün ” ibaresi “son gününü izleyen günün” şeklinde değiştirilmiştir.
