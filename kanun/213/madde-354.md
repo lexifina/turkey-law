@@ -1,0 +1,2 @@
+b) Veraset ve intikal vergisine;
+Madde 354 – (Mülga: 30/12/1980-2365/78 md.)
