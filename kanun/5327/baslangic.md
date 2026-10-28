@@ -1,0 +1,7 @@
+DENİZLİ-BULDAN VE ÇEVRESİNDE, HAKKARİ'DE, BİNGÖL-KARLIOVA VE
+ÇEVRESİ İLE ERZURUM-ÇAT'DA MEYDANA GELEN DEPREM AFETLERİNE VE
+BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 5327
+Kabul Tarihi : 30/3/2005
+Yayımlandığı Resmî Gazete : Tarih : 6/4/2005 Sayı : 25778
+Yayımlandığı Düstur : Tertip : 5 Cilt : 44
