@@ -1,0 +1,5 @@
+BAZI KANUNLAR İLE 635 SAYILI KANUN HÜKMÜNDE KARARNAMEDE
+DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 7176
+Kabul Tarihi : 30/5/2019
+Yayımlandığı Resmî Gazete : Tarih : 12/6/2019 Sayı : 30799
