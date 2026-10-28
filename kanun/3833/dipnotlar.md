@@ -1,0 +1,1 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 116 ncı maddesiyle, bu maddenin birinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve üçüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.

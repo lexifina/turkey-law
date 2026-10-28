@@ -1,0 +1,2 @@
+Avans ve kredi işlemleri
+Madde 3 – Yurtiçinden sağlanamayan ihtiyaçlar, yurtdışından peşin veya kredili olarak sağlanır. Bu Kanun kapsamındaki işlerle ilgili avans ve kredi işlemlerinde 1050 sayılı Muhasebe-i Umumiye Kanunu hükümleri uygulanmaz. Bu işlemlere ilişkin esas ve usuller Milli Savunma Bakanlığı, İçişleri Bakanlığı ve Maliye ve Gümrük Bakanlığınca müştereken çıkarılacak bir yönetmelikle düzenlenir.
