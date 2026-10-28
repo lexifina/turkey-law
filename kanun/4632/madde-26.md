@@ -1,0 +1,5 @@
+SEKİZİNCİ BÖLÜM
+Diğer Hükümler
+Yönetmelikler
+Madde 26 – Bu Kanunda Kurulun, Kurumun ve Sermaye Piyasası Kurulunun belirlemeye yetkili kılındığı hususlar yönetmeliklerle düzenlenir. Bu Kanun kapsamında çıkarılacak yönetmelikler, Kanunun yayımı tarihinden itibaren en geç altı ay içerisinde çıkarılır.
+Devlet katkısı[11][12]
