@@ -1,0 +1,2 @@
+Kumpanyanın umuru nakliyeyi tatil etmesini mucib vukuatı fevkalade ve ücuratı nakliyenin sureti tediyesi
+Madde 6 – Bazı güna vukuatı fevkalade olduğu veyahut mani olur surette bazı halatı müsbire vukubulduğu veyahut vesait kifayet etmediği halde yolcu ve her nevi eşya ve emtianın nakli mecburi değildir kumpanya bakır veyahut mağşuş meskukat müstesna olmak üzere memaliki mahrusai şahanede nizamen mütedavül olan altın ve gümüş her nevi meskukatı kabul eder ve bu misillu meskukatı ne fiatla ahz ve kabul ettiğini dahi tayin edip mevkiflerde ilannameler ile işae eyler.

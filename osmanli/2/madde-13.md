@@ -1,0 +1,2 @@
+Sıkıntı veren adamların defi
+Madde 13 – Diğer yolculara sıkıntı ve rahatsızlığı mucib olan adamlar mahsusan bir bölme isticar etmedikçe arabalara kabul olunmıyacaklardır. Esbabı mezküreye mebni arabalara kabul olunmıyan yolcular araba derununda katetmiş oldukları mesafenin ücreti müstesna olmak üzere vermiş oldukları ücreti nakliyeyi tamamen istirdada hak ve salahiyetleri olacaktır. Bir yolcunun berveçhi muharrer diğer yolculara sıkıntı ve rahatsızlığı mucib olduğu esnayi tarikde sabit olur ise katarın ilk tevakkuf ettiği mevkifte o yolcu arabadan ihrac olunacaktır.

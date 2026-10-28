@@ -1,0 +1,2 @@
+Mevkilerin taksimi
+Madde 12 – Herbir yolcu almış olduğu bilet iktizasınca bir mevkii mahsusa kesbi istihkak eder ise de işbu mevki evvelce muayyen olmayıb evvelden işaret koyarak kendine mevki tayin ve tahsisi memnudur. Kumpanya memurları yolculara mevkiler göstermeğe mezun oldukları misillu olbabda yolcular tarafından bir güna taleb vukubuldukta olveçhile iktiza eden mevkileri tahsis etmeğe dahi mecburdurlar yalnızca seyahat eden kadınlar mümkün olduğu mertebe diğer kadınlar ile birlikde olmak üzere mahsus yer bulunub irkab olunacaklardır.

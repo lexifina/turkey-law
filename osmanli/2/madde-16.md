@@ -1,0 +1,2 @@
+Geç kalan yolcular
+Madde 16 – Katarın hareket etmesi zımnında üçüncü defa çan çalındıktan sonra arabalara binmek bilkülliye memnudur. Herkim arabalara hareket eder iken binmek ister ise ve binecek olanlara muavenet eder ise demiryolların umuru zabıtasına dair olan nizamname ahkamına tevfikan hakkında mücazat tertib olunur. Herhangi bir yolcu arabaların hareketinde yetişemez ise vermiş olduğu ücreti nakliyeyi istirdada ve olbabda hiç bir tazminat ahzına hak ve salahiyeti yoktur.

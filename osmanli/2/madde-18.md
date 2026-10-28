@@ -1,0 +1,2 @@
+İki mevkif beyninde fevkalade olarak tevakkuf
+Madde 18 – Demiryolu arabaları mevkiflerin gayri yerde fevkalade olarak tevakkuf ettiği halde yolcular başmemurdan istihsali ruhsat ettikten sonra tarik üzerinde durmamak şartile arabalardan inip lokomotifin düdüğü bir defa çalındığı gibi arabalara girip mevkilerine kuud edeceklerdir. Mezkur düdük üç defa çalındıkta arabalar hareket edecektir. Düdüğün üçüncü defa çalınmasında mevkiine gelmiyen yolcular demiryolu arabalarına rakiben seyahat etmek istihkakından mahrum olurlar.
