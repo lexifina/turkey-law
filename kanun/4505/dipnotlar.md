@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 48 inci maddesiyle bu bentte yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 48 inci maddesiyle bu bentte yer alan “Teşkilat veya özel kanunlarında” ibaresi “Kanunlarda” şeklinde ve “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
