@@ -1,0 +1,8 @@
+UMUMİ MAHKEMELER VE KARAR HAKİMLERİ VE
+MUSTANTİKLERLE UMUMİ VE HUSUSİ KAZA
+SALAHİYETİNİ HAİZ MAKAMLAR ARASINDAKİ
+İHTİLAFIN HALLİ HAKKINDA KANUN
+Kanun Numarası : 1684
+Kabul Tarihi : 4/6/1930
+Yayımlandığı Resmî Gazete : Tarih: 10/6/1930 Sayı: 1516
+Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 562
