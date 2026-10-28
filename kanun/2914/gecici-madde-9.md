@@ -1,0 +1,2 @@
+Geçici Madde 9 – (Ek: 14/1/1988 - KHK - 311/8 md.)
+2547 sayılı Yükseköğretim Kanunun yürürlüğe girmesinden önce Profesörlük unvanını almış olup da 78 sayılı Kanun Hükmünde Kararname ile ihdas edilen profesörlük kadrolarına atanamamış olanlar, bu Kanunun 5 inci maddesinde profesör kadrosunda bulunanlar için öngörülen ek göstergeler ile 241 sayılı Kanun Hükmünde Kararname'nin değişik 39 uncu maddesine göre profesör kadrosunda üç yılı tamamlamış olanlar için öngörülen makam tazminatından profesör kadrosuna atanma şartı aranmaksızın yararlandırılırlar.

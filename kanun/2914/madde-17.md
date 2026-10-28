@@ -1,0 +1,2 @@
+Emekli öğretim elemanlarının sözleşmeli istihdamı:6
+Madde 17 – Üniversiteler, ihtiyaç duydukları dallarda 5434 sayılı T. C. Emekli Sandığı veya 506 sayılı Sosyal Sigortalar Kanununa göre 65 yaşını doldurmak suretiyle emekli olmuş öğretim elemanlarını emekli aylıkları kesilmeksizin ve yaş kaydı aranmaksızın sözleşme ile çalıştırabilirler. Bu gibilere ödenecek ücret Cumhurbaşkanınca belirlenecek esaslar dahilinde Yükseköğretim Kurulu tarafından tespit edilir.

@@ -1,0 +1,1 @@
+Geçici Madde 1 – 657 sayılı Devlet Memurları Kanununa tabi öğretmenlerden 28/3/1993 tarih ve 2809 sayılı Kanunun geçici 3 üncü maddesi ile aynı Kanun kapsamına alınanlardan yükseköğrenim kurumlarında istihdamına ihtiyaç duyulanların bu Kanun hükümlerine göre intibakları, 30/6/1984 tarihi itibariyle yapılır.
