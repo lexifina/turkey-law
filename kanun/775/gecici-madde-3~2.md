@@ -1,0 +1,1 @@
+Geçici Madde 3 – 3/6/1986 tarihli ve 3296 sayılı Yetki Kanunu ile Bakanlar Kuruluna ve-rilen Kanun Hükmünde Kararname çıkarma yetkisi, 775 sayılı Gecekondu Kanunu için adı geçen Kanunla verilen süre bitimine kadar geçerlidir.

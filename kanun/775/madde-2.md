@@ -1,0 +1,1 @@
+Madde 2 – Bu kanunda sözü geçen (Gecekondu) deyimi ile, imar ve yapı işlerini düzenliyen mevzuata ve genel hükümlere bağlı kalınmaksızın, kendisine ait olmıyan arazi veya arsalar üzerinde, sahibinin rızası alınmadan yapılan izinsiz yapılar kastedilmektedir.

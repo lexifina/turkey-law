@@ -1,0 +1,1 @@
+Geçici Madde 3 – Bu kanunun yürürlüğe girdiği tarihten önce gecekonduların ıslah, tasfiye ve önlenmesi ve konut yapımı amaçlariyle İmar ve İskan Bakanlığınca yapılmış ve yapılmakta olan kamulaştırma, yapı ve diğer uygulama işlerinde de bu kanun hükümleri uygulanır.

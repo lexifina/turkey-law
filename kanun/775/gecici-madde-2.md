@@ -1,0 +1,2 @@
+Geçici Madde 2 – Bu kanunun yürürlüğe girmesinden önce, kendisine ait olmıyan ve bu kanun mucibince belediyelerin mülkiyetine geçecek olan veya esasen belediyelere ait bulunan arazi ve arsalar üzerinde, bağ, bahçe ve meyvalık yetiştirmiş olanların bu tesis yerleri imar planına uymadığı takdirde, muhtesatının belediyece takdir edilecek bedelleri ödenerek, ilgileri kesilir.
+İlgililer takdir olunan bedele karşı 21 inci maddede belirtildiği şekilde itirazda bulunabilirler.
