@@ -1,0 +1,7 @@
+2009 YILINDA İSTANBUL ŞEHRİNDE YAPILACAK BEŞİNCİ DÜNYA SU
+FORUMUNUN ORGANİZASYONU İLE KATMA DEĞER VERGİSİ KANUNUNA
+BİR GEÇİCİ MADDE EKLENMESİNE DAİR KANUN
+Kanun Numarası : 5804
+Kabul Tarihi : 15/10/2008
+Yayımlandığı Resmî Gazete : Tarih : 23/10/2008 Sayı : 27033
+Yayımlandığı Düstur : Tertip : 5 Cilt : 48
