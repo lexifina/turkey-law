@@ -1,0 +1,1 @@
+Geçici Madde 1- Bu Kanunun yürürlüğe girdiği tarihte görüşülmekte olan dava ve işlerde mahkemelerin görevinde bir değişikliğin söz konusu olduğu hallerde, üst görevli mahkemeler yargılamaya devam ederler, alt görevli mahkemeler görevsizlik kararı vererek dosyayı üst görevli mahkemeye gönderirler.

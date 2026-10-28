@@ -1,0 +1,4 @@
+Hukuk daireleri iş bölümü incelemesi
+MADDE 35/A- (Ek:7/11/2024-7531/13 md.)
+İstinaf incelemesi için dosya kendisine gönderilen ilgili hukuk dairesi, bir ay içinde yapacağı ön inceleme sonucunda iş bölümü bakımından kendisini görevli görmez ise gerekçesiyle birlikte dosyayı görevli olduğu kanısına vardığı ilgili hukuk dairesine gönderir. Bir aylık sürenin bitiminden sonra veya duruşma günü verilen dosya hakkında gönderme kararı verilemez.
+Gönderme kararı üzerine dosya kendisine gelen hukuk dairesi, iki hafta içinde yapacağı ön inceleme sonucunda görevli olmadığı kanaatine varırsa, varsa geçici hukuki koruma tedbirlerine dair talepler hakkında da karar vermek suretiyle dosyayı hukuk daireleri başkanlar kuruluna gönderir. İki haftalık sürenin bitiminden sonra gönderme kararı verilemez. Kurul tarafından yapılan ön inceleme sonunda verilen iş bölümüne ilişkin karar kesindir.
