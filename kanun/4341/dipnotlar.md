@@ -1,0 +1,1 @@
+[1] 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle; bu maddede yer alan “Devlet ve üniversite” ibaresi “birinci basamak resmi sağlık kuruluşları ile Devlet ve üniversite” şeklinde değiştirilmiş ve metne işlenmiştir.
