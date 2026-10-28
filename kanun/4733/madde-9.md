@@ -1,0 +1,4 @@
+Yönetmelikler
+Madde 9 - A) (Mülga: 20/11/2017-KHK-696/82 md.; Aynen kabul: 1/2/2018-7079/77 md.)
+B) Tütün ve tütün mamulleri ile alkol ve alkollü içkilerin iç ve dış ticareti, tütün mamulleri, makaron ve yaprak sigara kâğıdı üretim tesislerinin kurulmasının izin ve şartları, üretilecek tütün mamullerinin teknik özelliklerinin belirlenmesi, üretim şartını karşılamayan firma mamullerinin fiyatlandırılması, dağıtılması, satışı ve kontrolü ile bayilikler verilmesi, üretici tütünlerinin yazılı sözleşme esası veya açık artırma yöntemi ile alınıp satılması, açık artırma başlangıç fiyatının teknik olarak saptanması, Dünyada ve Türkiye'deki gelişmeler dikkate alınarak açık artırma başlangıç fiyatını tespitte kullanılan oranın yüzde elliye kadar artırılması ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanunu ile bu Kanunun uygulanmasıyla ilgili diğer usul ve esaslar Gıda, Tarım ve Hayvancılık Bakanlığı tarafından çıkarılacak yönetmeliklerle,[30][31]
+düzenlenir.
