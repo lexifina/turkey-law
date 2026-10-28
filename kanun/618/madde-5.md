@@ -1,0 +1,1 @@
+Madde 5 – Limanlar içinde Hükümetin tayin ve tahdit ettiği yerlerde deniz kıyısına kazık çakmak, doldurmak suretiyle denize tecavüz etmek ve limanların içinde ve deniz üzerinde kahvehane, yemekhane, yatakhane misillü mahaller tesis eylemek veyahut herhangi bir suretle limanların genişliğine halel vermek memnudur.
