@@ -1,0 +1,1 @@
+Geçici Madde 72 – (4/4/1987 - KHK - 277/1 md. ile gelen Geçici 2 md. hükmü olup, 1/2/1989 tarih ve 3520 sayılı Kanun ile madde numarası teselsül ettirilmiştir. Mülga: 9/5/1990 - 3642/1 md.)
