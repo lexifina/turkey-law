@@ -1,0 +1,3 @@
+[1] 24/10/2011 tarihli ve 661 sayılı KHK’nin 81 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “Araştırma” ibaresi yürürlükten kaldırılmış, daha sonra bu hüküm 12/7/2013 tarihli ve 28705 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 17/1/2013 tarihli ve E.: 2011/143, K.: 2013/18 sayılı Kararı ile iptal edilmiştir.
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 158 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 158 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
