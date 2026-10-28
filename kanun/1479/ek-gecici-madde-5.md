@@ -1,0 +1,2 @@
+Ek Geçici Madde 5 – (Ek: 19/4/1979 - 2229/34 md. ; Mülga: 31/5/2006-5510/106 md.)
+Başka kurum ve sandıklarca kendilerine ve hak sahiplerine aylık bağlananlar:
