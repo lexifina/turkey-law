@@ -1,0 +1,7 @@
+MENKUL VE GAYRİMENKUL EMVAL İLE BUNLARIN İNTİFA HAKLARININ VE
+DAİMİ VERGİLERİN MEKTUMLARINI HABER VERENLERE VERİLECEK
+İKRAMİYELERE DAİR KANUN
+Kanun Numarası : 1905
+Kabul Tarihi : 26/12/1931
+Yayımlandığı Resmî Gazete : Tarih: 31/12/1931 Sayı: 1990
+Yayımlandığı Düstur : Tertip: 3 Cilt: 13 Sayfa: 40

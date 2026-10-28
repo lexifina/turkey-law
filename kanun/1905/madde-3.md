@@ -1,0 +1,1 @@
+Madde 3 – Bu kanunun neşri tarihinden evvel vakı olupta taallük eylediği menkul ve gayrimenkul emval ile intifa haklarının Hazineye aidiyetinin tahakkuk muamelesi henüz hitam bulmamış olan ihbarların muhbirlerine dahi bu kanunun hükümlerine göre ikramiye verilir.
