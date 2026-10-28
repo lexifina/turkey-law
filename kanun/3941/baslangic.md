@@ -1,0 +1,8 @@
+ŞEHİR VE KASABALARDAN UZAK YERLERDE İNŞA
+EDİLEN JANDARMA KARAKOL BİNALARINA KARAKOL
+KOMUTANI İLE AİLESİNİN İKAMETİ İÇİN İLAVE
+YAPILMASI HAKKINDA KANUN
+Kanun Numarası : 3941
+Kabul Tarihi : 16/12/1940
+Yayımlandığı Resmî Gazete : Tarih : 20/12/1940 Sayı : 4691
+Yayımlandığı Düstur : Tertip : 3 Cilt : 22 Sayfa : 46
