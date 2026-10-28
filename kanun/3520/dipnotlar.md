@@ -1,0 +1,1 @@
+[1] Bu Kanuna ekli listelerde yer alan Kanunların, değişikliğe uğramış madde numaraları Külliyattaki yerlerine işlenmişlerdir. Ancak Külliyatın 3520 sayılı Kanundan önce basılması nedeniyle maddelerin karşısındaki eski madde numaraları ile ilgi ve bağlantıyı kuran şerhde bu Kanundan bahsedilememiştir.
