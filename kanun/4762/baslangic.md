@@ -1,0 +1,10 @@
+"İSTANBUL HAVAGAZI VE ELEKTRİK VE TEŞEBBÜSATI
+SINAİYE TÜRK ANONİM ŞİRKETİ" Nİ SATIN ALMA
+SÖZLEŞMESİNİN ONANMASINA VE "İSTANBUL
+ELEKTRİK, TRAMVAY VE TÜNEL
+İŞLETMELERİ İDARESİ" NE
+DEVRİNE DAİR KANUN[1]
+Kanun Numarası : 4762
+Kabul Tarihi : 20/6/1945
+Yayımlandığı Resmî Gazete: Tarih: 28/6/1945 Sayı: 6043
+Yayımlandığı Düstur : Tertip: 3 Cilt: 26 Sayfa: 1208
