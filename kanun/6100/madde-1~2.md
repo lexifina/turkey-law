@@ -1,0 +1,4 @@
+12/1/2011 TARİHLİ ve 6100 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
+1 – 17/4/2013 tarihli ve 6460 sayılı Kanunun 1 ve 2 nci Maddeleri :
+MADDE 1 – 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun 373 üncü maddesinin beşinci fıkrasından, 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 439 uncu maddesinin beşinci fıkrasından ve 1086 sayılı Kanunun 26/9/2004 tarihli ve 5236 sayılı Hukuk Usulü Muhakemeleri Kanununda Değişiklik Yapılmasına İlişkin Kanunun 16 ncı maddesi ile değiştirilmeden önceki 429 uncu maddesinin üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+Davanın esastan reddi veya kabulünü içeren bozmaya uyularak tesis olunan kararın önceki bozmayı ortadan kaldıracak şekilde yeniden bozulması üzerine alt mahkemece verilen kararın temyiz incelemesi, her hâlde Yargıtay Hukuk Genel Kurulunca yapılır.
