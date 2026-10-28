@@ -1,0 +1,6 @@
+Madde 21 – Tescil edilen araçlar, "Tescil Belgesi" ve "Tescil Plakası" alınmadan karayollarına çıkarılamaz. (Ek cümle: 13/2/2011-6111/56 md.) Ancak, ilk tescili yapılan araçlar için düzenlenen tescile ilişkin geçici belgelerin geçerlilik süresi içinde, tescil belgesi alma zorunluluğu aranmaz.
+(Değişik:18/10/2018-7148/15 md.) Birinci fıkra hükmüne uymayan sürücüler 46.000 Türk lirası idari para cezası ile cezalandırılırlar.[24]
+(Değişik:18/10/2018-7148/15 md.) Birinci fıkra hükmüne aykırılığı tespit edilen araçlar eksiklikleri giderilinceye kadar trafikten menedilir. (Ek cümle:12/2/2026-7574/3 md.) Aykırılığı tespit edilen araç trafikten çekilmiş ise trafikten çekme tarihi itibarıyla trafik tescil kaydı açılır ve ilgili vergi dairesine bildirilir.
+Tescil belgesi geçersiz duruma gelince sürekli olarak, üzerinde eksik veya yanlış bilgi bulunması halinde geçici olarak trafik zabıtasınca geri alınır.
+(Ek:18/10/2018-7148/15 md.) Hurdaya çıkarılmış araçların karayolunda sürülmesi yasaktır. Bu araçların karayolunda sürüldüğünün tespiti hâlinde sürücüsüne 46.000 Türk lirası idari para cezası verilir ve bu araçlar trafikten menedilir. Ayrıca mülki amir tarafından el konulur ve aracın mülkiyeti kamuya geçer.[25]
+(Ek:18/10/2018-7148/15 md.) Araçların hurdaya çıkarılmasına dair usul ve esaslar Yönetmelikte belirlenir.
