@@ -1,0 +1,2 @@
+[1] 2/7/2018 tarihli ve 698 sayılı KHK’nin 6 ncı maddesiyle, bu maddenin birinci fıkrasının (F) bendinde yer alan “bir nizamname” ibaresi “Cumhurbaşkanı tarafından yönetmelik” şeklinde değiştirilmiş ve aynı maddede yer alan “Bu nizamnamenin sıhhı hususlara mütaallik maddeleri Sıhhat ve İçtimai Muavenet Vekaletiyle müştereken hazırlanır.” ibaresi yürürlükten kaldırılmıştır.
+[2] Bu tarih 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle 1/6/2005 olarak değiştirilmiştir.
