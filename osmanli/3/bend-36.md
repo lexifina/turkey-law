@@ -1,0 +1,1 @@
+Bend 36 – Gazetelerin devleti aliye aleyhine derc ve neşretdikleri ehemmiyetli bendler türkçe veya fransızcaya tercüme olunarak şehbenderhanenin mercii olan sefareti seniyeye ve ehemmiyeti pek ziyade ise doğrudan doğruya nezareti hariciyeye gönderilecektir.

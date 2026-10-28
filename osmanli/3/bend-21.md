@@ -1,0 +1,1 @@
+Bend 21 – On dokuzuncu bendin birinci ve ikinci maddelerine tevfikan hilafı memuriyet hareket eden şehbender amiri tarafından muvakkaten azledilebilecek ve keyfiyet hariciye nezaretine ihbar edilecektir. Muvakkaten azledilen memur mesleki müttehazı üzerine izahat vermek ister ise maiyetinde bulunduğu sefareti seniye veyahut nezareti hariciyeden ruhsat taleb edecekdir.

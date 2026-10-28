@@ -1,0 +1,2 @@
+Bend 7 – (Değişik: 12 Kanunuevvel 1302 tarihli irade ile)
+Bombay ve Batavya Şehbenderlikleri müstesna olmak üzere şehbenderlere azimet ve avdetlerinde verilecek harcırah alacakları maaşın bir misli olacaktır. Mahalli memuriyetleri Asya kıtasında bulunan şehbenderlere olmiktar harcırahın ademi kifayeti anlaşıldığı halde nihayet maaşlarının iki mislini tecavüz etmemek üzere Hariciye Nezaretince miktarı tezyid olunabilir.

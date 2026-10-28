@@ -1,0 +1,1 @@
+Bend 43 – Muvazzaf veya fahri şehbenderler istimal etdikleri pulların hesabını her üç ayda hariciye nezaretine irsal eyliyecekler ve istimal olunmıyan pulları her altı ayda nezareti müşarileyhaya iade edeceklerdir tarafı nezaretden dahi yeniden pul gönderilecekdir.

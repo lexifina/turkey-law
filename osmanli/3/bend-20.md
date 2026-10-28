@@ -1,0 +1,1 @@
+Bend 20 – Mevaddı cinaiye veya tedibiyeden birile mahküm olmuş veyahud müddeti nizamiyenin inkızası veya cünha imaratının fıkdanı sebeblerile cezadan kurtulmuş olan şehbenderler memuriyetlerinden affolunurlar.

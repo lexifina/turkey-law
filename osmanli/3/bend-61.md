@@ -1,0 +1,1 @@
+Bend 61 – Fahri şehbenderler kançelarya masarifini kendileri tesviye etmeğe mecburdurlar. Yalnız memleketlerine iade olunacak muhtacini tebaanın masraflarile posta ve telgraf ücretleri hükümeti seniye namına olarak hasılatdan tesviye edilir.

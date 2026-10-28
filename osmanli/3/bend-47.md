@@ -1,0 +1,1 @@
+Bend 47 – Kançalaryada bulunan memur tarafından tarifeden fazla resim ahzedilmesine şehbenderler dikkat edecekler ve tarifede musarrah olmıyan evrakı resmiye meccanen verilib derhal nezareti hariciyeye ihbarı keyfiyet eyliyeceklerdir.

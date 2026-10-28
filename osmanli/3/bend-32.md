@@ -1,0 +1,2 @@
+Bend 32 – Şehbenderler politika mecalisi hafiyelerinin harekat ve ilkaatını memaliki şahanenin istirahati umumiyesine taallüku bulunduğu derecede tahkik ve tecessüs eyliyecekleri ve sair cihetlerce mazarrat ve tehlikesi mütevatir ve müssellem olan eşhas bulunduğu takdirde onların dahi ef'al ve harekatını tecessüs eyliyeceklerdir.
+Umuru memuresinin işbu ciheti nazikesini ifa için icabı takdirinde hafiye memuru istihdam eyliyecekler ise de bu babda ruhsatı mahsusa ve mebaliği lazimeyi evvelemirde maiyetinde bulundukları sefareti seniyeden taleb eyliyeceklerdir.

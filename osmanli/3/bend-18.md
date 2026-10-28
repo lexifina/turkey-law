@@ -1,0 +1,1 @@
+Bend 18 – Tevbih cezası hariciye nazırı tarafından tahriren icra olunduğu gibi azli muvakkat cezası dahi nezareti hariciyenin rey ve kararile olur memuriyetden af cezası nezareti müşarüleyhanın kararile bairadei şahane icra olunur.

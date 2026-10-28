@@ -1,0 +1,1 @@
+Bend 60 – Fahri şehbenderler mercileri olan sefareti seniyenin teklifi üzerine bairadei şahane nasbolunur fahri şehbenderler yerliden veya tebaai ecnebiye muteberatından intihab olunarak ticaretle mesgul olabilirler fakat bunların bulundukları mahalden diğer memlekete nakli memuriyetleri caiz olamaz fahri şehbenderler imtihan edilmiyeceklerdir.

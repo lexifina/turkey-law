@@ -1,0 +1,1 @@
+Bend 48 – Zabıtname ve saire gibi şehbenderlerin tanzim edecekleri varakai resmiye her satırı on iki hecaden ve her sahifesi yirmi satırdan ibaret olmak üzere iki sahife itibar olunmuşdur iki sahife hitamında be'd olunan diğer varaka için tam resim ahzolunur türkce tanzim olunan varaka yirmi satır olmak üzere bir sahife itibar olunur.
