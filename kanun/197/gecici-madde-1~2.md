@@ -1,0 +1,3 @@
+18/2/1963 Tarihli ve 197 Sayılı Ana Kanuna İşlenemeyen Geçici Maddeler
+1) 26/11/1980 tarihli ve 2348 sayılı kanunun geçici maddeleri:
+Geçici Madde 1 – Motorlu Taşıtlar Vergisi Kanununun 6 ncı maddesinde yer alan III sayılı tarifede yazılı, yat, kotra ve her türlü içten veya dıştan takma motorlu özel tekneleri elinde bulunduranlardan, bu taşıtlarını bulundukları yer belediye veya liman başkanlıklarına aynı tarifedeki uçak ve helikopterleri elinde bulunduranlardan Ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğüne kaydettirmemiş olanlar, bunların 2 ay içerisinde kayıt işlemlerini, belediye veya liman başkanlıkları ile Ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğüne yaptırmak ve bu dairelerin bulunduğu yerdeki ilgili vergi dairesine bildirmek zorundadırlar.
