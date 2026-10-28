@@ -1,0 +1,2 @@
+Madde 29 – (Değişik: 23/1/2008-5728/149 md.)
+Gazeteciye bu Kanunun 21 inci maddesinde yazılı yıllık izni vermeyen veya izni vermiş olup da izin müddetine ait ücreti ödemeyen işverene, yıllık izin vermediği veya izin süresine ait ücretleri ödemediği kimsenin izin müddetine tekabül eden ücretler yekununun üç katı kadar idarî para cezası verilir; ayrıca gazeteciye ödenmesi gereken ücret toplamı, iki kat olarak ödenir.

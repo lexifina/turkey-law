@@ -1,0 +1,4 @@
+[1] 193 sayılı "Gelir Vergisi Kanununun" 17/10/1980 tarih ve 2320 sayılı Kanunla değişik 25. maddesi gereğince bu Kanuna göre ödenen kıdem tazminatlarının hizmet erbabının 24 aylığını aşmayan miktarları (hizmet ifa etmeksizin ödenen ücretler) tazminat sayılmaz.
+[2] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle bu fıkraya “gazete” ibaresinden sonra gelmek üzere “, internet haber siteleri” ibaresi eklenmiştir.
+[3] 23/1/2008 tarihli ve 5728 sayılı Kanunun 148 inci maddesiyle; bu maddede yer alan “birmilyarikiyüzmilyon lira” ibaresi “binbeşyüz Türk Lirası” şeklinde değiştirilmiştir.
+[4] 17/4/2008 tarihli ve 5754 sayılı Kanunun 83 üncü maddesiyle; bu fıkranın (a) bendinde yer alan “zamanında ödemeyen” ibaresinden sonra gelmek üzere “veya gazetecinin ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakını zorunlu tutulduğu halde özel olarak açılan banka hesabına yatırılmaksızın ödenmesi durumunda, her bir gazeteci için,” ibaresi eklenmiştir.
