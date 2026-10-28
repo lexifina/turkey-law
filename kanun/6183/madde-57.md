@@ -1,0 +1,2 @@
+Kefil ve yabancı şahıs veya kurumlar mümessillerini takip:
+Madde 57 – Kefil ve yabancı şahıs veya kurumların mümessilleri bu kanun hükümlerine göre ve aynen asıl borçluların tabi tutuldukları usullerle takip olunur.
