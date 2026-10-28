@@ -1,0 +1,2 @@
+Bakanlıklar arası işbirliği ve kuruluşların yardım zorunluluğu
+Madde 31- İlgili bakanlıklar, bu Kanunun uygulanması bakımından ihtiyaç duyulan hususlarda, sorunların çözüm ve görevlerin ifasında kendi görev ve yetkileri çerçevesinde gerekli katılım, işbirliği ve katkıyı yapar. Kamu kuruluşları ile özel kuruluşlar Bakanlığın daveti üzerine çalışmalara ve uygulamalara katılır, gerekli destek ve yardımları öncelikle sağlarlar.

@@ -1,0 +1,5 @@
+[1] 26/1/2023 tarihli ve 7435 sayılı Kanunun 9 uncu maddesiyle bu fıkranın birinci cümlesinde yer alan “iki” ibaresi “üç” şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 161 inci maddesiyle, bu fıkrada yer alan “Bakanlığa başvurabilir. Bakanlık, bu başvuruyu uygun görürse Bakanlar Kuruluna oranların değiştirilmesi teklifinde bulunur. Bakanlar Kurulu” ibaresi “yapılan başvurulara göre Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[3] 23/5/2024 tarihli ve 7511 sayılı Kanunun 7 nci maddesi ile bu fıkranın birinci cümlesinde yer alan “ancak” ibaresinden sonra gelmek üzere “lisansı askıya alınan işletmeler askıda kalınan günler için depo kira ücreti talep edemez ve” ibaresi eklenmiştir.
+[4] Bu fıkrada yer alan parasal sınırların 1/1/2026 ile 31/12/2026 tarihleri arasında uygulanacak idari para cezaları için metin sonundaki 5300 sayılı tarım ürünleri lisanslı depoculuk kanununun 34 üncü maddesine göre 2026 yılında uygulanacak olan idari para cezaları miktarlarıyla ilgili tabloya bakınız.
+[5] 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle bu maddede yer alan "1 Nisan 2005“ ibaresi, "1 Haziran 2005“ şeklinde değiştirilmiştir.
