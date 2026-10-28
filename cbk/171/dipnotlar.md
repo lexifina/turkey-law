@@ -1,0 +1,3 @@
+[1] Anayasa Mahkemesinin 11/12/2025 tarihli ve E.: 2025/40, K.: 2025/261 sayılı Kararı ile bu fıkrada yer alan “ve üyeler Bakan tarafından Bakanlık üst kademe yöneticileri arasından belirlenir.” ibaresi iptal edilmiştir.
+[2] Anayasa Mahkemesinin 11/12/2025 tarihli ve E.: 2025/40, K.: 2025/261 sayılı Kararı ile bu fıkrada yer alan “üye ile Bakanlığın faaliyet alanıyla ilgili çalışmaları olan kişilerden belirlenen yedi üye olmak üzere toplam onbeş” ibaresi iptal edilmiştir.
+[3] Bu maddede belirtilen ekli listeyi görmek için bu Cumhurbaşkanlığı Kararnamesinin yayımlandığı Resmî Gazete’ye bakınız.
