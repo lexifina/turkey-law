@@ -1,0 +1,2 @@
+Mali suçlara ilişkin tedbirler
+MADDE 7- (1) Terör örgütlerine veya Milli Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti veya iltisakı yahut bunlarla irtibatı olduğu değerlendirilen kişi, kurum ve kuruluşlar ile ilgili olarak 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanunun 19/A maddesinin birinci fıkrasında yedi işgünü olarak belirlenen süre, olağanüstü halin devamı süresince otuz işgünü olarak uygulanır.
