@@ -1,0 +1,3 @@
+Başkaları, adına işlem yaptıracaklardan aranacak belge:
+Madde 79 – Vekil, veli, vasi, kayyım, mümessil ve mirasçı sıfatiyle veya şirket ve dernek gibi tüzel kişiler adlarına noterlik işlemi yaptırmak istiyenler, sıfat ve yetkilerini ve işlemi yapmıya izinli olduklarını bildirir belge göstermekle yükümlüdürler.
+Belgenin gösterildiği iş kağıdına yazılmakla beraber, işlemle ilgili kısımlarını ve nereden hangi tarih ve numara ile verilmiş olduğunu gösteren, birer örneği harçsız ve vergisiz olarak gerek ilgilisine verilecek ve gerekse dairede saklanacak asıl ve örneklerine bağlanır.

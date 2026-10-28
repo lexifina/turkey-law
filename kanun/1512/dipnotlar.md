@@ -1,0 +1,32 @@
+[1] 2/3/2005 tarihli ve 5309 sayılı Kanunun 1 inci maddesiyle, maddeye ikinci fıkra eklenerek diğer fıkralar yeniden teselsül ettirildiğinden, üçüncü fıkra olan bu fıkra dördüncü fıkra olarak teselsül etmiştir.
+[2] 5/6/2017 tarihli ve 691 sayılı KHK’nin 6 ncı maddesiyle, bu fıkrada yer alan “olanlar” ibaresinden sonra gelmek üzere “ile terör örgütleriyle iltisaklı veya irtibatlı bulunanlar” ibaresi eklenmiş, daha sonra bu hüküm 31/1/2018 tarihli ve 7069 sayılı Kanunun 6 ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[3] 2/12/2014 tarihli ve 6572 sayılı Kanunun 2 nci maddesiyle, bu fıkrada yer alan “son” ibaresi “Resmî Gazete’de” şeklinde değiştirilmiştir.
+[4] 16/11/1989 tarih ve 3588 Sayılı Kanunun 2 nci maddesiyle bu Bölüm başlığı "Birinci ve İkinci Sınıf Noterliklere Atama" iken metne işlendiği şekilde değiştirilmiştir.
+[5] 23/1/2008 tarihli ve 5728 sayılı Kanunun 346 ncı maddesiyle bu madde başlığı “Nakil yolu ile atama:” iken metne işlendiği şekilde değiştirilmiştir.
+[6] 23/6/2022 tarihli ve 7413 sayılı Kanunun 10 uncu maddesiyle bu maddenin başlığı “Göreve başlama, vazgeçme ve istifa etmiş sayılma:” iken metne işlendiği şekilde değiştirilmiştir.
+[7] Anayasa Mahkemesinin 26/3/2026 tarihli ve E.:2025/18; K.:2026/66 sayılı Kararı ile bu madde iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (16/4/2027) yürürlüğe gireceği hüküm altına alınmıştır.
+[8] 2/12/2014 tarihli ve 6572 sayılı Kanunun 4 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “Hasta noterler Cumhuriyet savcılığı kanalı ile Hükümet tabiplerinden veya Devlet hastanesi doktorlarından” ibaresi “Noterler, hastalıkları nedeniyle” şeklinde değiştirilmiştir.
+[9] 1/7/2005 tarihli ve 5378 sayılı Kanunun 23 üncü maddesiyle, bu madde başlığı " İlgilinin sağır, kör veya dilsiz olması:” iken metne işlendiği şekilde değiştirilmiştir.
+[10] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan “özürlü” ibaresi “engelli”, birinci fıkrasında yer alan “özürlü” ve “özürlünün” ibareleri sırasıyla “engelli” ve “engellinin”, şeklinde değiştirilmiştir.
+[11] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlüler” ibaresi “engelliler” şeklinde değiştirilmiştir.
+[12] 16/11/1989 tarih ve 3588 sayılı Kanunun 6 ncı maddesiyle bu Bölüm başlığı "Belirli Noterliklerde Yapılması Gereken İşlemler" iken metne işlendiği şekilde değiştirilmiştir.
+[13] 23/1/2008 tarihli ve 5728 sayılı Kanunun 347 nci maddesiyle; bu fıkrada yer alan “Bir asliye mahkemesinin yargı çevresi içinde birden çok noterlik bulunması veya bir ilin belediye sınırları içinde birden çok asliye mahkemesi yargı çevresinin yer alması halinde” ibaresi “Bir il, ilçe veya büyükşehir belediyesi sınırları içinde birden çok noterlik bulunması halinde,” şeklinde değiştirilmiştir.
+[14] 14/11/2024 tarihli ve 7532 sayılı Kanunun 4 üncü maddesiyle, bu fıkrada yer alan “yıl Mart ayında” ibaresi “takvim yılı başından geçerli olmak üzere” şeklinde değiştirilmiştir.
+[15] 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, 118 inci maddede yer alan “vergi, harç ve resimler” ibaresi, “vergi, resim ve harçlar ile değerli kağıt bedelleri“; 119 uncu maddenin birinci fıkrasında yer alan "vergi, resim ve harçları“ ibaresi, “vergi, resim ve harçlar ile değerli kağıt bedellerini“, üçüncü fıkrasında yer alan “ vergi, resim ve harç tahsilatının“ ibaresi, "vergi, resim ve harçlar ile değerli kağıt bedelleri tahsilatının“ şeklinde değiştirilmiştir.
+[16] 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan "Harç, vergi ve resim" ibareleri, "Vergi, resim ve harçlar ile değerli kâğıt", ikinci fıkrasında yer alan "Harç, vergi ve resmin" ibaresi "vergi, resim ve harç ile değerli kâğıt bedelinin" şeklinde değiştirilmiştir.
+[17] Anayasa Mahkemesinin 16/4/2026 tarihli ve E.: 2026/86, K.: 2026/76 sayılı Kararı ile bu maddenin birinci ve ikinci fıkraları iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (6/4/2027) yürürlüğe gireceği hüküm altına alınmıştır.
+[18] 23/1/2008 tarihli ve 5728 sayılı Kanunun 352 nci maddesiyle bu madde başlığı “Ağır cezayı gerektiren suçüstü hali:” iken metne işlendiği şekilde değiştirilmiştir.
+[19] 4/6/2025 tarihli ve 7550 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “(B) bendi” ibaresi “ikinci fıkrasının (l) bendi” şeklinde değiştirilmiştir.
+[20] 23/1/2008 tarihli ve 5728 sayılı Kanunun 356 ncı maddesiyle; bu maddede yer alan “230 uncu maddesi hükmüne göre sorumludur.” ibaresi “257 nci maddesinin ikinci fıkrası hükmüne göre cezalandırılır.” şeklinde değiştirilmiştir.
+[21] Anayasa Mahkemesinin 25/12/2025 tarihli ve E.: 2025/209; K.: 2025/276 sayılı Kararı ile bu fıkrada yer alan “…ve ikinci…” ibaresi iptal edilmiştir.
+[22] 23/6/2022 tarihli ve 7413 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “birinci fıkra” ibaresi “birinci ve ikinci fıkralar” şeklinde değiştirilmiştir.
+[23] 18/6/1997 tarih ve 4276 sayılı Kanunun 27 nci maddesiyle bu fıkra, altıncı ve yedinci fıkraların birleştirilmesi suretiyle altıncı fıkra olarak yeniden düzenlenmiştir.
+[24] 2/3/2005 tarihli ve 5309 sayılı Kanunun 5 inci maddesiyle, (15) numaralı bent eklenmiş olup, mevcut (15) numaralı bent olan bu bent (16) olarak teselsül ettirilmiştir.
+[25] Bu maddede belirtilen seçimlere ilişkin işlemler ve esaslar için Ek 1 inci maddeye bakınız.
+[26] Bu hükmün uygulanmasında ek 2 nci maddeye bakınız.
+[27] Bu maddede belirtilen seçimlere ilişkin işlemler ve esaslar için ek 1 inci maddeye bakınız.
+[28] Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.
+[29] 2/12/2014 tarihli ve 6572 sayılı Kanunun 5 inci maddesiyle, bu maddede yer alan “116 ncı” ibaresi “116 ve 198/A” şeklinde değiştirilmiştir.
+[30] 14/11/2024 tarihli ve 7532 sayılı Kanunun 8 inci maddesiyle, bu fıkranın birinci cümlesine “yapılabilecek noterlik işlemleri” ibaresinden sonra gelmek üzere “, el yazısıyla imzalanarak hazırlanan ve güvenli elektronik imzayla Türkiye Noterler Birliğinin Bilişim Sistemine kaydedilen noterlik işlemleri” ibaresi eklenmiştir.
+[31] 21/11/2024 tarihli ve 7533 sayılı Kanunun 15 inci maddesi ile bu fıkrada yer alan “noterliğin bulunduğu yer valiliği” ibaresi “herhangi bir il veya ilçenin en büyük mülki amiri” şeklinde değiştirilmiştir.
+[32] 16/11/1989 tarih ve 3588 sayılı Kanunun 16 ncı maddesiyle, bu Madde başlığı "Prim borcunu ödememenin sonucu " iken metne işlendiği şekilde değiştirilmiştir.

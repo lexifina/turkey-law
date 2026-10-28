@@ -1,0 +1,9 @@
+DOKUZUNCU KISIM
+Noterlik İşlemlerinin Şekli
+BİRİNCİ BÖLÜM
+Noterlik İşlemlerinde Uyulması Gerekli Genel Hükümler
+Hukuki işlemler ve ilgilileri:
+Madde 72 – Noterler, ilgililerin istemi üzerine, hukuki işlemleri belgelendirirler. Belgelendirme, bu kısım hükümleri ile diğer kanunlar ve yönetmelikte gösterilen şekilde yapılır.
+İlgili, belgelendirme isteminde bulunan kişidir.
+Noter, iş yaptıracak kimselerin kimlik, adres ve yeteneğini ve gerçek isteklerini tamamen öğrenmekle yükümlüdür.
+İlgilinin işitme, konuşma veya görme engelli olması:[9][10]

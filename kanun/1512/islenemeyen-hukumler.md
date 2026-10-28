@@ -1,0 +1,5 @@
+18/1/1972 TARİHLİ VE 1512 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER:
+1 - 16/11/1989 tarih ve 3588 sayılı Kanunun geçici maddeleri:
+Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihten önce görevde bulunan noterlerin sınıfı, kazanılmış hakları saklı kalmak kaydıyla, hizmette geçirdikleri her dört yıl için bir sınıf yükseltilmek suretiyle belirlenir. Artan süreleri son belirlenen sınıfında geçmiş sayılır. Ancak, Adalet müfettişleri tarafından haklarında düzenlenen hal kağıtlarında yukarı sınıfa atanmaya yeteneği bulunmadığı belirtilen noterlerin, bu olumsuz hal kağıtlarının düzenlendiği tarih ile önceki kanaat belirten hal kağıtlarının düzenlendiği tarihe kadar geçen süreleri, sınıflarının belirlenmesinde nazara alınmaz.
+Geçici Madde 2 – Noterlik Kanununun 112 nci maddesinin son fıkrası gereği tarifede gerekli görülecek değişiklikler, Mart 1991 tarihinde yapılacak değişikliğe kadar geçerli olmak üzere, bu Kanunun yürürlüğe girdiği tarihten itibaren bir ay içinde yapılır.
+Geçici Madde 3 – Bu Kanunun yürürlüğe girmesinden önce münhal bulunduğu ilan olunan noterliklere yapılacak atamalar, Kanunun, değişikliğinden önceki hükümlerine göre yapılır.
