@@ -1,0 +1,1 @@
+Madde 4 – Maarif Vekilliğinin müsaadesiyle amme menfaatlerine hadim cemiyetler menfaatine bu kanunun hükümleri dahilinde verilecek temsil ve konserlerin giriş ücretleri ve safi hasılatın tesbiti şekli Maliye ve Maarif Vekilleri tarafından tayin edilir ve safi hasılat bu cemiyetlere terkolunur.
