@@ -1,0 +1,4 @@
+BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN[1]
+Kanun Numarası : 7326
+Kabul Tarihi : 3/6/2021
+Yayımlandığı Resmî Gazete : Tarih: 9/6/2021 Sayı: 31506
