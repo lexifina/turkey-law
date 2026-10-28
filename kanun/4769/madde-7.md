@@ -1,0 +1,3 @@
+Müdür ve müdür yardımcılarının atanması
+Madde 7 – Eğitim merkezi müdürü, birinci sınıfa ayrılmış adlî yargı hâkim ve Cumhuriyet savcıları arasından; müdür yardımcısı ise meslekte en az beş yıl görev yapmış adlî yargı hâkim ve Cumhuriyet savcıları veya üniversite öğretim elemanları arasından muvafakatları alınmak suretiyle, Ceza ve Tevkifevleri Genel Müdürünün önerisi üzerine Adalet Bakanınca dört yıl için atanırlar. Süresi dolanlar yeniden atanabilirler.
+Müdür ve müdür yardımcıları hakkında 2802 sayılı Hâkimler ve Savcılar Kanununun Bakanlık merkez kuruluşunda çalışan hâkim ve savcılara ilişkin hükümleri uygulanır. Üniversite öğretim elemanlarının hakları saklıdır.
