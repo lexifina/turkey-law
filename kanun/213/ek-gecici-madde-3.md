@@ -1,0 +1,2 @@
+Ek Geçici Madde 3 – (Ek: 30/12/1980-2365/97 md.)
+Vergi kanunlarına göre ticari, zirai ve mesleki faaliyetleri dolayısıyla ilgili vergi dairelerine mükellefiyet kayıtlarını yaptırmaları gerektiği halde, 31/3/1981 tarihine kadar bu mükellefiyetlerini tescil ettirmemiş bulunanlar hakkında, Vergi Usul Kanununda öngörülmüş olan diğer ceza hükümleri ile birlikte aynı Kanunun 360 ncı maddesi hükmü de uygulanır.

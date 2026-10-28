@@ -1,0 +1,2 @@
+Ek Geçici Madde 6 – (Ek: 30/12/1980-2365/97 md.)
+2343 sayılı Kanunla 1/3/1981 tarihinden itibaren 210 sayılı Değerli KağıtlarKanunu kapsamına alınan faturalarla ilgili yeni düzenlemelere geçilinceye kadar, gerçek veya tüzelkişiler, ellerinde bulundurdukları faturalarını kullanabilirler. Ancak bu faturaların değerli kağıt bedellerinin makbuz karşılığı tahsili suretiyle defterdarlıklarca tasdiki şarttır.

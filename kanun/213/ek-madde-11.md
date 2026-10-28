@@ -1,0 +1,6 @@
+Tarhiyat öncesi uzlaşma:
+Ek Madde 11 – (Ek: 4/12/1985-3239/33 md.)[160][161]
+(Değişik birinci fıkra: 11/8/1999-4444/7 md.) Maliye Bakanlığı, vergi incelemesine dayanılarak tarh edilecek vergilere ilişkin kesilecek vergi ziyaı cezaları ile 5.000 (40.000 üzeri) Türk lirasını aşan usulsüzlük ve özel usulsüzlük cezalarında (359 uncu maddede yazılı fiillerle vergi ziyaına sebebiyet verilmesi halinde (…)161 kesilecek ceza ile bu fiillere iştirak edenlere kesilecek ceza hariç) tarhiyat öncesi uzlaşma yapılmasına izin verebilir. (Ek cümle:14/10/2021-7338/45 md.) Uzlaşmaya konu edilebilecek usulsüzlük ve özel usulsüzlük cezalarının tespitinde, cezayı gerektiren fiil bazında kesilecek toplam ceza tutarı dikkate alınır.[162][163][164]
+Tarhiyattan önce uzlaşmaya varılması halinde tutanakla tespit edilen bu husus hakkında dava açılamaz ve hiçbir mercie şikayette bulunulamaz. (Ek: 3/12/1988-3505/10 md.) (Mülga cümle:28/7/2024-7524/14 md.)
+Tarhiyat öncesi uzlaşmanın temini edilememiş veya uzlaşma müzakeresinde uzlaşmaya varılamamış olması halinde mükellefler veya ceza muhatabı olanlar (…)161 cezanın kesilmesinden sonra uzlaşma talep edemezler.
+Tarhiyat öncesi uzlaşmaya ilişkin esas ve usuller Yönetmelikte belirtilir.

@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanunun 6, 7, 8 ve 9 uncu maddeleriyle Vergi Usul Kanununun 313, 315, mükerrer 315 ve 318 inci maddelerinde yapılmış olan değişiklikler 31/12/1982 tarihine kadar aktife giren iktisadi kıymetler için uygulanmaz. Bunlar hakkında eski hükümlere göre amortisman ayrılmasına devam olunur.

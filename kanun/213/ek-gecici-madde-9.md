@@ -1,0 +1,2 @@
+Ek Geçici Madde 9 – (Ek: 23/6/1982-2686/52 md.)
+1981 takvim yılı peşin ödeme derecelerine yapılan itirazlar hakkında bu Kanunun 53 üncü maddesi ile kaldırılan Mükerrer 86 ncı madde hükümlerinin uygulanmasına devam olunur. Şu kadar ki, Merkez Özel Komisyonu tarafından görüşülerek sonuçlandırılan itirazlardan Resmi Gazete'de ilan edilmemiş olanlar hakkında sözü edilen maddenin ilana ilişkin hükmü uygulanmaz.
