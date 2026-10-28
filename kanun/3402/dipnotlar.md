@@ -1,0 +1,8 @@
+[1] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu fıkrada yer alan “varsa yerel gazetede” ibaresi “bir yerel gazete ve bir internet haber sitesinde” şeklinde değiştirilmiştir.
+[2] 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
+[3] 22/2/2005 tarihli ve 5304 sayılı Kanunun 3 üncü maddesinde " 3402 sayılı Kanunun 4 üncü maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.” hükmü yer almaktadır, ancak değiştirilen üçüncü fıkra dört ayrı fıkra olarak düzenlenmiştir.
+[4] 3/7/2005 tarihli ve 5403 sayılı Kanunun 26 ncı maddesinde"...3402 sayılı Kanunun 14 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir." hükmü yer almakla birlikte, yapılan düzenleme iki parağraftan oluştuğundan değişiklik ayrıca gösterilmiştir.
+[5] 2/7/2018 tarihli ve 700 sayılı KHK’nin 108 inci maddesiyle, bu bentte yer alan “özel kanunlarına” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamelerine” ibaresi eklenmiştir.
+[6] Bu madde başlığı "Teknik hataların düzeltilmesi:“ iken, 22/2/2005 tarihli ve 5304 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[7] 7/5/2026 tarihli ve 7579 sayılı Kanunun 16 ncı maddesiyle bu madde başlığı “Hataların düzeltilmesi:” iken metne işlendiği şekilde değiştirilmiştir.
+[8] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
