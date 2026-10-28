@@ -1,0 +1,1 @@
+Madde 1 – Ankara'da Atatürk'ün aziz nâşının defnedildiği Anıtkabir'in ve buradaki Atatürk'ün hayat ve hatırası ile ilgili müze, kütüphane ve diğer tesislerin her türlü hizmetlerinin yürütülmesinden Genelkurmay Başkanlığı sorumludur.
