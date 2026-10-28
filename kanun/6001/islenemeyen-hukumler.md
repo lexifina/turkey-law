@@ -1,0 +1,7 @@
+25/6/2010 TARİHLİ VE 6001 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER:
+1 – 27/3/2015 tarih ve 6639 sayılı Kanunun geçici 1 inci maddesi:
+GEÇİCİ MADDE 1 – (Mülga: 29/1/2016-6663/33 md.)
+(I) SAYILI CETVEL
+KARAYOLLARI GENEL MÜDÜRLÜĞÜ
+MERKEZ TEŞKİLATI
+(Mülga:2/7/2018-KHK-703/76 md.)
