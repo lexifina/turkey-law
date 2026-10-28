@@ -1,0 +1,9 @@
+[1] (a) Kanunun opera ve baleye ilişkin hükümleri 14/7/1970 tarih ve 1309 sayılı Kanunun 26 ncı Maddesi ile yürürlükten kaldırılmıştır.
+(b) 657 sayılı (Devlet Memurları Kanunu)na 31/7/1970 tarih ve 1327 sayılı Kanunla eklenen Ek geçici 12 nci md. gereğince, Devlet tiyatro, opera ve balesinin özel kanunlarına göre stajyer, mütehassıs, hizmetli, sanatkar olarak çalışan personeli hakkında kendi özel kanunları yürürlüğe girinceye kadar 10/6/1949 tarih ve 5441 sayılı, 14/7/1970 tarih ve 1309 sayılı ve 1310 sayılı Kanunlar ile bu Kanunlarda atıf yapılan hükümlerin uygulanmasına devam olunur.
+(c) Kanunda geçen Milli Eğitim Bakanı ifadeleri, Kültür ve Turizm Bakanı; Milli Eğitim Bakanlığı ifadeleri de Kültür ve Turizm Bakanlığı olarak, 27/5/1983 tarih ve 2833 sayılı Kanunla bu Kanuna eklenen Ek madde 7 ile değiştirilmiş olup, madde metinlerinde gerekli düzeltme yapılmıştır.
+[2] Bu Kanunun Adı “Devlet Tiyatrosu Kuruluşu Hakkında Kanun” iken, 2/7/2018 tarihli 703 sayılı KHK’nin 68 inci maddesiyle “Devlet Tiyatroları Personeli Hakkında Kanun” şeklinde değiştirilmiştir.
+[3] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu Kanunun 1 ila 4., 12., 15., 20 ila 22., 24., ek 7. ve geçici 1 ila geçici 5. Maddelerinin yürürlükten kaldırılması iptal edilmiştir.
+[4] 2/7/2018 tarihli 703 sayılı KHK’nin 68 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[5] Bu maddelerin uygulaması ile ilgili olarak, 10/12/2003 tarihli ve 5018 sayılı Kanunun ilgili hükümlerine bakınız.
+[6] 2/7/2018 tarihli 703 sayılı KHK’nin 68 inci maddesiyle, bu maddede yer alan “bir tüzükle” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+[7] 11/12/1981 tarih ve 2562 sayılı Kanunun 28 inci maddesi ile, "yurtiçi turne faaliyetlerine katılacaklara ödenecek harcırah yevmiyesinin tesbitine ilişkin" hüküm yürürlükten kaldırılmıştır.
