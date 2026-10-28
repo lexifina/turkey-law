@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Yüksek Sağlık Şûrası, Tıpta Uzmanlık Kurulu,
+Sağlık Meslekleri Kurulu
+Yüksek Sağlık Şûrası
+MADDE 21- (Mülga: 2/7/2018-KHK-703/25 md.)
