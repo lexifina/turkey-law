@@ -1,0 +1,12 @@
+[1] 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle, bu Kanunun başlığında yer alan “ON ÜÇ” ibaresi “ON DÖRT” olarak, “YİRMİ ALTI” ibaresi “YİRMİ YEDİ” olarak değiştirilmiş ve 1 inci maddesinin birinci fıkrasında yer alan “Muğla,” ibaresinden sonra gelmek üzere “Ordu,” ibaresi eklenmiştir.
+[2] 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle, 2 nci maddenin yirmiüçüncü fıkrasından sonra gelmek üzere bu fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+[3] 30/3/2023 tarihli ve 7446 sayılı Kanunun 9 uncu maddesiyle bu fıkrada yer alan “İçişleri Bakanlığı” ibaresi “il özel idareleri ile il özel idarelerinin üyesi olduğu ve belediye üyesi bulunmayan mahalli idare birlikleri ve köyler için İçişleri Bakanlığı; belediyeler ve bağlı kuruluşları ile belediyelerin üyesi olduğu mahalli idare birlikleri için Çevre, Şehircilik ve İklim Değişikliği Bakanlığı” şeklinde değiştirilmiştir.
+[4] 28/11/2017 tarihli ve 7061 sayılı Kanunun 105 inci maddesiyle bu fıkrada yer alan; “31/12/2017” ibaresi “31/12/2020” şeklinde, “beş yıl” ibareleri “altı yıl” şeklinde değiştirilmiştir.
+[5] 27/12/2018 tarihli ve 7159 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan yer alan “altı yıl süreyle” ibareleri “31/12/2022 tarihine kadar (bu tarih dâhil)” şeklinde, “31/12/2020” ibaresi “31/12/2022 (bu tarih dâhil)” şeklinde şeklinde değiştirilmiştir.
+[6] 9/3/2023 tarihli ve 7440 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “31/12/2022” ibareleri “31/12/2025” şeklinde değiştirilmiştir.
+[7] 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “26 adet” ibaresi “27 adet” şeklinde değiştirilmiştir.
+[8] Bu fıkrada yer alan kadrolarla ilgili olarak 22/3/2013 tarihli ve 28595 sayılı Resmi Gazete’ye bakınız.
+[9] 27/12/2018 tarihli ve 7159 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “beş yıl süreyle” ibaresi “31/12/2022 tarihine kadar (bu tarih dâhil)” şeklinde değiştirilmiştir.
+[10] 9/3/2023 tarihli ve 7440 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “31/12/2022” ibaresi “31/12/2025” şeklinde değiştirilmiştir.
+[11] 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle bu listeye “Altınordu Belediyesi” ibaresi eklenmiştir.
+[12] 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle, bu listede yer alan Gençlik ve Spor Bakanlığına ait kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenin ilgili bölümlerinden çıkarılmıştır.
