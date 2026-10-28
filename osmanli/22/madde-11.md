@@ -1,0 +1,1 @@
+Madde 11 - Meclis-i idareye Dahiliye Nazırı riyaset eder. Dahiliye Nazırının bulunmadığı zamanlarda vazife-i riyaseti ifa etmek üzere aza meyamından biri nazır tarafından reis-i sâni tayin olunur. Meclise ittihaz olunacak tedbir ve kararlar Dahiliye Nezaretinin tasvibiyle ifaz olunur.

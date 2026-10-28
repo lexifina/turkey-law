@@ -1,0 +1,1 @@
+Madde 18 - Darülaceze'de vefat edenlerin idarece vaziyed edilmiş emval ve nukûd ve maaşat ve varidatı var ise bunlardan evvel emirde teçhiz ve tekfin masarifi ve saniyen mütevâffanın hal-i hayatında iaşesi için darülaceze tarafından sarf olunan mebaliğ istifa olunduktan sonra bakiyesi vereseye aid olur.
