@@ -1,0 +1,1 @@
+Ek Madde 2 – (Ek : 6/7/2000-KHK-606/7 md.; İptal : Anayasa Mahkemesinin 17/10/2000 tarihli ve E. : 2000/52, K. : 2000/29 sayılı Kararı ile.; Yeniden düzenleme: 16/11/2000 -4604/6 md.;Değişik: 20/6/2001-4684/3md.; Mülga: 20/11/2017-KHK-696/12 md.; Aynen kabul: 1/2/2018-7079/12 md.)
