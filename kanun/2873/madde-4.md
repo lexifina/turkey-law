@@ -1,0 +1,6 @@
+Planlama:
+MADDE 4- (Başlığı ile Birlikte Değişik:11/3/2026-7576/4 md.)
+Bu Kanun hükümlerine göre milli park, tabiat parkı, tabiat anıtı ve tabiatı koruma alanı olarak belirlenen yerlerin özellik ve nitelikleri göz önünde tutularak, koruma ve kullanma amaçlarını gerçekleştirmek üzere, kuruluş, geliştirme ve işletilmelerini kapsayan uzun devreli gelişme planı, gelişme planı ve yönetim planı, ilgili bakanlıkların görüşleri alınarak Genel Müdürlükçe hazırlanır veya hazırlattırılır ve yürürlüğe konur.
+Planları uyarınca iskan ve yapılaşmaya konu olacak yerler için, imar mevzuatına göre imar planları, milli park ve tabiat parkı gelişme planı hüküm ve kararlarına uygun olarak hazırlanır veya hazırlattırılarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığının onayı ile yürürlüğe konulur.
+Bu Kanun kapsamına giren yerlerdeki kültür ve turizm koruma ve gelişim bölgeleri ile turizm merkezlerinde, turizm yatırımlarına ilişkin plan kararları Genel Müdürlüğün olumlu görüşü alınarak 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanunu uyarınca sonuçlandırılır.
+Milli park, tabiat parkı, tabiat anıtı ve tabiatı koruma alanlarının planlarına ilişkin usul ve esaslar Genel Müdürlükçe çıkarılacak yönetmelikle düzenlenir.

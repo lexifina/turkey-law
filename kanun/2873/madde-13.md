@@ -1,0 +1,3 @@
+Kaynakların geliştirilmesi:
+Madde 13 – Bu Kanun kapsamına giren yerlerdeki ormanlarda, makilik ve fundalıklarda ve diğer arazi kullanma şekillerinde, koruma ve çok taraflı kullanımı esas tutan orman amenajman planlarına dayanılarak, tabiat varlıklarının korunmasını, geliştirilmesini ve devamlılığını sağlayacak teknik faaliyetler yapılır.
+Tabii çevre ve ekosistemlerin korunması ve iyileştirilmesi yönünden teknik ve bilimsel gereklere göre, Genel Müdürlükçe düzenlenecek rapora dayanılarak hazırlanacak özel amenajman planları uyarınca belirli yerlerde ve belirli sürelerde üretim, avlanma ve otlatma faaliyetlerine izin verilebilir.[16]
