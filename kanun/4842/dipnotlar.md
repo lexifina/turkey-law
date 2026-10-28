@@ -1,0 +1,1 @@
+[1] Anayasa Mahkemesinin 20/3/2008 tarihli ve E.: 2004/94, K.: 2008/83 sayılı Kararı ile bu arada yer alan “… bu kazanç ve iratlara ilişkin olarak vergilendirme dönemi içinde ödenen fon payları mahsup ve iadeye konu olmaz” ibaresi iptal edilmiştir.
