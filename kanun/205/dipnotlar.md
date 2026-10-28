@@ -1,0 +1,3 @@
+[1] 16/9/1991 tarih ve 460 sayılı Kanun Hükmünde Kararnamenin 6 ncı maddesi ile bu bentteki "uzman erbaşlar ile" ibaresi, eklenmiş olup, 10/2/2004 tarihli ve 5085 sayılı Kanunun 12 nci maddesiyle aynen kabul edilerek Kanunlaşmıştır.
+[2] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu bentlere “yedek subaylar” ibaresinden sonra gelmek üzere “ve yedek astsubaylar” ibaresi eklenmiştir.
+[3] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer alan “sakatlık” ibaresi “engellilik”, (b) bendinde yer alan “sakatlıklar” ibaresi “engellilikler” şeklinde değiştirilmiştir.
