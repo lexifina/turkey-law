@@ -1,0 +1,1 @@
+Madde 20 – Türkiye Bilimsel ve Teknolojik Araştırma Kurumuna ait mallar Devlet malı hükmündedir. Bunları çalanlar, ihtilas edenler, zimmetine geçirenler ve her ne yoldan olursa olsun kötüye kullananlar hakkında Devlet mallarına karşı işlenen bu çeşit suçlara ait ceza kovuşturması yapılır.

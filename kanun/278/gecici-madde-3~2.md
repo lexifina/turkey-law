@@ -1,0 +1,1 @@
+Geçici Madde 3 – Bu Kanun Hükmünde Kararnamenin öngördüğü yönetmelik ve esaslar çıkarılıncaya kadar mevcut yönetmeliklerin bu Kanun Hükmünde Kararnameye aykırı olmayan hükümlerinin uygulanmasına devam olunur.
