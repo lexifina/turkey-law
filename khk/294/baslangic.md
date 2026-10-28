@@ -1,0 +1,7 @@
+17/7/1963 TARİHLİ VE 278 SAYILI TÜRKİYE BİLİMSEL VE
+TEKNİK ARAŞTIRMA KURUMU KANUNUNUN BAZI
+MADDELERİNİN DEĞİŞTİRİLMESİ HAKKINDA
+KANUN HÜKMÜNDE KARARNAME
+Kanun Hükmünde Kararnamenin Tarihi : 21.10.1987 No : 294
+Yetki Kanununun Tarihi : 9.4.1987 No : 3347
+Yayımlandığı Resmî Gazete Tarihi : 11.11.1987 No : 19631
