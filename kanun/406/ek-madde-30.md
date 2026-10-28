@@ -1,0 +1,2 @@
+Ek Madde 30 – (Ek:21/1/2004-5071/2 md.)
+Özelleştirme bedeli Hazine Müsteşarlığına aktarılmak ve Hazine Müsteşarlığının mülkiyet hakkı ile kâr payı hakkına halel gelmemek ve Kamunun pay sahipliğinden kaynaklanan bütün malî hakları Hazine Müsteşarlığında kalmak kaydıyla, Hazine Müsteşarlığının Türk Telekom’daki pay sahipliğine dayanan oy, yönetim, temsil, denetim gibi hak ve yetkileri Ulaştırma Bakanlığı tarafından kullanılır.
