@@ -1,0 +1,2 @@
+IV – Şekil:
+Madde 52 – Mali haklara dair sözleşme ve tasarrufların yazılı olması ve konuları olan hakların ayrı ayrı gösterilmesi şarttır.
