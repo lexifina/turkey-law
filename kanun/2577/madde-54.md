@@ -1,0 +1,3 @@
+Kararın düzeltilmesi:
+Madde 54 – (Mülga: 18/6/2014-6545/103 md.)
+Yargılamanın yenilenmesi usulü:[49]
