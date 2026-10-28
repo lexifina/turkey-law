@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı; milli harp sanayimizin geliştirilmesi, yeni harp sanayi dallarının kurulması, harp silah araç ve gereçlerinin satın alınması suretiyle Türk Silahlı Kuvvetlerinin savaş gücünün artırılmasına katkıda bulunmak üzere Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'nın kurulmasını sağlamaktır.
