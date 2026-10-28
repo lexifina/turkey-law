@@ -1,0 +1,2 @@
+Araba katarlarının tehiri ve seyrüseferin inkıtaı
+Madde 21 – Katarların hareketleri ile subu maksuda muvasalatlarında vukubulacak teahhurat kumpanya aleyhinde bir güna şikayet ve iddia dermiyanına baisi hak ve salahiyet olamayıp bir katar bir seferini icra etmediği veyahut seyrüseferi munkati olduğu halde yolcular yalnız vermiş oldukları ücreti nakliyenin gidilmemiş olan mesafe nisbetinde olan miktarını istirdattan başka hiç bir şey iddia edemiyeceklerdir.
