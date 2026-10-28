@@ -1,0 +1,7 @@
+BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI
+KANUNLARDA VE BİR KANUN HÜKMÜNDE KARARNAMEDE
+DEĞİŞİKLİK YAPILMASINA DAİR KANUN[1][2]
+Kanun Numarası : 7020
+Kabul Tarihi : 18/5/2017
+Yayımlandığı R.Gazete : Tarih : 27/5/2017 Sayı : 30078
+Yayımlandığı Düstur : Tertip : 5 Cilt : 58
