@@ -1,0 +1,9 @@
+[1] 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “Devletin hüküm ve tasarrufu altında bulunan yerlerdeki kaynak suları,” ibaresi, "Devletin hüküm ve tasarrufu altında bulunan yerlerdeki kaynak suları (mazbut vakıflara ait sular hariç)," şeklinde değiştirilmiştir.
+[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 44 üncü maddesiyle, bu maddede yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.
+[3] 19/4/2018 tarihli ve 7139 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibareleri “Devlet Su İşleri Genel Müdürlüğünün bağlı olduğu Bakanlıkça” şeklinde ve “Bakanlar Kurulu” ibaresi “Devlet Su İşleri Genel Müdürlüğünün bağlı olduğu Bakanlığın” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 44 üncü maddesiyle, bu maddede yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.
+[5] Bu maddede yer alan 4268 sayılı Kanun 3/3/1954 tarih ve 6309 sayılı Kanunun 158 inci maddesi ile 2 nci maddesi hükmü hariç tutularak yürürlükten kaldırılmış olup, mezkür 2 nci madde de 10/6/1926 tarih ve 927 sayılı Kanuna Ek 5 inci madde olarak eklenmiştir.
+[6] Bu maddenin uygulanmasına ilişkin olarak 4/3/2014 tarihli ve 28931 sayılı Resmi Gazete’de yayımlanan 17/2/2014 tarihli ve 2014/6033 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
+[7] Bu maddenin uygulanmasına ilişkin olarak 7/5/2016 tarihli ve 29705 sayılı Resmi Gazete’de yayımlanan 5/4/2016 tarihli ve 2016/8740 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
+[8] Bu maddenin uygulanmasına ilişkin olarak 2/5/2018 tarihli ve 30409 sayılı Mükerrer Resmi Gazete’de yayımlanan 9/4/2018 tarihli ve 2018/11645 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
+[9] 2/7/2018 tarihli ve 700 sayılı KHK’nin 44 üncü maddesiyle bu madde başlığı “Tüzük hazırlanması:” iken metne işlendiği şekilde değiştirilmiştir.

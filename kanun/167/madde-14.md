@@ -1,0 +1,2 @@
+Aynı zamanda yapılan müracaatlarda su taleplerinin emniyetli verim haddine yaklaşması:
+Madde 14 – Su taleplerinin yeraltı suyu deposunun emniyetli verim haddine yaklaşması halinde, belge için yapılmış bir müracaattan sonra, bir hafta zarfında, aynı yeraltı su deposundan istifade etmek üzere,yapılacak başka müracaatlar, ilgili Bakanlıkların temsilcilerinden müteşekkil bir heyet marifetiyle incelenerek taliplerden hangilerine kullanma belgesi verileceği karara bağlanır.

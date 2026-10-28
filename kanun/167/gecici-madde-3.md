@@ -1,0 +1,5 @@
+Geçici Madde 3-(Ek: 13/2/2011-6111/127 md.; Değişik: 14/2/2013-6427/2 md.)[6][7][8]
+Bu maddeyi değiştiren Kanunun yürürlüğe girdiği tarihten önce yeraltı suyu temini amacıyla kuyu, galeri, tünel ve benzerleri için kullanma belgesi almış olanlardan;
+a) Sanayi amaçlı kullanılan kuyu, galeri, tünel ve benzerlerine ölçüm sistemi, bir yıl içinde belge sahibince kurulur. Süresi içerisinde ölçüm sistemini kurmayanların belgeleri iptal edilerek kuyuları kapatılır ve kapatma masrafları sahibinden alınır.
+b) Zirai, içme ve kullanma suyu amaçlı açılan ve ölçüm sistemi kurma zorunluluğu dâhilinde bulunan kuyu, galeri, tünel ve benzerlerine ölçüm sistemi, bir yıl içerisinde belge sahibince kurulur. Ölçüm sistemini kuramayanların bu süre içerisinde talep etmesi hâlinde ölçüm sistemleri, bedeli yüzde on fazlası ile ilgililerinden tahsil edilmek üzere, bu maddenin yürürlük tarihinden itibaren üç yıl içerisinde Devlet Su İşleri Genel Müdürlüğü tarafından kurulur veya kurdurulur. Bu şartlara uymayanların belgeleri iptal edilerek kuyuları kapatılır ve kapatma masrafları sahibinden alınır.
+Yönetmelikler[9]
