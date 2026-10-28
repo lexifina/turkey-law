@@ -1,0 +1,5 @@
+Ek Geçici Madde 1 – (Ek: 5/4/1983-2812/1 md.)
+Anayasaya dayalı olarak hazırlanacak Siyasi Partiler ve Seçim Kanununa göre yapılacak ilk genel seçimlerde; 1/7/1982 tarihli ve 2687 sayılı Kanun gereğince Anayasanın halkoyuna sunulması için hazırlanan seçmen kütükleri, aynı Kanunun ilgili hükümlerine göre güncelleştirilerek kullanılır.
+Güncelleştirme işlemi, Anayasa için yapılan halkoylamasına katılmayanların tesbit edilmesinden sonra, kütüklerin muhtarlık bölgesi askı listesi halinde askıya çıkarılması, bu listelerde ismi bulunmayanların ve yanlış yazılanların, başvurmalarına imkan sağlanması, yanlışlıkların düzeltilmesi ve eksiklerin giderilmesi suretiyle yapılır.
+Askıya çıkarılma tarihi ve askı süresi ile itirazlar, itiraz belgeleri kütüklerin kesinleşme tarihi, evvelce yazılmamış olanların yeniden ne suretle yazılacağı ve yazılma şartları Yüksek Seçim Kurulunca belirlenir.
+Kütüklerde ismi bulunmayanlardan, seçmen kütüklerinin kesinleştiği tarihe kadar 21 yaşını bitirmiş olanlar, başvuruları üzerine seçmen kütüklerine kaydedilirler. Nüfus kütüğünde doğduğu ay ve günü belli olmayanlar o yılın son günü doğmuş gibi işleme tabi tutulurlar.

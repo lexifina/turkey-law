@@ -1,0 +1,4 @@
+Kapalı oy verme yerinde seçmenin uyması gereken kurallar[48]
+Madde 92 – (Değişik: 8/4/2010-5980/17 md.)
+Seçmen, kapalı oy verme yerinden dışarı çıkmadıkça, hiç kimse oraya giremez. Ancak, oy pusulasını hazırlamak için, kapalı oy verme yerinde, normal süreden fazla kalan seçmenler, kurul başkanı tarafından makul bir süre verilerek uyarılır. Bu uyarıya rağmen kapalı oy verme yerinden çıkmayan seçmen, oradan çıkarılır.
+Seçmenin; cep telefonu, fotoğraf veya film makinesi gibi görüntü kaydedici veya haberleşme sağlayıcı cihazlarla kapalı oy verme yerine girmesi yasaktır. Bu tür cihazlar, kapalı oy verme yerine girmeden önce kapatılarak sandık kurulu başkanına teslim edilir ve oy kullanma işlemi bittikten sonra seçmene iade edilir.

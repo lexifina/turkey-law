@@ -1,0 +1,3 @@
+Ek Geçici Madde 3 – (Ek: 5/4/1983-2812/1 md.)
+Anayasanın halkoylamasına ilişkin oy verme kütüğünde ve sandık listesinde kaydı ve oy kullanma yeterliği bulunduğu halde hukuki veya fiili herhangi bir mazereti nedeniyle halkoylamasına katılmayan ve süresinde mazeretini ileri sürmeyen veya bu yönde başvuruda bulunduğu halde delil yetersizliği veya süre veya sair sebeplerle başvurusu reddedilenlerden, seçmen kütüklerinin askıdan indirildiği tarihten önce kayıtlı oldukları ilçe seçim kurulu başkanlıklarına başvurarak mazeretlerini tevsik edenler hakkında 24/9/1982 tarihli ve 2707 sayılı Kanunun 12 nci maddesinin birinci fıkrasında yazılı yasaklar uygulanmaz.
+Başvuruların incelenmesine ilişkin usul ve esaslar Yüksek Seçim Kurulunca belirlenir.
