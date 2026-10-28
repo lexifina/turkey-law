@@ -1,0 +1,10 @@
+16.10.1981 TARİH VE 2533 SAYILI SİYASİ PARTİLERİN
+FESHİNE DAİR KANUNUN YÜRÜRLÜKTEN
+KALDIRILMASINA VE 2820 SAYILI
+SİYASİ PARTİLER KANUNUNDA
+DEĞİŞİKLİK YAPILMASINA
+İLİŞKİN KANUN
+Kanun Numarası : 3821
+Kabul Tarihi : 19/6/1992
+Yayımlandığı Resmî Gazete : Tarih : 3/7/1992 Sayı : 21273
+Yayımlandığı Düstur : Tertip : 5 Cilt : 31
