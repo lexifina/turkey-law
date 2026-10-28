@@ -1,0 +1,7 @@
+ANKARA İLİ KAZAN İLÇESİNİN ADININ KAHRAMANKAZAN OLARAK
+DEĞİŞTİRİLMESİNE VE ULUSAL BAYRAM VE GENEL TATİLLER HAKKINDA
+KANUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 6752
+Kabul Tarihi : 25/10/2016
+Yayımlandığı Resmî Gazete : Tarih : 29/10/2016 Sayı : 29872
+Yayımlandığı Düstur : Tertip : 5 Cilt : 58
