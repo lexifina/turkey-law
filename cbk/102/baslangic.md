@@ -1,0 +1,2 @@
+DEVLET YARDIMLARININ UYGULANMASI, KOORDİNASYONU, İZLENMESİ VE DEĞERLENDİRİLMESİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ
+Cumhurbaşkanlığı Kararnamesinin Sayısı : 102 Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 9/6/2022 - 31861
