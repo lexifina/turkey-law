@@ -1,0 +1,3 @@
+Madde 58 – (Değişik: 22/1/2015-6586/21 md.)
+Türk Silâhlı Kuvvetlerinde koruyucu sağlık hizmetleri kapsamında; çevre sağlığı, kişisel sağlık ve hijyen, ilk yardım, bağışıklama, bulaşıcı hastalıklar ile tütün ve madde kullanımının önlenmesi, iş sağlığı ve güvenliği, okul sağlığı, sağlıklı beslenme, barınma ve giyinme, fiziksel performans ve etkinliklerin artırılması ile koruyucu sağlık hizmetlerine ilişkin diğer tedbirler alınır.
+Askerî sağlık hizmetleri; göreve uyarlık ve elverişlilik kontrolleri ile periyodik veya zorunlu kontrolleri, sağlık raporu kontrolünü, tıbbi tehditlerin önlenmesini ve ortadan kaldırılmasını, tahliye, tedavi, sağlık lojistiği ve askerî sağlığa ilişkin diğer ihtiyaçları kapsar.
