@@ -1,0 +1,9 @@
+[1] 25/11/2020 tarihli ve 7257 sayılı Kanunun 25 inci maddesiyle ikinci fıkranın birinci cümlesinde yer alan “MİGEM’e” ibaresi “MAPEG’e” şeklinde, ikinci cümlesinde yer alan “MİGEM” ibaresi “MAPEG” şeklinde, üçüncü cümlesinde yer alan “MİGEM’e” ibaresi “MAPEG’e” şeklinde, üçüncü fıkranın ikinci cümlesinde yer alan “MİGEM’e” ibaresi “MAPEG’e” şeklinde değiştirilmiştir.
+[2] 25/11/2020 tarihli ve 7257 sayılı Kanunun 25 inci maddesiyle birinci, üçüncü, beşinci ve altıncı fıkralarda yer alan “MİGEM’e” ibareleri “MAPEG’e” şeklinde değiştirilmiştir.
+[3] 25/11/2020 tarihli ve 7257 sayılı Kanunun 25 inci maddesiyle bu fıkrada yer alan “MİGEM’e” ibaresi “MAPEG’e” şeklinde değiştirilmiştir.
+[4] 25/11/2020 tarihli ve 7257 sayılı Kanunun 25 inci maddesiyle bu bentte yer alan “MİGEM’e” ibaresi “MAPEG’e” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 183 üncü maddesiyle bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[6] 25/11/2020 tarihli ve 7257 sayılı Kanunun 28 inci maddesiyle bu maddeye birinci fıkradan sonra gelmek üzere ikinci fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+[7] 18/7/2021 tarihli ve 7334 sayılı Kanunun 23 üncü maddesiyle bu maddenin başlığı “Kültür ve turizm koruma ve gelişim bölgeleri ile turizm merkezlerine ilişkin hususlar” iken metne işlendiği şekilde, birinci fıkrasının (c) bendinde yer alan “görüşü” ibaresi “uygun görüşü” şeklinde değiştirilmiş, üçüncü fıkrasından sonra gelmek üzere dördüncü fıkra eklenmiş ve mevcut son fıkra buna göre teselsül ettirilmiştir.
+[8] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
+[9] 9/11/2007 tarihli ve 5710 sayılı Kanunun Geçici 2 nci maddesinin (3) numaralı fıkrasıyla; bu maddenin 21/11/2007 tarihinden itibaren uygulanmayacağı hüküm altına alınmıştır.
