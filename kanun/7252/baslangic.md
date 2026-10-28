@@ -1,0 +1,5 @@
+DİJİTAL MECRALAR KOMİSYONU KURULMASI İLE BAZI KANUNLARDA
+DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+Kanun Numarası : 7252
+Kabul Tarihi : 23/7/2020
+Yayımlandığı Resmî Gazete : Tarih : 28/7/2020 Sayı : 31199
