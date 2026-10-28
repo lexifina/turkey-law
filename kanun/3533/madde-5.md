@@ -1,0 +1,1 @@
+Madde 5 – Bu kanunun şümulüne giren işlerin tedkik edilebilmesi, taraflardan birinin vaki olacak yazılı müracaatına bağlıdır. Hakem, tedkikatın ve tahkikatın şeklini ve müddetlerini tayin eder ve hakimin haiz olduğu bütün salahiyetleri kullanabilir. Lüzum gördüğü takdirde tarafları da dinleyebilir.
