@@ -1,0 +1,1 @@
+Madde 36 – Sıhhat patentaları üzerinde yapılan her türlü tahrifler veya salahiyettar makamatça tasdik edilmemiş tashihler patentayı hükümden düşürür. Bir geminin hareketinden evvel 48 saat zarfında verilmiş patentalar muteber olup daha evvel verilenlerin hükmü yoktur.

@@ -1,0 +1,1 @@
+Madde 9 – Sıhhat ve İçtimai Muavenet Vekaleti üçüncü ve dördüncü maddelerde zikredilen vazifeleri ifa ve müesseseleri idare etmek üzere tabipler, baytarlar, eczacılar, sair sıhhi ve idari memurlar tayin ve istihdam eder.
