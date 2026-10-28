@@ -1,0 +1,7 @@
+DOĞAL AFETLERDE YAPILACAK YARDIMLARIN DÜZENLENMESİ İLE VERGİLERİN ÖDEME SÜRELERİNİN UZATILMASINA VE BAZI
+KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR
+KANUN HÜKMÜNDE KARARNAME
+Kanun Hükmünde Kararnamenin Tarihi: 14/9/1999 No : 576
+Yetki Kanununun Tarihi : 27/8/1999 No : 4452
+Yayımlandığı Resmî Gazete Tarihi : 23/9/1999 No : 23825
+V. Tertip Düsturun Cildi : 39
