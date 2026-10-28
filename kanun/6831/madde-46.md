@@ -1,0 +1,2 @@
+Madde 46 – Amme müesseselerine ait ormanları ya sahipleri işletir veya işletmeyi başkasına verebilir. Ancak bunlar orman idaresi tarafından parasız olarak tanzim edilecek harita ve amenajman planlarına göre işletilir ve idare olunur. Bu planlara riayeti orman idaresi kontrol eder.
+Sahiplerinin orman idaresine müracaat tarihini takibeden ilk iş mevsiminde işe başlamak suretiyle en kısa zamanda planların ikmali mecburidir.
