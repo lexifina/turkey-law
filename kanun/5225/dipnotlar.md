@@ -1,0 +1,3 @@
+[1] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 58 inci maddesi ile bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[2] 23/1/2008 tarihli ve 5728 sayılı Kanunun 556 ncı maddesiyle dördüncü bölümün “Denetleme ve Cezalar” olan başlığı “Denetleme ve İdari Yaptırımlar”; 12 nci maddenin “Cezalar” olan başlığı “İdarî yaptırımlar” olarak değiştirilmiştir.
+[3] Anayasa Mahkemesinin 8/12/2004 tarihli ve E.:2004/84, K.: 2004/124 sayılı Kararı ile bu arada yer alan "... Bakanlık denetim elemanlarının görev, yetki ve sorumlulukları ile çalışma usul ve esasları ..." ibaresi iptal edilmiştir.
