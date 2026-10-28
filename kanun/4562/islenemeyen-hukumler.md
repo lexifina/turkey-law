@@ -1,0 +1,3 @@
+12/4/2000 TARİHLİ VE 4562 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
+1) 23/10/2008 tarihli ve 5807 sayılı Kanunun hükmü:
+GEÇİCİ MADDE 1 – 15/4/2000 tarihinden önce, 4562 sayılı Organize Sanayi Bölgeleri Kanununun amacına uygun olarak kurulmuş olup, aynı Kanunun geçici 1 inci maddesine göre tüzel kişilik kazanamayan veya kazanmamış sayılan ve varsa tevsii alanları dahil yer seçimi kesinleşmiş OSB’lerin, 4562 sayılı Kanunun 4 üncü maddesine göre hazırlayacakları kuruluş protokolünü, bu Kanunun yürürlüğe girdiği tarihten itibaren 6 ay içinde Bakanlığa vermeleri halinde, durumlarını bu Kanuna uygun hale getirmiş sayılırlar ve Bakanlık OSB sicil defterine kaydedilerek tüzel kişilik kazanırlar.
