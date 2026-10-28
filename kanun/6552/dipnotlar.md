@@ -1,0 +1,7 @@
+[1] Sözkonusu kadrolarla ilgili olarak 11/9/2014 tarihli ve 29116 (Mükerrer) sayılı Resmi Gazete’ye bakınız.
+[2] 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar Kurulu Kararı Eki Kararın 2 nci maddesiyle, bu maddede yer alan başvuru süreleri ile ilk taksit ödeme süreleri sözkonusu maddede belirtilen sürelerin bitiminden itibaren bir ay uzatılmıştır.
+[3] 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar Kurulu Kararı Eki Kararın 3 üncü maddesiyle, bu maddede yer alan 31/12/2014 tarihi 30/6/2015 tarihine karar uzatılmıştır.
+[4] 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar Kurulu Kararı Eki Kararın 2 nci maddesiyle, bu maddede yer alan başvuru süreleri ile ilk taksit ödeme süreleri sözkonusu maddede belirtilen sürelerin bitiminden itibaren bir ay uzatılmıştır.
+[5] 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar Kurulu Kararı Eki Kararın 4 üncü maddesiyle, bu maddenin ikinci ve üçüncü fıkralarında yer alan başvuru süreleri ile ilk taksit ödeme süreleri sözkonusu fıkralarda belirtilen sürelerin bitiminden itibaren bir ay uzatılmıştır.
+[6] 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar Kurlu Kararı Eki Kararın 4 üncü maddesiyle bu fıkrada yer alan başvuru süreleri ile ilk taksit ödeme süreleri sözkonusu fıkralarda belirtilen sürelerin bitiminden itibaren bir ay uzatılmıştır.
+[7] 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar Kurlu Kararı Eki Kararın 4 üncü maddesiyle bu fıkrada yer alan başvuru süreleri ile ilk taksit ödeme süreleri sözkonusu fıkralarda belirtilen sürelerin bitiminden itibaren bir ay uzatılmıştır.
