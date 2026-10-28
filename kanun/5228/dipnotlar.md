@@ -1,0 +1,1 @@
+[1] Bu maddedeki Organizasyon Komitesine yapılan atıfların İzmir Universiade Oyunları Hazırlık ve Düzenleme Kuruluna yapılmış sayılacağı 10/11/2004 tarihli ve 5255 sayılı Kanunun Geçici 1 inci maddesiyle hükme bağlanmıştır.

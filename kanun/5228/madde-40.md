@@ -1,0 +1,1 @@
+Madde 40- (9.4.2003 tarihli ve 4842 sayılı Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
