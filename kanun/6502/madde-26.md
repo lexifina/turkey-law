@@ -1,0 +1,3 @@
+Sözleşmede değişiklik yapılması
+MADDE 26- (1) Belirli süreli kredi sözleşmesinin şartları, tüketici aleyhine değiştirilemez.
+(2) Belirsiz süreli kredi sözleşmelerinde faiz oranının artırılması durumunda, bu değişikliğin yürürlüğe girmesinden otuz gün önce, tüketiciye kâğıt üzerinde veya kalıcı veri saklayıcısı aracılığıyla yazılı olarak bildirilmesi zorunludur. Bu bildirimde, yeni faiz oranının yürürlüğe girmesinden sonra yapılacak ödemelerin tutarı, sayısı ile aralıklarının değişmesine ilişkin ayrıntılara yer verilir. Faiz oranının artırılması hâlinde, yeni faiz oranı geriye dönük olarak uygulanamaz. Tüketici, bildirim tarihinden itibaren en geç altmış gün içinde borcun tamamını ödediği ve kredi kullanmaya son verdiği takdirde faiz artışından etkilenmez.[4]
