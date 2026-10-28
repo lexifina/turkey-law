@@ -1,0 +1,6 @@
+Telif ve sınav ücretleri ile yurt dışı okul giderleri
+EK MADDE 1 – (Ek: 1/3/2014-6528/24 md.; Değişik: 2/12/2016-6764/11 md.)
+(1) (Mülga: 2/7/2018-KHK-703/22 md.)
+(2) (Mülga: 2/7/2018-KHK-703/22 md.)
+(3) 1416 sayılı Kanun uyarınca yapılan sınavlar da dahil olmak üzere Bakanlıkça yapılan merkezi sınavlarda görev yapan bina sınav sorumluları ile sınav koordinatörüne, sınav koordinatör yardımcılarına, bina yöneticilerine, salon başkanlarına, gözetmenlere, sınav güvenliğini sağlayan kolluk kuvvetlerine, soruların hazırlanmasında kapalı dönem çalışanlara ve sınav sürecinde görev alan diğer personele döner sermaye hesabından sınav veya soru ücreti ödenir. Bakanlık merkez teşkilatında kadrolu veya sözleşmeli çalışan personele sınav sorularının hazırlanmasına katkıları sebebiyle ayrıca soru ücreti ödenmez. Memuriyet mahalli dışına sınav görevi için görevlendirilenlere sınav ücreti dışında 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre sadece yol gideri ödenir. Sınav ücretinin tutarı ile usul ve esasları; sınavın özelliği, sınava katılanların sayısı, sınav görevlilerinin görev ve yetkileri ile çalışma süresi, sınav yerinin özelliği ve merkezi sınavlarda sınav ücretinin ödenme kaynağı gibi hususlar dikkate alınmak suretiyle Cumhurbaşkanınca tespit edilir.[15]
+(4) (Mülga: 2/7/2018-KHK-703/22 md.)
