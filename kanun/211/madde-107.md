@@ -1,0 +1,2 @@
+Madde 107 – (Değişik : 11/2/2014-6519/19 md.)
+Orduevi ve bağlısı şubeler ile özel, yerel veya kış eğitim merkezleri ve kışla dışındaki askerî kantinlerin aylık gayrisafi hasılatının %1’i ile askerî müzelerin kültür sitesi aylık gayrisafi hasılatının %1’i en geç takip eden ayın 20’sine kadar genel bütçeye gelir kaydedilmek üzere ilgili muhasebe birimine yatırılır. Bu oranı, sayılan tesislerin faaliyet türleri itibarıyla topluca veya ayrı ayrı ya da her bir tesis için ayrı ayrı sıfıra kadar indirmeye Maliye Bakanı yetkilidir.
