@@ -1,0 +1,3 @@
+[1] 18/1/2019 tarihli ve 7163 sayılı Kanunun 11 inci maddesiyle, bu maddelerin birinci fıkralarında yer alan “kayıt ve tescile de esas olacak şekilde” ibareleri madde metninden çıkarılmıştır.
+[2] 18/1/2019 tarihli ve 7163 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “ticarî dolaşıma ve gösterime” ibaresi “ticari dolaşıma veya gösterime” şeklinde değiştirilmiş, “kayıt ve tescile de esas olacak şekilde” ibaresi madde metninden çıkarılmıştır.
+[3] 18/1/2019 tarihli ve 7163 sayılı Kanunun 8 inci maddesi ile değiştirilen bu maddenin ikinci ve üçüncü fıkraları ile altıncı fıkrasının (e) ve (f) bentlerinde düzenlenen üçüncü fıkraya ilişkin hüküm 1/7/2019 tarihinde yürürlüğe girer.
