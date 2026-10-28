@@ -1,0 +1,2 @@
+Ek Madde 2 – (9/5/1955-6552 sayılı Kanunun 4 üncü maddesi hükmü olup, ek maddeye çevrilerek numarası teselsül ettirilmiştir.)[6]
+İnhisarlar İdaresi, Cumhurbaşkanı tarafından tesbit edilecek esas ve şartlarla inhisar dışı ispirtolu içkilerin imal, ithal ve satışı için hususi sermaye ile ortaklıklar kurabilir veya kurulmuş ortaklıklara katılabilir ve mevcut tesislerini de işletmek üzere ortaklıklar kurabilir.
