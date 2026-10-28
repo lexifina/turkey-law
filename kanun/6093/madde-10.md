@@ -1,0 +1,4 @@
+YEDİNCİ BÖLÜM
+Çeşitli Hükümler
+Yetki devri
+MADDE 10- (Mülga: 2/7/2018/KHK/703/103 md.)

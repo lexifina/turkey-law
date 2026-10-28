@@ -1,0 +1,4 @@
+BEŞİNCİ BÖLÜM
+Personel, Atama ve Kadrolar
+Personel statüsü
+MADDE 7- (Mülga: 2/7/2018/KHK/703/103 md.)
