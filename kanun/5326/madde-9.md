@@ -1,0 +1,2 @@
+Kast veya taksir
+Madde 9- (1) Kabahatler, kanunda açıkça hüküm bulunmayan hallerde, hem kasten hem de taksirle işlenebilir.
