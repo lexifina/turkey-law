@@ -1,0 +1,2 @@
+Bilgi isteme ve gizliliğe uyma
+MADDE 12 – (1) Ofis, araştırma ve inceleme konuları için bu Kanun kapsamında görevleri ile ilgili gerekli gördüğü her türlü bilgiyi kamu kurum ve kuruluşlarından istemeye yetkilidir. Kendilerinden bilgi istenen kamu kurum ve kuruluşları, söz konusu isteğe cevap vermek ve gereken kolaylığı göstermekle yükümlüdürler. Ofisin her türlü personeli, bu yoldan sağlanan bilgilerden sır mahiyetinde olanları açıklayamaz, kendilerinin veya başkalarının menfaatine kullanamaz.
