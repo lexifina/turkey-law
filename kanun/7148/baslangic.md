@@ -1,0 +1,5 @@
+KARAYOLLARI TRAFİK KANUNU İLE BAZI KANUNLARDA
+DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+Kanun Numarası : 7148
+Kabul Tarihi : 18/10/2018
+Yayımlandığı Resmî Gazete : Tarih : 26/10/2018 Sayı : 30577
