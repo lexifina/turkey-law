@@ -1,0 +1,6 @@
+BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK
+YAPILMASINA DAİR KANUN
+Kanun Numarası : 6327
+Kabul Tarihi : 13/6/2012
+Yayımlandığı Resmî Gazete : Tarih : 29/6/2012 Sayı : 28338
+Yayımlandığı Düstur : Tertip : 5 Cilt : 52
