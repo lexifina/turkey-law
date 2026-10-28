@@ -1,0 +1,2 @@
+Geçici Madde 1 – (10/6/1983 tarih ve 2840 sayılı Kanunun numarasız geçici maddesi olup teselsül için numaralandırılmıştır.)
+Bor tuzları sahalarında eski ruhsat sahipleri tarafından çıkarılmış cevher, bakiye yığını, cüruf stokları ve pasalar üzerinde bunları çıkaranların her türlü hakları bu Kanunun yürürlüğe girdiği tarihten itibaren onsekiz ay içinde sona erer ve ilgili kamu kuruluşunun uhdesine geçer.[2]
