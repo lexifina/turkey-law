@@ -1,0 +1,1 @@
+[1] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 59 uncu maddesi ile bu fıkrada yer alan “Türk Boğazları Deniz Trafik Düzeni Tüzüğü” ibaresi “Cumhurbaşkanınca yürürlüğe konulan yönetmelik” şeklinde değiştirilmiştir.
