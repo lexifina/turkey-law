@@ -1,0 +1,4 @@
+ÜST KADEME KAMU YÖNETİCİLERİNİN ATANMALARINA İLİŞKİN USÛL VE ESASLAR İLE KAMU KURUM VE KURULUŞLARINDA ATAMA USÛLLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ[1]
+Cumhurbaşkanlığı Kararnamesinin Sayısı : 3 Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 10/7/2018 – 30474
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Atama Usûl ve Esasları[2]
