@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanunun 5 inci maddesinde yazılı komisyonun 4 üncü maddede yazılı işleri ifa etmek maksadiyle kanunun yürürlüğe girdiği tarihten itibaren 2 ay müddetle yapacağı toplantılar için 5 inci maddede yazılı tahdidi hüküm uygulanmaz.
