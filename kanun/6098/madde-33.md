@@ -1,0 +1,2 @@
+MADDE 33- Sözleşmenin kurulmasına yönelik iradenin haberci veya çevirmen gibi bir aracı ya da bir araç tarafından yanlış iletilmiş olması hâlinde de yanılma hükümleri uygulanır.
+3. Yanılmada dürüstlük kuralları

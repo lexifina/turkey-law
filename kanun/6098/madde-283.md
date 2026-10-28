@@ -1,0 +1,2 @@
+MADDE 283- Satış sözleşmesine ilişkin hükümler, mal değişim sözleşmesine de uygulanır; buna göre taraflardan her biri, vermeyi üstlendiği şey bakımından satıcı, kendisine verilmesi üstlenilen şey bakımından alıcı durumundadır.
+C. Zapttan ve ayıptan sorumluluk

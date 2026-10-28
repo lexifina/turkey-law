@@ -1,0 +1,4 @@
+2. Bildirimin geçerliliği
+a. Şekil
+MADDE 348- Konut ve çatılı işyeri kiralarında fesih bildiriminin geçerliliği, yazılı şekilde yapılmasına bağlıdır.
+b. Aile konutu
