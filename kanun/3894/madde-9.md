@@ -1,0 +1,1 @@
+Madde 9 – Düşman malı yolculuk esnasında malikini değiştirdiği takdirde, bu değişme, zapt ve müsadere hakkının tatbika başlandığı andan sonra vukubulmuşsa, varma mahalline vasıl oluncaya kadar düşmanlık sıfatını muhafaza eder.
