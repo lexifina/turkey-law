@@ -1,0 +1,1 @@
+Madde 19 – Birinci maddede isimleri yazılan uyuşturucu maddeler haricinde olup ilmi tetkikat neticesinde mazarratı tebeyyün eden ve toksikomani tevlit eyleyen diğer zehirlerin dahi, bu kanun hükümlerine tabi olacağı Cumhurbaşkanı karariyle Sıhhat ve İçtimai Muavenet Vekaleti tarafından tayin ve ilan olunur.[2][3]

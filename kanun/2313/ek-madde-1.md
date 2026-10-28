@@ -1,0 +1,7 @@
+Uyuşturucu ve Psikotrop Madde Üretim ve Dağıtımının Önlenmesi
+Ek Madde 1 – (Ek: 13/11/1996-4208/16 md.)
+1988 tarihli Uyuşturucu ve Psikotrop Maddelerin Kaçakçılığına Karşı Birleşmiş Milletler Sözleşmesine Ek I ve II Numaralı Tablolar ile bu Tabloların değişikliklerinde yer alan maddelerin imali, ithali ve ihracı, nakli, bulundurulması, alımı ve satımı Sağlık Bakanlığının iznine bağlıdır.
+Yukarıdaki fıkraya göre izin verilirken ilgili kuruluşlardan görüş alınması ve izin verme esas ve usullerinin Sağlık Bakanlığınca çıkarılacak yönetmelikte gösterilmesi gerekir.
+(Değişik üçüncü fıkra: 23/1/2008-5728/80 md.) Birinci fıkrada belirtilen maddelerden herhangi birini izinsiz imal, ithal ve ihraç edenler, nakledenler veya bulunduranlar, satın alanlar veya satanlara, mahallî mülkî amir tarafından onbin Türk Lirasından yüzbin Türk Lirasına kadar idarî para cezası verilir. Ayrıca, bu maddelerin mülkiyetinin kamuya geçirilmesine karar verilir.
+(Değişik dördüncü fıkra: 23/1/2008-5728/80 md.) Birinci fıkrada belirtilen maddelerden herhangi birini, uyuşturucu veya uyarıcı maddelerin imalatında kullanılmak amacıyla imal, ithal veya ihraç edenler, nakledenler veya bulunduranlar, satın alan veya satanlar, Türk Ceza Kanununun 188 inci maddesine göre cezalandırılır.
+3298 sayılı Uyuşturucu Maddelerle İlgili Kanun hükümleri saklıdır.
