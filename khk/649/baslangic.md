@@ -1,0 +1,7 @@
+AVRUPA BİRLİĞİ BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUN VE KANUN
+HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA
+DAİR KANUN HÜKMÜNDE KARARNAME
+Kanun Hükmünde Kararnamenin Tarihi : 8/8/2011, No: 649
+Yetki Kanununun Tarihi : 6/4/2011, No: 6223
+Yayımlandığı Resmî Gazete Tarihi : 17/8/2011, No: 28028
+Yayımlandığı Düstur : Tertip: 5 Cilt: 50
