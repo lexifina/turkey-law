@@ -1,0 +1,2 @@
+Müktesep haklar
+GEÇİCİ MADDE 1 – Orman Mühendisi veya Orman Yüksek Mühendisi unvanı ile 31/12/1989 tarihinden önce mezun olanların peyzaj plânlaması ve uygulaması yapmak hak ve yetkileri devam eder.
