@@ -1,0 +1,2 @@
+[1] Bu bent anayasa Mahkemesinin 3/7/1991 tarih ve E. 1991/6, K. 1991/20 sayılı kararı ile "olağanüstü hal bölgesi dışı" yönünden olağanüstü hal KHK kuralı niteliğinde olmadığından ve Anayasa'ya aykırı olduğundan iptal edilmiştir.
+[2] Anayasa Mahkemesinin 3/7/1991 tarih ve E. 1991/6, K. 1991/20 sayılı kararı ile 5 inci madde "olağanüstü hal bölgesi dışı" ve "mücavir iller" yönünden; 6 ncı maddesi ise "olağanüstü hal bölgesi dışı", yönünden olağanüstü hal KHK kuralı niteliğinde olmadıklarından ve Anayasa'ya aykırı olduklarından iptal edilmişlerdir.
