@@ -1,0 +1,5 @@
+[1] 13/1/2005 tarihli ve 5286 sayılı Kanunun 1 inci maddesiyle, bu Kanunun adı “Köy Hizmetleri Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun“ iken,“Köye Yönelik Hizmetler Hakkında Kanun“; 2 nci maddesiyle de Birinci Kısım başlığı “Amaç, Görev ve Teşkilat“ iken, “Amaç ve Hizmetler“ olarak değiştirilmiş ve metne işlenmiştir.
+[2] 13/1/2005 tarihli ve 5286 sayılı Kanunun 3 üncü maddesiyle, 2 nci maddenin başlığı “Görev” iken, "Hizmetler" şeklinde, maddede geçen "Köy Hizmetleri Genel Müdürlüğünün görevleri" ibaresi, "Köye yönelik hizmetler" şeklinde değiştirilmiştir.
+[3] 13/1/2005 tarihli ve 5286 sayılı Kanunun 3 üncü maddesiyle bu bentde yer alan “ve görevleri“ ibaresi metinden çıkarılmıştır.
+[4] 13/1/2005 tarihli ve 5286 sayılı Kanunun 3 üncü maddesinde yer alan “…(u) bendi madde metninden çıkarılmış; …” hükme istinaden bu düzenleme yapılmıştır.
+[5] Bu madde başlığı " Kamu kurum ve kuruluşlarının tüzel ve gerçek kişilerle hizmet ilişkileri” iken, 13/1/2005 tarihli ve 5286 sayılı Kanunun 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
