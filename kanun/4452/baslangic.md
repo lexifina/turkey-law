@@ -1,0 +1,9 @@
+DOĞAL AFETLERE KARŞI ALINACAK ÖNLEMLER VE
+DOĞAL AFETLER NEDENİYLE DOĞAN ZARARLARIN
+GİDERİLMESİ İÇİN YAPILACAK DÜZENLEMELER
+HAKKINDA YETKİ KANUNU
+Kanun Numarası : 4452
+Kabul Tarihi : 27/8/1999
+Yayımlandığı Resmî Gazete : Tarih : 29/8/1999 Sayı : 23801
+Yayımlandığı Düstur : Tertip : 5 Cilt : 39
+Amaç:
