@@ -1,0 +1,1 @@
+[1] Anayasa Mahkemesinin 6/11/2025 tarihli ve E.: 2024/147, K.: 2025/223 sayılı Kararı ile bu bent iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (17/12/2026) tarihinde yürürlüğe girer.
