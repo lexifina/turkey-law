@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanunla kurulan illerde ve ilçelerde merkezi idare tarafından oluşturulacak teşkilata ait kadroları bu Kanunun yürürlüğe girişinden itibaren geçecek 30 günlük süre içinde ihdas etmeye Bakanlar Kurulu yetkilidir.
