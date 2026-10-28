@@ -1,0 +1,54 @@
+{
+  "corpus": "tr/national/acts",
+  "name": "Türkiye: laws, decree-laws and presidential decrees in force (Mevzuat Bilgi Sistemi)",
+  "label": "Türkiye",
+  "language": "tr",
+  "acts": {
+    "kanun": 908,
+    "osmanli": 9,
+    "khk": 63,
+    "cbk": 33
+  },
+  "history": "in-force",
+  "history_laws": "data/history-laws.csv",
+  "history_from": "1947-05-14",
+  "record_to": "2026-10-28",
+  "checked_on": "2026-10-28",
+  "record_note": "280 laws have dated history from the publisher's earlier consolidated texts (1187 earlier versions, each checked word for word against its source document), with changes credited to amending acts dated by the publisher's in-force tables; see data/history-laws.csv. The other acts are current-only: one version, the text as published on 2026-10-28.",
+  "built": "2026-10-28",
+  "baseline_trailer": "Consolidated",
+  "in_force_trailer": "In-force",
+  "has_future_branch": true,
+  "future_branch": "future",
+  "dates": {
+    "commit": "in-force date: the publisher's in-force table for amendments (see the Date-source trailer); the retrieval day for current-only texts",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Enacted",
+      "Published",
+      "Applies-from"
+    ],
+    "time": "12:00 Europe/Istanbul (UTC+3; UTC+2 with summer time before 2016-09-07)",
+    "before_1970": "clamped to 1970-01-01"
+  },
+  "author": {
+    "consolidated": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+    "amendment": "the amending act (Kanun N, KHK N, Anayasa Mahkemesi K. Y/N)",
+    "unexplained": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "not extracted for Türkiye; transitional rules are in the text (Gecici maddeler)",
+    "default_reach": {
+      "rule": "non-retroactivity of laws (kanunların geriye yürümezliği)",
+      "meaning": "a law applies from its entry into force and does not reach completed facts unless it says so; for criminal law the more favourable law applies",
+      "authority": "Anayasa art. 38 (criminal); Türk Ceza Kanunu art. 7; Türk Medeni Kanunu Yürürlük ve Uygulama Şekli Hakkında Kanun (4722) art. 1",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "(kanun|osmanli|khk|cbk)/([0-9]+)/[a-z0-9~.-]+\\.md",
+    "cites": "([^0-9]|^){n} sayılı"
+  },
+  "tool": "tools/in_force_on.py"
+}
