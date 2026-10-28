@@ -1,0 +1,1 @@
+[1] Bu maddeye ilişkin 2026 yılı için uygulanacak para cezaları için 27/12/2025 tarihli ve 33120 sayılı Resmî Gazete’de yayımlanan Çevre, Şehircilik ve İklim Değişikliği Bakanlığı (İklim Değişikliği Başkanlığı) 7552 Sayılı İklim Kanunu Uyarınca Verilecek İdari Para Cezalarına İlişkin Tebliğ (2026/1)’e bakınız.
