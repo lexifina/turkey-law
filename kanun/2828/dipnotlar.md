@@ -1,0 +1,39 @@
+[1] Bu Kanunun adı “Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu” iken, 3/6/2011 tarihli ve 633 sayılı KHK’nin 35 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] 30/5/1997 tarihli ve 572 sayılı K.H.K.’nin 12 nci maddesiyle bu Kanuna eklenen Ek Madde 4 ile, sözkonusu Kanunda geçen "sakat" ibaresi "özürlü", "kör" ibaresi "görme özürlü", "sağır" ibaresi "İşitme özürlü" olarak değiştirilmiştir.
+[3] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+[4] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddede yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.
+[5] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentte yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.
+[6] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlü” ibaresi “Engelli” şeklinde değiştirilmiştir.
+[7] 1/7/2005 tarihli ve 5378 sayılı Kanunun 26 ncı maddesiyle (c) bendinden sonra gelmek üzere (d) bendi eklenmiş ve mevcut (d), (e) ve (f) bentleri, (e), (f), (g) olarak teselsül ettirilmiştir.
+[8] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlü”, “özürlülük” ve “özürlü” ibareleri sırasıyla “Engelli”, “engellilik” ve “engelli” şeklinde değiştirilmiştir.
+[9] Bu alt bentte yeralan “ve sunduğu hizmetler karşılığında ücret alan” ibaresi 21/1/2000 tarih ve 594 sayılı KHK ile metinden çıkarılmıştır.
+[10] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.
+[11] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentte yer alan “muhtaç” ibaresi “ihtiyacı olan”şeklinde değiştirilmiştir.
+[12] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+[13] 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu alt bentte yer alan “suça sürüklenen” ibaresi “adli süreçteki” şeklinde değiştirilmiştir.
+[14] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (c) bendinde yer alan “özürlü” ibaresi “engelli”, (h) bendinde yer alan “özür” ibaresi “engel”, (1) bendinde yer alan “özürlü” ve “özürlülerin” ibareleri sırasıyla “engelli” ve “engellilerin”, ikinci fıkrasında yer alan “Özürlülere” ibaresi “Engellilere”, aynı fıkranın (a) bendinde yer alan “özürlülerin” ibaresi “engellilerin” şeklinde değiştirilmiştir.
+[15] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentlerde yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.
+[16] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (b) bendinde yer alan “özürlüler” ibaresi “engelliler”, (c) bendinde yer alan “özürlülere” ibaresi “engellilere”, (d) bendinde yer alan “özürlülerin” ve “özürlülerce” ibareleri sırasıyla “engellilerin” ve “engellilerce”, (e) bendinde yer alan “Özürlülerin” ibaresi “Engellilerin”, (f) bendinde yer alan “Özürlülere” ve “özürlülerin” ibareleri sırasıyla “Engellilere” ve “engellilerin” şeklinde değiştirilmiştir.
+[17] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.
+[18] 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+[19] Bu bende "Vakıflar Genel Müdürlüğüne" ibaresinden sonra gelmek üzere 23/7/1995 tarih ve 4122 sayılı Kanunun 15/b maddesi ile "ve Orman Genel Müdürlüğü'ne" ibaresi eklenmiştir.
+[20] 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+[21] Bu fıkrada yer alan“ nakdî bağışlar“ ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle,“ nakdî ve aynî bağışlar“ olarak 31/7/2004 tarihinden geçerli olmak üzere değiştirilmiştir.
+[22] İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri, 6/5/1986 tarihli ve 3283 sayılı Kanunun 1 inci maddesi ile yürürlükten kaldırılmıştır.
+[23] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+[24] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkranın birinci cümlesinde yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.
+[25] 6/2/2014 tarihli ve 6518 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “yetkili ve görevli mahkemece” ibaresi “3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununa göre yetkili ve görevli mahkemece” şeklinde değiştirilmiştir.
+[26] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.
+[27] 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkranın ikinci cümlesinde yer alan “ikinci” ibaresi “üçüncü” şeklinde değiştirilmiştir.
+[28] 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “usul ve esası ile” ibaresinden sonra gelmek üzere “ikinci fıkra kapsamında isteğe bağlı sigorta ödemelerine,” ibaresi eklenmiş ve “Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Politikalar Bakanlığı” ibaresi “Hazine ve Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Hizmetler Bakanlığı” şeklinde değiştirilmiştir.
+[29] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci fıkrasının (a) bendinde yer alan “muhtaç” ibaresi ile (c) bendinde yer alan “muhtaç durumda bulunan” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.
+[30] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.
+[31] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan “muhtaç” ibaresi ile birinci ve üçüncü fıkralarında yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.
+[32] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+[33] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesinde; bu Kanunun 26 ncı maddesinin başlığında ve birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde … değiştirilmiştir.” hükmü yer almakla birlikte Meclis tutanakları, kanun gerekçesinin incelenmesiyle, madde başlığında yer alan “sakat” ibaresinin değiştirilmek istendiği tespit edilmiş ve düzenleme bu şekilde yapılmıştır.
+[34] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan “muhtaç” ibaresi ile birinci fıkrasında yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.
+[35] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.
+[36] Bu madde; evvelce 356 sayılı KHK'nin 4 üncü maddesi ile "Ek madde 1" olarak getirilmişse de teselsülü sağlamak için bu sefer 14/3/1991 tarih ve 3703 sayılı Kanunla madde numarası "Ek madde 2" olarak değiştirilmiştir.
+[37] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlülerine” ve “Özürlüler İdaresi Başkanlığı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünün müştereken hazırlayacakları” ibareleri sırasıyla “engellilere” ve “Aile ve Sosyal Politikalar Bakanlığınca hazırlanacak” şeklinde değiştirilmiştir.
+[38] Bu maddenin ikinci fıkrası ile ihdas olunan kadrolar, 13/12/1983 tarihli ve 190 sayılı KHK.'nin 13 üncü maddesi ile yürürlükten kaldırılmıştır.
+[39] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlüye” ibaresi “engelliye” şeklinde değiştirilmiştir.
