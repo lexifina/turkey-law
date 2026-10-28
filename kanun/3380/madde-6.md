@@ -1,0 +1,1 @@
+Madde 6 – (5422 Sayılı Kurumlar Vergisi Kanununun 3239 Sayılı Kanunun 74 üncü maddesiyle değişen 8 inci maddesinin 9 numaralı bendinin birinci paragrafının değiştirilmesine dair olup, yerine işlenmiştir.
