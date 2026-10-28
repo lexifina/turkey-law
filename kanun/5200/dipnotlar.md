@@ -1,0 +1,2 @@
+[1] 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 18 inci maddesiyle, bu Kanunda 5957 sayılı Kanun hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.
+[2] 23/1/2008 tarihli ve 5728 sayılı Kanunun 554 üncü maddesiyle bu maddede yer alan “Devlet memurları hakkındaki cezalar uygulanır.” ibaresi “kamu görevlilerine ilişkin ceza hükümleri uygulanır.” olarak değiştirilmiştir.
