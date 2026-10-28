@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 18- (1) 5/5/1983 tarihli ve 2822 sayılı Toplu İş Sözleşmesi, Grev ve Lokavt Kanununun 12 nci maddesi gereğince 30/6/2011 tarihine kadar yeni istatistik yayımlanmaz. Bu tarihten sonraki ilk istatistik yayımlama dönemine kadar Bakanlıkça yayımlanmış bulunan en son işçi ve üye istatistikleri geçerli sayılır.
