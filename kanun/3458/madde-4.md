@@ -1,0 +1,1 @@
+Madde 4 – Mühendislik veya mimarlık tahsilini gösteren Türk veya ecnebi yüksek mekteblerinde cari usullere göre doktora imtihanı vererek buna mahsus diplomayı almış olanlar doktor mühendis unvanını taşırlar.
