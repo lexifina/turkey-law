@@ -1,0 +1,2 @@
+Gümrük ve Ticaret Uzmanlığı
+MADDE 37- (Mülga: 2/7/2018-KHK-703/29 md.)

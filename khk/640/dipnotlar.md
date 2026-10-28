@@ -1,0 +1,4 @@
+[1] Bu KHK’nin Adı “Gümrük ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname” iken, 2/7/2018 tarihli ve 703 sayılı KHK’nin 29 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] Bu madde başlığı “Kontrolör” iken, 8/8/2011 tarihli ve 649 sayılı KHK’nin 27 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[3] 24/10/2011 tarihli ve 661 sayılı KHK’nın 11 inci maddesiyle bu maddenin birinci fıkrasına “Gümrük Muhafaza Bölge Amiri,” ibaresinden sonra gelmek üzere “gümrük muhafaza hizmetlerini yürüten Gümrük ve Ticaret Denetmeni ile Gümrük ve Ticaret Denetmen Yardımcısı,” ibaresi eklenmiştir.
+[4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 29 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “Maliye Bakanlığı” ibaresi “Hazine ve Maliye Bakanlığı” şeklinde ve üçüncü fıkrasında yer alan “Bakanlık” ibaresi “Ticaret Bakanlığı” şeklinde değiştirilmiştir.
