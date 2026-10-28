@@ -1,0 +1,1 @@
+[1] 11/10/2011 tarihli ve 662 sayılı KHK’nin 75 inci maddesiyle, bu maddenin üçüncü fıkrasının (a) bendinde yer alan “istatistik bölümlerinden” ibaresi “istatistik bölümleri, Birimin görev alanına giren ve yönetmelikle belirlenecek diğer fakülte ve bölümlerden” şeklinde, aynı bentte yer alan “yabancı” ibaresi “yurt içindeki veya yurt dışındaki” şeklinde değiştirilmiştir.
