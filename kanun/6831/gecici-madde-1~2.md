@@ -1,0 +1,1 @@
+Geçici Madde 1 – Yürürlükten kaldırılan 38 inci madde hükümlerinden bu Kanunun yayımı tarihine kadar yararlanmış bulunanların hakları saklıdır. Ancak, köy tüzelkişiliği tarafından bu ormanların korunmasına devam olunmadığı veya amenajman planları esaslarına ve izin şartlarına riayet edilmediği anlaşıldığı takdirde Tarım ve Orman Bakanlığınca tahsisten vazgeçilebilir.
