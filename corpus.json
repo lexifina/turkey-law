@@ -1,0 +1,50 @@
+{
+  "corpus": "tr/national/acts",
+  "name": "Türkiye: laws, decree-laws and presidential decrees in force (Mevzuat Bilgi Sistemi)",
+  "label": "Türkiye",
+  "language": "tr",
+  "acts": {
+    "kanun": 908,
+    "osmanli": 9,
+    "khk": 63,
+    "cbk": 33
+  },
+  "history": "current-only",
+  "history_from": "2026-10-28",
+  "record_to": "2026-10-28",
+  "checked_on": "2026-10-28",
+  "record_note": "mevzuat.gov.tr publishes the current consolidated text only, so each act has one version here: the text as published on 2026-10-28. There is no line-by-line history before that day. The publisher's amendment notes (Degisik/Ek/Mulga: date-law/article) stay in the text and are parsed into data/amendments.csv.",
+  "built": "2026-10-28",
+  "baseline_trailer": "Consolidated",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "dates": {
+    "commit": "retrieval date: the current text as published that day",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Enacted",
+      "Published"
+    ],
+    "time": "12:00 Europe/Istanbul (UTC+3)"
+  },
+  "author": {
+    "consolidated": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+    "amendment": "none (no earlier text published)",
+    "unexplained": "none"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "not extracted for Türkiye; transitional rules are in the text (Gecici maddeler)",
+    "default_reach": {
+      "rule": "non-retroactivity of laws (kanunların geriye yürümezliği)",
+      "meaning": "a law applies from its entry into force and does not reach completed facts unless it says so; for criminal law the more favourable law applies",
+      "authority": "Anayasa art. 38 (criminal); Türk Ceza Kanunu art. 7; Türk Medeni Kanunu Yürürlük ve Uygulama Şekli Hakkında Kanun (4722) art. 1",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "(kanun|osmanli|khk|cbk)/([0-9]+)/[a-z0-9~.-]+\\.md",
+    "cites": "([^0-9]|^){n} sayılı"
+  },
+  "tool": "tools/in_force_on.py"
+}
