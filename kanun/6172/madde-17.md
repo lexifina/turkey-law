@@ -1,0 +1,2 @@
+Gözlemciler
+MADDE 17 – (Mülga: 19/4/2018-7139/53 md.)
