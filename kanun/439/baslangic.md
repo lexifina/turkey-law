@@ -1,0 +1,8 @@
+MİLLİ EĞİTİM BAKANLIĞINA BAĞLI YÜKSEK VE ORTA
+DERECELİ OKULLAR ÖĞRETMENLERİ İLE İLKOKUL
+ÖĞRETMENLERİNİN HAFTALIK DERS SAATLERİ İLE
+EK DERS ÜCRETLERİ HAKKINDA KANUN[1]
+Kanun Numarası : 439
+Kabul Tarihi : 5/3/1964
+Yayımlandığı Resmî Gazete: Tarih: 12/3/1964 Sayı: 11654
+Yayımlandığı Düstur : Tertip: 5 Cilt: 3 Sayfa: 1821
