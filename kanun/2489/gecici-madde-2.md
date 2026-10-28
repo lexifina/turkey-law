@@ -1,0 +1,1 @@
+Muvakkat Madde 2 – Bu kanunun mer'iyet kesbettiği tarihe kadar kefaletli hizmetlerden her hangi bir suretle alakaları kesilmiş bulunanlara bu kanunun mer'iyetinden sonra reddedilecek kefalet aidatları hakkında da bu kanun hükümleri tatbik olunur.
