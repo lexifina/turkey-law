@@ -1,0 +1,4 @@
+[1] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 60 ıncı maddesi ile bu fıkrada yer alan “hâkim, askerî hâkim, Cumhuriyet Başsavcılığı veya askerî savcılık” ibaresi “hâkim veya Cumhuriyet Başsavcılığı” şeklinde değiştirilmiştir.
+[2] 5/4/2012 tarihli ve 6290 sayılı Kanunun 1 inci maddesi ile bu fıkrada yer alan “asliye mahkemelerinin bulunmadığı ilçelerde” ibaresi metinden çıkarılmıştır.
+[3] Bu fıkraya 6/12/2006 tarihli ve 5560 sayılı Kanunun 37 nci maddesiyle, "kaymakamlıklarca" ibaresinden sonra gelmek üzere "yurt dışında elçilik ve konsolosluklarca" ibaresi eklenmiştir.
+[4] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 60 ıncı maddesi ile bu bentte yer alan “hâkim, askerî hâkim, Cumhuriyet Başsavcılığı ve askerî savcılık” ibaresi “hâkim ve Cumhuriyet Başsavcılığı” şeklinde değiştirilmiştir.
