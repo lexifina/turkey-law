@@ -1,0 +1,1 @@
+[1] Anayasa Mahkemesinin 11/12/2025 tarihli ve E.:2025/103; K.:2025/250 sayılı Kararı ile bu fıkra iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (10/12/2026) yürürlüğe gireceği hüküm altına alınmıştır.
