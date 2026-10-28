@@ -1,0 +1,1 @@
+Madde 6 – Bilumum madenciler hasta ve kazazede olan ameleyi meccanen tedavi etmeğe ve bunu teminen maden civarında hastane, eczane ve şahadetnameli etıbba bulundurmağa mecburdurlar. Bunların tayini mahal ve adedi ile muhtelif madencilerin arasında masarifin veçhi tevzi ve itasına dair ayrıca bir nizamname tanzim olunacaktır.
