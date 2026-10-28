@@ -1,0 +1,5 @@
+CEZA MUHAKEMESİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK
+YAPILMASINA DAİR KANUN
+Kanun Numarası :7499
+Kabul Tarihi :02/03/2024
+Yayımlandığı Resmî Gazete : Tarih: 12/03/2024 Sayı: 32487
