@@ -1,0 +1,7 @@
+KARADENİZ EKONOMİK İŞBİRLİĞİ ÖRGÜTÜ İŞ KONSEYİ ULUSLAR ARASI
+SEKRETARYASININ TÜRKİYE'DE YARARLANACAĞI AYRICALIKLAR,
+BAĞIŞIKLIKLAR VE KOLAYLIKLARA DAİR KANUN
+Kanun Numarası : 5657
+Kabul Tarihi : 9/5/2007
+Yayımlandığı Resmî Gazete : Tarih : 20/5/2007 Sayı : 26527
+Yayımlandığı Düstur : Tertip : 5 Cilt : 46
