@@ -1,0 +1,7 @@
+[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 82 nci maddesiyle, bu fıkralarda yer alan “tüzükte” ibareleri “yönetmelikte” şeklinde değiştirilmiştir.
+[2] 2/1/2017 tarihli ve 680 sayılı KHK’nin 49 uncu maddesiyle, bu fıkrada yer alan “Türk Silahlı Kuvvetleri” ibaresinden sonra gelmek üzere “ile Sahil Güvenlik Komutanlığı” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 48 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 82 nci maddesiyle, bu fıkrada yer alan “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.
+[4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 82 nci maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan “tüzükte” ibareleri “yönetmelikte” şeklinde değiştirilmiştir.
+[5] 2/7/2018 tarihli ve 700 sayılı KHK’nin 82 nci maddesiyle, bu maddenin ikinci fıkrasında yer alan “tüzükte” ibaresi “yönetmelikte” ve dördüncü fıkrasında yer alan “tüzüğe” ibaresi “yönetmeliğe” şeklinde değiştirilmiştir.
+[6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 82 nci maddesiyle, bu fıkrada yer alan “ “tüzüğe” ibaresi “yönetmeliğe” şeklinde değiştirilmiştir.
+[7] 2/7/2018 tarihli ve 700 sayılı KHK’nin 82 nci maddesiyle, bu maddenin başlığı “ Tüzük” iken“Yönetmelik” şeklinde, birinci fıkrasında yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde ve “bu Kanunun yayımı tarihinden itibaren altı ay içinde çıkarılacak tüzükte” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
