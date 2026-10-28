@@ -1,0 +1,2 @@
+Geçici Madde 2 – (Ek:21/4/2021-7317/9 md.)
+14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi olarak çalışırken istifa ederek lisanslı harita kadastro mühendislik bürosu açanlardan, bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içerisinde Tapu ve Kadastro Genel Müdürlüğüne başvuranların, Tapu ve Kadastro Genel Müdürlüğü kadrolarına 657 sayılı Kanunun 92 nci maddesine göre atanmalarında açıktan, naklen ve yeniden atama sayısı sınırlamaları uygulanmaz.
