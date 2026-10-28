@@ -1,0 +1,6 @@
+KONUTLARIN TURİZM AMAÇLI KİRALANMASINA VE
+BAZI KANUNLARDA
+DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 7464
+Kabul Tarihi : 25/10/2023
+Yayımlandığı Resmî Gazete: Tarih: 2/11/2023 Sayı: 32357
