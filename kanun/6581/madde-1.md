@@ -1,0 +1,1 @@
+Madde 1 – Azınlık okullarının Türkçe ve Türkçe kültür dersleri, Maarif Vekaleti Teşkilat kanunlariyle muayyen kadrolara, memurin ve barem kanunlarına göre tayin edilen öğretmenler tarafından tedris olunur.
