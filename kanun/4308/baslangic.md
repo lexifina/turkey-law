@@ -1,0 +1,8 @@
+SEFERBERLİKTE VEYA FEVKALADE HALLERDE ASKERİ
+ŞAHISLARA AİT HUKUK DAVALARİYLE İCRA
+TAKİPLERİNDE YAPILACAK MUAMELELER
+HAKKINDA KANUN
+Kanun Numarası : 4308
+Kabul Tarihi : 30/11/1942
+Yayımlandığı Resmî Gazete: Tarih: 5/12/1942 Sayı: 5275
+Yayımlandığı Düstur : Tertip: 3 Cilt: 24 Sayfa: 42
