@@ -1,0 +1,2 @@
+Türkiye Tohumcular Birliği
+MADDE 26 – Türkiye Tohumcular Birliği; alt birlikler arasındaki işbirliği ve dayanışmayı temin etmek, tohumculuk sektörünün geliştirilmesi ile sektörde faaliyet gösterenler arasında meslekî dayanışma sağlamak ve mevzuatla verilen görevleri yerine getirmek amacıyla alt birliklerce kurulan, tüzel kişiliğe sahip, kamu kurumu niteliğinde meslek üst kuruluşudur. Birliğin kuruluşundan sonra alt birlikler, Birliğe üye olmak zorundadır.
