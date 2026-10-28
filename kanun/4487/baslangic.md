@@ -1,0 +1,7 @@
+SEFERBERLİKTE VE FEVKALADE HALLERDE ASKERİ
+ŞAHISLARIN AİLELERİNİ İCABINDA YANLARINDA
+BULUNDURMALARININ MEN'İ HAKKINDA KANUN
+Kanun Numarası : 4487
+Kabul Tarihi : 6/9/1943
+Yayımlandığı Resmî Gazete: Tarih: 11/9/1943 Sayı: 5505
+Yayımlandığı Düstur : Tertip: 3 Cilt: 24 Sayfa: 651
