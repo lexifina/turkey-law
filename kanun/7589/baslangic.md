@@ -1,0 +1,4 @@
+YARGININ ETKİN VE VERİMLİ İŞLEMESİNE YÖNELİK BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Kanun Numarası : 7589
+Kabul Tarihi : 16/7/2026
+Yayımlandığı Resmî Gazete : Tarih: 31/7/2026 Sayı: 33326
