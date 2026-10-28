@@ -1,0 +1,2 @@
+Fazla çalışma ücreti:
+Madde 32/C – (Ek: 17/6/1992 – 3812/4 md.; Mülga: 23/2/1995 – KHK – 547/23 md.)

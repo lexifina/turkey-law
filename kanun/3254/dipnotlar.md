@@ -1,0 +1,14 @@
+[1] Bu Kanunun evveliyatını teşkil eden 8/6/1984 tarih ve 228 sayılı KHK. 18/6/1984 tarihinde yürürlüğe girmiştir. (Bkz. Düstur: Tertip: 5, Cilt: 23, Sahife: 726)
+[2] Bu Kanunun adı, 17/6/1992 tarih ve 3812 sayılı Kanun ile “Devlet Meteoroloji İşleri Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun”, 10/10/2011 tarihli ve 657 sayılı KHK’nın 16 ncı maddesiyle “Meteoroloji Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun” şeklinde, daha sonra 2/7/2018 tarihli ve 703 sayılı KHK’nin 79 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[3] 10/10/2011 tarihli ve 657 sayılı KHK’nın 16 ncı maddesiyle bu Kanunun 1, 2, 3, 6, 10, 14, 24, 25, 27, 29, 30, 32/B, 32/D maddelerinde geçen “Devlet Meteoroloji İşleri” ibareleri “Meteoroloji” şeklinde değiştirilmiştir.
+[4] Bu maddenin başlığı “Hava Tahminleri Dairesi Başkanlığı” iken, 10/10/2011 tarihli 657 sayılı KHK’nın 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[5] Bu maddenin başlığı “Zirai Meteoroloji ve İklim Rasatları Dairesi Başkanlığı” iken, 10/10/2011 tarihli 657 sayılı KHK’nın 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[6] Bu maddenin başlığı “Araştırma ve Bilgi İşlem Dairesi Başkanlığı” iken, 10/10/2011 tarihli ve 657 sayılı KHK’nın 23 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[7] Bu maddenin başlığı “Personel Dairesi Başkanlığı” iken, 10/10/2011 tarihli ve 657 sayılı KHK’nın 25 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[8] Bu maddenin başlığı “Savunma Uzmanlığı” iken, 10/10/2011 tarihli ve 657 sayılı KHK’nın 26 ncı maddesiyle metne işlendiği şekilde yeniden düzenlenmiştir.
+[9] Bu maddenin başlığı “Haberleşme araçlarından yararlanma” iken, 10/10/2011 tarihli ve 657 sayılı KHK’nın 27 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[10] Bu fıkrada yer alan “Başbakanın” ibaresi, 23/8/1991 tarih ve 447 sayılı KHK ile “Çevre Bakanının”, daha sonra ise 17/6/1992 tarih ve 3812 sayılı Kanunun 1 nci maddesi ile “Başbakanın” şeklinde değiştirilmiş ve metne işlenmiştir.
+[11] 2/7/2018 tarihli ve 703 sayılı KHK’nin 79 uncu maddesi ile bu fıkrada yer alan “Meteoroloji Genel Müdürlüğünün teklifi, Maliye ve Gümrük Bakanlığı ile Devlet Personel Başkanlığının olumlu görüşü ve Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
+[12] Bu maddenin başlığı “Uzman ve Uzman Yardımcılığı” iken, 10/10/2011 tarihli ve 657 sayılı KHK’nın 28 inci maddesiyle “Meteoroloji Uzmanlığı” şeklinde değiştirilmiş olup, daha sonra 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle metne işlendiği şekilde düzenlenmiştir.
+[13] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
+[14] Bu maddede yer alan kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 sayılı Resmi Gazete’ye bakınız.

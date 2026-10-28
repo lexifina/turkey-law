@@ -1,0 +1,3 @@
+BİRİNCİ KISIM
+Amaç, Görev, Teşkilat
+Madde 1 – (Mülga: 2/7/2018-KHK-703/79 md.)
