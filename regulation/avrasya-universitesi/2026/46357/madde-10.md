@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu; Müdürün başkanlığında, fizyoterapi ve rehabilitasyon alanı ile ilgili çalışmaları bulunan Üniversitede tam zamanlı olarak çalışan öğretim elemanları arasından Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilen üç üye olmak üzere toplam dört üyeden oluşur. Görev süresi biten üye aynı usulle tekrar görevlendirilebilir. Görevinden ayrılan üyenin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir.
+(2) Yönetim Kurulu, Müdürün daveti üzerine ayda en az bir kez üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır.
