@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/52282",
+  "submitted": "2026-10-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hilmi DURGUN",
+  "province": "Antalya",
+  "summary": "Antalya'nın Serik ilçesinde bulunan bazı mahallelerde yaşanan mülkiyet ve tapu sorununa ilişkin",
+  "status": "15 Günlük Cevaplanma Süresi Devam Ediyor",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f6358e9e-7395-4cfb-8279-01a19be2c887",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "a25f8f91b7fe78e5e6def829cc5dab69176b56b5c48f3a27bfea99cf9bd0980d",
+  "in_force": "2026-10-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
