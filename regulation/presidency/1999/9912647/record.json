@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-9912647",
+  "number": "9912647",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU KURUM VE KURULUŞLARINDA GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ ESASLARINA DAİR GENEL YÖNETMELİK",
+  "published": "1999-04-18",
+  "enacted": "1999-03-15",
+  "gazette_number": "23670",
+  "in_force": "2026-10-31",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 31/10/2026; source row: 30/10/2026 | 11947 | Ek Madde 5 | 31/10/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=9912647&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "8f69d7079cc2852c2607aa0a6baeabbfe6786f3b57193b52c60fc753557490de",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

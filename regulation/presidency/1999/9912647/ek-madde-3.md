@@ -1,0 +1,6 @@
+Ek Madde 3- (Ek: 21/9/2004-2004/8246 K.)[32]
+(Değişik birinci fıkra: 6/5/2013-2013/4957 K.) Bu Yönetmelik kapsamındaki personelin, en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanmaları, (…)32 bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yapılacak unvan değişikliği sınavı sonundaki başarısına göre gerçekleştirilir.32
+(Değişik birinci cümle: 17/10/2016-2016/9380 K.) Unvan değişikliği yazılı sınavları, kurumlarca belirlenecek görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda yaptırılır ve bu sınavlara katılacaklarda, kurumda veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz. (Ek cümle: 1/3/2010-2010/192 K.) Unvan değişikliği sınavı kapsamındaki görevlere, sadece kurumun kendi personeli başvurabilir.
+(Ek fıkra: 1/3/2010-2010/192 K.; Mülga fıkra: 17/10/2016-2016/9380 K.)
+(Ek fıkra: 1/3/2010-2010/192 K.) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.
+(Ek fıkra: 6/5/2013-2013/4957 K.) Unvan değişikliği sınavlarıyla ilgili iş ve işlemleri sınav kurulu yürütür.

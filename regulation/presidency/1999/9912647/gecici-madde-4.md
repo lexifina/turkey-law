@@ -1,0 +1,2 @@
+Geçici Madde 4 – (Ek: 21/5/2000 – 2000/1231 K.)
+399 sayılı Kanun Hükmünde Kararnameye tabi kamu iktisadi teşebbüsleri ve bağlı ortaklıkları, 657 sayılı Devlet Memurları Kanununa tabi personel ile sözleşmeli personeline ilişkin görevde yükselme yönetmeliklerini Devlet Personel Başkanlığının uygun görüşünü alarak en geç 2 ay içerisinde çıkarırlar. Bu Yönetmelikler, I, II ve III sayılı cetveldeki personelin görevde yükselme niteliğindeki atamalarıyla, cetveller arasındaki geçişlerde ilgili kadrolara atanmalarına ilişkin hususları kapsar.

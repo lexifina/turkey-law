@@ -1,0 +1,1 @@
+Geçici Madde 1 – Kurumlar bu Yönetmeliğin yürürlük tarihinden itibaren 6 ay içerisinde 15 inci maddede öngörülen yönetmeliklerini çıkarırlar. Bu konuya ilişkin olarak kurumlarca çıkarılmış bulunan yönetmelikler ise Devlet Personel Başkanlığının olumlu görüşü alınarak 6 ay içerisinde bu Yönetmeliğe uygun hale getirilir. Bu süre içinde mevcut hükümlerin uygulanmasına devam olunur.

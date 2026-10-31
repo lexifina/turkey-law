@@ -1,0 +1,2 @@
+Geçici Madde 12- (Ek: 17/10/2016-2016/9380 K.)
+Kurumlar, görevde yükselme ve unvan değişikliği yönetmeliklerini bu maddenin yürürlüğe girdiği tarihten itibaren en geç altı ay içerisinde Devlet Personel Başkanlığının uygun görüşünü alarak bu Yönetmeliğe uygun hale getirir. Kurum yönetmelikleri yürürlüğe konuluncaya kadar mevcut yönetmeliklerinin bu Yönetmeliğe aykırı olmayan hükümlerinin uygulanmasına devam edilir. Söz konusu yönetmelikler yürürlüğe konuluncaya kadar, bu Yönetmelik hükümleri çerçevesinde uygulama yapılır.

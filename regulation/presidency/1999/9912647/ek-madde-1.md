@@ -1,0 +1,2 @@
+Ek Madde 1 – (Ek: 21/5/2000 – 2000/1231 K.)
+Kurumlar aynı unvana veya bu unvanın bulunduğu aynı alt gruptaki diğer unvanlara veya daha alt unvanlara naklen atama yapabilir. Diğer personel kanunlarına tabi olanların 657 sayılı Devlet Memurları Kanununa tabi görevlere atanmalarında ihraz ettikleri unvanlar, aynı unvanın olmaması halinde öğrenim durumu ve ihraz ettiği unvanla birlikte atanacağı unvan ve Devlet Personel Başkanlığının olumlu görüşü dikkate alınır. İlk defa açıktan atamalarda bu Yönetmelik hükümleri uygulanmaz.

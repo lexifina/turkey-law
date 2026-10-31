@@ -1,0 +1,2 @@
+Geçici Madde 5 – (Ek: 21/5/2000 – 2000/1231 K.)
+Milli Savunma Bakanlığı, Genelkurmay Başkanlığı, Kuvvet Komtanlıkları, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Milli Güvenlik Kurulu Genel Sekreterliğinde 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapanların görevde yükselme niteliğindeki atamaları, bu Yönetmelik hükümleri çerçevesinde kendi mevzuatlarına göre çıkaracakları yönetmeliklere göre yapılır.

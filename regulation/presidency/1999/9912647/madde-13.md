@@ -1,0 +1,7 @@
+Sınav kurulu ve görevleri
+Madde 13 – (Değişik: 21/5/2000 – 2000/1231 K.)
+(Değişik birinci fıkra: 6/5/2013-2013/4957 K.) Kurumlarca yaptırılacak sınavlara ilişkin görevde yükselme işlemlerini yürütmek üzere beş kişiden oluşan sınav kurulu veya kurulları teşkil edilir. Sınav kurulu veya kurulları, atamaya yetkili amir veya görevlendireceği kişinin başkanlığında, atamaya yetkili amirce belirlenecek personel birimi temsilcisi veya temsilcileri ile diğer üyelerden teşekkül eder. İhtiyaç duyulması halinde kurum dışından kamu görevlileri arasından kurullara üye veya üyeler görevlendirilebilir. Sınav kurulunu teşkil eden üyeler görevde yükselme sınavına alınacak personelden, öğrenim ve ihraz ettikleri unvanlar itibarıyla daha düşük seviyede olamazlar.
+Sınav kurulunun başkan ve üyelerinin görevde yükselme sınavına eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve sıhri hısımlarının katıldığının tespit edilmesi halinde, bu üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine yeni üye veya üyeler görevlendirilir.
+(Değişik üçüncü fıkra: 6/5/2013-2013/4957 K.) Sınav kurulu; sınavların yapılması, sınav sonuçlarının ilanı, itirazların sonuçlandırılması ve sınavlara ilişkin diğer işleri yürütür.
+(Ek fıkra: 6/5/2013-2013/4957 K.) Sınav kurulu, üye tamsayısı ile toplanır. Kararlar oy çokluğuyla alınır.
+(Ek fıkra: 6/5/2013-2013/4957 K.) Kurumlar, gerekli görmeleri halinde taşra teşkilatında beş kişiden müteşekkil sınav kurulu veya kurulları oluşturabilir.
