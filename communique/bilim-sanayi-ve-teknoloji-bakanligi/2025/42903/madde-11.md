@@ -1,0 +1,1 @@
+MADDE 11- (1) 31/12/2024 tarihli ve 32769 beşinci mükerrer sayılı Resmî Gazete’de yayımlanan Türk Patent ve Marka Kurumunca 2025 Yılında Uygulanacak Ücret Tarifesine İlişkin Tebliğ (BİK/TÜRKPATENT: 2025/1) yürürlükten kaldırılmıştır.

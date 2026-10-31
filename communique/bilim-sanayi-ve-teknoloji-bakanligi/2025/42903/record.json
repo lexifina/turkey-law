@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33416",
+  "date_quote": "RG-31/10/2026-33416",
+  "first_law": null,
+  "gazette": "33124 (5. Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-10-31",
+  "in_force_basis": "latest source-printed Resmi Gazete amendment date (current consolidated text)",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-112-0.json",
+      "id": "112",
+      "label": "Bilim, Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=112&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2025-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=42903&MevzuatTertip=5",
+  "source_bytes": 308539,
+  "source_id": "9.5.42903",
+  "source_sha256": "93ef652eda597cd7a569de01abd4c6bf62f22258b57cd7c0bd0faf2284bba974",
+  "title": "TÜRK PATENT VE MARKA KURUMUNCA 2026 YILINDA UYGULANACAK\r\nÜCRET TARİFESİNE İLİŞKİN TEBLİĞ (BİK/TÜRKPATENT: 2026/1)",
+  "word_count": 6887
+}

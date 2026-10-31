@@ -1,0 +1,18 @@
+MADDE 5- (1) 10/1/2017 tarihinden önce yapılan coğrafi işaret başvuruları 6769 sayılı Kanunun geçici 1 inci maddesi uyarınca mülga 555 sayılı Coğrafi İşaretlerin Korunması Hakkında Kanun Hükmünde Kararname hükümlerine göre sonuçlandırılır. Bu kapsamda ödenmesi gereken ücretler 6769 sayılı Kanunun geçici 1 inci maddesi uyarınca talep edilir.
+(2) Coğrafi işaret ve geleneksel ürün adlarına ilişkin işlemlerle ilgili olarak ödenecek ücretlerin türü ve tutarı 3 sayılı cetvelde gösterilmiştir. Cetvelde yer alan;
+a) Coğrafi işaretler;
+1) Coğrafi işaret başvuru ücreti: 6769 sayılı Kanunun 37 nci maddesinin birinci fıkrasının (ı) bendi ile Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 35 inci maddesinin üçüncü fıkrasının (l) bendindeki ücreti,
+2) Coğrafi işaret tescil belgesi düzenleme ve sicil kayıt ücreti: 6769 sayılı Kanunun 41 inci maddesinin birinci fıkrasındaki, Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 41 inci maddesinin birinci fıkrasındaki ve mülga 555 Sayılı Coğrafi İşaretlerin Korunması Hakkında Kanun Hükmünde Kararnamenin Uygulama Şeklini Gösterir Yönetmeliğin 10 uncu maddesindeki ücreti,
+3) Coğrafi işaret tescil belgesi sureti düzenleme ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 134 üncü maddesinin ikinci fıkrasının (b) bendindeki ücreti,
+4) Coğrafi işaret sicil sureti düzenleme ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 135 inci maddesinin ikinci fıkrasındaki ve mülga 555 Sayılı Coğrafi İşaretlerin Korunması Hakkında Kanun Hükmünde Kararnamenin Uygulama Şeklini Gösterir Yönetmeliğin 12 nci maddesindeki ücreti,
+5) Coğrafi işaretin tescile konu özelliklerinde değişiklik talebi ücreti: 6769 sayılı Kanunun 42 nci maddesinin birinci fıkrası ile Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 42 nci maddesinin ikinci fıkrasının (ç) bendindeki ücreti,
+6) Coğrafi işaret başvurusu yapan veya tescil ettirende değişiklik talebi ücreti: 6769 sayılı Kanunun 43 üncü maddesinin ikinci fıkrası ile Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 43 üncü maddesinin altıncı fıkrasının (ç) bendindeki ücreti,
+7) Coğrafi işaret itiraz inceleme ücreti: Mülga 555 Sayılı Coğrafi İşaretlerin Korunması Hakkında Kanun Hükmünde Kararnamenin Uygulama Şeklini Gösterir Yönetmeliğin 8 inci maddesindeki ücreti,
+b) Geleneksel ürün adları;
+1) Geleneksel ürün adı başvuru ücreti: 6769 sayılı Kanunun 37 nci maddesinin ikinci fıkrasının (f) bendi ile Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 35 inci maddesinin dördüncü fıkrasının (h) bendindeki ücreti,
+2) Geleneksel ürün adı tescil belgesi düzenleme ve sicil kayıt ücreti: 6769 sayılı Kanunun 41 inci maddesinin birinci fıkrası ile Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 41 inci maddesinin birinci fıkrasındaki ücreti,
+3) Geleneksel ürün adı tescil belgesi sureti düzenleme ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 134 üncü maddesinin ikinci fıkrasının (b) bendindeki ücreti,
+4) Geleneksel ürün adı sicil sureti düzenleme ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 135 inci maddesinin ikinci fıkrasındaki ücreti,
+5) Geleneksel ürün adının tescile konu özelliklerinde değişiklik talebi ücreti: 6769 sayılı Kanunun 42 nci maddesinin birinci fıkrası ile Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 42 nci maddesinin ikinci fıkrasının (ç) bendindeki ücreti,
+6) Geleneksel ürün adı başvurusu yapan veya tescil ettirende değişiklik talebi ücreti: 6769 sayılı Kanunun 43 üncü maddesinin ikinci fıkrası ile Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 43 üncü maddesinin altıncı fıkrasının (ç) bendindeki ücreti,
+ifade eder.

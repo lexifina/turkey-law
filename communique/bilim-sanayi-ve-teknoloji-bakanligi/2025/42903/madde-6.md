@@ -1,0 +1,18 @@
+MADDE 6- (1) Tasarımlara ilişkin işlemlerle ilgili olarak ödenecek ücretlerin türü ve tutarı 4 sayılı cetvelde gösterilmiştir. Cetvelde yer alan;
+a) Birleşme, bölünme veya ayni sermaye koyma borcu gibi yapısal değişikliklere ilişkin işlem ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 125 inci maddesinin dördüncü fıkrasının (c) bendindeki ücreti,
+b) Devir işlemi kayıt ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 125 inci maddesinin birinci fıkrasının (b) bendindeki ücreti,
+c) İlave her tasarım için tasarım tescil başvuru ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 53 üncü maddesinin ikinci fıkrasındaki ücreti,
+ç) Lisans kayıt ve lisans yenileme ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 69 uncu maddesinin ikinci fıkrasının (c) bendindeki ücreti,
+d) Miras yoluyla intikal işlemi kayıt ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 129 uncu maddesinin birinci fıkrasının (c) bendindeki ücreti,
+e) Rehin işlemleri kayıt ve yayım ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 127 nci maddesinin birinci fıkrasının (b) bendindeki ücreti,
+f) Rüçhan hakkı belgesi düzenleme ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 53 üncü maddesinin dördüncü fıkrasındaki ücreti,
+g) Rüçhan hakkı kayıt ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 48 inci maddesinin ikinci fıkrasının (ı) bendindeki ücreti,
+ğ) Tasarım tescil başvuru ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 48 inci maddesinin ikinci fıkrasının (ı) bendindeki ücreti,
+h) Yayım erteleme talebi ücreti (her bir tasarım için): Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 48 inci maddesinin ikinci fıkrasının (ı) bendindeki ücreti,
+ı) Yayım ücreti (her bir 8x8 cm. alan için): Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 48 inci maddesinin ikinci fıkrasının (ı) bendindeki ücreti,
+i) Yenileme başvuru ücreti (ilave her bir tasarım için): Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 67 nci maddesinin ikinci ve üçüncü fıkralarının (b) bentlerindeki ücreti,
+j) Yenileme başvuru ücreti (tek tasarım için): Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 67 nci maddesinin ikinci fıkrasının (b) bendindeki ücreti,
+k) Tescil belgesi sureti veya sicil sureti düzenleme ücreti: Sınai Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğin 134 üncü maddesinin ikinci fıkrasının (b) bendindeki ve 135 inci maddesinin ikinci fıkrasındaki ücreti,
+l) 6 ay süre uzatımı ile yenileme başvuru ücreti (tek tasarım için): 6769 sayılı Kanunun 69 uncu maddesinin dördüncü fıkrasındaki ücreti,
+m) 6 ay süre uzatımı ile yenileme başvuru ücreti (ilave her bir tasarım için): 6769 sayılı Kanunun 69 uncu maddesinin dördüncü fıkrasındaki ücreti,
+ifade eder.
