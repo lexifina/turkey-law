@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.5572",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ BİLİRKİŞİLİK-EKSPERLİK-HAKEMLİK VE TEKNİK MÜŞAVİRLİK YÖNETMELİĞİ",
+  "number": "5572",
+  "issuer": "TMMOB Yönetim Kurulu",
+  "issuer_slug": "tmmob-yonetim-kurulu",
+  "path": "regulation/tmmob-yonetim-kurulu/1982/5572",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5572&MevzuatTertip=5",
+  "source_sha256": "e690f3612b91ba562090d85726ece7a117dd8c803c21e9df5fb95242dd0a4f82",
+  "source_bytes": 26124,
+  "published": "1982-01-06",
+  "gazette": "17566",
+  "in_force": "2026-10-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-31",
+      "RG-31/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1987-05-16",
+      "RG-16/5/1987",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik, Birlik yönetim kurulunun kabulü tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 912,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

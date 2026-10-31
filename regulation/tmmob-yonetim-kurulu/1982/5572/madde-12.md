@@ -1,0 +1,4 @@
+Madde 12- (Değişik:RG-31/10/2026-33416)
+Hakem başvurusu birlikte gerçekleştirilebileceği gibi taraflardan yalnızca biri de gerçekleştirebilir. Başvuru dilekçesinin Türk Mühendis ve Mimar Odaları Birliğine iletilmesiyle başvuru gerçekleştirilir.
+Başvuru ücreti, dosya başına 7.000,00-TL’dir. Başvuru ücreti, eksiklik sebebiyle dosyanın kapatılması hali dahil olmak üzere hiçbir surette iade edilmez ve yatırılmadığı takdirde ilgili başvuru işleme konulmaz. Başvuru ücretinin miktarı her yıl Türk Mühendis ve Mimar Odaları Birliği Yönetim Kurulunca yeniden değerlendirilerek ilan edilir.
+Bu maddede belirtilen başvuru ücreti ile 9 uncu maddeye göre belirlenen hakem ücreti, başvuru ile birlikte Birlik hesabına yatırılır. Hizmetin neticelenmesi üzerine 9 uncu maddeye göre belirlenen hakem ücretinin %50’si görevlendirilen kişi yahut heyete aktarılır, %50’si ise Birlik hissesi olarak alıkonur. Bilirkişilik istemlerinde de bu hüküm uygulanır.

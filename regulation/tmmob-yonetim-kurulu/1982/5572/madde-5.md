@@ -1,0 +1,2 @@
+İKİNCİ BÖLÜM Hizmetin Yürütülmesinde Uyulacak Esaslar
+Madde 5- Bu yönetmeliğin mali hükümlerini TMMOB Yönetim Kurulu her yıl yeniden düzenler ve ilan eder. Odalar, kendilerine karşı sorumluluklarını yerine getirmiş olan, tecrübeli ve uygun nitelikli üyeleri arasından seçtiği bilirkişilik, eksperlik ve hakemlik yapabilecek üyelerinin listesini hazırlayarak (Değişik ibare:RG-31/10/2026-33416) müracaatlarda kullanmak üzere dosyalar.
