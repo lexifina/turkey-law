@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Bilgi verme, denetim ve raporlama
+MADDE 12- (1) Fon tarafından veri ve bilgi talep edilmesi hâlinde, ilgili kurum ve kuruluşlar ve Kanunun 4 üncü maddesinin beşinci fıkrası kapsamında protokol imzalanan kuruluşlar, Yönetim Kuruluna sunulan projelere ilişkin talep edilen her türlü veri ve bilgiyi Fonun belirleyeceği şekil ve süreler içinde vermekle yükümlüdür.
+(2) Fonun talebi üzerine periyodik olarak veya ihtiyaç duyulan hâllerde Hazine ve Maliye Bakanlığı, bu Yönetmelik kapsamındaki Fonun tüm iş ve işlemlerini Hazine Kontrolörleri Kuruluna denetlettirebilir. Bu fıkra kapsamında Hazine Kontrolörleri Kurulunca her türlü bilgi, belge ve raporlar Fondan talep edilebilir. Bu fıkra kapsamındaki denetime ilişkin ek hususlar Bakanlıkça belirlenir.
+(3) Fondan kaynak aktarılan kamu kurum ve kuruluşlarının Fona ilişkin işlemleriyle ilgili denetim, söz konusu kamu kurum ve kuruluşlarının denetim birimleri tarafından gerçekleştirilir. Gerçekleştirilen denetimlere ilişkin raporların bir nüshası Fon yönetimine gönderilir.
+(4) Fon kaynakları ve aktarımlarına ilişkin mali veriler en geç altışar aylık dönemler hâlinde kamuoyuyla paylaşılır. Bu kapsamda kaynak aktarılan idareler gerekli her türlü bilgi ve belgeyi sağlamakla yükümlüdür. Bu çerçevede paylaşılacak mali verilerin içeriğinde en az Fonun gelirlerine ve her bir proje bazında aktarılan kaynak tutarına ilişkin bilgiler yer alır. Kamuoyuyla paylaşılacak mali verilere ilişkin usul ve esasları belirmeye Yönetim Kurulu yetkilidir.

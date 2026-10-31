@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-8166",
+  "number": "8166",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "AİLE VE GENÇLİK FONU YÖNETMELİĞİ",
+  "published": "2024-02-11",
+  "enacted": "2024-02-10",
+  "gazette_number": "32457",
+  "in_force": "2026-10-31",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 31/10/2026; source row: 30/10/2026 | 11946 | 6 | 31/10/2026",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=8166&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "6e3a467a635a8917fbdc2f63e690ca10c6b1306f6801cc5ca3592a5f18031df3",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

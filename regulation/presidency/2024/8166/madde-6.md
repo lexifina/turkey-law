@@ -1,0 +1,7 @@
+Toplantılar, gündem, karar alma ve tutanaklar
+MADDE 6- (1) (Değişik:RG-31/10/2026-33416-C.K-11946/1 md.) Yönetim Kurulu, Başkan ve en az iki üyenin katılımıyla toplanır ve en az aynı yöndeki üç oy ile karar alır, çekimser oy kullanılamaz.
+(2) Yönetim Kurulu toplantıları yılda en az iki kez yapılır. Yönetim Kurulu, Başkanın veya en az iki üyenin çağrısı üzerine de toplanabilir.[1]
+(3) Toplantının yeri, zamanı ve taslak gündemi sekretarya tarafından toplantıdan en az beş iş günü önce Başkan ve Yönetim Kurulu üyelerine bildirilir. Başkan ve Yönetim Kurulu üyeleri varsa gündeme eklenmesini istediği konuları sekretaryaya iletir. Öneriler de dikkate alınarak oluşturulan taslak gündem, toplantı başlangıcında görüşülüp Yönetim Kurulu tarafından kabul edilen maddeler üzerinden toplantı gerçekleştirilir.
+(4) Toplantılara, Başkan ve Yönetim Kurulu üyeleri ile sekretaryadan ilgilileri katılır. Sekretarya tarafından Yönetim Kurulu toplantılarına davet edilmeleri kaydıyla, proje sunacak kişiler ve ihtiyaç duyulması hâlinde görüşlerinden yararlanılacak uzman kişiler de toplantılara katılım sağlayabilirler.
+(5) Alınan kararlar tutanakla tespit edilir ve karar tutanağı toplantı bitiminde veya en geç toplantıyı izleyen beşinci iş günü sonuna kadar, toplantıya katılan Başkan ve Yönetim Kurulu üyeleri tarafından imzalanır.
+(6) Tutanak ve kararların aslı sekretarya tarafından saklanır. Tutanakların ve kararların bir örneği Yönetim Kurulu üyelerine gönderilir.
