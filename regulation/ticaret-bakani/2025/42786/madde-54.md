@@ -1,0 +1,2 @@
+Avrupa Ekonomik Alanı
+MADDE 54- (1) Avrupa Ekonomik Alanı Anlaşmasının Protokol 4’ü kapsamında Avrupa Ekonomik Alanı (AEA) menşeli eşya, sırasıyla Avrupa Birliği, İzlanda, Lihtenştayn veya Norveç’ten (AEA Tarafları), AEA Tarafları haricindeki bir başka Taraf ülkeye ihraç edildiğinde, ithalatı gerçekleştiren Taraf ülke ile AEA Tarafları arasında serbest ticaret anlaşmalarının varlığı şartıyla, Avrupa Birliği, İzlanda, Lihtenştayn veya Norveç menşeli kabul edilirler.

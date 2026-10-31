@@ -1,0 +1,3 @@
+Geçirgenlik
+MADDE 58- (1) 2012 kurallarına göre Ek V’te yer alan kümülasyonun mümkün olduğu Taraf ülkelerden biri menşeli kabul edilen ve Armonize Sistemin 1 inci, 3 üncü, 16 ncı (işlenmiş balıkçılık ürünleri bakımından) ve 25 ilâ 97 nci Fasıllarında yer alan eşya, 10 uncu madde kapsamında menşe kümülasyonuna tabi tutulabilir.
+(2) Birinci fıkrada belirtilen menşe kümülasyonunun uygulanabilmesi için eşyanın, 2012 kurallarına ilişkin mevzuat hükümlerine uygun olarak düzenlenmiş veya hazırlanmış bir menşe ispat belgesi eşliğinde ithal edilmiş olması ve 10 uncu maddenin uygulanmasıyla elde edilen ürünlerin ihracat tarihinde 36 ncı maddede belirtilen belge saklama süresinin sona ermemiş olması gerekir.

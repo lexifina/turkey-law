@@ -1,0 +1,7 @@
+Sonradan kontrol talebi
+MADDE 44- (1) İthalatı gerçekleştiren Taraf ülkenin gümrük idareleri altıncı bölümde belirtilen menşe ispat belgelerinin sonradan kontrolünü talep edebilirler.
+(2) İthalatı gerçekleştiren Taraf ülke gümrük idaresi, ihracatı gerçekleştiren Taraf ülkede düzenlenen veya hazırlanan menşe ispat belgelerinin gerçekliği, eşyanın gerçek menşeine ilişkin bilgilerin doğruluğu ya da bu Yönetmeliğin diğer gerekliliklerinin yerine getirildiği konusunda makul bir şüphesi olduğunda veya sondaj usulü ile yapacağı kontrol sonucunda anılan belgeleri, eğer ibraz edilmişse faturayı yahut bu belgelerin birer kopyalarını, gerektiğinde araştırmanın gerekçelerini de belirterek sonradan kontrol talebi ile birlikte ihracatı gerçekleştiren Taraf ülke gümrük idaresine geri gönderir. Menşe ispat belgesinde yer alan bilgilerin doğru olmadığı kanaatini uyandıran elde edilmiş tüm belge ve bilgi, kontrol talebini desteklemek üzere gönderilir.
+(3) İkinci fıkra hükümlerine tabi olarak EUR.1 dolaşım belgelerinin sonradan kontrol talebi, belgenin (13) numaralı bölümünün ithalatın gerçekleştiği Taraf ülkenin gümrük idaresi tarafından aşağıdaki şekilde doldurulması suretiyle gerçekleştirilir:
+a) EUR.1 dolaşım belgesini vize eden ve talebin muhatabı olan ihracatçı Taraf ülke gümrük idaresinin adı ve adresi yazılır.
+b) Talepte bulunan Taraf ülke gümrük idaresinin adresi ile talebin oluşturulduğu tarih yazılır.
+c) Talepte bulunan Taraf ülke gümrük idaresinin mührü veya kaşesi ile işlemi gerçekleştiren görevlinin imzası tatbik edilir.
