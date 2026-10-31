@@ -1,0 +1,72 @@
+{
+  "source_id": "9.5.41237",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2025-2027 YILLARINDA YAPILACAK BİTKİSEL ÜRETİME YÖNELİK DESTEKLEMELER İLE DİĞER BAZI TARIMSAL DESTEKLEMELERE ÖDEME YAPILMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2024/39)",
+  "number": "41237",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2024/41237",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=41237&MevzuatTertip=5",
+  "source_sha256": "20c3c6e1322bc7d607039b7309b800e66087a9ddbf0b9b742aafaae582b53080",
+  "source_bytes": 273984,
+  "published": "2024-12-31",
+  "gazette": "32769 (5. Mükerrer)",
+  "in_force": "2026-10-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/10/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-10-31",
+      "RG-31/10/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-10-31",
+      "31/10/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-01-01",
+      "1/1/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-12-30",
+      "RG-30/12/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-12-30",
+      "30/12/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-08-05",
+      "RG-5/8/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-08-05",
+      "5/8/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-01-01",
+      "1/1/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 15738,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.41237-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

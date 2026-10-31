@@ -1,0 +1,5 @@
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğ, ülkemizde bitkisel üretimi artırmak, verim ve kaliteyi yükseltmek, üretim maliyetlerinin karşılanmasına katkıda bulunmak, sürdürülebilirliği ve arz güvenliğini sağlamak, kayıtlılığı arttırmak, bitkisel üretimde kimyasal ilaç kullanımını azaltmak, insan sağlığının ve doğal dengenin korunması için çevreye duyarlı alternatif tarım tekniklerinin geliştirilmesini sağlamak, organik arı ürünleri üreticiliğini geliştirmek, tarımsal ürünlerin lisanslı depolarda sağlıklı depolama imkânına kavuşmasını sağlamak üzere gerçek ve tüzel kişiler ile tarımsal yayım ve danışmanlık sistemini çoğulcu, etkin ve verimli bir yapıya kavuşturmak üzere tarımsal işletmelere tarımsal danışmanlık hizmeti sunan kişi ve kuruluşlara destekleme yapılmasına ilişkin usul ve esasların belirlenmesi amacıyla hazırlanmıştır.
+(2) Bu Tebliğ, 28/8/2024 tarihli ve 8859 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 2025-2027 Yıllarında Yapılacak Bitkisel Üretime Yönelik Desteklemeler ile Diğer Bazı Tarımsal Desteklemelere İlişkin Kararda yer alan destekleme ödemelerine ilişkin usul ve esasları kapsar.

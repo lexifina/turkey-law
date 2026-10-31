@@ -1,0 +1,7 @@
+Temel destek
+MADDE 5- (1) İlgili üretim yılında, planlama kapsamındaki ürünleri Karar ekindeki listede yer alan havzalarda üreten çiftçilere (Değişik ibare:RG-30/12/2025-33123)1 ÇKS/ÖKS/KOBÜKS’e kayıtlı tarım arazisi dikkate alınarak Kararda Tablo 1’de belirtilen kategorilere göre hesaplanan tutar üzerinden destek ödemesi yapılır.
+(2) Planlama kapsamına alınmayan ürünlere ise havzaya bakılmaksızın Kararda Tablo 1’de belirtilen kategoriye göre hesaplanan tutar üzerinden destek ödemesi yapılır.
+(3) Bir üretim yılında aynı arazi üzerinde birden fazla ürün/üretim olması durumunda, sadece biri için ödeme yapılır. Destekleme ödemesinde, hesaplanan tutarı yüksek olan ürün/üretim esas alınır. (Ek cümle:RG-5/8/2025-32977)[2] Ancak ikinci ürün olarak soya üretilmesi durumunda, diğer ürün/üretimlerden tutarı yüksek olana yapılacak ödemeye ilave olarak, temel destek ödenir.
+(4) Tarım arazisinin aynı üretim yılında birden fazla çiftçi tarafından kullanılması halinde destekleme ilk üretimi yapan çiftçiye verilir. İlk üretimi yapan çiftçinin desteği talep etmemesi durumunda, takip eden ve müracaatı bulunan çiftçiye ödenir.
+(5) Nadas alanlarına Kararda belirtilen destek katsayısı ile destek katsayı değerinin çarpımı sonucu hesaplanan tutar üzerinden destek ödemesi yapılır.
+(6) (Ek:RG-30/12/2025-33123)1 Kapalı ortamda bitkisel üretim ünitelerinde üretim yapan kadın veya son takvim gününde 41 yaşından gün almamış çiftçilere, KOBÜKS’e kayıtlı kapalı ortamda bitkisel üretim (alçak tünel hariç) alanları için ayrıca 3 katsayı ile ilave temel destek ödemesi yapılır.

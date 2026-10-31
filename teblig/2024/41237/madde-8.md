@@ -1,0 +1,19 @@
+Biyolojik ve/veya biyoteknik mücadele desteği
+MADDE 8- (1) Biyolojik ve/veya biyoteknik mücadele yöntemleri ile üretim yapan üreticilere destekleme ödemesi yapılması için;
+a) Kapalı ortamda üretim yerinin ÖKS/KOBÜKS’te, açık alanda üretim yerinin ÇKS’de kayıtlı olması,
+b) Biyolojik ve/veya biyoteknik mücadelede kullandığı BKÜ’ye ait faturaya sahip olması,
+c) (Mülga:RG-31/10/2026-33416)[3]
+ç) Bitki koruma faaliyetlerinin zirai mücadele teknik talimatlarına ve entegre mücadele prensiplerine göre yapılmış olması,
+d) Kullanılmış olan BKÜ’nün etiket bilgilerine göre uygulanmış olması,
+e) Örtüaltı/Kapalı ortamda faydalı böcek kullanan üreticilerin seralarında giriş ve yan havalandırma açıklıklarının tül ile kapatılmış olması,
+f) (Değişik:RG-30/12/2025-33123)1 Örtüaltı/Kapalı ortamda yapılan bitkisel üretimde domates güvesine karşı mücadele amaçlı ruhsatlı BKÜ’nin etiket bilgilerine göre dekara kullanım miktarları üzerinden hesaplanmış olması,
+g) Üreticilerin zeytinde zeytin sineğine karşı biyoteknik mücadelede ruhsatlı olan feromon+tuzak desteğinden yararlanabilmeleri için bireysel olarak en az (Değişik ibare:RG-30/12/2025-33123)1 20 dekar (Ek ibare:RG-31/10/2026-33416)3 , 2027 yılında en az 10 dekar zeytinlik alanda biyoteknik mücadele yaptığını beyan etmesi,
+ğ) EK-19’da yer alan dilekçe ve bu maddenin (a), (b) ve (c) bentlerinde belirtilen hususları belgeleyen eklerle birlikte il/ilçe müdürlüğüne başvurması,
+gerekir.
+(2) (Değişik:RG-30/12/2025-33123)1 Bitkisel üretime arız olan zararlı organizmalara karşı biyolojik ve/veya biyoteknik mücadelenin yaygınlaştırılması ile kimyasal ilaç kullanımının azaltılması amacıyla kapalı ortamda ve açık alanda bitkisel üretimde, destekleme kapsamına alınan ürünler, zararlı organizmalar ve destekleme ödeme miktarları (Ek ibare:RG-31/10/2026-33416)3 üretim yılına ait EK-20’de yer alan destek birim tutarları üzerinden olmak üzere;
+a) Açık alanda turunçgil üretiminde akdeniz meyvesineğine karşı feromon+tuzak kullanımı için tahsis edilen ve tuzak kutusunun en az 5 yıl kullanma ömrü bulunmasından dolayı daha önceden tuzak kutusu olup, sadece feromon kullanan üreticilere de EK-20’de belirlenen tutar üzerinden sadece feromon desteklemesi yapılacak şekilde ödeme yapılır.
+b) Örtüaltı/Kapalı ortamda biyoteknik mücadelede; feromon+tuzak kullanan üreticilere ve domates üretiminde domates güvesine karşı sadece feromon kullananlara EK-20’de belirlenen tutar üzerinden destekleme yapılır.
+c) Açık alanda domates üretiminde biyoteknik mücadelede; feromon+tuzak kullanan üreticilere ve domateste domates güvesine karşı sadece feromon kullanan üreticilere EK-20’de belirlenen tutar üzerinden destekleme yapılır.
+(3) İlgili üretim yılı destekleme ödemesi için 1 Ocak tarihinden itibaren biyolojik ve/veya biyoteknik mücadele yapan üreticiler tarafından açık alanda yetiştirilen kayısı, ayva, armut, elma, bağ, domates, zeytin, turunçgil, nar, şeftali ve nektarin için 18 Ekim tarihine kadar, örtüaltı/kapalı ortamda yetiştirilen ürünler için ise 31 Aralık tarihi mesai bitimine kadar, başvuru dilekçesi ve destekleme ödemesi için gerekli şartların sağlandığını gösteren belgeler ile birlikte ÇKS ve/veya ÖKS/KOBÜKS kayıtlarının bulunduğu il/ilçe müdürlüğüne başvuru yapılır.
+(4) Destekleme ödemesinden faydalanmak amacıyla üretici tarafından beyan edilen belgelerin ve uygulama bilgilerinin birinci, ikinci ve üçüncü fıkralarda yer alan hususlara uygunluğu il/ilçe müdürlüğünce kontrol edilir ve EK-21’de yer alan Biyolojik ve/veya Biyoteknik Mücadele Desteği Tespit Tutanağı hazırlanarak üreticinin dosyasında muhafaza edilir.
+(5) (Ek:RG-31/10/2026-33416)3 Açık alanda, aynı üründe iki farklı zararlı organizma için ruhsatlı biyolojik ve biyoteknik mücadele ürünlerinin kullanılması durumunda, her iki zararlı organizma mücadelesi ayrı ayrı destek kapsamında değerlendirilir.
