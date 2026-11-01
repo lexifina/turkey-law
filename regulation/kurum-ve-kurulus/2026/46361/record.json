@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.46361",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BUZ HOKEYİ FEDERASYONU ANA STATÜSÜ",
+  "number": "46361",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2026/46361",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46361&MevzuatTertip=5",
+  "source_sha256": "c644649782f47e851dbeff4fc621d831703879b45c45ca4d9ebec2d7b34aa5dc",
+  "source_bytes": 154308,
+  "published": "2026-11-01",
+  "gazette": "33417",
+  "in_force": "2026-11-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.11.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11004,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+Delege listesi ve Genel Kurul hazırlık işlemlerine itiraz
+MADDE 30- (1) Geçici delege listesine ilan tarihinden itibaren beş gün içinde Yönetim Kuruluna ilgililer tarafından itiraz edilebilir. Delege listesine itiraz, Yönetim Kurulunca itiraz süresinin bitiminden itibaren iki gün içinde karara bağlanır ve aynı süre içinde Bakanlık ve Spor Federasyonu internet sitesinde ilan edilir. Bu karara karşı ilan tarihinden itibaren iki gün içinde Tahkim Kuruluna itiraz edilebilir. Tahkim Kurulu tarafından itirazın ulaştığı tarihten itibaren beş gün içinde kesin olarak karara bağlanır.
+(2) Kesinleşen delege listesi Bakanlık ve Spor Federasyonu internet sitesinde ayrıca ilan edilir.
+(3) Divan Kurulu oluşuncaya kadar Yönetim Kurulunun Genel Kurul işlemleriyle ilgili kararlarına karşı ancak Tahkim Kuruluna başvurulabilir.
