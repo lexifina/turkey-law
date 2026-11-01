@@ -1,0 +1,4 @@
+Mevcut hesapların yaş doğrulama süreci
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlük tarihinden önce açılmış ve yaş doğrulama belirteci kullanılarak doğrulama yapılmamış mevcut hesaplara, sosyal ağ sağlayıcısı tarafından 31/3/2027 tarihine kadar en az bir defaya mahsus olarak 7 nci madde kapsamında yaş doğrulama belirteci ile doğrulama yapılması zorunludur. Yaş doğrulaması sonucunda;
+a) Onbeş yaşını doldurmadığı tespit edilen çocukların mevcut hesapları bilgi verilerek kapatılır. Kapatılan hesaplara ilişkin veriler; 10 uncu maddede yer alan başvuru ve/veya itiraz mekanizmasının işletilmesi durumunda bunun sonuçlanmasını müteakiben, itiraz prosedürü işletilmez ise gecikmeksizin silinir.
+b) Onbeş yaşını doldurduğu tespit edilen çocukların mevcut hesapları, 8 inci maddede düzenlenen çocuklara özgü ayrıştırılmış hizmet esaslarına tabi kılınır.
