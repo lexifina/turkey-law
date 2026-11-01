@@ -1,0 +1,61 @@
+{
+  "source_id": "7.5.38956",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BASİT KONAKLAMA TESİSLERİ İLE PLAJ İŞLETMELERİNİN BELGELENDİRİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "38956",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2021/38956",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38956&MevzuatTertip=5",
+  "source_sha256": "010222c7461a2d3d7955a6feb69d36dc5823b1634b49a3be05f4166f0c5f9392",
+  "source_bytes": 42149,
+  "published": "2021-09-25",
+  "gazette": "31609",
+  "in_force": "2026-11-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/11/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-11-01",
+      "1/11/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2026-08-26",
+      "RG-26/8/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-08-26",
+      "26/8/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-07-28",
+      "RG-28/7/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-07-28",
+      "28/7/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1734,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38956-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
