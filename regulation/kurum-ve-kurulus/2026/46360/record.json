@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.46360",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BUZ PATENİ FEDERASYONU ANA STATÜSÜ",
+  "number": "46360",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2026/46360",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46360&MevzuatTertip=5",
+  "source_sha256": "1a8e7948d4aadc2234901042c07052d92a7fcdb5a764ff2266f552573c8007b0",
+  "source_bytes": 151800,
+  "published": "2026-11-01",
+  "gazette": "33417",
+  "in_force": "2026-11-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.11.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10907,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
