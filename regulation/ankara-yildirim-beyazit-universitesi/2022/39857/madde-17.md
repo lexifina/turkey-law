@@ -1,0 +1,2 @@
+Ders muafiyetleri
+MADDE 17- (1) Öğrencilerin, daha önce devam ettikleri bir yükseköğretim programında başarılı oldukları derslerden muaf olmaları ve diğer yükseköğretim kurumundan ve/veya uzaktan eğitim kurumundan alınan derslerin geçer notlarının bu Yönetmeliğe göre değerlendirilebilmesi için, AYBÜ’ye kayıt tarihinin başlamasını müteakip (Değişik ibare:RG-1/11/2026-33417)1 on iş günü içinde dekanlığa/müdürlüğe ilgili birimce talep edilen belgelerle başvurmaları gerekir.

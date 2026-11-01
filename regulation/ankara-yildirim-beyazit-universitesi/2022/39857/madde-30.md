@@ -1,0 +1,5 @@
+Kayıt dondurma
+MADDE 30- (1) Öğrencilerin, haklı ve geçerli mazeretlerinin bulunması veya öğrenimlerine katkıda bulunacak AYBÜ dışı burs, staj, araştırma ve benzeri imkânların ortaya çıkması halinde, kayıt dondurma talepleri Senato tarafından belirlenen esaslara göre ilgili kurullarca karara bağlanır.
+(2) (Değişik:RG-1/11/2026-33417)1 Kayıt dondurmak için başvurular, akademik takvimde belirtilen tarih aralığında yapılır. Öğrenciler, bir defada en fazla iki yarıyıl ve öğrenim süresi boyunca toplam en fazla dört yarıyıl kayıt dondurabilirler. Sağlık sebebiyle veya mahkûmiyet halinde bu süreyi aşan kayıt dondurma taleplerinde dört yarıyıldan fazla kayıt dondurulmasına ilgili yönetim kurulu tarafından karar verilebilir. Kayıt dondurma taleplerinde Senato tarafından belirlenen esaslara göre işlem yapılır.
+(3) Tecil hakkının kaybedilmesi veya tecilin kaldırılması suretiyle askere alınma hâlinde askerlik süresi boyunca kayıt dondurulur.
+(4) Kayıt dondurulan süre, azami öğrenim süresine dâhil değildir.

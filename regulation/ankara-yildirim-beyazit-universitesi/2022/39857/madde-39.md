@@ -1,0 +1,3 @@
+Özel öğrencilik
+MADDE 39- (1) Yurt içinde/dışında bir yükseköğretim kurumunda kayıtlı olup ilgili mevzuat hükümleri çerçevesinde kayıtları kendi üniversitelerinde kalmak şartıyla eğitimine AYBÜ’de özel öğrenci olarak devam etmek isteyen öğrenciler, ders almak istedikleri ilgili bölümün uygun görüşü ve ilgili yönetim kurulunun kararı ile gerekli şartları yerine getirerek AYBÜ’de özel öğrenci statüsünde ders alabilir. Bu öğrencilere, AYBÜ’nün ilgili mevzuat hükümleri uygulanır ve kayıt yaptırdıkları dersler için sadece not durum belgesi verilir.
+(2) AYBÜ’de kayıtlı olup diğer üniversitelerde özel öğrenci olarak öğrenim görmek isteyen öğrenciler için de işlemlerde aynı usul izlenir.

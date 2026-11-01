@@ -1,0 +1,5 @@
+Mezuniyet tarihi ve şartları
+MADDE 31- (1) İlgili mevzuat hükümlerine göre kayıtlı oldukları programların tüm yükümlülüklerini yerine getirerek mezuniyet için tamamlaması gereken asgari AKTS kredisini başarıyla tamamlayan ve AGNO’su 2.00 veya daha yüksek olan öğrenciler mezuniyete hak kazanır. Bu öğrencilerin en geç sonraki eğitim-öğretim dönemi başlamadan önce mezuniyet işlemleri tamamlanır.
+(2) Öğrencinin mezuniyet tarihi, başarılı olduğu son sınavın ÖİBS’ye işlenip onaylandığı tarihtir. Ancak bu tarihe kadar staj, endüstriye dayalı öğretim, bitirme ödevi, bitirme projesi, bitirme tezi, diploma çalışması, arazi çalışması ve benzeri sebeplerle mezun olamayan öğrenciler, bu çalışmalarının tamamlanarak kabul edildiği tarihte mezun olur.
+(3) Lisans programından mezuniyet hakkı kazanmadan önce, ön lisans diploması alarak AYBÜ’den ayrılmak isteyen öğrenciler için mezuniyet tarihi, ön lisans diploması almaya hak kazanılan yarıyılın başarılı olduğu son sınavın ÖİBS’ye işlenip onaylandığı tarihtir.
+(4) Mezuniyetleri, müteakip akademik yıla taşan öğrencilerin, o yarıyılın da katkı payını veya ikinci öğretim ücretini ödemeleri gerekir.

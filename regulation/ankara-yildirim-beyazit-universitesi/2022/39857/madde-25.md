@@ -1,0 +1,6 @@
+Ders başarı notu ve ilanı
+MADDE 25- (1) Bir dersteki başarı durumu ders başarı notu ile belirlenir. Ders başarı notu, öğrencinin yarıyıl içinde ara sınavlar, ödevler, uygulamalı çalışmalar ve benzerlerinde gösterdiği başarı ile yarıyıl/yıl sonu sınavının birlikte değerlendirilmesiyle elde edilir.
+(2) Başarı baraj notu en az 2.00’dir. En son hesaplanan AGNO’su 2.00’nin altında olan öğrenci başarısız duruma düşer. Başarısız öğrenciler, öncelikle başarısız oldukları dersleri almak zorundadırlar. Ayrıca öğrenciler istedikleri takdirde, başarılı oldukları diğer dersleri de tekrarlayabilir.
+(3) Yarıyıl/yıl sonu sınavı ve bütünleme sınavı sonuçları dersi veren öğretim elemanı tarafından akademik takvimde belirtilen süre içerisinde ÖİBS’ye girilerek öğrencilere ilan edilir.
+(4) Bulundukları yarıyıl/yıl sonu sınavı bitiş tarihi itibarıyla bütün derslerini almış ve başarmış olan öğrencilerden, ANO’su 3.00-3.49 arasında olanlar yarıyıl/yıl onur öğrencisi; 3.50-4.00 arasında olanlar yarıyıl/yıl yüksek onur öğrencisi sayılır. Bu öğrencilerin listesi yarıyıl/yıl sonunda ÖİBS’ye girilerek öğrenciye ilan edilir.
+(5) Yarıyıl/yıl sonu veya bütünleme sınavına girmeyen öğrenci yarıyıl/yıl içi çalışmalarına bakılmaksızın o dersten başarısız sayılır.

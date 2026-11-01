@@ -1,0 +1,3 @@
+Devam zorunluluğu
+MADDE 18- (1) İlk defa alınan veya devamsızlıktan dolayı başarısız olunup tekrar edilen teorik derslerin %30’undan, uygulama, laboratuvar ve benzeri çalışmaların %20’sinden fazlasına katılmayan öğrenci başarısız sayılır. Öğrencilerin devam durumları, derse giren öğretim elemanı tarafından izlenir. Devamsızlıkları sebebiyle sınava girme hakkı kazanamayan öğrencilerin listesi, yarıyıl/yıl sonu sınavından önce derse giren öğretim elemanı tarafından ÖİBS’de ilan edilir.
+(2) Devamsızlık haricinde bir sebepten başarısız olunup tekrar edilen derslerin teorik kısımlarına devam etme mecburiyeti yoktur.
