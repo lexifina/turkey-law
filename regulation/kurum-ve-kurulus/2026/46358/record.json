@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.46358",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE KAYAK FEDERASYONU ANA STATÜSÜ",
+  "number": "46358",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2026/46358",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46358&MevzuatTertip=5",
+  "source_sha256": "6c0df140413984f35d5ec5df34a3c930d5b5384b3cd153a8b3c9bc49fdd1452e",
+  "source_bytes": 152451,
+  "published": "2026-11-01",
+  "gazette": "33417",
+  "in_force": "2026-11-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.11.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10903,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
