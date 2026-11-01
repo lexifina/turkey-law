@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2026-11-01",
+  "issue": "33417",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜLER",
+  "title": "Türkiye Kayak Federasyonu Ana Statüsü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101.htm",
+  "index_sha256": "31c623d90ee3534fca556bf556f59742da0910b44a25c1d6d80cf3391c89a178",
+  "index_header": "1 Kasım 2026 ... 33417 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
