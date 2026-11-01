@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.46359",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CURLİNG FEDERASYONU ANA STATÜSÜ",
+  "number": "46359",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2026/46359",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46359&MevzuatTertip=5",
+  "source_sha256": "156c1874b5af0e9ff23ec4a00db13def77c2272492cb3e42453a9d5e57791ac7",
+  "source_bytes": 155595,
+  "published": "2026-11-01",
+  "gazette": "33417",
+  "in_force": "2026-11-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.11.2026)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11267,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
