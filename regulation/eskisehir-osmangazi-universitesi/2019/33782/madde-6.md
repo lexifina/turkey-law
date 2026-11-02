@@ -1,0 +1,6 @@
+Eğitim-öğretim programları
+MADDE 6 – (1) İlgili kurullar, diplomaya yönelik eğitim-öğretim programlarını, yükseköğretim yeterlilikler çerçevesinde belirlenen program yeterliliklerini sağlayan ve Senato tarafından belirlenen esaslar doğrultusunda hazırlar. Ders ve benzeri öğrenim türleri ile öngörülen dönem ve süreleri, ilgili kurulun önerisi ve Senato onayı ile belirlenir.
+(2) Müfredat, Senato tarafından uygun görülen forma göre akademik birimler tarafından düzenlenir, ilgili kurulların kararı ve Senato onayı ile kabul edilir.
+(3) Üniversitenin içinden veya dışından yapılacak yatay geçiş, çift anadal ve yandal işlemleri; Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri, YÖK kararları ve Senato tarafından belirlenen esaslar çerçevesinde yürütülür.
+(4) Akademik birimler, bu Yönetmelik hükümlerine bağlı kalarak Senato onayı ile uygulama usul ve esasları belirleyebilir.
+(5) Değişim programlarıyla yurt içi veya yurt dışı bir yükseköğretim kurumu arasında yapılan ikili anlaşmalar çerçevesinde, öğrenci değişim ve staj programları uygulanabilir. Bu programlar, Senato tarafından belirlenen esaslara göre yürütülür.

@@ -1,0 +1,4 @@
+Azami öğrenim süreleri
+MADDE 24 – (1) Öğrencilere ön lisans ve lisans öğrenimlerini tamamlamaları için tanınan azami süreler; açılması halinde yaz okulu ve hazırlık sınıfı hariç, ön lisans için dört yıl, lisans için yedi yıldır. Hazırlık sınıfı için azami süre iki yıldır. (Değişik son cümle:RG-19/8/2024-32637)(1) Lisans programında, toplam en az 165 AKTS, ön lisans programında ise toplam en az 60 AKTS değerindeki dersleri başarı ile tamamlamış olan öğrenci, son sınıf öğrencisi sayılır.
+(2) Azami süreler sonunda, son sınıf sayılmayan öğrencilerin Üniversite ile ilişiği kesilir.
+(3) (Değişik:RG-20/3/2022-31784) Azami eğitim öğretim süresi sonunda, mezuniyet koşullarını sağlayamayan son sınıf öğrencileri hakkında 2547 sayılı Kanunun 44 üncü maddesi uyarınca yapılacak işlemler Senato tarafından belirlenen usul ve esaslara göre yürütülür.

@@ -1,0 +1,8 @@
+Ders tekrarı
+MADDE 23 – (1) Bir dersin tekrarı, aşağıda belirtildiği şekilde yapılabilir:
+a) (Değişik:RG-19/8/2024-32637)(1) Bir dersten FF, YZ, DZ ve DÇ notu alan öğrenci, bu dersi, kendi müfredatındaki döneminde tekrar almak zorundadır. Öğrenci isteği halinde dersi veya eşdeğerini, açıldığı ilk yarıyılda da alabilir.
+b) (Değişik:RG-19/8/2024-32637)(1) Genel not ortalaması, 2.00’ın altında olup akademik yetersizlik uyarısı almış öğrenci, DD, DC harf notu aldığı dersi kendi müfredatındaki döneminde tekrar almak zorundadır. Öğrenci isteği halinde dersi veya eşdeğerini, açıldığı ilk yarıyılda da alabilir.
+c) Bir öğrenci, genel not ortalamasını yükseltmek amacı ile daha önce başarmış olduğu dersleri tekrar edebilir ve alınan en son not hesaba katılır.
+ç) Seçmeli bir dersten FF, DZ veya YZ alan öğrenci, o ders yerine programda aynı gruptaki başka bir seçmeli dersi danışmanın onayıyla alabilir.
+d) (Ek:RG-19/8/2024-32637)(1) Mezuniyet şartlarını sağlayan öğrenci azami öğrenim süresi içinde isteği halinde, genel not ortalamasını yükseltmek amacıyla yaz okulu veya takip eden ilk iki yarıyılda bu maddede belirtilen kapsamda ders tekrarı yapabilir. Bu haktan yararlanmak isteyen öğrencinin, mezuniyet işlemleri başlangıcına kadar Öğrenci İşleri Daire Başkanlığına dilekçe ile başvurması gerekir. Tek ders sınavına katılan öğrenci, bu haktan yararlanamaz.
+e) (Ek:RG-2/11/2026-33418) Öğrencinin eğitim planındaki mezuniyet grubunda yer alan eş değer derslerden FF, YZ veya DZ notu aldığı bir ders varsa, öğrenci yeni bir derse kayıt yaptırdığında bu yeni ders başarısız olduğu eş değer dersin yerine sayılır. Öğrencinin akademik uyarısı olması durumunda DC veya DD harf notu olan eş değer dersler için de aynı şekilde yerine sayma işlemi uygulanır.

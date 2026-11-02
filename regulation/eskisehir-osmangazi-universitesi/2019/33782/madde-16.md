@@ -1,0 +1,5 @@
+Derslere devam zorunluluğu
+MADDE 16 – (1) Öğrenci, teorik ders çalışmalarının %70’ine, laboratuvar ve uygulama çalışmalarının %80’ine devam etmek zorundadır. Öğrencilerin derslere devamları, dersi veren öğretim elemanı tarafından izlenir. İlgili yönetim kurulu ile görevlendirilen öğrenciler, izinli sayılır. Sağlık raporu, derslere devam yükümlülüğünü kaldırmaz.
+(2) 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanununun 29 uncu maddesi uyarınca, Türkiye’yi uluslararası seviyede yurt içi ve yurt dışında temsil eden öğrenciler için derslere devam koşulu aranmaz.
+(3) Derse devam koşulunu yerine getirmeyen öğrenciye, devam etmediği dersten DZ notu verilir. DZ notu, not ortalaması hesabında FF notu işlemi görür. DZ notu alan öğrenci, o dersin yarıyıl sonu sınavına giremez.
+(4) Dersi, DZ notu dışında tekrar etmek zorunda olan öğrencilerin, devam zorunluluğu öğretim elemanı tarafından belirlenir. Öğrenci, öğretim elemanının yarıyıl başında dersle ilgili belirleyeceği koşullara uymak zorundadır.

@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 19 – (1) Öğrenci, sınav sonuçlarının açıklanmasını izleyen ilk yedi iş günü içinde fakülte dekanlıklarına veya meslek yüksekokul müdürlüklerine vereceği dilekçeyle sınav sonuçlarına itiraz edebilir. İtiraz, dersi veren öğretim elemanının da içinde olduğu üç kişilik bir komisyon kurularak değerlendirilir. Eğer herhangi bir maddi hata tespit edilirse, not düzeltilmesi ilgili yönetim kurulu onayıyla yapılır.

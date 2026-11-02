@@ -1,0 +1,4 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Akademik izin (Kayıt dondurma) (Değişik Başlık:RG-19/8/2024-32637)(1)
+MADDE 27 – (1) Senato tarafından belirlenen haklı ve geçerli nedenlere uygun özrünü belgeleyen öğrenci, ilgili yönetim kurulu kararıyla her defasında bir yarıyılı geçmemek üzere ön lisans programında iki yarıyıla, lisans programlarında dört yarıyıla kadar akademik izinli sayılır. Bir yıl süreli hazırlık sınıflarında, akademik izin yıllık olarak verilir. Ancak sürekli sağlık sorunlarını bir sağlık kuruluşundan alınan heyet raporu ile belgeleyenler, bu süre kısıtlaması dışındadır. Bu şekilde izin alan öğrenci, derslere devam edemez ve öğrencilik haklarından yararlanamaz. Ders kaydı yaptıktan sonra akademik izinli sayılan öğrencinin ilgili dönemdeki derslerden kaydı silinir. Ani hastalık ve beklenmedik haller dışında, ilgili yarıyılın başlangıcından itibaren ilk dört hafta içinde yapılmayan akademik izin talepleri, işleme konulmaz.
