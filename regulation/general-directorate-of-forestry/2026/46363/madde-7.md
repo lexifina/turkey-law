@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Dağıtımın Belirlenmesine İlişkin Şartlar
+Dağıtım oranının belirlenmesi ve dağıtımın verilme şekli
+MADDE 7- (1) Hak sahiplerine yapılacak dağıtım oranı ile dağıtımın ayni veya nakdi verilme şekli, Genel Müdürlükçe her yıl dağıtıma konu cari yıla ait bilançonun sonuçlanmasını müteakip Bakan Olur’u alınarak belirlenir.
+(2) Dağıtıma konu cari yıl bilançosunun çıkarılması ve birinci fıkrada belirtilen Bakan Olur’unun alınmasını müteakip, işletme müdürlüğünce her bir orman köyü için dağıtım miktarları hesaplanarak belirlenir.
+(3) Belirlenen dağıtım miktarının yüzde ellisi, ilgili orman köyündeki hak sahipliği listesinde yer alanlara eşit olarak; kalan yüzde ellisi ise ilgili orman köyündeki aynı hak sahipliği listesinde yer alanlara, dağıtıma konu cari yılda ormancılık faaliyetlerinde kendi nam ve hesabına veya kooperatif ortağı olarak vahidi fiyatla yapmış oldukları çalışmalar karşılığında ödenen hakediş tutarları nispetinde hesaplanarak her bir hak sahibine ödenecek toplam tutar belirlenir.
+(4) Belirlenen toplam tutarlar Genel Müdürlüğün döner sermaye bütçesinden, işletme müdürlüğünce kanuni kesintiler yapıldıktan sonra hak sahiplerinin banka hesaplarına yatırılır.
+(5) Dağıtımın hak sahiplerine ayni olarak yapılmasına karar verilmesi halinde; dağıtıma ilişkin ihtiyaçlar Genel Müdürlüğün belirlediği çerçeve dahilinde işletme müdürlüğünce tespit edilir ve mer’i mevzuata uygun olarak satın alma işlemleri yapılarak ilgili orman köyündeki hak sahiplerine dağıtılır. Hak sahibine ayni olarak dağıtılacak araç gereç ve malzemelerin toplam bedeli, hak sahibi için hesaplanan nakdi dağıtım tutarından fazla olamaz.
+(6) Her bir hak sahibine yapılacak ayni ve/veya nakdi dağıtım tutarının yıllık toplam miktarı, dağıtıma konu cari yılda asgari ücret tespit komisyonunca belirlenen aylık net asgari ücretin bir aylık tutarını geçemez. Asgari ücret tespit komisyonunca dağıtıma konu cari yılda farklı tarihlerde birden fazla asgari ücret belirlenmesi durumunda, söz konusu aylık net asgari ücretlerin ortalaması alınır.
+(7) Yanık sahalardan elde edilen oduna dayalı orman ürünleri geliri dağıtıma konu edilemez.
+(8) Dağıtıma konu cari yıl içerisinde orman suçu sebebiyle hakkında suç zaptı tanzim edilenler hak sahibi olarak belirlenemez.
