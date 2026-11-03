@@ -1,0 +1,2 @@
+Kötü niyetli veya haksız dava açılmasında ücret
+MADDE 23- (1) Kötü niyetli davalı veya hiçbir hakkı olmadığı hâlde dava açan taraf, yargılama giderlerinden başka, diğer tarafın vekiliyle aralarında kararlaştırılan vekâlet ücretinin tamamı veya bir kısmını ödemeye mahkûm edilebilir. Vekâlet ücretinin miktarı hakkında uyuşmazlık çıkması veya mahkemece miktarının fahiş bulunması hâlinde, bu miktar doğrudan mahkemece 1136 sayılı Kanun ve bu Tarife esas alınarak takdir olunur.
