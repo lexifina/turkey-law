@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "33419",
+  "date_quote": "03.11.2026",
+  "first_law": null,
+  "gazette": "33419",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2026-11-03",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "issuer": "Kamu Kurum Niteliğindeki Meslek Kuruluşları",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-152-0.json",
+      "id": "152",
+      "label": "Kamu Kurum Niteliğindeki Meslek Kuruluşları",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=152&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "kamu-kurum-niteligindeki-meslek-kuruluslari",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2026-11-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46364&MevzuatTertip=5",
+  "source_bytes": 47877,
+  "source_id": "9.5.46364",
+  "source_sha256": "71d8eb08f696d3dc66add11c2c2c2d1d33101cdc150fb24bc228c2d741e20561",
+  "title": "AVUKATLIK ASGARİ ÜCRET TARİFESİ",
+  "word_count": 2514
+}

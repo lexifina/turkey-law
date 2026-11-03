@@ -1,0 +1,3 @@
+Danıştayda, bölge idare, idare ve vergi mahkemelerinde görülen dava ve işlerde ücret
+MADDE 15- (1) Danıştayda ilk derecede veya duruşmalı olarak temyiz yoluyla görülen dava ve işlerde, idari ve vergi dava daireleri kurulları ile dava dairelerinde, bölge idare, idare ve vergi mahkemelerinde birinci savunma dilekçesi süresinin bitimine kadar anlaşmazlığın feragat, kabul, davanın konusuz kalması ya da herhangi bir nedenle ortadan kalkması veya bu nedenlerle davanın reddine karar verilmesi durumunda bu Tarifede yazılı ücretin yarısına, diğer durumlarda tamamına hükmedilir.
+(2) Şu kadar ki, dilekçelerin görevli mercie gönderilmesine veya dilekçenin reddine karar verilmesi durumunda avukatlık ücretine hükmolunmaz.

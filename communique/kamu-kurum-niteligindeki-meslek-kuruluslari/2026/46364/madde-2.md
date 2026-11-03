@@ -1,0 +1,5 @@
+Avukatlık ücretinin kapsadığı işler
+MADDE 2- (1) Bu Tarifede yazılı avukatlık ücreti, dava dışındaki işler için hukuki yardım tamamlanıncaya, davada ise kesin hüküm elde edilinceye kadar olan bütün iş ve işlemler karşılığıdır. Avukat tarafından takip edilen dava veya işle ilgili olarak düzenlenen dilekçe ve yapılan diğer işlemler ayrı ücreti gerektirmez. Hükümlerin tavzihine ilişkin istemlerin ret veya kabulü halinde de avukatlık ücretine hükmedilemez.
+(2) Buna karşılık, icra takipleriyle, Yargıtay, Danıştay ve Sayıştayda temyizen ve bölge idare ve bölge adliye mahkemelerinde istinaf başvurusu üzerine görülen işlerin duruşmaları ayrı ücreti gerektirir.
+(3) Hangi sebeple olursa olsun, temyiz veya istinaf başvurusu üzerine verilen bozma veya kaldırma kararı sonrasında hükmolunan yargı kararlarında, hükmün verildiği tarihte yürürlükte olan Tarife esas alınır.
+(4) Temyiz başvurusu üzerine verilen bozma kararı sonrasında istinafta görülen duruşmalı işlerde, duruşma sayısına göre, bu Tarifenin ikinci kısmının ikinci bölümünün 18 inci sırasının (b) veya (c) bentlerine göre avukatlık ücretine hükmolunur.

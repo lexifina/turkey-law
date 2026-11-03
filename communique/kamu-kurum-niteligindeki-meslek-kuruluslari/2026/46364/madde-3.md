@@ -1,0 +1,3 @@
+Avukatlık ücretinin aidiyeti, sınırları ve ortak veya değişik sebeple davanın reddinde davalıların avukatlık ücreti
+MADDE 3- (1) Yargı yerlerince avukata ait olmak üzere karşı tarafa yükletilecek avukatlık ücreti, bu Tarifede yazılı miktardan az ve üç katından çok olamaz. Bu ücretin belirlenmesinde, avukatın emeği, çabası, işin önemi, niteliği ve davanın süresi göz önünde tutulur.
+(2) Müteselsil sorumluluk da dahil olmak üzere, birden fazla davalı aleyhine açılan davanın reddinde, ret sebebi ortak olan davalılar vekili lehine tek, ret sebebi ayrı olan davalılar vekili lehine ise her ret sebebi için ayrı ayrı avukatlık ücretine hükmolunur.
