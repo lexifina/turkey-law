@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-03",
+  "number_as_published": "meeting-11-03",
+  "year": 2026,
+  "title": "03.11.2026 185-207 2026 Kasım Ayı Meclis Karar Özetleri",
+  "decision_date": "2026-11-03",
+  "source": "https://www.soma.bel.tr/karar-detay/2026-kasim-ayi-meclis-karar-oezetleri/91",
+  "official_document": "https://www.soma.bel.tr/media/meclis_kararlari/1794221120206KasimAyiMeclisKararOzetleri.pdf",
+  "source_sha256": "fbe06097ec8473f46a99c8d06c5f4c7b996e73d9fac122caebf435121a5d1237",
+  "issuer": "Soma Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-11-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.11.2026; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.11.2026 185-207 2026 Kasım Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.soma.bel.tr/karar-detay/2026-kasim-ayi-meclis-karar-oezetleri/91"
+}
