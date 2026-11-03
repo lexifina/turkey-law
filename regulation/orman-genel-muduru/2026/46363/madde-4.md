@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Ayni dağıtım: Ormancılık faaliyetlerinde çalışanlarca kullanılan araç, gereç, ekipman, kişisel koruyucu donanım malzemeleri ile akaryakıt ve benzeri ekipman ve malzemeleri,
+b) Bakan: Tarım ve Orman Bakanını,
+c) Bakanlık: Tarım ve Orman Bakanlığını,
+ç) Dağıtım miktarı: Cari yılı içerisinde her bir orman köyünün mülki hudutları dahilinde, dikili satış dahil, istihsali yapılan oduna dayalı orman ürünlerinin satış gelirinden üretim giderleri düşüldükten sonra kalan miktarın aynı yıla ait dağıtım oranı ile çarpılması sonucu elde edilecek miktarı,
+d) Dağıtım oranı: 6292 sayılı Kanunun 10 uncu maddesinin birinci fıkrasına istinaden her yıl Bakan tarafından belirlenecek olan oranı,
+e) Genel Müdürlük: Orman Genel Müdürlüğünü,
+f) İstihsal: Oduna dayalı orman ürünü üretimini,
+g) İşletme müdürlüğü: Orman köyünde dağıtım yapmakla görevli orman işletme müdürlüğünü,
+ğ) İşletme şefliği: Orman köyünde dağıtım yapmakla görevli orman işletme şefliğini,
+h) Kanuni kesintiler: Muhtelif vergi mevzuatı gereği hak sahibinden yapılması zorunlu vergi kesintilerini, ilgili Tahsilat Genel Tebliğinde belirtilen tutar sınırı ve sorgulama süreleri dahilinde 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 22/A maddesine göre yapılacak vergi borcu sorgusuna istinaden hak sahibine ilgili tebliğde belirtilen sınır üzerinde borç çıkması durumunda yapılacak vergi borcu kesintisini, hak sahibi adına idareye tebligatı yapılmış icra, temlik-mahkeme kararı ve benzeri neticesinde kesilmesi zorunlu hale gelen tutarları,
+ı) Mülki hudut: 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanununun 2 nci maddesine göre belirlenen sınırlar esas alınarak, 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 31 inci ve 32 nci maddeleri kapsamında hak sahibi köylerin belirlenmesine esas raporların eki hudutnameler, yetkili kamu idarelerinden alınan belgeler, mahkeme kararları ve benzeri bilgi ve belgelerden yararlanılarak oluşturulan yerleşim yeri sınırlarını,
+i) Nakdi dağıtım: Her bir hak sahibine ödenen parasal tutarı,
+j) Oduna dayalı orman ürünleri: Devlet ormanlarındaki ağaç, ağaççık ve bunlardan elde edilen odun ürünlerini,
+k) Orman köyü: 18/3/1924 tarihli ve 442 sayılı Köy Kanununda belirtilen ve nüfusu 2000’in altındaki yerleşim yerlerinden; mülki sınırları içerisinde devlet ormanı olan köyler ile daha önce orman köyü iken 12/11/2012 tarihli ve 6360 sayılı On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunla mahalleye dönüşen yerleri,
+l) Ormancılık faaliyetleri: 6831 sayılı Orman Kanunu kapsamında ormanların idaresi ile ilgili olarak Genel Müdürlüğe verilen görev ve yetkiler çerçevesinde, vahidi fiyat ile yaptırılan her türlü ormancılık faaliyetlerini,
+m) Satış geliri: Bir takvim yılı içinde orman köyü mülki hudutları içerisinde, yanık sahalardan elde edilen orman ürünleri geliri hariç olmak üzere, istihsal edilen oduna dayalı orman ürünü miktarının, işletme müdürlüğünün aynı takvim yılı bilanço sonuçlarında oluşan satış ortalaması ile çarpımı sonucu elde edilen tutarı,
+n) Satış ortalaması: Üretime konu takvim yılının bilanço sonuçlarına göre; sınıf, boy, çap, kabuklu gibi ayrımlar yapılmadan tomruk, tel direk, maden direk, sanayi odunu, kağıtlık odun, lif-yonga odunu, sırık, yakacak odun ve benzeri ürün bazında o yıla ait ilgili orman işletme müdürlüğünün her türlü oduna dayalı ürünün satışına ait ortalama fiyatını,
+o) Üretim giderleri: Satış gelirine konu edilen aynı bilançodaki ürünlerin üretimi için ödenen ölçme, kesme, sürütme, yükleme, taşıma, istif, ardaklanmayı önleme, ilk madde ve malzeme alımı gibi giderlerin toplam tutarını,
+ö) Vahidi fiyat (Birim fiyat): 11/1/2011 tarihli ve 6098 sayılı Borçlar Kanunu eser sözleşme hükümlerine göre hizmet akdine bağlı olmaksızın kendi nam ve hesabına yapılan işlerde; metre, kilogram, metreküp, ster, hektar, adet gibi birimlere göre belirlenmiş birim işe verilen fiyatı,
+ifade eder.
