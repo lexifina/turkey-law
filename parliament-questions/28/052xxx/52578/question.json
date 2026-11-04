@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/52578",
+  "submitted": "2026-11-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali KARAOBA",
+  "province": "Uşak",
+  "summary": "Engelli öğretmen atamalarına ilişkin",
+  "status": "15 Günlük Cevaplanma Süresi Devam Ediyor",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/114f4dc5-2e9b-45ea-82a7-01a1aaa011aa",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "d1b48cb83ba6b5629b833f90484012517df478ccd4c35c8704cdf33a4bdf2e6f",
+  "in_force": "2026-11-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
