@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 13- (Ek:RG-17/10/2025-33050)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce 60 ıncı maddede belirtilen, Bakanlık uzatımı dahil tüm süreleri tükenen ve yapı ruhsatı veya işyeri açma ve çalışma ruhsatı almayan katılımcılara, 31/12/2025 tarihine kadar Bakanlığa başvurulması halinde, Bakanlık tarafından en fazla 31/3/2028 tarihine kadar süre verilebilir. Bakanlık tarafından verilen sürenin hesaplanmasında bu maddenin yürürlüğe girdiği tarih esas alınır. Süresi içinde başvuru yapılmayan süresi bitmiş tüm parsel tahsisleri OSB tarafından iptal edilir.

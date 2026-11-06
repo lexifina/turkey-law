@@ -1,0 +1,5 @@
+Organların ibra edilmemesi
+MADDE 91 – (1) Yönetim veya denetim kurulu üyelerinin ibra edilmemesi halinde, görev süreleri sona ermiş sayılır ve gündeme seçim ilave edilmiş sayılarak bu kurulların yeniden seçimi yapılır. İbra edilmeyen yönetim veya denetim kurulu üyeleri, bu organlara aynı genel kurulda tekrar seçilemezler.
+(2) Ayrıca, ibra edilmemeye mesnet teşkil eden hususların incelenmesi amacıyla hesap tetkik komisyonu oluşturulur veya yeni seçilecek denetim kurulu, hesap tetkik komisyonu olarak görevlendirilir. Hesap tetkik komisyonu, raporunu en geç 3 ay içinde yapılacak olağanüstü genel kurulda üyelerin bilgi ve onayına sunar.
+(3) Söz konusu raporun bir nüshası ibra edilmeyen yönetim veya denetim kurullarına verilerek savunma hakkı sağlanır.
+(4) İbra edilmeyen yönetim veya denetim kurulu üyeleri aleyhine hukuki sorumluluk davası açılabilmesi için, bu konuda genel kurulda karar verilmiş olması gerekir. Hesap tetkik komisyonunun raporunda konusu suç teşkil eden bir tespitin yapılması halinde, denetim kurulu, genel kurul karar tarihinden itibaren 1 ay içinde ilgililer hakkında suç duyurusunda bulunur.

@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.31245",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORGANİZE SANAYİ BÖLGELERİ UYGULAMA YÖNETMELİĞİ",
+  "number": "31245",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2019/31245",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31245&MevzuatTertip=5",
+  "source_sha256": "644292e27e5279091bc2cc1830c1c1b03ebb5db5d32857aa2c768229e7861c03",
+  "source_bytes": 382677,
+  "published": "2019-02-02",
+  "gazette": "30674",
+  "in_force": "2026-11-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/11/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-11-06",
+      "RG-6/11/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-11-06",
+      "6/11/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-10-17",
+      "RG-17/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-17",
+      "17/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-02-01",
+      "RG-1/2/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-02-01",
+      "1/2/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-09-05",
+      "RG-5/9/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-09-05",
+      "5/9/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-03-31",
+      "RG-31/3/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-03-31",
+      "31/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-05-27",
+      "RG-27/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-27",
+      "27/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 25898,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31245-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

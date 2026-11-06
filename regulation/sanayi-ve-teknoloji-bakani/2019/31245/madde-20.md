@@ -1,0 +1,3 @@
+Oy kullanma şekli
+MADDE 20 – (1) Genel kurulda oylamalar, el kaldırmak suretiyle yapılır. Ancak, genel kurula katılanların salt çoğunluğunun karar vermesi halinde, herhangi bir konuda gizli oylamaya başvurulur.
+(2) OSB organlarının belirlenmesine ilişkin olarak yapılacak seçimlerde, seçilecek sayıdan fazla aday olması halinde hücre ve sandık kullanılarak gizli oy ve açık tasnif usulü uygulanır. Oyların eşitliği halinde, divan başkanlığı tarafından kuraya başvurulur. Bu seçimlerin usul ve esasları, seçimin yapılacağı genel kurulda bulunan yapı kullanma izni almış katılımcıların salt çoğunluğunun alacağı karar doğrultusunda belirlenir.

@@ -1,0 +1,3 @@
+Özel OSB’lerde yer seçimi, imar planı ve değişiklikleri
+MADDE 45 – (1) Hazırlanan imar planı ve değişikliklerinde, belediye ve mücavir alan sınırları içinde belediyelerin, belediye ve mücavir alan sınırları dışında Valiliklerin uygun görüşü alınarak onama, askı, plana itiraz, itirazların değerlendirilmesi ve dağıtımı konusunda bu Yönetmeliğin 37 nci madde hükümleri uygulanır. Ancak özel mimari tasarım gerektiren özel OSB projeleri bu Yönetmelikte belirtilen yapılaşma koşullarına tabi değildir.
+(2) Özel mimari tasarım gerektiren özel OSB proje teklifleri; yer seçimine başvuru esnasında vaziyet planı ve avan projeleri ile birlikte Bakanlığa sunulur. Bakanlık bu tekliflerin yer seçimi komisyonunda projenin özelliklerine göre de değerlendirilmesini sağlar.

@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 12- (Ek:RG-5/9/2024-32653)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce 60 ıncı maddede belirtilen, Bakanlık uzatımı dahil tüm süreleri tükenen ve yapı ruhsatı veya işyeri açma ve çalışma ruhsatı almayan katılımcılara, (Değişik ibare:RG-1/2/2025-32800) 5/2/2025 tarihine kadar Bakanlığa başvurulması halinde, Bakanlık tarafından 3 yıl ilave süre verilebilir. Süresi içinde başvuru yapılmayan süresi bitmiş tüm parsel tahsisleri OSB tarafından iptal edilir.

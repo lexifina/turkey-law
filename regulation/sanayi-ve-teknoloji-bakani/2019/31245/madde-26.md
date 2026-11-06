@@ -1,0 +1,7 @@
+Yönetim kurulu toplantıları
+MADDE 26 – (1) Yönetim kurulu, salt çoğunluk ile toplanır ve karar alır. Oyların eşitliği halinde başkanın oyuna itibar edilir. Toplantılar en az ayda (Değişik ibare:RG-6/8/2019-30854) iki defa yapılır.
+(2) Toplantı çağrısı, başkan ve bulunmadığı zamanlarda başkan vekili tarafından yapılır.
+(3) Yönetim kurulu üyeleri şahsi menfaatleri ile alt ve üst soyu ile üçüncü derece dâhil kan ve kayın hısımları ile temsilcileri oldukları katılımcıların menfaatlerini ilgilendiren hususların görüşülmesi sırasında toplantıya katılamaz.
+(4) Geçerli bir mazereti olmadan üst üste yapılan üç toplantıya veya mazereti olsa dahi altı ay içinde yapılan toplantıların en az yarısına katılmayan üyeler üyelikten çekilmiş sayılır.
+(5) Yönetim kurulu toplantıları, OSB’de yapılır. Alınan kararlar, yönetim kurulu karar defterine işlenir. Verilen karara karşı olan üyeler, karşı olma sebeplerini kararın altına yazarak imzalar.
+(6) (Değişik:RG-6/8/2019-30854) Yönetim kurulunca karar alınması halinde, olağan ve olağanüstü müteşebbis heyet/genel kurul toplantı gündemlerine yönetim ve denetim kurulu ile OSBÜK temsilcilerinin yenilenmesine dair madde konulabilir. Müteşebbis heyet/genel kurul toplantısına katılanların salt çoğunluğunun kabul etmesi halinde (Değişik ibare:RG-16/4/2020-31101) yönetim ve denetim kurulu ile OSBÜK temsilcilerinin seçimi yapılabilir. Seçilen üyeler, kalan süreyi tamamlar.

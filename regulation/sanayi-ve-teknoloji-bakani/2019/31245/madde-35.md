@@ -1,0 +1,2 @@
+Yolluk
+MADDE 35 – (1) Genel idare giderleri için kredi kullanan OSB’lerde müteşebbis heyet, yönetim kurulu, denetim kurulu üyeleriyle OSB personelinin belediye sınırları dışına yapacağı geçici seyahatlerde yolluk bildirimleri, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre düzenlenir. Genel idare giderleri için kredi kullanmayan OSB’lerde harcırah miktarları OSB müteşebbis heyet/genel kurul tarafından belirlenir.

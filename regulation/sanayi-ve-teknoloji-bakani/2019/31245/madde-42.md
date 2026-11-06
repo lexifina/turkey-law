@@ -1,0 +1,9 @@
+Yapı ruhsatı, yapı kullanma izin belgesi ve işyeri açma ve çalıştırma ruhsatı
+MADDE 42 – (Değişik:RG-5/9/2024-32653)
+(1) Yürürlüğe giren imar planına göre arazi kullanımı, yapı ve tesislerin projelendirilmesi, inşası ve kullanımıyla ilgili yapı ruhsatı ve yapı kullanma izni 3194 sayılı Kanun ile ilgili yönetmeliklerde belirtilen hususlar çerçevesinde; işyeri açma ve çalışma ruhsatı ise ilgili mevzuat kapsamında OSB tarafından verilir ve denetlenir. (Ek cümle:RG-6/11/2026-33422) İş yeri açma ve çalışma ruhsatlarının çevrim içi sistemde elektronik ortamda imzalanması zorunludur.
+(2) Adres ve numaralamaya ilişkin işlemler ilgili mevzuat çerçevesinde OSB tarafından yapılır.
+(3) OSB tarafından verilen yapı ruhsatı, yapı kullanma izin belgesi ve iş yeri açma ve çalışma ruhsatı, yönetim kurulu başkanı veya vekili ile birlikte bir yönetim kurulu üyesi veya yetkilendirilmiş bölge müdürü tarafından imzalanır.
+(4) Yapının özelliği ve mahallin şartlarına göre OSB tarafından ek olarak istenen, ilgili mühendislerce hazırlanan proje, rapor ve belgeler Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından kabul ve tespit edilen çizim ve tanzim standartlarına, Türk Standardları Enstitüsünce hazırlanan standartlara ve ilgili tüm yönetmeliklere uygun olmak zorundadır.
+(5) İşyeri açma ve çalışma ruhsatının verilmesi sırasında işyeri açma ve çalışma ruhsatına ilişkin harçlar, OSB tarafından tahsil edilerek ilgili belediye veya il özel idaresi hesabına yatırılır.
+(6) İşyeri açma ve çalışma ruhsatı olmaksızın üretimde bulunulması veya ruhsata aykırı faaliyetin tespit edilmesi halinde işyeri açma ve çalışma ruhsatları ile ilgili mevzuatta belirtilen hususlara göre işlem tesis edilir.
+(7) OSB sınırları dahilinde yapılacak iş yeri açılışlarında ilgili vergi dairesi iş yeri açılış bilgisini OSB’ye bildirir.

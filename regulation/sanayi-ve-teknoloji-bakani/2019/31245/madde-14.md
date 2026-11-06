@@ -1,0 +1,5 @@
+Genel kurul çağrısının şekli
+MADDE 14 – (1) Olağan ve olağanüstü toplantılara çağrı; (Ek ibare:RG-16/4/2020-31101) kayıtlı elektronik posta sistemi, kargo, iadeli taahhütlü mektupla veya imza karşılığı yapılır.
+(2) Çağrı, toplantı gününden en az 15 gün önce yapılır. Toplantının yerini, gününü, saatini ve gündem maddelerini içeren çağrı ile birlikte; yönetim ve denetim kurulu faaliyet raporları, bilanço, gelir-gider veya kar/zarar hesabı, tahmini bütçe ve çalışma programı ile uygun görülen diğer bilgi ve belgeler gönderilir. Bu belgelerin bir sureti genel kurul toplantısında hazır bulundurulur. Olağanüstü toplantı çağrısında, yalnızca gündemle ilgili bilgi ve belgeler gönderilir.
+(3) Çağrıda, yapı kullanma izni almış katılımcıların dörtte birinin birinci toplantıya katılım sağlamadığı takdirde, yapılacak olan sonraki toplantının tarihi, saati ve yeri bildirilir. Toplantılar arasındaki süre 7 günden az, 15 günden fazla olamaz.
+(4) Sürelerin hesabında duyuru ve toplantı günü hesaba katılmaz.
