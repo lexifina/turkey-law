@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 28,
+  "legislative_year": 5,
+  "esas_no": "7/52740",
+  "submitted": "2026-11-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yasin ÖZTÜRK",
+  "province": "Denizli",
+  "summary": "Devlet korumasından ayrılan gençlere ilişkin",
+  "status": "15 Günlük Cevaplanma Süresi Devam Ediyor",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/bbdb2c1f-c19b-4c9f-93c1-01a1c0b314d8",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Yazili-Soru-Onergeleri",
+  "source_sha256": "2c38cfe02ad88fa23cab1d1dbfd3223aec42c27c53a572efeb43ca11e560cbb8",
+  "in_force": "2026-11-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
