@@ -1,0 +1,4 @@
+Komisyon tarafından incelenerek son şekli verilen çevresel etki değerlendirmesi raporu ve ilgili dokümanların Bakanlığa sunulması
+MADDE 13- (Değişik:RG-5/3/2026-33187)
+(1) Komisyon tarafından incelenerek son şekli verilen ÇED raporu, Bakanlıkça yeterlik verilmiş kurum/kuruluşlar tarafından komisyon toplantılarının sona erdirilmesinden sonraki 10 takvim günü içerisinde Bakanlığa sunulur. Belirtilen süre içerisinde ÇED raporu sunulmaz ise ÇED süreci sonlandırılır.
+(2) Sunulan raporda eksiklik tespit edilmesi durumunda rapor iade edilir. İade edilen rapordaki eksikliklerin iade tarihinden itibaren 60 takvim günü içerisinde tamamlanmaması halinde ÇED süreci sonlandırılır. Son şekli verilen ÇED raporunun tamamlanması için verilen 60 takvim günlük süre Bakanlıkça yeterlik verilmiş kurum/kuruluşların kullanacağı toplam süreyi ifade eder.

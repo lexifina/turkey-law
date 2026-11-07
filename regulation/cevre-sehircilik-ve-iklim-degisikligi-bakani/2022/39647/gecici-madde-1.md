@@ -1,0 +1,3 @@
+Geçiş süreci
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlük tarihinden önce, ÇED başvuru dosyası/proje tanıtım dosyası il müdürlüğüne ya da Bakanlığa sunulmuş projelere, bu Yönetmeliğin lehte olan hükümleri ve/veya başvuru tarihinde yürürlükte olan Yönetmelik hükümleri uygulanır.
+(2) (Ek:RG-5/3/2026-33187) 19/7/2025 tarihli ve 7554 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 1 inci maddesinin yürürlük tarihinden önce bu Yönetmeliğin Ek-2’sindeki liste kapsamında değerlendirilerek gerçekleşmesinde çevre açısından sakınca görülmediğine ilişkin karar verilmiş olup, karar geçerliği devam eden projelere, bu Yönetmeliğin dördüncü, beşinci ve altıncı bölümlerinde “ÇED Olumlu” kararı kapsamında belirtilen hükümler uygulanır.
