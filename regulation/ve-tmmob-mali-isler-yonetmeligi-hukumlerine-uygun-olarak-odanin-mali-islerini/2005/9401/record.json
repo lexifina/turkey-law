@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.9401",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ METEOROLOJİ MÜHENDİSLERİ ODASI ANA YÖNETMELİĞİ",
+  "number": "9401",
+  "issuer": "ve TMMOB Mali İşler Yönetmeliği hükümlerine uygun olarak, Odanın mali işlerini",
+  "issuer_slug": "ve-tmmob-mali-isler-yonetmeligi-hukumlerine-uygun-olarak-odanin-mali-islerini",
+  "path": "regulation/ve-tmmob-mali-isler-yonetmeligi-hukumlerine-uygun-olarak-odanin-mali-islerini/2005/9401",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9401&MevzuatTertip=5",
+  "source_sha256": "f3dbe9d4a7d425cf392e8aa5b089efde1ceece764cbdc684c93ccdd7239e3cb5",
+  "source_bytes": 159276,
+  "published": "2005-09-08",
+  "gazette": "25930",
+  "in_force": "2026-11-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/11/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-11-07",
+      "RG-7/11/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-11-07",
+      "7/11/2026",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8640,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
