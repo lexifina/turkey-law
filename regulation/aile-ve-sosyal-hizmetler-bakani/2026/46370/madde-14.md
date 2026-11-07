@@ -1,0 +1,4 @@
+Merkezin tanıtımı
+MADDE 14- (1) Merkezler; açılışı, hizmet alanları ve sundukları hizmetler ile ilgili konularda toplumu bilgilendirmek amacıyla tanıtım yapabilir ve ilan verebilir. Ayrıca ailelere ve bireylere koruyucu, önleyici ve geliştirici nitelikte bilgilendirme yapabilir. Ancak etik kurallara aykırı, insanları yanıltan, yanlış yönlendiren, bilimsel olarak doğrulanmamış uygulamalara dayalı, aile danışmanı dışında bir ünvan kullanarak tanıtım yapamazlar ve diğer merkezler aleyhine haksız rekabete neden olacak davranışlarda bulunamazlar.
+(2) Merkezler tanıtım faaliyetlerini yapacakları her türlü internet sitesi ve sosyal medya hesaplarını il müdürlüğüne bildirmekle yükümlüdür. İl müdürlüğüne bildirilmemiş hesaplar üzerinden merkezin tanıtımı yapılamaz.
+(3) Tanıtım faaliyetlerinde merkezler tarafından 6698 sayılı Kanunda yer alan hükümler çerçevesinde gerekli önlemler alınır.
