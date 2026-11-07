@@ -1,0 +1,3 @@
+Yabancı Mühendislerin Çalıştırılması
+Madde 86 — Kurum ve kişilerin, çalıştıracakları veya getirecekleri yabancı uyruklu metalurji mühendislerini Türkiye’de çalıştırabilmeleri için bunların sayısını, kimliğini, bitirdikleri üniversite, fakülte veya bölümü, eğer yurt dışından bir eğitim kurumu mezunu ise denklik belgesini, şimdiye kadar yaptıkları işleri, ne kadar süreyle ve hangi iş için bağlantı yaptıklarını, Türkiye’de verecekleri ücretleri, belgelerle bildirmeleri, bunların yalnız o işte çalışacaklarını taahhüt etmeleri gerekir.
+Çalışma izni verilen kişinin taahhüt ettiği iş dışında çalıştığı saptandığı takdirde geçici üyelik kaydı silinir, çalışma izninin iptali için gerekli işlemler yapılır, kendisi ve çalıştırdığı kurum hakkında yasal işlem başlatılır.

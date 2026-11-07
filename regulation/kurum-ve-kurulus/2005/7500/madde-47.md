@@ -1,0 +1,2 @@
+Oda Denetleme Kurulu
+Madde 47 — Oda Denetleme Kurulu, Oda Genel Kurulunda seçilen beş (5) asil ve beş (5) yedek üyeden oluşur. Altı (6) ayda bir yapılacak olan Şubeler ve Oda Genel Merkezi denetlemelerinde mazereti nedeniyle katılamayacağını yazılı olarak en geç beş (5) gün kadar önce belirten asil üye yerine sıra ile yedekler davet edilir. Bu yedekler yapılacak denetleme sonuçlanıncaya dek asil üye gibi görev yaparlar. Üst üste iki defa denetlemeye katılmayan asil üye istifa etmiş sayılır ve yerine yedek üye asil üye olarak göreve çağrılır.

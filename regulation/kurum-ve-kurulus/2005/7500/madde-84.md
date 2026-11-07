@@ -1,0 +1,3 @@
+Birlik Payı
+Madde 84 — Her dönem bütçesi giderler cetvelinde, Türk Mühendis ve Mimar Odaları Birliğine ödenmek üzere Birlik Hissesi adıyla bir ödenek konulması zorunludur.
+Birlik Hissesi, Birlik Yönetim Kurulunca önerilen ve Birlik Genel Kurulu tarafından onaylanan, Odaya kayıtlı üye sayısına göre her yıl üye başına saptanacak paylarla, Odanın büt-çesi üzerinden hesaplanacak paydan meydana gelir. Oda, Birlik Genel Kurulunca saptanacak payların onikide birini (1/12) her ayın ilk haftası sonuna dek peşin olarak öder. Kesin bütçe rakamlarını Şubat ayı sonuna kadar Birliğe bildirir. Kesinleşen payların kalanları Mart ayı sonunda ödenir.

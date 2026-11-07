@@ -1,0 +1,15 @@
+Oda Genel Kurulu
+Madde 15 — (Değişik:RG-20/12/2022-32049)
+Oda Genel Kurulunda TMMOB Genel Kurul Yönetmeliği uygulanır. Oda Genel Kurulu iki yılda bir Şubat ayı içerisinde Yönetim Kurulunca saptanacak tarihte ve yerde toplanır. Toplantı tarihinin, görüşmeler cumartesi akşamına kadar tamamlanacak ve pazar günü seçimler yapılacak şekilde saptanması zorunludur.
+Oda Genel Kurulu asıl delegeler ve doğal delegelerden oluşur. Delegelik hak ve yetkileri bir sonraki olağan genel kurula kadar geçerlidir. Delegeler olağanüstü genel kurullarda da görev yaparlar.
+a) Asıl delegeler toplam üye sayısının %4’ü oranında ve 250 kişiden çok olmamak üzere şube genel kurullarınca, şubelerin ve bölge temsilciliklerinin dışında kalan iller için ise Ankara’da Oda Yönetim Kurulunun görevlendirdiği Oda temsilcisinin nezaretinde ve Şube Genel Kurulu esaslarına uygun olarak yapılacak seçimlerle, üye sayısı oranına bağlı olarak seçilen delegelerdir.
+b) Oda Yönetim, Denetleme ve Onur Kurullarının asıl üyeleri ile Birlik Genel Kurulunda seçilen Birlik Yönetim, Denetleme ve Yüksek Onur Kurullarının Oda mensubu asıl üyeleri Genel Kurulun doğal delegeleridir.
+Oda Genel Kurulu, delege tam sayısının çoğunluğu ile toplanır. Birinci toplantıda çoğunluk sağlanamaması durumunda, yedi gün sonra yapılacak ikinci toplantı için çoğunluk aranmaz. Ancak ikinci toplantıya katılan delege sayısı, Oda Yönetim, Onur ve Denetleme Kurulu asil ve yedek üyeleri, Oda Mensubu Birlik Yönetim Kurulu asil ve yedek üyeleri, Yüksek Onur ve Denetleme Kurulu aday sayısı toplamının altında olamaz.
+Oda Genel Kurulu aşağıdaki esaslara göre toplantıya çağrılır:
+a) Oda Yönetim Kurulu, Genel Kurul toplantısından en az 15 gün önce, Genel Kurula katılacak delegelerin üçer kopya olarak hazırlanmış listelerini, toplantının gündemini, yerini, gününü, saatini ve çoğunluk sağlanamadığı takdirde yapılacak ikinci toplantıya ilişkin hususları belirten bir yazıyla birlikte görevli İlçe Seçim Kurulu Başkanlığına iletir.
+b) Genel Kurul toplantısına katılamayacağı belli olan delegelerin istifa yazıları da istenmesi durumunda görevli hakime iletilir.
+c) Gerekli incelemeden sonra hakim tarafından onaylanan listeler ile toplantıya ilişkin diğer hususlar, Odanın ve Birliğin ilan yerlerinde asılmak suretiyle ve üç gün süre ile ilan edilir.
+ç) Delege listesi hakim tarafından kesinleştirilir.
+d) Yasal sürecin tamamlanmasını ve listelerin kesinleşip Genel Kurula ilişkin diğer hususların onaylanmasını izleyen 3 gün içinde Yönetim Kurulu, Genel Kurulu delegelere duyurur ve ülke genelinde günlük bir gazetede ilan eder.
+e) Oda Yönetim Kurulu, Genel Kurul toplantısının düzenli bir şekilde yapılamayacağının anlaşılması durumunda toplantı başlamadan önce Genel Kurulu, ancak bir kez olmak ve iki ayı geçmemek üzere erteleyebilir. Bu durumda Oda Yönetim Kurulu, yeni Genel Kurulun tarihini ve yerini, görevli hakimin onayını da alarak belirler ve toplantı tarihinden en az 10 gün önce delegelere duyurur ve ülke genelinde günlük bir gazete ile ilan eder.
+Oda Genel Kurullarının seçimler hariç, sonuçlarıyla ilgili her türlü anlaşmazlık, Birlik Yönetim Kurulu tarafından kesin çözüme bağlanır.

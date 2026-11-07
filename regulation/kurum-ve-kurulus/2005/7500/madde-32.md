@@ -1,0 +1,2 @@
+Oda Yönetim Kurulunun Yedek Üyelerinin Kalmaması Durumu
+Madde 32 — Boşalan Yönetim Kurulu üyeliğine çağrılacak yedek üye kalmadığı takdirde Oda Genel Kurulu, Oda Yönetim Kurulu Başkanı ya da İkinci Başkan, bunlar yoksa Birlik Yönetim Kurulu tarafından olağanüstü toplantıya çağrılır. Bu toplantıda Yönetim Kurulu üyeleri tamamen yeniden seçilir. Yeniden seçilenler ilk Olağan Genel Kurul toplantısına kadar görev yapar.

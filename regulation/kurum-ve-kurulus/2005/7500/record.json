@@ -1,0 +1,47 @@
+{
+  "source_id": "7.5.7500",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ METALURJİ VE MALZEME MÜHENDİSLERİ ODASI ANA YÖNETMELİĞİ",
+  "number": "7500",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2005/7500",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7500&MevzuatTertip=5",
+  "source_sha256": "a65fdcfcf4367a01694a812884ba48f608bb1df6b4c03c55cfd738fa720c9e27",
+  "source_bytes": 137975,
+  "published": "2005-02-14",
+  "gazette": "25727",
+  "in_force": "2026-11-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/11/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-11-07",
+      "RG-7/11/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-20",
+      "RG-20/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-02",
+      "RG-2/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8518,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

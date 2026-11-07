@@ -1,0 +1,3 @@
+Şube Genel Kurulunun Toplanma Şekli
+Madde 54 — Şube Genel Kurulu üye tam sayısının salt çoğunluğu ile toplanır. Birinci toplantıda çoğunluk sağlanamaması durumunda, ikinci toplantı için çoğunluk aranmaz. Ancak, ikinci toplantıya katılan üye sayısı, Şube Yönetim Kurulu asil üye tamsayısının iki (2) katından az olamaz.
+Şube Yönetim Kurulu, Şube Genel Kurul toplantısının düzenli bir biçimde yapılamayacağının anlaşılması durumunda, yalnız bir kez olmak ve onbeş (15) günü geçmemek koşuluyla erteleyebilir. Bu durumda Şube Yönetim Kurulu, Şube Genel Kurulunun yeni tarihini ve yerini, görevli hakimin onayını da alarak belirler ve toplantı tarihinden en az on (10) gün önce ülke düzeyinde yayınlanan günlük bir gazete aracılığıyla üyelere duyurur.
