@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5- (1) Merkezin amacı; toplumun her kesiminin yaşam boyu öğrenim sürecinde yer alması için Üniversite adına yüz yüze, açık ve uzaktan elektronik ve karma yöntemler olmak üzere ön lisans, lisans ve lisansüstü programları dışında verilecek her türlü eğitim ve öğretim programı, kurs, seminer ve danışmanlık hizmeti düzenlemek ve Üniversite adına belgelendirmek, kongre, konferans, sempozyum ve çalıştay düzenlemek, yurt içi ve yurt dışı sınav organizasyonu yapmak, alan araştırmaları yapmak, ulusal ve uluslararası düzeyde proje hazırlamak ve yürütmek, faaliyet alanına giren her türlü eseri yayınlamak, meslek standartları geliştirmeye yönelik çalışmalar düzenlemek ve ulusal-uluslararası düzeyde Üniversite ile özel sektör ve diğer kamu kurum ve kuruluşları arasında iş birliğine dayalı olarak hizmet sunmaktır.
