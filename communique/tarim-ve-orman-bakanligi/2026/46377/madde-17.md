@@ -1,0 +1,27 @@
+Etiketleme
+MADDE 17- (1) Bu Tebliğ kapsamında yer alan ürünlerin etiketi hakkında, 26/1/2017 tarihli ve 29960 mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğinde yer alan hükümlere ilave olarak aşağıdaki hükümlere de uyulur:
+a) Bu Tebliğ kapsamında yer alan ürünlerin etiketinde gıdanın adı, temel görüş alanında yer alır.
+b) Eritme peynirinin etiketinde gıdanın adı, EK-5’in 3 üncü maddesinde tanımlanan x-yüksekliğinin en az 3 mm olduğu punto büyüklüğündeki karakterler kullanılarak temel görüş alanında belirtilir. Ancak en geniş yüzeyi 80 cm² den daha küçük olan ambalajlarda veya kaplarda x-yüksekliği en az 1,5 mm olarak uygulanır.
+c) Bu Tebliğ kapsamındaki ürünler, 4 üncü maddede tanımlanan ürün adlarına veya coğrafi işaret olarak tescil edilmiş adlarına göre piyasaya arz edilir. Bu şekilde bir adlandırma yoksa yöresel veya ülkesel adlarına uygun olarak piyasaya arz edilebilir.
+ç) Bu Tebliğ kapsamında yer alan peynirler, süt yağı miktarları açısından EK-3’e göre sınıflandırılır ve yağlılık sınıfı, etiket bilgilerinde ürün adıyla aynı yüzde ve aynı puntoda kolay görülebilecek şekilde belirtilir.
+d) Bu Tebliğ kapsamında yer alan peynirler, aşağıda belirtilen istisnalar hariç olmak üzere, olgunlaşma durumu açısından EK-2’ye göre sınıflandırılır ve bu durum etikette ürün adı ile birlikte belirtilir:
+1) 4 üncü maddenin birinci fıkrasının (cc) bendinde tanımlanan taze peynirlerin etiketinde olgunlaşma durumu belirtilmez.
+2) Eritme peynirlerinde, gıdanın adında veya etiketin herhangi bir yerinde “olgunlaştırılmamış” veya “taze” ibaresi yazılmaz.
+3) Olgunlaştırılmamış beyaz peynir ve kaşar peyniri için “olgunlaştırılmamış” ibaresi kullanılmadan “taze” ibaresi kullanılabilir.
+4) Tulum peyniri gibi olgunlaştırılarak piyasaya arz edilmesi zorunlu olan peynirlerde gıdanın adı ile birlikte “olgunlaştırılmış” ibaresinin yazılması zorunlu değildir.
+e) Peynirlerin etiketinde, “köy peyniri”, “geleneksel peynir”, “doğal peynir”, “çiftlik peyniri” gibi ibarelere/nitelemelere yer verilmez.
+f) Peynirlere uygulanan fiziksel işlem, etiket bilgilerinde belirtilebilir.
+g) Üretiminde çeşni maddesi kullanılan peynirlerin etiketinde çeşni maddesinin adı temel görüş alanında ürün adıyla birlikte belirtilir.
+ğ) Peynir üretiminde kullanılan sütün tek bir hayvan türüne ait olması durumunda hayvan türünün adı peynir adı ile birlikte belirtilebilir. Bu ürünlerde hayvan türünün görselleri etikette kullanılabilir.
+h) Peynir üretiminde farklı hayvan türlerine ait sütlerin karıştırılarak kullanılması durumunda kullanılan sütün elde edildiği hayvan türlerinin adları, ürün adının yanında “koyun, keçi ve inek sütlerinden üretilmiştir” gibi ibarelerle belirtilir. Ancak bu ürünlerin etiketinde inek, koyun, keçi gibi türlere ait görsellere yer verilmez.
+ı) (h) bendinde belirtilen durumda, gıdanın adının yanında belirtilecek hayvan türlerinin adları, gıdanın adıyla maksimum aynı puntoda, aynı renkte, aynı yazı tipinde, aynı stilde, arka plan rengi ile kontrast oluşturacak şekilde ve kullanılan sütün miktarına göre çoktan aza doğru sıralanarak belirtilmek zorundadır.
+i) Bu Tebliğ kapsamında olgunlaştırılarak piyasaya arz edilen peynirlerin etiketlerinde son tüketim tarihine ilave olarak gün/ay/yıl şeklinde üretim tarihi de belirtilir.
+j) Prosesinde pastörizasyona eşdeğer bir ısıl işlem bulunmayan çiğ sütten veya termizasyon işlemi uygulanan sütlerden üretilen ve telemesi haşlanmamış peynirlerin/telemelerin etiketlerinde “çiğ sütten üretilmiştir” ibaresi ürün adı ile aynı yüzde ve EK-5’in 1 inci maddesinde tanımlanan x-yüksekliğinin en az 3 mm olduğu punto büyüklüğündeki karakterler kullanılarak yazılır.
+k) EK-3’teki tabloda yer alan “az yağlı” sınıfında olan peynirlerde “az yağlı” ibaresinin yanında “yağı azaltılmış” veya benzeri ibareler kullanılabilir. Bu peynirlerin süt yağı miktarı etiketin ön yüzünde ürün adı ile birlikte EK-5’in 2 inci maddesinde tanımlanan x-yüksekliğinin en az 3 mm olduğu punto büyüklüğündeki karakterler kullanılarak “kuru madde de en çok % …. süt yağı içerir” şeklinde belirtilir.
+l) (c) ve (r) bentleri hükümleri saklı kalmak kaydıyla bu Tebliğ kapsamında yer alan ürünlerin etiketinde; peynirin piyasaya sunulduğu biçimine, üretim tekniğine, şekline ve kullanım amacına göre “sürülebilir”, “ultrafiltrasyon”, “üçgen”, “tost, pizza v.b. yapımında kullanılabilir” gibi ibareler, tek başına ürün adı olarak kullanılmaması, ürün adı algısı oluşturulmaması ve ürün adının yazıldığı puntodan daha büyük puntoyla yazılmaması kaydıyla kullanılabilir.
+m) En az yüz yirmi gün süre ile olgunlaştırılarak üretilen kaşar peynirlerinde “eski” ibaresi kullanılabilir.
+n) Yöresel/ülkesel adları ile bilinen peynirler, coğrafi işaretten doğan haklara aykırı olmamak kaydıyla bu isimlerle piyasaya arz edilebilir.
+o) Olgunlaştırılarak piyasaya arz edilen peynirlerin etiketinde olgunlaştırma süresi “üretim tarihinden itibaren en az … gün olgunlaştırılarak piyasaya arz edilmiştir” şeklinde belirtilir.
+ö) Küf kültürleri ile olgunlaştırılarak üretilen peynirlerin etiketinde “………. küf kültürleri kullanılarak olgunlaştırılmıştır.” ibaresi yer alır.
+p) Eritme peyniri; geleneksel ve yöresel peynirler ile coğrafi işaret/geleneksel ürün adı olarak tescil edilmiş peynirleri çağrıştıracak ve tüketiciyi yanıltacak şekilde üretilerek piyasaya arz edilemez.
+r) 4 üncü maddenin birinci fıkrasının (cc) bendinde tanımlanan taze peynirlerde, ürün adı olarak “taze peynir” ibaresi kullanılır.
