@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.38510",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR BAKANLIĞI YURT HİZMETLERİ YÖNETMELİĞİ",
+  "number": "38510",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2021/38510",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38510&MevzuatTertip=5",
+  "source_sha256": "32e7e58e852828d7e78f6596cb103749a2643b8961997ebc7a45fe23d0b6792d",
+  "source_bytes": 115886,
+  "published": "2021-04-09",
+  "gazette": "31449",
+  "in_force": "2026-11-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/11/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-11-10",
+      "RG-10/11/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-11-10",
+      "10/11/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-07-18",
+      "RG-18/7/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-07-18",
+      "18/7/2025",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2024-10-25",
+      "RG-25/10/2024",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2024-10-25",
+      "25/10/2024",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2023-04-20",
+      "RG-20/4/2023",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2023-04-20",
+      "20/4/2023",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6320,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
