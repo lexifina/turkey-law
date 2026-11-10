@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.21287",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE SAĞLIK ENSTİTÜLERİ BAŞKANLIĞI BÜNYESİNDE OLUŞTURULACAK BİLİM KURULLARI HAKKINDA YÖNETMELİK",
+  "number": "21287",
+  "issuer": "Türkiye Sağlık Enstitüleri Başkanı",
+  "issuer_slug": "turkiye-saglik-enstituleri-baskani",
+  "path": "regulation/turkiye-saglik-enstituleri-baskani/2015/21287",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21287&MevzuatTertip=5",
+  "source_sha256": "84716dad8e6636c9ff7e209b50f130c6636c6529baf7d1b4fc0653b7252ba6e3",
+  "source_bytes": 18094,
+  "published": "2015-12-18",
+  "gazette": "29566",
+  "in_force": "2026-11-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/11/2026\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2026-11-10",
+      "RG-10/11/2026",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2026-11-10",
+      "10/11/2026",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2025-10-18",
+      "RG-18/10/2025",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2025-10-18",
+      "18/10/2025",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 384,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
