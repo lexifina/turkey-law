@@ -1,0 +1,8 @@
+Ders planları, zorunlu ve seçmeli dersler, ön koşul dersleri
+MADDE 18- (1) Bir bölüm veya programın öğretim programında yer alan derslerin yarıyıllara göre dağıtıldığını göstermek amacı ile hazırlanan ders planları, ilgili bölüm başkanlığının önerisi, ilgili kurul kararı ve Senato onayı ile kesinleşir. Çift anadal ve yan dal ders planları da aynı usulle belirlenir.
+(2) Ders planlarında mezuniyet için gerekli toplam kredi yükü, toplam AKTS kredisi ve her dersin teorik saati (T), uygulama (U) ve laboratuvar (L) saatleri ile kredisi ve varsa ön koşul dersleri ile bitirme projesi alabilme koşulu da belirtilir.
+(3) Dersler, zorunlu ve seçmeli olmak üzere iki gruba ayrılır. Her öğrenci kayıtlı olduğu bölümün zorunlu dersleri ile programda gösterilen türde ve sayıda seçmeli dersi almakla yükümlüdür. Alınacak seçmeli dersler, öğrencinin ilgi alanı ve isteği göz önünde bulundurularak danışman yardımıyla belirlenir.
+(4) Not ortalamasına katılmayan dersler ile ara sınav ve yarıyıl sonu sınavı (final) gerektirmeyen diğer eğitim-öğretim çalışmaları ders planında belirtilir.
+(5) (Değişik:RG-23/10/2026-33409) Ön koşullu bir dersin alınabilmesi için ön koşul dersinin devam şartının yerine getirilmiş olması gerekir. Ön koşullu dersler ve ön koşul kriterleri, o dersi veren bölüm tarafından belirlenir ve ilgili bölümün bağlı bulunduğu fakülte veya meslek yüksekokulu kurulunun önerisi üzerine Senato tarafından onaylandıktan sonra kesinleşir.
+(6) (Mülga:RG-23/10/2026-33409)
+(7) (Ek:RG-23/10/2026-33409) YÖK’ün belirlediği esaslara uygun olmak kaydı ile Senato tarafından uygun görülen dersler kısmen ya da tamamen uzaktan öğretim yoluyla verilebilir.

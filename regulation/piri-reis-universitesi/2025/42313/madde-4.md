@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Avrupa Kredi Transfer Sistemi (AKTS) kredisi: Öğrencilerin o derse ilişkin hedeflenen öğrenme kazanımlarına ulaşabilmek için dersle ilgili olarak yaptıkları tüm pratik çalışmalar, seminerler, alan çalışmaları, bireysel çalışmalar, sınavlar gibi ders saati içinde ve ders saati dışındaki tüm iş yükünün sayısal değerini,
+b) (Değişik ibare:RG-23/10/2026-33409) Akademik Birim: Üniversiteye bağlı fakülte ve meslek yüksekokulunu,
+c) Bölüm/program: Üniversiteye bağlı birimlerin bölümlerini/programlarını,
+ç) Çift anadal programı (ÇAP): Başarı şartını ve diğer koşulları sağlayan öğrencilerin Üniversitenin iki diploma programından eş zamanlı olarak ders alıp iki ayrı diploma alabilmesini sağlayan programı,
+d) DNO: Dönem/Yarıyıl not ortalamasını,
+e) GNO: Genel not ortalamasını,
+f) (Değişik ibare:RG-23/10/2026-33409) İngilizce Hazırlık Bölümü: Üniversitenin İngilizce hazırlık bölümünü,
+g) İlgili kurul: Üniversiteye bağlı bölümlerde bölüm kurulunu, fakültelerde fakülte kurulunu ve meslek yüksekokullarında meslek yüksekokulu kurulunu,
+ğ) İlgili yönetim kurulu: Üniversiteye bağlı fakültelerde fakülte yönetim kurulunu, meslek yüksekokullarında meslek yüksekokulu yönetim kurulunu,
+h) İYS: Üniversitenin ingilizce yeterlilik sınavını,
+ı) Kredi: Ulusal kredi sistemi çerçevesinde belirlenen yerel krediyi,
+i) Mütevelli Heyeti: Piri Reis Üniversitesi Mütevelli Heyetini,
+j) Öğrenci İşleri Müdürlüğü: Üniversitenin Öğrenci İşleri Müdürlüğünü,
+k) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+l) Rektör: Piri Reis Üniversitesi Rektörünü,
+m) Senato: Piri Reis Üniversitesi Senatosunu,
+n) Üniversite: Piri Reis Üniversitesini,
+o) ÜYK: Üniversite Yönetim Kurulunu,
+ö) Yan dal programı: Üniversitede bir diploma programına kayıtlı öğrencinin öngörülen şartları taşıması kaydıyla başka bir diploma programı kapsamında belirli bir konuya yönelik sınırlı sayıda dersi almak suretiyle diploma yerine geçmeyen bir belge (yan dal sertifikası) alabilmelerini sağlayan programı,
+p) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

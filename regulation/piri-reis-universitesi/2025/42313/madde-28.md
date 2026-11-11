@@ -1,0 +1,8 @@
+Mazeret sınavları
+MADDE 28- (1) (Değişik:RG-23/10/2026-33409) Yarıyıl içi sınavlarına girmek zorunlu olup, yarıyıl içi sınavına girmeyen bir öğrenci bu sınavdan sıfır (0.00) almış sayılır. Ancak;
+a) Rektörlüğün onayı ile ülkemizi veya Üniversiteyi yurt içi ya da yurt dışında sportif, kültürel, bilimsel, sanatsal etkinliklerde temsil eden veya milli takımların sportif müsabakalarına ya da hazırlık çalışmalarına katılan öğrenciler,
+b) Devlet veya üniversite hastanelerinden alacakları istirahat raporuyla mazeretlerini belgeleyen veya ikinci dereceye kadar kan ve kayın hısımları vefat etmiş öğrenciler,
+c) İlgili yönetim kurullarınca kabul edilebilir ve öngörülemeyen nitelikte haklı mazereti olan öğrenciler,
+mazeretlerinin ispatına ilişkin belgelerini, sınav tarihinden itibaren azami üç iş günü içinde ilgili fakülte veya meslek yüksekokulu sekreterliklerine verecekleri bir dilekçe ekinde ibraz etmeleri ve (b) ve (c) bentleri kapsamındaki taleplerinin ilgili yönetim kurulunca uygun görülmesi şartıyla yarıyıl sınavları için mazeret sınavı hakkına sahiptir.
+(2) Yarıyıl sonu (final) sınavlarına girmek zorunludur. Yarıyıl sonu (final) sınavına girmeyen öğrenci başarısız olarak değerlendirilir ve (Değişik ibare:RG-23/10/2026-33409) FF harf notu alır. (Değişik cümle:RG-23/10/2026-33409) Birinci fıkra kapsamında belirtilen mazeretlerin ilgili yönetim kurulu tarafından kabul edilmesi halinde bütünleme sınavlarına katılamayan öğrencilere mazeret sınavı hakkı verilebilir. Bütünleme sınavının mazereti yapılmaz. Ancak birinci fıkrada sayılan mazeretleri ilgili yönetim kurulu tarafından kabul edilenler için mazeret sınavı hakkı verilebilir.
+(3) Not yükseltme sınavlarının ve ek mezuniyet sınavlarının mazereti yapılmaz.

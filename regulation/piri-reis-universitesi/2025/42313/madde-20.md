@@ -1,0 +1,10 @@
+Yarıyıl kredi yükü
+MADDE 20- (1) Bir öğrencinin bölüme/programa başlamasından itibaren kayıt yaptırdığı yarıyıl sayısı, o öğrencinin normal yarıyılını gösterir. Öğrencinin kayıt dondurduğu yarıyıllar öğrenim süresine dâhil edilmez.
+(2) (Değişik:RG-23/10/2026-33409) Bir öğrencinin yarıyıl başı normal ders yükü 30 AKTS’dir. Öğrenci, Üniversiteye kaydolduğu ilk yarıyıl dışında, alt yarıyıllardan başarısız olduğu dersleri almak şartıyla danışmanının onayı ile yarıyıl başına en fazla 40 AKTS’ye kadar ders alabilir. Bu öğrenciler üst yarıyıllardan ders alamazlar.
+(3) (Mülga:RG-23/10/2026-33409)
+(4) Dikey geçiş veya yatay geçiş ile gelen öğrencilerin intibakları, muaf oldukları derslerin toplam AKTS kredisine göre yapılır. Öğrenciler; 59 AKTS kredisini tamamlayana kadar birinci sınıf, 60-119 AKTS kredisini tamamladıklarında ikinci sınıf, 120-179 AKTS kredisini tamamladıklarında üçüncü sınıf, 180 ve üstü AKTS kredisini tamamladıklarında ise dördüncü sınıf öğrencisi olarak kabul edilir.
+(5) (Ek:RG-23/10/2026-33409) Üçüncü yarıyılın başından itibaren, başarısız dersi olmayan öğrenciler normal ders yükünün üstüne; GNO’su en az 2.25 olan öğrenciler bir ders, GNO’su en az 3.00 olanlar ise iki ders fazla alabilir.
+(6) (Ek:RG-23/10/2026-33409) Yatay ve dikey geçiş ile Üniversiteye kayıt olan öğrenciler, kaydoldukları ilk yarıyıl dışında öncelikle alt yarıyıllardan başarısız oldukları dersleri almak şartıyla danışmanlarının onayı ile yarıyıl başına en fazla 40 AKTS’ye kadar ders alabilirler.
+(7) (Ek:RG-23/10/2026-33409) Bir öğrenci akademik danışmanının onayı ve mali yükümlülüklerini tamamlamış olması şartıyla 30 AKTS’lik ders yükünün altında da ders alabilir.
+(8) (Ek:RG-23/10/2026-33409) En az 180 AKTS’yi tamamlayan lisans öğrencileri 45 AKTS’ye kadar ders alabilir. Ön lisans öğrencilerinden 60 AKTS’lik ders almış olanlar; 45 AKTS’ye kadar ders alabilir.
+(9) (Ek:RG-23/10/2026-33409) Denizcilik Fakültesinde öğrenim görmekte olan ve ilgili dönemde açılan açık deniz, birinci deniz, ikinci deniz stajlarına gidemeyen öğrenciler, ilgili fakülte yönetim kurulu kararı ile 40 AKTS’ye kadar ders alabilirler.
