@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-11",
+  "number_as_published": null,
+  "year": 2026,
+  "title": "Kasım 2026 Meclis 1. Toplantı Karar Özeti",
+  "decision_date": "2026-11-11",
+  "source": "https://samsun.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=1&limit=100",
+  "official_document": "https://samsun.bel.tr/uploads/documents/meclis-kararlari/Kas_m_Meclis_1._Toplant_Karar_zeti_1794401509724_t9ktxpuj9se.pdf",
+  "source_sha256": "b46a9fa9b508a808de2a10cb4d20e5e7f706487b71811db6d3e6f018132530e5",
+  "issuer": "Samsun Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2026-11-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 2026-11-11 (Karar Tarihi field of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council meeting (sitting): its decision summaries",
+  "official_page": "https://samsun.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/kasim-2026-meclis-1-toplanti-karar-ozeti-2026-11-11",
+  "posting_date_in_page_address": "2026-11-11"
+}
