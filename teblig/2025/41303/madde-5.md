@@ -1,0 +1,7 @@
+Uygulama
+MADDE 5- (1) Gümrük idareleri, 4 üncü maddede GTİP’i, eşya tanımı ve menşe ülkesi belirtilen eşyanın, diğer mevzuat hükümleri saklı kalmak kaydıyla, serbest dolaşıma giriş rejimi kapsamındaki ithalatında karşısında gösterilen oranlarda dampinge karşı kesin önlemleri tahsil eder.
+(2) Bilgilendirme Raporunda soruşturma konusu ürün ve benzer ürün ile ilgili açıklamalar genel içerikli olup uygulamaya esas olan yürürlükteki TGTC’de yer alan GTİP ve 4 üncü maddede bulunan tabloda yer alan eşya tanımıdır.
+(3) Önleme tabi ürünün yürürlükteki TGTC’de yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
+(4) Birinci fıkra kapsamındaki ithalatta, 12/2/2002 tarihli ve 24669 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2002/1) çerçevesinde gümrük idarelerince “Diğerleri” önlemine tabi firmalar dahil olmak üzere her bir firma için üretici belgesi aranır.
+(5) Bu Tebliğ kapsamındaki önlemler, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2022/12)’in yürürlük tarihinden itibaren 5 yıl sonra yürürlükten kalkar.
+(6) Yönetmeliğin 35 inci maddesi uyarınca bu Tebliğ kapsamındaki önlemlerin sona erme tarihinden önce bir nihai gözden geçirme soruşturması başlatıldığı takdirde önlemler, soruşturma sonuçlanıncaya kadar yürürlükte kalmaya devam eder.
