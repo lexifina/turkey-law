@@ -1,0 +1,2 @@
+Prim tahsilatında güvenlik tedbirleri
+MADDE 11 – (1) Mesafeli akdedilen sigorta sözleşmelerine ilişkin prim tahsilatında, 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanununa, 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanuna ve bu kanunların ikincil düzenlemelerine uygun süreçleri tasarlayarak gerekli ve yeterli güvenlik tedbirlerini sağlamakla yetkili kuruluşlar yükümlüdür.

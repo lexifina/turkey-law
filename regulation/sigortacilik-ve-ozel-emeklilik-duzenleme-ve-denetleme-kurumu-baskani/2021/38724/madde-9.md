@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Mesafeli Akdedilen Sigorta Sözleşmeleri [1]
+Mesafeli akdedilen sigorta sözleşmeleri
+MADDE 9 – (1) Uzaktan iletişim aracı vasıtasıyla mesafeli sigorta sözleşmesi akdeden ya da akdedilmesine aracılık eden yetkili kuruluşların gerekli ve yeterli organizasyon ile teknik alt yapıya sahip olması gerekir.
+(2) 14/2/2020 tarihli ve 31039 sayılı Resmî Gazete’de yayımlanan Sigorta Sözleşmelerinde Bilgilendirmeye İlişkin Yönetmelik hükümleri, mesafeli akdedilen sigorta sözleşmeleri hakkında da uygulanır.
+(3) Mesafeli akdedilen sigorta sözleşmelerinde de 6102 sayılı Kanunun 1424 üncü maddesinde öngörülen poliçe verme yükümlülüğü devam eder. 6102 sayılı Kanunun 1425 inci maddesine uygun olmak kaydıyla kalıcı veri saklayıcısı aracılığı ile poliçe verilebilir.
+(4) Yetkili kuruluşların kendi elektronik ticaret ortamları hariç olmak üzere mal ve hizmet pazarlaması veya satışı yapılan elektronik ticaret ortamlarında, (Değişik ibare:RG-12/11/2026-33428) 12/11/2026 tarihli ve 33428 sayılı Resmî Gazete’de yayımlanan Bütünleşik Sigortalar Hakkında Yönetmelik kapsamında sunulan sigortalar hariç olmak üzere, sigorta şirketi ile sigorta teminatı veren emeklilik şirketlerinin ürün ve faaliyetleri satışa sunulamaz. Ancak, yetkili kuruluşlar bu alanlara reklam ve ilan verebilir.
+(5) Sigortalının uzaktan iletişim aracını bizzat kullanarak mesafeli sigorta sözleşmesi akdetmesi esastır. Yetkili kuruluş haricindeki gerçek ve tüzel kişilere ait işyerlerinde, teknik personel olmayan kişilerce uzaktan iletişim aracı kullanılarak sigorta sözleşmesi akdedilmesine aracılık edilemez. Bu hükme aykırı davranılması yetkisiz aracılık faaliyeti olup, Kanunun 35 inci maddesi uyarınca cezai müeyyideye tabidir.

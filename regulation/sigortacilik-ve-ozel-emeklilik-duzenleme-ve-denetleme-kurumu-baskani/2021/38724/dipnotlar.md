@@ -1,0 +1,1 @@
+[1] 12/11/2026 tarihli ve 33428 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölüm başlığı “Mesafeli Akdedilen Sigorta Sözleşmeleri ile Mal ve Hizmet Satışı ile Bağlantılı Olarak Sunulan Sigortalar” iken metne işlendiği şekilde değiştirilmiştir.
