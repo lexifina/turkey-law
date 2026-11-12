@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Abonelik: Belirli mal veya hizmetin sürekli veya düzenli aralıklarla teminini,
+b) Bütünleşik sigorta: Mal satışı veya kiralanması ile hizmet satışının yapıldığı fiziki veya elektronik ortamda söz konusu mal, hizmet veya bunların finansmanı ile doğrudan bağlantılı risklerle sınırlı olarak alıcıya sunulan teminatları içeren sigortaları,
+c) Elektronik ticaret ortamı: 23/10/2014 tarihli ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanunda tanımlanan elektronik ticaret ortamını,
+ç) Emeklilik şirketi: 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununa göre kurulan ve bireysel emeklilik sisteminde faaliyet göstermek üzere emeklilik branşında ruhsat almış şirketi,
+d) Ev hayvanı: 24/6/2004 tarihli ve 5199 sayılı Hayvanları Koruma Kanununda tanımlanan ev hayvanını,
+e) Kalıcı veri saklayıcısı: Sigorta ettirenin, sigortalının veya sigortadan faydalanacak kişilerin gönderdiği ya da kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkân veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ile Sigorta Bilgi ve Gözetim Merkezi üzerinden veya e-Devlet üzerinden kurulacak yapı ve benzeri her türlü araç veya ortamı,
+f) Kanun: 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanununu,
+g) Kısa süreli kiralama: 15/8/2026 tarihli ve 33341 sayılı Resmî Gazete’de yayımlanan Motorlu Kara Taşıtlarının Kiralanması Hakkında Yönetmelikte tanımlanan kısa süreli kiralamayı,
+ğ) Kurul: Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunu,
+h) Kurum: Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumunu,
+ı) Paylaşımlı kiralama: Motorlu Kara Taşıtlarının Kiralanması Hakkında Yönetmelikte tanımlanan paylaşımlı kiralamayı,
+i) Reasürans şirketi: Türkiye’de kurulmuş reasürans şirketi ile yurt dışında kurulmuş reasürans şirketinin Türkiye’deki teşkilatını,
+j) Sigorta aracısı: Sigorta acentesi ve sigorta brokerini,
+k) Sigorta ettiren: Sigortacı ile sigorta sözleşmesi akdederek sigortalının menfaatini sigortacı nezdinde prim ödemek suretiyle teminat altına alan kişiyi,
+l) Sigorta şirketi: Türkiye’de kurulmuş sigorta şirketi ile yurt dışında kurulmuş sigorta şirketinin Türkiye’deki teşkilatını,
+m) Uzaktan iletişim aracı: Mektup, katalog, telefon, faks, radyo, televizyon, elektronik posta mesajı, kısa mesaj, internet, mobil uygulama, ATM gibi fiziksel olarak karşı karşıya gelinmeksizin bütünleşik sigortanın sunulmasına imkân veren her türlü araç veya ortamı,
+n) Yetkili kuruluşlar: Sigorta şirketini, sigorta teminatı veren emeklilik şirketini, sigorta aracısını ve bankalar ile özel kanunla kurulmuş ve kendisine sigorta acenteliği yapma yetkisi tanınan kurumları,
+ifade eder.

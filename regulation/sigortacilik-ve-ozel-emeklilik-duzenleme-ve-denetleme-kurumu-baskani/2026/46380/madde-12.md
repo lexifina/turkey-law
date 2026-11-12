@@ -1,0 +1,3 @@
+Prim tahsilatında güvenlik tedbirleri
+MADDE 12- (1) Bütünleşik sigortalara ilişkin prim tahsilatında, 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanununa, 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanuna ve ilgili mevzuata uygun süreçleri tasarlayarak gerekli ve yeterli güvenlik tedbirlerini sağlamakla yetkili kuruluşlar yükümlüdür.
+(2) Yetkili kuruluşlar, bütünleşik sigortaların sunulmasında kullanılan bilgi sistemleri ve entegrasyonların güvenliğinin sağlanmasından, işlem kayıtlarının tutulmasından ve ilgili mevzuata uygunluğundan sorumludur.

@@ -1,0 +1,4 @@
+Bilgilendirme ve poliçe verme yükümlülüğü
+MADDE 9- (1) Bu Yönetmelik kapsamında sunulan sigortalar için 14/2/2020 tarihli ve 31039 sayılı Resmî Gazete’de yayımlanan Sigorta Sözleşmelerinde Bilgilendirmeye İlişkin Yönetmelik hükümleri uygulanır.
+(2) Bu Yönetmelik kapsamında sunulan sigortalar için 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 1424 üncü maddesinde öngörülen poliçe verme yükümlülüğü devam eder. 6102 sayılı Kanunun 1425 inci maddesine uygun olmak kaydıyla kalıcı veri saklayıcısı aracılığı ile poliçe verilebilir.
+(3) Sigorta şirketi veya sigorta teminatı veren emeklilik şirketi, sigorta sözleşmesinin kurulmasından önce sigorta ettireni, kullanılan uzaktan iletişim aracına uygun olarak işlemin gerçekleştirildiği ticaret ortamı hakkında bilgilendirir ve kimliğinin doğrulanması ile beyanının tespit edilmesine veya kayıt altına alınmasına imkân sağlayan güvenli bir yöntemle sigorta ettirenin onayını alır.
