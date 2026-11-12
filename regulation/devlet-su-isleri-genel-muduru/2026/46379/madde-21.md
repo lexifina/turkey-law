@@ -1,0 +1,2 @@
+Naklen atama
+MADDE 21- (1) Diğer kamu kurum ve kuruluşlarında görevli personel, bu Yönetmelikte belirtilen aynı ünvana, bu ünvanla aynı düzeydeki veya daha alt düzeydeki diğer ünvanlara, söz konusu ünvanlar için aranan toplam hizmet süresi, öğrenim ve diğer belgelere sahip olma şartlarını taşımak kaydıyla genel hükümlere göre naklen atanabilir. Diğer personel kanunlarına tabi olanların bu Yönetmelik kapsamındaki görevlere atanmalarında ihraz ettikleri ünvan, aynı ünvanın bulunmaması halinde öğrenim durumu, ihraz ettikleri ünvanla birlikte ilgili mevzuatı dikkate alınır.
