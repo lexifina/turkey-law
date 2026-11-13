@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Türkiye hukuku, git geçmişi olarak</text>
+<rect x="564.4" y="24.5" width="166" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="647.2" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">28 Eki 2026 tarihine kadar</text>
+<rect x="738.1" y="24.5" width="118" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="797.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">güncellik: eskimiş</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1.013</text>
+<text x="40.0" y="106" font-size="12" fill="#9198a1">mevzuat metni</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">2.361</text>
+<text x="206.4" y="106" font-size="12" fill="#9198a1">değişiklik, commit olarak</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">39.848</text>
+<text x="372.8" y="106" font-size="12" fill="#9198a1">hüküm dosyası</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">684</text>
+<text x="539.2" y="106" font-size="12" fill="#9198a1">yazar: mevzuat ve yayımcı</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1947–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#9198a1">yıllık geçmiş</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Yürürlüğe girdiği yıla göre değişiklikler</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
+<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#9198a1">200</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">400</text>
+<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#9198a1">600</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">800</text>
+<rect x="81.10" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1947: yürürlüğe giren değişiklik: 1</title></rect>
+<text x="113.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1950</text>
+<rect x="204.44" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1960: yürürlüğe giren değişiklik: 1</title></rect>
+<text x="208.6" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1960</text>
+<rect x="280.34" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1968: yürürlüğe giren değişiklik: 1</title></rect>
+<text x="303.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1970</text>
+<text x="398.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1980</text>
+<rect x="403.68" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1981: yürürlüğe giren değişiklik: 1</title></rect>
+<rect x="413.16" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1982: yürürlüğe giren değişiklik: 2</title></rect>
+<rect x="422.65" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1983: yürürlüğe giren değişiklik: 1</title></rect>
+<rect x="451.11" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1986: yürürlüğe giren değişiklik: 1</title></rect>
+<rect x="460.60" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1987: yürürlüğe giren değişiklik: 3</title></rect>
+<rect x="470.09" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1988: yürürlüğe giren değişiklik: 1</title></rect>
+<rect x="479.58" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1989: yürürlüğe giren değişiklik: 1</title></rect>
+<text x="493.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1990</text>
+<rect x="517.52" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1993: yürürlüğe giren değişiklik: 3</title></rect>
+<rect x="536.50" y="329.0" width="8.29" height="1.5" rx="1.5" fill="#2ea043"><title>1995: yürürlüğe giren değişiklik: 3</title></rect>
+<rect x="574.45" y="328.6" width="8.29" height="1.9" rx="1.5" fill="#2ea043"><title>1999: yürürlüğe giren değişiklik: 10</title></rect>
+<rect x="583.94" y="328.8" width="8.29" height="1.7" rx="1.5" fill="#2ea043"><title>2000: yürürlüğe giren değişiklik: 9</title></rect>
+<text x="588.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
+<rect x="593.43" y="323.6" width="8.29" height="6.9" rx="1.5" fill="#2ea043"><title>2001: yürürlüğe giren değişiklik: 37</title></rect>
+<rect x="602.91" y="323.2" width="8.29" height="7.3" rx="1.5" fill="#2ea043"><title>2002: yürürlüğe giren değişiklik: 39</title></rect>
+<rect x="612.40" y="319.2" width="8.29" height="11.2" rx="1.5" fill="#2ea043"><title>2003: yürürlüğe giren değişiklik: 60</title></rect>
+<rect x="621.89" y="320.6" width="8.29" height="9.9" rx="1.5" fill="#2ea043"><title>2004: yürürlüğe giren değişiklik: 53</title></rect>
+<rect x="631.38" y="306.3" width="8.29" height="24.2" rx="1.5" fill="#2ea043"><title>2005: yürürlüğe giren değişiklik: 129</title></rect>
+<rect x="640.86" y="316.2" width="8.29" height="14.2" rx="1.5" fill="#2ea043"><title>2006: yürürlüğe giren değişiklik: 76</title></rect>
+<rect x="650.35" y="314.8" width="8.29" height="15.8" rx="1.5" fill="#2ea043"><title>2007: yürürlüğe giren değişiklik: 84</title></rect>
+<rect x="659.84" y="312.9" width="8.29" height="17.6" rx="1.5" fill="#2ea043"><title>2008: yürürlüğe giren değişiklik: 94</title></rect>
+<rect x="669.33" y="322.8" width="8.29" height="7.7" rx="1.5" fill="#2ea043"><title>2009: yürürlüğe giren değişiklik: 41</title></rect>
+<rect x="678.81" y="316.1" width="8.29" height="14.4" rx="1.5" fill="#2ea043"><title>2010: yürürlüğe giren değişiklik: 77</title></rect>
+<text x="683.0" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2010</text>
+<rect x="688.30" y="301.8" width="8.29" height="28.7" rx="1.5" fill="#2ea043"><title>2011: yürürlüğe giren değişiklik: 153</title></rect>
+<rect x="697.79" y="303.9" width="8.29" height="26.6" rx="1.5" fill="#2ea043"><title>2012: yürürlüğe giren değişiklik: 142</title></rect>
+<rect x="707.28" y="293.4" width="8.29" height="37.1" rx="1.5" fill="#2ea043"><title>2013: yürürlüğe giren değişiklik: 198</title></rect>
+<rect x="716.76" y="307.1" width="8.29" height="23.4" rx="1.5" fill="#2ea043"><title>2014: yürürlüğe giren değişiklik: 125</title></rect>
+<rect x="726.25" y="321.7" width="8.29" height="8.8" rx="1.5" fill="#2ea043"><title>2015: yürürlüğe giren değişiklik: 47</title></rect>
+<rect x="735.74" y="326.0" width="8.29" height="4.5" rx="1.5" fill="#2ea043"><title>2016: yürürlüğe giren değişiklik: 24</title></rect>
+<rect x="745.23" y="327.3" width="8.29" height="3.2" rx="1.5" fill="#2ea043"><title>2017: yürürlüğe giren değişiklik: 17</title></rect>
+<rect x="754.71" y="326.2" width="8.29" height="4.3" rx="1.5" fill="#2ea043"><title>2018: yürürlüğe giren değişiklik: 23</title></rect>
+<rect x="764.20" y="326.2" width="8.29" height="4.3" rx="1.5" fill="#2ea043"><title>2019: yürürlüğe giren değişiklik: 23</title></rect>
+<rect x="773.69" y="326.2" width="8.29" height="4.3" rx="1.5" fill="#2ea043"><title>2020: yürürlüğe giren değişiklik: 23</title></rect>
+<text x="777.8" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
+<rect x="783.18" y="326.8" width="8.29" height="3.8" rx="1.5" fill="#2ea043"><title>2021: yürürlüğe giren değişiklik: 20</title></rect>
+<rect x="792.66" y="325.1" width="8.29" height="5.4" rx="1.5" fill="#2ea043"><title>2022: yürürlüğe giren değişiklik: 29</title></rect>
+<rect x="802.15" y="326.8" width="8.29" height="3.8" rx="1.5" fill="#2ea043"><title>2023: yürürlüğe giren değişiklik: 20</title></rect>
+<rect x="811.64" y="326.4" width="8.29" height="4.1" rx="1.5" fill="#2ea043"><title>2024: yürürlüğe giren değişiklik: 22</title></rect>
+<rect x="821.13" y="327.9" width="8.29" height="2.6" rx="1.5" fill="#2ea043"><title>2025: yürürlüğe giren değişiklik: 14</title></rect>
+<rect x="830.61" y="189.3" width="8.29" height="141.2" rx="1.5" fill="#2ea043"><title>2026: yürürlüğe giren değişiklik: 753</title></rect>
+<text x="834.8" y="183.3" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">2026 yılında 753</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">Yürürlük gününe göre tarihlenen değişiklik: 2.361. Geçmiş türü: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Eksiksizlik, resmî kaynaklara göre denetlendi (12 Kas 2026)</text>
+<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Anayasa</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">depoda mevcut</text>
+<g><title>Anayasa: %100</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">%100</text>
+<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">Temel kanunlar</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">mevcut temel kanun payı</text>
+<g><title>Temel kanunlar: %100</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">%100</text>
+<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">Ulusal mevzuat</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">tahmin (orta güven, aralık %95,0–100,0)</text>
+<g><title>Ulusal mevzuat: %100</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">~%100</text>
+<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Bölgesel mevzuat</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">yasama yetkili bölge yok</text>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">uygulanmaz</text>
+<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">İçtihat</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">kapsanan yüksek mahkemeler</text>
+<g><title>İçtihat: %0</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">%0</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Mevcut içeriğin doğruluğu</text>
+<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Yürürlük tarihli değişiklikler</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">değişiklik payı</text>
+<g><title>Yürürlük tarihli değişiklikler: %100</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">%100</text>
+<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Resmî kaynaklı değişiklikler</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">commit'te Source satırı ya da bağlantı</text>
+<g><title>Resmî kaynaklı değişiklikler: %43</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="39.3" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">%43</text>
+<text x="40.5" y="684.5" font-size="13" fill="#f0f6fc">Resmî kaynakla denetlendi</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#9198a1">Mevzuat Bilgi Sistemi</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">28 Eki 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">Bu ülkenin global-law derlemleri</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">ulusal mevzuat: 1</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">1</text>
+<text x="24" y="736" font-size="11.5" fill="#9198a1">lexifina/turkey-law (58fe0ce), oluşturulma 2026-11-13. Dokümantasyon commit'leri hariç. Kapsam: from 1947-05-14</text>
+</svg>
