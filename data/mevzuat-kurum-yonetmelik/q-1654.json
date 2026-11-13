@@ -1,0 +1,38 @@
+[
+  {
+    "number": "20238",
+    "folder": "regulation/trade/2014/20238",
+    "title": "ÖN ÖDEMELİ KONUT SATIŞLARI HAKKINDA YÖNETMELİK",
+    "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20238&MevzuatTertip=5",
+    "published": "2014-11-27",
+    "gazette": "29188",
+    "in_force": "2022-10-01",
+    "in_force_basis": "Latest amendment published in Resmi Gazete 31913 on 2022-08-04; source footnote (1) states commencement on 2022-10-01.",
+    "latest_amendment": "2022-08-04",
+    "first_law": null,
+    "history": "current-text",
+    "source_sha256": "0b0e5f553ca7724ad42a01ee8f25dbc60c30eda9e1b9dfe2f26f0b70b5e3f7e1",
+    "source_words": 2173,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0
+  },
+  {
+    "number": "46363",
+    "folder": "regulation/general-directorate-of-forestry/2026/46363",
+    "title": "ORMANCILIK FAALİYETLERİNDE VAHİDİ FİYATLA ÇALIŞAN ORMAN KÖYLÜLERİNE YAPILACAK AYNİ VEYA NAKDİ DAĞITIMIN UYGULAMASINA DAİR YÖNETMELİK",
+    "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=46363&MevzuatTertip=5",
+    "published": "2026-11-03",
+    "gazette": "33419",
+    "in_force": "2026-11-03",
+    "in_force_basis": "Original publication in Resmi Gazete 33419 on 2026-11-03, stated in the official homepage listing; article 8 commences on publication.",
+    "latest_amendment": null,
+    "first_law": null,
+    "history": "current-text",
+    "source_sha256": "eef3dfc2cef601c71514977e40325fce1c89c8d6f71685426b0bf5090511e7dc",
+    "source_words": 1331,
+    "source_images": 0,
+    "referenced_images": 0,
+    "omitted_images": 0
+  }
+]
