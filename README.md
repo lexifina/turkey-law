@@ -1,5 +1,10 @@
 # The laws of Türkiye, as a git repository
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Turkish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Turkey's national law, which global-law reads at `turkey/national/acts/`.
 
 The law-rank legislation of Türkiye in force, as a git repository: 908 laws (Kanunlar, including the Constitution, `kanun/2709`, and the codes, such as the Türk Medeni Kanunu `kanun/4721`, Türk Borçlar Kanunu `kanun/6098` and Türk Ceza Kanunu `kanun/5237`), 9 Ottoman-era laws still in force (`osmanli/`), 63 decree-laws (Kanun Hükmünde Kararnameler, `khk/`) and 33 presidential decrees (Cumhurbaşkanlığı Kararnameleri, `cbk/`). The source is the official [Mevzuat Bilgi Sistemi](https://www.mevzuat.gov.tr), run by the Presidency's Directorate General of Law and Legislation (T.C. Cumhurbaşkanlığı Hukuk ve Mevzuat Genel Müdürlüğü). Every article is one file (36955 article files), with one paragraph per line, so `git blame` and `git diff` work line by line. The text is Turkish, exactly as published.
