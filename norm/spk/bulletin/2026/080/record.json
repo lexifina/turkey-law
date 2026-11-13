@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2026/80",
+  "date": "2026-11-13",
+  "title": "SPK Bülteni 2026/80",
+  "source": "https://spk.gov.tr/data/6af772b98f95db208cf81cc3/2026-80.pdf",
+  "source_sha256": "8d6ae5a1dab5167d5664d04cf123d2ffae819c44281f0d672397e835a92c5314",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "personal_data": "sanction/person-naming sections omitted; official link retained in ledger",
+  "omitted_sections": [
+    "C. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER"
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 1
+  }
+}
