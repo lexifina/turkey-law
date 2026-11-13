@@ -1,0 +1,3 @@
+Denetim ve yaptırım
+MADDE 29- (1) Merkez/ünite, 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelik ile belirlenen usul ve esaslara uygun olarak, EK-1 ve EK-2’de yer alan denetim, sorgu ve idari yaptırım formu kullanılarak denetime tabi tutulur.
+(2) Kamu kurum ve kuruluşları tarafından açılan merkez/ünitede, bu Yönetmeliğe aykırılık tespit edilmesi hâlinde, birinci ve ikinci tespitlerde eksikliğin giderilmesi için süre verilerek yazılı olarak uyarıda bulunulur; üçüncü tespitte kasıt, ihmal veya kusuru bulunan ilgililer hakkında ilgili mevzuat hükümlerine göre disiplin hükümleri uygulanır.

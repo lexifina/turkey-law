@@ -1,0 +1,3 @@
+Ev hemodiyalizi ve merkezde uzun süreli diyaliz
+MADDE 6- (1) Müdürlük tarafından ev hemodiyalizi uygulama izni verilen merkezler, hastanın talebi ve yazılı onayı ile tıbbi kontrollerini de yapmak kaydıyla hastanın evinde diyaliz uygulamasını yapabilir. Bu uygulama için her hastaya bir cihaz tahsis edilir. Ev hemodiyalizi uygulamasının usul ve esasları, Bakanlıkça belirlenir.
+(2) Müdürlük tarafından merkezde uzun süreli hemodiyaliz uygulama izni verilen merkezler, hastanın talebi ve yazılı onayı ile tıbbi kontrollerini de yapmak ve merkezde yedi saatten az olmamak kaydı ile uzun süreli diyaliz yapabilir. Merkezde uzun süreli diyaliz uygulamasının usul ve esasları, Bakanlıkça belirlenir.

@@ -1,0 +1,2 @@
+Organ ve doku nakli merkezleri ile ilişki
+MADDE 31- (1) Merkez/ünite; programlı olarak diyalize ilk kez aldıkları her yeni hastayı diyalize başladıktan sonraki en geç üç ay içinde böbrek nakli açısından değerlendirilmek üzere en yakın kamuya ait organ nakil merkezine başvurması için bilgilendirip göndermekle organ nakli merkezleri de nakle uygun hastaları ulusal bekleme listesine kayıt ettirmekle mükelleftir.

@@ -1,0 +1,5 @@
+İdarî Yaptırım ve Diğer Hükümler
+Merkezlerin ve ünitelerin izlenmesi
+MADDE 28- (1) Merkez/ünite, bilgi işlem sistemi aracılığıyla günlük olarak kaydettiği hasta ve seans sayılarını, diyaliz tedavisine yeni başlayan ve başka merkezden/üniteden gelen hasta sayılarını, hasta mortalitesini, başka merkeze/üniteye giden veya diğer renal replasman tedavilerine geçen hasta sayılarını, bu Yönetmelik uyarınca yapılması gereken tıbbi tetkiklerin kayıtlarını ve Bakanlıkça talep edilen diğer bilgileri, Bakanlığın ve müdürlüğün her an ulaşabileceği şekilde hazır bulundurur ve Bakanlık dijital kayıt sistemine girişini sağlar.
+(2) Merkezlerin/ünitelerin faaliyetlerine ilişkin veriler ve ihtiyaç duyulan yeni formlar, Bakanlıkça düzenlenir ve Bakanlık internet sitesinde yayınlanır. Müdürlükler, bu formların dışında ayrı form düzenleyemez ve merkezlerden/ünitelerden isteyemezler.
+(3) Bakanlık, merkezlerin/ünitelerin ve hastaların bilgilerini elektronik ortamda izleyebileceği bilgi işlem sistemlerini kurabilir. Bu durumda tüm merkez/ünite ve hastaların bilgileri bu sisteme kaydedilir.

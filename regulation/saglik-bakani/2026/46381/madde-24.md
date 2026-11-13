@@ -1,0 +1,7 @@
+Denetim ve Değerlendirme Komisyonu
+Diyaliz Bilimsel Danışma Komisyonunun teşkili
+MADDE 24- (1) Diyaliz Bilimsel Danışma Komisyonu; Sağlık Hizmetleri Genel Müdürünün veya görevlendireceği ilgili genel müdür yardımcısı ya da ilgili daire başkanı başkanlığında, nefroloji alanında doçent ve profesörler arasından Bakanlıkça seçilen altı üye olmak üzere toplam yedi kişiden oluşur.
+(2) Diyaliz Bilimsel Danışma Komisyonu üyeleri iki yıl süreyle görev yaparlar. Yeni komisyon üyeleri seçilinceye kadar mevcut üyelerin görevi devam eder.
+(3) Herhangi bir sebeple üyeliğin boşalması halinde, kalan süreyi tamamlamak üzere yeni üye seçilir. Üyeliğe aynı usulle tekrar seçilmek mümkündür. Diyaliz Bilimsel Danışma Komisyonu toplantılarına kabul edilebilir bir mazereti olmaksızın iki defa üst üste veya bir üyelik döneminde toplam üç defa katılmayan üyenin üyeliği sona erer.
+(4) Bakanlık, gerekli durumlarda veya Diyaliz Bilimsel Danışma Komisyonunun teklifi halinde toplantının gündemine göre halk sağlığı, farmakoloji, biyomedikal ve diğer uzmanlık dallarından uygun göreceği sayıdaki uzmanı, komisyonun faaliyetlerine yardımcı olmak üzere görevlendirebilir veya bu uzmanlardan müteşekkil çalışma grupları oluşturabilir.
+(5) Bakanlıkça fiziken toplantıya gerek duyulmayan acil durumlarda elektronik ortamda gündem belirlenip gündeme ilişkin görüş istenebilir. Bu durumda veri gizliliğine ilişkin güvenlik tedbirlerine riayet edilerek görüş verilebilir.
