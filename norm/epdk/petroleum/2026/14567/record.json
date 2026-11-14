@@ -1,0 +1,35 @@
+{
+  "title": "Akdeniz Akaryakıt Depolama Nakliyat ve Ticaret Anonim Şirketi’nin; DEP/2574-2/27768 sayılı Depolama Lisansı kapsamında faaliyette bulunan Antalya Tesisine ilişkin",
+  "decision_number": "14567",
+  "decision_date": "2026-05-07",
+  "gazette_date": "08.05.2026",
+  "gazette_number": "33247",
+  "text_status": "as-enacted",
+  "in_force": "2026-05-07",
+  "in_force_basis": "official EPDK decision date 07.05.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R9TTslfti7s=",
+      "sha256": "48cfa2d6d9e583ce59f4ccc23491c82ced351e35159feb54b5561409d9376204",
+      "bytes": 31716,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iggmUnfGBe8=",
+      "title": "Akdeniz Akaryakıt Depolama Nakliyat ve Ticaret Anonim Şirketi -  Antalya Tesisi Depolama Tarifesi",
+      "sha256": "cf05eede2c3a6932ced3ecfa0ea728f10b05ff93f09c31ba7e2b0e11392b6576",
+      "bytes": 66048,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
