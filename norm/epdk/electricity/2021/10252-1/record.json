@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10252-1",
+  "decision_date": "2021-06-10",
+  "date": "2021-06-20",
+  "title": "25/06/2020 tarihli ve 31166 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 18/06/2020 tarihli ve 9395 sayılı Kurul Kararının 1 inci maddesinin (a) ve (b) fıkralarına ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Jz40r9DC9HU%3D",
+  "source_sha256": "1b6a3855b97b4253f6312f4607e287a7c5c5fb93c0f7643e673658353a8a2045",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
