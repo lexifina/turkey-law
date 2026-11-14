@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-33/408-105",
+  "title": "Inco Limited (Inco)'in Falconbridge Limited (Falcon)'in kontrolünü devralması işlemine izin verilmesi talebi.",
+  "published": "2006-06-09",
+  "in_force": "2006-05-11",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=d81ad2c2-3e96-4fac-8e18-025cc009670c",
+  "source_id": "d81ad2c2-3e96-4fac-8e18-025cc009670c",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "8c4616d9aff3c378da77a890732a044d662edda600957f5fda703bd0a012999d",
+  "source_bytes": 149767,
+  "word_count": 1235,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
