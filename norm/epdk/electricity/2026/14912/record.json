@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14912",
+  "decision_date": "2026-09-24",
+  "date": "2026-10-19",
+  "title": "Önlisans ve üretim lisansı başvurularında sağlanması gereken sermaye yükümlülüğü ile müstakil elektrik depolama tesisi için sağlanması gereken sermaye yükümlülüğü ve bu kapsamda kurula sunulacak teminat tutarlarının belirlenmesine ilişkin ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U2jJhD3rddo%3D",
+  "source_sha256": "83ad78de339e1aa1c4a861b64a54cd0169fd347b79f24fff6efeb0648bf35dec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
