@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-57/718-208",
+  "title": "Denizbank A.Ş. (Denizbank) ve bağlı şirketlerinin kontrolünün Dexia S.A./N.V. (Dexia)'ya devri işlemine izin verilmesi talebi.",
+  "published": "2006-10-02",
+  "in_force": "2006-08-03",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=ff1ff889-3488-476f-9b43-4fa692a8e51f",
+  "source_id": "ff1ff889-3488-476f-9b43-4fa692a8e51f",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "fa24a5a0900bb420b407f6b30d413bcc7480388a17117092e39992917f9026b9",
+  "source_bytes": 157238,
+  "word_count": 1130,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
