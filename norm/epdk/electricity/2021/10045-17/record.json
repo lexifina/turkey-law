@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10045-17",
+  "decision_date": "2021-02-25",
+  "date": "2021-03-03",
+  "title": "TEİAŞ tarafından bildirilen 2000 MW kapasiteye ilişkin rüzgar enerjisine dayalı önlisans başvurusu hk.",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ek7EOz3zucA%3D",
+  "source_sha256": "3abf5e7096c7a3b6dca40390f53d7f188f8cdd6103817250d681f776a9f6ec84",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
