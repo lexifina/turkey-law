@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12799-3",
+  "decision_date": "2024-08-08",
+  "date": "2024-08-14",
+  "title": "OSB / EB önlisans, OSB üretim lisansı ve EB üretim lisansı başvurularında sunulması gereken teminat mektubu tutarları hk.",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=%2BFC4w%2B5cWBI%3D",
+  "source_sha256": "e6cec4dbec25a8661f3f8bec550fa1142697d514afa2eb3f9152b3b07c73c24e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
