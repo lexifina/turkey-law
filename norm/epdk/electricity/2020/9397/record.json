@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9397",
+  "decision_date": "2020-06-18",
+  "date": "2020-06-25",
+  "title": "Önlisans ve üretim lisansı başvurularında sağlanması gereken sermaye yükümlülüğünün hesaplanması ile Kuruma sunulacak teminat tutarlarının belirlenmesine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6xCJWTaXwaI%3D",
+  "source_sha256": "388b5b68cc56cd9e5cffcddea2b56ff727ffa233aaa74458078abc9581626d9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
