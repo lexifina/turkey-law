@@ -1,0 +1,35 @@
+{
+  "title": "Petrol Ofisi Anonim Şirketi’nin; PİL/476-260/10969 sayılı İletim Lisansı kapsamında faaliyette bulunan Petrol Ofisi A.Ş. Kırıkkale Terminali İletim Tesisine ilişkin",
+  "decision_number": "14170",
+  "decision_date": "2025-12-25",
+  "gazette_date": "30.12.2025",
+  "gazette_number": "33123",
+  "text_status": "as-enacted",
+  "in_force": "2025-12-25",
+  "in_force_basis": "official EPDK decision date 25.12.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D2hH40tLGrk=",
+      "sha256": "e55a83b601da77f7ae605f1c928bff326ea74294806f07824a18d21d75294c87",
+      "bytes": 27184,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ileKU+MZHh8=",
+      "title": "Petrol Ofisi A.Ş. - Kırıkkale Terminali İletim Tarifesi.",
+      "sha256": "e5d94c609c7583da12effb397c6df2ce581ee6fe0f82c9ba2245ef8b69a64ed9",
+      "bytes": 61440,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
