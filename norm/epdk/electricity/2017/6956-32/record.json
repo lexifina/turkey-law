@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6956/32",
+  "decision_date": "2017-03-09",
+  "date": "2017-03-22",
+  "title": "Yönetmeliğin 12 nci maddesinin yedinci fıkrası çerçevesinde kapasitenin tamamı için rüzgar enerjisine dayalı önlisans başvurularının 2-6 Nisan 2018 tarihlerinde alınmasına",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j01EYHmitOc%3D",
+  "source_sha256": "c313bd63f027b71fb69a9d61ab06a98421850d226cb7f8944a9101ac7e7f9022",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
