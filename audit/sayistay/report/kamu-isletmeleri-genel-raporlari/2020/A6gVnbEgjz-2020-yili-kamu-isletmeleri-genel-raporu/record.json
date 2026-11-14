@@ -1,0 +1,58 @@
+{
+  "kind": "audit-report",
+  "issuer": "T.C. Sayıştay Başkanlığı",
+  "report_year": 2020,
+  "approval_date": "2021-12-27",
+  "title": "2020 Yılı Kamu İşletmeleri Genel Raporu",
+  "source": "https://www.sayistay.gov.tr/reports/download/A6gVnbEgjz-2020-yili-kamu-isletmeleri-genel-raporu",
+  "source_sha256": "024c00ae742f54168a0223fe61a97d2aafb058aec2cc1c77c18322838574d0e4",
+  "text_status": "as-published",
+  "text_file": "metin.md",
+  "source_image_count": 2,
+  "source_images": [
+    {
+      "page": 1,
+      "count": 1,
+      "words": 11,
+      "rects": [
+        [
+          244.47,
+          84.1,
+          343.69,
+          183.23
+        ]
+      ]
+    },
+    {
+      "page": 3,
+      "count": 1,
+      "words": 11,
+      "rects": [
+        [
+          254.9,
+          70.85,
+          339.9,
+          155.85
+        ]
+      ]
+    }
+  ],
+  "image_accounting": {
+    "source": 2,
+    "referenced": 0,
+    "omitted_normative": 0,
+    "decorative_cover": 2
+  },
+  "text_check": {
+    "source": "https://www.sayistay.gov.tr/reports/download/A6gVnbEgjz-2020-yili-kamu-isletmeleri-genel-raporu",
+    "sha256": "024c00ae742f54168a0223fe61a97d2aafb058aec2cc1c77c18322838574d0e4",
+    "poppler_words": 13678,
+    "pymupdf_words": 13678,
+    "token_counts_identical": true,
+    "token_order_identical": true,
+    "differences": {
+      "poppler_only": {},
+      "pymupdf_only": {}
+    }
+  }
+}
