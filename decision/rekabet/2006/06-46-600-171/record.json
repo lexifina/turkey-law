@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-46/600-171",
+  "title": "Karadeniz Bakır İşletmeleri A.Ş.'nin Murgul İşletmesinin, maden sahalarının işletme hakkını ifade eden ruhsatlarının ve Samsun'da yer alan arsalarının satış; Murgul İşletmesi bünyesinde yer alan hidroelektrik santralinin işletme hakkı devri yöntemiyle özelleştirilmesi işlemine izin verilmesi talebi.",
+  "published": "2006-09-14",
+  "in_force": "2006-06-29",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=645a9937-72bd-43bd-ad6a-5fd2c1da039a",
+  "source_id": "645a9937-72bd-43bd-ad6a-5fd2c1da039a",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "89336c28c140bf9ffa2e48f005c1f61842c4d7a8850a0cfc2e957071ae21c96a",
+  "source_bytes": 188202,
+  "word_count": 3275,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
