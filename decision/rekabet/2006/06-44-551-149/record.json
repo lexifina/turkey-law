@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-44/551-149",
+  "title": "Alstom S.A. hisselerinin Fransa Devleti'nin elinde bulunan %21,03'lük kısmının Bouygues S.A. tarafından devralınması işlemine izin verilmesi talebi",
+  "published": "2006-08-11",
+  "in_force": "2006-06-15",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=7a15c2a8-6a6c-4600-8c9e-e3fb6223b9b6",
+  "source_id": "7a15c2a8-6a6c-4600-8c9e-e3fb6223b9b6",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "3d0015f20b031a87bc181438e4b0bc8d8aef197ebb0d2966630e093a0e82826c",
+  "source_bytes": 227696,
+  "word_count": 2073,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
