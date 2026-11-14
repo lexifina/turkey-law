@@ -1,0 +1,35 @@
+{
+  "title": "Petrol Ofisi Anonim Şirketi’ne ait DEP/474-3/10361 sayılı depolama lisansı ile faaliyette bulunan Antalya Terminali için depolama tarifesi",
+  "decision_number": "14782",
+  "decision_date": "2026-08-06",
+  "gazette_date": "08.08.2026",
+  "gazette_number": "33334",
+  "text_status": "as-enacted",
+  "in_force": "2026-08-06",
+  "in_force_basis": "official EPDK decision date 06.08.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PDCUwclQd88=",
+      "sha256": "efc467d7867d15b231d80789c5e9804725706ec8a0f689080493826ee5d5e7d4",
+      "bytes": 31398,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oygD8Iz5noM=",
+      "title": "Petrol Ofisi A.Ş. - Antalya Terminali Depolama Tarifesi",
+      "sha256": "2d79a0ecd9fcad6b45ac3ff49473a8f3f849036cfa3984f829f1304ad515a33b",
+      "bytes": 80384,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
