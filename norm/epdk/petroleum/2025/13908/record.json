@@ -1,0 +1,37 @@
+{
+  "title": "Lokal Enerji Anonim Şirketi’ne ait DEP/7220-4/38844 numaralı depolama lisansı kapsamında faaliyette bulunan Kırıkkale Terminali depolama tarifesi",
+  "decision_number": "13908",
+  "decision_date": "2025-10-30",
+  "gazette_date": "31.10.2025",
+  "gazette_number": "33063",
+  "text_status": "as-enacted",
+  "in_force": "2025-10-30",
+  "in_force_basis": "official EPDK decision date 30.10.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D6NnPiaDfFQ=",
+      "sha256": "9da13a4136eea7adce8204885fd01670a220109047ad6e1352cea71f125917e6",
+      "bytes": 27157,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4h1Nma5lAiQ=",
+      "sha256": "a441264525aee57c18ccb8dacb4f60dda5a8cf63f4b4aced356c4ece3901e21c",
+      "bytes": 27346,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
