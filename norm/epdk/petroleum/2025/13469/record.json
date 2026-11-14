@@ -1,0 +1,37 @@
+{
+  "title": "SOCAR Turkey Akaryakıt Depolama Anonim Şirketi’nin; DEP/7191-7/38782 sayılı Depolama Lisansı kapsamında faaliyette bulunan Aliağa Akaryakıt Depolama ve Dolum Tesisine ilişkin depolama tarifesi",
+  "decision_number": "13469",
+  "decision_date": "2025-04-24",
+  "gazette_date": "27.04.2025",
+  "gazette_number": "32883",
+  "text_status": "as-enacted",
+  "in_force": "2025-04-24",
+  "in_force_basis": "official EPDK decision date 24.04.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Paw35+bGLpE=",
+      "sha256": "5357826b2ac33a9f65717a43f6ba46f3cf77a6782d6d4d2b6414b0de2872df0b",
+      "bytes": 25981,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f2QXpkFY31Q=",
+      "sha256": "42a316559eb2a131cacd8480a850ded780b27cd2808a4b2abbbae4e6207015c2",
+      "bytes": 52961,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
