@@ -1,0 +1,13 @@
+{
+  "kind": "audit-report",
+  "issuer": "T.C. Sayıştay Başkanlığı",
+  "report_year": 2025,
+  "approval_date": "2026-09-03",
+  "title": "2025 Yılı Genel Uygunluk Bildirimi",
+  "source": "https://www.sayistay.gov.tr/reports/download/18QJvjVQWz-2025-yili-genel-uygunluk-bildirimi",
+  "source_sha256": "614fa9a47d2052458b0cd2f8c779dfa8356988104eb4c5942422e31bc130305f",
+  "text_status": "as-published",
+  "text_file": "metin.md",
+  "source_image_count": 2,
+  "source_images": "cover logos on PDF pages 1 and 3; decorative"
+}
