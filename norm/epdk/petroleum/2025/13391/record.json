@@ -1,0 +1,37 @@
+{
+  "title": "TP Petrol Dağıtım Anonim Şirketi’nin; DEP/8791-3/41980 sayılı Depolama Lisansı kapsamında faaliyette bulunan TP Petrol Dağıtım A.Ş. Antalya Dolum ve Depolama Tesisine ilişkin depolama tarifesi",
+  "decision_number": "13391",
+  "decision_date": "2025-03-20",
+  "gazette_date": "22.03.2025",
+  "gazette_number": "32849",
+  "text_status": "as-enacted",
+  "in_force": "2025-03-20",
+  "in_force_basis": "official EPDK decision date 20.03.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jK/oFBCQKt4=",
+      "sha256": "741a17c440fc4b39e3d33090f4e1a78f3b019ed79e99f5a560479218b4aa4a5b",
+      "bytes": 26010,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wQW2zNzaCcY=",
+      "sha256": "5643ace930b85a47a103aaade40ffe5ec0d1b8428d0261e88648b0573fa02fb3",
+      "bytes": 26092,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
