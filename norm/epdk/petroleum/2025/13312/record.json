@@ -1,0 +1,35 @@
+{
+  "title": "ATAŞ Anadolu Tasfiyehanesi Anonim Şirketi’nin; DEP/1328-5/23031 sayılı Depolama Lisansı kapsamında faaliyette bulunan Liman Tesisine ilişkin depolama tarifesi",
+  "decision_number": "13312",
+  "decision_date": "2025-02-20",
+  "gazette_date": "22.02.2025",
+  "gazette_number": "32821",
+  "text_status": "as-enacted",
+  "in_force": "2025-02-20",
+  "in_force_basis": "official EPDK decision date 20.02.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EfntWgemI2I=",
+      "sha256": "8966f3ba0d66a20ac446654a7d445cef1cf01a09ba2c3171c6c135fe785b63fb",
+      "bytes": 25752,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TGusOtkMsMc=",
+      "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - Liman Tesisi (Nusratiye) Depolama Tarifesi",
+      "sha256": "bf9ca9b408f449c7dc5b5f2f4c0b315fd8570180098ca0ff8ba4528cb6e0f4d6",
+      "bytes": 68608,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
