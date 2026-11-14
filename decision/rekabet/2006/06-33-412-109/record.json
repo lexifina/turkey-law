@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-33/412-109",
+  "title": "Seagate Technology tarafından Maxtor Corporation firmasının devralınması işlemine izin verilmesi talebi.",
+  "published": "2006-07-24",
+  "in_force": "2006-05-11",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=e1252afd-ac22-4939-ae05-59b8bb00d940",
+  "source_id": "e1252afd-ac22-4939-ae05-59b8bb00d940",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "9e2a6dc1443d3fd7d45ca41626d2939f5efe86542e70618d953d0c913fb90c3a",
+  "source_bytes": 166561,
+  "word_count": 1040,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
