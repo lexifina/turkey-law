@@ -1,0 +1,35 @@
+{
+  "title": "Aves Güney Antrepoculuk Anonim Şirketi’ne ait DEP/7646-3/39543 sayılı depolama lisansı ile faaliyette bulunan Mersin Depolama ve Dolum Tesisine ilişkin depolama tarifesi",
+  "decision_number": "14343",
+  "decision_date": "2026-02-19",
+  "gazette_date": "21.02.2026",
+  "gazette_number": "33175",
+  "text_status": "as-enacted",
+  "in_force": "2026-02-19",
+  "in_force_basis": "official EPDK decision date 19.02.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=G79cbfyQwNc=",
+      "sha256": "c7c1f83ce56afaa92a99c6276247e6938f6bef286c4b09eb68e9d035c363be74",
+      "bytes": 31889,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yhpqDgmyYao=",
+      "title": "Aves Güney Antrepoculuk A.Ş.- Mersin Depolama ve Dolum Tesisi Depolama Tarifesi",
+      "sha256": "a509c36410f44aa2ea8c93085b8a2f7a089798ba11f7423c04448e2eb6c2e99f",
+      "bytes": 68096,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
