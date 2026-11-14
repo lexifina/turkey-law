@@ -1,0 +1,35 @@
+{
+  "title": "Petrol Ofisi Anonim Şirketi’nin; DEP/474-11/10369 sayılı Depolama Lisansı kapsamında faaliyette bulunan Petrol Ofisi A.Ş. Kırıkkale Terminali Depolama Tesisine ilişkin",
+  "decision_number": "14169",
+  "decision_date": "2025-12-25",
+  "gazette_date": "30.12.2025",
+  "gazette_number": "33123",
+  "text_status": "as-enacted",
+  "in_force": "2025-12-25",
+  "in_force_basis": "official EPDK decision date 25.12.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j1DRK1hCS7M=",
+      "sha256": "adc41dc58bcb21e4e5d2e1e24dbb416a5d04d8e241b7feb8a74bfca5fcd56494",
+      "bytes": 27149,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0S17EzkQyKk=",
+      "title": "Petrol Ofisi A.Ş. - Kırıkkale Terminali Depolama Tarifesi.",
+      "sha256": "fa29282160c06269ecb89d33b618a107e069184e23354fe6f8fc47cbba0e455b",
+      "bytes": 63488,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
