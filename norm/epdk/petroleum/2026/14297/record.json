@@ -1,0 +1,37 @@
+{
+  "title": "Altınbaş Petrol ve Ticaret A.Ş.’ye ait, DEP/9318/43037 lisans numarası ile faaliyette bulunan Mersin Tesisi için depolama tarifesi",
+  "decision_number": "14297",
+  "decision_date": "2026-02-06",
+  "gazette_date": "11.02.2026",
+  "gazette_number": "33165",
+  "text_status": "as-enacted",
+  "in_force": "2026-02-06",
+  "in_force_basis": "official EPDK decision date 06.02.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9eGQy+wf8XA=",
+      "sha256": "183467f11af5a531f1dfc90b0952d85793590abd929d0799b3975098fb408779",
+      "bytes": 31784,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RtE9VLtdAr4=",
+      "sha256": "c34b45056d07e2cf030a4fcf96da2c95e5c4c37aa9b99919eb98a0e8d7a4c2da",
+      "bytes": 30146,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
