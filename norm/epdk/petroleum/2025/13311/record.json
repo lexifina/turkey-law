@@ -1,0 +1,35 @@
+{
+  "title": "ATAŞ Anadolu Tasfiyehanesi Anonim Şirketi’nin; DEP/473-14/10348 sayılı Depolama Lisansı kapsamında  faaliyette bulunan Karaduvar Tesisine ilişkin depolama tarifesi",
+  "decision_number": "13311",
+  "decision_date": "2025-02-20",
+  "gazette_date": "22.02.2025",
+  "gazette_number": "32821",
+  "text_status": "as-enacted",
+  "in_force": "2025-02-20",
+  "in_force_basis": "official EPDK decision date 20.02.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4WnklWiUH6U=",
+      "sha256": "dd40da9564ab9ab101cce79a4cef182b39bb289786b4f2bb387447e6e1e36f94",
+      "bytes": 25677,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vlvem+PkE4Q=",
+      "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - Karaduvar Tesisi Depolama Tarifesi.",
+      "sha256": "7ff5bec32ed15b201687b2aab14d526dfed71794ed203f60e5cb33db660922f7",
+      "bytes": 99840,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
