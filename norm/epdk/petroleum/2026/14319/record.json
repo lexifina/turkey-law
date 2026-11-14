@@ -1,0 +1,37 @@
+{
+  "title": "Petrol Ofisi Anonim Şirketi’nin; DEP/474-8/10366 sayılı Depolama Lisansı kapsamında faaliyette bulunan Derince Terminali Depolama Tesisine ilişkin",
+  "decision_number": "14319",
+  "decision_date": "2026-02-12",
+  "gazette_date": "17.02.2026",
+  "gazette_number": "33171",
+  "text_status": "as-enacted",
+  "in_force": "2026-02-12",
+  "in_force_basis": "official EPDK decision date 12.02.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u2ZiurP8/Z0=",
+      "sha256": "ca4268c1e6ca7c2af704a7c51192f49cfe63925e6c231b55e89b6254434c35e3",
+      "bytes": 31814,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HrMPxb+Mqw4=",
+      "sha256": "207ea4524af108e1e6362d20098bab6ae96acc226c4c19f56e2bf71361403928",
+      "bytes": 40578,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
