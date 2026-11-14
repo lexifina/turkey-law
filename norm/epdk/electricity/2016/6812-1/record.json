@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6812-1",
+  "decision_date": "2016-12-29",
+  "date": "2016-12-31",
+  "title": "Yenilenebilir Enerji Kaynak Alanları Yönetmeliği kapsamında yer alan üretim lisansı başvurularında Kuruma sunulması gereken teminat tutarları",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HDmqR2i4Rg8%3D",
+  "source_sha256": "38aeec3df8d019ba77805122cc6ca36bc4b8f20f5efb698e2cc2c10e34fb83c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
