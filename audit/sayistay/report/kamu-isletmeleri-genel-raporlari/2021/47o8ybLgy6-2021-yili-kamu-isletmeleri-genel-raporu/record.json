@@ -1,0 +1,58 @@
+{
+  "kind": "audit-report",
+  "issuer": "T.C. Sayıştay Başkanlığı",
+  "report_year": 2021,
+  "approval_date": "2022-12-22",
+  "title": "2021 Yılı Kamu İşletmeleri Genel Raporu",
+  "source": "https://www.sayistay.gov.tr/reports/download/47o8ybLgy6-2021-yili-kamu-isletmeleri-genel-raporu",
+  "source_sha256": "9b3e0d31574a3421f3a80badf8c137aec4d30f4cc5e168ae73a51ec09243e3de",
+  "text_status": "as-published",
+  "text_file": "metin.md",
+  "source_image_count": 2,
+  "source_images": [
+    {
+      "page": 1,
+      "count": 1,
+      "words": 11,
+      "rects": [
+        [
+          258.36,
+          82.12,
+          357.57,
+          181.25
+        ]
+      ]
+    },
+    {
+      "page": 3,
+      "count": 1,
+      "words": 11,
+      "rects": [
+        [
+          254.9,
+          70.85,
+          339.9,
+          155.85
+        ]
+      ]
+    }
+  ],
+  "image_accounting": {
+    "source": 2,
+    "referenced": 0,
+    "omitted_normative": 0,
+    "decorative_cover": 2
+  },
+  "text_check": {
+    "source": "https://www.sayistay.gov.tr/reports/download/47o8ybLgy6-2021-yili-kamu-isletmeleri-genel-raporu",
+    "sha256": "9b3e0d31574a3421f3a80badf8c137aec4d30f4cc5e168ae73a51ec09243e3de",
+    "poppler_words": 8814,
+    "pymupdf_words": 8814,
+    "token_counts_identical": true,
+    "token_order_identical": true,
+    "differences": {
+      "poppler_only": {},
+      "pymupdf_only": {}
+    }
+  }
+}
