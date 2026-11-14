@@ -1,0 +1,37 @@
+{
+  "title": "Opet Petrolcülük Anonim Şirketi’ne ait, DEP/767-17/17138 sayılı depolama lisansı ile faaliyette bulunan “Marmara Ereğlisi Tesisine” ilişkin",
+  "decision_number": "14446",
+  "decision_date": "2026-04-02",
+  "gazette_date": "04.04.2026",
+  "gazette_number": "33214",
+  "text_status": "as-enacted",
+  "in_force": "2026-04-02",
+  "in_force_basis": "official EPDK decision date 02.04.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PU6kFHgv3Dg=",
+      "sha256": "42524698d3b8e365ec6c6c730e544ce26f7167000cd5a221aaacf44e69ad0aca",
+      "bytes": 31625,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n7I982rHWxc=",
+      "sha256": "b36e304d59205a491df98a15bd9db53898eb452f792fed4b98d9829c6e74b1e1",
+      "bytes": 46511,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
