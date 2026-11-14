@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14730",
+  "decision_date": "2026-07-16",
+  "date": "2026-07-18",
+  "title": "09/12/2021 tarihli ve 10607 sayılı Kurul kararı ile onaylanan \"Geri Ödemeye Esas Gerçekleşen Yatırım Tutarı Tespit Metodolojisine\" ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9EbvYMu%2FmaE%3D",
+  "source_sha256": "13bd45af7730fdfca12c7e9db24e068141b15b9679dd5e9b80102535851d1aee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
