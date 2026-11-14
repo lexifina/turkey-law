@@ -1,0 +1,35 @@
+{
+  "title": "Shell & Turcas Petrol Anonim Şirketi’ne ait DEP/1718-6/24922 numaralı depolama lisansı ile faaliyette bulunan Derince Terminali için depolama tarifesine ilişkin",
+  "decision_number": "14654",
+  "decision_date": "2026-06-11",
+  "gazette_date": "13.06.2026",
+  "gazette_number": "33279",
+  "text_status": "as-enacted",
+  "in_force": "2026-06-11",
+  "in_force_basis": "official EPDK decision date 11.06.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oL+8Kksp4SM=",
+      "sha256": "2ab09ead4c2ed9101150bc5ade02e2393e11c8d19f3a20b31adb83d008069a16",
+      "bytes": 31747,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gbT/8F+gsks=",
+      "title": "Shell & Turcas Petrol A.Ş. - Derince Terminali Depolama Tarifesi",
+      "sha256": "c08aa92aaf3e51f6e1809e2bd84387408a999b6ae3335bdf466ebababc17b260",
+      "bytes": 104960,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
