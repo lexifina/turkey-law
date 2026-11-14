@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-45/577-157",
+  "title": "Evraz Group S.A. tarafından kontrol edilen Coke Oven Overseas Contribution Limited hisselerinin %30'unun Mitsui Co. Ltd. tarafından devralınması işlemine izin verilmesi talebi.",
+  "published": "2006-09-14",
+  "in_force": "2006-06-22",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=b4f9f040-6336-4bf1-ad3d-0273380d23eb",
+  "source_id": "b4f9f040-6336-4bf1-ad3d-0273380d23eb",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "9414983c2ce8a0f72ddf41aa1ce1bbe7d5a6d7ef72e48e03fb49931d40f1a186",
+  "source_bytes": 141943,
+  "word_count": 899,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
