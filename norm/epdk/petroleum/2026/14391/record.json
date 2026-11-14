@@ -1,0 +1,35 @@
+{
+  "title": "T.C. Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı’nın; DEP/6912-1/37996 sayılı Depolama Lisansı kapsamında faaliyette bulunan TF-6 Antalya Tank Çiftliği Deposuna ilişkin depolama tarifesi",
+  "decision_number": "14391",
+  "decision_date": "2026-03-12",
+  "gazette_date": "14.03.2026",
+  "gazette_number": "33196",
+  "text_status": "as-enacted",
+  "in_force": "2026-03-12",
+  "in_force_basis": "official EPDK decision date 12.03.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FWQWoDoHTw4=",
+      "sha256": "b244b292adb7ed2007fa733d99f6975d88232b3437209d59cc079b5255b04d7e",
+      "bytes": 29116,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bqTyBObSS8g=",
+      "title": "T.C. Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı- TF-6 Antalya Tank Çiftliği Deposu - Depolama Tarifesi",
+      "sha256": "8b60eb3de7af1a1cffb144c7be5d5c9d88781b5971b86e0049e0b4e4f58e4a64",
+      "bytes": 65024,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
