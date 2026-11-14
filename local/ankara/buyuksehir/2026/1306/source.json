@@ -6,5 +6,6 @@
   "history": "as-enacted",
   "in_force_basis": "Official council decision date; commencement not separately stated.",
   "source_sha256": "f3a86999461e6765bcc67e13ea24a5c61c6ca1bd4a5ade8edaf8b42ab6770cad",
-  "note": ""
+  "note": "Referenced annex completeness is unverified; annex review pending.",
+  "annex_check": "pending: source references an attached annex; completeness is not verified in this DOCX"
 }

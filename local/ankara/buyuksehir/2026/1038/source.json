@@ -4,7 +4,10 @@
   "decision_date": "2026-08-12",
   "number": "1038",
   "history": "as-enacted",
-  "in_force_basis": "Official council decision date; commencement not separately stated.",
+  "in_force_basis": "Record dated as adopted. The quoted operative tariff commencement is conditional on approval and announcement; actual commencement date is not supplied.",
   "source_sha256": "18bb3a6f59aeb15bc781bd2e7ba73d45a6e9a9b32d22b628a208c877d26ab95a",
-  "note": ""
+  "note": "Adoption date recorded; conditional commencement date requires review.",
+  "commencement_date": null,
+  "date_review_pending": true,
+  "commencement_condition": "Source quotes commencement by announcement after board and general assembly approval; the announcement date is not supplied."
 }
