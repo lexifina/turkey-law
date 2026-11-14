@@ -1,0 +1,35 @@
+{
+  "title": "Petrol Ofisi Anonim Şirketi’nin; PİL/5702-1/35810 sayılı İletim Lisansı kapsamında faaliyette bulunan Petrol Ofisi A.Ş. Antalya Terminali İletim Tesisine ilişkin",
+  "decision_number": "14168",
+  "decision_date": "2025-12-25",
+  "gazette_date": "30.12.2025",
+  "gazette_number": "33123",
+  "text_status": "as-enacted",
+  "in_force": "2025-12-25",
+  "in_force_basis": "official EPDK decision date 25.12.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0LujszL3iAA=",
+      "sha256": "7b31d159d92bba0c3fbf519a717ed466f608f6aeda9bc23fed1ce25f9ae5e702",
+      "bytes": 27085,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KP2w9SCRMio=",
+      "title": "Petrol Ofisi A.Ş. - Antalya Terminali İletim Tarifesi.",
+      "sha256": "124f81007c8563b61dd549aa067bd6a4dbf36db00fbdca894fa9e2738ddc86bc",
+      "bytes": 77824,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
