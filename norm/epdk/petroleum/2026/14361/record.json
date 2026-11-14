@@ -1,0 +1,37 @@
+{
+  "title": "Çekisan Depolama Hizmetleri Limited Şirketi’nin; DEP/476-157/10877 sayılı Depolama Lisansı kapsamında faaliyette bulunan Antalya Akaryakıt Terminaline ilişkin depolama tarifesi",
+  "decision_number": "14361",
+  "decision_date": "2026-02-26",
+  "gazette_date": "28.02.2026",
+  "gazette_number": "33182",
+  "text_status": "as-enacted",
+  "in_force": "2026-02-26",
+  "in_force_basis": "official EPDK decision date 26.02.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PMDSFSF+V2U=",
+      "sha256": "493c7d9a13e69e29960b03a208dab01c2657f033ef889cb8283c77546aa55632",
+      "bytes": 31938,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=942Ub2l76zs=",
+      "sha256": "a5cefdab53442cca109a67aac798961486b3017f3b97a595b584df1e1ca9e784",
+      "bytes": 30679,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
