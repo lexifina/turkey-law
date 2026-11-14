@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11410",
+  "decision_date": "2022-11-17",
+  "date": "2022-11-22",
+  "title": "27/03/2014 tarihli ve 4935-19 sayılı Kurul Kararının yürürlükten kaldırılmasına ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vTcityGsqZM%3D",
+  "source_sha256": "37355b1c08d36ee698bc79d9318b89d78813434a1b942ad4377a405927b98f6b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
