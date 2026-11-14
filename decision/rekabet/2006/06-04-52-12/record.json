@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-04/52-12",
+  "title": "Endesa, S.A. hisselerinin Gas Natural SDG tarafından devralınması işlemine izin verilmesi talebi.",
+  "published": "2006-03-13",
+  "in_force": "2006-01-26",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=3f65c383-0b86-43ad-b0f9-1a3a48952d46",
+  "source_id": "3f65c383-0b86-43ad-b0f9-1a3a48952d46",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "1a229825a5101e46bddb4a6c1f32994c44cdc576650d80c9eccd80ff69868e49",
+  "source_bytes": 145959,
+  "word_count": 1041,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
