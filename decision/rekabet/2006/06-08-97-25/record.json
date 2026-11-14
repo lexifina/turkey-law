@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-08/97-25",
+  "title": "Toyota Tsusho Corporation (Toyota Tsusho) ve Tomen Corporation (Tomen)'ın birleşmeleri işlemine izin verilmesi talebi.",
+  "published": "2006-04-04",
+  "in_force": "2006-02-02",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=5d5287e2-38b9-4472-a46c-6def3772fd1d",
+  "source_id": "5d5287e2-38b9-4472-a46c-6def3772fd1d",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "f25a27e65b163cbf717a93b02a022be94123d73ea2ee2ad686d282e91dadc841",
+  "source_bytes": 143430,
+  "word_count": 698,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
