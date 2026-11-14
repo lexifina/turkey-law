@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10442-1",
+  "decision_date": "2021-09-30",
+  "date": "2021-10-07",
+  "title": "25/06/2020 tarihli ve 31166 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren 18/06/2020 tarihli ve 9394 sayılı Kurul Kararının yürürlükten kaldırılması.",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3a%2FiGiI3T0w%3D",
+  "source_sha256": "085a65cd604d49b27ecc2d3bbb25d5c419ac0febc01045fd68ecee9cad8dc380",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
