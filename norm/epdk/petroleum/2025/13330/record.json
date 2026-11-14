@@ -1,0 +1,37 @@
+{
+  "title": "Altınbaş Petrol ve Ticaret Anonim Şirketi’nin DEP/767-16/17137 sayılı Depolama Lisansı kapsamında faaliyette bulunan Samsun Tesisine ilişkin",
+  "decision_number": "13330",
+  "decision_date": "2025-02-27",
+  "gazette_date": "28.02.2025",
+  "gazette_number": "32827",
+  "text_status": "as-enacted",
+  "in_force": "2025-02-27",
+  "in_force_basis": "official EPDK decision date 27.02.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0aYXKkJMP7c=",
+      "sha256": "0505bef72d90b5d58fb45d2b02013fc9e5488a4c7a9c0c245d4ca3d338070ce9",
+      "bytes": 25779,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x/9K+FuPVZg=",
+      "sha256": "788b73b8847152fc8603959c34c55dae764311bb6b0d9fac649962c6376eb552",
+      "bytes": 30360,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
