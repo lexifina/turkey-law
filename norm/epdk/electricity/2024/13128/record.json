@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13128",
+  "decision_date": "2024-12-26",
+  "date": "2024-12-29",
+  "title": "Tedarik lisansı ile toplayıcı lisansı başvurusunda bulunacak tüzel kişiler için sermaye tutarının asgari olarak belirlenmesi hk.",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S8cQhH%2BYAeU%3D",
+  "source_sha256": "89ede3f2759d6474f90f965d933015489f94875543f594f899b67df6d87a7efb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
