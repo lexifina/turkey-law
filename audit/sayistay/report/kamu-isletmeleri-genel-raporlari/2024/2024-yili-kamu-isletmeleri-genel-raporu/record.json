@@ -1,0 +1,22 @@
+{
+  "kind": "audit-report",
+  "issuer": "T.C. Sayıştay Başkanlığı",
+  "report_year": 2024,
+  "approval_date": "2025-12-25",
+  "title": "2024 Yılı Kamu İşletmeleri Genel Raporu",
+  "source": "https://www.sayistay.gov.tr/reports/download/Wmo1D7ZYZ3-2024-yili-kamu-isletmeleri-genel-raporu",
+  "source_sha256": "bdf00174213e106283e7dad64ea0e519c1177dd708e4f8a37e307c91d7fb07e9",
+  "text_status": "as-published",
+  "text_file": "metin.md",
+  "source_images": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      1
+    ]
+  ],
+  "extraction_agreement": 1.0
+}
