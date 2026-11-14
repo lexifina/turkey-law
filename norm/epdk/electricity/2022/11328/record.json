@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11328",
+  "decision_date": "2022-10-27",
+  "date": "2022-11-19",
+  "title": "Elektrik piyasasında üretim faaliyeti için yapılan önlisans ve üretim lisansı başvurularında sağlanması gereken sermaye yükümlülüğünün hesaplanması ile Kuruma sunulacak teminat tutarlarının belirlenmesine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CAL3PHoqjOA%3D",
+  "source_sha256": "233a31eecab112a0230f31b05b37e5cb990df16244ae040e154e4df753d2f5ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
