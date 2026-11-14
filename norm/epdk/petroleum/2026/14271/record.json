@@ -1,0 +1,37 @@
+{
+  "title": "ATAŞ Anadolu Tasfiyehanesi Anonim Şirketi’nin; PİL/1347-3/23163 sayılı İletim Lisansı kapsamında faaliyette bulunan ATAŞ İletim Hatlarına ilişkin",
+  "decision_number": "14271",
+  "decision_date": "2026-01-29",
+  "gazette_date": "31.01.2026",
+  "gazette_number": "33154",
+  "text_status": "as-enacted",
+  "in_force": "2026-01-29",
+  "in_force_basis": "official EPDK decision date 29.01.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xzBD7dlZzdc=",
+      "sha256": "6ec84a141edb93ec28229d7db27426a031c2a2ce05164f3753570ed96cdd8d2e",
+      "bytes": 31580,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CGOUTb6OsfE=",
+      "sha256": "c03100b36f01138f7d8e24387e926dccdd047c33481254e2bcfa78e00bf967be",
+      "bytes": 39577,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
