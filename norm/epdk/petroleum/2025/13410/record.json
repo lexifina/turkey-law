@@ -1,0 +1,37 @@
+{
+  "title": "OPET Petrolcülük Anonim Şirketi’nin; DEP/476-161/10881 sayılı Depolama Lisansı kapsamında faaliyette bulunan Mersin Tesisine ilişkin",
+  "decision_number": "13410",
+  "decision_date": "2025-03-27",
+  "gazette_date": "29.03.2025",
+  "gazette_number": "32856",
+  "text_status": "as-enacted",
+  "in_force": "2025-03-27",
+  "in_force_basis": "official EPDK decision date 27.03.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4kS8yDr6SlU=",
+      "sha256": "fd657b67c91db90b4cf4b8e77536d91c5d82677f654babc16477945808bcef96",
+      "bytes": 25885,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=75LnPl/TzRw=",
+      "sha256": "43283aba5cb36b852d8b940c7e65e6eba5e262f6efd80f93765ef875b7db552d",
+      "bytes": 30061,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
