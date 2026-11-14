@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-67/903-260",
+  "title": "Mass Kablo Sanayi A.Ş.'nin Demirer Kablo San. ve Tic. A.Ş. tarafından devralınması işlemine izin verilmesi talebi.",
+  "published": "2006-11-15",
+  "in_force": "2006-09-28",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=141c7467-9168-44c1-a75a-d6f11c01bc95",
+  "source_id": "141c7467-9168-44c1-a75a-d6f11c01bc95",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "69ed2255a26e400791ad40935d4850caff3680c50ae229c1ac6db43ed3eaf60f",
+  "source_bytes": 136653,
+  "word_count": 492,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
