@@ -1,0 +1,58 @@
+# Keep a fork of lexifina/turkey-law current and see how current it is.
+# Copy this file to .github/workflows/refresh.yml in your fork, commit it to main, and enable Actions in the fork.
+# Free on a public repository. It never reads the official sources; it takes lexifina/turkey-law's new commits.
+name: Refresh from lexifina/turkey-law
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Sync main with lexifina/turkey-law (GitHub's own "Sync fork")
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/merge-upstream" -f branch=main
+
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild WATCHING, FRESHNESS, monitoring/ and PLAN.md
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git fetch origin status || true
+          log_ref=""
+          if git rev-parse -q --verify origin/status >/dev/null; then log_ref="--log-ref origin/status"; fi
+          # GitHub's push log of lexifina/turkey-law is read when the token may read it; the run adds its own row either way
+          python monitoring/make_pages.py --ref HEAD --github lexifina/turkey-law $log_ref
+          python monitoring/make_plan.py --ref HEAD
+
+      - name: Publish the pages to the status branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898713+github-actions[bot]@users.noreply.github.com"
+          git checkout -B status
+          git add WATCHING.md WATCHING.en.md FRESHNESS.md FRESHNESS.en.md PLAN.md monitoring/README.md monitoring/README.en.md monitoring/landed.tsv
+          git commit -m "Status of this fork on $(date -u +%Y-%m-%d)" || echo "No changes"
+          git push --force origin status
+
+      - name: Show freshness in the run summary
+        run: cat FRESHNESS.en.md >> "$GITHUB_STEP_SUMMARY"

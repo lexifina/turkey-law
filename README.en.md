@@ -1,83 +1,104 @@
-# The laws of Türkiye, as a git repository
+# Türkiye: law history in git
 
-[Türkçe](README.md) · **English**
+**English** · **[Ya da Türkçe okuyun](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Turkish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Turkey's national law, which global-law reads at `turkey/national/acts/`.
+The law of Türkiye as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every line; `git log` lists every change to an article; picking a date gives the text in force that day.
 
-The law-rank legislation of Türkiye in force, as a git repository: 908 laws (Kanunlar, including the Constitution, `kanun/2709`, and the codes, such as the Türk Medeni Kanunu `kanun/4721`, Türk Borçlar Kanunu `kanun/6098` and Türk Ceza Kanunu `kanun/5237`), 9 Ottoman-era laws still in force (`osmanli/`), 63 decree-laws (Kanun Hükmünde Kararnameler, `khk/`) and 33 presidential decrees (Cumhurbaşkanlığı Kararnameleri, `cbk/`). The source is the official [Mevzuat Bilgi Sistemi](https://www.mevzuat.gov.tr), run by the Presidency's Directorate General of Law and Legislation (T.C. Cumhurbaşkanlığı Hukuk ve Mevzuat Genel Müdürlüğü). Every article is one file (36955 article files), with one paragraph per line, so `git blame` and `git diff` work line by line. The text is Turkish, exactly as published.
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Türkiye's national law, which global-law reads at `turkey/national/acts/`.
 
-**History for 280 laws; the current text only for the rest.** For 280 laws, including the Constitution (`kanun/2709`, from its 1982 text), the publisher keeps earlier consolidated texts ("Önceki metinler", Word files). Each is a version here: 1187 earlier versions plus the current text, from 1947-05-14. Between two versions, every changed article is credited to the amending act that made the change, on the day it entered into force, or labelled when that cannot be told (see below). The list is [`data/history-laws.csv`](data/history-laws.csv), and every version is tagged (`git tag -l 'kanun/2709/*'`) and listed in [`data/versions.csv`](data/versions.csv). The other 733 acts have one commit each: their current text as published on 2026-10-28, with no history before that day. For every act, the publisher's amendment notes such as `(Değişik: 3/10/2001-4709/6 md.)` (changed by Law 4709, art. 6, of 3 October 2001) stay in the text and are listed in [`data/amendments.csv`](data/amendments.csv) (20203 notes naming 1551 amending acts); the footnotes are in each act's `dipnotlar.md`.
+**What is in it now:** 908 laws in force, the Constitution among them, 280 of them with every earlier text the publisher keeps, and 63 repealed laws; 9 Ottoman-era laws still in force, 63 decree-laws (KHK), 33 presidential decrees (CBK) and 105 by-laws (tüzükler); 3,296 regulations (3,149 of 109 universities and institutes, 147 of the Council of Ministers); 1,396 norm-review decisions of the Anayasa Mahkemesi, 1,965 of its decisions on political parties, immunity and the Yüce Divan, and an index of 17,999 of its individual-application decisions; 414 decisions of the Uyuşmazlık Mahkemesi, 120 insurance arbitration awards and 1,997 decisions of the Rekabet Kurulu; 455 decisions of the Yüksek Seçim Kurulu, 7 Sayıştay judgments and 9 decisions of the Grand National Assembly; 246 council decisions of Ankara and 18 of Bursa; the Resmî Gazete's daily index for 7,028 days since 2001 (70,885 items) and the index of all 15,623 laws ever passed. [`PLAN.md`](PLAN.md) lists every part this repository is meant to hold and how far each one is (41.1% so far); several parts are being filled now, so these counts are those of `83881dfc4e` on 2026-11-14.
 
-## A lawyer's questions as git commands
+Each act is one folder, `<kind>/<year>/<number>/`, with one file per article (`law/2003/4857/` is the İş Kanunu, the Labour Act, Law No. 4857); the Constitution is [`law/1982/2709/`](law/1982/2709/). Articles are named after their heading (`madde-21.md`, `ek-madde-3.md`, `gecici-madde-1.md`), `baslangic.md` holds the title and numbers, and `dipnotlar.md` the publisher's footnotes. Decisions are folders in the same shape (`case-law/constitutional-court/norm/<year>/<number>/`). Until 2026-11-10 act folders were named by the act's id (`kanun/2709`); `git log --follow` and `git blame` cross the move, and [`data/paths.json`](data/paths.json) maps each id to its folder.
+
+The text is in Turkish, as the publishers print it. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What does Article 21 of the Constitution say today? | `python tools/in_force_on.py 2026-10-28 kanun/2709 madde-21` |
-| What did it say on 1 January 2000? | `python tools/in_force_on.py 2000-01-01 kanun/2709 madde-21` |
-| Which acts changed it, and when did each take effect? | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- kanun/2709/madde-21.md` |
-| What exactly did an amendment change? | `git log -p --word-diff --author='Kanun 4709' -- kanun/2709` |
-| Which act wrote each line of an article? | `git blame kanun/2709/madde-21.md` |
-| Everything one amending act changed, in every law (here Law 6525) | `git log --stat --author='Kanun 6525'` |
-| The whole of an act, in order, on a date | `python tools/in_force_on.py 2010-01-01 kanun/2547` |
-| The publisher's versions of an act | `git tag -l 'kanun/2709/*'` |
-| Which laws have history | [`data/history-laws.csv`](data/history-laws.csv) |
-| Every article an amending act's notes name (all acts) | `grep ',6771,' data/amendments.csv` |
-| When each amending act entered into force, per act | `grep '^kanun/5237,' data/in-force-list.csv` |
-| Which acts cite the Türk Ceza Kanunu | `git grep -l '5237 sayılı'` |
-| The list of acts, with their dates and Gazette numbers | [`laws.csv`](laws.csv) |
+| Every change to Article 53 of the Labour Act (annual leave) | `git log --follow -p --word-diff -- law/2003/4857/madde-53.md` |
+| Which act wrote each line of Article 53? | `git blame law/2003/4857/madde-53.md` |
+| Every version of Article 53, with the day each took effect | `git log --follow --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- law/2003/4857/madde-53.md` |
+| Article 21 of the Constitution as in force on 1 January 2000 | `python tools/in_force_on.py 2000-01-01 kanun/2709 madde-21` |
 
-Files: `<kind>/<number>/` per act. `baslangic.md` holds the title, the numbers (Kanun Numarası, Kabul Tarihi, Resmî Gazete, Düstur) and anything before the first article. Articles are named after their heading: `madde-21.md` (Madde 21), `madde-4a.md` (Madde 4/A), `ek-madde-3.md` (Ek Madde 3), `gecici-madde-1.md` (Geçici Madde 1), `ek-gecici-madde-2.md`. Section headings (KISIM, BÖLÜM) and marginal article titles that stand right before an article are the first lines of its file. Ottoman-era acts numbered by `Bend` have `bend-21.md`. A heading that occurs twice in one act gets `~2`, `~3`. The publisher's appendices after an act are files of their own: `islenemeyen-hukumler.md` ("... KANUNA İŞLENEMEYEN HÜKÜMLER", provisions of amending acts that could not be worked into the text) and `yururluk-listesi.md` ("... YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE", when each amending act or Constitutional Court annulment entered into force). Annexed schedules (cetveller) that follow the last article stay in that article's file. Acts of law number used in two Düstur series (tertip) keep the plain number for the newer one and `-t3` for the older one. `dipnotlar.md` holds the publisher's footnotes, one per line, and `index.txt` gives the reading order. Table rows are one line with cells joined by ` | `.
+**Outside git**, we also host this record publicly, for free:
 
-## The dates, and which one we use
+- **[Ask Claude about Turkish law](https://global-law.lexifina.com/v1/try_claude?country=turkey)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=turkey)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=y%C4%B1ll%C4%B1k+izin&jurisdictions=turkey)**: a search of Turkish law for "yıllık izin", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-**Amendments are dated by the day they entered into force**, at noon Turkey time (UTC+3 since 7 September 2016; UTC+2 with summer time before), in the `In-force:` trailer and as the commit date. The date comes from the publisher's own in-force table at the end of each act ("... YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE": amending act | articles | in-force date), from the newest text that lists the act; where the table gives several dates for one act, the row that names the article is used (`Date-source: in-force-table`). Where the table names a day from which the change applies before it entered into force ("1/1/2008 tarihinden geçerli olmak üzere 8/5/2008"), that day is an `Applies-from:` trailer. A version whose act is not in any table is dated by the act's Resmî Gazete date (`Date-source: published`), and so is a law's own first text ("Kanunun ilk hali"). Dates before 1970 are clamped to 1970-01-01 in git; the real date is in `In-force:`. The dates inside amendment notes (`7/5/2010-5982/2 md.`) are adoption dates and are never used as in-force dates. 717 acts carry the in-force table (8721 rows in [`data/in-force-list.csv`](data/in-force-list.csv)).
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Turkish or in English.
 
-Acts without history are dated 2026-10-28, the day the text was retrieved: the text in force that day according to the publisher. Each act's first commit also carries `Enacted:` (kabul tarihi), `Published:` (Resmî Gazete date) and `Gazette:`.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-`tools/in_force_on.py DATE PATH [ARTICLE]` reads the `In-force:` trailers, so it does not depend on your time zone (unlike `git rev-list --before`). Before an act's first version it says there is no version. Changes whose in-force date is after 2026-10-28 are on the `future` branch (1 commits), never on `main`.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add turkey/national/acts
+python3 tools/law.py show 2026-01-01 turkey/national/acts/law/2003/4857/madde-53.md
+```
 
-## What "author" means
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-- **An amending act** (`Kanun 6525 (...) <kanun-6525@mevzuat-gov-tr.invalid>`, `KHK 666`, `Anayasa Mahkemesi K. 2013/43`; the addresses cannot exist), `Kind: amendment`: the article changed between two of the publisher's texts, and exactly one act explains it, because a new amendment note in that article names the act, or (where no note was added) the act's in-force-table row lists the article. `Evidence:` says which, for each file. 658 commits, 4804 file changes.
-- **The publisher** (`Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)`), `Kind: unexplained`: a change that no act, or more than one, explains, or whose act has no usable in-force date in its step. These are labelled and never credited; `Candidate:` names the possible acts and `Reason:` says why. Many are the publisher's own corrections and errors between texts (a changed word with no note), and the last step, from the newest earlier text to the current one, often covers several acts at once. 303 commits, 13517 file changes.
-- **The publisher**, `Kind: editorial`: typesetting only (spaces, dashes, quotation marks, footnote numbers, a heading moved to the next article) and the publisher's apparatus (footnotes, in-force list, provisions not worked in). No words of law change. 387 commits.
-- **A law's first text**: authored by the law itself (`Kind: enacted`) when the publisher's earliest text is the law as first published, otherwise by the publisher (`Kind: consolidated`, with `Consolidated-by:`). 280 commits.
-- **The current text of an act without history**: the publisher, `Kind: consolidated`. 733 commits.
+## Dates
 
-One commit is one amending act on one in-force day, across all the laws it changed. Blame credits whole paragraphs; use `git log -p --word-diff` for the words.
+Each commit is dated at noon, Turkey time (Europe/Istanbul), on the day the version took effect or the decision was given, and carries that day in its `In-force:` trailer (with `In-force-basis:` or `Date-source:` saying where it comes from):
 
-## What it does not show
+- for the laws with earlier texts, the publisher's own in-force table at the end of each act ("... YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE"); a version whose act is in no table, and a law's first text, take the act's Resmî Gazete date;
+- for an act with only its current text, the day that text was retrieved, with `Enacted:`, `Published:` and `Gazette:` beside it;
+- for a decision, the day it was given, as the court or board prints it;
+- git cannot store dates before 1970, so the 811 earlier commits are dated 1970-01-01, with the real day in `In-force:`. Ask for a date with `tools/in_force_on.py`, not `git log --before`.
 
-- History for the acts without earlier texts (733 acts): nothing before 2026-10-28.
-- Steps the publisher did not keep: two versions can be several acts apart, and then changes that more than one act could explain are labelled, not credited.
-- Regulations (yönetmelikler), by-laws (tüzükler), communiqués and presidential decisions; repealed laws (mülga kanunlar).
-- Ottoman-era dates (Rumi or Hijri calendar) are not converted: those commits carry `Enacted-as-printed:` and `Published-as-printed:` instead of `Enacted:` and `Published:`.
-- Pictures, and formatting (bold, italics, indentation). A Symbol-font character appears as its font code (for example `²` for ″), as on the site.
-- Texts that could not be read (0 rows in [`data/unreadable.csv`](data/unreadable.csv)).
+Each change is credited to the act that made it (`Kanun 6552`, `KHK 666`, `Anayasa Mahkemesi K. 2013/43`): 658 commits. A change that no single act explains is credited to the publisher, `Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)`, as `Kind: unexplained` with its possible acts in `Candidate:` (303 commits), and typesetting alone is `Kind: editorial` (387). Corrections are appended as their own commits (`Kind: correction`, 14 so far), and the `future` branch holds versions due to take effect later.
 
-This is a research aid. The authoritative text is the one published in the Resmî Gazete.
+## How current it is
+
+- [FRESHNESS.en.md](FRESHNESS.en.md): how current each source is, source by source, and how global-law sees this repository
+- [WATCHING.en.md](WATCHING.en.md): every official source watched for Türkiye, what is read on it and when it was last read
+- [monitoring/](monitoring/README.en.md): the state of this repository (latest commits, what arrived, what is stale), and how to keep a fork current with GitHub Actions
 
 ## How it is checked
 
-Before publishing, `tools/build/check_repo.py` read every act back from git and compared it:
-- the current text of every act, word for word, with the HTML the site served (text joined with spaces at block boundaries only);
-- every earlier version, at its tag, with Microsoft Word's own plain text of the source `.doc` (body and footnotes, read through Word, not through the HTML the build used). Footnote markers are left out on both sides. Word's HTML drops a few tabs after list numbers, so those versions match character for character but not word for word; the count is given;
-- every commit's trailers parse with `git interpret-trailers`; there are no merges, no dates that go backwards and no dates after the build day on `main`; `tools/in_force_on.py` gives the right article for sample paths; two builds from the same retrieved files give the same HEAD.
+- `tools/build/check_repo.py` read every law, KHK and CBK back from git: each current text word for word against the HTML the site serves, and each earlier version against Microsoft Word's own text of the publisher's `.doc`. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+- Each part added since records the hash of every source file it used (`source_sha256` in its ledger under `data/`) and says in each commit how its date was chosen (`In-force-basis:`).
+- History is append-only: `main` only grows, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Turkish law. Planned, for when the repository is complete.
 
-The results are in [`REPRODUCE.md`](REPRODUCE.md).
+## What it does not show
 
-## How it is built
+- **Most case law.** The decisions of the Yargıtay, the Danıştay and the lower courts cannot be read automatically (a timeout, and a reCAPTCHA on every search), and are not worked around; their unification decisions are planned from the Resmî Gazete. Individual applications to the Anayasa Mahkemesi are an index of metadata and links, except where the Court publishes only the applicant's initials.
+- **History for most acts.** Of the laws, 280 have every earlier text the publisher keeps; every other act starts at its text as retrieved, and regulations have their current text only. Their history is planned from the amending acts in the Resmî Gazete.
+- **Communiqués, most regulations, presidential decisions, treaties and bills.** Planned parts (see `PLAN.md`).
+- **Private persons.** Where a decision names a private person and the publisher does not anonymise it, only its metadata and link are here.
+- **Pictures and formatting** (bold, italics, indentation). Ottoman-era dates (Rumi or Hijri) are kept as printed, not converted.
 
-The record uses the site's own search table (`/Anasayfa/MevzuatDatatable`), the text of each act (`/anasayfa/MevzuatFihristDetayIframe`, the Word-generated HTML the site shows), the list of earlier texts where there is one (`/EskiKanunlar/EskiKanunlarList`), and those earlier texts as `.doc` files (`/MevzuatMetin/<...>.doc`). `convert_doc.ps1` opens each `.doc` in Microsoft Word and saves it as the same kind of Word HTML the site serves, plus Word's plain text for the check. `build.py` splits each text at its article headings (ignoring headings inside quotation marks), `history.py` compares consecutive versions and credits or labels each change, and one `git fast-import` stream writes it all. No AI model takes part in building or checking it. See [`REPRODUCE.md`](REPRODUCE.md) and [`SOURCES.md`](SOURCES.md).
+This is a research aid. The authoritative text is the one published in the Resmî Gazete.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Mevzuat Bilgi Sistemi](https://www.mevzuat.gov.tr) (T.C. Cumhurbaşkanlığı Hukuk ve Mevzuat Genel Müdürlüğü) | Consolidated legislation: laws, KHK, CBK, by-laws, regulations; the law index | for 280 laws, every earlier text it keeps ("Önceki metinler"); otherwise the current text | The legally binding text is the one in the Resmî Gazete |
+| [Resmî Gazete](https://www.resmigazete.gov.tr) | The official gazette: the daily index of every issue | as published | Notices (ilanlar) are never stored |
+| [Anayasa Mahkemesi](https://normkararlarbilgibankasi.anayasa.gov.tr) | Norm review, individual applications, political parties, Yüce Divan, immunity | as published | Individual applications as an index |
+| [Uyuşmazlık Mahkemesi](https://kararlar.uyusmazlik.gov.tr), [Sigorta Tahkim Komisyonu](https://www.sigortatahkim.org) | Court decisions, arbitral awards | as published | |
+| [Rekabet Kurumu](https://www.rekabet.gov.tr), [RTÜK](https://www.rtuk.gov.tr) | Board decisions | as published | Confidential parts as the publisher redacted them |
+| [YSK](https://www.ysk.gov.tr), [Sayıştay](https://www.sayistay.gov.tr), [TBMM](https://www.tbmm.gov.tr) | Election decisions, audit judgments, Assembly decisions | as published | |
+| [Ankara](https://www.ankara.bel.tr) and [Bursa](https://www.bursa.bel.tr) Metropolitan Municipalities | Council decisions | as published | A private person named: metadata and link only |
 
 ## Licence
 
-Source: Mevzuat Bilgi Sistemi, https://www.mevzuat.gov.tr, T.C. Cumhurbaşkanlığı Hukuk ve Mevzuat Genel Müdürlüğü. Officially published laws are free to use in Türkiye: Fikir ve Sanat Eserleri Kanunu (Law No. 5846, FSEK) article 31, as published on mevzuat.gov.tr (`kanun/5846/madde-31.md`), reads: "Resmen yayımlanan veya ilan olunan kanun, Cumhurbaşkanlığı kararnamesi, yönetmelik, tebliğ, genelge ve kazai kararların çoğaltılması, yayılması, işlenmesi veya her hangi bir suretle bunlardan faydalanma serbesttir." (The reproduction, distribution, adaptation or any other use of officially published or announced laws, presidential decrees, regulations, communiqués, circulars and judicial decisions is free.) The site's footer reads "Tüm Hakları Saklıdır" (all rights reserved) and refers to a privacy, use and copyright notice. That notice was not found on 2026-10-28 (its address leads to the Presidency's home page), so its terms were not read. The footer cannot take away the free use FSEK art. 31 gives to the legal text itself; it may cover the site's own material (design, software, editorial notes). The site's own description says the service is offered free of charge and without conditions ("ücretsiz ve koşulsuz olarak herkesin kullanımına sunulmuştur"). The wording was not changed; it was only split into files and lines. **This repository is private.** Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). Article 31 of the Fikir ve Sanat Eserleri Kanunu (Law No. 5846, [`law/1951/5846/madde-31.md`](law/1951/5846/madde-31.md)) makes the reproduction, distribution, adaptation and any other use of officially published or announced laws, presidential decrees, regulations, communiqués, circulars and judicial decisions free. Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0 1.0. **This repository is private.**
+
+No AI model wrote or changed legal text; the scripts were written by AI models (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+[visualisations/](visualisations/README.en.md): Turkish law in charts, drawn from this repository. Planned, for when the repository is complete.
 
 ## More
 

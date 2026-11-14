@@ -1,85 +1,106 @@
-# Türkiye'nin kanunları, bir git deposu olarak
+# Türkiye: git'te hukukun geçmişi
 
-**Türkçe** · [English](README.en.md)
+**Türkçe** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/tr/effort-dark.svg">
 <img alt="Bu depodaki Türkiye mevzuatı: neleri içerdiği, yürürlüğe girdiği yıla göre değişiklikler, resmî kaynaklara göre eksiksizlik ve mevcut içeriğin doğruluğu" src="data/tr/effort-light.svg" width="880">
 </picture>
 
-Her ülkenin hukuku için tek bir git geçmişi olan [lexifina/global-law](https://github.com/lexifina/global-law) projesinin parçası: bu, global-law'un `turkey/national/acts/` yolunda okuduğu Türkiye ulusal mevzuatıdır.
+Türkiye hukuku bir git geçmişi olarak: her madde bir dosya, her sürüm yürürlüğe girdiği gün bir commit ve değişikliği yapan düzenleme commit'in yazarı. `git blame` her satırın arkasındaki düzenlemeyi adlandırır; `git log` bir maddenin her değişikliğini listeler; bir tarih seçmek o gün yürürlükte olan metni verir.
 
-Türkiye'nin yürürlükteki kanun düzeyindeki mevzuatı, bir git deposu olarak: 908 kanun (Anayasa, `kanun/2709`, ile Türk Medeni Kanunu `kanun/4721`, Türk Borçlar Kanunu `kanun/6098` ve Türk Ceza Kanunu `kanun/5237` gibi temel kanunlar dahil), hâlâ yürürlükte olan 9 Osmanlı dönemi kanunu (`osmanli/`), 63 kanun hükmünde kararname (KHK, `khk/`) ve 33 Cumhurbaşkanlığı kararnamesi (`cbk/`). Kaynak: T.C. Cumhurbaşkanlığı Hukuk ve Mevzuat Genel Müdürlüğünün yürüttüğü resmî [Mevzuat Bilgi Sistemi](https://www.mevzuat.gov.tr). Her madde bir dosyadır (36.955 madde dosyası) ve her satırda bir paragraf bulunur; böylece `git blame` ve `git diff` satır satır çalışır. Metin Türkçedir ve tam olarak yayımlandığı hâliyledir.
+Her ülkenin hukuku için tek bir git geçmişi olan [lexifina/global-law](https://github.com/lexifina/global-law) projesinin parçası: bu, global-law'un `turkey/national/acts/` yolunda okuduğu Türkiye ulusal hukukudur.
 
-**280 kanun için geçmiş; diğerleri için yalnızca güncel metin.** Anayasa (`kanun/2709`, 1982 metninden itibaren) dahil 280 kanun için yayıncı, önceki konsolide metinleri ("Önceki metinler", Word dosyaları) saklamaktadır. Bunların her biri burada bir sürümdür: 1947-05-14'ten itibaren 1.187 önceki sürüm ve güncel metin. İki sürüm arasında değişen her madde, değişikliği yapan değiştirici düzenlemeye, yürürlüğe girdiği gün atfedilir; bu belirlenemediğinde ise işaretlenir (aşağıya bakınız). Liste [`data/history-laws.csv`](data/history-laws.csv) dosyasındadır; her sürüm etiketlenmiştir (`git tag -l 'kanun/2709/*'`) ve [`data/versions.csv`](data/versions.csv) dosyasında listelenir. Diğer 733 düzenlemenin her birinin tek bir commit'i vardır: 2026-10-28'de yayımlandığı hâliyle güncel metinleri; o günden önceki geçmişleri yoktur. Her düzenlemede yayıncının `(Değişik: 3/10/2001-4709/6 md.)` (3 Ekim 2001 tarihli 4709 sayılı Kanunun 6. maddesiyle değiştirilmiş) gibi değişiklik notları metinde kalır ve [`data/amendments.csv`](data/amendments.csv) dosyasında listelenir (1.551 değiştirici düzenlemeyi anan 20.203 not); dipnotlar her düzenlemenin `dipnotlar.md` dosyasındadır.
+**Şu anda içerdikleri:** Anayasa dahil yürürlükteki 908 kanun (bunların 280 tanesi yayıncının sakladığı tüm önceki metinleriyle) ve 63 mülga kanun; hâlâ yürürlükte olan 9 Osmanlı dönemi kanunu, 63 kanun hükmünde kararname (KHK), 33 Cumhurbaşkanlığı kararnamesi (CBK) ve 105 tüzük; 3.296 yönetmelik (109 üniversite ve enstitünün 3.149 yönetmeliği, Bakanlar Kurulunun 147 yönetmeliği); Anayasa Mahkemesinin 1.396 norm denetimi kararı, siyasi partiler, yasama dokunulmazlığı ve Yüce Divan hakkındaki 1.965 kararı ve 17.999 bireysel başvuru kararının dizini; Uyuşmazlık Mahkemesinin 414 kararı, 120 sigorta tahkim kararı ve Rekabet Kurulunun 1.997 kararı; Yüksek Seçim Kurulunun 455 kararı, 7 Sayıştay kararı ve Türkiye Büyük Millet Meclisinin 9 kararı; Ankara'nın 246 ve Bursa'nın 18 meclis kararı; 2001'den bu yana 7.028 günün Resmî Gazete fihristi (70.885 öğe) ve bugüne kadar kabul edilmiş 15.623 kanunun tamamının dizini. [`PLAN.md`](PLAN.md) bu deponun içermesi gereken her bölümü ve her birinin ne kadar ilerlediğini listeler (şu ana kadar %41,1); birkaç bölüm şu anda dolduruluyor, bu yüzden bu sayılar 2026-11-14 tarihli `83881dfc4e` commit'inin sayılarıdır.
 
-## Bir hukukçunun soruları git komutları olarak
+Her düzenleme bir klasördür, `<tür>/<yıl>/<sayı>/`, ve her maddesi bir dosyadır (`law/2003/4857/` 4857 sayılı İş Kanunudur); Anayasa [`law/1982/2709/`](law/1982/2709/) klasöründedir. Maddeler başlıklarına göre adlandırılır (`madde-21.md`, `ek-madde-3.md`, `gecici-madde-1.md`); `baslangic.md` başlığı ve numaraları, `dipnotlar.md` yayıncının dipnotlarını içerir. Kararlar da aynı biçimde klasörlerdir (`case-law/constitutional-court/norm/<yıl>/<sayı>/`). 2026-11-10'a kadar düzenleme klasörleri düzenlemenin kimliğiyle adlandırılıyordu (`kanun/2709`); `git log --follow` ve `git blame` bu taşımayı izler, [`data/paths.json`](data/paths.json) her kimliği klasörüne eşler.
+
+Metin Türkçedir, yayıncıların bastığı gibidir. İngilizce çeviri bu kaydın parçası değildir.
+
+## Git komutları olarak sorular
 
 | Soru | Komut |
 | --- | --- |
-| Anayasanın 21. maddesi bugün ne diyor? | `python tools/in_force_on.py 2026-10-28 kanun/2709 madde-21` |
-| 1 Ocak 2000'de ne diyordu? | `python tools/in_force_on.py 2000-01-01 kanun/2709 madde-21` |
-| Onu hangi düzenlemeler değiştirdi ve her biri ne zaman yürürlüğe girdi? | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- kanun/2709/madde-21.md` |
-| Bir değişiklik tam olarak neyi değiştirdi? | `git log -p --word-diff --author='Kanun 4709' -- kanun/2709` |
-| Bir maddenin her satırını hangi düzenleme yazdı? | `git blame kanun/2709/madde-21.md` |
-| Bir değiştirici düzenlemenin tüm kanunlarda değiştirdiği her şey (burada 6525 sayılı Kanun) | `git log --stat --author='Kanun 6525'` |
-| Bir düzenlemenin bir tarihteki tamamı, sırasıyla | `python tools/in_force_on.py 2010-01-01 kanun/2547` |
-| Bir düzenlemenin yayıncıdaki sürümleri | `git tag -l 'kanun/2709/*'` |
-| Hangi kanunların geçmişi var | [`data/history-laws.csv`](data/history-laws.csv) |
-| Bir değiştirici düzenlemenin notlarında adı geçen her madde (tüm düzenlemelerde) | `grep ',6771,' data/amendments.csv` |
-| Her değiştirici düzenlemenin yürürlüğe giriş tarihi, düzenleme bazında | `grep '^kanun/5237,' data/in-force-list.csv` |
-| Türk Ceza Kanununa atıf yapan düzenlemeler | `git grep -l '5237 sayılı'` |
-| Tarihleri ve Resmî Gazete sayılarıyla düzenlemelerin listesi | [`laws.csv`](laws.csv) |
+| İş Kanununun 53. maddesindeki (yıllık ücretli izin) her değişiklik | `git log --follow -p --word-diff -- law/2003/4857/madde-53.md` |
+| 53. maddenin her satırını hangi düzenleme yazdı? | `git blame law/2003/4857/madde-53.md` |
+| 53. maddenin her sürümü, her birinin yürürlüğe girdiği günle | `git log --follow --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- law/2003/4857/madde-53.md` |
+| Anayasanın 21. maddesi, 1 Ocak 2000'de yürürlükte olduğu hâliyle | `python tools/in_force_on.py 2000-01-01 kanun/2709 madde-21` |
 
-Dosyalar: her düzenleme için `<kind>/<number>/`. `baslangic.md` başlığı, numaraları (Kanun Numarası, Kabul Tarihi, Resmî Gazete, Düstur) ve ilk maddeden önceki her şeyi içerir. Maddeler başlıklarına göre adlandırılır: `madde-21.md` (Madde 21), `madde-4a.md` (Madde 4/A), `ek-madde-3.md` (Ek Madde 3), `gecici-madde-1.md` (Geçici Madde 1), `ek-gecici-madde-2.md`. Bir maddenin hemen önünde yer alan bölüm başlıkları (KISIM, BÖLÜM) ve madde kenar başlıkları, o maddenin dosyasının ilk satırlarıdır. `Bend` ile numaralandırılmış Osmanlı dönemi düzenlemelerinde `bend-21.md` bulunur. Bir düzenlemede iki kez geçen bir başlık `~2`, `~3` alır. Yayıncının bir düzenlemenin arkasına eklediği bölümler ayrı dosyalardır: `islenemeyen-hukumler.md` ("... KANUNA İŞLENEMEYEN HÜKÜMLER", değiştirici düzenlemelerin metne işlenemeyen hükümleri) ve `yururluk-listesi.md` ("... YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE", her değiştirici düzenlemenin veya Anayasa Mahkemesi iptal kararının ne zaman yürürlüğe girdiği). Son maddeden sonra gelen ekli cetveller o maddenin dosyasında kalır. Kanun numarası iki Düstur tertibinde kullanılmış düzenlemelerde yenisi yalın numarayı, eskisi `-t3` ekini taşır. `dipnotlar.md` yayıncının dipnotlarını her satırda bir dipnot olacak şekilde içerir; `index.txt` okuma sırasını verir. Tablo satırları, hücreleri ` | ` ile birleştirilmiş tek bir satırdır.
+**Git dışında** bu kaydı herkese açık ve ücretsiz olarak da sunuyoruz:
 
-## Tarihler ve hangisini kullandığımız
+- **[Türk hukukunu Claude'a sorun](https://global-law.lexifina.com/v1/try_claude?country=turkey)**: Claude'u ilk sorusu hazır olarak açar.
+- **[ChatGPT'ye sorun](https://global-law.lexifina.com/v1/try_chatgpt?country=turkey)**: aynı soru ChatGPT'de.
+- **[API'yi tarayıcınızda çağırın](https://global-law.lexifina.com/v1/search_law?query=y%C4%B1ll%C4%B1k+izin&jurisdictions=turkey)**: Türk hukukunda "yıllık izin" araması, JSON olarak. Belgeler [burada](https://lexifina.com/api/global-law).
 
-**Değişiklikler yürürlüğe girdikleri günle tarihlendirilir**; saat, Türkiye saatiyle öğlen 12'dir (7 Eylül 2016'dan beri UTC+3; öncesinde yaz saati uygulamasıyla birlikte UTC+2) ve tarih `In-force:` trailer'ında ve commit tarihi olarak yer alır. Tarih, yayıncının her düzenlemenin sonundaki kendi yürürlük tablosundan ("... YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE": değiştirici düzenleme | maddeler | yürürlük tarihi), düzenlemeyi listeleyen en yeni metinden alınır; tablo bir düzenleme için birden fazla tarih verdiğinde maddeyi anan satır kullanılır (`Date-source: in-force-table`). Tablo, değişikliğin yürürlüğe girmesinden önceki bir günden itibaren uygulanacağını belirttiğinde ("1/1/2008 tarihinden geçerli olmak üzere 8/5/2008"), o gün bir `Applies-from:` trailer'ıdır. Düzenlemesi hiçbir tabloda yer almayan bir sürüm, düzenlemenin Resmî Gazete tarihiyle tarihlendirilir (`Date-source: published`); bir kanunun kendi ilk metni ("Kanunun ilk hali") de öyle. 1970'ten önceki tarihler git'te 1970-01-01'e sabitlenir; gerçek tarih `In-force:` içindedir. Değişiklik notlarının içindeki tarihler (`7/5/2010-5982/2 md.`) kabul tarihleridir ve hiçbir zaman yürürlük tarihi olarak kullanılmaz. 717 düzenleme yürürlük tablosu içerir ([`data/in-force-list.csv`](data/in-force-list.csv) dosyasında 8.721 satır).
+İki asistan da kaydı ücretsiz Global law bağlayıcısı üzerinden okur (MCP, `https://global-law.lexifina.com/mcp`); ilk seferde sohbet size bağlayıcıyı ekleyen bağlantıyı verir. Türkçe ya da İngilizce sorun.
 
-Geçmişi olmayan düzenlemeler, metnin alındığı gün olan 2026-10-28 ile tarihlendirilir: yayıncıya göre o gün yürürlükte olan metin. Her düzenlemenin ilk commit'i ayrıca `Enacted:` (kabul tarihi), `Published:` (Resmî Gazete tarihi) ve `Gazette:` trailer'larını taşır.
+**Kolayca kendiniz barındırın.** Git ve Python yeterlidir; araçlar kendi bilgisayarınızda çalışır:
 
-`tools/in_force_on.py DATE PATH [ARTICLE]` `In-force:` trailer'larını okur; bu nedenle (`git rev-list --before` komutundan farklı olarak) saat diliminize bağlı değildir. Bir düzenlemenin ilk sürümünden önceki bir tarih için sürüm bulunmadığını söyler. Yürürlük tarihi 2026-10-28'den sonra olan değişiklikler `future` dalındadır (1 commit), hiçbir zaman `main` dalında değildir.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add turkey/national/acts
+python3 tools/law.py show 2026-01-01 turkey/national/acts/law/2003/4857/madde-53.md
+```
 
-## "Yazar" ne demektir
+Claude Code, Cursor, VS Code ya da Codex'te açıldığında klon aynı araçlarla yerel bir MCP sunucusu da başlatır ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-- **Değiştirici bir düzenleme** (`Kanun 6525 (...) <kanun-6525@mevzuat-gov-tr.invalid>`, `KHK 666`, `Anayasa Mahkemesi K. 2013/43`; bu adresler var olamaz), `Kind: amendment`: madde yayıncının iki metni arasında değişmiştir ve bunu tam olarak bir düzenleme açıklar; çünkü ya o maddeye eklenen yeni bir değişiklik notu düzenlemeyi anar ya da (not eklenmemişse) düzenlemenin yürürlük tablosundaki satırı maddeyi listeler. `Evidence:` her dosya için hangisi olduğunu belirtir. 658 commit, 4.804 dosya değişikliği.
-- **Yayıncı** (`Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)`), `Kind: unexplained`: hiçbir düzenlemenin açıklamadığı ya da birden fazla düzenlemenin açıkladığı veya düzenlemesinin o adımda kullanılabilir bir yürürlük tarihi bulunmayan değişiklik. Bunlar işaretlenir ve hiçbir zaman bir düzenlemeye atfedilmez; `Candidate:` olası düzenlemeleri adlandırır, `Reason:` nedenini belirtir. Birçoğu yayıncının metinler arasındaki kendi düzeltmeleri ve hatalarıdır (notu olmayan değişmiş bir sözcük); son adım, yani en yeni önceki metinden güncel metne geçiş ise çoğu zaman birkaç düzenlemeyi birden kapsar. 303 commit, 13.517 dosya değişikliği.
-- **Yayıncı**, `Kind: editorial`: yalnızca dizgi (boşluklar, tireler, tırnak işaretleri, dipnot numaraları, bir sonraki maddeye taşınan bir başlık) ve yayıncının eklediği yardımcı unsurlar (dipnotlar, yürürlük listesi, işlenemeyen hükümler). Kanun metninin hiçbir sözcüğü değişmez. 387 commit.
-- **Bir kanunun ilk metni**: yayıncının en eski metni kanunun ilk yayımlandığı hâli olduğunda yazar kanunun kendisidir (`Kind: enacted`), aksi takdirde yayıncıdır (`Kind: consolidated`, `Consolidated-by:` ile). 280 commit.
-- **Geçmişi olmayan bir düzenlemenin güncel metni**: yayıncı, `Kind: consolidated`. 733 commit.
+## Tarihler
 
-Bir commit, tek bir yürürlük gününde, değiştirdiği tüm kanunlar genelinde tek bir değiştirici düzenlemedir. Blame paragrafları bütün olarak atfeder; sözcükler için `git log -p --word-diff` kullanın.
+Her commit, sürümün yürürlüğe girdiği ya da kararın verildiği gün, Türkiye saatiyle (Europe/Istanbul) öğlen 12'de tarihlenir ve bu günü `In-force:` trailer'ında taşır (`In-force-basis:` ya da `Date-source:` günün nereden geldiğini söyler):
 
-## Neleri göstermez
+- önceki metinleri olan kanunlarda yayıncının her düzenlemenin sonundaki kendi yürürlük tablosu ("... YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE"); düzenlemesi hiçbir tabloda olmayan bir sürüm ve bir kanunun ilk metni düzenlemenin Resmî Gazete tarihini alır;
+- yalnızca güncel metni olan bir düzenlemede metnin alındığı gün; yanında `Enacted:`, `Published:` ve `Gazette:` bulunur;
+- bir kararda, mahkemenin ya da kurulun bastığı karar günü;
+- git 1970'ten önceki tarihleri saklayamaz; bu nedenle daha eski 811 commit 1970-01-01 tarihlidir ve gerçek gün `In-force:` içindedir. Bir tarihi `git log --before` ile değil, `tools/in_force_on.py` ile sorun.
 
-- Önceki metinleri olmayan düzenlemelerin geçmişi (733 düzenleme): 2026-10-28'den öncesine ait hiçbir şey.
-- Yayıncının saklamadığı adımlar: iki sürüm arasında birkaç düzenleme bulunabilir ve bu durumda birden fazla düzenlemenin açıklayabileceği değişiklikler bir düzenlemeye atfedilmez, işaretlenir.
-- Yönetmelikler, tüzükler, tebliğler ve Cumhurbaşkanı kararları; mülga kanunlar.
-- Osmanlı dönemi tarihleri (Rumi veya Hicri takvim) dönüştürülmez: bu commit'ler `Enacted:` ve `Published:` yerine `Enacted-as-printed:` ve `Published-as-printed:` taşır.
-- Resimler ve biçimlendirme (kalın, italik, girinti). Symbol yazı tipindeki bir karakter, sitede olduğu gibi yazı tipi koduyla görünür (örneğin ″ için `²`).
-- Okunamayan metinler ([`data/unreadable.csv`](data/unreadable.csv) dosyasında 0 satır).
+Her değişiklik onu yapan düzenlemeye atfedilir (`Kanun 6552`, `KHK 666`, `Anayasa Mahkemesi K. 2013/43`): 658 commit. Hiçbir düzenlemenin tek başına açıklamadığı bir değişiklik yayıncıya, `Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)`, `Kind: unexplained` olarak ve olası düzenlemeler `Candidate:` içinde verilerek atfedilir (303 commit); yalnızca dizgi değişiklikleri `Kind: editorial` olarak işaretlenir (387). Düzeltmeler ayrı commit'ler olarak eklenir (`Kind: correction`, şu ana kadar 14) ve `future` dalı daha sonra yürürlüğe girecek sürümleri içerir.
 
-Bu bir araştırma aracıdır. Esas alınacak metin, Resmî Gazete'de yayımlanan metindir.
+## Ne kadar güncel
+
+- [FRESHNESS.md](FRESHNESS.md): her kaynağın ne kadar güncel olduğu, kaynak kaynak, ve global-law'un bu depoyu nasıl gördüğü
+- [WATCHING.md](WATCHING.md): Türkiye için izlenen her resmî kaynak, onda neyin okunduğu ve en son ne zaman okunduğu
+- [monitoring/](monitoring/): bu deponun durumu (son commit'ler, neler geldi, neler gecikti) ve bir fork'un GitHub Actions ile nasıl güncel tutulacağı
 
 ## Nasıl denetlenir
 
-Yayımlanmadan önce `tools/build/check_repo.py` her düzenlemeyi git'ten geri okudu ve karşılaştırdı:
-- her düzenlemenin güncel metnini, sözcüğü sözcüğüne, sitenin sunduğu HTML ile (metin yalnızca blok sınırlarında boşlukla birleştirilerek);
-- her önceki sürümü, kendi etiketinde, kaynak `.doc` dosyasının Microsoft Word'ün kendisinin ürettiği düz metniyle (gövde ve dipnotlar; derlemenin kullandığı HTML üzerinden değil, Word aracılığıyla okunarak). Dipnot işaretleri her iki tarafta da dışarıda bırakılır. Word'ün HTML'i liste numaralarından sonraki birkaç sekmeyi düşürdüğünden bu sürümler karakter karakter eşleşir ama sözcük sözcük eşleşmez; bunların sayısı verilmiştir;
-- her commit'in trailer'ları `git interpret-trailers` ile ayrıştırılabilir; `main` dalında birleştirme (merge), geriye giden tarih ve derleme gününden sonraki tarih yoktur; `tools/in_force_on.py` örnek yollar için doğru maddeyi verir; aynı alınmış dosyalardan yapılan iki derleme aynı HEAD'i verir.
+- `tools/build/check_repo.py` her kanunu, KHK'yi ve CBK'yi git'ten geri okudu: her güncel metni sitenin sunduğu HTML ile sözcüğü sözcüğüne, her önceki sürümü yayıncının `.doc` dosyasının Microsoft Word'ün kendisinin ürettiği metniyle karşılaştırdı. Sonuçlar [`REPRODUCE.md`](REPRODUCE.md) dosyasındadır.
+- O zamandan beri eklenen her bölüm, kullandığı her kaynak dosyanın özetini (`data/` altındaki defterinde `source_sha256`) kaydeder ve her commit'te tarihin nasıl seçildiğini söyler (`In-force-basis:`).
+- Geçmiş yalnızca eklenerek büyür: `main` dalı yalnızca büyür ve yayımlanmış hiçbir commit yeniden yazılmaz.
+- [vulnerabilities/](vulnerabilities/): Türk mevzuatındaki olası yazım hataları. Planlandı; depo tamamlandığında hazırlanacak.
 
-Sonuçlar [`REPRODUCE.md`](REPRODUCE.md) dosyasındadır.
+## Neleri göstermez
 
-## Nasıl oluşturulur
+- **İçtihadın çoğu.** Yargıtay, Danıştay ve alt mahkemelerin kararları otomatik olarak okunamıyor (bir zaman aşımı ve her aramada reCAPTCHA) ve bu engeller aşılmıyor; içtihadı birleştirme kararları Resmî Gazete'den alınmak üzere planlandı. Anayasa Mahkemesine bireysel başvurular, Mahkemenin yalnızca başvurucunun baş harflerini yayımladığı durumlar dışında, üst veri ve bağlantılardan oluşan bir dizindir.
+- **Çoğu düzenlemenin geçmişi.** Kanunlardan 280 tanesi yayıncının sakladığı tüm önceki metinlere sahiptir; diğer her düzenleme alındığı hâliyle başlar ve yönetmeliklerin yalnızca güncel metni vardır. Geçmişleri Resmî Gazete'deki değiştirici düzenlemelerden alınmak üzere planlandı.
+- **Tebliğler, yönetmeliklerin çoğu, Cumhurbaşkanı kararları, milletlerarası andlaşmalar ve kanun teklifleri.** Planlanan bölümler (bkz. `PLAN.md`).
+- **Özel kişiler.** Bir karar özel bir kişiyi adlandırıyor ve yayıncı bunu anonimleştirmiyorsa burada yalnızca üst verisi ve bağlantısı vardır.
+- **Resimler ve biçimlendirme** (kalın, italik, girinti). Osmanlı dönemi tarihleri (Rumi ya da Hicri) dönüştürülmez, basıldığı gibi tutulur.
 
-Kayıt; sitenin kendi arama tablosunu (`/Anasayfa/MevzuatDatatable`), her düzenlemenin metnini (`/anasayfa/MevzuatFihristDetayIframe`, sitenin gösterdiği, Word ile üretilmiş HTML), bulunduğu durumlarda önceki metinlerin listesini (`/EskiKanunlar/EskiKanunlarList`) ve bu önceki metinleri `.doc` dosyaları olarak (`/MevzuatMetin/<...>.doc`) kullanır. `convert_doc.ps1` her `.doc` dosyasını Microsoft Word'de açar ve sitenin sunduğu türden Word HTML'i olarak kaydeder; ayrıca denetim için Word'ün düz metnini de kaydeder. `build.py` her metni madde başlıklarından böler (tırnak içindeki başlıkları yok sayarak), `history.py` ardışık sürümleri karşılaştırır ve her değişikliği bir düzenlemeye atfeder ya da işaretler; tek bir `git fast-import` akışı hepsini yazar. Oluşturma veya denetleme sürecinde hiçbir yapay zekâ modeli yer almaz. Bkz. [`REPRODUCE.md`](REPRODUCE.md) ve [`SOURCES.md`](SOURCES.md).
+Bu bir araştırma aracıdır. Esas alınacak metin, Resmî Gazete'de yayımlanan metindir.
+
+## Kaynaklar
+
+| Kaynak | Tür | Önceki sürümler | Notlar |
+| --- | --- | --- | --- |
+| [Mevzuat Bilgi Sistemi](https://www.mevzuat.gov.tr) (T.C. Cumhurbaşkanlığı Hukuk ve Mevzuat Genel Müdürlüğü) | Konsolide mevzuat: kanunlar, KHK, CBK, tüzükler, yönetmelikler; kanun dizini | 280 kanun için sakladığı tüm önceki metinler ("Önceki metinler"); diğerleri için güncel metin | Hukuken bağlayıcı metin Resmî Gazete'deki metindir |
+| [Resmî Gazete](https://www.resmigazete.gov.tr) | Resmî gazete: her sayının günlük fihristi | yayımlandığı gibi | İlanlar hiçbir zaman saklanmaz |
+| [Anayasa Mahkemesi](https://normkararlarbilgibankasi.anayasa.gov.tr) | Norm denetimi, bireysel başvuru, siyasi partiler, Yüce Divan, yasama dokunulmazlığı | yayımlandığı gibi | Bireysel başvurular bir dizin olarak |
+| [Uyuşmazlık Mahkemesi](https://kararlar.uyusmazlik.gov.tr), [Sigorta Tahkim Komisyonu](https://www.sigortatahkim.org) | Mahkeme kararları, hakem kararları | yayımlandığı gibi | |
+| [Rekabet Kurumu](https://www.rekabet.gov.tr), [RTÜK](https://www.rtuk.gov.tr) | Kurul kararları | yayımlandığı gibi | Gizli bölümler yayıncının kararattığı gibi |
+| [YSK](https://www.ysk.gov.tr), [Sayıştay](https://www.sayistay.gov.tr), [TBMM](https://www.tbmm.gov.tr) | Seçim kararları, Sayıştay kararları, Meclis kararları | yayımlandığı gibi | |
+| [Ankara](https://www.ankara.bel.tr) ve [Bursa](https://www.bursa.bel.tr) Büyükşehir Belediyeleri | Meclis kararları | yayımlandığı gibi | Özel bir kişi adlandırılmışsa yalnızca üst veri ve bağlantı |
 
 ## Lisans
 
-Kaynak: Mevzuat Bilgi Sistemi, https://www.mevzuat.gov.tr, T.C. Cumhurbaşkanlığı Hukuk ve Mevzuat Genel Müdürlüğü. Resmî olarak yayımlanan kanunlar Türkiye'de serbestçe kullanılabilir: mevzuat.gov.tr'de yayımlandığı hâliyle Fikir ve Sanat Eserleri Kanununun (5846 sayılı Kanun, FSEK) 31. maddesi (`kanun/5846/madde-31.md`) şöyledir: "Resmen yayımlanan veya ilan olunan kanun, Cumhurbaşkanlığı kararnamesi, yönetmelik, tebliğ, genelge ve kazai kararların çoğaltılması, yayılması, işlenmesi veya her hangi bir suretle bunlardan faydalanma serbesttir." Sitenin altbilgisinde "Tüm Hakları Saklıdır" ifadesi yer alır ve bir gizlilik, kullanım ve telif hakkı bildirimine atıf yapılır. Bu bildirim 2026-10-28'de bulunamadı (adresi Cumhurbaşkanlığının ana sayfasına yönlendiriyor); bu nedenle koşulları okunmamıştır. Altbilgi, FSEK m. 31'in kanun metninin kendisine tanıdığı serbest kullanımı ortadan kaldıramaz; sitenin kendi materyalini (tasarım, yazılım, editoryal notlar) kapsıyor olabilir. Sitenin kendi tanıtımında hizmetin ücretsiz ve koşulsuz sunulduğu belirtilir ("ücretsiz ve koşulsuz olarak herkesin kullanımına sunulmuştur"). Metnin ifadesi değiştirilmemiş, yalnızca dosyalara ve satırlara bölünmüştür. **Bu depo özeldir.** Lexifina'nın kendi katkıları (araçlar, içeriğin düzenlenişi ve commit mesajları) CC0 kapsamındadır. Bkz. [`LICENSE`](LICENSE).
+Bkz. [`LICENSE`](LICENSE). Fikir ve Sanat Eserleri Kanununun (5846 sayılı Kanun, [`law/1951/5846/madde-31.md`](law/1951/5846/madde-31.md)) 31. maddesi, resmen yayımlanan veya ilan olunan kanun, Cumhurbaşkanlığı kararnamesi, yönetmelik, tebliğ, genelge ve kazai kararların çoğaltılmasını, yayılmasını, işlenmesini veya her hangi bir suretle bunlardan faydalanmayı serbest kılar. Lexifina'nın kendi katkıları (araçlar, içeriğin düzenlenişi ve commit mesajları) CC0 1.0 kapsamındadır. **Bu depo özeldir.**
+
+Hiçbir yapay zekâ modeli hukuki metni yazmadı ya da değiştirmedi; betikleri yapay zekâ modelleri yazdı (bkz. [`REPRODUCE.md`](REPRODUCE.md)).
 
 Bu metin İngilizce sürümün ([README.en.md](README.en.md)) çevirisidir; aralarında fark olursa İngilizce sürüm geçerlidir.
+
+## Görselleştirmeler
+
+[visualisations/](visualisations/): bu depodan çizilen grafiklerle Türk hukuku. Planlandı; depo tamamlandığında hazırlanacak.
 
 ## Daha fazla
 
