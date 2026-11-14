@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9534",
+  "decision_date": "2020-09-10",
+  "date": "2020-09-22",
+  "title": "Rüzgar enerjisine dayalı önlisans başvurularının ikinci bir duyuruya kadar ertelenmesine",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SEMIZ9FxHQA%3D",
+  "source_sha256": "3a4b7a2499fd19a5ab3920e5cc919d0c403cbe74d0ed77979d4f76916b7526ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
