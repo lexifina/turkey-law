@@ -1,0 +1,37 @@
+{
+  "title": "Altınbaş Petrol ve Ticaret A.Ş.’ye ait, DEP/654-6/15759 lisans numarası ile faaliyette bulunan Kırıkkale Tesisi için depolama tarifesi",
+  "decision_number": "14292",
+  "decision_date": "2026-02-06",
+  "gazette_date": "11.02.2026",
+  "gazette_number": "33165",
+  "text_status": "as-enacted",
+  "in_force": "2026-02-06",
+  "in_force_basis": "official EPDK decision date 06.02.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c3dGjRlJ9/E=",
+      "sha256": "434a675f7636c358c0c5870d920aca914344397179fb827d6177fbffebac1448",
+      "bytes": 31828,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8oquDs2z66I=",
+      "sha256": "63d55de5da0e17818da141141dfba4b609935f29bfd383efde531fe12c2acf53",
+      "bytes": 30112,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
