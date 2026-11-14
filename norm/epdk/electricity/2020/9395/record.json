@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9395",
+  "decision_date": "2020-06-18",
+  "date": "2020-06-25",
+  "title": "Yenilenebilir enerji kaynaklarından elektrik enerjisi üreten tesislerin önlisans veya üretim lisanslarına derç edilecek yıllık elektrik enerjisi üretim miktarının tespitinde esas alınacak yıllık azami üretim miktarı",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=95Vd81EvzhE%3D",
+  "source_sha256": "7a640a853bcb2d895792d4bf374df41ec8e6a2c0268f03584a3c6a553f2389b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
