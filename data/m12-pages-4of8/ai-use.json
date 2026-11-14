@@ -1,0 +1,13 @@
+{
+  "ai_use": {
+    "model_assistance": "Collector/helper code and conservative privacy classification rules.",
+    "legal_text": "Official DOCX text extracted deterministically; no model-generated or model-corrected legal words.",
+    "ocr": "Not used.",
+    "privacy": "Potential private-person decisions remain metadata-only pending review."
+  },
+  "capture_modes": [
+    "full-text",
+    "metadata-only"
+  ],
+  "history_type": "as-enacted"
+}
