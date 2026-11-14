@@ -1,0 +1,37 @@
+{
+  "title": "Petrol Ofisi Anonim Şirketi’nin; DEP/474-3/10361 sayılı Depolama Lisansı kapsamında faaliyette bulunan Antalya Terminali Depolama Tesisine ilişkin",
+  "decision_number": "14276",
+  "decision_date": "2026-01-29",
+  "gazette_date": "31.01.2026",
+  "gazette_number": "33154",
+  "text_status": "as-enacted",
+  "in_force": "2026-01-29",
+  "in_force_basis": "official EPDK decision date 29.01.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O+IEAPxAk6I=",
+      "sha256": "bdb9afdc9c4174017ea17428065522ba5969f532b3ec57d395dde08ddbf441d1",
+      "bytes": 31570,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jNw5Vu9ceF4=",
+      "sha256": "9a56b3ff84200b6b4df9e5056ead1f349bbef9e8f8a044465a2d3f92039ce144",
+      "bytes": 33901,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
