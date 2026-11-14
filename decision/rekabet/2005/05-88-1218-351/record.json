@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "05-88/1218-351",
+  "title": "Georgia Pacific Corporation hisselerinin %100'ünün Koch Industries, Inc. tarafından devralınması işlemine izin verilmesi talebi.",
+  "published": "2006-02-27",
+  "in_force": "2005-12-29",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=e678679f-881e-400b-bf83-752dc31d444f",
+  "source_id": "e678679f-881e-400b-bf83-752dc31d444f",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "e4d7fbf943846cc4cf2ab796ca0359ed922e4f7d04cca4d978bfc96f62afd111",
+  "source_bytes": 188631,
+  "word_count": 2974,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
