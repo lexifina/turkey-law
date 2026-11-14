@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-61/823-238",
+  "title": "Muehlstein Holding Corporation'ın %100 hissesinin Ravago S.A. tarafından devralınması işlemine izin verilmesi talebi.",
+  "published": "2006-11-02",
+  "in_force": "2006-09-07",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=64b9b1aa-98eb-48ca-879e-a38af70795b3",
+  "source_id": "64b9b1aa-98eb-48ca-879e-a38af70795b3",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "bfefcb41aef980f2501a874a44fbca4052bf457481ca66f4e124d0c5ee4f9e38",
+  "source_bytes": 161241,
+  "word_count": 1102,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
