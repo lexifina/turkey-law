@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6812/2",
+  "decision_date": "2016-12-29",
+  "date": "2016-12-31",
+  "title": "Önlisans başvurusunda bulunacak tüzel kişilerden alınacak teminat mektubu tutarına ilişkin alınan 4709-6 sayılı Kurul Kararı çerçevesinde hesaplanacak teminat tutarı kadarının 01/06/2017 tarihine kadar Kuruma sunularak değiştirilmesine,",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F75PNtovVDM%3D",
+  "source_sha256": "1463542c945a71210e36df829a3a5ab0bf1617638c38310cac3bb502ad006d71",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
