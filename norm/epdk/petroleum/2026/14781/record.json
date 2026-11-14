@@ -1,0 +1,35 @@
+{
+  "title": "Petrol Ofisi Anonim Şirketi’nin; DEP/474-8/10366 sayılı Depolama Lisansı kapsamında Petrol Ofisi A.Ş. Derince Terminali Depolama Tesisine ilişkin depolama tarifesi",
+  "decision_number": "14781",
+  "decision_date": "2026-08-06",
+  "gazette_date": "08.08.2026",
+  "gazette_number": "33334",
+  "text_status": "as-enacted",
+  "in_force": "2026-08-06",
+  "in_force_basis": "official EPDK decision date 06.08.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MvM34AUrXio=",
+      "sha256": "60f984e36ef04b63cd6563447e2a7add6089374196bacd9d69e23054c305b1f3",
+      "bytes": 31380,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TWalejQ2NJI=",
+      "title": "Petrol Ofisi A.Ş. - Derince Terminali Depolama Tarifesi",
+      "sha256": "353054aaaea0623da4c700eac0d822123454a05da5e78f87473a0049c3acc93b",
+      "bytes": 87040,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
