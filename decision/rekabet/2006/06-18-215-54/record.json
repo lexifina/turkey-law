@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-18/215-54",
+  "title": "Petrol Ofisi A.Ş.'nin bayileriyle imzaladığı Akaryakıt Bayilik Sözleşmesi'ne ilişkin muafiyet talebi.",
+  "published": "2006-04-14",
+  "in_force": "2006-03-09",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=67349dd0-ac50-4214-8c11-dea49151db45",
+  "source_id": "67349dd0-ac50-4214-8c11-dea49151db45",
+  "source_type": "Menfi Tespit ve Muafiyet",
+  "source_sha256": "e2f168069a5dc46d9f702d99859a8a828c91de7554cdbd2df1a8de6775ad8bcd",
+  "source_bytes": 140628,
+  "word_count": 684,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
