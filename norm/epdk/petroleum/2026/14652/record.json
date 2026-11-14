@@ -1,0 +1,35 @@
+{
+  "title": "Shell & Turcas Petrol Anonim Şirketi’ne ait PİL/3212-6/29444 numaralı iletim lisansı ile faaliyette bulunan Antalya Terminali için iletim tarifesine ilişkin",
+  "decision_number": "14652",
+  "decision_date": "2026-06-11",
+  "gazette_date": "13.06.2026",
+  "gazette_number": "33279",
+  "text_status": "as-enacted",
+  "in_force": "2026-06-11",
+  "in_force_basis": "official EPDK decision date 11.06.2026; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LKwtCP6ahzI=",
+      "sha256": "7f9db2051b4c294dd717acc320d9bc9f7bad400cd006a0ae670070d36c5c0eab",
+      "bytes": 31706,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KWqAOZ7AW5Y=",
+      "title": "Shell & Turcas Petrol Anonim Şirketi - Antalya Terminali İletim Tarifesi",
+      "sha256": "48ab997293c5ae0ae453dd6d25e546639733eacaa9cfea10c0fad4ea905bc9c2",
+      "bytes": 99328,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
