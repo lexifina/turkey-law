@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-04/55-13",
+  "title": "TOTAL ve MEVLANA arasında 25.7.2001 tarihinde imzalanan 'Akaryakıt Bayiliği Sözleşmesi'ne muafiyet tanınması veya menfi tespit belgesi verilmesi talebi",
+  "published": "2006-03-29",
+  "in_force": "2006-01-26",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=2b82cdb8-64c0-47cc-bab3-83e09ade9f47",
+  "source_id": "2b82cdb8-64c0-47cc-bab3-83e09ade9f47",
+  "source_type": "Menfi Tespit ve Muafiyet",
+  "source_sha256": "f8dc755d1944117f2a6c49f732e89f397744f94994dca6db55f97d7cb1e59242",
+  "source_bytes": 133666,
+  "word_count": 1587,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
