@@ -1,0 +1,45 @@
+{
+  "kind": "audit-report",
+  "issuer": "T.C. Sayıştay Başkanlığı",
+  "report_year": 2017,
+  "approval_date": "2018-12-13",
+  "title": "2017 Yılı Kamu İşletmeleri Genel Raporu",
+  "source": "https://www.sayistay.gov.tr/reports/download/0k2oeRXgne-2017-yili-kamu-isletmeleri-genel-raporu",
+  "source_sha256": "de98ea83a50ce97678542fa94dee6d659aff430ec0fc560662622101852dcaea",
+  "text_status": "as-published",
+  "text_file": "metin.md",
+  "source_image_count": 1,
+  "source_images": [
+    {
+      "page": 3,
+      "count": 1,
+      "words": 11,
+      "rects": [
+        [
+          254.9,
+          70.85,
+          339.9,
+          155.85
+        ]
+      ]
+    }
+  ],
+  "image_accounting": {
+    "source": 1,
+    "referenced": 0,
+    "omitted_normative": 0,
+    "decorative_cover": 1
+  },
+  "text_check": {
+    "source": "https://www.sayistay.gov.tr/reports/download/0k2oeRXgne-2017-yili-kamu-isletmeleri-genel-raporu",
+    "sha256": "de98ea83a50ce97678542fa94dee6d659aff430ec0fc560662622101852dcaea",
+    "poppler_words": 11199,
+    "pymupdf_words": 11199,
+    "token_counts_identical": true,
+    "token_order_identical": true,
+    "differences": {
+      "poppler_only": {},
+      "pymupdf_only": {}
+    }
+  }
+}
