@@ -1,0 +1,37 @@
+{
+  "title": "Shell & Turcas Petrol A.Ş.’ye ait DEP/2066-1/25885 numaralı depolama lisansı ile faaliyette bulunan Antalya Terminali için depolama tarifesi",
+  "decision_number": "14171",
+  "decision_date": "2025-12-25",
+  "gazette_date": "30.12.2025",
+  "gazette_number": "33123",
+  "text_status": "as-enacted",
+  "in_force": "2025-12-25",
+  "in_force_basis": "official EPDK decision date 25.12.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=03pua5GnseQ=",
+      "sha256": "9ffd18e26ac39fe61e3968b42c9cd13a537a97b2fbab098b8fc9fe0e4c9009f7",
+      "bytes": 27118,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=T0qWLBam0wk=",
+      "sha256": "62ad665c514eaa9d634e622f455fbfb714de946b66b3b9e9aae7b84e5f01017f",
+      "bytes": 39689,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "title": "Official annex",
+      "reason": "annex held for independent faithful text and automatic-numbering rendering"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
