@@ -1,0 +1,35 @@
+{
+  "title": "Petrol Ofisi Anonim Şirketi’nin; DEP/474-5/10363 sayılı Depolama Lisansı kapsamında faaliyette bulunan Petrol Ofisi A.Ş. Mersin Terminali Depolama Tesisine ilişkin",
+  "decision_number": "14167",
+  "decision_date": "2025-12-25",
+  "gazette_date": "30.12.2025",
+  "gazette_number": "3312",
+  "text_status": "as-enacted",
+  "in_force": "2025-12-25",
+  "in_force_basis": "official EPDK decision date 25.12.2025; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OxJgrf5mphs=",
+      "sha256": "cf040589131be630c27dc06ae8e33ed4b40a5c9105c03c37f9c0928d50fa6b49",
+      "bytes": 27121,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OByjXyocRoU=",
+      "title": "Petrol Ofisi A.Ş. - Mersin Terminali Depolama Tesisi Tarifesi.",
+      "sha256": "4fe31d30c39fb7df485983a37550b94e578059570cea010d7826d14fddaba885",
+      "bytes": 68096,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
