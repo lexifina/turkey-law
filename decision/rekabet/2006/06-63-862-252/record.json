@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "06-63/862-252",
+  "title": "Tekfenbank A.Ş. (Tekfenbank)'nin hisselerinin %70'inin, Eurobank EFG Holding (Luxembourg) S.A. (Eurobank) tarafından devralınması işlemine izin verilmesi talebi.",
+  "published": "2006-11-10",
+  "in_force": "2006-09-14",
+  "in_force_basis": "Official decision date; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=35d1b017-8e40-473d-b041-a4fce8e71be6",
+  "source_id": "35d1b017-8e40-473d-b041-a4fce8e71be6",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "3a5ea29e457b53ead7eef158af8e86fb70cda4a0a8da9cfa83f87cddfcf316b0",
+  "source_bytes": 155543,
+  "word_count": 1136,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
