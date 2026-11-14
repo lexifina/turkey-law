@@ -1,0 +1,16 @@
+{
+  "kind": "official-legislation-index",
+  "source": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatFihristDatatable",
+  "checked_on": "2026-11-14",
+  "records": 15623,
+  "scope": "Metadata and official links only; includes the catalogue types and series returned by the source.",
+  "identity": "rowNum is the unique source record ordinal; retain mevzuatTuru, mevzuatTertip and kanunNo when joining acts.",
+  "dates": "Dates are verbatim source metadata, not an assertion of commencement. 01.01.0001 is an undated source sentinel.",
+  "nulls": "JSON null is represented by an empty CSV field.",
+  "status": "yururlulukDurumu and ilgaTuru are the official source codes, retained without interpretation.",
+  "files": {
+    "law-index-*.csv": "All original source fields in source order, in batches of at most 1000 records.",
+    "rg-links.csv": "Every official index record, including empty gazette links.",
+    "repeal-map.csv": "Every official index record, including absent repeal relationships."
+  }
+}
