@@ -1,0 +1,58 @@
+{
+  "kind": "audit-report",
+  "issuer": "T.C. Sayıştay Başkanlığı",
+  "report_year": 2023,
+  "approval_date": "2024-12-25",
+  "title": "2023 Yılı Kamu İşletmeleri Genel Raporu",
+  "source": "https://www.sayistay.gov.tr/reports/download/bmg0qX8Q0O-2023-yili-kamu-isletmeleri-genel-raporu",
+  "source_sha256": "8744430adc09163265c363a9410f437a78618ef5298bac9a6d8e0aef3a0761a3",
+  "text_status": "as-published",
+  "text_file": "metin.md",
+  "source_image_count": 2,
+  "source_images": [
+    {
+      "page": 1,
+      "count": 1,
+      "words": 11,
+      "rects": [
+        [
+          247.97,
+          84.1,
+          347.19,
+          183.23
+        ]
+      ]
+    },
+    {
+      "page": 3,
+      "count": 1,
+      "words": 11,
+      "rects": [
+        [
+          254.9,
+          112.25,
+          339.9,
+          197.25
+        ]
+      ]
+    }
+  ],
+  "image_accounting": {
+    "source": 2,
+    "referenced": 0,
+    "omitted_normative": 0,
+    "decorative_cover": 2
+  },
+  "text_check": {
+    "source": "https://www.sayistay.gov.tr/reports/download/bmg0qX8Q0O-2023-yili-kamu-isletmeleri-genel-raporu",
+    "sha256": "8744430adc09163265c363a9410f437a78618ef5298bac9a6d8e0aef3a0761a3",
+    "poppler_words": 7825,
+    "pymupdf_words": 7825,
+    "token_counts_identical": true,
+    "token_order_identical": true,
+    "differences": {
+      "poppler_only": {},
+      "pymupdf_only": {}
+    }
+  }
+}
