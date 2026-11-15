@@ -1,0 +1,34 @@
+{
+  "title": "Teslim Numunelerine İlişkin Usul Ve Esaslar",
+  "decision_number": "2483/8",
+  "decision_date": "2010-03-25",
+  "gazette_date": "01.04.2010",
+  "gazette_number": "27539",
+  "text_status": "as-enacted",
+  "in_force": "2010-05-01",
+  "in_force_basis": "Bu Karar 1/5/2010 tarihinde yürürlüğe girer.",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UTo6hEWpNq4=",
+      "sha256": "2087c90d98b98ca371f27b6b56d384a5d1f1977c8f10eb08ac6a06431143109b",
+      "bytes": 29184,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WRNTUgUy4qg=",
+      "title": "Teslim Numunelerine İlişkin Usul ve Esaslar",
+      "sha256": "e3e9733b0af7a7e467920017b3d63bf357d531a1bb807fcfc30499724e8ac740",
+      "bytes": 33280,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
