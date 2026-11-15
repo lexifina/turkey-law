@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14718",
+  "decision_date": "2026-07-02",
+  "date": "2026-07-04",
+  "title": "2026 yılının Temmuz ayı ve sonrası için tedarik edilen birim enerji miktarı başına öngörülen YEKDEM maliyeti",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=%2FNMdGWFaoCo%3D",
+  "source_sha256": "02de8887f0474993e118764470d9b2f849d9fdaa3ff38a2330b24a045e9f29c7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
