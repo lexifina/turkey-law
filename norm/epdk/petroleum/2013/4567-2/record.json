@@ -1,0 +1,50 @@
+{
+  "title": "Petrol Piyasasında Lisans Başvurusu Açıklamaları,Lisans Tadili Başvurularında Aranacak Bilgi ve Belgeler,Lisans Süre Uzatımı Başvurularında Aranacak Bilgi ve Belgelere İlişkin",
+  "decision_number": "4567/2",
+  "decision_date": "2013-08-28",
+  "gazette_date": "08.10.2013",
+  "gazette_number": "28789",
+  "text_status": "as-enacted",
+  "in_force": "2013-10-08",
+  "in_force_basis": "Bu Karar, yayımı tarihinde yürürlüğe girer.; official listing RG Tarih 08.10.2013",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jQflb5keZWk=",
+      "sha256": "82f7ff8fc96ba183fbcff9138caece26cc277b1f3312f76d142b71fef174ef1e",
+      "bytes": 29696,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fhncDjqlUYw=",
+      "title": "Ek : Başvurusu Açıklamaları",
+      "sha256": "5649627e91fde15fe0125b2df5fe3af8e57a298dd6c8bbdbbcf8bc0524de81d5",
+      "bytes": 39936,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    },
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ar5i+06YG34=",
+      "title": "Ek : Lisans Tadili Başvurularında Aranacak Bilgi ve Belgeler",
+      "sha256": "05db1da4bdc1de7166bfafec7dd6127b5a3bdcb000bb7d429a72eb04c095bdae",
+      "bytes": 57856,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    },
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x3W9koNpmQc=",
+      "title": "Lisans Süre Uzatımı Başvurularında Aranacak Bilgi ve Belgeler",
+      "sha256": "683affee3ff91f89dd10bbaca6e87614d8b75e04188daeb0a3900d8a4240ae63",
+      "bytes": 54784,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
