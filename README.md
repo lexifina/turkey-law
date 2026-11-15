@@ -97,6 +97,16 @@ Hiçbir yapay zekâ modeli hukuki metni yazmadı ya da değiştirmedi; betikleri
 
 Bu metin İngilizce sürümün ([README.en.md](README.en.md)) çevirisidir; aralarında fark olursa İngilizce sürüm geçerlidir.
 
+## Görselleştirmeler
+
+[visualisations/](visualisations/): bu depodan çizilmiş 20 grafikte Türk hukuku.
+
+Bunlar arasında:
+
+- Türkiye Büyük Millet Meclisinin kaç kanun çıkardığı, kanunların konusu ve torba kanunlar
+- Olağanüstü hal, tezkereler ve yürürlükteki kanunların nasıl değiştiği
+- Resmî Gazete, büyükşehir belediye meclisleri ve Anayasa Mahkemesi
+
 ## Daha fazla
 
 [lexifina/global-law](https://github.com/lexifina/global-law) deposundan (İngilizce):

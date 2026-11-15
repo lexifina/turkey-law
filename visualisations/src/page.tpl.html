@@ -1,0 +1,1309 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>20 grafikte Türk hukuku</title>
+<meta name="description" content="Bu deponun verilerinden Türk hukuku üzerine yirmi grafik / Twenty charts on Turkish law from the turkey-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.55 Inter, system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 Inter, sans-serif; padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(30px, 5vw, 46px)/1.1 "Source Serif 4", Georgia, serif; margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 760px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.1 Inter, sans-serif; font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.2 "Source Serif 4", Georgia, serif; margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 760px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.3 "Source Serif 4", Georgia, serif; margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 820px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, var(--muted-mark) 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px Inter, sans-serif; font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.5; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.45; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.3 Inter, sans-serif; }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.3 Inter, sans-serif; color: var(--text-2); }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.1 Inter, sans-serif; color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+.sub { margin: 16px 0 4px; font: 600 13px/1.3 Inter, sans-serif; }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 16px; }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Dil / Language"><button data-lang="tr">TR</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Tema / Theme"><button data-theme-set="auto">Oto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+let LANG = 'tr';
+try { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'tr') LANG = q; else { const s = localStorage.getItem('tr-viz-lang'); if (s === 'en' || s === 'tr') LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const t = localStorage.getItem('tr-viz-theme'); if (t === 'light' || t === 'dark') THEME = t; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const S = {
+tr: {
+  title: '20 grafikte Türk hukuku',
+  lede: `Yalnızca bu deponun verilerinden çizilmiş yirmi grafik: Resmî Gazete'de yayımlanan her kanunun dizini, Genel Kurulun tutanak dizini ve Meclis kararları, yürürlükteki kanunların değişiklik notları ve yürürlük tabloları, Anayasa, 2001'den bu yana Resmî Gazete'nin günlük fihristi, üç büyükşehir belediye meclisinin kararları ve Anayasa Mahkemesinin kararları.`,
+  profile_h: 'Veri profili: neler kullanıldı ve ne kadar eksiksiz',
+  tbl: 'Veri tablosu', src: 'Depodaki kaynak', n: 'Kayıt', cover: 'Kapsam', caveat: 'Sınırlama',
+  ds: 'Veri kümesi', foot: `lexifina/turkey-law deposundan oluşturuldu ({built}). Sayıları visualisations/src/prep.py git geçmişinden ve data/ altındaki tablolardan hesaplar; sayfayı build.py birleştirir. Grafiklerin hepsi betimleyicidir: kaynakların neyi kaydettiğini gösterir, nedenini değil.`,
+  tiles: ['commit', 'kanun dizinde', 'değişiklik notu', `Resmî Gazete yazısı`, 'Genel Kurul tutanak kaydı', 'bireysel başvuru kararı'],
+  year: 'Yıl', total: 'Toplam', share: 'Pay', count: 'Sayı', partial: 'eksik yıl', term: 'Dönem',
+  gl: `Tüm global-law'dan, her ülkenin hukuku üzerine grafikler: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. Burada yalnızca Türkiye ile ilgili grafikler var.`,
+},
+en: {
+  title: 'Turkish law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the index of every law published in the Resmî Gazete, the index of plenary minutes and the decisions of the Grand National Assembly, the amendment notes and in-force tables of the laws in force, the Constitution, the daily index of the Resmî Gazete since 2001, the decisions of three metropolitan councils and the decisions of the Constitutional Court.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/turkey-law repository ({built}). The numbers are computed by visualisations/src/prep.py from the git history and the tables under data/; build.py assembles the page. All charts are descriptive: they show what the sources record, not why.',
+  tiles: ['commits', 'laws in the index', 'amendment notes', 'Resmî Gazete items', 'plenary minutes records', 'individual-application decisions'],
+  year: 'Year', total: 'Total', share: 'Share', count: 'Count', partial: 'partial year', term: 'Term',
+  gl: 'Charts on every country\'s law, from the whole of global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. These are the charts on Türkiye alone.',
+}};
+const t = k => S[LANG][k];
+const L = (tr, en) => LANG === 'tr' ? tr : en;
+const fmt = n => (n == null ? '–' : (+n).toLocaleString(LANG === 'tr' ? 'tr-TR' : 'en-GB'));
+const dec = (v, d = 1) => (+v).toFixed(d).replace('.', LANG === 'tr' ? ',' : '.');
+const pv = (v, d = 0) => LANG === 'tr' ? '%' + dec(v, d) : dec(v, d) + '%';
+const pct = (a, b, d = 0) => b ? pv(100 * a / b, d) : '–';
+const MONTHS = { tr: ['Oca', 'Şub', 'Mar', 'Nis', 'May', 'Haz', 'Tem', 'Ağu', 'Eyl', 'Eki', 'Kas', 'Ara'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const AYLAR = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'];
+const MONTHS_EN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'tr' ? `${d} ${AYLAR[m - 1]} ${y}` : `${d} ${MONTHS_EN[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'tr' ? `${d}.${String(m).padStart(2, '0')}.${y}` : `${d} ${MONTHS.en[m - 1]} ${y}`; };
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const PD = s => d3.timeParse('%Y-%m-%d')(s);
+const YD = s => +s.slice(0, 4) + (d3.timeDay.count(d3.timeYear(PD(s)), PD(s)) / 365.25);
+
+// Turkish case suffixes after a number, by the last word it is read with (vowel harmony, consonant hardening)
+const UNITS = ['sıfır', 'bir', 'iki', 'üç', 'dört', 'beş', 'altı', 'yedi', 'sekiz', 'dokuz'], TENS = ['', 'on', 'yirmi', 'otuz', 'kırk', 'elli', 'altmış', 'yetmiş', 'seksen', 'doksan'];
+function lastWord(v) {
+  const s = String(v).replace(/[%\s]/g, '');
+  if (s.includes(',')) { const f = s.split(',')[1].replace(/0+$/, ''); if (f) return UNITS[+f[f.length - 1]]; }
+  const n = Math.abs(parseInt(s.split(',')[0].replace(/\./g, ''), 10) || 0);
+  if (n === 0) return 'sıfır';
+  if (n % 10) return UNITS[n % 10];
+  if (n % 100) return TENS[(n % 100) / 10];
+  if (n % 1000) return 'yüz';
+  return n % 1000000 ? 'bin' : 'milyon';
+}
+function sfx(v, kind) {
+  const w = lastWord(v), vow = [...w].reverse().find(ch => 'aıoueiöü'.includes(ch)), last = w[w.length - 1];
+  const a2 = 'eiöü'.includes(vow) ? 'e' : 'a', i4 = { a: 'ı', ı: 'ı', o: 'u', u: 'u', e: 'i', i: 'i', ö: 'ü', ü: 'ü' }[vow];
+  const ev = 'aıoueiöü'.includes(last), hard = 'fstkçşhp'.includes(last);
+  return { loc: (hard ? 't' : 'd') + a2, abl: (hard ? 't' : 'd') + a2 + 'n', dat: (ev ? 'y' : '') + a2, acc: (ev ? 'y' : '') + i4, gen: (ev ? 'n' : '') + i4 + 'n',
+    poss: (ev ? 's' : '') + i4, possloc: (ev ? 's' : '') + i4 + 'nd' + a2, pl: 'l' + a2 + 'r', plloc: 'l' + a2 + 'rd' + a2 }[kind];
+}
+const nS = (v, kind) => `${v}'${sfx(v, kind)}`;                 // 2018'de, 1990'larda, %78'i
+const trLower = s => s.replace(/İ/g, 'i').replace(/I/g, 'ı').toLowerCase();
+const SMALL = new Set(['ve', 'ile', 'veya', 'ya', 'da', 'de', 'için', 'ilişkin', 'dair', 'hakkında', 'bazı', 'diğer', 'sayılı', 'olan', 'ait']);
+const tcase = s => trLower(s).split(/\s+/).map((w, i) => (i && SMALL.has(w)) ? w : w.charAt(0).toLocaleUpperCase('tr-TR') + w.slice(1)).join(' ');
+const decTR = d => `${d}'${sfx(d, 'pl')}`;                       // 1920'ler
+const decName = d => L(decTR(d), d + 's');
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c); s.append('span').text(it.l); });
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+}
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(s)}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+const WR = el => Math.max(120, el.node().getBoundingClientRect().width || 300);
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+// a diagonal-line pattern for spans the repository does not hold
+let HATCH = 0;
+function hatch(svg) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 6).attr('height', 6).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 6).attr('height', 6).attr('fill', css('--surface-2'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 6).attr('stroke', css('--muted-mark')).attr('stroke-width', 1.4);
+  return `url(#${id})`;
+}
+// stacked columns, keys bottom-up; the top segment gets the rounded end, 1px surface gaps
+function stackedColumns(el, rows, keys, colors, names, opt = {}) {
+  const w = W(el), h = opt.h || 300, m = { t: opt.mt || 14, r: 8, b: 26, l: opt.ml || 44 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(opt.pad == null ? 0.25 : opt.pad);
+  const tot = r => keys.reduce((s, k) => s + (r[k] || 0), 0);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).nice().range([ih, 0]);
+  const back = g.append('g');
+  yAxis(g, y, iw, opt.ticks || 5, opt.yf);
+  const bw = Math.min(opt.bw || 24, x.bandwidth());
+  rows.forEach(r => {
+    let acc = 0; const segs = keys.map((k, i) => ({ k, i, v: r[k] || 0 })).filter(s => s.v > 0);
+    const gx = x(r.y) + (x.bandwidth() - bw) / 2;
+    segs.forEach((s, j) => {
+      const y0 = y(Math.min(acc, y.domain()[1])), y1 = y(Math.min(acc + s.v, y.domain()[1])); acc += s.v;
+      const gap = j ? 1 : 0, top = j === segs.length - 1;
+      const yy0 = y0 - gap, yy1 = top ? y1 : y1 + 1;
+      if (yy0 - yy1 < 0.5) return;
+      g.append('path').attr('d', top ? colPath(gx, yy0, bw, yy1, Math.min(4, bw / 3)) : `M${gx},${yy0}V${yy1}H${gx + bw}V${yy0}Z`).attr('fill', colors[s.i]).attr('opacity', opt.partial && opt.partial(r) ? 0.55 : 1);
+    });
+    if (opt.topLabel && tot(r)) g.append('text').attr('class', 'lbl').attr('x', gx + bw / 2).attr('y', y(Math.min(tot(r), y.domain()[1])) - 5).attr('text-anchor', 'middle').text(opt.topLabel(r));
+  });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = opt.every || Math.ceil(rows.length / Math.max(4, Math.floor(iw / 44)));
+  rows.forEach((r, i) => { if ((opt.tick ? opt.tick(r) : i % every === 0) || (!opt.tick && i === rows.length - 1 && (rows.length - 1) % every >= every / 2)) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(r.y) : r.y); });
+  bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih),
+    opt.tipf || (r => `<b>${opt.xf ? opt.xf(r.y) : r.y}${opt.partial && opt.partial(r) ? ' (' + t('partial') + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], names[i], fmt(r[k]) + (opt.noShare ? '' : ` · ${pct(r[k], tot(r))}`)) : '')).reverse().join('') + trow(null, t('total'), fmt(tot(r)))));
+  return { svg, g, back, x, y, iw, ih, bw, m };
+}
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34, m = { t: 4, r: nw ? (opt.rn || 58) : (opt.r || 86), b: 22, l: nw ? (opt.ln || 52) : (opt.l || 90) };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > 34) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', (opt.light || []).includes(j) ? css('--text') : '#fff').style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + (opt.tipExtra ? opt.tipExtra(d) : trow(null, t('total'), fmt(tot))));
+  });
+  return { svg, g, iw };
+}
+// a list of horizontal bars, each with its label above it
+function barList(el, rows, opt) {
+  const w = W(el), rowH = opt.rowH || 32, m = { t: 2, r: 44, b: 4, l: 0 };
+  const svg = svgIn(el, w, m.t + m.b + rowH * rows.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, opt.max || d3.max(rows, opt.v)]).range([0, iw]);
+  rows.forEach((r, i) => {
+    const cy = i * rowH;
+    g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy + 12).attr('data-fit', iw + 40).text(opt.label(r));
+    g.append('path').attr('d', barPath(0, cy + 17, Math.max(2, x(opt.v(r))), 9, 3)).attr('fill', opt.color(r));
+    g.append('text').attr('class', 'lbl').attr('x', Math.max(2, x(opt.v(r))) + 6).attr('y', cy + 25).text(fmt(opt.v(r)));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', 0).attr('width', w).attr('y', cy).attr('height', rowH).datum(r), opt.tip);
+  });
+  return svg;
+}
+
+// ------------------------------------------------------------------ names
+const PRESN = { gursel: 'Cemal Gürsel', sunay: 'Cevdet Sunay', koruturk: 'Fahri Korutürk', evren: 'Kenan Evren', ozal: 'Turgut Özal', demirel: 'Süleyman Demirel',
+  sezer: 'Ahmet Necdet Sezer', gul: 'Abdullah Gül', erdogan: 'Recep Tayyip Erdoğan' };
+const ACTN = {
+  'kanun/2004': ['İcra ve İflas Kanunu', 'Enforcement and Bankruptcy Act'], 'kanun/5510': ['Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu', 'Social Insurance and General Health Insurance Act'],
+  'kanun/213': ['Vergi Usul Kanunu', 'Tax Procedure Act'], 'kanun/193': ['Gelir Vergisi Kanunu', 'Income Tax Act'], 'kanun/926': ['Türk Silahlı Kuvvetleri Personel Kanunu', 'Armed Forces Personnel Act'],
+  'kanun/2809': ['Yükseköğretim Kurumları Teşkilatı Kanunu', 'Higher Education Institutions Organisation Act'], 'kanun/2918': ['Karayolları Trafik Kanunu', 'Highway Traffic Act'],
+  'kanun/657': ['Devlet Memurları Kanunu', 'Civil Servants Act'], 'kanun/2547': ['Yükseköğretim Kanunu', 'Higher Education Act'], 'kanun/3213': ['Maden Kanunu', 'Mining Act'],
+  'kanun/5271': ['Ceza Muhakemesi Kanunu', 'Code of Criminal Procedure'], 'kanun/298': ['Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun', 'Elections and Electoral Registers Act'],
+  'kanun/1136': ['Avukatlık Kanunu', 'Attorneys Act'], 'kanun/4458': ['Gümrük Kanunu', 'Customs Act'], 'kanun/4734': ['Kamu İhale Kanunu', 'Public Procurement Act'],
+  'kanun/5434': ['Türkiye Cumhuriyeti Emekli Sandığı Kanunu', 'Civil Service Retirement Fund Act'], 'kanun/6831': ['Orman Kanunu', 'Forest Act'], 'kanun/492': ['Harçlar Kanunu', 'Charges Act'],
+  'kanun/3065': ['Katma Değer Vergisi Kanunu', 'Value Added Tax Act'], 'kanun/2709': ['Türkiye Cumhuriyeti Anayasası', 'Constitution of the Republic of Türkiye'],
+  'khk/375': ['375 sayılı KHK (kamu personeli)', 'Decree-law 375 (public personnel)'], 'kanun/5237': ['Türk Ceza Kanunu', 'Turkish Criminal Code'], 'kanun/3194': ['İmar Kanunu', 'Zoning Act'],
+  'kanun/2863': ['Kültür ve Tabiat Varlıklarını Koruma Kanunu', 'Cultural and Natural Heritage Act'], 'kanun/6102': ['Türk Ticaret Kanunu', 'Turkish Commercial Code'],
+  'kanun/2942': ['Kamulaştırma Kanunu', 'Expropriation Act'], 'kanun/4721': ['Türk Medeni Kanunu', 'Turkish Civil Code'], 'kanun/6100': ['Hukuk Muhakemeleri Kanunu', 'Code of Civil Procedure'],
+  'kanun/2577': ['İdari Yargılama Usulü Kanunu', 'Administrative Procedure Act'], 'kanun/5275': ['Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun', 'Execution of Sentences Act'],
+  'kanun/5393': ['Belediye Kanunu', 'Municipalities Act'], 'kanun/4046': ['Özelleştirme Uygulamaları Hakkında Kanun', 'Privatisation Act'], 'kanun/5580': ['Özel Öğretim Kurumları Kanunu', 'Private Education Institutions Act'],
+  'kanun/6356': ['Sendikalar ve Toplu İş Sözleşmesi Kanunu', 'Trade Unions and Collective Agreements Act'], 'kanun/2820': ['Siyasi Partiler Kanunu', 'Political Parties Act'],
+  'kanun/3713': ['Terörle Mücadele Kanunu', 'Anti-Terrorism Act'], 'kanun/5651': ['İnternet ortamında yapılan yayınlar hakkında Kanun', 'Internet Publications Act'],
+};
+const nameLoc = s => /Kanunu$/.test(s) ? s + 'nda' : /Anayasası$/.test(s) ? s + 'nda' : s + "'" + sfx(s.length, 'loc');
+const actName = (a, title) => ACTN[a] ? L(...ACTN[a]) : (title && title !== a ? tcase(title) : a);
+// the amending acts that reached the most other acts (short names written from their titles)
+const AMN = {
+  'KHK 703': ['Anayasa değişikliklerine uyum', 'adapting acts to the constitutional amendments'], 'KHK 700': ['Anayasa değişikliklerine uyum', 'adapting acts to the constitutional amendments'],
+  'Kanun 5728': ['temel ceza kanunlarına uyum', 'alignment with the basic criminal codes'], 'Kanun 6552': ['İş Kanunu ile bazı kanunlar', 'the Labour Act and certain laws'],
+  'Kanun 6495': ['bazı kanun ve KHK\'ler', 'certain laws and decree-laws'], 'Kanun 7061': ['bazı vergi kanunları ile diğer bazı kanunlar', 'certain tax laws and other laws'],
+  'KHK 666': ['kamu görevlilerinin mali hakları', 'public servants\' pay'], 'Kanun 6111': ['bazı alacakların yeniden yapılandırılması', 'restructuring of certain receivables'],
+  'Kanun 7103': ['vergi kanunları ile bazı kanun ve KHK\'ler', 'tax laws and certain laws and decree-laws'], 'Kanun 6745': ['yatırımların proje bazında desteklenmesi', 'project-based investment support'],
+  'Kanun 7161': ['vergi kanunları ile bazı kanun ve KHK\'ler', 'tax laws and certain laws and decree-laws'], 'Kanun 7417': ['Devlet Memurları Kanunu ile bazı kanunlar', 'the Civil Servants Act and certain laws'],
+  'Kanun 6353': ['bazı kanun ve KHK\'ler', 'certain laws and decree-laws'], 'Kanun 7491': ['bazı kanun ve KHK\'ler', 'certain laws and decree-laws'],
+};
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, tr, en, dtr, den) => CH.push({ part: true, id, tr, en, dtr, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. Meclis ve kanunlar', 'I. The Assembly and its laws',
+  `Mevzuat Bilgi Sisteminin kanun dizini (data/m4-all/): Resmî Gazete'de yayımlanan her kanun, numarası, tarihi, başlığı ve bugünkü durumuyla.`,
+  'The law index of the Mevzuat Bilgi Sistemi (data/m4-all/): every law published in the Resmî Gazete, with its number, date, title and present status.');
+
+chart('c01', el => {
+  const c = D.c01, LY = +c.last.slice(0, 4), rows = c.rows.filter(r => r.y >= 1921), full = rows.filter(r => r.y < LY);
+  const decs = d3.range(1920, LY, 10).map(d0 => { const rs = full.filter(r => r.y >= d0 && r.y < d0 + 10); return rs.length ? { d: d0, n: sum(rs, r => r.n) / rs.length, a: rs[0].y, z: rs[rs.length - 1].y } : null; }).filter(Boolean);
+  const mx = full.reduce((a, b) => b.n > a.n ? b : a), N = sum(rows, r => r.n);
+  const d30 = decs.find(d => d.d === 1930), dl = decs[decs.length - 1];
+  return {
+    title: L(`Kanun sayısı: 1930'larda yılda ortalama ${fmt(Math.round(d30.n))}, 2020'lerde ${fmt(Math.round(dl.n))}`, `Laws a year: ${fmt(Math.round(d30.n))} on average in the 1930s, ${fmt(Math.round(dl.n))} in the 2020s`),
+    dek: L(`Resmî Gazete'de yayımlandığı yıla göre kanunlar: 1921'den ${dateTxt(c.last)} tarihine kadar ${fmt(N)} kanun. En çok kanun ${mx.y} yılında yayımlandı (${fmt(mx.n)}). Kesik çizgi on yıllık ortalamadır; ${dl.a}–${dl.z} yıllarında yılda ortalama ${fmt(Math.round(dl.n))} kanun yayımlandı.`,
+      `Laws by the year they were published in the Resmî Gazete: ${fmt(N)} laws from 1921 to ${dateTxt(c.last)}. The most were published in ${mx.y} (${fmt(mx.n)}). The dashed line is the ten-year average; in ${dl.a}–${dl.z} an average of ${fmt(Math.round(dl.n))} laws a year were published.`),
+    draw(el) {
+      const ink = css('--s1'), ref = css('--text-3');
+      legend(el, [{ c: ink, l: L('Yayımlanan kanunlar', 'Laws published'), shape: 'line' }, { c: ref, l: L('On yıllık ortalama', 'Ten-year average'), shape: 'dash' }, { c: ink, l: L(`${dateTxt(c.last)} tarihine kadar (eksik yıl)`, `to ${dateTxt(c.last)} (partial year)`), shape: 'ring' }]);
+      const w = W(el), nw = narrow(w), h = nw ? 276 : 336, m = { t: 24, r: nw ? 14 : 24, b: 44, l: 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleLinear().domain([1921, LY]).range([0, iw]), y = d3.scaleLinear().domain([0, mx.n * 1.14]).nice().range([ih, 0]);
+      const t4 = [YD('1960-06-01'), YD('1961-10-20')];
+      g.append('rect').attr('x', x(t4[0])).attr('width', x(t4[1]) - x(t4[0])).attr('y', 0).attr('height', ih).attr('fill', css('--surface-2'));
+      if (!nw) g.append('text').attr('class', 'lbl mut').attr('x', x(t4[1]) + 4).attr('y', 10).text(L('4. tertip', '4th series'));
+      yAxis(g, y, iw, 5);
+      d3.range(1930, LY + 1, nw ? 20 : 10).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const lg = svg.append('defs').append('linearGradient').attr('id', 'c01g').attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+      lg.append('stop').attr('offset', '0%').attr('stop-color', ink).attr('stop-opacity', .3); lg.append('stop').attr('offset', '100%').attr('stop-color', ink).attr('stop-opacity', .02);
+      g.append('path').attr('d', d3.area().x(r => x(r.y)).y0(ih).y1(r => y(r.n)).curve(d3.curveMonotoneX)(full)).attr('fill', 'url(#c01g)');
+      g.append('path').attr('d', d3.line().x(r => x(r.y)).y(r => y(r.n)).curve(d3.curveMonotoneX)(full)).attr('fill', 'none').attr('stroke', ink).attr('stroke-width', 2).attr('stroke-linejoin', 'round');
+      const lp = rows[rows.length - 1], lf = full[full.length - 1];
+      g.append('path').attr('d', `M${x(lf.y)},${y(lf.n)}L${x(lp.y)},${y(lp.n)}`).attr('stroke', ink).attr('stroke-width', 2).attr('stroke-dasharray', '3 3').attr('opacity', .6);
+      decs.forEach(d => g.append('line').attr('x1', x(Math.max(1921, d.d))).attr('x2', x(Math.min(d.d + 10, LY))).attr('y1', y(d.n)).attr('y2', y(d.n)).attr('stroke', ref).attr('stroke-width', 1.4).attr('stroke-dasharray', '4 3'));
+      g.append('circle').attr('cx', x(mx.y)).attr('cy', y(mx.n)).attr('r', 3.5).attr('fill', ink);
+      const mxr = x(mx.y) > iw - 70;
+      g.append('text').attr('class', 'lbl strong').attr('x', x(mx.y) + (mxr ? -7 : 6)).attr('y', y(mx.n) - 6).attr('text-anchor', mxr ? 'end' : 'start').text(`${mx.y}: ${fmt(mx.n)}`);
+      g.append('circle').attr('cx', x(lp.y)).attr('cy', y(lp.n)).attr('r', 3.5).attr('fill', css('--surface')).attr('stroke', ink).attr('stroke-width', 1.5);
+      g.append('text').attr('class', 'lbl mut').attr('x', -6).attr('y', ih + 33).attr('text-anchor', 'end').text(L('ort.', 'avg'));
+      decs.forEach(d => g.append('text').attr('class', 'lbl mut').attr('x', x((Math.max(1921, d.d) + Math.min(d.d + 10, LY)) / 2)).attr('y', ih + 33).attr('text-anchor', 'middle').style('font-size', nw ? '10px' : null).text(fmt(Math.round(d.n))));
+      bindTip(g.selectAll('rect.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y - .5)).attr('width', Math.max(1, x(1922) - x(1921))).attr('y', 0).attr('height', ih),
+        r => `<b>${r.y}${r.y === LY ? ' (' + t('partial') + ')' : ''}</b>` + trow(ink, L('Kanun', 'Laws'), fmt(r.n)) + trow(null, L('Anlaşma onayı', 'Treaty approvals'), fmt(r.treaty)) +
+          trow(null, L('On yılın ortalaması', 'Decade average'), (decs.find(d => r.y >= d.d && r.y < d.d + 10) || {}).n ? fmt(Math.round(decs.find(d => r.y >= d.d && r.y < d.d + 10).n)) : '–'));
+      note(el, ['data/m4-all/law-index-*.csv'], fmt(N) + L(' kanun', ' laws'),
+        L(`yıl, kanunun Resmî Gazete tarihinin yılıdır (1336–1341 Rumi yılları Miladi yıla çevrildi). Dizinde tarihi olmayan ${fmt(c.undated)} kanun (${fmt(c.unpub)} tanesi “Resmî Gazete'de yayımlanmadan yürürlüğe girmiştir” notlu) ve yayımlanmamış ${fmt(c.veto)} VETO numarası sayılmadı; dizinde iki kez geçen satırlar bir kez sayıldı. 1922'nin düşük görünmesinin nedeni bu: ${c.undated3[1]}–${c.undated3[2]} numaralı ${fmt(c.undated3[0])} kanunun tarihi yok (${c.undated3[3]} numaralı kanun ${c.undated3[4].slice(0, 4)}'${sfx(+c.undated3[4].slice(0, 4), 'loc')}, ${c.undated3[5]} numaralı kanun ${c.undated3[6].slice(0, 4)}'${sfx(+c.undated3[6].slice(0, 4), 'loc')} yayımlandı). 1960–1961 kanunları ayrı bir seride (4. tertip) numaralanır. ${LY} eksik yıldır.`,
+          `the year is that of the law's Resmî Gazete date (Rumi years 1336–1341 converted). The ${fmt(c.undated)} laws with no date in the index (${fmt(c.unpub)} marked as taking effect without publication in the Resmî Gazete) and the ${fmt(c.veto)} unpublished VETO numbers are not counted; rows listed twice count once. That is why 1922 looks low: the ${fmt(c.undated3[0])} laws numbered ${c.undated3[1]}–${c.undated3[2]} have no date (Law ${c.undated3[3]} was published in ${c.undated3[4].slice(0, 4)}, Law ${c.undated3[5]} in ${c.undated3[6].slice(0, 4)}). Laws of 1960–1961 are numbered in a separate series (4th tertip). ${LY} is partial.`));
+      table(el, [t('year'), L('Kanun', 'Laws'), L('Anlaşma onayı', 'Treaty approvals')], rows.map(r => [String(r.y), r.n, r.treaty]));
+    }
+  };
+});
+
+const LC = { treaty: ['Uluslararası anlaşmaların onayı', 'Approval of international agreements'], budget: ['Bütçe, kesin hesap ve ödenek', 'Budgets, final accounts and appropriations'],
+  amend: ['Bir kanunu değiştiren ya da kaldıran', 'Amending or repealing a law'], omnibus: ['Torba (“bazı kanunlarda”)', 'Omnibus ("certain laws")'],
+  khk: ['KHK onayı', 'Approval of a decree-law'], special: ['Af ve özel kanunlar', 'Amnesties and special laws'], new: ['Yeni ve diğer kanunlar', 'New and other laws'] };
+chart('c02', el => {
+  const c = D.c02, keys = ['treaty', 'budget', 'amend', 'omnibus', 'khk', 'special', 'new'];
+  const tot = r => sum(keys, k => r[k] || 0), r10 = c.find(r => r.d === 2010), r30 = c.find(r => r.d === 1930), r20 = c.find(r => r.d === 2020);
+  const in10 = Math.round(10 * r10.treaty / tot(r10));
+  return {
+    title: L(`Kanunlar ne hakkında: 2010'larda her 10 kanundan ${in10}'${sfx(in10, 'poss')} bir uluslararası anlaşmayı onayladı`, `What the laws were about: in the 2010s, ${in10} in 10 laws approved an international agreement`),
+    dek: L(`Her şerit on yılda yayımlanan kanunlar, başlıklarına göre. 1930'larda kanunların ${nS(pct(r30.budget, tot(r30)), 'poss')} bütçe, kesin hesap ve ödenek kanunuydu; 2010'larda ${nS(pct(r10.treaty, tot(r10)), 'poss')} bir anlaşmanın onaylanmasını uygun buldu. Başlığında “bazı kanunlar” geçen torba kanunlar 2000'lerde çoğaldı: 2020'lerde kanunların ${nS(pct(r20.omnibus, tot(r20)), 'poss')}.`,
+      `Each band is the laws published in a decade, by their titles. In the 1930s ${pct(r30.budget, tot(r30))} of laws were budgets, final accounts or appropriations; in the 2010s ${pct(r10.treaty, tot(r10))} approved an agreement. Omnibus laws, whose titles amend "certain laws", multiplied from the 2000s: ${pct(r20.omnibus, tot(r20))} of laws in the 2020s.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], cols[3], cols[2], cols[1], cols[6], cols[4], css('--muted-mark')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...LC[k]) })));
+      bands(el, c, keys, colors, keys.map(k => L(...LC[k])), { label: (r, nw) => nw ? `${r.d}` : decName(r.d), right: r => fmt(tot(r)), partial: r => r.d === 2020, light: [6], l: 84, ln: 40, rowH: 32 });
+      note(el, ['data/m4-all/law-index-*.csv'], fmt(sum(c, tot)) + L(' kanun', ' laws'),
+        L(`tür, başlıktaki sözcüklerden ve dizinin kendi etiketlerinden (BÜTÇE, ANLAŞMA, ÖZEL, GENEL AF) okunur; kurallar src/prep.py'de. Hiçbir kurala uymayan başlık “Yeni ve diğer kanunlar”dadır. Sağdaki sayı o on yılın kanunlarıdır; 2020'ler henüz bitmedi (soluk).`,
+          `the kind is read from words in the title and the index's own tags (BÜTÇE, ANLAŞMA, ÖZEL, GENEL AF); the rules are in src/prep.py. A title no rule matches is under "New and other laws". The number on the right is the decade's laws; the 2020s are not over (lighter).`));
+      table(el, [L('On yıl', 'Decade'), ...keys.map(k => L(...LC[k])), t('total')], c.map(r => [decName(r.d), ...keys.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+chart('c03', el => {
+  const c = D.c03, terms = c.terms.filter(r => r.all > 0), last = terms[terms.length - 1], cols = S8();
+  const reach = c.reach, top = reach[0], law0 = reach.find(r => r.k === 'Kanun');
+  const amName = r => { const k = `${r.k} ${r.no}`; return AMN[k] ? L(...AMN[k]) : tcase(r.title || ''); };
+  const amLabel = r => L(r.k === 'KHK' ? `${r.no} sayılı KHK` : `${r.no} sayılı Kanun`, r.k === 'KHK' ? `Decree-law ${r.no}` : `Law ${r.no}`);
+  return {
+    title: L(`Torba kanunlar: ${last.t}. dönemde anlaşma ve bütçe dışındaki kanunların ${nS(pct(last.omni, last.dom), 'poss')} torba kanun`, `Omnibus laws: ${pct(last.omni, last.dom)} of the ${last.t}th term's laws, treaties and budgets aside`),
+    dek: L(`Solda, her yasama döneminde uluslararası anlaşma ve bütçe kanunları dışında kalan kanunlar (açık sütun) ve bunlardan başlığı “bazı kanunlarda değişiklik” türünden olan torba kanunlar (koyu sütun). Sağda, yürürlükteki metinlerde en çok düzenlemeyi değiştiren işlemler: ${dateTxt(top.d)} tarihli ${top.no} sayılı KHK ${fmt(top.acts)} kanun ve KHK'yi, ${law0.no} sayılı Kanun ${fmt(law0.acts)} tanesini değiştirdi.`,
+      `Left: for each legislative term, the laws other than international agreements and budgets (light column) and, of those, omnibus laws whose titles amend "certain laws" (solid column). Right: the acts that changed the most others in the texts in force: decree-law ${top.no} of ${dateTxt(top.d)} changed ${fmt(top.acts)} laws and decree-laws, Law ${law0.no} ${fmt(law0.acts)}.`),
+    draw(el) {
+      const ink = cols[1];
+      const box = el.append('div').attr('class', 'mini');
+      const pa = box.append('div'), pb = box.append('div');
+      pa.append('h4').text(L('Dönemlere göre torba kanunlar', 'Omnibus laws by term'));
+      pa.append('p').text(L(`${terms[0].t}.–${last.t}. dönem; sütunun üstünde torba kanunların payı`, `terms ${terms[0].t}–${last.t}; the omnibus share above each column`));
+      legend(pa, [{ c: ink + '38', l: L('Anlaşma ve bütçe dışı kanunlar', 'Laws other than treaties and budgets') }, { c: ink, l: L('Torba kanunlar', 'Omnibus laws') }]);
+      const w = W(pa), h = 250, m = { t: 18, r: 4, b: 24, l: 34 };
+      const svg = svgIn(pa, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleBand().domain(terms.map(r => r.t)).range([0, iw]).padding(0.22);
+      const y = d3.scaleLinear().domain([0, d3.max(terms, r => r.dom)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      terms.forEach(r => {
+        const x0 = x(r.t), bw = x.bandwidth(), op = r === last ? .55 : 1;
+        g.append('path').attr('d', colPath(x0, ih, bw, y(r.dom))).attr('fill', ink).attr('fill-opacity', .22 * op);
+        g.append('path').attr('d', colPath(x0, ih, bw, y(r.omni))).attr('fill', ink).attr('fill-opacity', op);
+        g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(r.dom) - 5).attr('text-anchor', 'middle').text(pct(r.omni, r.dom));
+        g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(r.t);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${L(`${d.t}. dönem`, `Term ${d.t}`)} · ${d.a.slice(0, 4)}–${d === last ? '' : d.z.slice(0, 4)}</b>` + trow(null, L('Yayımlanan kanunlar', 'Laws published'), fmt(d.all)) +
+            trow(null, L('Anlaşma ve bütçe dışı', 'Other than treaties and budgets'), fmt(d.dom)) + trow(ink, L('Torba kanunlar', 'Omnibus laws'), `${fmt(d.omni)} · ${pct(d.omni, d.dom)}`));
+      });
+      pb.append('h4').text(L('En çok düzenlemeyi değiştiren işlemler', 'The acts that changed the most others'));
+      pb.append('p').text(L('değiştirdiği kanun ve KHK sayısı', 'number of laws and decree-laws each changed'));
+      legend(pb, [{ c: cols[1], l: L('Kanun', 'Law') }, { c: cols[6], l: 'KHK' }]);
+      barList(pb, reach.slice(0, 10), { v: r => r.acts, color: r => r.k === 'KHK' ? cols[6] : cols[1], label: r => `${amLabel(r)} (${r.d.slice(0, 4)}) · ${amName(r)}`,
+        tip: r => `<b>${esc(amLabel(r))}</b>` + trow(null, L('Tarih', 'Date'), dateTxt(r.d)) + trow(null, L('Değiştirilen düzenleme', 'Acts changed'), fmt(r.acts)) + trow(null, L('Değişiklik notu', 'Amendment notes'), fmt(r.notes)) + (r.title ? `<div>${esc(tcase(r.title))}${r.title.length > 60 ? '…' : ''}</div>` : '') });
+      note(el, ['data/m4-all/law-index-*.csv', 'data/minutes-*.csv', 'data/amendments.csv'], fmt(sum(terms, r => r.all)) + L(' kanun', ' laws'),
+        L(`bir dönemin kanunları, o dönemin tutanak dizinindeki ilk birleşiminden bir sonraki dönemin ilk birleşimine kadar yayımlanan kanunlardır. Torba kanun: başlığında “bazı kanun” ya da “çeşitli kanun” geçen kanun. ${last.t}. dönem sürüyor (soluk). 25. dönemde (Haziran–Kasım 2015) dizinde yayımlanmış kanun yok. Sağdaki sayılar yürürlükteki metinlerde basılı notlardandır; sonradan değişen hükümlerin eski notları yoktur.`,
+          `a term runs from its first sitting in the index of plenary minutes to the first sitting of the next. An omnibus law is one whose title names "certain laws" (bazı kanun) or "various laws" (çeşitli kanun). Term ${last.t} is still running (lighter). The index has no law published during term 25 (June–November 2015). The counts on the right come from notes printed in the texts in force; provisions changed again since have lost their older notes.`));
+      table(el, [t('term'), L('Başlangıç', 'Start'), L('Kanun', 'Laws'), L('Anlaşma ve bütçe dışı', 'Other than treaties and budgets'), L('Torba', 'Omnibus')], c.terms.map(r => [String(r.t), r.a, r.all, r.dom, r.omni]));
+    }
+  };
+});
+
+chart('c04', el => {
+  const c = D.c04, rows = c.rows, P = c.pres.map(([k, a, z]) => ({ k, a, z: z > PF.built ? PF.built : z }));
+  const st = p => { const v = rows.filter(r => r.p === p.k), yrs = (PD(p.z) - PD(p.a)) / 31557600000; return { n: v.length, rep: v.filter(r => r.rep).length, py: v.length / yrs }; };
+  const top = P.map(p => ({ p, ...st(p) })).reduce((a, b) => b.n > a.n ? b : a);
+  const rep = rows.filter(r => r.rep).length, lastY = d3.max(rows, r => +r.d.slice(0, 4));
+  return {
+    title: L(`Veto: yayımlanmayan ${fmt(rows.length)} kanunun ${fmt(top.n)}'${sfx(top.n, 'poss')} ${PRESN[top.p.k]} döneminde`, `Vetoes: ${fmt(top.n)} of the ${fmt(rows.length)} unpublished laws fall in ${PRESN[top.p.k]}'s term`),
+    dek: L(`Kanun dizini, Resmî Gazete'de hiç yayımlanmamış ${fmt(rows.length)} kanun numarasını VETO olarak işaretler; her nokta biridir ve hemen önceki yayımlanmış kanun numarasının yılında durur. Bunlardan ${fmt(rep)} tanesi için (${pct(rep, rows.length)}) üç yıl içinde benzer başlıklı bir kanun yeni bir numarayla yayımlandı. ${nS(lastY, 'abl')} sonra işaretli numara yok.`,
+      `The law index marks ${fmt(rows.length)} law numbers that were never published in the Resmî Gazete as VETO; each dot is one, placed in the year of the published law number just before it. For ${fmt(rep)} of them (${pct(rep, rows.length)}) a law with a similar title was published under a new number within three years. No number after ${lastY} is marked.`),
+    draw(el) {
+      const cols = S8(), OC = [[L('Benzer başlıkla yeniden yayımlandı', 'Published again under a new number'), cols[0]], [L('Üç yıl içinde benzeri yok', 'No similar law within three years'), cols[7]]];
+      legend(el, OC.map(([l, cc]) => ({ c: cc, l, shape: 'dot' })));
+      const cards = el.append('div').attr('class', 'ptiles');
+      P.forEach(p => {
+        const s = st(p), d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').text(`${PRESN[p.k]} · ${p.a.slice(0, 4)}–${p.k === 'erdogan' ? '' : p.z.slice(0, 4)}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(s.n)}</b> ${L('veto', s.n === 1 ? 'veto' : 'vetoes')}`);
+        d.append('div').attr('class', 'ps').text(s.n ? L(`yılda ${dec(s.py, 1)} · ${nS(pct(s.rep, s.n), 'poss')} yeniden`, `${dec(s.py, 1)} a year · ${pct(s.rep, s.n)} again`) : L('dizinde işaretli numara yok', 'no number marked in the index'));
+        const bar = d.append('div').attr('class', 'pbar');
+        if (s.n) { if (s.rep) bar.append('i').style('flex', s.rep).style('background', OC[0][1]); if (s.n - s.rep) bar.append('i').style('flex', s.n - s.rep).style('background', OC[1][1]); }
+        else bar.append('i').style('flex', 1).style('background', css('--line'));
+      });
+      const w = W(el), nw = narrow(w), bins = d3.group(rows, r => +r.d.slice(0, 4));
+      const maxN = d3.max([...bins.values()], b => b.length), step = nw ? 6 : 8, r0 = nw ? 2.4 : 3.3;
+      const m = { t: 26, r: 8, b: 24, l: 8 }, ih = maxN * step + 6, h = m.t + m.b + ih;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([1961, +PF.built.slice(0, 4) + 1]).range([0, iw]);
+      P.forEach((p, i) => {
+        const x0 = x(YD(p.a)), x1 = x(YD(p.z));
+        if (i % 2 === 0) g.append('rect').attr('x', x0).attr('width', x1 - x0).attr('y', -m.t + 4).attr('height', ih + m.t - 4).attr('rx', 6).attr('fill', css('--surface-2'));
+        const nm = [PRESN[p.k], PRESN[p.k].split(' ').slice(-1)[0]].find(s => !(nw && s === PRESN[p.k]) && x1 - x0 > s.length * 6.2 + 6);
+        if (nm) g.append('text').attr('class', 'lbl strong').attr('x', (x0 + x1) / 2).attr('y', -10).attr('text-anchor', 'middle').text(nm);
+      });
+      x.ticks(nw ? 5 : 10).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const pts = [];
+      bins.forEach((vs, yy) => vs.sort((a, b) => (!a.rep) - (!b.rep) || a.no - b.no).forEach((v, k) => pts.push({ v, cx: x(yy + .5), cy: ih - 4 - k * step })));
+      bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => p.cx).attr('cy', p => p.cy).attr('r', r0).attr('fill', p => p.v.rep ? OC[0][1] : OC[1][1]),
+        p => `<b>${esc(tcase(p.v.title))}</b>` + trow(null, L('Kanun numarası', 'Law number'), String(p.v.no)) + trow(null, L('Önceki yayımlanmış numara', 'Previous published number'), `${p.v.lo} (${dateShort(p.v.d)})`) +
+          trow(null, L('Cumhurbaşkanı', 'President'), p.v.p ? PRESN[p.v.p] : '–') + trow(p.v.rep ? OC[0][1] : OC[1][1], L('Sonra', 'Then'), p.v.rep ? L(`${p.v.rep} sayılı Kanun (${dateShort(p.v.rep_d)})`, `Law ${p.v.rep} (${dateShort(p.v.rep_d)})`) : OC[1][0]));
+      note(el, ['data/m4-all/law-index-*.csv (digerKanunlar = VETO)'], fmt(rows.length) + L(' kanun numarası', ' law numbers'),
+        L('yalnızca dizinin VETO olarak işaretlediği numaralar sayılır. Cumhurbaşkanı, önceki yayımlanmış numaranın tarihine göre belirlenir; yılda veto, sayının görev süresine (Recep Tayyip Erdoğan için bugüne kadar) bölümüdür. Yeniden yayımlanma: başlık benzerliği %90\'ı aşan ve üç yıl içinde yayımlanan bir kanun (kural src/prep.py\'de).',
+          'only numbers the index marks as VETO count. The President is the one in office on the date of the previous published number; vetoes a year divide the count by the term (for Recep Tayyip Erdoğan, so far). Published again: a law published within three years whose title is over 90% similar (rule in src/prep.py).'));
+      table(el, [L('Numara', 'Number'), L('Tarih (önceki numara)', 'Date (previous number)'), L('Cumhurbaşkanı', 'President'), L('Başlık', 'Title'), L('Sonra', 'Then')], rows.map(r => [String(r.no), r.d, r.p ? PRESN[r.p] : '–', tcase(r.title), r.rep ? String(r.rep) : '–']));
+    }
+  };
+});
+
+chart('c16', el => {
+  const c = D.c16, multi = c.rows.find(r => r.k === 'multi'), bil = c.rows.filter(r => r.k !== 'multi');
+  const t3 = bil.slice(0, 3), N = c.laws;
+  return {
+    title: L(`Anlaşmalar: onay kanunlarında en sık adı geçen devletler ${t3.map(r => `${ctryName(r.k)} (${fmt(r.n)})`).join(', ').replace(/, ([^,]*)$/, ' ve $1')}`, `Agreements: the states named most in approval laws are ${t3.map(r => `${ctrySent(r.k)} (${fmt(r.n)})`).join(', ').replace(/, ([^,]*)$/, ' and $1')}`),
+    dek: L(`Bir uluslararası anlaşmanın onaylanmasını uygun bulan ya da onaylayan ${fmt(N)} kanun (1921'den beri), başlığında adı geçen devlete göre: eski devletlerle birlikte ${fmt(bil.length)} devlet. Başlığında devlet adı olmayan ya da üçten çok devlet sayan ${fmt(multi.n)} kanun çok taraflı anlaşmalar ve uluslararası kuruluşlarla ilgili; haritada yoklar.`,
+      `The ${fmt(N)} laws (since 1921) approving an international agreement, by the state named in their title: ${fmt(bil.length)} states, former states included. The ${fmt(multi.n)} laws whose titles name no state, or more than three, concern multilateral agreements and international organisations; they are not on the map.`),
+    draw(el) {
+      const ramp = d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+      const mx = d3.max(bil, r => r.n), col = n => ramp(0.12 + 0.88 * Math.sqrt(n / mx));
+      const byIso = new Map(bil.filter(r => ISO_N[r.k]).map(r => [ISO_N[r.k], r])), byName = new Map(bil.filter(r => NAME_N[r.k]).map(r => [NAME_N[r.k], r]));
+      legend(el, [1, 10, 40, mx].map(n => ({ c: col(n), l: n === mx ? L(`${n} kanun`, `${n} laws`) : String(n) })).concat([{ c: css('--s2'), l: 'Türkiye' }]));
+      const box = el.append('div').attr('class', 'mini');
+      const pe = box.append('div'), pw = box.append('div');
+      pe.append('h4').text(L('Avrupa ve Orta Doğu', 'Europe and the Middle East')); pw.append('h4').text(L('Dünya', 'World'));
+      const draws = [];
+      const map = (div, mk, hh) => {
+        const w = W(div), h = Math.round(w * hh), svg = svgIn(div, w, h).style('overflow', 'hidden');
+        draws.push(() => {
+          const land = topojson.feature(WORLD, WORLD.objects.countries).features.filter(f => f.id !== '010');
+          const proj = mk(w, h), path = d3.geoPath(proj);
+          const rec = f => byIso.get(f.id) || byName.get(f.properties.name);
+          bindTip(svg.append('g').selectAll('path').data(land).join('path').attr('d', path).attr('stroke', css('--surface')).attr('stroke-width', .6)
+            .attr('fill', f => f.id === '792' ? css('--s2') : rec(f) ? col(rec(f).n) : css('--surface-2')),
+            f => { const r = rec(f); return f.id === '792' ? '<b>Türkiye</b>' : `<b>${r ? esc(ctryName(r.k)) : esc(f.properties.name)}</b>` + trow(null, L('Onay kanunu', 'Approval laws'), fmt(r ? r.n : 0)); });
+        });
+      };
+      const me = { type: 'MultiPoint', coordinates: [[-8, 36], [58, 30], [-8, 60], [58, 58], [30, 24], [30, 64]] };
+      map(pe, (w, h) => d3.geoConicConformal().parallels([32, 52]).rotate([-25, 0]).fitExtent([[0, 0], [w, h]], me), 0.78);
+      map(pw, (w, h) => d3.geoNaturalEarth1().fitExtent([[0, 0], [w, h]], { type: 'Sphere' }), 0.52);
+      const fail = () => box.append('p').attr('class', 'note').text(L('Harita yüklenemedi (cdn.jsdelivr.net); sayılar aşağıdaki grafikte ve tabloda.', 'The map could not be loaded (cdn.jsdelivr.net); the numbers are in the chart below and the table.'));
+      if (WORLD) draws.forEach(f => f()); else worldAtlas().then(() => draws.forEach(f => f())).catch(fail);
+      const ERAS = ['e1', 'e2', 'e3', 'e4'], dcol = [0.3, 0.5, 0.72, 0.95].map(ramp), EN = [L('1921–1959', '1921–1959'), '1960–1979', '1980–1999', L('2000\'den beri', 'since 2000')];
+      const top = bil.slice(0, 16);
+      el.append('h4').attr('class', 'sub').text(L('En sık adı geçen devletler, döneme göre', 'The states named most, by period'));
+      legend(el, EN.map((l, i) => ({ c: dcol[i], l })));
+      const w = W(el), nw = narrow(w), rowH = 22, m = { t: 2, r: 40, b: 4, l: nw ? 110 : 170 };
+      const svg = svgIn(el, w, m.t + m.b + rowH * top.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, mx]).range([0, iw]);
+      top.forEach((r, i) => {
+        const cy = i * rowH, v = ERAS.map(e => r.by[e] || 0); let acc = 0;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(ctryName(r.k));
+        v.forEach((n, j) => { if (!n) return; const last = v.slice(j + 1).every(z => !z);
+          g.append('path').attr('d', last ? barPath(x(acc), cy + 5, x(acc + n), 13, 3) : `M${x(acc)},${cy + 5}h${Math.max(0, x(acc + n) - x(acc) - 1)}v13h${-Math.max(0, x(acc + n) - x(acc) - 1)}Z`).attr('fill', dcol[j]); acc += n; });
+        g.append('text').attr('class', 'lbl').attr('x', x(r.n) + 6).attr('y', cy + 15).text(r.n);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => `<b>${esc(ctryName(d.k))}</b>` + ERAS.map((e, j) => trow(dcol[j], EN[j], fmt(d.by[e] || 0))).join('') + trow(null, t('total'), fmt(d.n)));
+      });
+      note(el, ['data/m4-all/law-index-*.csv'], fmt(N) + L(' onay kanunu', ' approval laws'),
+        L('anlaşmanın tarafı, başlıktaki devlet adlarından okunur (eski adlar dahil: Lehistan, Felemenk, Amerika Müttehit Devletleri…; kurallar src/prep.py\'de); bir kanun birden çok devlet için sayılabilir. SSCB ve Sovyet Rusya, Yugoslavya, Çekoslovakya ve Doğu Almanya yalnızca tabloda; “Birleşik Arap Cumhuriyeti” Mısır sayıldı. Küçük devletler (Malta, Singapur, Bahreyn…) haritada görünmez. Harita: world-atlas (Natural Earth).',
+          'the other party is read from state names in the title (old names included: Lehistan, Felemenk, Amerika Müttehit Devletleri…; rules in src/prep.py); a law can count for several states. The USSR and Soviet Russia, Yugoslavia, Czechoslovakia and East Germany are in the table only; the "United Arab Republic" counts as Egypt. Small states (Malta, Singapore, Bahrain…) are too small for the map. Map: world-atlas (Natural Earth).'));
+      table(el, [L('Devlet', 'State'), ...EN, t('total')], c.rows.map(r => [r.k === 'multi' ? L('Çok taraflı / devlet adı yok', 'Multilateral / no state named') : ctryName(r.k), ...ERAS.map(e => r.by[e] || 0), r.n]));
+    }
+  };
+});
+
+part('p2', 'II. Genel Kurul, olağanüstü hal ve tezkereler', 'II. Sittings, states of emergency and troop mandates',
+  'Genel Kurulun tutanak dizini (data/minutes-*.csv) ve Meclisin kanun dışındaki kararları (parliament-decision/ ve Resmî Gazete fihristi), başlıklarıyla.',
+  'The index of plenary minutes (data/minutes-*.csv) and the decisions of the Assembly other than laws (parliament-decision/ and the Resmî Gazete index), by their titles.');
+
+chart('c05', el => {
+  const c = D.c05, T1 = c.terms[0], LY = +PF.built.slice(0, 4);
+  const yrs = d3.range(1920, LY + 1).map(y => c.years.find(r => r.y === y) || { y, open: 0, closed: 0 });
+  const recent = yrs.filter(r => r.y >= 1984 && r.y < LY), avg = sum(recent, r => r.open) / recent.length;
+  const lastClosed = d3.max(c.years.filter(r => r.closed), r => r.y);
+  return {
+    title: L(`Genel Kurul: Birinci Meclis üç yılda ${fmt(T1[3])} birleşim ve ${fmt(T1[4])} gizli oturum yaptı`, `The plenary: the First Assembly held ${fmt(T1[3])} sittings and ${fmt(T1[4])} closed sessions in three years`),
+    dek: L(`Tutanak dizinindeki her birleşim, yıl yıl; turuncu, gizli oturumdur (gizli celse). ${T1[1].slice(0, 4)}–${T1[2].slice(0, 4)} arasındaki Birinci Meclisten sonra gizli oturum kaydı seyrekleşir, ${nS(lastClosed, 'abl')} sonra hiç yoktur. 1984'ten bu yana Genel Kurul yılda ortalama ${fmt(Math.round(avg))} birleşim yapıyor.`,
+      `Every sitting in the index of plenary minutes, by year; orange marks the closed sessions (gizli celse). After the First Assembly of ${T1[1].slice(0, 4)}–${T1[2].slice(0, 4)} closed sessions become rare, and there are none after ${lastClosed}. Since 1984 the plenary has sat ${fmt(Math.round(avg))} times a year on average.`),
+    draw(el) {
+      const cols = S8(), keys = ['open', 'closed'], colors = [cols[0], cols[1]], names = [L('Birleşim', 'Sitting'), L('Gizli oturum', 'Closed session')];
+      legend(el, [{ c: colors[0], l: names[0] }, { c: colors[1], l: names[1] }, { c: css('--surface-2'), l: L('Dizinde birleşim yok', 'No sitting in the index'), shape: 'hatch' }]);
+      const nw = narrow(W(el));
+      const s = stackedColumns(el, yrs, keys, colors, names, { pad: 0.1, partial: r => r.y === LY, h: 280, mt: nw ? 14 : 30, every: 10, tick: r => r.y % (nw ? 20 : 10) === 0, noShare: true });
+      const xr = y => s.x(y), bwid = s.x.step();
+      const gaps = [['1960-05-26', '1961-10-19'], ['1973-07-26', '1983-11-23']], hu = hatch(s.svg);
+      gaps.forEach(([a, z], i) => {
+        const x0 = xr(+a.slice(0, 4)) + bwid * (YD(a) % 1), x1 = xr(+z.slice(0, 4)) + bwid * (YD(z) % 1);
+        s.back.append('rect').attr('x', x0).attr('width', Math.max(2, x1 - x0)).attr('y', 0).attr('height', s.ih).attr('fill', hu).attr('opacity', .8);
+        if (i === 1 && x1 - x0 > 60) s.back.append('text').attr('class', 'lbl mut').attr('x', (x0 + x1) / 2).attr('y', s.ih / 2).attr('text-anchor', 'middle').text(L('15. ve 16. dönem', 'terms 15 and 16'));
+        if (i === 1 && x1 - x0 > 60) s.back.append('text').attr('class', 'lbl mut').attr('x', (x0 + x1) / 2).attr('y', s.ih / 2 + 14).attr('text-anchor', 'middle').text(L('depoda yok', 'not held'));
+      });
+      if (!nw) c.terms.forEach(([tn, a, z], i) => {
+        const x0 = xr(+a.slice(0, 4)) + bwid * (YD(a) % 1), x1 = xr(+z.slice(0, 4)) + bwid * (YD(z) % 1);
+        if (i % 2 === 0) s.back.append('rect').attr('x', x0).attr('width', Math.max(1, x1 - x0)).attr('y', -18).attr('height', 12).attr('rx', 3).attr('fill', css('--surface-2'));
+        if (x1 - x0 > 16) s.back.append('text').attr('class', 'lbl mut').attr('x', (x0 + x1) / 2).attr('y', -8.5).attr('text-anchor', 'middle').style('font-size', '10px').text(tn);
+      });
+      if (!nw) s.g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', -22).text(L('dönem', 'term'));
+      note(el, ['data/minutes-*.csv'], fmt(c.n) + L(' tutanak kaydı', ' minutes records'),
+        L(`gizli oturum kayıtlarının ${fmt(c.closed_sameday)}'${sfx(c.closed_sameday, 'poss')} aynı gün açık bir birleşimle birliktedir. Dizinde 25 Mayıs 1960 ile 20 Ekim 1961 arasında ve 25 Temmuz 1973 ile 24 Kasım 1983 arasında birleşim yok; 15. ve 16. dönemin tutanakları depoda değil. Tarihi dönemin geri kalanından yıllarca uzak olan ${fmt(c.dropped)} kayıt yazım hatası sayıldı. ${LY} eksik yıldır.`,
+          `${fmt(c.closed_sameday)} of the closed-session records fall on a day with an open sitting. The index has no sitting between 25 May 1960 and 20 October 1961, or between 25 July 1973 and 24 November 1983; the minutes of terms 15 and 16 are not in the repository. ${fmt(c.dropped)} records dated years away from the rest of their term count as typos. ${LY} is partial.`));
+      table(el, [t('term'), L('İlk birleşim', 'First sitting'), L('Son birleşim', 'Last sitting'), L('Birleşim', 'Sittings'), L('Gizli oturum', 'Closed sessions')], c.terms.map(r => [String(r[0]), r[1], r[2], r[3], r[4]]));
+    }
+  };
+});
+
+chart('c06', el => {
+  const c = D.c06, A = c.filter(r => r.d >= '1987' && r.d < '2003'), B = c.filter(r => r.d >= '2016' && r.d < '2019'), Cc = c.filter(r => r.d >= '2023');
+  const val = r => r.n_total || r.n, ns = A.filter(r => val(r)).map(val), early = c.filter(r => r.d < '1987');
+  return {
+    title: L(`Olağanüstü hal: ${A[0].d.slice(0, 4)}–2002 arasında ${d3.min(ns)} ila ${d3.max(ns)} ilde, 2016–2018'de 81 ilde`, `States of emergency: ${d3.min(ns)} to ${d3.max(ns)} provinces in ${A[0].d.slice(0, 4)}–2002, all 81 in 2016–2018`),
+    dek: L(`Olağanüstü hal ilanını onaylayan ya da süresini uzatan Meclis kararları; her nokta bir karar, çizgi kararın başlığında yazan il sayısı. Kayıtta ${A[0].d.slice(0, 4)}–2002 arasında ${fmt(A.length)} karar, 2016–2018 arasında ${fmt(B.length)} karar (bir ilan ve ${fmt(B.length - 1)} uzatma) ve Şubat 2023'te ${fmt(val(Cc[0]))} ilde üç aylık bir ilan var.`,
+      `Assembly decisions approving a state of emergency or extending it; each dot is a decision, the line the number of provinces its title gives. The record holds ${fmt(A.length)} decisions in ${A[0].d.slice(0, 4)}–2002, ${fmt(B.length)} in 2016–2018 (one declaration and ${fmt(B.length - 1)} extensions) and a three-month declaration for ${fmt(val(Cc[0]))} provinces in February 2023.`),
+    draw(el) {
+      const ink = css('--s2'), w = W(el), nw = narrow(w);
+      legend(el, [{ c: ink, l: L('Başlıkta yazan il sayısı', 'Provinces named in the title'), shape: 'line' }, { c: css('--text-3'), l: L('Arada kayıtlı karar yok', 'No recorded decision in between'), shape: 'dash' }]);
+      const box = el.append('div').attr('class', 'mini').style('grid-template-columns', nw ? '1fr' : '3fr 1.35fr 1fr');
+      const pa = box.append('div'), pbc = nw ? box.append('div').style('display', 'grid').style('grid-template-columns', '1.35fr 1fr').style('gap', '12px') : box;
+      const pb = pbc.append('div'), pc = pbc.append('div');
+      [[pa, `${A[0].d.slice(0, 4)}–2002`], [pb, '2016–2018'], [pc, '2023']].forEach(([p, l]) => p.append('h4').text(l));
+      const H = 210, m = { t: 14, r: 10, b: 24, l: 26 };
+      // A: regional emergency rule, provinces by decision
+      {
+        const w2 = WR(pa), svg = svgIn(pa, w2, H), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), iw = w2 - m.l - m.r, ih = H - m.t - m.b;
+        const x = d3.scaleLinear().domain([YD(A[0].d) - .3, 2003]).range([0, iw]), y = d3.scaleLinear().domain([0, 12]).range([ih, 0]);
+        yAxis(g, y, iw, 4);
+        [1990, 1995, 2000].forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        const pts = []; const seen = new Set();
+        A.forEach(r => { if (!val(r) || seen.has(r.d)) return; seen.add(r.d); pts.push({ d: r.d, x: YD(r.d), n: val(r), rs: A.filter(q => q.d === r.d) }); });
+        pts.forEach((p, i) => {
+          if (i) { const q = pts[i - 1], gap = p.x - q.x > 0.42;
+            g.append('path').attr('d', `M${x(q.x)},${y(q.n)}H${x(p.x)}V${y(p.n)}`).attr('fill', 'none').attr('stroke', gap ? css('--text-3') : ink).attr('stroke-width', gap ? 1.3 : 2.2).attr('stroke-dasharray', gap ? '3 3' : null); }
+          if (!i || pts[i - 1].n !== p.n) g.append('text').attr('class', 'lbl strong').attr('x', x(p.x)).attr('y', y(p.n) - 8).attr('text-anchor', 'middle').text(p.n);
+        });
+        bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => x(p.x)).attr('cy', p => y(p.n)).attr('r', 3.4).attr('fill', ink).attr('stroke', css('--surface')).attr('stroke-width', 1.2),
+          p => `<b>${dateTxt(p.d)}</b>` + p.rs.map(r => `<div>${esc(r.t)} (${L('karar', 'decision')} ${r.no})</div>`).join('') + trow(ink, L('İl', 'Provinces'), fmt(p.n)));
+        g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', -4).text(L('il', 'provinces'));
+      }
+      // B: nationwide, 2016-2018
+      {
+        const w2 = WR(pb), svg = svgIn(pb, w2, H), g = svg.append('g').attr('transform', `translate(6,${m.t})`), iw = w2 - 16, ih = H - m.t - m.b;
+        const x = d3.scaleLinear().domain([YD('2016-07-01'), YD('2018-08-01')]).range([0, iw]);
+        const x0 = x(YD(B[0].d)), x1 = x(YD(B[B.length - 1].d));
+        g.append('rect').attr('x', x0).attr('width', Math.max(4, x1 - x0)).attr('y', 0).attr('height', ih).attr('rx', 6).attr('fill', ink).attr('fill-opacity', .18);
+        g.append('line').attr('x1', x0).attr('x2', x1).attr('y1', 10).attr('y2', 10).attr('stroke', ink).attr('stroke-width', 2.2);
+        g.append('text').attr('class', 'lbl strong').attr('x', (x0 + x1) / 2).attr('y', ih / 2).attr('text-anchor', 'middle').style('font-size', '20px').text('81');
+        g.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', ih / 2 + 18).attr('text-anchor', 'middle').text(L('il · ülke geneli', 'provinces · nationwide'));
+        [2017, 2018].forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        bindTip(g.append('g').selectAll('circle').data(B).join('circle').attr('cx', r => x(YD(r.d))).attr('cy', 10).attr('r', 3.4).attr('fill', ink).attr('stroke', css('--surface')).attr('stroke-width', 1.2),
+          r => `<b>${dateTxt(r.d)}</b><div>${esc(tcase(r.t))} (${L('karar', 'decision')} ${r.no})</div>`);
+      }
+      // C: 2023
+      {
+        const r = Cc[0], w2 = WR(pc), svg = svgIn(pc, w2, H), g = svg.append('g').attr('transform', `translate(6,${m.t})`), iw = w2 - 16, ih = H - m.t - m.b;
+        const x = d3.scaleLinear().domain([YD('2023-01-01'), YD('2023-07-01')]).range([0, iw]);
+        const x0 = x(YD(r.d)), x1 = x(YD(r.d) + (r.months || 3) / 12), yy = ih - ih * val(r) / 12;
+        g.append('rect').attr('x', x0).attr('width', x1 - x0).attr('y', yy).attr('height', ih - yy).attr('rx', 6).attr('fill', ink).attr('fill-opacity', .18);
+        g.append('line').attr('x1', x0).attr('x2', x1).attr('y1', yy).attr('y2', yy).attr('stroke', ink).attr('stroke-width', 2.2);
+        bindTip(g.append('circle').attr('cx', x0).attr('cy', yy).attr('r', 3.4).attr('fill', ink).datum(r), d => `<b>${dateTxt(d.d)}</b><div>${esc(tcase(d.t))}</div>`);
+        g.append('text').attr('class', 'lbl strong').attr('x', (x0 + x1) / 2).attr('y', yy - 8).attr('text-anchor', 'middle').text(val(r));
+        g.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', yy + 16).attr('text-anchor', 'middle').text(L('il, 3 ay', 'provinces, 3 months'));
+        [['2023-02-01', L('Şub', 'Feb')], ['2023-05-01', L('May', 'May')]].forEach(([d, l]) => g.append('text').attr('class', 'lbl').attr('x', x(YD(d))).attr('y', ih + 16).attr('text-anchor', 'middle').text(l));
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      }
+      note(el, ['parliament-decision/ (başlıklar / titles)', 'data/rg-2001.csv, data/rg-2002.csv'], fmt(c.length) + L(' karar', ' decisions'),
+        L(`başlığında “olağanüstü hal” geçen kararlar. Yalnızca üst verisi olan (başlıksız) kararlar çizilemez; kesik çizgi, iki kayıtlı karar arasında dört aydan uzun bir boşluktur. İl sayısı başlıkta yazmayan ${fmt(early.length - early.filter(r => r.n).length)} karar ile 1984–1985 kararları (${fmt(early.length)}) tablodadır. Bir ilde ilan ile başka illerde uzatma aynı gün yapıldığında sayılar toplandı (1993).`,
+          `decisions whose title names a state of emergency (olağanüstü hal). Decisions held as metadata only (no title) cannot be drawn; a dashed line marks a gap of more than four months between two recorded decisions. The ${fmt(early.length)} decisions of 1984–1985, some of which give no number of provinces, are in the table. When one province was added on the day others were extended, the numbers are added (1993).`));
+      table(el, [L('Tarih', 'Date'), L('Karar', 'Decision'), L('İl', 'Provinces'), L('Başlık', 'Title')], c.map(r => [r.d, String(r.no), r.n_total || r.n || '–', tcase(r.t)]));
+    }
+  };
+});
+
+const MIS = { lebanon: ['Lübnan (UNIFIL)', 'Lebanon (UNIFIL)'], iraq: ['Irak\'ın kuzeyi', 'Northern Iraq'], aden: ['Aden Körfezi ve Somali açıkları', 'Gulf of Aden, off Somalia'],
+  libya: ['Libya (2011)', 'Libya (2011)'], syria: ['Suriye', 'Syria'], iraq_syria: ['Irak ve Suriye', 'Iraq and Syria'], africa: ['Mali ve Orta Afrika Cumhuriyeti', 'Mali and the Central African Republic'],
+  afghanistan: ['Afganistan (NATO)', 'Afghanistan (NATO)'], unnamed: ['Ülke adı başlıkta yok (karar 1238)', 'No country in the title (decision 1238)'], azerbaijan: ['Azerbaycan', 'Azerbaijan'],
+  qatar: ['Katar (Dünya Kupası)', 'Qatar (World Cup)'], somalia: ['Somali (ikili anlaşmalar)', 'Somalia (bilateral agreements)'], gulf: ['Körfez krizi (1990–1991)', 'Gulf crisis (1990–1991)'] };
+chart('c07', el => {
+  const c = D.c07, rows = c.filter(r => r.d >= '2006'), gulf = c.filter(r => r.d < '2006');
+  const ks = [...new Set(rows.slice().sort((a, b) => a.d.localeCompare(b.d)).map(r => r.k))];
+  const nmax = d3.max(ks, k => rows.filter(r => r.k === k).length), kmax = ks.find(k => rows.filter(r => r.k === k).length === nmax);
+  return {
+    title: L(`Tezkereler: 2006'dan bu yana ${fmt(rows.length)} izin kararı, ${fmt(ks.length)} görev`, `Mandates to send troops abroad: ${fmt(rows.length)} decisions on ${fmt(ks.length)} missions since 2006`),
+    dek: L(`Anayasanın 92. maddesi uyarınca Türk Silahlı Kuvvetlerinin yabancı ülkelere gönderilmesine Meclis izin verir. Her çubuk bir karardır: karar tarihinden başlığında yazan süre kadar (yazmıyorsa bir yıl). En çok karar ${L(...MIS[kmax])} için (${fmt(nmax)}); Irak'ın kuzeyi (2007–2013) ve Suriye (2012–2013) izinleri 2014'ten beri tek kararda.`,
+      `Under Article 92 of the Constitution the Assembly authorises sending the armed forces abroad. Each bar is a decision: from its date for the period its title gives (one year if it gives none). Most decisions concern ${MIS[kmax][1]} (${fmt(nmax)}); the mandates for northern Iraq (2007–2013) and Syria (2012–2013) have been one decision since 2014.`),
+    draw(el) {
+      const ink = css('--s1'), w = W(el), nw = narrow(w), rowH = 26, m = { t: 22, r: 30, b: 24, l: nw ? 132 : 220 };
+      legend(el, [{ c: ink, l: L('İzin süresi', 'Period authorised') }, { c: css('--text'), l: L('Karar tarihi', 'Date of decision'), shape: 'dot' }]);
+      const h = m.t + m.b + rowH * ks.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([2006, 2029]).range([0, iw]);
+      x.ticks(nw ? 4 : 8).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', -4).attr('y2', rowH * ks.length).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rowH * ks.length + 16).attr('text-anchor', 'middle').text(v); });
+      const today = x(YD(PF.built));
+      g.append('line').attr('x1', today).attr('x2', today).attr('y1', -10).attr('y2', rowH * ks.length).attr('stroke', css('--text-3')).attr('stroke-dasharray', '2 3');
+      g.append('text').attr('class', 'lbl mut').attr('x', today).attr('y', -12).attr('text-anchor', 'middle').text(L('bugün', 'today'));
+      ks.forEach((k, i) => {
+        const cy = i * rowH, rs = rows.filter(r => r.k === k);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(L(...MIS[k]));
+        rs.forEach(r => {
+          const x0 = x(YD(r.d)), x1 = x(YD(r.d) + (r.months || 12) / 12);
+          bindTip(g.append('rect').attr('x', x0).attr('width', Math.max(3, x1 - x0)).attr('y', cy + 6).attr('height', rowH - 12).attr('rx', 4).attr('fill', ink).attr('fill-opacity', .55).attr('stroke', css('--surface')).attr('stroke-width', 1).datum(r),
+            d => `<b>${L(...MIS[d.k])} · ${dateTxt(d.d)}</b>` + trow(null, L('Karar', 'Decision'), String(d.no)) + trow(null, L('Süre', 'Period'), d.months ? L(`${d.months} ay`, `${d.months} months`) : L('başlıkta yok (1 yıl çizildi)', 'not in the title (one year drawn)')) + `<div>${esc(tcase(d.t)).slice(0, 260)}${d.t.length > 260 ? '…' : ''}</div>`);
+          g.append('circle').attr('cx', x0).attr('cy', cy + rowH / 2).attr('r', 2.4).attr('fill', css('--text')).style('pointer-events', 'none');
+        });
+        g.append('text').attr('class', 'lbl').attr('x', iw + 6).attr('y', cy + rowH / 2 + 4).text(rs.length);
+      });
+      note(el, ['parliament-decision/ (başlıklar / titles)', 'data/rg-2006.csv … (2006–2007)'], fmt(c.length) + L(' karar', ' decisions'),
+        L(`başlığında Türk Silahlı Kuvvetlerinin gönderilmesi ya da görevlendirilmesi geçen kararlar; görev, başlıktaki ülke ve görev adından okunur (bir ülke adı vermeyen karar, uzattığı ya da onu uzatan kararın görevini alır). 2 Ocak 2020 tarihli 1238 sayılı karar ve uzatmaları ülke adı vermez. Kayıtta 2006 öncesi yalnızca 1990 ve 1991'den ${fmt(gulf.length)} karar var (tabloda). Sağdaki sayı karar sayısıdır.`,
+          `decisions whose title concerns sending or deploying the armed forces; the mission is read from the country and mission named in the title (a decision naming no country takes the mission of the decision it extends or that extends it). Decision 1238 of 2 January 2020 and its extensions name no country. Before 2006 the record holds only ${fmt(gulf.length)} decisions, of 1990 and 1991 (in the table). The number on the right counts decisions.`));
+      table(el, [L('Tarih', 'Date'), L('Karar', 'Decision'), L('Görev', 'Mission'), L('Süre (ay)', 'Period (months)')], c.map(r => [r.d, String(r.no), L(...MIS[r.k]), r.months || '–']));
+    }
+  };
+});
+
+part('p3', 'III. Yürürlükteki kanunlar nasıl değişiyor', 'III. How the laws in force change',
+  'Yürürlükteki kanun ve KHK metinlerindeki değişiklik notları (data/amendments.csv), yayıncının yürürlük tabloları (data/in-force-list.csv) ve Anayasanın madde dosyaları (law/1982/2709/).',
+  'The amendment notes printed in the texts of the laws and decree-laws in force (data/amendments.csv), the publisher\'s in-force tables (data/in-force-list.csv) and the article files of the Constitution (law/1982/2709/).');
+
+chart('c08', el => {
+  const c = D.c08, rows = c.rows, LY = d3.max(rows, r => r.y), k703 = c.khk703, k5728 = c.k5728;
+  const ytot = r => r.law + r.khk, mx = rows.reduce((a, b) => ytot(b) > ytot(a) ? b : a);
+  const lastKhk = d3.max(rows.filter(r => r.khk), r => r.y);
+  return {
+    title: L(`Kanunlar KHK ile de değişti: ${mx.y}'${sfx(mx.y, 'loc')} tek bir KHK ${fmt(k703[0])} düzenlemeyi değiştirdi`, `Laws were changed by decree too: in ${mx.y} a single decree-law changed ${fmt(k703[0])} acts`),
+    dek: L(`Yürürlükteki kanun ve KHK metinlerinde basılı her değişiklik notu (“Değişik: 21/1/2017-6771/16 md.” gibi), notun tarihindeki yıla ve değişikliği yapan işlemin türüne göre. 703 sayılı KHK ${fmt(k703[1])} not bıraktı; 5728 sayılı Kanun (2008) ${fmt(k5728[0])} düzenlemede ${fmt(k5728[1])} not. KHK çıkarma yetkisini veren Anayasanın 91. maddesi 6771 sayılı Kanunla yürürlükten kaldırıldı; ${nS(lastKhk, 'abl')} sonra KHK notu yok.`,
+      `Every amendment note printed in the texts of the laws and decree-laws in force (such as "Değişik: 21/1/2017-6771/16 md."), by the year in the note and the kind of act that made the change. Decree-law 703 left ${fmt(k703[1])} notes; Law 5728 (2008) ${fmt(k5728[1])} notes in ${fmt(k5728[0])} acts. Article 91 of the Constitution, which allowed decree-laws, was repealed by Law 6771; there is no decree-law note after ${lastKhk}.`),
+    draw(el) {
+      const cols = S8(), keys = ['law', 'khk'], colors = [cols[0], cols[1]], names = [L('Kanunla', 'By a law'), L('KHK ile', 'By a decree-law (KHK)')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const s = stackedColumns(el, rows, keys, colors, names, { pad: 0.18, partial: r => r.y === LY, every: 5, h: 320, mt: 30, tick: r => r.y % 5 === 0 });
+      const nw = narrow(W(el));
+      const ann = [[mx.y, L(`703 sayılı KHK: ${fmt(k703[1])} not`, `Decree-law 703: ${fmt(k703[1])} notes`)], [2008, L(`5728 sayılı Kanun: ${fmt(k5728[1])} not`, `Law 5728: ${fmt(k5728[1])} notes`)], [2011, L(`${fmt(c.khk_acts2011)} KHK: ${fmt(c.khk2011)} not`, `${fmt(c.khk_acts2011)} decree-laws: ${fmt(c.khk2011)} notes`)]];
+      const placed = [];
+      ann.forEach(([yy, txt], i) => {
+        const r = rows.find(q => q.y === yy); if (!r) return;
+        const cx = s.x(yy) + s.x.bandwidth() / 2, top = s.y(ytot(r)), tw = txt.length * 6.1;
+        let lx = i === 0 ? cx - 8 : cx, anchor = i === 0 ? 'end' : 'middle', ly = top - 8;
+        if (i === 2) { if (nw) return; anchor = 'middle'; lx = cx; ly = Math.min(top - 8, s.y(ytot(rows.find(q => q.y === 2008)) * 1.3)); }
+        if (i === 1) { anchor = 'end'; lx = cx + 4; ly = top - 8; }
+        const x0 = anchor === 'end' ? lx - tw : anchor === 'middle' ? lx - tw / 2 : lx, box = [x0, ly - 10, x0 + tw, ly + 3];
+        if (x0 < -s.m.l + 2 || x0 + tw > s.iw + 4 || placed.some(b => !(box[2] < b[0] || box[0] > b[2] || box[3] < b[1] || box[1] > b[3]))) return;
+        placed.push(box);
+        if (ly < top - 14) s.g.append('line').attr('x1', cx).attr('x2', cx).attr('y1', ly + 4).attr('y2', top - 3).attr('stroke', css('--text-3'));
+        s.g.append('text').attr('class', 'lbl strong').attr('x', lx).attr('y', ly).attr('text-anchor', anchor).text(txt);
+      });
+      note(el, ['data/amendments.csv'], fmt(c.n) + L(' değişiklik notu', ' amendment notes'),
+        L(`bir hüküm sonradan yeniden değiştiğinde eski notun yerini yenisi alır; bu yüzden eski yıllar eksik sayılır (1980 öncesi ${fmt(c.before)} not tabloda). Yıl, notta basılı tarihtir (çoğunlukla değişiklik işleminin kabul tarihi). Anayasanın 91. maddesindeki not: “(Mülga: 21/1/2017-6771/16 md.)”. ${LY} eksik yıldır.`,
+          `when a provision is changed again the newer note replaces the older one, so earlier years are undercounted (${fmt(c.before)} notes before 1980 are in the table). The year is the date printed in the note (usually the day the amending act was passed). The note on Article 91 of the Constitution reads "(Mülga: 21/1/2017-6771/16 md.)". ${LY} is partial.`));
+      table(el, [t('year'), names[0], names[1], t('total')], [[L('1980 öncesi', 'Before 1980'), '', '', c.before]].concat(rows.map(r => [String(r.y), r.law, r.khk, ytot(r)])));
+    }
+  };
+});
+
+chart('c09', el => {
+  const c = D.c09, top = c[0];
+  let best = { n: 0 };
+  c.forEach(r => Object.entries(r.by).forEach(([y, n]) => { if (n > best.n) best = { n, y, r }; }));
+  return {
+    title: L(`En çok değişen kanunlar: ${nameLoc(actName(top.act, top.title))} ${fmt(top.n)} değişiklik notu`, `The most-changed laws: ${fmt(top.n)} amendment notes in the ${actName(top.act, top.title)}`),
+    dek: L(`Her satır bir kanun ya da KHK, her hücre bir yıl: o yılın tarihini taşıyan not ne kadar çoksa hücre o kadar koyu. Bir yılda en çok not ${actName(best.r.act, best.r.title)} için: ${best.y} tarihli ${fmt(best.n)} not. Sağdaki sayı, düzenlemenin tüm notlarıdır.`,
+      `Each row is a law or decree-law, each cell a year: the more notes dated that year, the darker the cell. The most notes in one year belong to the ${actName(best.r.act, best.r.title)}: ${fmt(best.n)} dated ${best.y}. The number on the right is all of the act's notes.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), Y0 = nw ? 2000 : 1983, YRS = d3.range(Y0, +PF.built.slice(0, 4) + 1);
+      const rowH = 21, m = { t: 20, r: nw ? 30 : 64, b: 4, l: nw ? 130 : 280 };
+      const iw = w - m.l - m.r, cw = iw / YRS.length, h = m.t + m.b + rowH * c.length;
+      const mx = d3.max(c, r => d3.max(YRS, y => r.by[y] || 0)), ramp = d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+      const col = n => ramp(0.15 + 0.85 * Math.sqrt(n / mx));
+      legend(el, [1, 5, 15, mx].map(n => ({ c: col(n), l: n === mx ? L(`${n} not`, `${n} notes`) : String(n) })).concat([{ c: css('--surface-2'), l: L('not yok', 'no note') }]));
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      YRS.forEach((y, j) => { if (y % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(y); });
+      const xb = d3.scaleLinear().domain([0, d3.max(c, r => r.n)]).range([0, m.r - (nw ? 4 : 30)]);
+      c.forEach((r, i) => {
+        const cy = i * rowH, born = +(r.d || '1900').slice(0, 4);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 14).attr('text-anchor', 'end').text(actName(r.act, r.title));
+        YRS.forEach((y, j) => {
+          if (y < born) return;
+          const n = r.by[y] || 0;
+          g.append('rect').attr('x', j * cw + 0.75).attr('y', cy + 2).attr('width', Math.max(1, cw - 1.5)).attr('height', rowH - 4).attr('rx', Math.min(3, cw / 3)).attr('fill', n ? col(n) : css('--surface-2'));
+        });
+        if (!nw) g.append('path').attr('d', barPath(iw + 8, cy + 6, iw + 8 + xb(r.n), rowH - 12, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', iw + (nw ? 4 : 12) + (nw ? 0 : xb(r.n))).attr('y', cy + 14).text(r.n);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => { const by = Object.entries(d.by).sort((a, b) => b[1] - a[1]); return `<b>${esc(actName(d.act, d.title))}</b>` + trow(null, L('Kabul / yayım', 'Passed / published'), d.d.slice(0, 4)) + trow(null, L('Değişiklik notu', 'Amendment notes'), fmt(d.n)) + trow(null, L('En çok not', 'Most notes'), `${by[0][1]} (${by[0][0]})`); });
+      });
+      note(el, ['data/amendments.csv'], fmt(sum(c, r => r.n)) + L(' not', ' notes'),
+        L(`yürürlükteki metinde basılı notlar; bir hüküm yeniden değiştiğinde eski not silinir. ${nw ? 'Telefonda 2000\'den itibaren; hücreler' : 'Hücreler'} düzenlemenin yılından başlar. Sağdaki sayı ${Y0} öncesini de kapsar.`,
+          `notes printed in the text in force; when a provision changes again its older note is gone. ${nw ? 'On a phone from 2000; cells' : 'Cells'} start in the act's own year. The number on the right includes the years before ${Y0}.`));
+      const YT = d3.range(1980, +PF.built.slice(0, 4) + 1);
+      table(el, [L('Düzenleme', 'Act'), ...YT.map(String), t('total')], c.map(r => [actName(r.act, r.title), ...YT.map(y => r.by[y] || 0), r.n]));
+    }
+  };
+});
+
+const PARTN = { 'GENEL ESASLAR': 'General principles', 'TEMEL HAKLAR VE ÖDEVLER': 'Fundamental rights and duties', 'CUMHURİYETİN TEMEL ORGANLARI': 'Fundamental organs of the Republic',
+  'MALİ VE EKONOMİK HÜKÜMLER': 'Financial and economic provisions', 'ÇEŞİTLİ HÜKÜMLER': 'Miscellaneous provisions', 'GEÇİCİ HÜKÜMLER': 'Provisional articles', 'SON HÜKÜMLER': 'Final provisions' };
+const PARTO = { 'BİRİNCİ': ['Birinci kısım', 'Part one'], 'İKİNCİ': ['İkinci kısım', 'Part two'], 'ÜÇÜNCÜ': ['Üçüncü kısım', 'Part three'], 'DÖRDÜNCÜ': ['Dördüncü kısım', 'Part four'],
+  'BEŞİNCİ': ['Beşinci kısım', 'Part five'], 'ALTINCI': ['Altıncı kısım', 'Part six'], 'YEDİNCİ': ['Yedinci kısım', 'Part seven'] };
+chart('c10', el => {
+  const c = D.c10, arts = c.arts, byId = new Map(arts.map(a => [a.id, a]));
+  const num = arts.filter(a => !a.tmp), changed = num.filter(a => a.notes.length), rep = arts.filter(a => a.repealed);
+  const G = ['4121', '4709', '5170', '5982', '6771'], gOf = a => { const l = a.notes[a.notes.length - 1]; return l ? (G.includes(l[1]) ? l[1] : 'other') : null; };
+  const by6771 = arts.filter(a => a.notes.some(n => n[1] === '6771')), n6771 = sum(arts, a => a.notes.filter(n => n[1] === '6771').length);
+  const yr = k => (c.act_dates[k] || '').slice(0, 4);
+  return {
+    title: L(`1982 Anayasası: ${fmt(num.length)} maddenin ${fmt(changed.length)}'${sfx(changed.length, 'poss')} değişiklik notu taşıyor`, `The 1982 Constitution: ${fmt(changed.length)} of its ${fmt(num.length)} articles carry amendment notes`),
+    dek: L(`Her kare bir madde; renk, maddeye en son not düşen değişiklik kanunu, çizgili kareler yürürlükten kaldırılmış maddeler. En çok not ${yr('6771')} tarihli 6771 sayılı Kanundan: ${fmt(by6771.length)} hükümde ${fmt(n6771)} not; KHK yetkisi veren 91. madde dahil ${fmt(rep.length)} madde bugün yürürlükten kaldırılmış durumda.`,
+      `Each square is an article; its colour is the amending law that last left a note on it, and striped squares are repealed articles. Law 6771 of ${yr('6771')} left the most: ${fmt(n6771)} notes on ${fmt(by6771.length)} provisions. ${fmt(rep.length)} articles, Article 91 on decree-laws among them, now stand repealed.`),
+    draw(el) {
+      const cols = S8(), GC = { '4121': cols[3], '4709': cols[2], '5170': cols[4], '5982': cols[6], '6771': cols[1], other: cols[5] };
+      const GN = k => k === 'other' ? L('diğer kanunlar', 'other laws') : L(`${k} sayılı Kanun (${yr(k)})`, `Law ${k} (${yr(k)})`);
+      legend(el, [...G, 'other'].map(k => ({ c: GC[k], l: GN(k) })).concat([{ c: css('--surface-2'), l: L('değişiklik notu yok', 'no amendment note') }, { c: css('--surface-2'), l: L('yürürlükten kaldırıldı', 'repealed'), shape: 'hatch' }]));
+      const w = W(el), nw = narrow(w), cs = nw ? 19 : 25, gap = 3, perRow = Math.max(8, Math.floor((w + gap) / (cs + gap)));
+      let yy = 0;
+      const blocks = c.parts.map(p => { const rowsN = Math.ceil(p.arts.length / perRow); const b = { p, y: yy }; yy += 20 + rowsN * (cs + gap) + 10; return b; });
+      const svg = svgIn(el, w, yy), hpat = {};
+      [...G, 'other'].forEach(k => { const id = 'c10h' + k; const pt = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 5).attr('height', 5).attr('patternTransform', 'rotate(45)');
+        pt.append('rect').attr('width', 5).attr('height', 5).attr('fill', css('--surface-2')); pt.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 5).attr('stroke', GC[k]).attr('stroke-width', 2.4); hpat[k] = `url(#${id})`; });
+      blocks.forEach(({ p, y }) => {
+        const ord = p.p.split(' ')[0];
+        svg.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', y + 12).text(`${L(...(PARTO[ord] || [p.p, p.p]))} · ${L(tcase(p.name || ''), PARTN[p.name] || p.name)}`);
+        p.arts.forEach((id, i) => {
+          const a = byId.get(id), g = gOf(a), cx = (i % perRow) * (cs + gap), cy = y + 20 + Math.floor(i / perRow) * (cs + gap);
+          const fill = a.repealed ? hpat[g || 'other'] : g ? GC[g] : css('--surface-2');
+          bindTip(svg.append('rect').attr('x', cx).attr('y', cy).attr('width', cs).attr('height', cs).attr('rx', 4).attr('fill', fill).datum(a),
+            d => `<b>${d.tmp ? L(`Geçici madde ${d.no}`, `Provisional article ${d.no}`) : L(`Madde ${d.no}`, `Article ${d.no}`)}${d.title && d.title !== d.title.toUpperCase() ? ' · ' + esc(d.title) : ''}</b>` +
+              (d.repealed ? trow(null, L('Durum', 'Status'), L('yürürlükten kaldırıldı', 'repealed')) : '') +
+              (d.notes.length ? d.notes.map(n => trow(GC[G.includes(n[1]) ? n[1] : 'other'], `${dateShort(n[0])} · ${n[1]}`, esc(n[2]))).join('') : `<div>${L('değişiklik notu yok', 'no amendment note')}</div>`));
+          svg.append('text').attr('x', cx + cs / 2).attr('y', cy + cs / 2 + 3.5).attr('text-anchor', 'middle').style('font', `500 ${nw ? 8 : 9.5}px Inter, sans-serif`).style('pointer-events', 'none')
+            .style('fill', g && !a.repealed ? '#fff' : css('--text-3')).text(a.tmp ? (nw ? a.no : 'G' + a.no) : a.no);
+        });
+      });
+      note(el, ['law/1982/2709/madde-*.md', 'data/amendments.csv'], fmt(arts.length) + L(' madde dosyası', ' article files'),
+        L(`renk, maddenin metninde basılı son değişiklik notudur (Değişik, Ek, Mülga); bir madde sonradan yeniden değiştiğinde eski not silinir. Kısım başlıkları madde dosyalarından okunur. Geçici maddeler “G” ile gösterilir. Başlangıç metni gösterilmedi.`,
+          `the colour is the last amendment note printed in the article's text (Değişik, Ek, Mülga: amended, added, repealed); when an article changes again its older note is gone. The part headings are read from the article files. Provisional articles are marked "G". The preamble is not shown.`));
+      table(el, [L('Madde', 'Article'), L('Başlık', 'Heading'), L('Notlar', 'Notes'), L('Durum', 'Status')], arts.map(a => [a.tmp ? 'G' + a.no : String(a.no), a.title, a.notes.map(n => `${n[1]} (${n[0].slice(0, 4)}, ${n[2]})`).join('; '), a.repealed ? L('kaldırıldı', 'repealed') : '']));
+    }
+  };
+});
+
+chart('c11', el => {
+  const c = D.c11.filter(r => r.y >= 1985), LY = d3.max(c, r => r.y), tot = r => (r.same || 0) + (r.later || 0) + (r.before || 0);
+  const recent = c.filter(r => r.y >= LY - 10 && r.y < LY), S = sum(recent, r => r.same || 0), T = sum(recent, tot), B = sum(recent, r => r.before || 0), La = sum(recent, r => r.later || 0);
+  return {
+    title: L(`Yürürlük: son on yılda değişikliklerin ${nS(pct(S, T), 'poss')} yayımlandığı gün yürürlüğe girdi`, `Entry into force: ${pct(S, T)} of changes in the last ten years took effect the day they were published`),
+    dek: L(`Yayıncının yürürlük tablolarında her değişikliğin yürürlük tarihi, değişikliği yapan kanunun Resmî Gazete tarihiyle karşılaştırıldı. ${LY - 10}–${LY - 1} arasında değişikliklerin ${nS(pct(S, T), 'poss')} aynı gün, ${nS(pct(La, T), 'poss')} daha sonra, ${nS(pct(B, T, B / T < 0.01 ? 1 : 0), 'poss')} yayımdan önceki bir tarihten itibaren yürürlüğe girdi.`,
+      `For each change in the publisher's in-force tables, the day it took effect is compared with the Resmî Gazete date of the law that made it. In ${LY - 10}–${LY - 1}, ${pct(S, T)} of changes took effect the same day, ${pct(La, T)} later, and ${pct(B, T, B / T < 0.01 ? 1 : 0)} from a date before publication.`),
+    draw(el) {
+      const cols = S8(), ink = cols[0], cl = cols[2], cb = cols[1];
+      legend(el, [{ c: ink, l: L('Yayımlandığı gün', 'On the day of publication'), shape: 'line' }, { c: cl, l: L('Daha sonra', 'Later'), shape: 'dash' }, { c: cb, l: L('Yayımdan önceki bir tarihten', 'From a date before publication'), shape: 'dash' }]);
+      const w = W(el), nw = narrow(w), h = nw ? 250 : 300, m = { t: 18, r: nw ? 40 : 56, b: 26, l: 44 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleLinear().domain([1985, LY]).range([0, iw]), y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      d3.range(1985, LY + 1, nw ? 10 : 5).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+      const sh = k => c.map(r => ({ y: r.y, v: (r[k] || 0) / tot(r), r }));
+      const lg = svg.append('defs').append('linearGradient').attr('id', 'c11g').attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+      lg.append('stop').attr('offset', '0%').attr('stop-color', ink).attr('stop-opacity', .28); lg.append('stop').attr('offset', '100%').attr('stop-color', ink).attr('stop-opacity', .02);
+      const same = sh('same');
+      g.append('path').attr('d', d3.area().x(p => x(p.y)).y0(ih).y1(p => y(p.v))(same)).attr('fill', 'url(#c11g)');
+      [['later', cl], ['before', cb]].forEach(([k, cc]) => g.append('path').attr('d', d3.line().x(p => x(p.y)).y(p => y(p.v))(sh(k))).attr('fill', 'none').attr('stroke', cc).attr('stroke-width', 1.5).attr('stroke-dasharray', '4 3'));
+      g.append('path').attr('d', d3.line().x(p => x(p.y)).y(p => y(p.v))(same)).attr('fill', 'none').attr('stroke', ink).attr('stroke-width', 2.2).attr('stroke-linejoin', 'round');
+      g.selectAll('circle.p').data(same).join('circle').attr('class', 'p').attr('cx', p => x(p.y)).attr('cy', p => y(p.v)).attr('r', 2.4).attr('fill', p => p.y === LY ? css('--surface') : ink).attr('stroke', ink);
+      const f = same[0], l = same[same.length - 1];
+      g.append('text').attr('class', 'lbl strong').attr('x', x(f.y) + 2).attr('y', y(f.v) + 17).text(pv(100 * f.v));
+      g.append('text').attr('class', 'lbl strong').attr('x', x(l.y) + 7).attr('y', y(l.v) + 4).text(pv(100 * l.v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      bindTip(g.selectAll('rect.hit').data(c).join('rect').attr('class', 'hit').attr('x', r => x(r.y - .5)).attr('width', x(1986) - x(1985)).attr('y', 0).attr('height', ih),
+        r => `<b>${r.y}${r.y === LY ? ' (' + t('partial') + ')' : ''}</b>` + trow(ink, L('Aynı gün', 'Same day'), `${fmt(r.same || 0)} · ${pct(r.same || 0, tot(r))}`) + trow(cl, L('Daha sonra', 'Later'), `${fmt(r.later || 0)} · ${pct(r.later || 0, tot(r))}`) + trow(cb, L('Önceki bir tarihten', 'From an earlier date'), `${fmt(r.before || 0)} · ${pct(r.before || 0, tot(r))}`));
+      note(el, ['data/in-force-list.csv', 'data/m4-all/law-index-*.csv'], fmt(sum(c, tot)) + L(' değişiklik satırı', ' change rows'),
+        L(`satır: bir değişiklik kanunu, değiştirdiği bir düzenleme ve tablodaki bir madde grubu; yıl, değişiklik kanununun yayım yılıdır. Yalnızca 1985'ten sonra yayımlanmış kanunlar; yürürlük ile yayım arasında üç yıldan çok fark olan eşleşmeler, eski bir kanun serisindeki aynı numara olabileceği için atlandı. ${LY} eksik yıldır.`,
+          `a row is one amending law, one act it changed and one group of articles in the table; the year is the amending law's year of publication. Only laws published from 1985; matches more than three years apart are left out, as the number may belong to an older series of laws. ${LY} is partial.`));
+      table(el, [t('year'), L('Aynı gün', 'Same day'), L('Daha sonra', 'Later'), L('Önceki bir tarihten', 'From an earlier date'), t('total')], c.map(r => [String(r.y), r.same || 0, r.later || 0, r.before || 0, tot(r)]));
+    }
+  };
+});
+
+chart('c12', el => {
+  const c = D.c12, rows = c.rows, keys = ['inforce', 'bylaw', 'bykhk', 'lapsed'], tot = r => sum(keys, k => r[k] || 0);
+  const N = sum(rows, tot), inf = sum(rows, r => r.inforce || 0), kh = sum(rows, r => r.bykhk || 0), top = c.top[0];
+  const k83 = (c.khk_years.find(([y]) => y === 1983) || [0, 0])[1];
+  return {
+    title: L(`Kanunların akıbeti: ${fmt(N)} kanundan ${fmt(inf)}'${sfx(inf, 'poss')} yürürlükte, ${fmt(kh)}'${sfx(kh, 'poss')} bir KHK ile kaldırıldı`, `What became of the laws: ${fmt(inf)} of ${fmt(N)} are in force, ${fmt(kh)} were repealed by a decree-law`),
+    dek: L(`Her çubuk bir on yılda yayımlanan kanunlar: bugün yürürlükte olanlar, bir kanunla ya da bir KHK ile yürürlükten kaldırılanlar ve kaldırma kaydı olmadan yürürlükte olmayanlar (süreli bütçe kanunları gibi). Tek bir kanun, ${top[2]} tarihli ${top[1]} sayılı Kanun, ${fmt(top[3])} kanunu kaldırdı; KHK ile kaldırılan kanunların ${fmt(k83)}'${sfx(k83, 'poss')} 1983'te.`,
+      `Each bar is the laws published in a decade: those in force today, those repealed by a law or by a decree-law, and those no longer in force with no repeal recorded (such as budget laws, which expire). A single law, Law ${top[1]} of ${top[2]}, repealed ${fmt(top[3])} laws; ${fmt(k83)} of the laws repealed by decree-laws went in 1983.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], d3.interpolateRgb(css('--seq-lo'), cols[0])(0.45), cols[1], css('--muted-mark')];
+      const names = [L('Yürürlükte', 'In force'), L('Bir kanunla kaldırıldı', 'Repealed by a law'), L('Bir KHK ile kaldırıldı', 'Repealed by a decree-law'), L('Kaldırma kaydı yok, yürürlükte değil', 'Not in force, no repeal recorded')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const w = W(el), nw = narrow(w), rowH = 30, m = { t: 4, r: nw ? 40 : 112, b: 22, l: nw ? 44 : 70 };
+      const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, d3.max(rows, tot)]).nice().range([0, iw]);
+      x.ticks(nw ? 3 : 5).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rowH * rows.length).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(fmt(v)); });
+      rows.forEach((r, i) => {
+        const y0 = i * rowH + 6, bh = rowH - 12; let acc = 0;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(nw ? r.d : decName(r.d));
+        keys.forEach((k, j) => { const v = r[k] || 0; if (!v) return; const x0 = x(acc), x1 = x(acc + v); acc += v; const last = keys.slice(j + 1).every(q => !r[q]);
+          g.append('path').attr('d', last ? barPath(x0, y0, x1, bh, 4) : `M${x0},${y0}h${Math.max(0.6, x1 - x0 - 1)}v${bh}h${-Math.max(0.6, x1 - x0 - 1)}Z`).attr('fill', colors[j]).attr('opacity', r.d === 2020 ? .6 : 1);
+          if (x1 - x0 > 38) g.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle').style('fill', j === 3 ? css('--text') : '#fff').style('pointer-events', 'none').text(fmt(v)); });
+        g.append('text').attr('class', 'lbl').attr('x', x(tot(r)) + 6).attr('y', y0 + bh / 2 + 4).text(nw ? fmt(r.inforce || 0) : L(`${fmt(r.inforce || 0)} yürürlükte`, `${fmt(r.inforce || 0)} in force`));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${decName(d.d)}</b>` + keys.map((k, j) => trow(colors[j], names[j], `${fmt(d[k] || 0)} · ${pct(d[k] || 0, tot(d))}`)).join('') + trow(null, t('total'), fmt(tot(d))));
+      });
+      note(el, ['data/m4-all/law-index-*.csv (yururlulukDurumu, ilgaTuru, ilgaEdenKanunNo)'], fmt(N) + L(' kanun', ' laws'),
+        L(`durum dizinin kendi alanlarıdır: ilgaTuru 1, kaldıran bir kanunu; 4, kaldıran bir KHK'yi gösterir (kaldıran numaralar 41, 78, 179, 703 gibi KHK numaralarıdır). En çok kanun kaldıranlar: ${c.top.slice(0, 4).map(r => `${r[1]} (${r[2]}, ${fmt(r[3])})`).join(', ')}. 2020'ler henüz bitmedi (soluk).`,
+          `the status is the index's own fields: ilgaTuru 1 marks a repealing law, 4 a repealing decree-law (the repealing numbers, such as 41, 78, 179 and 703, are decree-law numbers). The acts that repealed the most: ${c.top.slice(0, 4).map(r => `${r[1]} (${r[2]}, ${fmt(r[3])})`).join(', ')}. The 2020s are not over (lighter).`));
+      table(el, [L('On yıl', 'Decade'), ...names, t('total')], rows.map(r => [decName(r.d), ...keys.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+part('p4', 'IV. Yürütme, Resmî Gazete ve belediyeler', 'IV. The executive, the Resmî Gazete and municipalities',
+  `Resmî Gazete'nin 2001'den bu yana günlük fihristi (data/rg-*.csv, data/rg-index/; ilanlar hariç, 2017–2020 depoda yok) ve büyükşehir belediye meclislerinin kararları (local/).`,
+  'The daily index of the Resmî Gazete since 2001 (data/rg-*.csv, data/rg-index/; notices left out, 2017–2020 not held) and the decisions of metropolitan councils (local/).');
+
+const RGT = [['law', 'Kanunlar', 'Laws'], ['khk', 'Kanun hükmünde kararnameler (KHK)', 'Decree-laws (KHK)'], ['cbk', 'Cumhurbaşkanlığı kararnameleri (CBK)', 'Presidential decrees (CBK)'],
+  ['bkk', 'Bakanlar Kurulu kararları', 'Council of Ministers decisions'], ['cbkarar', 'Cumhurbaşkanı kararları', 'Presidential decisions'], ['reg', 'Yönetmelikler (üniversiteler dışında)', 'Regulations (not universities)'],
+  ['univ', 'Üniversite yönetmelikleri', 'University regulations'], ['teblig', 'Tebliğler', 'Communiqués (tebliğ)'], ['treaty', 'Milletlerarası andlaşmalar', 'International agreements'],
+  ['appoint', 'Atama ve vekâlet', 'Appointments and acting'], ['court', 'Yargı kararları', 'Court decisions'], ['other', 'Diğer (TBMM kararları, genelgeler…)', 'Other (Assembly decisions, circulars…)']];
+const rgYears = c => { const y0 = c.years[0], y1 = c.years[c.years.length - 1]; return d3.range(y0, y1 + 1); };
+chart('c13', el => {
+  const c = D.c13, YRS = rgYears(c), has = y => c.years.includes(y), LY = YRS[YRS.length - 1];
+  const v = (y, k) => has(y) ? (k === 'other' ? (c.rows[y].other || 0) + (c.rows[y].tbmm || 0) : (c.rows[y][k] || 0)) : null;
+  const lastK = d3.max(YRS.filter(y => v(y, 'khk') > 0)), lastB = d3.max(YRS.filter(y => v(y, 'bkk') > 5)), firstC = d3.min(YRS.filter(y => v(y, 'cbkarar') > 5)), cy0 = YRS.filter(y => y >= firstC && y < LY && has(y));
+  return {
+    title: L(`Resmî Gazete: Bakanlar Kurulu kararlarının yerini Cumhurbaşkanı kararları aldı (${LY - 1}'${sfx(LY - 1, 'loc')} ${fmt(v(LY - 1, 'cbkarar'))})`, `The Resmî Gazete: presidential decisions replaced the Council of Ministers' (${fmt(v(LY - 1, 'cbkarar'))} in ${LY - 1})`),
+    dek: L(`Günlük fihristteki her yazı (ilanlar hariç), türüne göre; her satır kendi en yüksek değerine göre renklenir. ${nS(lastB, 'loc')} ${fmt(v(lastB, 'bkk'))} Bakanlar Kurulu kararı yayımlandı; ${firstC}'${sfx(firstC, 'abl')} bu yana yılda ${fmt(d3.min(cy0, y => v(y, 'cbkarar')))}–${fmt(d3.max(cy0, y => v(y, 'cbkarar')))} Cumhurbaşkanı kararı var. Fihristteki son kanun hükmünde kararnameler ${nS(lastK, 'loc')} (${fmt(v(lastK, 'khk'))}); ${firstC}'${sfx(firstC, 'abl')} bu yana yılda ${fmt(d3.min(cy0, y => v(y, 'cbk')))}–${fmt(d3.max(cy0, y => v(y, 'cbk')))} Cumhurbaşkanlığı kararnamesi var. 2017–2020 yılları depoda yok.`,
+      `Every item in the daily index (notices left out), by kind; each row is shaded against its own highest value. ${fmt(v(lastB, 'bkk'))} Council of Ministers decisions were published in ${lastB}; since ${firstC} there have been ${fmt(d3.min(cy0, y => v(y, 'cbkarar')))}–${fmt(d3.max(cy0, y => v(y, 'cbkarar')))} presidential decisions a year. The last decree-laws (KHK) in the index are of ${lastK} (${fmt(v(lastK, 'khk'))}); since ${firstC} there have been ${fmt(d3.min(cy0, y => v(y, 'cbk')))}–${fmt(d3.max(cy0, y => v(y, 'cbk')))} presidential decrees (CBK) a year. 2017–2020 are not in the repository.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), rowH = 24, m = { t: 20, r: nw ? 44 : 70, b: 4, l: nw ? 132 : 250 };
+      const iw = w - m.l - m.r, cw = iw / YRS.length, h = m.t + m.b + rowH * RGT.length, ramp = d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+      legend(el, [0.15, 0.5, 1].map(q => ({ c: ramp(0.12 + 0.88 * Math.sqrt(q)), l: q === 1 ? L('satırın en yüksek yılı', 'the row\'s highest year') : pv(100 * q) })).concat([{ c: css('--surface-2'), l: L('depoda yok', 'not in the repository'), shape: 'hatch' }]));
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), hu = hatch(svg);
+      YRS.forEach((y, j) => { if (y % 5 === 1 || y === LY) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(nw ? `’${String(y).slice(2)}` : y); });
+      const tots = RGT.map(([k]) => sum(YRS.filter(has), y => v(y, k))), xb = d3.scaleLinear().domain([0, d3.max(tots)]).range([0, m.r - (nw ? 6 : 34)]);
+      RGT.forEach(([k, tr, en], i) => {
+        const cy = i * rowH, mx = d3.max(YRS.filter(has), y => v(y, k)) || 1;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(L(tr, en));
+        YRS.forEach((y, j) => {
+          const n = v(y, k);
+          bindTip(g.append('rect').attr('x', j * cw + 0.75).attr('y', cy + 2).attr('width', Math.max(1, cw - 1.5)).attr('height', rowH - 4).attr('rx', Math.min(3, cw / 3))
+            .attr('fill', n == null ? hu : n ? ramp(0.12 + 0.88 * Math.sqrt(n / mx)) : css('--surface-2')).attr('opacity', y === LY ? .7 : 1).datum({ y, n }),
+            d => `<b>${L(tr, en)} · ${d.y}${d.y === LY ? ' (' + t('partial') + ')' : ''}</b>` + (d.n == null ? `<div>${L('bu yıl depoda yok', 'this year is not in the repository')}</div>` : trow(null, t('count'), fmt(d.n))));
+        });
+        if (!nw) g.append('path').attr('d', barPath(iw + 8, cy + 7, iw + 8 + xb(tots[i]), rowH - 14, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', iw + (nw ? 4 : 12) + (nw ? 0 : xb(tots[i]))).attr('y', cy + 15).text(nw && tots[i] >= 10000 ? dec(tots[i] / 1000, 0) + L(' bin', 'k') : fmt(tots[i]));
+      });
+      note(el, ['data/rg-*.csv', 'data/rg-index/m8-years-2of8/', 'data/rg-index/m8-years-5of8/'], fmt(PF.rg_items) + L(' yazı', ' items'),
+        L(`tür, fihristteki bölüm başlığından, başlık yoksa yazının adından okunur (kurallar src/prep.py'de); iki kaynakta da geçen yazılar bir kez sayıldı. Sağdaki sayı depodaki yılların toplamıdır. ${LY}, ${dateTxt(c.last)} tarihine kadardır.`,
+          `the kind is read from the index's section heading, or from the item's name where there is none (rules in src/prep.py); items listed by two sources count once. The number on the right totals the years held. ${LY} runs to ${dateTxt(c.last)}.`));
+      table(el, [t('year'), ...RGT.map(r => L(r[1], r[2]))], YRS.filter(has).map(y => [String(y), ...RGT.map(([k]) => v(y, k))]));
+    }
+  };
+});
+
+const EXN = { energy: ['Elektrik (hat ve santral)', 'Electricity (lines and plants)'], oilgas: ['Petrol ve doğal gaz', 'Oil and gas'], mining: ['Maden', 'Mining'], transport: ['Ulaşım', 'Transport'],
+  water: ['Su ve baraj', 'Water and dams'], urban: ['Kentsel dönüşüm ve afet', 'Urban renewal and disaster'], other: ['Diğer', 'Other'] };
+chart('c14', el => {
+  const c = D.c14, YRS = rgYears(c), has = y => c.years.includes(y), LY = YRS[YRS.length - 1], keys = Object.keys(EXN);
+  const rows = YRS.map(y => ({ y, ...(has(y) ? c.rows[y] : {}), _has: has(y) })), tot = r => sum(keys, k => r[k] || 0);
+  const span = rows.filter(r => r._has && r.y >= 2012), E = sum(span, r => r.energy || 0), T = sum(span, tot), mx = rows.reduce((a, b) => tot(b) > tot(a) ? b : a);
+  return {
+    title: L(`Acele kamulaştırma: 2012'den bu yana kararların ${nS(pct(E, T), 'poss')} elektrik hatları ve santralleri için`, `Urgent expropriation: ${pct(E, T)} of decisions since 2012 were for power lines and plants`),
+    dek: L(`Bakanlar Kurulu (2016'ya kadar) ve Cumhurbaşkanı (2021'den) kararlarından adında “acele kamulaştırma” geçenler, amacına göre. En çok ${mx.y} yılında: ${fmt(tot(mx))} karar. 2017–2020 depoda yok.`,
+      `Council of Ministers (to 2016) and presidential (from 2021) decisions whose name orders urgent expropriation (acele kamulaştırma), by purpose. The most were in ${mx.y}: ${fmt(tot(mx))} decisions. 2017–2020 are not held.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], cols[1], cols[7], cols[3], cols[2], cols[4], css('--muted-mark')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...EXN[k]) })).concat([{ c: css('--surface-2'), l: L('depoda yok', 'not in the repository'), shape: 'hatch' }]));
+      const s = stackedColumns(el, rows, keys, colors, keys.map(k => L(...EXN[k])), { pad: 0.2, partial: r => r.y === LY, h: 290, tick: r => r.y % 5 === 1 || r.y === LY,
+        tipf: r => `<b>${r.y}${r.y === LY ? ' (' + t('partial') + ')' : ''}</b>` + (r._has ? keys.map((k, i) => r[k] ? trow(colors[i], L(...EXN[k]), `${fmt(r[k])} · ${pct(r[k], tot(r))}`) : '').reverse().join('') + trow(null, t('total'), fmt(tot(r))) + trow(null, L('Tüm BK / CB kararları', 'All BK / CB decisions'), fmt(c.dec[r.y])) : `<div>${L('bu yıl depoda yok', 'this year is not in the repository')}</div>`) });
+      const hu = hatch(s.svg), gy = rows.filter(r => !r._has);
+      if (gy.length) { const x0 = s.x(gy[0].y), x1 = s.x(gy[gy.length - 1].y) + s.x.bandwidth();
+        s.back.append('rect').attr('x', x0).attr('width', x1 - x0).attr('y', 0).attr('height', s.ih).attr('rx', 4).attr('fill', hu);
+        if (x1 - x0 > 50) s.back.append('text').attr('class', 'lbl mut').attr('x', (x0 + x1) / 2).attr('y', 14).attr('text-anchor', 'middle').text('2017–2020'); }
+      note(el, ['data/rg-*.csv', 'data/rg-index/'], fmt(sum(rows, tot)) + L(' karar', ' decisions'),
+        L(`amaç, kararın adındaki sözcüklerden okunur (enerji nakil hattı, HES, doğal gaz boru hattı, maden ruhsat sahası…; kurallar src/prep.py'de); birden çok amaç sayan ad ilk kurala gider. ${LY}, ${dateTxt(D.c13.last)} tarihine kadardır (soluk).`,
+          `the purpose is read from words in the decision's name (power line, hydro plant, gas pipeline, mining licence area…; rules in src/prep.py); a name with several purposes goes to the first rule. ${LY} runs to ${dateTxt(D.c13.last)} (lighter).`));
+      table(el, [t('year'), ...keys.map(k => L(...EXN[k])), t('total'), L('Tüm BK / CB kararları', 'All BK / CB decisions')], rows.filter(r => r._has).map(r => [String(r.y), ...keys.map(k => r[k] || 0), tot(r), c.dec[r.y]]));
+    }
+  };
+});
+
+chart('c15', el => {
+  const c = D.c15, YRS = d3.range(c[0].y, c[c.length - 1].y + 1), LY = YRS[YRS.length - 1];
+  const rows = YRS.map(y => c.find(r => r.y === y) || { y, all: null }), full = c.filter(r => r.y < LY);
+  const first = c[0], mx = full.reduce((a, b) => b.univ / b.all > a.univ / a.all ? b : a), rec = c.filter(r => r.y >= 2021);
+  const cen = sum(rec, r => r.centre), un = sum(rec, r => r.univ);
+  return {
+    title: L(`Üniversiteler: Resmî Gazete'deki yönetmeliklerin yarısı, ${mx.y}'${sfx(mx.y, 'loc')} ${nS(pct(mx.univ, mx.all), 'poss')}`, `Universities: half the regulations in the Resmî Gazete, ${pct(mx.univ, mx.all)} in ${mx.y}`),
+    dek: L(`Her yıl Resmî Gazete'de yayımlanan yönetmelikler (açık sütun) ve bunlardan bir üniversitenin ya da yüksek teknoloji enstitüsünün çıkardıkları (koyu sütun). ${first.y}'${sfx(first.y, 'loc')} ${pct(first.univ, first.all)} idi. 2021'den bu yana üniversite yönetmeliklerinin ${nS(pct(cen, un), 'poss')} bir uygulama ve araştırma merkezinin yönetmeliği.`,
+      `The regulations published in the Resmî Gazete each year (light column) and, of those, the ones issued by a university or an institute of technology (solid column). It was ${pct(first.univ, first.all)} in ${first.y}. Since 2021, ${pct(cen, un)} of university regulations are those of an application and research centre.`),
+    draw(el) {
+      const ink = css('--s7');
+      legend(el, [{ c: ink + '38', l: L('Tüm yönetmelikler', 'All regulations') }, { c: ink, l: L('Üniversite yönetmelikleri', 'University regulations') }, { c: css('--surface-2'), l: L('depoda yok', 'not in the repository'), shape: 'hatch' }]);
+      const w = W(el), nw = narrow(w), h = 290, m = { t: 20, r: 6, b: 24, l: 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), hu = hatch(svg);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleBand().domain(YRS).range([0, iw]).padding(0.2), y = d3.scaleLinear().domain([0, d3.max(c, r => r.all)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4);
+      const gy = rows.filter(r => r.all == null);
+      if (gy.length) { const x0 = x(gy[0].y), x1 = x(gy[gy.length - 1].y) + x.bandwidth();
+        g.append('rect').attr('x', x0).attr('width', x1 - x0).attr('y', 0).attr('height', ih).attr('rx', 4).attr('fill', hu);
+        if (x1 - x0 > 50) g.append('text').attr('class', 'lbl mut').attr('x', (x0 + x1) / 2).attr('y', 14).attr('text-anchor', 'middle').text('2017–2020'); }
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      rows.forEach(r => {
+        if (r.all == null) return;
+        const x0 = x(r.y), bw = x.bandwidth(), op = r.y === LY ? .55 : 1;
+        g.append('path').attr('d', colPath(x0, ih, bw, y(r.all), Math.min(4, bw / 3))).attr('fill', ink).attr('fill-opacity', .22 * op);
+        g.append('path').attr('d', colPath(x0, ih, bw, y(r.univ), Math.min(4, bw / 3))).attr('fill', ink).attr('fill-opacity', op);
+        if (!nw || r.y % 5 === 1 || r.y === LY) g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(r.all) - 5).attr('text-anchor', 'middle').style('font-size', nw ? '10px' : null).text(pct(r.univ, r.all));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${d.y}${d.y === LY ? ' (' + t('partial') + ')' : ''}</b>` + trow(null, L('Yönetmelik', 'Regulations'), fmt(d.all)) + trow(ink, L('Üniversite', 'University'), `${fmt(d.univ)} · ${pct(d.univ, d.all)}`) + trow(null, L('Uygulama ve araştırma merkezi', 'Application and research centre'), fmt(d.centre)));
+      });
+      YRS.forEach(yy => { if (yy % 5 === 1 || yy === LY) g.append('text').attr('class', 'lbl').attr('x', x(yy) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(yy); });
+      note(el, ['data/rg-*.csv', 'data/rg-index/'], fmt(sum(c, r => r.all)) + L(' yönetmelik', ' regulations'),
+        L(`üniversite yönetmeliği: adında “Üniversitesi” ya da “Yüksek Teknoloji Enstitüsü” geçen yönetmelik; YÖK'ün yönetmelikleri dahil değil. Tür, fihristin bölüm başlığından okunur. ${LY} eksik yıldır.`,
+          `a university regulation is one whose name contains "Üniversitesi" or "Yüksek Teknoloji Enstitüsü"; the Council of Higher Education's own regulations are not included. The kind is read from the index's section heading. ${LY} is partial.`));
+      table(el, [t('year'), L('Yönetmelik', 'Regulations'), L('Üniversite', 'University'), L('Araştırma merkezi', 'Research centre'), t('share')], c.map(r => [String(r.y), r.all, r.univ, r.centre, pct(r.univ, r.all)]));
+    }
+  };
+});
+
+const LOCN = { zoning: ['İmar planları', 'Zoning plans'], property: ['Taşınmaz (satış, tahsis, devir)', 'Property (sale, allocation, transfer)'], budget: ['Bütçe ve mali işler', 'Budget and finance'],
+  fees: ['Ücret ve tarifeler', 'Fees and tariffs'], transport: ['Ulaşım ve trafik', 'Transport and traffic'], org: ['Kurum, şirket ve personel', 'Administration, companies and staff'],
+  social: ['Sosyal, kültür ve ad verme', 'Social, culture and naming'], other: ['Diğer', 'Other'] };
+const CITY = { bursa: 'Bursa', mersin: 'Mersin', tekirdag: 'Tekirdağ' };
+chart('c17', el => {
+  const c = D.c17, keys = Object.keys(LOCN), cities = ['bursa', 'mersin', 'tekirdag'];
+  const rows = cities.map(k => { const o = { k, ...c[k] }; o.social = (o.social || 0) + (o.naming || 0); o.yrs = Object.keys(c[k]).filter(q => q.startsWith('_years_')).map(q => +q.slice(7)).sort(); return o; });
+  const tot = r => sum(keys, k => r[k] || 0), all = { k: 'all', yrs: [] }; keys.forEach(k => all[k] = sum(rows, r => r[k] || 0));
+  const Z = sum(rows, r => r.zoning || 0), T = sum(rows, tot);
+  return {
+    title: L(`Büyükşehir meclisleri: kararların ${nS(pct(Z, T), 'poss')} imar planlarıyla ilgili`, `Metropolitan councils: ${pct(Z, T)} of decisions concern zoning plans`),
+    dek: L(`Üç büyükşehir belediye meclisinin başlığı olan kararları, başlıktaki sözcüklere göre. İmar planı değişiklikleri, plan notları ve plan itirazları Bursa'da kararların ${nS(pct(rows[0].zoning, tot(rows[0])), 'poss')}, Mersin'de ${nS(pct(rows[1].zoning, tot(rows[1])), 'poss')}, Tekirdağ'da ${nS(pct(rows[2].zoning, tot(rows[2])), 'poss')}.`,
+      `The titled decisions of three metropolitan councils, by words in their titles. Zoning plan changes, plan notes and objections to plans are ${pct(rows[0].zoning, tot(rows[0]))} of decisions in Bursa, ${pct(rows[1].zoning, tot(rows[1]))} in Mersin and ${pct(rows[2].zoning, tot(rows[2]))} in Tekirdağ.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], cols[3], cols[2], cols[4], cols[6], cols[5], cols[1], css('--muted-mark')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...LOCN[k]) })));
+      const span = r => r.yrs.length ? (r.yrs[0] === r.yrs[r.yrs.length - 1] ? `${r.yrs[0]}` : `${r.yrs[0]}–${r.yrs[r.yrs.length - 1]}`) : '';
+      bands(el, rows.concat([all]), keys, colors, keys.map(k => L(...LOCN[k])), { rowH: 40, l: 130, ln: 76, r: 112, rn: 50, light: [7],
+        label: (r, nw) => r.k === 'all' ? L('Üçü birlikte', 'All three') : nw ? CITY[r.k] : `${CITY[r.k]} · ${span(r)}`, right: (r, nw) => nw ? fmt(tot(r)) : L(`${fmt(tot(r))} karar`, `${fmt(tot(r))} decisions`) });
+      note(el, ['local/bursa/buyuksehir/', 'local/mersin/buyuksehir/', 'local/tekirdag/buyuksehir/'], fmt(T) + L(' karar', ' decisions'),
+        L(`konu, başlıktaki sözcüklerden okunur (imar, plan, UİP, ada/parsel; satış, tahsis, devir…; kurallar src/prep.py'de); taşınmaz kuralı imar kuralından önce gelir. Başlığı olmayan kararlar sayılmadı (Bursa ${fmt(D.c17_total.bursa - tot(rows[0]))}); Ankara'nın ${fmt(D.c17_total.ankara)} kararı başlıksız olduğundan yok. Dönemler farklıdır: depodaki karar yılları.`,
+          `the topic is read from words in the title (imar, plan, UİP, ada/parsel; satış, tahsis, devir…; rules in src/prep.py); the property rule comes before the zoning rule. Decisions without a title are not counted (Bursa ${fmt(D.c17_total.bursa - tot(rows[0]))}); Ankara's ${fmt(D.c17_total.ankara)} decisions have no titles and are left out. The periods differ: the years of the decisions held.`));
+      table(el, [L('Meclis', 'Council'), ...keys.map(k => L(...LOCN[k])), t('total')], rows.concat([all]).map(r => [r.k === 'all' ? L('Üçü birlikte', 'All three') : CITY[r.k], ...keys.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+part('p5', 'V. Anayasa Mahkemesi', 'V. The Constitutional Court',
+  'Yayıncının yürürlük tablolarında kanunları değiştiren olarak kayıtlı kararlar (data/in-force-list.csv) ve Mahkemenin karar bilgi bankasındaki bireysel başvuru kararlarının dizini (data/aym-individual-*.csv).',
+  'The decisions recorded as changing laws in the publisher\'s in-force tables (data/in-force-list.csv), and the index of the Court\'s individual-application decisions in its decisions database (data/aym-individual-*.csv).');
+
+chart('c18', el => {
+  const c = D.c18, dec0 = c.dec.filter(d => d.y), N = dec0.length, Df = dec0.filter(d => d.def).length, a0 = c.acts[0];
+  const Y0 = 2003, LY = +PF.built.slice(0, 4), yrs = d3.range(Y0, LY + 1).map(y => ({ y, now: dec0.filter(d => d.y === y && !d.def).length, def: dec0.filter(d => d.y === y && d.def).length }));
+  const early = dec0.filter(d => d.y < Y0).length;
+  return {
+    title: L(`Anayasa Mahkemesi: yürürlük tablolarında ${fmt(N)} karar; bunların ${nS(pct(Df, N), 'possloc')} iptal aylar sonra yürürlüğe girdi`, `The Constitutional Court: ${fmt(N)} decisions in the in-force tables; in ${pct(Df, N)} the annulment took effect months later`),
+    dek: L(`Yayıncının yürürlük tablolarında bir kanunu ya da KHK'yi değiştiren olarak kayıtlı Anayasa Mahkemesi kararları, karar yılına göre. ${fmt(Df)} kararda iptal, kararın yayımından aylar sonra yürürlüğe girdi (tabloda “yayımlanmasından başlayarak dokuz ay sonra” gibi). Sağda, en çok karar düşen düzenlemeler: ilk sırada ${actName(a0[0], a0[2])} (${fmt(a0[1])} karar).`,
+      `Constitutional Court decisions recorded in the publisher's in-force tables as changing a law or decree-law, by year of decision. In ${fmt(Df)} the annulment took effect months after the decision was published (the table says, for example, "nine months after its publication"). Right: the acts most often changed, led by the ${actName(a0[0], a0[2])} (${fmt(a0[1])} decisions).`),
+    draw(el) {
+      const cols = S8(), keys = ['now', 'def'], colors = [cols[6], cols[3]], names = [L('Yayımla birlikte ya da kısa sürede', 'At publication or soon after'), L('Aylar sonra (ertelenmiş)', 'Months later (deferred)')];
+      const box = el.append('div').attr('class', 'mini');
+      const pa = box.append('div'), pb = box.append('div');
+      pa.append('h4').text(L('Karar yılına göre', 'By year of decision'));
+      legend(pa, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      stackedColumns(pa, yrs, keys, colors, names, { h: 240, pad: 0.2, partial: r => r.y === LY, tick: r => r.y % 5 === 0 });
+      pb.append('h4').text(L('En çok karar düşen düzenlemeler', 'The acts most often changed'));
+      pb.append('p').text(L('karar sayısı', 'number of decisions'));
+      barList(pb, c.acts.slice(0, 10), { rowH: 30, v: r => r[1], color: () => cols[6], label: r => actName(r[0], r[2]),
+        tip: r => `<b>${esc(actName(r[0], r[2]))}</b>` + trow(null, L('Karar', 'Decisions'), fmt(r[1])) + trow(null, L('Kabul / yayım', 'Passed / published'), (r[3] || '').slice(0, 4)) });
+      note(el, ['data/in-force-list.csv'], fmt(N) + L(' karar', ' decisions'),
+        L(`karar, tablodaki “Anayasa Mahkemesinin … tarihli ve E: …, K: … sayılı Kararı” satırlarından, karar numarasına göre birleştirildi (${fmt(c.rows)} satır). Ertelenmiş: tablodaki yürürlük metni “… ay sonra” ya da “… yıl sonra” diyor. Tablolar yayıncının tuttuğu 717 düzenlemeyi kapsar; daha önce yürürlükten kalkan kanunlardaki iptaller burada yok. ${Y0} öncesi ${fmt(early)} karar tabloda.`,
+          `the decisions are gathered from rows such as "Anayasa Mahkemesinin … tarihli ve E: …, K: … sayılı Kararı" by decision number (${fmt(c.rows)} rows). Deferred: the table's in-force text reads "… months later" or "… years later". The tables cover the 717 acts the publisher keeps them for; annulments in laws repealed since are not here. ${fmt(early)} decisions before ${Y0} are in the table.`));
+      table(el, [L('Karar', 'Decision'), L('Tarih', 'Date'), L('Düzenleme', 'Acts'), L('Ertelenmiş', 'Deferred')], c.dec.slice().sort((a, b) => (a.d || '').localeCompare(b.d || '')).map(d => [d.k, d.d || '', d.n, d.def ? L('evet', 'yes') : '']));
+    }
+  };
+});
+
+chart('c19', el => {
+  const c = D.c19, keys = ['viol', 'noviol', 'inadm', 'unknown'], tot = r => sum(keys, k => r[k] || 0), known = r => (r.viol || 0) + (r.noviol || 0) + (r.inadm || 0);
+  const V = sum(c, r => r.viol || 0), K = sum(c, known), U = c.filter(r => r.unknown), LY = d3.max(c, r => r.y), N = sum(c, tot);
+  return {
+    title: L(`Bireysel başvuru: sonucu kayıtlı kararların ${nS(pct(V, K), 'possloc')} hak ihlali bulundu`, `Individual applications: a violation was found in ${pct(V, K)} of decisions with a recorded outcome`),
+    dek: L(`Anayasa Mahkemesinin karar bilgi bankasında yayımlanan ${fmt(N)} bireysel başvuru kararı, karar yılına ve sonuca göre. Sütunun üstünde ihlal kararlarının payı. ${U[0].y}–${U[U.length - 1].y} kararlarının sonucu dizinde yok (gri).`,
+      `The ${fmt(N)} individual-application decisions published in the Constitutional Court's decisions database, by year of decision and outcome. Above each column, the share finding a violation. The outcome of the decisions of ${U[0].y}–${U[U.length - 1].y} is not in the index (grey).`),
+    draw(el) {
+      const cols = S8(), colors = [cols[7], cols[0], css('--muted-mark'), css('--surface-2')];
+      const names = [L('İhlal', 'Violation'), L('İhlal olmadığı', 'No violation'), L('Kabul edilemezlik vb.', 'Inadmissible and similar'), L('Sonuç dizinde yok', 'Outcome not in the index')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const s = stackedColumns(el, c, keys, colors, names, { pad: 0.25, bw: 40, partial: r => r.y === LY, h: 290, topLabel: r => known(r) ? pct(r.viol || 0, known(r)) : '' });
+      c.filter(r => r.unknown).forEach(r => { const gx = s.x(r.y) + (s.x.bandwidth() - s.bw) / 2, y1 = s.y(r.unknown);
+        s.g.append('path').attr('d', colPath(gx, s.ih, s.bw, y1, 4)).attr('fill', 'none').attr('stroke', css('--muted-mark')).attr('stroke-dasharray', '3 2'); });
+      note(el, ['data/aym-individual-*.csv'], fmt(N) + L(' karar', ' decisions'),
+        L(`sonuç, dizinin sonuç alanından ya da kaydın üst verisinden (kararTuruBasvuruSonucuLabel) okunur. Bu, Mahkemenin yayımladığı kararlardır; kabul edilemezlik kararlarının çoğu yayımlanmaz, bu yüzden oranlar tüm başvuruları değil yayımlanan kararları anlatır. ${LY} eksik yıldır.`,
+          `the outcome is read from the index's outcome field or the record's metadata (kararTuruBasvuruSonucuLabel). These are the decisions the Court publishes; most inadmissibility decisions are not published, so the shares describe published decisions, not all applications. ${LY} is partial.`));
+      table(el, [t('year'), ...names, t('total')], c.map(r => [String(r.y), ...keys.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+chart('c20', el => {
+  const c = D.c20, LY = d3.max(c, r => r.y), last = c[c.length - 1], first = c[0];
+  const BN = [L('0–1 yıl', '0–1 years'), L('2 yıl', '2 years'), L('3 yıl', '3 years'), L('4 yıl', '4 years'), L('5 yıl ve üzeri', '5 years or more')];
+  return {
+    title: L(`Bekleme: ${LY}'${sfx(LY, 'loc')} karara bağlanan başvuruların ${nS(pct(last.b[4], last.n), 'poss')} beş yıl ya da daha eski`, `Waiting: ${pct(last.b[4], last.n)} of the applications decided in ${LY} were five or more years old`),
+    dek: L(`Her şerit bir karar yılı: başvuru numarasındaki yıl ile karar yılı arasındaki fark. Ortanca bekleme ${first.y}'${sfx(first.y, 'loc')} ${dec(first.med, 0)} yıl, ${LY}'${sfx(LY, 'loc')} ${dec(last.med, 0)} yıl. Sağda ortanca.`,
+      `Each band is a year of decision: the gap between the year in the application number and the year of the decision. The median wait was ${dec(first.med, 0)} year${first.med === 1 ? '' : 's'} in ${first.y} and ${dec(last.med, 0)} years in ${LY}. The median is on the right.`),
+    draw(el) {
+      const ramp = d3.interpolateRgb(css('--seq-lo'), css('--seq-hi')), colors = [0.2, 0.4, 0.6, 0.8, 1].map(ramp);
+      legend(el, BN.map((l, i) => ({ c: colors[i], l })));
+      const rows = c.map(r => ({ ...r, k0: r.b[0], k1: r.b[1], k2: r.b[2], k3: r.b[3], k4: r.b[4] }));
+      bands(el, rows, ['k0', 'k1', 'k2', 'k3', 'k4'], colors, BN, { label: r => String(r.y), right: (r, nw) => nw ? `${dec(r.med, 0)}` : L(`${dec(r.med, 0)} yıl`, `${dec(r.med, 0)} yr`), partial: r => r.y === LY, light: [0, 1], l: 52, ln: 44, r: 64, rn: 30,
+        tipExtra: d => trow(null, L('Ortanca', 'Median'), L(`${dec(d.med, 0)} yıl`, `${dec(d.med, 0)} years`)) + trow(null, t('total'), fmt(d.n)) });
+      note(el, ['data/aym-individual-*.csv (application_number, decision_date)'], fmt(sum(c, r => r.n)) + L(' karar', ' decisions'),
+        L(`yıl farkı takvim yılıdır: Aralık'ta yapılıp Ocak'ta karara bağlanan başvuru bir yıl sayılır. Başvuru numarası “yıl/sıra” biçimindedir. Yalnızca yayımlanan kararlar. ${LY} eksik yıldır.`,
+          `the difference is in calendar years: an application lodged in December and decided in January counts as one year. Application numbers take the form "year/sequence". Published decisions only. ${LY} is partial.`));
+      table(el, [L('Karar yılı', 'Year of decision'), ...BN, L('Ortanca (yıl)', 'Median (years)'), t('total')], c.map(r => [String(r.y), ...r.b, dec(r.med, 0), r.n]));
+    }
+  };
+});
+
+// ISO 3166 numeric codes, as world-atlas names its countries; two drawn by name
+const ISO_N = { US: '840', DE: '276', SY: '760', GR: '300', AZ: '031', RO: '642', FR: '250', IT: '380', BG: '100', GB: '826', IR: '364', BE: '056', HU: '348', SE: '752', IQ: '368',
+  GE: '268', CH: '756', TN: '788', PL: '616', PK: '586', UZ: '860', UA: '804', AL: '008', RU: '643', EG: '818', NL: '528', KZ: '398', KG: '417', TM: '795', TJ: '762', MN: '496',
+  AF: '004', IN: '356', BD: '050', LK: '144', NP: '524', CN: '156', JP: '392', KP: '408', KR: '410', VN: '704', TH: '764', MY: '458', SG: '702', ID: '360', PH: '608', BN: '096',
+  KH: '116', LA: '418', MM: '104', AU: '036', NZ: '554', CA: '124', MX: '484', CU: '192', BR: '076', AR: '032', CL: '152', CO: '170', VE: '862', PE: '604', EC: '218', UY: '858',
+  PY: '600', BO: '068', PA: '591', CR: '188', GT: '320', DO: '214', HN: '340', SV: '222', NI: '558', JM: '388', HT: '332', TT: '780', LB: '422', IL: '376', PS: '275', JO: '400',
+  SA: '682', KW: '414', QA: '634', AE: '784', BH: '048', OM: '512', YE: '887', LY: '434', DZ: '012', MA: '504', MR: '478', SD: '729', SS: '728', ET: '231', SO: '706', DJ: '262',
+  ER: '232', KE: '404', TZ: '834', UG: '800', RW: '646', NG: '566', NE: '562', GH: '288', SN: '686', ML: '466', BF: '854', CI: '384', GN: '324', GW: '624', GQ: '226', SL: '694',
+  LR: '430', GM: '270', TG: '768', BJ: '204', CM: '120', TD: '148', GA: '266', CG: '178', AO: '024', ZM: '894', ZW: '716', MZ: '508', MW: '454', MG: '450', NA: '516', ZA: '710',
+  BW: '072', MU: '480', SC: '690', KM: '174', MV: '462', VA: '336', MC: '492', SM: '674', LI: '438', AD: '020', FJ: '242', PG: '598', CY: '196', IE: '372', ES: '724', PT: '620',
+  LU: '442', AT: '040', NO: '578', DK: '208', FI: '246', IS: '352', CZ: '203', SK: '703', MK: '807', RS: '688', ME: '499', BA: '070', HR: '191', SI: '705', MD: '498', LT: '440',
+  LV: '428', EE: '233', MT: '470', AM: '051', BY: '112' };
+const NAME_N = { KKTC: 'N. Cyprus', XK: 'Kosovo' };
+const CTRY = { multi: ['Çok taraflı', 'Multilateral'], KKTC: ['KKTC', 'Northern Cyprus (TRNC)'], SU: ['SSCB ve Sovyet Rusya', 'USSR and Soviet Russia'], YU: ['Yugoslavya', 'Yugoslavia'],
+  CS: ['Çekoslovakya', 'Czechoslovakia'], DD: ['Doğu Almanya', 'East Germany'], US: ['ABD', 'United States'], DE: ['Almanya', 'Germany'], SY: ['Suriye', 'Syria'], GR: ['Yunanistan', 'Greece'],
+  AZ: ['Azerbaycan', 'Azerbaijan'], RO: ['Romanya', 'Romania'], FR: ['Fransa', 'France'], IT: ['İtalya', 'Italy'], BG: ['Bulgaristan', 'Bulgaria'], GB: ['Birleşik Krallık', 'United Kingdom'],
+  IR: ['İran', 'Iran'], BE: ['Belçika', 'Belgium'], HU: ['Macaristan', 'Hungary'], SE: ['İsveç', 'Sweden'], IQ: ['Irak', 'Iraq'], GE: ['Gürcistan', 'Georgia'], CH: ['İsviçre', 'Switzerland'],
+  TN: ['Tunus', 'Tunisia'], PL: ['Polonya', 'Poland'], PK: ['Pakistan', 'Pakistan'], UZ: ['Özbekistan', 'Uzbekistan'], UA: ['Ukrayna', 'Ukraine'], AL: ['Arnavutluk', 'Albania'],
+  RU: ['Rusya', 'Russia'], EG: ['Mısır', 'Egypt'], NL: ['Hollanda', 'Netherlands'], KZ: ['Kazakistan', 'Kazakhstan'], KG: ['Kırgızistan', 'Kyrgyzstan'], TM: ['Türkmenistan', 'Turkmenistan'],
+  TJ: ['Tacikistan', 'Tajikistan'], MN: ['Moğolistan', 'Mongolia'], AF: ['Afganistan', 'Afghanistan'], IN: ['Hindistan', 'India'], BD: ['Bangladeş', 'Bangladesh'], LK: ['Sri Lanka', 'Sri Lanka'],
+  NP: ['Nepal', 'Nepal'], CN: ['Çin', 'China'], JP: ['Japonya', 'Japan'], KP: ['Kuzey Kore', 'North Korea'], KR: ['Güney Kore', 'South Korea'], VN: ['Vietnam', 'Vietnam'], TH: ['Tayland', 'Thailand'],
+  MY: ['Malezya', 'Malaysia'], SG: ['Singapur', 'Singapore'], ID: ['Endonezya', 'Indonesia'], PH: ['Filipinler', 'Philippines'], BN: ['Brunei', 'Brunei'], KH: ['Kamboçya', 'Cambodia'],
+  LA: ['Laos', 'Laos'], MM: ['Myanmar', 'Myanmar'], AU: ['Avustralya', 'Australia'], NZ: ['Yeni Zelanda', 'New Zealand'], CA: ['Kanada', 'Canada'], MX: ['Meksika', 'Mexico'], CU: ['Küba', 'Cuba'],
+  BR: ['Brezilya', 'Brazil'], AR: ['Arjantin', 'Argentina'], CL: ['Şili', 'Chile'], CO: ['Kolombiya', 'Colombia'], VE: ['Venezuela', 'Venezuela'], PE: ['Peru', 'Peru'], EC: ['Ekvador', 'Ecuador'],
+  UY: ['Uruguay', 'Uruguay'], PY: ['Paraguay', 'Paraguay'], BO: ['Bolivya', 'Bolivia'], PA: ['Panama', 'Panama'], CR: ['Kosta Rika', 'Costa Rica'], GT: ['Guatemala', 'Guatemala'],
+  DO: ['Dominik', 'Dominican Republic'], HN: ['Honduras', 'Honduras'], SV: ['El Salvador', 'El Salvador'], NI: ['Nikaragua', 'Nicaragua'], JM: ['Jamaika', 'Jamaica'], HT: ['Haiti', 'Haiti'],
+  TT: ['Trinidad ve Tobago', 'Trinidad and Tobago'], LB: ['Lübnan', 'Lebanon'], IL: ['İsrail', 'Israel'], PS: ['Filistin', 'Palestine'], JO: ['Ürdün', 'Jordan'], SA: ['Suudi Arabistan', 'Saudi Arabia'],
+  KW: ['Kuveyt', 'Kuwait'], QA: ['Katar', 'Qatar'], AE: ['Birleşik Arap Emirlikleri', 'United Arab Emirates'], BH: ['Bahreyn', 'Bahrain'], OM: ['Umman', 'Oman'], YE: ['Yemen', 'Yemen'],
+  LY: ['Libya', 'Libya'], DZ: ['Cezayir', 'Algeria'], MA: ['Fas', 'Morocco'], MR: ['Moritanya', 'Mauritania'], SD: ['Sudan', 'Sudan'], SS: ['Güney Sudan', 'South Sudan'], ET: ['Etiyopya', 'Ethiopia'],
+  SO: ['Somali', 'Somalia'], DJ: ['Cibuti', 'Djibouti'], ER: ['Eritre', 'Eritrea'], KE: ['Kenya', 'Kenya'], TZ: ['Tanzanya', 'Tanzania'], UG: ['Uganda', 'Uganda'], RW: ['Ruanda', 'Rwanda'],
+  NG: ['Nijerya', 'Nigeria'], NE: ['Nijer', 'Niger'], GH: ['Gana', 'Ghana'], SN: ['Senegal', 'Senegal'], ML: ['Mali', 'Mali'], BF: ['Burkina Faso', 'Burkina Faso'], CI: ['Fildişi Sahili', 'Côte d\'Ivoire'],
+  GN: ['Gine', 'Guinea'], GW: ['Gine-Bissau', 'Guinea-Bissau'], GQ: ['Ekvator Ginesi', 'Equatorial Guinea'], SL: ['Sierra Leone', 'Sierra Leone'], LR: ['Liberya', 'Liberia'], GM: ['Gambiya', 'Gambia'],
+  TG: ['Togo', 'Togo'], BJ: ['Benin', 'Benin'], CM: ['Kamerun', 'Cameroon'], TD: ['Çad', 'Chad'], GA: ['Gabon', 'Gabon'], CG: ['Kongo', 'Congo'], AO: ['Angola', 'Angola'], ZM: ['Zambiya', 'Zambia'],
+  ZW: ['Zimbabve', 'Zimbabwe'], MZ: ['Mozambik', 'Mozambique'], MW: ['Malavi', 'Malawi'], MG: ['Madagaskar', 'Madagascar'], NA: ['Namibya', 'Namibia'], ZA: ['Güney Afrika', 'South Africa'],
+  BW: ['Botsvana', 'Botswana'], MU: ['Morityus', 'Mauritius'], SC: ['Seyşeller', 'Seychelles'], KM: ['Komorlar', 'Comoros'], MV: ['Maldivler', 'Maldives'], VA: ['Vatikan', 'Holy See'],
+  MC: ['Monako', 'Monaco'], SM: ['San Marino', 'San Marino'], LI: ['Lihtenştayn', 'Liechtenstein'], AD: ['Andorra', 'Andorra'], FJ: ['Fiji', 'Fiji'], PG: ['Papua Yeni Gine', 'Papua New Guinea'],
+  CY: ['Kıbrıs Cumhuriyeti', 'Republic of Cyprus'], IE: ['İrlanda', 'Ireland'], ES: ['İspanya', 'Spain'], PT: ['Portekiz', 'Portugal'], LU: ['Lüksemburg', 'Luxembourg'], AT: ['Avusturya', 'Austria'],
+  NO: ['Norveç', 'Norway'], DK: ['Danimarka', 'Denmark'], FI: ['Finlandiya', 'Finland'], IS: ['İzlanda', 'Iceland'], CZ: ['Çekya', 'Czechia'], SK: ['Slovakya', 'Slovakia'],
+  MK: ['Kuzey Makedonya', 'North Macedonia'], RS: ['Sırbistan', 'Serbia'], ME: ['Karadağ', 'Montenegro'], BA: ['Bosna-Hersek', 'Bosnia and Herzegovina'], HR: ['Hırvatistan', 'Croatia'],
+  SI: ['Slovenya', 'Slovenia'], XK: ['Kosova', 'Kosovo'], MD: ['Moldova', 'Moldova'], LT: ['Litvanya', 'Lithuania'], LV: ['Letonya', 'Latvia'], EE: ['Estonya', 'Estonia'], MT: ['Malta', 'Malta'],
+  AM: ['Ermenistan', 'Armenia'], BY: ['Belarus', 'Belarus'] };
+const ctryName = k => L(...(CTRY[k] || [k, k]));
+const ctrySent = k => LANG === 'en' && ['US', 'GB', 'NL', 'PH', 'AE', 'KKTC', 'DO', 'CI'].includes(k) ? 'the ' + ctryName(k) : ctryName(k);
+let WORLD = null, WORLD_P = null;
+const worldAtlas = () => WORLD_P || (WORLD_P = fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json').then(r => r.json()).then(j => (WORLD = j)));
+
+// reading order (chart numbers follow it)
+const ORDER = ['p1', 'c01', 'c02', 'c03', 'c04', 'c16', 'p2', 'c05', 'c06', 'c07', 'p3', 'c08', 'c09', 'c10', 'c11', 'c12', 'p4', 'c13', 'c14', 'c15', 'c17', 'p5', 'c18', 'c19', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Git geçmişi (tüm commit\'ler)', 'Git history (every commit)'), 'git log origin/main', fmt(P.commits), L(`son commit ${P.last_commit_date}`, `last commit ${P.last_commit_date}`), L('commit tarihi yürürlük, karar ya da yayım günüdür; 1970 öncesi 1970 tarihlidir', 'a commit is dated the day its text took effect or a decision was given or published; before 1970 dated 1970')],
+    [L('Kanun dizini', 'Law index'), 'data/m4-all/', `${fmt(P.law_index_rows)} (${fmt(P.law_index)} ${L('tekil', 'distinct')})`, `1921–${P.law_last.slice(0, 4)}`, L(`${fmt(P.law_dupes)} satır iki kez geçiyor; tarihi olmayan kanunlar ve VETO numaraları yıllara girmez`, `${fmt(P.law_dupes)} rows are listed twice; undated laws and VETO numbers have no year`)],
+    [L('Değişiklik notları', 'Amendment notes'), 'data/amendments.csv', fmt(P.amend_notes), L('yürürlükteki kanun ve KHK metinleri', 'the texts of laws and decree-laws in force'), L('yeniden değişen hükümlerin eski notları yok', 'provisions changed again have lost their older notes')],
+    [L('Yürürlük tabloları', 'In-force tables'), 'data/in-force-list.csv', fmt(P.inforce_rows), L('yayıncının tablo tuttuğu 717 düzenleme', 'the 717 acts the publisher keeps tables for'), L('kaldırılmış kanunlar yok', 'repealed laws are not covered')],
+    [L('Anayasa', 'Constitution'), 'law/1982/2709/', fmt(P.constitution_files) + L(' madde dosyası', ' article files'), L('bugünkü metin ve değişiklik notları', 'the current text and its notes'), ''],
+    [`Resmî Gazete ${L('fihristi', 'index')}`, 'data/rg-*.csv, data/rg-index/', `${fmt(P.rg_items)} ${L('yazı', 'items')} · ${fmt(P.rg_days)} ${L('gün', 'days')}`, `2001–2016, 2021–${P.rg_last.slice(0, 4)}`, L('2017–2020 depoda yok; ilanlar sayılmadı', '2017–2020 not held; notices left out')],
+    [L('Genel Kurul tutanak dizini', 'Plenary minutes index'), 'data/minutes-*.csv', fmt(P.minutes), `1920–${P.built.slice(0, 4)}`, L('15. ve 16. dönem (1973–1980) yok', 'terms 15 and 16 (1973–1980) missing')],
+    [L('Meclis kararları', 'Assembly decisions'), 'parliament-decision/', `${fmt(P.tbmm_decisions)} (${fmt(P.tbmm_decisions_titled)} ${L('başlıklı', 'titled')})`, '1983–' + P.built.slice(0, 4), L('başlıksız kararlar yalnızca üst veri', 'untitled decisions are metadata only')],
+    [L('Belediye meclisi kararları', 'Council decisions'), 'local/', fmt(P.councils), L('Ankara, Bursa, Mersin, Tekirdağ (2017–2026)', 'Ankara, Bursa, Mersin, Tekirdağ (2017–2026)'), L('Ankara kararları başlıksız', 'Ankara\'s decisions have no titles')],
+    [L('Bireysel başvuru dizini', 'Individual-application index'), 'data/aym-individual-*.csv', fmt(P.aym_individual), '2013–2026', L('2021–2024 sonucu yok; yalnızca yayımlanan kararlar', 'no outcome for 2021–2024; published decisions only')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(v)}</code>` : esc(v));
+}
+function fitLeftLabels(fig) {
+  fig.selectAll('svg text').each(function () {
+    let room = null;
+    if (this.getAttribute('data-fit')) room = +this.getAttribute('data-fit');
+    else if (this.getAttribute('text-anchor') === 'end' && +this.getAttribute('x') < 0) room = this.getBoundingClientRect().right - this.ownerSVGElement.getBoundingClientRect().left - 2;
+    if (room == null || this.getComputedTextLength() <= room) return;
+    const full = this.textContent;
+    d3.select(this).append('title').text(full);
+    let lo = 0, hi = full.length;
+    while (lo < hi) { const mid = (lo + hi + 1) >> 1; this.firstChild.nodeValue = full.slice(0, mid) + '…'; if (this.getComputedTextLength() <= room) lo = mid; else hi = mid - 1; }
+    this.firstChild.nodeValue = full.slice(0, lo) + '…';
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG === 'tr' ? 'tr' : 'en';
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  d3.select('[data-theme-set="auto"]').text(L('Oto', 'Auto'));
+  const tl = t('tiles'), tv = [PF.commits, PF.law_index_rows, PF.amend_notes, PF.rg_items, PF.minutes, PF.aym_individual];
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html((v, i) => `<b>${fmt(v)}</b><span>${tl[i]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.tr, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dtr, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.tr, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    fitLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.title.split(':')[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', PF.built + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('tr-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('tr-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+</script>
+</body>
+</html>
