@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13236",
+  "decision_date": "2025-01-23",
+  "date": "2025-01-24",
+  "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Tedarik Şirketlerinin Tarife Uygulamalarına İlişkin Usul ve Esaslar ve ulusal tarife kurul kararları ile belirlenen lisanssız üretici tek terimli dağıtım bedellerinin uygulanmasına, diğer üreticiler için ise OSB veya EB’ler için kurul kararları ile belirlenen dağıtım sisteminin kullanımına ilişkin bedeller arasında yer alan üretici dağıtım bedellerinin uygulanmasına ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=%2F3ChiIE%2Fz%2Bk%3D",
+  "source_sha256": "c4ab5cac276610a796f82647cc5f5a1ea24cf293d6708923627f5d161bddb4ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
