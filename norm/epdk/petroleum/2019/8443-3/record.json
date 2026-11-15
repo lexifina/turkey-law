@@ -1,0 +1,35 @@
+{
+  "title": "Socar Turkey Akaryakıt Depolama A.Ş. - Aliağa Akaryakıt Depolama ve Dolum Tesisi Depolama Tarifesine ilişkin kurul kararı",
+  "decision_number": "8443-3",
+  "decision_date": "2019-02-21",
+  "gazette_date": "01.03.2019",
+  "gazette_number": "30701",
+  "text_status": "as-enacted",
+  "in_force": "2019-02-21",
+  "in_force_basis": "official EPDK decision date 21.02.2019; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=55DNhSDic84=",
+      "sha256": "6398aa095b32f5da362b510d0eadc365dbcb064dd15e39ec3e974dbb7af6f26b",
+      "bytes": 29711,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=I0JZGtGY6dc=",
+      "title": "Socar Turkey Akaryakıt Depolama A.Ş. - Aliağa Akaryakıt Depolama ve Dolum Tesisi Depolama Tarifesi.",
+      "sha256": "e94652d7a0cf7f9695bf9438c3ce8197853fa651c620750e1fde741c221f0918",
+      "bytes": 35050,
+      "reason": "DOCX automatic list numbering needs faithful rendering",
+      "format": "docx",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
