@@ -1,0 +1,15 @@
+{
+  "kind": "directive",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ VEKALET PULU YÖNERGESİ",
+  "date": "2026-11-15",
+  "date_source": "retrieval-day-undated-source",
+  "in_force_basis": "Official TBB PDF supplied no usable source date; retrieval day used for this undated source.",
+  "commit_kind": "consolidated",
+  "source": "http://d.barobirlik.org.tr/vekalet_pulu_yonergesi.pdf",
+  "source_sha256": "459d875bb16e3c1fb429d6a9df60cfd2f77fec0ad498c2da2253acf01a56da4e",
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
