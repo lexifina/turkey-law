@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12022",
+  "decision_date": "2023-08-17",
+  "date": "2023-08-22",
+  "title": "6 Şubat 2023 tarihinde meydana gelen depremler nedeniyle; olağanüstü hal kararı alınan ve/veya afet bölgesi ilan edilen şehirlerde yer alan ve Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği kapsamında kurulu lisanssız üretim tesislerine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hPa%2FEUqoHZ4%3D",
+  "source_sha256": "24a7f89cf533bd7c29a27f07765c044b85269084e9078e67e6b3f23c89d26f1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
