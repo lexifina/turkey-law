@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11744",
+  "decision_date": "2023-03-23",
+  "date": "2023-03-25",
+  "title": "06 Şubat 2023 tarihinde meydana gelen depremler nedeniyle olağanüstü hâl kararı alınan ve/veya afet bölgesi ilan edilen yerlerde görevli tedarik şirketler hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gnhM55L3qj4%3D",
+  "source_sha256": "a865035e6d564a81c6f043bf0157e5b440a54873d11c74b615161e8cd849fe56",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
