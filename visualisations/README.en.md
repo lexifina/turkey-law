@@ -14,58 +14,133 @@ The charts are descriptive: they show what the sources record, not why.
 
 ### I. The Assembly and its laws
 
-1. **Laws a year.** The laws published in the Resmî Gazete each year since 1921: 221 a year on average in the 1930s, 61 in the 2020s.
-   ![1](stills/en/01.png)
-2. **What the laws were about.** The kinds of law by decade: in the 2010s, 73% of laws approved an international agreement.
-   ![2](stills/en/02.png)
-3. **Omnibus laws.** Omnibus laws by legislative term, and the acts that changed the most others: 80% of the 28th term's laws, treaties and budgets aside.
-   ![3](stills/en/03.png)
-4. **Vetoes.** The 168 law numbers the law index marks as VETO, never published, by President; 72 fall in Ahmet Necdet Sezer's term.
-   ![4](stills/en/04.png)
-5. **Agreements.** The states named in the titles of approval laws, on a map and by period.
-   ![5](stills/en/05.png)
+#### 1. Laws a year
+
+The laws published in the Resmî Gazete each year since 1921: 221 a year on average in the 1930s, 61 in the 2020s.
+
+![Laws a year](stills/en/01.png)
+
+#### 2. What the laws were about
+
+The kinds of law by decade: in the 2010s, 73% of laws approved an international agreement.
+
+![What the laws were about](stills/en/02.png)
+
+#### 3. Omnibus laws
+
+Omnibus laws by legislative term, and the acts that changed the most others: 80% of the 28th term's laws, treaties and budgets aside.
+
+![Omnibus laws](stills/en/03.png)
+
+#### 4. Vetoes
+
+The 168 law numbers the law index marks as VETO, never published, by President; 72 fall in Ahmet Necdet Sezer's term.
+
+![Vetoes](stills/en/04.png)
+
+#### 5. Agreements
+
+The states named in the titles of approval laws, on a map and by period.
+
+![Agreements](stills/en/05.png)
 
 ### II. Sittings, states of emergency and troop mandates
 
-6. **The plenary.** Every sitting and closed session since 1920: the First Assembly held 552 sittings and 177 closed sessions in three years.
-   ![6](stills/en/06.png)
-7. **States of emergency.** The Assembly's decisions approving and extending states of emergency, with the number of provinces their titles give.
-   ![7](stills/en/07.png)
-8. **Mandates to send troops abroad.** The Assembly's authorisations to deploy the armed forces abroad, by mission: 84 decisions since 2006.
-   ![8](stills/en/08.png)
+#### 6. The plenary
+
+Every sitting and closed session since 1920: the First Assembly held 552 sittings and 177 closed sessions in three years.
+
+![The plenary](stills/en/06.png)
+
+#### 7. States of emergency
+
+The Assembly's decisions approving and extending states of emergency, with the number of provinces their titles give.
+
+![States of emergency](stills/en/07.png)
+
+#### 8. Mandates to send troops abroad
+
+The Assembly's authorisations to deploy the armed forces abroad, by mission: 84 decisions since 2006.
+
+![Mandates to send troops abroad](stills/en/08.png)
 
 ### III. How the laws in force change
 
-9. **Laws were changed by decree too.** Amendment notes by year, by law and by decree-law; decree-law 703 of 2 July 2018 changed 144 acts.
-   ![9](stills/en/09.png)
-10. **The most-changed laws.** The amendment notes of 25 laws and decree-laws, year by year.
-    ![10](stills/en/10.png)
-11. **The 1982 Constitution.** Every article and the amending law that last left a note on it: 97 of its 177 articles carry amendment notes.
-    ![11](stills/en/11.png)
-12. **Entry into force.** Whether changes took effect on the day they were published, later, or from a date before publication.
-    ![12](stills/en/12.png)
-13. **What became of the laws.** Laws by decade: in force, repealed by a law or repealed by a decree-law.
-    ![13](stills/en/13.png)
+#### 9. Laws were changed by decree too
+
+Amendment notes by year, by law and by decree-law; decree-law 703 of 2 July 2018 changed 144 acts.
+
+![Laws were changed by decree too](stills/en/09.png)
+
+#### 10. The most-changed laws
+
+The amendment notes of 25 laws and decree-laws, year by year.
+
+![The most-changed laws](stills/en/10.png)
+
+#### 11. The 1982 Constitution
+
+Every article and the amending law that last left a note on it: 97 of its 177 articles carry amendment notes.
+
+![The 1982 Constitution](stills/en/11.png)
+
+#### 12. Entry into force
+
+Whether changes took effect on the day they were published, later, or from a date before publication.
+
+![Entry into force](stills/en/12.png)
+
+#### 13. What became of the laws
+
+Laws by decade: in force, repealed by a law or repealed by a decree-law.
+
+![What became of the laws](stills/en/13.png)
 
 ### IV. The executive, the Resmî Gazete and municipalities
 
-14. **The Resmî Gazete.** Every item published in 2001–2016 and 2021–2026, by kind: presidential decisions replaced the Council of Ministers'.
-    ![14](stills/en/14.png)
-15. **Urgent expropriation.** Urgent-expropriation decisions by purpose: since 2012, 65% were for power lines and plants.
-    ![15](stills/en/15.png)
-16. **Universities.** The share of the Resmî Gazete's regulations issued by universities.
-    ![16](stills/en/16.png)
-17. **Metropolitan councils.** The decisions of the metropolitan councils of Bursa, Mersin and Tekirdağ, by topic.
-    ![17](stills/en/17.png)
+#### 14. The Resmî Gazete
+
+Every item published in 2001–2016 and 2021–2026, by kind: presidential decisions replaced the Council of Ministers'.
+
+![The Resmî Gazete](stills/en/14.png)
+
+#### 15. Urgent expropriation
+
+Urgent-expropriation decisions by purpose: since 2012, 65% were for power lines and plants.
+
+![Urgent expropriation](stills/en/15.png)
+
+#### 16. Universities
+
+The share of the Resmî Gazete's regulations issued by universities.
+
+![Universities](stills/en/16.png)
+
+#### 17. Metropolitan councils
+
+The decisions of the metropolitan councils of Bursa, Mersin and Tekirdağ, by topic.
+
+![Metropolitan councils](stills/en/17.png)
 
 ### V. The Constitutional Court
 
-18. **The Constitutional Court.** Decisions recorded in the in-force tables as changing laws, and the acts most often changed.
-    ![18](stills/en/18.png)
-19. **Individual applications.** Published individual-application decisions by year and outcome.
-    ![19](stills/en/19.png)
-20. **Waiting.** The gap between the year of application and the year of decision.
-    ![20](stills/en/20.png)
+#### 18. The Constitutional Court
+
+Decisions recorded in the in-force tables as changing laws, and the acts most often changed.
+
+![The Constitutional Court](stills/en/18.png)
+
+#### 19. Individual applications
+
+Published individual-application decisions by year and outcome.
+
+![Individual applications](stills/en/19.png)
+
+#### 20. Waiting
+
+The gap between the year of application and the year of decision.
+
+![Waiting](stills/en/20.png)
 
 ## Data
 

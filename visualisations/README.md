@@ -14,58 +14,133 @@ Grafikler betimleyicidir: kaynakların neyi kaydettiğini gösterir, nedenini de
 
 ### I. Meclis ve kanunlar
 
-1. **Kanun sayısı.** 1921'den bu yana Resmî Gazete'de her yıl yayımlanan kanunlar: 1930'larda yılda ortalama 221, 2020'lerde 61.
-   ![1](stills/tr/01.png)
-2. **Kanunlar ne hakkında.** On yıllara göre kanun türleri: 2010'larda kanunların %73'ü bir uluslararası anlaşmayı onayladı.
-   ![2](stills/tr/02.png)
-3. **Torba kanunlar.** Yasama dönemlerine göre torba kanunlar ve en çok düzenlemeyi değiştiren işlemler: 28. dönemde anlaşma ve bütçe dışındaki kanunların %80'i torba kanun.
-   ![3](stills/tr/03.png)
-4. **Veto.** Kanun dizininin VETO olarak işaretlediği, hiç yayımlanmamış 168 kanun numarası, Cumhurbaşkanlarına göre; 72'si Ahmet Necdet Sezer döneminde.
-   ![4](stills/tr/04.png)
-5. **Anlaşmalar.** Onay kanunlarının başlığında adı geçen devletler, haritada ve dönemlere göre.
-   ![5](stills/tr/05.png)
+#### 1. Kanun sayısı
+
+1921'den bu yana Resmî Gazete'de her yıl yayımlanan kanunlar: 1930'larda yılda ortalama 221, 2020'lerde 61.
+
+![Kanun sayısı](stills/tr/01.png)
+
+#### 2. Kanunlar ne hakkında
+
+On yıllara göre kanun türleri: 2010'larda kanunların %73'ü bir uluslararası anlaşmayı onayladı.
+
+![Kanunlar ne hakkında](stills/tr/02.png)
+
+#### 3. Torba kanunlar
+
+Yasama dönemlerine göre torba kanunlar ve en çok düzenlemeyi değiştiren işlemler: 28. dönemde anlaşma ve bütçe dışındaki kanunların %80'i torba kanun.
+
+![Torba kanunlar](stills/tr/03.png)
+
+#### 4. Veto
+
+Kanun dizininin VETO olarak işaretlediği, hiç yayımlanmamış 168 kanun numarası, Cumhurbaşkanlarına göre; 72'si Ahmet Necdet Sezer döneminde.
+
+![Veto](stills/tr/04.png)
+
+#### 5. Anlaşmalar
+
+Onay kanunlarının başlığında adı geçen devletler, haritada ve dönemlere göre.
+
+![Anlaşmalar](stills/tr/05.png)
 
 ### II. Genel Kurul, olağanüstü hal ve tezkereler
 
-6. **Genel Kurul.** 1920'den bu yana her birleşim ve gizli oturum: Birinci Meclis üç yılda 552 birleşim ve 177 gizli oturum yaptı.
-   ![6](stills/tr/06.png)
-7. **Olağanüstü hal.** Meclisin olağanüstü hal ilanını onaylayan ve uzatan kararları, başlıklarındaki il sayısıyla.
-   ![7](stills/tr/07.png)
-8. **Tezkereler.** Türk Silahlı Kuvvetlerinin yabancı ülkelere gönderilmesine verilen izinler, göreve göre: 2006'dan bu yana 84 karar.
-   ![8](stills/tr/08.png)
+#### 6. Genel Kurul
+
+1920'den bu yana her birleşim ve gizli oturum: Birinci Meclis üç yılda 552 birleşim ve 177 gizli oturum yaptı.
+
+![Genel Kurul](stills/tr/06.png)
+
+#### 7. Olağanüstü hal
+
+Meclisin olağanüstü hal ilanını onaylayan ve uzatan kararları, başlıklarındaki il sayısıyla.
+
+![Olağanüstü hal](stills/tr/07.png)
+
+#### 8. Tezkereler
+
+Türk Silahlı Kuvvetlerinin yabancı ülkelere gönderilmesine verilen izinler, göreve göre: 2006'dan bu yana 84 karar.
+
+![Tezkereler](stills/tr/08.png)
 
 ### III. Yürürlükteki kanunlar nasıl değişiyor
 
-9. **Kanunlar KHK ile de değişti.** Değişiklik notları yıl yıl, kanunla ve KHK ile; 2 Temmuz 2018 tarihli 703 sayılı KHK 144 düzenlemeyi değiştirdi.
-   ![9](stills/tr/09.png)
-10. **En çok değişen kanunlar.** 25 kanun ve KHK'nin değişiklik notları, yıl yıl.
-    ![10](stills/tr/10.png)
-11. **1982 Anayasası.** Her madde ve ona en son not düşen değişiklik kanunu: 177 maddenin 97'si değişiklik notu taşıyor.
-    ![11](stills/tr/11.png)
-12. **Yürürlük.** Değişikliklerin yayımlandığı gün mü, daha sonra mı, yoksa yayımdan önceki bir tarihten mi yürürlüğe girdiği.
-    ![12](stills/tr/12.png)
-13. **Kanunların akıbeti.** On yıllara göre yürürlükte olan, bir kanunla ya da bir KHK ile yürürlükten kaldırılan kanunlar.
-    ![13](stills/tr/13.png)
+#### 9. Kanunlar KHK ile de değişti
+
+Değişiklik notları yıl yıl, kanunla ve KHK ile; 2 Temmuz 2018 tarihli 703 sayılı KHK 144 düzenlemeyi değiştirdi.
+
+![Kanunlar KHK ile de değişti](stills/tr/09.png)
+
+#### 10. En çok değişen kanunlar
+
+25 kanun ve KHK'nin değişiklik notları, yıl yıl.
+
+![En çok değişen kanunlar](stills/tr/10.png)
+
+#### 11. 1982 Anayasası
+
+Her madde ve ona en son not düşen değişiklik kanunu: 177 maddenin 97'si değişiklik notu taşıyor.
+
+![1982 Anayasası](stills/tr/11.png)
+
+#### 12. Yürürlük
+
+Değişikliklerin yayımlandığı gün mü, daha sonra mı, yoksa yayımdan önceki bir tarihten mi yürürlüğe girdiği.
+
+![Yürürlük](stills/tr/12.png)
+
+#### 13. Kanunların akıbeti
+
+On yıllara göre yürürlükte olan, bir kanunla ya da bir KHK ile yürürlükten kaldırılan kanunlar.
+
+![Kanunların akıbeti](stills/tr/13.png)
 
 ### IV. Yürütme, Resmî Gazete ve belediyeler
 
-14. **Resmî Gazete.** 2001–2016 ve 2021–2026 yıllarında yayımlanan her yazı, türüne göre: Bakanlar Kurulu kararlarının yerini Cumhurbaşkanı kararları aldı.
-    ![14](stills/tr/14.png)
-15. **Acele kamulaştırma.** Acele kamulaştırma kararları, amacına göre: 2012'den bu yana %65'i elektrik hatları ve santralleri için.
-    ![15](stills/tr/15.png)
-16. **Üniversiteler.** Resmî Gazete'deki yönetmeliklerin üniversitelerden gelen payı.
-    ![16](stills/tr/16.png)
-17. **Büyükşehir meclisleri.** Bursa, Mersin ve Tekirdağ büyükşehir belediye meclislerinin kararları, konuya göre.
-    ![17](stills/tr/17.png)
+#### 14. Resmî Gazete
+
+2001–2016 ve 2021–2026 yıllarında yayımlanan her yazı, türüne göre: Bakanlar Kurulu kararlarının yerini Cumhurbaşkanı kararları aldı.
+
+![Resmî Gazete](stills/tr/14.png)
+
+#### 15. Acele kamulaştırma
+
+Acele kamulaştırma kararları, amacına göre: 2012'den bu yana %65'i elektrik hatları ve santralleri için.
+
+![Acele kamulaştırma](stills/tr/15.png)
+
+#### 16. Üniversiteler
+
+Resmî Gazete'deki yönetmeliklerin üniversitelerden gelen payı.
+
+![Üniversiteler](stills/tr/16.png)
+
+#### 17. Büyükşehir meclisleri
+
+Bursa, Mersin ve Tekirdağ büyükşehir belediye meclislerinin kararları, konuya göre.
+
+![Büyükşehir meclisleri](stills/tr/17.png)
 
 ### V. Anayasa Mahkemesi
 
-18. **Anayasa Mahkemesi.** Yürürlük tablolarında kanunları değiştiren olarak kayıtlı kararlar ve en çok etkilenen düzenlemeler.
-    ![18](stills/tr/18.png)
-19. **Bireysel başvuru.** Yayımlanan bireysel başvuru kararları, yıla ve sonuca göre.
-    ![19](stills/tr/19.png)
-20. **Bekleme.** Başvurunun yapıldığı yıl ile karar yılı arasındaki fark.
-    ![20](stills/tr/20.png)
+#### 18. Anayasa Mahkemesi
+
+Yürürlük tablolarında kanunları değiştiren olarak kayıtlı kararlar ve en çok etkilenen düzenlemeler.
+
+![Anayasa Mahkemesi](stills/tr/18.png)
+
+#### 19. Bireysel başvuru
+
+Yayımlanan bireysel başvuru kararları, yıla ve sonuca göre.
+
+![Bireysel başvuru](stills/tr/19.png)
+
+#### 20. Bekleme
+
+Başvurunun yapıldığı yıl ile karar yılı arasındaki fark.
+
+![Bekleme](stills/tr/20.png)
 
 ## Veri
 
