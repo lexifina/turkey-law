@@ -1,0 +1,16 @@
+{
+  "issuer": "Büyükçekmece Belediye Meclisi",
+  "number": "11",
+  "decision_date": "2013-01-11",
+  "in_force": "2013-02-01",
+  "in_force_basis": "01.02.2013 tarihinden itibaren uygulanmak üzere",
+  "title": "2013 Yılı Evsel Katı Atık Ücret Tarifesinin belirlenmesi",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bcekmece.bel.tr/upload/files/2013-yili-evsel-kati-atik-ucret-tarifesi-11012013-11-90bd9f8c-7907-4af1-8b51-ff545c9a5502.pdf",
+  "source_listing": "https://www.bcekmece.bel.tr/kurumsal/liste/meclis-kararlari",
+  "source_sha256": "e2459378c1059f5afbbe1abe96f6a8b50b7e2941d006cb0c0794a3ac4659ab5b",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "known_textual_omission": "The council PDF refers to an attached enterprise-specific fee list that is not present in this published PDF; this record includes only the text printed in the council PDF."
+}
