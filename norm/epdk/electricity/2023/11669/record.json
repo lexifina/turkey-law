@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11669",
+  "decision_date": "2023-02-23",
+  "date": "2023-02-28",
+  "title": "18 Şubat 2023 tarihli ve 32108 sayılı Resmî Gazete’de yayımlanan Kurul’un 16/02/2023 tarihli 11651 sayılı Kararı’nda yer alan değişiklik hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2RtQRzPwtHI%3D",
+  "source_sha256": "4ac284b8b4c5a7605480739e6eb46e9441cedb49ee07a037a2cc90dc2c0c2515",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
