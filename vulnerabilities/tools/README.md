@@ -17,6 +17,10 @@ clone of global-law at `sources/global-law.git`, and a `pins.json` that names on
 | `build_vulns.py` | Builds `data/flags.csv`, `data/reviewed.csv` and `data/by_category.csv` from the findings and the model review |
 | `flags_chart.py` | Draws the chart at the top of the READMEs, in Turkish and English, light and dark |
 | `config.json` | The repository, the Turkish category names, the top-level folders that are not law, and the chart's labels |
+| `patch_detectors.py` | Fixes blind spots found in runs on several country repositories in the copy of global-law's scripts (`python -X utf8 patch_detectors.py <scripts dir>`; a fix already in place is skipped) |
+| `redo.py` | Runs `patch_detectors.py`, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder> [--keep-reviews]`; `EMBED_FONTS` names the script that embeds the chart's fonts) |
+| `late_ext_check.py` | Hand-check helper: for each empty period that survived the review, the lines of the extending commit's diff that hold the old or the new date, in Turkish and numeric forms, following folders renamed on 10 November 2026 |
+| `measure_missed.py` | Counts the places where "kadar", "dek" or "değin" follows a past date or year, which of them the time-limit search reads, and the forms of those it misses (the numbers in the READMEs) |
 
 The model review needs `LLM_BASE_URL`, `LLM_API_KEY`, `LLM_MODEL` and `LLM_AUTH` set for an OpenAI-compatible Responses API.
 It was run as `bash run_triage.sh '^(case-law|decision|norm|election|audit|data|tools|monitoring|visualisations|vulnerabilities)/'`.
@@ -31,3 +35,12 @@ Changes made for this repository:
 - `build_vulns.py` gives each retroactive-date flag the path of the first file of its act or decision (global-law's detector
   names only the act), so that board and court decisions count as not law.
 - `run.sh` was run with 3 shards: with 8, the text and reference scans ran out of memory on the shared machine.
+- The run was then repeated with `redo.py`. Of `patch_detectors.py`'s fixes, these change this repository's flags. Lapsed
+  time limits now read Turkish, where the date comes before "kadar" ("31/12/2020 tarihine kadar", "31 Aralık 2020'ye kadar",
+  "2020 yılı sonuna kadar"): 1 flag became 3,888, and the empty-period detector, which reads the same dates, found 14 where
+  it had found none. A currency name other than "lira" counts only as a whole word, which removed matches inside other words
+  ("intikal", "intifa", Marcoussis). A fourth round, made after this run's hand check, also reads the end of the day or a
+  time after the date ("günü sonuna kadar", "günü saat 23.59'a kadar") and takes "lira" with its Turkish endings
+  ("liradan", "lirası"); it was run with `redo.py --keep-reviews`, which keeps every review already made and sends only the
+  strong flags not yet reviewed to the model: lapsed time limits went to 4,091 (115 reviewed, the same 4 surviving) and dead
+  currencies from 1,293 before the fixes to 1,604. The other categories did not change.
