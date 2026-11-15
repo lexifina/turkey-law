@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11082",
+  "decision_date": "2022-07-28",
+  "date": "2022-07-29",
+  "title": "Kaynak Bazında Destekleme Bedelinin Belirlenmesine ve Uygulanmasına İlişkin Usul ve Esaslar Kapsamında Yapılan Değişiklikler",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p%2FaYMIoNOxk%3D",
+  "source_sha256": "22ae95b7761ecc2e879edb4f16b7d730d1013545554390c7fcea82b449e9d5f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
