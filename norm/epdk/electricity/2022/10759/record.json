@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10759",
+  "decision_date": "2022-02-03",
+  "date": "2022-02-04",
+  "title": "03/02/2022 tarihli toplantısında; 6446 sayılı Elektrik Piyasası Kanununun 17 nci maddesinin dördüncü fıkrasına eklenen ‘bu abone grupları için elektrik enerjisi tüketim miktarına göre farklı’ hükmüne ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5900%2BRv3uec%3D",
+  "source_sha256": "0966d1f9d7c80e4dc8925f84627eee73a36443d27d36a59eef9c98edabbf281e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
