@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9292",
+  "decision_date": "2020-04-09",
+  "date": "2020-04-11",
+  "title": "Dağıtım şebekesine bağlı lisanslı/lisanssız elektrik üreticileri tarafından geçici kabul öncesi üretilerek dağıtım şebekesine bedelsiz verilen enerji üzerinden, üreticilere dağıtım bedeli ve/veya sistem kullanım bedeli hk.",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GJxOkLkNIj8%3D",
+  "source_sha256": "125a6a795dcb654e46f12e685d1d6b5582b611fd4fec96afa3ef479128bee7e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
