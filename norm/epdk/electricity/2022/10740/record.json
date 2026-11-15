@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10740",
+  "decision_date": "2022-01-20",
+  "date": "2022-01-22",
+  "title": "Türkiye Ortalama Elektrik Toptan Satış Fiyatı",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CsIYJIQDxCw%3D",
+  "source_sha256": "4f8d519cd4fd842c28eb52b52efd6ac1ef042df7ae0f109c02dc957df523dc29",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
