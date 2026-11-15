@@ -68,6 +68,7 @@ Each change to an act is credited to the act that made it (`Kanun 6552`, `KHK 66
 - `tools/build/check_repo.py` read every law, KHK and CBK of the first build back from git: each current text word for word against the HTML the site serves, and each earlier version against Microsoft Word's own text of the publisher's `.doc`, with no mismatch in their characters. Two builds from the same files give the same commit hashes ([`REPRODUCE.md`](REPRODUCE.md)).
 - The parts added since record the sha256 of the source files they used (`source_sha256` in their ledgers under `data/`, `Source-sha256:` in their commits) and say in each commit how its date was chosen.
 - History is append-only: `main` only grows, has no merge commits, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Turkish law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

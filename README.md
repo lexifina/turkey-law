@@ -68,6 +68,7 @@ Bir düzenlemedeki her değişiklik onu yapan düzenlemeye atfedilir (`Kanun 655
 - `tools/build/check_repo.py` ilk derlemenin her kanununu, KHK'sini ve CBK'sini git'ten geri okudu: her güncel metni sitenin sunduğu HTML ile sözcüğü sözcüğüne, her önceki sürümü yayıncının `.doc` dosyasının Microsoft Word'ün kendisinin ürettiği metniyle karşılaştırdı ve karakterlerde hiçbir fark bulmadı. Aynı dosyalardan yapılan iki derleme aynı commit özetlerini verir ([`REPRODUCE.md`](REPRODUCE.md)).
 - O zamandan beri eklenen bölümler, kullandıkları kaynak dosyaların sha256 özetlerini (`data/` altındaki defterlerinde `source_sha256`, commit'lerinde `Source-sha256:`) kaydeder ve her commit'te tarihin nasıl seçildiğini söyler.
 - Geçmiş yalnızca eklenerek büyür: `main` dalı yalnızca büyür, merge commit'i içermez ve yayımlanmış hiçbir commit yeniden yazılmaz.
+- [vulnerabilities/](vulnerabilities/): global-law'un dedektörlerinin bulduğu ve elle denetlenen, Türk mevzuatındaki olası düzenleme hataları.
 
 ## Neleri göstermez
 
