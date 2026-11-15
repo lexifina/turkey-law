@@ -1,0 +1,34 @@
+{
+  "title": "Petrol Ofisi A.Ş.’nin; PİL/476-259/10968 sayılı İletim Lisansı kapsamında POAŞ Derince Tesisat Md. Deniz Mah. Petrol Ofisi Cad. No.39 41900 Derince / KOCAELİ adresinde faaliyette bulunan Derince Tesisine ilişkin iletim tarifesi",
+  "decision_number": "8249",
+  "decision_date": "2018-12-13",
+  "gazette_date": "18.12.2018",
+  "gazette_number": "30629",
+  "text_status": "as-enacted",
+  "in_force": "2018-12-13",
+  "in_force_basis": "official EPDK decision date 13.12.2018; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gWEzi9Vr3vY=",
+      "sha256": "2b3943f1901fc070aab3c3698590922c08542fd1b5659b0592b4d70548a909e1",
+      "bytes": 28750,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HTy8rqgAbjs=",
+      "title": "8249 EK",
+      "sha256": "c51aaf74210e332caf2af30d33f87a1ef054897e02a4d3374d6bf45fed35c33a",
+      "bytes": 53760,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
