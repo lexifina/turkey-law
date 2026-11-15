@@ -1,0 +1,16 @@
+{
+  "issuer": "Büyükçekmece Belediye Meclisi",
+  "number": "4",
+  "decision_date": "2024-01-02",
+  "in_force": "2024-02-01",
+  "in_force_basis": "01.02.2024 tarihinden itibaren uygulanmak üzere",
+  "title": "2024 Yılı Evsel Katı Atık Ücret Tarifesinin belirlenmesi",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bcekmece.bel.tr/upload/files/2024-yili-evsel-kati-atik-ucret-tarifesi-02012024-4-7ed47363-6d04-49d9-a52c-c175ca520135.pdf",
+  "source_listing": "https://www.bcekmece.bel.tr/kurumsal/liste/meclis-kararlari",
+  "source_sha256": "4e7d46f35285f0f9357f8ed87dded6da2e857834d5d4c1a091e68c05fe1b60a6",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "known_textual_omission": "The council PDF refers to an attached enterprise-specific fee list that is not present in this published PDF; this record includes only the text printed in the council PDF."
+}
