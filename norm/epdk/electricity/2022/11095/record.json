@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11095",
+  "decision_date": "2022-07-28",
+  "date": "2022-07-29",
+  "title": "Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ’in 5 inci maddesinde yer alan tüketim miktarının güncellenmesi ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Xi%2BDyatJpJU%3D",
+  "source_sha256": "af518f6c840636b4bd3fefd7ec12e3ef10b930e77e7593b5740c5e58e5607335",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
