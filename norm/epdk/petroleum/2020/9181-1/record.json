@@ -1,0 +1,35 @@
+{
+  "title": "Lokal İnşaat Enerji Petrol Nakliyat Gıda San. ve Tic. A.Ş.’nin; DEP/7220-4/38844 sayılı depolama lisansı kapsamında Kırıkkale İli Merkez İlçesi Hacılar Beldesi  Kırıkkale Terminaline ilişkin depolama tarifesine ilişkin",
+  "decision_number": "9181-1",
+  "decision_date": "2020-02-06",
+  "gazette_date": "18.02.2020",
+  "gazette_number": "31043",
+  "text_status": "as-enacted",
+  "in_force": "2020-02-06",
+  "in_force_basis": "official EPDK decision date 06.02.2020; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HcOy8rIvk5Y=",
+      "sha256": "f9a4cd3e2b3ee4d7d5ddd53499d4d65d8bb03fcef4f720b267c24025888a89f0",
+      "bytes": 22516,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EyJkCr8a4to=",
+      "title": "Lokal İnşaat Enerji Petrol Nakliyat Gıda San. ve Tic. A.Ş. - Kırıkkale Terminali Depolama Tarifesi",
+      "sha256": "1f9a49f1916b5f510077b9b3a809d7f8bb63c9e22ac3cda2c2a1196511937710",
+      "bytes": 24037,
+      "reason": "DOCX automatic list numbering needs faithful rendering",
+      "format": "docx",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
