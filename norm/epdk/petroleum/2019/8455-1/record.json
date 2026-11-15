@@ -1,0 +1,35 @@
+{
+  "title": "Socar Turkey Akaryakıt Depolama A.Ş. - Aliağa İletim Tesisi (İskele) İletim Tarifesine ilişkine kurul kararı",
+  "decision_number": "8455-1",
+  "decision_date": "2019-02-28",
+  "gazette_date": "05.03.2019",
+  "gazette_number": "30705",
+  "text_status": "as-enacted",
+  "in_force": "2019-02-28",
+  "in_force_basis": "official EPDK decision date 28.02.2019; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2WXPwNJA0lI=",
+      "sha256": "e251693f9cc3c122ba98a6ab09d26192555ab049b107a9f066601452e5988c4f",
+      "bytes": 30023,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=75jBdPVUiIc=",
+      "title": "Socar Turkey Akaryakıt Depolama A.Ş. - Aliağa İletim Tesisi (İskele) İletim Tarifesi.",
+      "sha256": "eff77c38f601781b8939b3397c91877448588e66661940d2a9962c2f275d4657",
+      "bytes": 31072,
+      "reason": "DOCX automatic list numbering needs faithful rendering",
+      "format": "docx",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
