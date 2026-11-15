@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11098",
+  "decision_date": "2022-08-04",
+  "date": "2022-08-11",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Hakkında Kurul Kararı",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SrG7StdMcu0%3D",
+  "source_sha256": "da66b7debec977e0a6e31410b333d5fc59844433e87fc2f846121a9568998512",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
