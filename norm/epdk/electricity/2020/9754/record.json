@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9754",
+  "decision_date": "2020-12-03",
+  "date": "2020-12-08",
+  "title": "2021-2025 uygulama dönemi için genel kalite indikatörünün belirlenmesi hakkında ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mdt19lRvAwA%3D",
+  "source_sha256": "af930d6340bf09d79985fcc36be2dbdf885aded4bbcd9afbdd6684245530bc91",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
