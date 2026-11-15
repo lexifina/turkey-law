@@ -1,0 +1,34 @@
+{
+  "title": "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul Ve Esaslar Hakkında Kararda Değişiklik Yapılması Hakkında Karar (Mülga)",
+  "decision_number": "1137",
+  "decision_date": "2007-03-22",
+  "gazette_date": "31.03.2007",
+  "gazette_number": "26479",
+  "text_status": "as-enacted",
+  "in_force": "2007-04-01",
+  "in_force_basis": "Bu Karar’ın 9 uncu maddesi Karar alındığı tarihte, diğer maddeleri bir sonraki dönemden (3. Çeyrek Dönem) itibaren uygulanmak üzere 01/04/2007 tarihinde yürürlüğe girer.",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9d4zao+emOw=",
+      "sha256": "d3ad489f0a0d2b96fef06714ce3ee53f08521cb6f0a684c42f1ea513ca75b495",
+      "bytes": 40448,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xrYTli5q11M=",
+      "title": "Ek : Dağıtıcılar Arası Akaryakıt Ticaret İzni Başvuru Formu",
+      "sha256": "a1b03499e1f31f819fa9f078508aa707f93bcb081370728efdc553bed799db84",
+      "bytes": 138752,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
