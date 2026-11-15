@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14910",
+  "decision_date": "2026-09-24",
+  "date": "2026-10-19",
+  "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliği’nin 70 inci maddesinin dördüncü fıkrası kapsamında,  hidroelektrik santraller hariç olmak üzere, uzlaştırma dönemine ilişkin yük alma ve yük atma teklif miktarlarına ilişkin ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GvAKT%2BTJ998%3D",
+  "source_sha256": "f48bcf249a1c5a05c4c48e9478aa7154c1f27e2833256dad70a88c94a0fc71a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
