@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-15",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "05-40/551-132",
+  "title": "Koz İlaç San. ve Tic. A.Ş.'nin bütün aktif ve pasiflerinin İlsan İlaç San. ve Tic. A.Ş. tarafından devralınması işlemine izin verilmesi talebi.",
+  "published": "2005-10-13",
+  "in_force": "2005-06-17",
+  "in_force_basis": "Official PDF Karar Tarihi and official listing agree; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=48ff5729-d08f-44ac-af76-7658e95a9f57",
+  "source_id": "48ff5729-d08f-44ac-af76-7658e95a9f57",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "cf57c116dd9d1064b14584bcca86f41b44a7a169260f44b81a4a8c3a82155e7b",
+  "source_bytes": 136659,
+  "word_count": 555,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
