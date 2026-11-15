@@ -1,0 +1,34 @@
+{
+  "title": "Shell&Turcas Petrol A.Ş. - Antalya İletim Tesisi İletim Tarifesine ilişkin kurul kararı",
+  "decision_number": "8465-1",
+  "decision_date": "2019-03-07",
+  "gazette_date": "14.03.2019",
+  "gazette_number": "30714",
+  "text_status": "as-enacted",
+  "in_force": "2019-03-07",
+  "in_force_basis": "official EPDK decision date 07.03.2019; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2cpt0Yq2J1c=",
+      "sha256": "a53d3888a4048134c4c36abec5b56c35869fa046038c5b021bdb7e2b4f439c57",
+      "bytes": 29954,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5gxaWJ/+Q7k=",
+      "title": "8465-1 ek",
+      "sha256": "28dd5a0a9a83642282e7efa4490afd8d770d1cc6c28a09e2ce19bd6cd9a098c1",
+      "bytes": 59904,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
