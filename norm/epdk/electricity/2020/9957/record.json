@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9957",
+  "decision_date": "2020-12-30",
+  "date": "2020-12-31",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi’nin 2021 yılı sistem kullanım ve sistem işletim gelir tavanları hk",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S4r2%2BmM1MyA%3D",
+  "source_sha256": "b91af1c163c01f9e17acdd3163a1263cc690195310f9241d3a37e7cae0a62d11",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
