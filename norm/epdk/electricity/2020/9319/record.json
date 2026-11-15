@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9319",
+  "decision_date": "2020-04-22",
+  "date": "2020-04-25",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ) için gelir/tarife düzenlemelerine esas parametrelerine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iLRaGnDadkw%3D",
+  "source_sha256": "6181fcdc9dc177c513687660c7e633270f937885beb62eaf8bea27bf7436d1b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
