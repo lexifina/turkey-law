@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10376",
+  "decision_date": "2021-08-26",
+  "date": "2021-09-02",
+  "title": "YEKDEM başvuruları kapsamında elektronik ortamda oluşacak “Başvuru Dilekçesi ve Bilgi Formu”hakkında ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5qpUrTld9mw%3D",
+  "source_sha256": "a2422f635bacae07afb012b5b0ef66543c634d89c61d06ba36d273a49a42a55d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
