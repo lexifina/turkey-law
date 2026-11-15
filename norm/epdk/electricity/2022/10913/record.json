@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10913",
+  "decision_date": "2022-04-07",
+  "date": "2022-04-08",
+  "title": "Görevli tedarik şirketlerinin son kaynak tedariki kapsamındaki tüketiciler için 4. tarife uygulama döneminin kalan süresi boyunca, belirlenen miktardaki elektrik enerjisini Elektrik Üretim Anonim Şirketi’nden (EÜAŞ) temin etmeleri yükümlülüğüne ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QZUZ2zHqDJM%3D",
+  "source_sha256": "6239098ccbfd8bf91debc66e88f747a4947408938e30b9b2951fd05fe98d3328",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
