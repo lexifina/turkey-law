@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11665",
+  "decision_date": "2023-02-16",
+  "date": "2023-02-18",
+  "title": "09/02/2023 tarihli ve 11629 sayılı Kararı’nda yapılan değişiklik",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=g%2FEax4SfBk0%3D",
+  "source_sha256": "ed4f283e213d651ed726d118d2e4e22d568d879248b0cb4500a9bdfea1768f9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
