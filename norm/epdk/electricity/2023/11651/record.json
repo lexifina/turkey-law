@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11651",
+  "decision_date": "2023-02-16",
+  "date": "2023-02-18",
+  "title": "Kahramanmaraş merkezli 6 Şubat 2023 tarihinde meydana gelen depremler nedeniyle olağaüstü hâl  kararı alınan ve/veya afet bölgesi ilan  edilen iller için 06/02/2023 tarihinden başlamak üzere,  lisanssız elektrik üretim uygulamalarına ilişkin ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ta68NjTAQhQ%3D",
+  "source_sha256": "3dda73c120b170a2433691a3415aafe9b86b1f6a38fd1dcc1789e763fd65a559",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
