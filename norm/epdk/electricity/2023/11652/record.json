@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11652",
+  "decision_date": "2023-02-16",
+  "date": "2023-02-18",
+  "title": "OHAL alınan ve/veya afet bölgesi ilan edilen iller için 06/02/2023 tarihinden başlamak üzere üretim lisansı sahibi tüzel kişiler ile şirket merkezi bu illerde olan üretim lisansı sahibi tüzel kişilerin bulundurduğu teminat tutarı ve serbest tüketicisi bulunan üretim veya tedarik lisansı sahibi tüzel kişilerin, söz konusu illerdeki tüketim miktarlarına ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1n4K%2FHOc31o%3D",
+  "source_sha256": "5def38063587c9287cc5fec0567df528c6cadaf75527567f842af5a34405f269",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
