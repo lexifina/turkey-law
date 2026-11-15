@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14013",
+  "decision_date": "2025-12-11",
+  "date": "2025-12-17",
+  "title": "7/11/2024 tarihli ve 12987 sayılı Kurul Kararı ile gelir/tarife düzenlemelerine esas parametrelerin geçerli olacağı beşinci uygulama dönemi süresi 1/1/2026 (dâhil) – 31/12/2030 (dâhil) olarak belirlenen elektrik piyasasında faaliyet gösteren dağıtım şirketlerine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PSv57PcCIfc%3D",
+  "source_sha256": "3587eb38ea74d3de9e33a97cb2e837e1981a2e3cd482bf462176adb8719c5052",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
