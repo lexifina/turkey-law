@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11254",
+  "decision_date": "2022-09-29",
+  "date": "2022-09-30",
+  "title": "12/05/2022 tarihli ve 10971 sayılı Kurul Kararının, söz konusu Kurul Kararında belirtilen esaslar çerçevesinde süre uzatımına ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kgvKRaHRJNI%3D",
+  "source_sha256": "8e5c1263a29f5994b9d3a69a320c7a0b09339a1f60f4c04e0633df5e68d8fe53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
