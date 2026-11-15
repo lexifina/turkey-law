@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-15",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "05-40/552-133",
+  "title": "Cam Elyaf Sanayii A.Ş.'nin bayileri ile imzalamış olduğu anlaşmalara menfi tespit belgesi verilmesi/muafiyet tanınması talebi.",
+  "published": "2005-08-10",
+  "in_force": "2005-06-17",
+  "in_force_basis": "Official PDF Karar Tarihi and official listing agree; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=6dbeab25-66e9-4dc5-9bf7-db60e7a7ab23",
+  "source_id": "6dbeab25-66e9-4dc5-9bf7-db60e7a7ab23",
+  "source_type": "Menfi Tespit ve Muafiyet",
+  "source_sha256": "836d27e88d0be3a12b6b2ca839eeb7a0a230e21732136ca801857ee3b12dad4d",
+  "source_bytes": 169842,
+  "word_count": 1118,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
