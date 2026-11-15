@@ -1,0 +1,108 @@
+catalogue,source_id,number,date,official_url,path,status,reason
+principle,3579,480,2005-11-23,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3579/2005-480-karar.htm,election/ysk/principle/2005/480,held,official source returned no body
+principle,3630,331,2005-07-16,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3630/2005-331-karar.htm,election/ysk/principle/2005/331,held,multiple operative decision dates; identity review required
+principle,4062,316,2004-02-14,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4062/2004-316-karar.htm,election/ysk/principle/2004/316,held,HTML source images require separate review
+principle,4175,843,2002-10-25,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4175/2002-843-karar.htm,election/ysk/principle/2002/843,held,prior date disagreement; no unique operative closing date found
+principle,4216,481,2002-08-28,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4216/2002-481-karar.htm,election/ysk/principle/2002/481,held,prior date disagreement; no unique operative closing date found
+principle,4218,509,2002-08-26,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4218/2002-509-karar.htm,election/ysk/principle/2002/509,held,multiple operative decision dates; identity review required
+principle,4294,72,2002-02-11,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4294/2001-72-karar.htm,election/ysk/principle/2002/72,held,prior date disagreement; no unique operative closing date found
+principle,4403,2427,1999-12-01,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4403/1999-2427-karar.htm,election/ysk/principle/1999/2427,held,multiple operative decision dates; identity review required
+principle,4443,2322,1999-11-06,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4443/1999-2340-karar%20%281%29.htm,election/ysk/principle/1999/2322,held,body/catalogue decision number conflict
+principle,4472,2322,1999-10-26,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4472/1999-2322-karar.htm,election/ysk/principle/1999/2322,held,prior date disagreement; no unique operative closing date found
+principle,4538,1973,1999-07-03,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4538/1999-1973-karar.htm,election/ysk/principle/1999/1973,held,multiple operative decision dates; identity review required
+principle,4689,435,1999-04-06,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4689/1999-435.htm,election/ysk/principle/1999/435,held,prior date disagreement; no unique operative closing date found
+principle,4755,296,1998-10-24,https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4755/1998-296-karar.htm,election/ysk/principle/1998/296,held,multiple operative decision dates; identity review required
+circular,1673,764,2007-08-02,https://www.ysk.gov.tr/doc/genelge/dosya/1673/2007-764.pdf,election/ysk/norm/2007/rnek--139-i,held,circular catalogue number requires review
+circular,1699,-,2008-10-25,https://www.ysk.gov.tr/doc/genelge/dosya/1699/2008-260.pdf,election/ysk/norm/2008/2008-260-say-l--karar,ocr-pending,PDF pages without usable text layer: 27; OCR disabled
+circular,1731,170,2009-02-15,https://www.ysk.gov.tr/doc/genelge/dosya/1731/2009-7.pdf,election/ysk/norm/2009/7,ocr-pending,PDF pages without usable text layer: 3; OCR disabled
+circular,1745,"17, 18, 19, 22",2010-01-19,https://www.ysk.gov.tr/doc/genelge/dosya/1745/2010_1%20Say%C4%B1l%C4%B1%20Genelge.html,election/ysk/norm/2010/1,held,HTML source images require separate review
+circular,1828,2929,2014-06-08,https://www.ysk.gov.tr/doc/genelge/dosya/1828/2014CSB-140-2.pdf,election/ysk/norm/2014/rnek-140-ii,ready,"fresh official source words, date, privacy and images checked"
+circular,1832,,2014-06-12,https://www.ysk.gov.tr/doc/genelge/dosya/1832/2014CBS-Hazirlikgenelgesi.pdf,election/ysk/norm/2014/1,ocr-pending,"PDF pages without usable text layer: 1,2,3; OCR disabled"
+circular,1845,,2015-01-27,https://www.ysk.gov.tr/doc/genelge/dosya/1845/2015MV-HazirlikGenelgesi.pdf,election/ysk/norm/2015/source-1845,ocr-pending,"PDF pages without usable text layer: 1,2,3,4; OCR disabled"
+circular,1853,220,2015-02-19,https://www.ysk.gov.tr/doc/genelge/dosya/1853/2015MV-Ydisi-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2015/140-ii,held,no unique operative source date found
+circular,1870,1544,2015-08-26,https://www.ysk.gov.tr/doc/genelge/dosya/1870/2015MVES-Ydisi-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2015/140-ii,held,multiple held records share target path in this continuation
+circular,1874,1547,2015-08-26,https://www.ysk.gov.tr/doc/genelge/dosya/1874/2015MVES-Genelge200-1.pdf.pdf,election/ysk/norm/2015/200-i,ready,"fresh official source words, date, privacy and images checked"
+circular,5505,97,2017-02-14,https://www.ysk.gov.tr/doc/genelge/dosya/5505/2017HO-Genelge135-1.pdf,election/ysk/norm/2017/135-i,held,individual-party pleading; metadata/link only
+circular,5507,98,2017-02-14,https://www.ysk.gov.tr/doc/genelge/dosya/5507/2017HO-Genelge200-1.pdf,election/ysk/norm/2017/200-i,ready,"fresh official source words, date, privacy and images checked"
+circular,77593,330,2018-04-30,https://www.ysk.gov.tr/doc/genelge/dosya/77593/2018CBMV-Genelge200.pdf,election/ysk/norm/2018/200,ready,"fresh official source words, date, privacy and images checked"
+circular,77638,397,2018-05-08,https://www.ysk.gov.tr/doc/genelge/dosya/77638/2018CBMV-Genelge135-2.pdf,election/ysk/norm/2018/135-ii,held,no unique operative source date found
+circular,77956,4,2019-01-02,https://www.ysk.gov.tr/doc/genelge/dosya/77956/2019Mahalli-Genelge138-2.pdf,election/ysk/norm/2019/138-ii,held,no unique operative source date found
+circular,2309746,151,2023-03-17,https://www.ysk.gov.tr/doc/genelge/dosya/2309746/2023-151.pdf,election/ysk/norm/2023/145,ocr-pending,"PDF pages without usable text layer: 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23; OCR disabled"
+circular,2309752,152,2023-03-18,https://www.ysk.gov.tr/doc/genelge/dosya/2309752/2023-152.pdf,election/ysk/norm/2023/203,ocr-pending,"PDF pages without usable text layer: 2,3,4,5,6,7,8,9,10,11; OCR disabled"
+circular,1599,-,2006-01-17,https://www.ysk.gov.tr/doc/genelge/dosya/1599/2006-4.pdf,election/ysk/norm/2006/4,held,named private-party pattern outside official signature block; metadata/link only
+circular,1623,-,2007-02-16,https://www.ysk.gov.tr/doc/genelge/dosya/1623/2007-2.pdf,election/ysk/norm/2007/2,held,unclassified embedded source image(s); held for source image review
+circular,1625,97,2007-02-28,https://www.ysk.gov.tr/doc/genelge/dosya/1625/2007-97.pdf,election/ysk/norm/2007/97-say-l--karar,held,individual-party pleading; metadata/link only
+circular,1641,249,2007-05-09,https://www.ysk.gov.tr/doc/genelge/dosya/1641/2007-249.pdf,election/ysk/norm/2007/rnek--136,held,circular catalogue number requires review
+circular,1653,282,2007-05-27,https://www.ysk.gov.tr/doc/genelge/dosya/1653/2007-282.pdf,election/ysk/norm/2007/rnek--145-i,held,circular catalogue number requires review
+circular,1669,752,2007-08-01,https://www.ysk.gov.tr/doc/genelge/dosya/1669/2007-752.pdf,election/ysk/norm/2007/rnek--145-i,held,circular catalogue number requires review
+circular,1675,776,2007-08-07,https://www.ysk.gov.tr/doc/genelge/dosya/1675/2007-26.pdf,election/ysk/norm/2007/26,held,unclassified embedded source image(s); held for source image review
+circular,1677,-,2007-08-11,https://www.ysk.gov.tr/doc/genelge/dosya/1677/2007-27.pdf,election/ysk/norm/2007/27,held,unclassified embedded source image(s); held for source image review
+circular,1681,"19, 18, 6",2008-01-20,https://www.ysk.gov.tr/doc/genelge/dosya/1681/2008-2.pdf,election/ysk/norm/2008/2,held,PyMuPDF/Poppler source word mismatch
+circular,1703,-,2008-11-25,https://www.ysk.gov.tr/doc/genelge/dosya/1703/SecimeHazirlik.pdf,election/ysk/norm/2008/13,held,unclassified embedded source image(s); held for source image review
+circular,1707,-,2008-12-16,https://www.ysk.gov.tr/doc/genelge/dosya/1707/2008-16.pdf,election/ysk/norm/2008/16,held,unclassified embedded source image(s); held for source image review
+circular,1715,1,2009-01-03,https://www.ysk.gov.tr/doc/genelge/dosya/1715/2009-139.pdf,election/ysk/norm/2009/rnek-139,held,circular catalogue number requires review
+circular,1743,-,2009-12-14,https://www.ysk.gov.tr/doc/genelge/dosya/1743/2009-15.pdf,election/ysk/norm/2009/15,held,unclassified embedded source image(s); held for source image review
+circular,1748,215,2010-03-20,https://www.ysk.gov.tr/doc/genelge/dosya/1748/2010-3.pdf,election/ysk/norm/2010/3,held,unclassified embedded source image(s); held for source image review
+circular,1750,264,2010-04-10,https://www.ysk.gov.tr/doc/genelge/dosya/1750/YurtDisiSecmenGenelge.pdf,election/ysk/norm/2010/rnek--140-ii,held,circular catalogue number requires review
+circular,1752,305,2010-05-11,https://www.ysk.gov.tr/doc/genelge/dosya/1752/2010-4.pdf,election/ysk/norm/2010/4,held,unclassified embedded source image(s); held for source image review
+circular,1754,-,2010-05-18,https://www.ysk.gov.tr/doc/genelge/dosya/1754/2010-5.pdf,election/ysk/norm/2010/5,held,unclassified embedded source image(s); held for source image review
+circular,1756,329,2010-05-21,https://www.ysk.gov.tr/doc/genelge/dosya/1756/2010-6.pdf,election/ysk/norm/2010/6,held,unclassified embedded source image(s); held for source image review
+circular,1760,347,2010-05-29,https://www.ysk.gov.tr/doc/genelge/dosya/1760/2010-8.pdf,election/ysk/norm/2010/8,held,unclassified embedded source image(s); held for source image review
+circular,1762,"353, 352",2010-05-31,https://www.ysk.gov.tr/doc/genelge/dosya/1762/2010-9.pdf,election/ysk/norm/2010/9,held,unclassified embedded source image(s); held for source image review
+circular,1766,609,2010-08-21,https://www.ysk.gov.tr/doc/genelge/dosya/1766/2010-11.pdf,election/ysk/norm/2010/11,held,unclassified embedded source image(s); held for source image review
+circular,1770,987,2010-10-27,https://www.ysk.gov.tr/doc/genelge/dosya/1770/2010-13.pdf,election/ysk/norm/2010/13,held,unclassified embedded source image(s); held for source image review
+circular,1772,27,2011-01-15,https://www.ysk.gov.tr/doc/genelge/dosya/1772/2011-1.pdf,election/ysk/norm/2011/1,held,PyMuPDF/Poppler source word mismatch
+circular,1778,158,2011-03-07,https://www.ysk.gov.tr/doc/genelge/dosya/1778/SKGMGuncellestirme2011.pdf,election/ysk/norm/2011/rnek--140-i,held,individual-party pleading; metadata/link only
+circular,1782,164,2011-03-08,https://www.ysk.gov.tr/doc/genelge/dosya/1782/2011-Ornek139.pdf,election/ysk/norm/2011/rnek--139,held,circular catalogue number requires review
+circular,1784,170,2011-03-09,https://www.ysk.gov.tr/doc/genelge/dosya/1784/2011-Ornek125.pdf,election/ysk/norm/2011/rnek--125,held,circular catalogue number requires review
+circular,1786,-,2011-03-10,https://www.ysk.gov.tr/doc/genelge/dosya/1786/2011-3.pdf,election/ysk/norm/2011/3,held,unclassified embedded source image(s); held for source image review
+circular,1789,199,2011-03-14,https://www.ysk.gov.tr/doc/genelge/dosya/1789/2011-Ornek136.pdf,election/ysk/norm/2011/rnek--136,held,circular catalogue number requires review
+circular,1791,230,2011-03-29,https://www.ysk.gov.tr/doc/genelge/dosya/1791/2011-4.pdf,election/ysk/norm/2011/4,held,unclassified embedded source image(s); held for source image review
+circular,1793,278,2011-03-30,https://www.ysk.gov.tr/doc/genelge/dosya/1793/2011-Ornek145-1.pdf,election/ysk/norm/2011/rnek--145-i,held,circular catalogue number requires review
+circular,1795,289,2011-04-02,https://www.ysk.gov.tr/doc/genelge/dosya/1795/2011-5.pdf,election/ysk/norm/2011/5,held,PyMuPDF/Poppler source word mismatch
+circular,1797,1128,2011-07-09,https://www.ysk.gov.tr/doc/genelge/dosya/1797/2011-6.pdf,election/ysk/norm/2011/6,held,PyMuPDF/Poppler source word mismatch
+circular,1799,1246,2011-12-14,https://www.ysk.gov.tr/doc/genelge/dosya/1799/2011-7.pdf,election/ysk/norm/2011/7,held,unclassified embedded source image(s); held for source image review
+circular,1801,24,2012-01-17,https://www.ysk.gov.tr/doc/genelge/dosya/1801/2012-1.pdf,election/ysk/norm/2012/1,held,unclassified embedded source image(s); held for source image review
+circular,1803,309,2012-06-09,https://www.ysk.gov.tr/doc/genelge/dosya/1803/2012-2.pdf,election/ysk/norm/2012/2,held,PyMuPDF/Poppler source word mismatch
+circular,1806,388,2012-07-12,https://www.ysk.gov.tr/doc/genelge/dosya/1806/2012-3.pdf,election/ysk/norm/2012/3,held,PyMuPDF/Poppler source word mismatch
+circular,1808,-,2013-04-25,https://www.ysk.gov.tr/doc/genelge/dosya/1808/2013-1.pdf,election/ysk/norm/2013/1,held,unclassified embedded source image(s); held for source image review
+circular,1810,-,2013-05-09,https://www.ysk.gov.tr/doc/genelge/dosya/1810/2013-2.pdf,election/ysk/norm/2013/2,held,unclassified embedded source image(s); held for source image review
+circular,1812,-,2013-12-23,https://www.ysk.gov.tr/doc/genelge/dosya/1812/SecimeHazirlikGenelgesi2013.pdf,election/ysk/norm/2013/3,held,unclassified embedded source image(s); held for source image review
+circular,1814,623,2013-12-31,https://www.ysk.gov.tr/doc/genelge/dosya/1814/Ornek140-1-2014.pdf,election/ysk/norm/2013/rnek--140-i,held,individual-party pleading; metadata/link only
+circular,1820,23,2014-01-08,https://www.ysk.gov.tr/doc/genelge/dosya/1820/Ornek138-2014.pdf,election/ysk/norm/2014/rnek-138,held,PyMuPDF/Poppler source word mismatch
+circular,1822,33,2014-01-10,https://www.ysk.gov.tr/doc/genelge/dosya/1822/Ornek125-2014.pdf,election/ysk/norm/2014/rnek-125,held,PyMuPDF/Poppler source word mismatch
+circular,1824,2911,2014-06-06,https://www.ysk.gov.tr/doc/genelge/dosya/1824/CBS-Ornek201.pdf,election/ysk/norm/2014/rnek-201,held,unclassified embedded source image(s); held for source image review
+circular,1826,2928,2014-06-08,https://www.ysk.gov.tr/doc/genelge/dosya/1826/2014CSB-140-1.pdf,election/ysk/norm/2014/rnek-140-i,held,individual-party pleading; metadata/link only
+circular,1830,2930,2014-06-08,https://www.ysk.gov.tr/doc/genelge/dosya/1830/2014-CBS-Ornek202.pdf,election/ysk/norm/2014/rnek-202,held,no unique operative source date found
+circular,1834,3006,2014-06-21,https://www.ysk.gov.tr/doc/genelge/dosya/1834/2014-CBS-Ornek145-1.pdf,election/ysk/norm/2014/rnek-145-1,held,no unique operative source date found
+circular,1836,3060,2014-06-25,https://www.ysk.gov.tr/doc/genelge/dosya/1836/2014-CBS-Ornek139-2.pdf,election/ysk/norm/2014/rnek--139-ii,ready,"fresh official source words, date, privacy and images checked"
+circular,1840,3830,2014-08-22,https://www.ysk.gov.tr/doc/genelge/dosya/1840/2014HSYK-Genelge.pdf,election/ysk/norm/2014/source-1840,held,no unique operative source date found
+circular,1848,112,2015-02-02,https://www.ysk.gov.tr/doc/genelge/dosya/1848/2015MV-Genelge125.pdf,election/ysk/norm/2015/125,held,no unique operative source date found
+circular,1850,219,2015-02-19,https://www.ysk.gov.tr/doc/genelge/dosya/1850/2015MV-Yici-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2015/140-i,held,individual-party pleading; metadata/link only
+circular,1857,295,2015-03-04,https://www.ysk.gov.tr/doc/genelge/dosya/1857/2015MV-Genelge139.pdf,election/ysk/norm/2015/139,ready,"fresh official source words, date, privacy and images checked"
+circular,1860,296,2015-03-04,https://www.ysk.gov.tr/doc/genelge/dosya/1860/2015MV-Genelge202-1.pdf,election/ysk/norm/2015/202-i,held,PyMuPDF/Poppler source word mismatch
+circular,1862,314,2015-03-09,https://www.ysk.gov.tr/doc/genelge/dosya/1862/2015MV-Genelge145-1.pdf,election/ysk/norm/2015/145-i,held,no unique operative source date found
+circular,1866,474,2015-03-29,https://www.ysk.gov.tr/doc/genelge/dosya/1866/2015MV-Genelge136.pdf,election/ysk/norm/2015/136,held,no unique operative source date found
+circular,1868,1542,2015-08-26,https://www.ysk.gov.tr/doc/genelge/dosya/1868/2015MVES-Yici-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2015/140-i,held,multiple held records share target path in this continuation
+circular,1872,1545,2015-08-26,https://www.ysk.gov.tr/doc/genelge/dosya/1872/2015MVES-Genelge125.pdf,election/ysk/norm/2015/125,held,multiple held records share target path in this continuation
+circular,1876,1549,2015-08-26,https://www.ysk.gov.tr/doc/genelge/dosya/1876/2015MVES-Genelge139.pdf,election/ysk/norm/2015/139,held,multiple held records share target path in this continuation
+circular,1878,1552,2015-08-26,https://www.ysk.gov.tr/doc/genelge/dosya/1878/2015MVES-Genelge202-1.pdf,election/ysk/norm/2015/202-i,held,multiple held records share target path in this continuation
+circular,1880,1576,2015-08-31,https://www.ysk.gov.tr/doc/genelge/dosya/1880/2015MVES-Genelge145-1.pdf,election/ysk/norm/2015/145-i,held,multiple held records share target path in this continuation
+circular,1886,1643,2015-09-09,https://www.ysk.gov.tr/doc/genelge/dosya/1886/2015MVES-Genelge136.pdf,election/ysk/norm/2015/136,held,multiple held records share target path in this continuation
+circular,5501,95,2017-02-14,https://www.ysk.gov.tr/doc/genelge/dosya/5501/2017HO-Yici-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2017/140-i,held,individual-party pleading; metadata/link only
+circular,5503,96,2017-02-14,https://www.ysk.gov.tr/doc/genelge/dosya/5503/2017HO-Ydisi-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2017/140-ii,held,no unique operative source date found
+circular,5509,99,2017-02-14,https://www.ysk.gov.tr/doc/genelge/dosya/5509/2017HO-Genelge139.pdf,election/ysk/norm/2017/139-1,ready,"fresh official source words, date, privacy and images checked"
+circular,5511,105,2017-02-15,https://www.ysk.gov.tr/doc/genelge/dosya/5511/2017HO-Genelge145-1.pdf,election/ysk/norm/2017/145-i,held,no unique operative source date found
+circular,5515,103,2017-02-15,https://www.ysk.gov.tr/doc/genelge/dosya/5515/2017HO-Genelge202-1.pdf,election/ysk/norm/2017/202-i,held,no unique operative source date found
+circular,77561,295,2018-04-26,https://www.ysk.gov.tr/doc/genelge/dosya/77561/2018CBMV-Yici-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2018/140-i,held,individual-party pleading; metadata/link only
+circular,77563,296,2018-04-26,https://www.ysk.gov.tr/doc/genelge/dosya/77563/2018CBMV-Ydisi-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2018/140-ii,held,no unique operative source date found
+circular,77595,335,2018-04-30,https://www.ysk.gov.tr/doc/genelge/dosya/77595/2018CBMV-Genelge201.pdf,election/ysk/norm/2018/201,held,unclassified embedded source image(s); held for source image review
+circular,77647,418,2018-05-09,https://www.ysk.gov.tr/doc/genelge/dosya/77647/2018CBMV-Genelge145.pdf,election/ysk/norm/2018/145,held,no unique operative source date found
+circular,77651,399,2018-05-08,https://www.ysk.gov.tr/doc/genelge/dosya/77651/2018CBMV-Genelge202.pdf,election/ysk/norm/2018/202,held,no unique operative source date found
+circular,77659,425,2018-05-09,https://www.ysk.gov.tr/doc/genelge/dosya/77659/2018CBMV-Genelge139.pdf,election/ysk/norm/2018/139,ready,"fresh official source words, date, privacy and images checked"
+circular,77668,494,2018-05-16,https://www.ysk.gov.tr/doc/genelge/dosya/77668/2018CBMV-Genelge136.pdf,election/ysk/norm/2018/136,held,no unique operative source date found
+circular,77935,1129,2018-12-26,https://www.ysk.gov.tr/doc/genelge/dosya/77935/2019Mahalli-Genelge138.pdf,election/ysk/norm/2018/138,held,PyMuPDF/Poppler source word mismatch
+circular,77944,1134,2018-12-28,https://www.ysk.gov.tr/doc/genelge/dosya/77944/2019Mahalli-Yici-GuncellestirmeGenelgesi.pdf,election/ysk/norm/2018/140-i,held,multiple held records share target path in this continuation
+circular,1589,"1312, 1, 2, 17",2004-01-04,https://www.ysk.gov.tr/doc/genelge/dosya/1589/2004-1.pdf,election/ysk/norm/2004/1,held,"compilation contains different attached-decision adoption dates; split required: 2003-12-29, 2004-01-02, 2004-01-03"
+circular,1591,"1, 51, 63",2005-03-04,https://www.ysk.gov.tr/doc/genelge/dosya/1591/2005-1.pdf,election/ysk/norm/2005/1,held,"compilation contains different attached-decision adoption dates; split required: 2005-01-08, 2005-02-12, 2005-02-26"
+circular,1667,"740, 741, 750",2007-07-31,https://www.ysk.gov.tr/doc/genelge/dosya/1667/2007-24.pdf,election/ysk/norm/2007/24,held,"compilation contains different attached-decision adoption dates; split required: 2007-07-30, 2007-07-31"

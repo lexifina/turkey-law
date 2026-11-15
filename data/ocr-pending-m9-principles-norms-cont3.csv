@@ -1,0 +1,7 @@
+catalogue,source_id,number,date,official_url,path,status,reason
+circular,1699,-,2008-10-25,https://www.ysk.gov.tr/doc/genelge/dosya/1699/2008-260.pdf,election/ysk/norm/2008/2008-260-say-l--karar,ocr-pending,PDF pages without usable text layer: 27; OCR disabled
+circular,1731,170,2009-02-15,https://www.ysk.gov.tr/doc/genelge/dosya/1731/2009-7.pdf,election/ysk/norm/2009/7,ocr-pending,PDF pages without usable text layer: 3; OCR disabled
+circular,1832,,2014-06-12,https://www.ysk.gov.tr/doc/genelge/dosya/1832/2014CBS-Hazirlikgenelgesi.pdf,election/ysk/norm/2014/1,ocr-pending,"PDF pages without usable text layer: 1,2,3; OCR disabled"
+circular,1845,,2015-01-27,https://www.ysk.gov.tr/doc/genelge/dosya/1845/2015MV-HazirlikGenelgesi.pdf,election/ysk/norm/2015/source-1845,ocr-pending,"PDF pages without usable text layer: 1,2,3,4; OCR disabled"
+circular,2309746,151,2023-03-17,https://www.ysk.gov.tr/doc/genelge/dosya/2309746/2023-151.pdf,election/ysk/norm/2023/145,ocr-pending,"PDF pages without usable text layer: 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23; OCR disabled"
+circular,2309752,152,2023-03-18,https://www.ysk.gov.tr/doc/genelge/dosya/2309752/2023-152.pdf,election/ysk/norm/2023/203,ocr-pending,"PDF pages without usable text layer: 2,3,4,5,6,7,8,9,10,11; OCR disabled"
