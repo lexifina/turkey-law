@@ -1,0 +1,42 @@
+{
+  "title": "Petrol Piyasasında Lisans Süre Uzatımı Başvurularında Aranacak Bilgi ve Belgelere İlişkin Kurul Kararı’nda Değişiklik Yapılmasına Dair",
+  "decision_number": "8818",
+  "decision_date": "2019-09-05",
+  "gazette_date": "07.09.2019",
+  "gazette_number": "30881",
+  "text_status": "as-enacted",
+  "in_force": "2019-09-07",
+  "in_force_basis": "Bu Karar yayımı tarihinde yürürlüğe girer.; official listing RG Tarih 07.09.2019",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mbzth21O5EU=",
+      "sha256": "da4079ea95553442826d4fcdabf0dc1264447a46e8dce40b47805e509092c8ea",
+      "bytes": 25488,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ViYMPuD85mg=",
+      "title": "3242-4 kurul kararının derc edilmiş hali",
+      "sha256": "c893a664905324f4731bfbc8bdc4ecb6fe808cb3bb93ca588dc7d38147103b7a",
+      "bytes": 58880,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    },
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4Mx8bAa2hgM=",
+      "title": "Lisans Süre Uzatımı Başvuru Formu",
+      "sha256": "232d226673f91b98a7ea9911de42a8a66e881b4b1ad5389ab57a110962d76ce0",
+      "bytes": 50176,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
