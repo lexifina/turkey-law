@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-15",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "80/617-119",
+  "title": "Borusan Holding A.Ş., Borusan Yatırım ve Pazarlama A.Ş. ve Mannesmannröhren Werke AG tarafından Borusan Mannesmann Endüstri ve Yatırım A.Ş. adıyla bir ortak girişim kurulması.",
+  "published": "2000-04-30",
+  "in_force": "1998-08-20",
+  "in_force_basis": "Official PDF header \"Karar Tarihi: 20.08.1998\"; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=05de626b-154c-4a89-b80f-8623e1f011ca",
+  "source_id": "05de626b-154c-4a89-b80f-8623e1f011ca",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "aa7d51a42fd45a95ceca1c88a84668793ed1b557e603f980ba94d61cd8038201",
+  "source_bytes": 118355,
+  "word_count": 834,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
