@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12717",
+  "decision_date": "2024-06-27",
+  "date": "2024-06-29",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi’nin 2024 yılı sistem kullanım ve sistem işletim gelir tavanlarının revize edilmesine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kt6b%2B%2Fj2NPM%3D",
+  "source_sha256": "de0f74b1d044ea0492f00a99a327088dc8ebecdc0324df031fad3216896a6c8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
