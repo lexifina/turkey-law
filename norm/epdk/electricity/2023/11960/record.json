@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11960",
+  "decision_date": "2023-07-20",
+  "date": "2023-07-25",
+  "title": "Elektrik piyasasına ilişkin mevzuat ve Ticaret Bakanlığı (Bakanlık) Serbest Bölgeler Genel Müdürlüğü’nün 27.04.2023 tarihli ve 676520 sayılı yazısı çerçevesinde alınan kararlar hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nFUdC12HEfc%3D",
+  "source_sha256": "fe9c23c481f18ebc9a54feb0c25ea91c5c4ded17e66aab728031d43e691feaeb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
