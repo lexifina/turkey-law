@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14165-14",
+  "decision_date": "2025-12-25",
+  "date": "2025-12-30",
+  "title": "2024 yılına ait Türkiye Ortalama Elektrik Toptan Satış Fiyatı (TORETOSAF)",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u%2FhgDU3rVXw%3D",
+  "source_sha256": "cfc65ee4fb2359e8521a1932870379b7e0f329dab6ac4e756557648dbc8ac020",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
