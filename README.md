@@ -30,7 +30,8 @@ Metin Türkçedir, yayıncıların bastığı gibidir. İngilizce çeviri bu kay
 
 - **[Türk hukukunu Claude'a sorun](https://global-law.lexifina.com/v1/try_claude?country=turkey)**: Claude'u ilk sorusu hazır olarak açar.
 - **[ChatGPT'ye sorun](https://global-law.lexifina.com/v1/try_chatgpt?country=turkey)**: aynı soru ChatGPT'de.
-- **[API'yi tarayıcınızda çağırın](https://global-law.lexifina.com/v1/search_law?query=y%C4%B1ll%C4%B1k+izin&jurisdictions=turkey)**: Türk hukukunda "yıllık izin" araması, JSON olarak. Belgeler [burada](https://lexifina.com/api/global-law).
+- **[Türk hukukunda sitemizde arayın](https://lexifina.com/law?country=turkey&q=y%C4%B1ll%C4%B1k+izin)**: "yıllık izin" araması, her hükmün metni ve sürümleriyle, hesap gerekmeden.
+- **[Geliştiriciler için REST API](https://global-law.lexifina.com/v1/search_law?query=y%C4%B1ll%C4%B1k+izin&jurisdiction=turkey)**: aynı arama JSON olarak, anahtarsız. Belgeler [burada](https://lexifina.com/api/global-law).
 
 İki asistan da kaydı ücretsiz Global law bağlayıcısı üzerinden okur (MCP, `https://global-law.lexifina.com/mcp`); ilk seferde sohbet size bağlayıcıyı ekleyen bağlantıyı verir. Türkçe ya da İngilizce sorun.
 
