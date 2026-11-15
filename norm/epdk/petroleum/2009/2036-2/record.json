@@ -1,0 +1,34 @@
+{
+  "title": "Lukoil Eurasia Petrol A.Ş.?nin Depolama Tesisi Tarifesi",
+  "decision_number": "2036/2",
+  "decision_date": "2009-03-26",
+  "gazette_date": "01.04.2009",
+  "gazette_number": "27189",
+  "text_status": "as-enacted",
+  "in_force": "2009-04-01",
+  "in_force_basis": "official document application clause: nun 26/03/2009 tarih ve 2036/2 sayılı Kararı ile 01/04/2009 tarihinden itibaren uygulanmak üzere onaylanmıştır. KAPSAM MADDE 1- Bu tarife kapsamında aşağıda yer alan petrollere de",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XSH8tlE+ydQ=",
+      "sha256": "35ff946311bf752d160b66232bf503bec070513d9e0103479391363e9d2f90d2",
+      "bytes": 23552,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q3nZjEseZvs=",
+      "title": "Ek : Lukoil Eurasia Petrol A.Ş.'nin Depolama Tesisi Tarifesi",
+      "sha256": "ae7e7b43f8a34c517777f2877e9bb8aeef934ac9fad7041b2dd1d9d351fdf032",
+      "bytes": 67584,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
