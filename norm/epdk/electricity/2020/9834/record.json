@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9834",
+  "decision_date": "2020-12-17",
+  "date": "2020-12-22",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin 2021 yılı piyasa işletim gelir tavanı hk.",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rKsVoh5YOwg%3D",
+  "source_sha256": "1960e5b156018e329cb363bc6041850ca628dbc7b1578201ad37c0ffa28153f5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
