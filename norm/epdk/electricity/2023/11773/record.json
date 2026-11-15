@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11773",
+  "decision_date": "2023-03-30",
+  "date": "2023-03-31",
+  "title": "12/05/2022 tarihli ve 10971 sayılı Kurul Kararının, söz konusu Kurul Kararında belirtilen esaslar çerçevesinde, 30/09/2023 tarihine kadar uygulanmasına ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ug1onSJoYBM%3D",
+  "source_sha256": "13bdc66386120ada320b3e926e3ded11ba587c60410967ae2155d22b7d265108",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
