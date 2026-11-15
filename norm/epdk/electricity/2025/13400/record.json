@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13400",
+  "decision_date": "2025-03-20",
+  "date": "2025-03-22",
+  "title": "Elektrik Piyasası Kanunu’nun 26 ncı maddesinin on birinci fıkrası uyarınca görevli tedarik şirketlerinin, son kaynak tedariki kapsamındaki tüketiciler için 31/12/2029 tarihine kadar temin edeceği elektrik enerjisi hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u4gNCPU6NDY%3D",
+  "source_sha256": "74df283179aae704c9c31ea8b92c1470e42807a3b369b36f59168c7749651489",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
