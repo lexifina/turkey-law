@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-15",
+  "first_law": null,
+  "history": "as-enacted",
+  "label": "as-enacted",
+  "kind": "decision",
+  "issuer": "rekabet",
+  "number": "04-01/7-5",
+  "title": "Bio-Kem İlaç Sanayi ve Ticaret A.Ş.'nin tüm aktif ve pasifleriyle Koz İlaç Sanayi ve Ticaret A.Ş. tarafından devralınması işlemine izin verilmesi talebi.",
+  "published": "2004-04-20",
+  "in_force": "2004-01-08",
+  "in_force_basis": "Official PDF Karar Tarihi and official listing agree; adopted decision.",
+  "source": "https://www.rekabet.gov.tr/Karar?kararId=fcb0adb2-7b00-468d-950b-6acc685907c4",
+  "source_id": "fcb0adb2-7b00-468d-950b-6acc685907c4",
+  "source_type": "Birleşme ve Devralma",
+  "source_sha256": "efcf8e59cc7a5e57a1592dae34a516484634f5eda53562dfc815a7f618169fb7",
+  "source_bytes": 260048,
+  "word_count": 696,
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 0
+  }
+}
