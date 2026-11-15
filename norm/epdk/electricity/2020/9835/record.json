@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9835",
+  "decision_date": "2020-12-17",
+  "date": "2020-12-22",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin 2021 yılı piyasa işletim gelir tavanında öngörülen AR-GE harcama tutarları hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KTPOljzEAK4%3D",
+  "source_sha256": "d42eb0ee128f530ab5dffaa926eb3684a11490439f03556220e7603eb2265d03",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
