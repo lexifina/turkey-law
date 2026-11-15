@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13364-3",
+  "decision_date": "2025-03-13",
+  "date": "2025-03-18",
+  "title": "Daha önce yapılmış olan perakende satış sözleşmelerinin, yeni bir sözleşme yapılmasına gerek olmaksızın uygulanmasına ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZrWZR6Eagsc%3D",
+  "source_sha256": "a3f0cffc6375df740df776f6c1b518ab312265bf02b4d964641f33f18fac58a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
