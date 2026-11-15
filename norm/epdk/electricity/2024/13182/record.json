@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13182",
+  "decision_date": "2024-12-31",
+  "date": "2024-12-31",
+  "title": "26/12/2024 tarihli ve 13151 sayılı Kurul Kararının ekinde yer alan İletim Sistemi Sistem Kullanım ve Sistem İşletim Tarifelerini Hesaplama ve Uygulama Yöntem Bildirimine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jCHbM1LFqeQ%3D",
+  "source_sha256": "d709078f59bc54ccffc113812ce4ac0f00e2f801adc048df6ff315c71857cdd5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
