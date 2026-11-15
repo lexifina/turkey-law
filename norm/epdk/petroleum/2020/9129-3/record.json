@@ -1,0 +1,34 @@
+{
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; DEP/1328-5/23031 sayılı depolama lisansı kapsamında Nusratiye Mahallesi - Mersin adresinde faaliyette bulunan Liman Tesisine ilişkin depolama tarifesine ilişkin",
+  "decision_number": "9129-3",
+  "decision_date": "2020-01-16",
+  "gazette_date": "21.01.2020",
+  "gazette_number": "31015",
+  "text_status": "as-enacted",
+  "in_force": "2020-01-16",
+  "in_force_basis": "official EPDK decision date 16.01.2020; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0aRljGpxNvo=",
+      "sha256": "4361aadc956c1276b07ca32551670dcfd16d2dd0e0bc601cb2c3cd0a362e7556",
+      "bytes": 21887,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=md2Dl5bsJw4=",
+      "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - Liman Tesisi (Nusratiye) Depolama Tarifesi",
+      "sha256": "9298c51dbff6fa007f50ba594daceb71ceb6fb57a014d01a0d4c8934078a806a",
+      "bytes": 67072,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
