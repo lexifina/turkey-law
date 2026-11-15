@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10892",
+  "decision_date": "2022-03-31",
+  "date": "2022-04-03",
+  "title": "Elektrik Piyasası Kanununun 17 nci maddesinin dördüncü fıkrasına eklenen ‘bu abone grupları için elektrik enerjisi tüketim miktarına göre farklı’ hükmünün ticarethane aboneliği ile ilişkilendirilen lisanssız elektrik üretim tesislerine uygulanmasına ilişkin ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BEan5eqU%2BH8%3D",
+  "source_sha256": "6f8d36be034eadc751401bdead3e3386b7d5dca65ccca53d1e536309d97e08e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
