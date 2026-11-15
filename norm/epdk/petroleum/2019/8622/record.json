@@ -1,0 +1,34 @@
+{
+  "title": "Opet Petrolcülük A.Ş.’nin;  Depolama Lisansı kapsamında faaliyette bulunan Marmara Ereğlisi Depolama Tesisine ilişkin",
+  "decision_number": "8622",
+  "decision_date": "2019-05-23",
+  "gazette_date": "29.05.2019",
+  "gazette_number": "30788",
+  "text_status": "as-enacted",
+  "in_force": "2019-05-23",
+  "in_force_basis": "official EPDK decision date 23.05.2019; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GFNWD41frbI=",
+      "sha256": "741b5297e8666f0532f7ee8497f09a991fbffae5b6a0871f17455d80ecbfd337",
+      "bytes": 29828,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pXM4WiMa/Cw=",
+      "title": "Opet Petrolcülük A.Ş. - Marmara Ereğlisi Depolama Tesisi Depolama Tarifesi.",
+      "sha256": "2ce34ffc3f934fddf90caa7567f2289bf2c2a9ff758f3431edc69694fa9e3812",
+      "bytes": 74240,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
