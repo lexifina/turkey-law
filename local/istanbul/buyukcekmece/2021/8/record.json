@@ -1,0 +1,16 @@
+{
+  "issuer": "Büyükçekmece Belediye Meclisi",
+  "number": "8",
+  "decision_date": "2021-01-04",
+  "in_force": "2021-02-01",
+  "in_force_basis": "01.02.2021 tarihinden itibaren uygulanmak üzere",
+  "title": "2021 Yılı Evsel Katı Atık Ücret Tarifesinin belirlenmesi",
+  "version_label": "as-enacted",
+  "source_url": "https://www.bcekmece.bel.tr/upload/files/2021-yili-evsel-kati-atik-ucret-tarifesi-04012021-8-07cb4ee1-4056-46a6-919a-0db0df78504e.pdf",
+  "source_listing": "https://www.bcekmece.bel.tr/kurumsal/liste/meclis-kararlari",
+  "source_sha256": "eb830fb2b64c5c38c8701de0a38b9819f8024fb040312e68b7ca5b1113abdd55",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "known_textual_omission": "The council PDF refers to an attached enterprise-specific fee list that is not present in this published PDF; this record includes only the text printed in the council PDF."
+}
