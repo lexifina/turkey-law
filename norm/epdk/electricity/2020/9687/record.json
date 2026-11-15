@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9687",
+  "decision_date": "2020-11-12",
+  "date": "2020-11-14",
+  "title": "1/1/2021(Dahil)-31/12/2023(dahil) olarak belirlenen elektrik piyasasında iletim sistem işleticisi olarak faaliyet gösteren Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ) ın uygulama dönemine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2WqrJA%2Fv9OM%3D",
+  "source_sha256": "6415d6d3e1f6f8c686e9af4ae346325b0298e23dcbb254529fdc81a7e8a2b79f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
