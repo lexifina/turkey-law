@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9433",
+  "decision_date": "2020-07-02",
+  "date": "2020-07-03",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi’nin 2020 yılı sistem kullanım ve sistem işletim gelir tavanları",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WA6sHN0aOOM%3D",
+  "source_sha256": "e4c3a3de577b1e5c4c32b22874b6d060a1028e0c0eae4c68d4b89ceff9bd475c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
