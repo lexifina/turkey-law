@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11698",
+  "decision_date": "2023-03-09",
+  "date": "2023-03-10",
+  "title": "6 Şubat 2023 tarihinde Kahramanmaraş merkezli olarak meydana gelen deprem sebebiyle olağanüstü hal kararı alınan ve/veya afet bölgesi ilan edilen şehirler hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ltyzGog4WNw%3D",
+  "source_sha256": "280a01e3c79f3bbfe68eb7a12894e739a7baebba8e40be9b81215af814e11983",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
