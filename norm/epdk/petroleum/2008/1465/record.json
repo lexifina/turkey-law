@@ -1,0 +1,34 @@
+{
+  "title": "04/04/2007 tarihli ve 1153 sayılı ?Ulusal Marker Uygulama Faaliyetleri ve Ulusal Marker Teslimine İlişkin Usul ve Esaslar Hakkında Kurul Kararı?nda Değişiklik Yapılmasına İlişkin Karar (Mülga)",
+  "decision_number": "1465",
+  "decision_date": "2008-01-17",
+  "gazette_date": "25.01.2008",
+  "gazette_number": "26767",
+  "text_status": "as-enacted",
+  "in_force": "2008-01-25",
+  "in_force_basis": "Bu Karar, yayımı tarihinde yürürlüğe girer.; official listing RG Tarih 25.01.2008",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QgZ6HcQtgrc=",
+      "sha256": "1fce3a74ec89b7488788aa4f47dce73ab3b90c805f9d9de50e7b1112fc7fc1ee",
+      "bytes": 31232,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XeSnk2KRFQc=",
+      "title": "Ek : Ulusal Marker Talep Formu / Ulusal Marker İzleme Çizelgesi",
+      "sha256": "d95b48f040c820207c6862767f2ad7ab445f00e195afdf66d676d29d1fc95f4b",
+      "bytes": 97280,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
