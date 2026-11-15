@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14048",
+  "decision_date": "2025-12-18",
+  "date": "2025-12-20",
+  "title": "Perakende Satış Tarifesinin Düzenlenmesi Hakkında Tebliğ uyarınca 2026-2030 yıllarında geçerli olacak Net Kar Marjı Oranınına ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sNN1wJWVnJ0%3D",
+  "source_sha256": "294ac64f8ccf436bcbb0338ca057f4ba91cc275dd21997624e113495203488c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
