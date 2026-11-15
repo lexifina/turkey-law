@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11743",
+  "decision_date": "2023-03-23",
+  "date": "2023-03-25",
+  "title": "6 Şubat 2023 tarihinde meydana gelen depremlerden etkilenen Adıyaman, Hatay, Kahramanmaraş ve Malatya illerinin tamamı ile Gaziantep’in İslahiye ve Nurdağı ilçeleri hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ru74NNyaXFI%3D",
+  "source_sha256": "175560e078f0bf7ea111a292cc9d458e42dde4a389b34b856d7191a2b67bac64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
