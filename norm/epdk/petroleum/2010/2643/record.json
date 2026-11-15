@@ -1,0 +1,34 @@
+{
+  "title": "Opet Petrolcülük Anonim Şirketi?nin Aliağa depolama tesisine ilişkin ekli tarife",
+  "decision_number": "2643",
+  "decision_date": "2010-07-08",
+  "gazette_date": "19.07.2010",
+  "gazette_number": "27646",
+  "text_status": "as-enacted",
+  "in_force": "2010-07-08",
+  "in_force_basis": "official document application clause: lunun 08/07/2010 tarih ve 2643 sayılı Kararı ile 08/07/2010 Tarihinden itibaren uygulanmak üzere onaylanmıştır. KAPSAM MADDE 1: Bu tarife kapsamında aşağıda yer alan petrollere de",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PfqPF1udNdQ=",
+      "sha256": "adc08f379d6defe1fa93f08f1cf2ed5ad19863ab998061555ccc5f92c9f89102",
+      "bytes": 23552,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kBZ0oln7Oco=",
+      "title": "Ek : Opet Petrolcülük Anonim Şirketi Aliağa Depolama Tesisi Tarifesi",
+      "sha256": "05c8980ffab398410e376b743ba9a5ac80da729ffa8b31238cf8b5a23242bf34",
+      "bytes": 54272,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
