@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9018",
+  "decision_date": "2019-12-26",
+  "date": "2020-01-09",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği hükümleri uyarınca faaliyet gösteren, aylık mahsuplaşma hükümlerine tabi ve Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ (Tebliğ) kapsamında yer alan tüketicilere ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5AX7zpkHYHY%3D",
+  "source_sha256": "3443bfd70b37c904c3f8a11e100afdbf6bd8962ef73e7cd050c1934818b48fb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
