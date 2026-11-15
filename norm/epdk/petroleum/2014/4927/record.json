@@ -1,0 +1,34 @@
+{
+  "title": "Enerji Piyasası Düzenleme Kurulunun 20/03/2014 tarihli toplantısında; 5015 sayılı Petrol Piyasası Kanununun 10 uncu maddesi uyarınca petrol piyasasında iki ay süreyle uygulanacak akaryakıt fiyatının tespitine ilişkin Karar",
+  "decision_number": "4927",
+  "decision_date": "2014-03-20",
+  "gazette_date": "21.03.2014",
+  "gazette_number": "28948",
+  "text_status": "as-enacted",
+  "in_force": "2014-03-21",
+  "in_force_basis": "Bu Karar yayımı tarihinde yürürlüğe girer.; official listing RG Tarih 21.03.2014",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OvZ3vaKe4A0=",
+      "sha256": "6e648c856cb2e94e8e34ddecf6db9606409cbb4f185e8d978eb6d2ca351303ee",
+      "bytes": 59392,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Vs9GrwMdg+U=",
+      "title": "Tavan Fiyat Karar Eki",
+      "sha256": "d9be27f20c65924632e0c479ef500df34cf857478babec5310601f210e1b22bd",
+      "bytes": 99840,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
