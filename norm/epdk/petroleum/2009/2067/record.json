@@ -1,0 +1,42 @@
+{
+  "title": "19/03/2009 tarihli ve 2025/3-2 sayılı Kurul Kararları ile onaylanan ve 26/03/2009 tarihli ve 27181 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Kurul Kararlarının tadili",
+  "decision_number": "2067",
+  "decision_date": "2009-04-15",
+  "gazette_date": "24.04.2009",
+  "gazette_number": "27209",
+  "text_status": "as-enacted",
+  "in_force": "2009-04-01",
+  "in_force_basis": "official document application clause: nun 19/03/2009 tarih ve 2025/2 sayılı Kararı ile 01/04/2009 tarihinden itibaren uygulanmak üzere onaylanmıştır. KAPSAM MADDE 1- Bu tarife kapsamında aşağıda yer alan petrollere il",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VadJyCjII9g=",
+      "sha256": "f5987a252e181c5e8e36821f9e03bdb022593724ecca9f293c51c0f820da2135",
+      "bytes": 25088,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KTENv8dkmJg=",
+      "title": "BOTAŞ Batman Dörtyol Boru Hattı EPDK Onaylı İletim Tarifes",
+      "sha256": "1c3c74800ed9621201a595efaf3160edc2adf7af2b01e32e3238d253cff9da08",
+      "bytes": 84992,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    },
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dXMOWTRZUII=",
+      "title": "BOTAŞ Yumurtalık (Ceyhan) Kırıkkale Ham Petrol Boru Hattı EPDK Onaylı İletim Tarifesi.",
+      "sha256": "fafa0c42810c8b2e7d4a97f2278440c0134704081f147958f8be8e037c51baa9",
+      "bytes": 83968,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
