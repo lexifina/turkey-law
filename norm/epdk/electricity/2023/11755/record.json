@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11755",
+  "decision_date": "2023-03-30",
+  "date": "2023-04-01",
+  "title": "2022 yılına ait Türkiye Ortalama Elektrik Toptan Satış Fiyatının (TORETOSAF) 254,79 kr/kWh olarak belirlenmesine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F1b4TrYmAAs%3D",
+  "source_sha256": "bbfa5f6d727afd63c8e495e7bfa78f6a443426f7bf3de0333a5c1ac11514416f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
