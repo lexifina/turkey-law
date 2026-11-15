@@ -1,0 +1,34 @@
+{
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; PİL/1347-3/23163 sayılı iletim lisansı kapsamında faaliyette bulunan ATAŞ İletim Hatlarına ilişkin iletim tarifesine ilişkin",
+  "decision_number": "9129-1",
+  "decision_date": "2020-01-16",
+  "gazette_date": "21.01.2020",
+  "gazette_number": "31015",
+  "text_status": "as-enacted",
+  "in_force": "2020-01-16",
+  "in_force_basis": "official EPDK decision date 16.01.2020; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XXQmSYKLb0g=",
+      "sha256": "0a0b1d0629f2a85ccd05f1b657eaac64ad81b1b188ad34d667cc31b76c820bc5",
+      "bytes": 21911,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7jz0Cdek0FQ=",
+      "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - ATAŞ İletim Hatları İletim Tarifesi",
+      "sha256": "f2ca7b7fad42045858b0467bfe78e4f66578d2f69e6b2623abee6914ded1ef98",
+      "bytes": 64512,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
