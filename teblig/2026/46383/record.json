@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.46383",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2026/13)",
+  "number": "46383",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2026/46383",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=46383&MevzuatTertip=5",
+  "source_sha256": "ed612536e642e40098f3241b591f8b38b246e699cb886c35811a035dc0036226",
+  "source_bytes": 8638,
+  "published": "2026-11-15",
+  "gazette": "33431",
+  "in_force": "2026-11-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.11.2026); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-17",
+  "word_count": 157,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.46383-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
