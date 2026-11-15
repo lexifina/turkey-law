@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12138",
+  "decision_date": "2023-10-19",
+  "date": "2023-10-24",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği’nin 26 ncı maddesinin on altıncı fıkrası ile 04/08/2022 tarihli ve 11098 sayılı Kurul Kararı’nın uygulanmasına ilişkin ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=go6211CBMfA%3D",
+  "source_sha256": "903aa5f0bca05aa720d3bfe27c44462fd9bfc52a67748452912f8215217e2dbd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
