@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9294",
+  "decision_date": "2020-04-09",
+  "date": "2020-04-11",
+  "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Tedarik Şirketlerinin Tarife Uygulamalarına İlişkin Usul ve Esasların 3 üncü maddesinin ikinci fıkrası kapsamında vize edilen sanayi sicil belgelerinin dilekçe ekinde ibrazı için tüketicilere verilmiş ya da verilecek olan 30 günlük sürenin, sanayi sicil belgesi vize süreleri 01/03/2020 tarihi itibarıyla dolan veya 30/06/2020 tarihine kadar dolacak olan sanayi işletmeleri bakımından 90 gün olarak uygulanmasına",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Gbfo4BmmRRY%3D",
+  "source_sha256": "58596b9b28f7e21c959a32049e27d130c2eb6091e37d1e00c3c34fc7f575c3d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
