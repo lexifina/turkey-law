@@ -2,7 +2,7 @@
   "path": "regulation/tmsf/2007/26396",
   "title": "TASARRUF MEVDUATI SİGORTA FONU ALACAKLARININ TAKİP VE TAHSİLİNE İLİŞKİN ESAS VE USULLER HAKKINDA YÖNETMELİK",
   "number": "26396",
-  "issuer": "Tasarruf Mevduat? Sigorta Fonu",
+  "issuer": "Tasarruf Mevduatı Sigorta Fonu",
   "issuer_slug": "tmsf",
   "kind": "regulation",
   "instrument_type": "regulation",
@@ -22,7 +22,7 @@
   "referenced_images": 0,
   "omitted_images": 0,
   "decorative_images": 0,
-  "reproduction_basis": "Law 5846 Article 31: officially published regulations (y?netmelik).",
+  "reproduction_basis": "Law 5846 Article 31: officially published regulations (yönetmelik).",
   "consolidation_status": "Official TMSF consolidated Word text remains held for independent source verification; this record is the original Gazette text only.",
   "amending_acts": [
     {
@@ -43,18 +43,6 @@
     },
     {
       "date": "2023-03-09",
-      "label": "Publisher-listed amending Gazette; not incorporated"
-    },
-    {
-      "date": "2005-10-19",
-      "label": "Publisher-listed amending Gazette; not incorporated"
-    },
-    {
-      "date": "1953-07-21",
-      "label": "Publisher-listed amending Gazette; not incorporated"
-    },
-    {
-      "date": "2022-07-22",
       "label": "Publisher-listed amending Gazette; not incorporated"
     }
   ],
