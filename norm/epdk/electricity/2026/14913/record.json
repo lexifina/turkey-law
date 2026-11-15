@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "14913",
+  "decision_date": "2026-09-24",
+  "date": "2026-10-19",
+  "title": "27/3/2025 tarihli ve 13404 sayılı Kurul Kararı ile onaylanmış olan “Reaktif Güç Kontrolü Yan Hizmet Anlaşması\" hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gVl%2B%2BKyjo%2B8%3D",
+  "source_sha256": "8534f4e9e151e46a2bf136a3a31d678b5351a8b72deaa095d8d0f936ec926554",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
