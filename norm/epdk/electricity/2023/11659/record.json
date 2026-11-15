@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11659",
+  "decision_date": "2023-02-16",
+  "date": "2023-02-18",
+  "title": "Olağanüstü hal kararı alınan ve/veya afet bölgesi ilan edilen illerde depremden etkilendiğini belgeleyen tüketicilerden, tüm elektrik dağıtım bölgelerinde yapacakları perakende satış sözleşmesi başvurularında, olağanüstü hal süresince güvence bedeli ile kesme-bağlama bedeline ilişkin ",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QgkiZXX%2FeaU%3D",
+  "source_sha256": "30d71a32524ab6f00b8aabb07c4f23cd9d191df94cbf2ef07c00de9720be7b13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
