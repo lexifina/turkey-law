@@ -1,0 +1,34 @@
+{
+  "title": "Lukoil Eurasia Petrol A.Ş.?nin İletim Tesisi Tarifesi",
+  "decision_number": "2036/1",
+  "decision_date": "2009-03-26",
+  "gazette_date": "03.04.2009",
+  "gazette_number": "27189",
+  "text_status": "as-enacted",
+  "in_force": "2009-04-01",
+  "in_force_basis": "official document application clause: nun 26/03/2009 tarih ve 2036/1 sayılı Kararı ile 01/04/2009 tarihinden itibaren uygulanmak üzere onaylanmıştır. KAPSAM MADDE 1- Bu tarife kapsamında aşağıda yer alan petrollere il",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9CRbjnXpDB4=",
+      "sha256": "0c64e1faf84c2a64fd6bfe0d1d4b4e9bb32803ee1b5d4de395864909f2113bf8",
+      "bytes": 23552,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qwsHCy1PKMA=",
+      "title": "Ek : EPDK Onaylı İletim Tarifesi",
+      "sha256": "69266387e384dcd941f9f3a979ff8db80bffeeb00780bd8e2783efd57c01cc6c",
+      "bytes": 65024,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
