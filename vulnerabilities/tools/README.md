@@ -44,3 +44,7 @@ Changes made for this repository:
   ("liradan", "lirası"); it was run with `redo.py --keep-reviews`, which keeps every review already made and sends only the
   strong flags not yet reviewed to the model: lapsed time limits went to 4,091 (115 reviewed, the same 4 surviving) and dead
   currencies from 1,293 before the fixes to 1,604. The other categories did not change.
+- A fifth round fixed the sharded scans, which had split the acts between processes by Python's `hash()`, different in
+  each process, so that some acts were read twice and others not at all (now a stable checksum), and breaks ties on score
+  in a fixed order. A last `redo.py --keep-reviews` pass left the flags as they were and reviewed 41 more lapsed time limits
+  that tied with the 40 strongest (156 in all; 8 survived, the 4 new ones checked by hand).
