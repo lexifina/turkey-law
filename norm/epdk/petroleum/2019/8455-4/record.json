@@ -1,0 +1,34 @@
+{
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - ATAŞ İletim Hatları İletim Tarifesine ilişkin kurul kararı",
+  "decision_number": "8455-4",
+  "decision_date": "2019-02-28",
+  "gazette_date": "05.03.2019",
+  "gazette_number": "30705",
+  "text_status": "as-enacted",
+  "in_force": "2019-02-28",
+  "in_force_basis": "official EPDK decision date 28.02.2019; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6+TF0xgnsvo=",
+      "sha256": "8b9c287f85781562f5ee13153233bed68c9117e1106d7a89d0fe45a32bc289e3",
+      "bytes": 29974,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bEo3cALr9Dg=",
+      "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - ATAŞ İletim Hatları İletim Tarifesi.",
+      "sha256": "23662c24def9faa37a271288cdbe57716e4aee011be9742e4671dbabb1a377c9",
+      "bytes": 62976,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
