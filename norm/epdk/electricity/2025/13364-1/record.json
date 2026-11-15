@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13364-1",
+  "decision_date": "2025-03-13",
+  "date": "2025-03-18",
+  "title": "22/11/2018 tarihli ve 8192 sayılı Kurul Kararı ile kabul edilen “Perakende Satış Sözleşmesi”nin yürürlükten kaldırılmasına İlişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Nmo8W34gIAA%3D",
+  "source_sha256": "2655bea4412a65eadd341d8d14918d6818817d91cabb32fba480035d3af51a2b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
