@@ -1,0 +1,35 @@
+{
+  "title": "Socar Turkey Akaryakıt Depolama A.Ş. - Aliağa İletim Tesisi (Tüpraş Hattı) İletim Tarifesine ilişkin kurul kararı",
+  "decision_number": "8443-2",
+  "decision_date": "2019-02-21",
+  "gazette_date": "01.03.2019",
+  "gazette_number": "30701",
+  "text_status": "as-enacted",
+  "in_force": "2019-02-21",
+  "in_force_basis": "official EPDK decision date 21.02.2019; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LVe2WVOEPgc=",
+      "sha256": "b6f7a3716ba6d0dfa1f5ae49b5cefebe9eb71deb6d95bdd64811b63fa9fa14be",
+      "bytes": 29932,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CBT+3hzWFrI=",
+      "title": "Socar Turkey Akaryakıt Depolama A.Ş. - Aliağa İletim Tesisi (Tüpraş Hattı) İletim Tarifesi",
+      "sha256": "9d0cd3d7c3b34491dbd989f1c1992c266f66a0f06afe3a2de308c26a51ce1739",
+      "bytes": 33402,
+      "reason": "DOCX automatic list numbering needs faithful rendering",
+      "format": "docx",
+      "source_images": 0
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
