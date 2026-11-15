@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12987",
+  "decision_date": "2024-11-07",
+  "date": "2024-11-09",
+  "title": "Elektrik piyasasında faaliyet gösteren dağıtım şirketleri ve görevli tedarik şirketlerinin gelir/tarife düzenlemelerine esas parametrelerin geçerli olacağı beşinci uygulama döneminin 1/1/2026 (dâhil) - 31/12/2030 (dâhil) olarak belirlenmesine ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o%2FJVIYoYbpw%3D",
+  "source_sha256": "bb9b080d067c29db7eef2d93b7ae7f8ccaa35a179557abe933250c9c4740a9f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
