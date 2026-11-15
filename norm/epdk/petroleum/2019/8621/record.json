@@ -1,0 +1,34 @@
+{
+  "title": "Total Oil Türkiye A.Ş.’nin;  Depolama Lisansı kapsamında  Aliağa Akaryakıt Depolama ve Dolum Tesisine ilişkin",
+  "decision_number": "8621",
+  "decision_date": "2019-05-23",
+  "gazette_date": "29.05.2019",
+  "gazette_number": "30788",
+  "text_status": "as-enacted",
+  "in_force": "2019-05-23",
+  "in_force_basis": "official EPDK decision date 23.05.2019; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fvItJNCjwk0=",
+      "sha256": "09b33a6455f923d663c6ee2f6c2fc3a4974ffa3fbbec315239249913e0f3bff2",
+      "bytes": 29809,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a45zhpSG7yE=",
+      "title": "Total Oil Türkiye A.Ş. - Aliağa Akaryakıt Depolama ve Dolum Tesisi Depolama Tarifesi.",
+      "sha256": "007ff2ab9438e90b9742b8c09d940866e46395931c9139f768a16bb323eb8562",
+      "bytes": 81408,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
