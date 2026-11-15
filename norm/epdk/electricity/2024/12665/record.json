@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "12665",
+  "decision_date": "2024-05-30",
+  "date": "2024-06-01",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin 2024 yılı piyasa işletim gelir tavanın ilişkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7UjnNat%2BS1A%3D",
+  "source_sha256": "7212e795e7f28b835e63aa4d6cf642506695876549d755f657544c1489e08e10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
