@@ -1,0 +1,34 @@
+{
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; DEP/473-14/10348 sayılı depolama lisansı kapsamında Karaduvar Mahallesi - Mersin adresinde faaliyette bulunan Karaduvar Tesisine ilişkin depolama tarifesine ilişkin",
+  "decision_number": "9129-2",
+  "decision_date": "2020-01-16",
+  "gazette_date": "21.01.2020",
+  "gazette_number": "31015",
+  "text_status": "as-enacted",
+  "in_force": "2020-01-16",
+  "in_force_basis": "official EPDK decision date 16.01.2020; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rodDgEB7hEw=",
+      "sha256": "ae97dc4266b101ae33c40cbcab709fd7a22dab0c91676b52661e813684df563d",
+      "bytes": 21884,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GfjGztxWLtI=",
+      "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - Karaduvar Tesisi Depolama Tarifesi",
+      "sha256": "33c944a7b99863f2008a4c3c8c925bcf9df9652fdc3ddfbcffef340a16bbd3a5",
+      "bytes": 78848,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
