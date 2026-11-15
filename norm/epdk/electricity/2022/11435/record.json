@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11435",
+  "decision_date": "2022-12-08",
+  "date": "2022-12-13",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin 2023 yılı piyasa işletim gelir tavanı hakkında",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C1aryzOw5Ys%3D",
+  "source_sha256": "e1ae9eceb1515eb07fbe172a1c5e330a4537238ee0d3faf1305c1fd40af244fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
