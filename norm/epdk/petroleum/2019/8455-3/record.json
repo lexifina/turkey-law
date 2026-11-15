@@ -1,0 +1,34 @@
+{
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - Karaduvar Tesisi Depolama Tarifesine ilişkin kurul kararı",
+  "decision_number": "8455-3",
+  "decision_date": "2019-02-28",
+  "gazette_date": "05.03.2019",
+  "gazette_number": "30705",
+  "text_status": "as-enacted",
+  "in_force": "2019-02-28",
+  "in_force_basis": "official EPDK decision date 28.02.2019; no own commencement clause found in supplied document",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xr2+hP5VCVI=",
+      "sha256": "0cefe50d39d6f4f12dc41dcc85d41771f98676eeeecc6712337b030c58fc1cb1",
+      "bytes": 29808,
+      "format": "docx",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kN6Ta6TxEGQ=",
+      "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş. - Karaduvar Tesisi Depolama Tarifesi.",
+      "sha256": "c859d3fb1766d0cad14f5f0011a6d3bd8302f546c52a9fc039468eb0cd5e82ad",
+      "bytes": 74240,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
