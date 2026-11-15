@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "13242",
+  "decision_date": "2025-01-23",
+  "date": "2025-01-24",
+  "title": "12989 sayılı Kurul Kararının birinci maddesinde yer alan köy tüzel kişiliğine ait içme suyu temini ve dağıtımı amaçlı kullanılan tesisler” ibaresinin “köylerde içme suyu temini ve dağıtımı amaçlı kullanılan tesisler” olarak değiştirilmesine",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O7NW%2FUE02y8%3D",
+  "source_sha256": "e713a48e23f8138167f3e13effd1e50a144a3910016cd4139b4e13305c54aaac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
