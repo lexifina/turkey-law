@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9284",
+  "decision_date": "2020-04-02",
+  "date": "2020-04-04",
+  "title": "2007 yılına ait Türkiye Ortalama Elektrik Toptan Satış Fiyatının (TORETOSAF) 10,07 kr/kWh olarak belirlenmesine",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a1e31D%2FhT8w%3D",
+  "source_sha256": "737a8381ce75eabd95d262a9b995ddeb1df5e1f1bad1a98e9eaf23939e702a53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
