@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11778",
+  "decision_date": "2023-03-30",
+  "date": "2023-03-31",
+  "title": "Üreticilere ödenecek ihtiyaç fazlası elektrik enerjisi bedeli için aylık ağırlıklı ortalama piyasa takas fiyatını geçmemek üzere yüksek kademeli tarife esas alınarak uygulama yapılmasına iilşkin",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0SK2x2qQHa8%3D",
+  "source_sha256": "4e43e3c48a26e4a9e5c11c62555111eef660aabeed559f811f784990e4f3040b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
