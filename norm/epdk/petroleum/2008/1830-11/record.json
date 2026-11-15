@@ -1,0 +1,42 @@
+{
+  "title": "01/04/2009 ila 30/06/2009 tarihleri arasında bayilerden alınabilecek numuneler hakkında karar",
+  "decision_number": "1830/11",
+  "decision_date": "2008-11-06",
+  "gazette_date": "",
+  "gazette_number": "",
+  "text_status": "as-enacted",
+  "in_force": "2009-04-01",
+  "in_force_basis": "official document application clause: öre pazarlanması zorunludur.” MADDE 2- Bu Tebliğ 01/04/2009 tarihinden itibaren yürürlüğe girer. MADDE 3- Bu Tebliğ hükümlerini Enerji Piyasası Düzenleme Kurumu Başkanı yürütür. T",
+  "sources": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bWlOZwY5arU=",
+      "sha256": "4223bf34b5f2501013528c7db27896b4e3c46aabed3519cdd2bca7d1bebd0dc6",
+      "bytes": 24576,
+      "format": "doc",
+      "source_images": 0,
+      "referenced_images": 0,
+      "omitted_images": 0
+    }
+  ],
+  "annex_status": "pending verification; primary decision text published",
+  "pending_attachments": [
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S5/2fEUEFFw=",
+      "title": "Ek : Akaryakıt Seri No: 12",
+      "sha256": "d8d93eb4d5af547041bc35dc194b4024f3191ff60bc7014564817b86d0d470e6",
+      "bytes": 31232,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    },
+    {
+      "url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c214SvYKZBA=",
+      "title": "Ek : Akaryakıt Seri No: 13",
+      "sha256": "0716ea0764289c78649ff3dc06402b423ac8eef65dda4eaeb8e69a63383624f9",
+      "bytes": 31744,
+      "reason": "legacy Word annex held for independent text/numbering verification",
+      "format": "doc"
+    }
+  ],
+  "source_listing": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100-1008/son-kurul-kararlari/petrol",
+  "first_law": null
+}
