@@ -61,7 +61,7 @@ def pq(name):
 def ident(det, d):
     """the same key for a findings row and the row stored with its review"""
     return (det, d.get("path") or d.get("law") or "", str(d.get("in_force") or d.get("removed_on") or d.get("until") or ""),
-            str(d.get("ref") or ""), (d.get("context") or "").replace("\n", " ")[:80] if det == "lapsed_limit" else "",
+            str(d.get("ref") or ""), (d.get("context") or "").replace("\n", " ")[:400] if det == "lapsed_limit" else "",
             f'{d.get("old")}>{d.get("new")}' if det == "stale_amount" else
             f'{d.get("old_until")}>{d.get("new_until")}>{d.get("law")}>{(d.get("old_context") or "")[:80]}>{(d.get("new_context") or "")[:80]}'
             if det == "late_extension" else "")
@@ -115,7 +115,23 @@ def blob_url(path):
             for n in names.splitlines():
                 if n.strip():
                     _last.setdefault(n.strip(), parent)
-    return f"https://github.com/lexifina/{REPO}/blob/{_last[path]}/{path}" if _last.get(path) else ""
+    if not _last.get(path):  # deleted before the repository moved its act folders: look it up under its old folder (data/paths.json)
+        head, _, name = path.rpartition("/")
+        old = f"{OLD_FOLDER[head]}/{name}" if head in OLD_FOLDER else ""
+        return f"https://github.com/lexifina/{REPO}/blob/{_last[old]}/{old}" if old and _last.get(old) else ""
+    return f"https://github.com/lexifina/{REPO}/blob/{_last[path]}/{path}"
+
+
+def _old_folders():
+    """paths.json maps each act's old folder (its id) to its folder since the move; the detectors read today's folders"""
+    out = subprocess.run(["git", "-C", GIT, "show", f"{PIN}:data/paths.json"], capture_output=True)
+    if out.returncode:
+        return {}
+    p = json.loads(out.stdout.decode("utf-8")).get("paths", {})
+    return {v: k for k, v in p.items()} if isinstance(p, dict) else {}
+
+
+OLD_FOLDER = _old_folders()
 
 
 rows = []
@@ -158,7 +174,10 @@ for d in pq("ranked_stale_amount.parquet"):
         summary=f'{d["law"]} changed {d["old"]} to {d["new"]}; {d["old"]} still appears {d.get("n_other") or ""} time(s): {d.get("still_in") or ""}'[:400],
         score=round(d["score"] or 0, 3))
 for d in pq("ranked_dangling_ref.parquet"):
-    add("dangling_ref", d, path=d["path"], date=str(d.get("removed_on") or ""), reference=f'{d["ref"]} (removed by {d.get("removed_by") or "?"})',
+    # removed_on is empty when no law change removed the target file (the detector then names the act of its last version)
+    add("dangling_ref", d, path=d["path"], date=str(d.get("removed_on") or d.get("target_last_seen") or ""),
+        reference=f'{d["ref"]} (removed by {d.get("removed_by") or "?"})' if d.get("removed_on") else
+        f'{d["ref"]} ({moved_path(d.get("target_path") or "")}, last in the record {d.get("target_last_seen")})',
         summary=(d.get("context") or "").replace("\n", " ")[:400], score=round(d["score"] or 0, 3))
 p = os.path.join(RUN, "late_extension.jsonl")
 for d in (json.loads(l) for l in open(p, encoding="utf-8")) if os.path.exists(p) else ():

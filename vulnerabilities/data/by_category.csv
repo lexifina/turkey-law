@@ -1,9 +1,10 @@
 category,category_tr,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
-Lapsed time limits,Dolmuş süreler,4091,1854,156,11,8
-Repeal gaps,Yürürlükten kaldırma boşlukları,5,5,5,0,0
-Same-day conflicts,Aynı gün yapılan değişiklikler,10,10,10,0,0
+Lapsed time limits,Dolmuş süreler,4091,1854,210,15,12
+Repeal gaps,Yürürlükten kaldırma boşlukları,5,5,5,2,2
+Same-day conflicts,Aynı gün yapılan değişiklikler,10,10,10,1,1
 Retroactive or pre-publication dates,Yayımdan önce yürürlük,2093,0,40,0,0
 Empty periods,Boşlukta kalan dönemler,14,14,14,13,10
+References to deleted provisions,Kaldırılmış hükümlere atıflar,124,124,40,3,3
 References to repealed placeholders,“Mülga” hükümlere atıflar,1029,1029,0,0,0
 Dead fines,Dayanağı kalmamış cezalar,30,30,0,0,0
-Dead currencies,Tedavülden kalkmış para birimleri,1604,502,0,0,0
+Dead currencies,Tedavülden kalkmış para birimleri,1602,501,0,0,0

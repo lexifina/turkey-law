@@ -9,7 +9,7 @@ clone of global-law at `sources/global-law.git`, and a `pins.json` that names on
 
 | Script | What it does |
 | --- | --- |
-| `run.sh` | Indexes the history and texts, adds this repository's history rows, and runs the detectors (`bash run.sh <shards>`) |
+| `run.sh` | Indexes the history and texts, maps paths to the folders since the move (`map_moved.py`), adds this repository's history rows, and runs the detectors (`bash run.sh <shards>`) |
 | `add_root.py` | Builds the history rows from this repository's own commits (global-law replays it only up to an earlier commit), so the history detectors read every change |
 | `run_triage.sh` | The model review: the 40 strongest flags per category, the 40 strongest lapsed time limits in law texts, and the empty periods |
 | `late_ext_select.py` | Chooses the empty periods for global-law's review of that category (there were none here) |
@@ -18,7 +18,11 @@ clone of global-law at `sources/global-law.git`, and a `pins.json` that names on
 | `flags_chart.py` | Draws the chart at the top of the READMEs, in Turkish and English, light and dark |
 | `config.json` | The repository, the Turkish category names, the top-level folders that are not law, and the chart's labels |
 | `patch_detectors.py` | Fixes blind spots found in runs on several country repositories in the copy of global-law's scripts (`python -X utf8 patch_detectors.py <scripts dir>`; a fix already in place is skipped) |
-| `redo.py` | Runs `patch_detectors.py`, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder> [--keep-reviews]`; `EMBED_FONTS` names the script that embeds the chart's fonts) |
+| `patch_detectors_vi.py` | The same for Vietnamese dates, references and amounts (found by the Vietnam run); it changes nothing here, but `redo.py` runs it on every repository |
+| `patch_es.py` | The same for Spanish dates and for "marco" and "escudo" read as currencies; it changes nothing here either |
+| `map_moved.py` | Rewrites the paths in the history table to each act's folder since the move of 10 November 2026 (`data/paths.json`), so that an act's history is no longer split in two at the move; `run.sh` runs it after the history is indexed |
+| `patch_build_r7.py` | Brings a country's `build_vulns.py` up to date: lapsed-limit reviews matched on 400 characters of context, not 80, and a file deleted before the move linked under its old folder (already applied to the `build_vulns.py` here) |
+| `redo.py` | Runs the three patches, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder> [--keep-reviews] [--full]`; `--full` runs every step again through `run.sh`, `map_moved.py` among them, sends every category to the model and keeps every review already made; `EMBED_FONTS` names the script that embeds the chart's fonts) |
 | `late_ext_check.py` | Hand-check helper: for each empty period that survived the review, the lines of the extending commit's diff that hold the old or the new date, in Turkish and numeric forms, following folders renamed on 10 November 2026 |
 | `measure_missed.py` | Counts the places where "kadar", "dek" or "değin" follows a past date or year, which of them the time-limit search reads, and the forms of those it misses (the numbers in the READMEs) |
 
@@ -48,3 +52,15 @@ Changes made for this repository:
   each process, so that some acts were read twice and others not at all (now a stable checksum), and breaks ties on score
   in a fixed order. A last `redo.py --keep-reviews` pass left the flags as they were and reviewed 41 more lapsed time limits
   that tied with the 40 strongest (156 in all; 8 survived, the 4 new ones checked by hand).
+- A sixth round followed the move of act folders on 10 November 2026 (`kanun/4857` to `law/2003/4857`). Every commit
+  before the move names a file by its old folder, so the detectors, which group files by folder, saw each act's history
+  split in two: the reference scan found no current provision with a history and checked no reference to a deleted
+  provision. `map_moved.py` rewrites the history table to the new folders, and `redo.py --full` ran every step again,
+  keeping every review already made. Paths changed, so some flags had new review ids and went to the model again (it does not
+  always give the same answer): 210 lapsed time limits reviewed, 12 surviving; references to deleted provisions are a new
+  category, 124 flags, 40 reviewed, 3 surviving; the repeal gaps, same-day conflicts and empty periods were reviewed again.
+  The current `patch_detectors.py` also reads the Latvian lats only as a word (a fix found by the Czechia update), which
+  removed two dead currencies ("Teşkilati", "LATIXA"); its other new fixes change nothing here.
+- `build_vulns.py` gives a reference to a deleted provision the date its target was last in the record, and names that
+  file, where no law change removed it (the detector leaves the removal date empty and names the act of the target's last
+  version as if it had removed it).
