@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.46382",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ATILIM ÜNİVERSİTESİ ANA YÖNETMELİĞİ",
+  "number": "46382",
+  "issuer": "ATILIM ÜNİVERSİTESİ",
+  "issuer_slug": "atilim-universitesi",
+  "path": "regulation/atilim-universitesi/2026/46382",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46382&MevzuatTertip=5",
+  "source_sha256": "b820cb399de881b8fd14aac0ef614bc55a2b4025720fa1708e0d4daa59dedaf5",
+  "source_bytes": 73052,
+  "published": "2026-11-16",
+  "gazette": "33432",
+  "in_force": "2026-11-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.11.2026); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-17",
+  "word_count": 1780,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

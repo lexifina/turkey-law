@@ -1,0 +1,2 @@
+Mütevelli Heyet Başkan ve başkan vekili
+MADDE 7- (1) Mütevelli Heyet, üyeleri arasından bir Başkan ve en çok iki başkan vekili seçer. Başkan, Üniversitenin tüzel kişiliğini temsil eder. Başkan harcama yetkilisi olup bu yetkisini Mütevelli Heyetin kabul ettiği bütçe sınırları içerisinde ve yazılı olarak uygun gördüğü ölçü ve süreyle Üniversite yöneticilerine devredebilir. Başkan, bu Yönetmelik ile diğer mevzuat hükümleriyle verilen görevleri yürütür. Süresi biten Başkan ve başkan vekilleri yeniden seçilebilir.

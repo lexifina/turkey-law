@@ -1,0 +1,4 @@
+Senato
+MADDE 9- (1) Senato, Rektörün başkanlığında, rektör yardımcıları, dekanlar, her fakülteden kendi kurullarınca üç yıl için seçilecek birer öğretim üyesi ile Rektörlüğe bağlı enstitü ve yüksekokul müdürlerinden oluşur. Senato her eğitim-öğretim yılı başında ve sonunda olmak üzere en az iki kere toplanır. Rektör gerekli gördüğü hallerde Senatoyu daha sık toplantıya çağırır.
+(2) Senato, Üniversitenin akademik faaliyetleri ile ilgili konularda karar verir, Mütevelli Heyet tarafından iletilen konularda görüş bildirir. Fahri akademik ünvanlarla ilgili önerilerini Mütevelli Heyete sunar ve bu Yönetmelik ile Senatoya verilen diğer görevleri yapar. Senatonun raportörlüğünü Genel Sekreter yapar.
+(3) Üniversite yönetimine katılımı yaygınlaştırmak amacıyla Senato, uygun gördüğü öğretim elemanları, idari personel ve öğrenci temsilcilerini toplantılara davet edip görüşlerini alabilir.
