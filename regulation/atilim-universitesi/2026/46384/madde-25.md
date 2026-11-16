@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Sanatta Yeterlik Programları
+Genel esaslar
+MADDE 25- (1) Sanatta yeterlik çalışması, özgün bir sanat eserinin ortaya konulmasını, müzik ve sahne sanatlarında ise üstün bir uygulama ve yaratıcılığı amaçlayan doktora eşdeğeri bir yükseköğretim programıdır.
+(2) Sanatta yeterlik programı tezli yüksek lisans derecesi ile kabul edilmiş öğrenciler için bir eğitim-öğretim dönemi 60 AKTS’den az olmamak koşuluyla en az yedi ders, uygulamalar ile tez, sergi, proje, resital, konser, temsil gibi çalışmalar olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de en az kırk iki kredilik on dört ders, uygulamalar ile tez, sergi, proje, resital, konser, temsil gibi çalışmalar olmak üzere en az 300 AKTS kredisinden oluşur. Sanatta yeterlik programı derslerinin 4,00 üzerinden en az 3,00 genel not ortalaması ile tamamlanması gerekir.
+(3) Sanatta yeterlik programındaki öğrenciler lisans dersleri alabilirler. Yüksek lisans derecesi olan öğrenciler için bu dersler ders yüküne ve sanatta yeterlik kredisine sayılmaz. Lisans derecesi ile kabul edilmiş öğrenciler en çok iki adet lisans dersini ders yüküne ve sanatta yeterlik kredisine saydırabilir.
+(4) Lisansüstü dersler, ilgili enstitü anabilim/anasanat dalı başkanlığının önerisi ve EYK onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört ders seçilebilir.
+(5) İlgili EABD tarafından belirlenen en az ders yükünü tamamlayan öğrencinin alacağı fazla dersler genel not ortalamasına katılmaz, ancak not çizelgesinde belirtilir.

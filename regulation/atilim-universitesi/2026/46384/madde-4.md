@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) APEX (AİYS): Atılım Üniversitesi Temel İngilizce Bölümü (TİB) Yeterlik Sınavını,
+ç) Anabilim/anasanat dalı (EABD/EASD): Atılım Üniversitesi bünyesindeki enstitülerdeki anabilim/anasanat dalını,
+d) Enstitü anabilim/anasanat dalı başkanlığı: Atılım Üniversitesi bünyesindeki enstitülerin anabilim/anasanat dalı başkanlığını,
+e) Enstitü kurulu: Atılım Üniversitesine bağlı enstitülerin enstitü kurullarını,
+f) Enstitü müdürü: Atılım Üniversitesi bünyesindeki enstitülerin müdürlerini,
+g) Enstitü yönetim kurulu (EYK): Atılım Üniversitesine bağlı enstitülerin enstitü yönetim kurullarını,
+ğ) Eşdeğer diploma programı: İsimleri aynı olan veya enstitü yönetim kurulu tarafından içeriklerinin en az %80’inin aynı olduğu tespit edilen diploma programlarını,
+h) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+ı) Mütevelli Heyet: Atılım Üniversitesi Mütevelli Heyeti,
+i) Öğrenci İşleri Direktörlüğü: Atılım Üniversitesi Öğrenci İşleri Direktörlüğünü,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+k) Rektör: Atılım Üniversitesi Rektörünü,
+l) Senato: Atılım Üniversitesi Senatosunu,
+m) Üniversite: Atılım Üniversitesini,
+n) Yabancı dil sınavı: ÖSYM tarafından kabul edilen merkezi yabancı dil sınavları ya da eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarını,
+o) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

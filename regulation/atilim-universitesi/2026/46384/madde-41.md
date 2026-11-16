@@ -1,0 +1,4 @@
+İngilizce başarı düzeyi
+MADDE 41- (1) İngilizce yürütülen programlar için adaylar; Yükseköğretim Kurulu tarafından kabul edilen merkezi yabancı dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil sınavları veya ÖSYM tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından Senato tarafından belirlenen yabancı dil puanını belgelemek zorundadırlar.
+(2) Bilimsel başarı düzeyleri İngilizce yürütülen lisansüstü programlara kabul için yeterli görülen, ancak İngilizce APEX’te başarısız olan veya bu sınava girmeyen adaylar İngilizce hazırlık programına öğrenci olarak kayıt yaptırabilirler.
+(3) İngilizce hazırlık programının azami süresi iki yıldır; bu süre sonuna kadar İngilizce dil yeterliği sağlayamayan öğrencilerin kaydı EYK kararı alınarak Üniversite ile ilişiği kesilir.

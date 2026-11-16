@@ -1,0 +1,3 @@
+Sınavlar ve değerlendirme
+MADDE 34- (1) Öğrenciler ara sınav ve/veya yarıyıl içi çalışmalarından başka ayrıca yarıyıl sonu sınavına ve/veya yarıyıl sonu proje çalışması değerlendirmesine alınır. Yarıyıl sonu ders notu, ara sınavlar, yarıyıl sonu sınavı ve/veya yarıyıl sonu proje çalışması değerlendirmesi ile dönem içi çalışmaları ve derse devamı göz önünde tutularak öğretim elemanı tarafından takdir olunur.
+(2) Yarıyıl sonu sınavları, Üniversite tarafından belirlenen yer ve tarihlerde yapılır. İlgili EABD tarafından haklı ve geçerli görülen bir nedenle herhangi bir sınava giremeyen öğrenciye akademik takvimde belirtilen tarihlerde mazeret sınavı verilir.

@@ -1,0 +1,2 @@
+Ders tekrarı
+MADDE 39- (1) Bir dersten başarılı sayılabilmek için o dersten yarıyıl notu olarak yüksek lisans öğrencisinin en az (CC), doktora öğrencisinin ise (CB) notu almış olması gerekir. Öğrenciler, başarısız oldukları dersleri tekrarlamak veya seçmeli derslere ilgili EABD başkanlığı tarafından eşdeğer kabul edilen dersleri almak zorundadır. Öğrenciler, genel not ortalamalarını yükseltmek amacıyla başarılı oldukları dersleri tekrarlayabilir veya bu derslere ilgili EABD başkanlığı tarafından eşdeğer kabul edilen dersleri alabilir.

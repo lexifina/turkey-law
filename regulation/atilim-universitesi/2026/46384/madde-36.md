@@ -1,0 +1,2 @@
+Notlarda maddi hata
+MADDE 36- (1) Yarıyıl sonunda notların açıklandığı tarihten itibaren akademik takvimde belirtilen sürelerde ders notlarına ilişkin maddi hata düzeltme talebi öğrencinin başvurusu üzerine öğretim elemanı tarafından değerlendirilerek düzeltme gerekmesi durumunda ilgili EABD tarafından karara bağlanır. Maddi hatanın doğrudan öğretim elemanı tarafından tespit edilmesi durumunda düzeltme için öğrenci başvuru koşulu aranmaz. Akademik takvimde belirtilen sürelerden sonra tespit edilen hataların düzeltilmesi, ilgili EYK tarafından karara bağlanır.
