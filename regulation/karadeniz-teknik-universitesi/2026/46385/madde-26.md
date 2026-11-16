@@ -1,0 +1,3 @@
+Notlarda maddi hata
+MADDE 26- (1) Sınav notlarına ilişkin maddi hata bulunduğu iddiasıyla yapılacak başvurular, notların ilan edildiği tarihten itibaren üç iş günü içinde yapılır. Başvurular ilgili akademik birim tarafından yedi gün içinde sonuçlandırılır. Başvuru sonucu notlarda değişiklik olması veya öğretim elemanı tarafından yapılacak not düzeltme işlemlerinde, değişiklik veya düzeltmelere ilişkin belgeler eklenir. Harf notunun kesinleşmesinden sonraki düzeltmeler ilgili birim yönetim kurulunun kararı ile yapılır.
+(2) Sınav değerlendirmelerine ve harf notlarına ilişkin itiraz ve düzeltme başvuruları öğrencinin kayıtlı olduğu ilgili bölüm başkanlığına yapılır.

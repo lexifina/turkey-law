@@ -1,0 +1,5 @@
+Sınavın geçerliliği ve sınav düzeni
+MADDE 23- (1) Öğrenciler sınavlara, ilan edilen yer, tarih ve saatte girmek zorundadır. Bu şartlara uymayan öğrencilerin sınavları geçersiz sayılır. Girmeye hak kazanmadığı bir sınava katıldığı sonradan tespit edilen öğrencinin aldığı not, ilan edilmiş olsa dahi iptal edilir.
+(2) Her türlü sınav, uygulama, laboratuvar, atölye, ödev, proje ve benzeri akademik çalışmalarda kopya çeken, intihal yapan, bunlara teşebbüs eden, yardım eden veya sonradan yapılan inceleme sonucunda bu fiilleri gerçekleştirdiği tespit edilen öğrenci, ilgili değerlendirmeden sıfır (0) puan almış sayılır.
+(3) Sınavın düzenini bozan veya ilgili kurul tarafından ilan edilen sınav kurallarına uymayan öğrenciler hakkında tutanak düzenlenir ve öğrenci sınav salonundan çıkarılır. Bu öğrenciler ilgili sınavdan sıfır (0) puan almış sayılır.
+(4) Bir veya iki yarıyıl süreyle yükseköğretim kurumundan uzaklaştırma cezası alan öğrenciler, ceza süresi içinde ara sınav, mazeret sınavı, yarıyıl sonu, bütünleme, mezuniyet ve ek sınavlara katılamazlar.

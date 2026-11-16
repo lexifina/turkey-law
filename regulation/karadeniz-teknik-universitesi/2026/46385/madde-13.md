@@ -1,0 +1,3 @@
+Çift ana dal ve yan dal programları
+MADDE 13- (1) Lisans programına kayıtlı öğrenciler başka bir lisans veya ön lisans programında; ön lisans programına kayıtlı öğrenciler ise başka bir ön lisans programında çift ana dal yapabilir. Çift ana dal programlarına ait usul ve esaslar ilgili mevzuat hükümleri doğrultusunda Senato tarafından belirlenir.
+(2) Bir bölümün öğrencilerine, kayıtlı oldukları programa ek olarak bir yan dal programına kayıt hakkı tanınabilir. Yan dal programı ayrı bir diploma programı niteliğinde değildir. Yan dal programlarına ait usul ve esaslar ilgili mevzuat hükümleri doğrultusunda Senato tarafından belirlenir.

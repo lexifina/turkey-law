@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 40- (1) 7/10/2017 tarihli ve 30203 sayılı Resmî Gazete’de yayımlanan Karadeniz Teknik Üniversitesi Önlisans ve Lisans Eğitim-Öğretim Yönetmeliği ile 11/10/2012 tarihli ve 28438 sayılı Resmî Gazete’de yayımlanan Karadeniz Teknik Üniversitesi Sağlık Bilimleri Fakültesi Lisans Eğitim-Öğretim Sınav Değerlendirme ve Öğrenci İşleri Yönetmeliği yürürlükten kaldırılmıştır.

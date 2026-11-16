@@ -1,0 +1,3 @@
+Not ortalaması
+MADDE 27- (1) Öğrencilerin başarı durumu her yarıyıl sonunda Öğrenci İşleri Daire Başkanlığı tarafından hesaplanır. Yarıyıl ağırlıklı not ortalaması; öğrencinin aldığı derslerin kredi değerleri ile başarı notu katsayılarının çarpımlarının toplamının, alınan derslerin toplam kredi değerine bölünmesi suretiyle hesaplanır. Ortalamalar virgülden sonra iki basamak olarak gösterilir.
+(2) Genel ağırlıklı not ortalaması, öğrencinin programa kayıt tarihinden itibaren aldığı ve programına sayılan tüm dersler dikkate alınarak hesaplanır. Tekrar edilen derslerde en son alınan harf notu esas alınır.

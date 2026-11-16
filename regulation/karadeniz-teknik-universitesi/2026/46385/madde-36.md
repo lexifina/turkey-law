@@ -1,0 +1,9 @@
+Öğrenci değişimi
+MADDE 36- (1) Öğrenciler, Üniversite ile yurt içindeki veya yurt dışındaki diğer yükseköğretim kurumları arasında yapılan anlaşmalar kapsamında, ilgili yükseköğretim kurumlarında bir veya iki yarıyıl öğrenim görebilirler. Öğrenciler, normal öğrenim sürelerinin ilk iki yarıyılında öğrenci değişim programlarından yararlanamazlar.
+(2) Öğrencilerin değişim kapsamında gidecekleri yükseköğretim kurumlarında alacakları ders, uygulama, staj ve benzeri eğitim-öğretim faaliyetlerinin, kendi öğretim programlarındaki ders, uygulama, staj ve benzeri faaliyetlere eşdeğerliği; ilgili uyum komisyonu ve bölüm başkanlığının önerisi üzerine ilgili birim yönetim kurulu kararıyla önceden belirlenir.
+(3) Öğrenciler, değişim programı kapsamında başka bir yükseköğretim kurumunda bulundukları süre boyunca akademik takvimde belirtilen süreler içinde kendi Üniversitelerine kayıtlarını yenilemek ve varsa katkı payı veya öğrenim ücretlerini ödemek zorundadır.
+(4) Öğrencilerin değişim programı kapsamında aldıkları derslere ilişkin başarı notları, 24 üncü madde hükümleri dikkate alınarak ilgili birim yönetim kurulu kararıyla dönüştürülür ve öğrencinin not döküm belgesinde kendi öğretim programındaki eşdeğer dersler karşılığında gösterilir.
+(5) Öğrencinin değişim programı kapsamında aldığı ve başarısız olduğu derslere karşılık gelen kendi öğretim programındaki eşdeğer derslerden de başarısız olduğu kabul edilir.
+(6) Öğrencinin değişim programı kapsamında başka bir yükseköğretim kurumunda geçirdiği süreler öğrenim süresinden sayılır.
+(7) Karşılıklı öğrenci değişimi kapsamında Üniversiteye gelen öğrenciler hakkında, Üniversitede bulundukları süre içinde bu Yönetmelik hükümleri uygulanır. Bu öğrencilerin aldıkları derslere ilişkin not döküm belgeleri düzenlenir.
+(8) Öğrenci değişim programlarında uygulanacak usul ve esaslar Senato tarafından belirlenir.

@@ -1,0 +1,4 @@
+Öğrenci statüleri ve yabancı dil eğitimi
+MADDE 8- (1) Üniversitede tam zamanlı öğrencilik esastır. Ancak ilgili kurullar tarafından uygun görülmesi halinde, bazı dersler, uzaktan öğretim yöntemiyle yürütülebilir. Uzaktan eğitim faaliyetleri, ilgili mevzuat ve Senato tarafından belirlenen usul ve esaslara göre gerçekleştirilir.
+(2) Üniversite öğrencilerinin diğer yükseköğretim kurumlarından, diğer yükseköğretim kurumu öğrencilerinin ise Üniversite programlarından özel öğrenci statüsünde ders almalarına ilgili birim yönetim kurulunun önerisi ve Üniversite Yönetim Kurulu kararıyla izin verilebilir. Özel öğrencilere ilişkin usul ve esaslar Senato tarafından belirlenir.
+(3) Üniversitede yürütülen zorunlu ve isteğe bağlı yabancı dil eğitimleri, ilgili mevzuat hükümleri ile Senato kararları doğrultusunda yürütülür.

@@ -1,0 +1,2 @@
+Derslerin gruplara bölünmesi
+MADDE 15- (1) İlgili yönetim kurulunun kararıyla, teorik derslerde gruplardaki öğrenci sayısı 40'tan, uygulamalı derslerde ise 20’den az olmamak üzere bir ders için birden fazla grup oluşturulabilir. Ancak uygulama, laboratuvar, arazi çalışması, saha uygulaması, proje, bitirme çalışması, öğrenci değişim programları kapsamında açılan yabancı dil içerikli dersler ve benzeri özel durumlarda öğrenci sayısı bölüm kurulunun görüşü alınarak ilgili birim yönetim kurulunca belirlenir.
