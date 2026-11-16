@@ -6,16 +6,16 @@
 <text x="769.4" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#93a69b">28 Eki 2026 tarihine kadar</text>
 <text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e9f2ec">Türkiye hukuku, git geçmişi olarak</text>
 <rect x="28" y="70" width="824" height="72" rx="8" fill="#141c18"/>
-<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1.013</text>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1.078</text>
 <text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">mevzuat metni</text>
 <line x1="157.5" y1="86" x2="157.5" y2="126" stroke="#26332c"/>
-<text x="173.5" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">2.361</text>
+<text x="173.5" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">2.432</text>
 <text x="173.5" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">değişiklik, commit olarak</text>
 <line x1="352.8" y1="86" x2="352.8" y2="126" stroke="#26332c"/>
-<text x="368.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">39.848</text>
+<text x="368.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">46.482</text>
 <text x="368.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">hüküm dosyası</text>
 <line x1="486.8" y1="86" x2="486.8" y2="126" stroke="#26332c"/>
-<text x="502.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">684</text>
+<text x="502.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">752</text>
 <text x="502.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">yazar: mevzuat ve yayımcı</text>
 <line x1="679.6" y1="86" x2="679.6" y2="126" stroke="#26332c"/>
 <text x="695.6" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1947–2026</text>
@@ -81,7 +81,7 @@
 <rect x="815.80" y="343.6" width="8.50" height="2.4" rx="1.5" fill="url(#yg-dark)"><title>2025: yürürlüğe giren değişiklik: 14</title></rect>
 <rect x="825.10" y="216.1" width="8.50" height="129.9" rx="1.5" fill="url(#yg-dark)"><title>2026: yürürlüğe giren değişiklik: 753</title></rect>
 <text x="829.4" y="208.1" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#e9f2ec">2026 yılında 753</text>
-<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">Yürürlük gününe göre tarihlenen değişiklik: 2.361.</text>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">Yürürlük gününe göre tarihlenen değişiklik: 2.432.</text>
 <rect x="28" y="412" width="824" height="197" rx="8" fill="#141c18"/>
 <text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Eksiksizlik, resmî kaynaklara göre denetlendi (12 Kas 2026)</text>
 <text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Anayasa</text>
