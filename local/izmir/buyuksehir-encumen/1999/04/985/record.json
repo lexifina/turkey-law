@@ -9,7 +9,7 @@
   "source_sha256": "f050e861384bca38b108a1ef2c6456d8b43c5054ae42fe6f62431b65e10e328d",
   "issuer": "İzmir Büyükşehir Belediye Encümeni",
   "history_type": "metadata",
-  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "text_status": "metadata-only: the published decision summary names a specific address or person; official link only",
   "in_force": "1999-04-20",
   "in_force_basis": "Decision date as printed in the official council listing: 20/04/1999; adoption date of the council decision; legal commencement not asserted",
   "missing": [
@@ -17,6 +17,6 @@
     "official annexes"
   ],
   "law_text_complete": false,
-  "privacy_withheld": false,
+  "privacy_withheld": true,
   "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
 }
