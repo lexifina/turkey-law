@@ -9,7 +9,7 @@
   "source_sha256": "ad9ef5c79cd3699fcbbae85c1cc88d7de8d2e6736a06155cfed97176e77ed883",
   "issuer": "İzmir Büyükşehir Belediyesi UKOME",
   "history_type": "metadata",
-  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "text_status": "metadata-only: the published decision summary names private persons, a private address or a vehicle plate; official link only",
   "in_force": "2022-03-09",
   "in_force_basis": "Decision date as printed in the official council listing: 9/03/2022; adoption date of the council decision; legal commencement not asserted",
   "missing": [
@@ -17,7 +17,7 @@
     "official annexes"
   ],
   "law_text_complete": false,
-  "privacy_withheld": false,
+  "privacy_withheld": true,
   "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
   "register_id": 11586,
   "file_name": "2022.163.pdf",

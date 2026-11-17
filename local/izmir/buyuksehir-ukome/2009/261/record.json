@@ -9,7 +9,7 @@
   "source_sha256": "1c158f5c30657425d9bf9b86d06e4fb309c7c1e190cf9b4ec9f110f7f89f66ff",
   "issuer": "İzmir Büyükşehir Belediyesi UKOME",
   "history_type": "metadata",
-  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "text_status": "metadata-only: the published decision summary names private persons, a private address or a vehicle plate; official link only",
   "in_force": "2009-10-14",
   "in_force_basis": "Decision date as printed in the official council listing: 14/10/2009; adoption date of the council decision; legal commencement not asserted",
   "missing": [
@@ -17,7 +17,7 @@
     "official annexes"
   ],
   "law_text_complete": false,
-  "privacy_withheld": false,
+  "privacy_withheld": true,
   "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
   "register_id": 3271,
   "file_name": "2009.261.DOC",
